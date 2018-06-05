@@ -29,926 +29,926 @@ ms.locfileid: "19555974"
 ## <a name="version-1611-december-13"></a>版本 1611年： 年 12 月 13 日
 *版本 1611 （組建 7571.2075）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性佈告欄[MS16 148](https://technet.microsoft.com/library/security/ms16-148)： Microsoft Office (3204068) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 148](https://technet.microsoft.com/library/security/ms16-148)： Microsoft Office (3204068) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
 
 ## <a name="version-1611-december-6"></a>版本 1611年： 年 12 月 6 日
 *版本 1611 （組建 7571.2072）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **對應圖表：** 比較的值並顯示不同地理區域的類別。 [更多資訊](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
--   **SVG 圖像：** 插入及編輯活頁簿中的可調整的向量圖形 (SVG)。 [更多資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：** 使用標準文件庫的可擴充的向量圖形 (SVG) 檔案移至插入圖示\>圖例\>圖示。 [更多資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **儲存至最新的資料夾：** 使用 [最近] 索引標籤當您移至 [檔案儲存至最近使用過資料夾的活頁簿\>另存新檔。
--   **協助工具功能改良：** 使用鍵盤、 [朗讀程式] 和其他輔助技術，閱讀並編輯活頁簿的改良的支援。 [更多資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **地圖圖表：** 比較數值及顯示跨地理區域的類別。 [詳細資訊](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+-   **SVG 影像：** 插入並編輯活頁簿內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存活頁簿至最近使用的資料夾。
+-   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯活頁簿的支援已獲改善。 [詳細資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中包含串連公式的超連結會略過串連結果的一部分。
--   修正問題貼上 Excel 表格 rtf 格式 (RTF) word 不出保留表格格式。
--   修正問題其中使用者無法另存新檔時執行活頁簿包含在 MS Excel 4.0 巨集表。
--   請 CTRL + ALT + 5 移動選取項目來比對其他應用程式的物件層級的捷徑。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：包含 concatenate 公式的超連結會忽略部分 concatenate 結果。
+-   修正此問題：將 RTF 格式內的 Excel 表格貼到 Word 時，不會保留表格格式。
+-   修正此問題：當活頁簿包含 MS Excel 4.0 巨集工作表時，使用者無法另存新檔。
+-   請將 CTRL+ALT+5 設為移動選取範圍至物件圖層的快速鍵，以便與其他應用程式相符。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **SVG 圖像：** 插入及編輯電子郵件中的可調整的向量圖形 (SVG)。 [更多資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：** 使用標準文件庫的可擴充的向量圖形 (SVG) 檔案移至插入圖示\>圖例\>圖示。  [更多資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **點選：** 尋找並重複使用您的組織相關文件的內容。 [更多資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **SVG 影像：** 插入並編輯電子郵件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **點選：** 尋找並重複使用您組織的相關文件內容。 [詳細資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **SVG 圖像：** 插入及編輯簡報中的可調整的向量圖形 (SVG)。 [更多資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：** 使用標準文件庫的可擴充的向量圖形 (SVG) 檔案移至插入圖示\>圖例\>圖示。 [更多資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **即時輸入時的共同撰寫：** 請參閱其中其他人所運作中的呈現方式和檢視變更為他們輸入。 [更多資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
--   **儲存至最新的資料夾：** 使用 [最近] 索引標籤當您移至 [檔案儲存至最近使用過資料夾的簡報 （英文）\>另存新檔。
--   **建立精確筆跡的圖形：** 拖曳線段橡皮擦移除寬幅個位元墨色、 從右至最接近的行。
--   **選取及操作物件與畫筆：** 使用數位畫筆移動、 調整或旋轉物件使用其控點，或使用套索選取筆跡支援的畫筆按鈕。
--   **協助工具功能改良：** 使用鍵盤、 [朗讀程式] 和其他輔助技術，閱讀並編輯簡報的改良的支援。 [更多資訊](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **即時輸入時的共同撰寫：** 請參閱其中其他人所運作中的呈現方式和檢視變更為他們輸入。[更多資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
+-   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
+-   **使用畫筆來選取並操作物件︰** 使用數位畫筆來移動、調整大小或旋轉物件，使用它們的控點，或使用套索工具筆跡支援的畫筆按鈕。
+-   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯簡報的支援已獲改善。 [詳細資訊](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   與可擴充的向量圖形 (SVG) 圖像複製到 Adobe Illustrator 修正問題。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：從 Adobe Illustrator 複製可縮放向量圖形 (SVG) 影像時，會發生問題。
 
-### <a name="project-feature-updates"></a>專案： 功能更新
--   **時間表標籤：** 使用標籤來授與描述性名稱區分時間表長條圖。
--   **時間表進度指標：** 使用] 核取記號並彩色進度列顯示最以及 [時間表] 檢視中的每一項工作。
--   **協助工具功能改良：** 使用鍵盤、 [朗讀程式] 和其他輔助技術，閱讀並編輯專案的改良的支援。
+### <a name="project-feature-updates"></a>Project：功能更新
+-   **時間表標籤：** 透過標籤以使用描述性名稱命名，以便區分各個時間表列。
+-   **時間表進度指示器︰** 在時間表檢視上使用核取記號及彩色進度列，進而顯示您在各項工作上已花費多少時間。
+-   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯專案的支援已獲改善。
 
-### <a name="project-non-security-updates"></a>專案： 的非安全性更新
--   修正問題其中甘特圖長條不大小 175%顯示在高 DPI 畫面上的正確。
--   修正問題其中使用者透過 [任務資訊] 對話方塊設定延遲時間，如果它不正確地設為 24 小時制的工期。
--   修正問題其中時開啟特定的 XML 檔案的任務開始日期未正確設定因為工作分派有問題。
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+-   修正此問題：在高 DPI 螢幕上使用 175% 顯示時，甘特圖長條調整大小不正確。
+-   修正此問題：在使用者透過「工作資訊」對話方塊設定延隔時間時，系統會錯誤地設定成 24 小時制工期。
+-   修正此問題：在開啟特定 XML 檔案時，由於指派的問題所致，工作開始日期位置無法正確設定。
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business： 更新的功能
+### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 
--   **更新至 「 共用 」 的 UI：** 變更"存在"至 「 共用 」 在 UI 元素方面，例如變更"存在桌面""[共用] 畫面中"及"存在程式"到"共用視窗"。
--   **停用 「 我的號碼 」：** 若要停用"My number"下撥號鍵台使用 DisableDisplayMyNumber 登錄項目。
+-   **更新「共用」的 UI：** 在 UI 項目中，將「展示」變更為「共用」，例如：將「展示桌面」變更為「共用畫面」，以及將「展示程式」變更為「共用視窗」。
+-   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題當使用者按一下 [音訊通話虛擬桌面基礎結構 (VDI) 環境中的 [控制項] 按鈕上時不會出現的音訊控制台中的位置。
--   修正問題時使用者正在執行 Windows 7 和先、 共用的主要監視器，然後再切換共用第二個監視器的檢視器看到螢幕變黑的位置。
--   修正問題其中某些特殊字元，例如連字號 (&)、 無法輸入搜尋輸入的方塊或"今天有什麼新鮮事？ 」 區段] 方塊中。
--   修正的問題時有不顯示未讀取的數目的位置未接的 Im 離線。
--   其中 「 電子郵件邀請"範本提及 Lync，而不是 Skype 修正問題。
--   修正問題所在的行號遺漏撥號鍵台下方的"My Number"區域。
--   將滑鼠指標不所示在 IM 輸入區域在聊天室中傳送一則訊息之後修正問題。
--   修正問題時登入 Skype for Business 停止回應和有問題載入快取集區。
--   修正問題時登入和還原交談 for Business Skype 損毀。
--   修正問題時登入後繼續 for Business Skype 停止回應。
--   會議連結已停用如果在這兩個組織的 Exchange 伺服器已停用 TNEF 修正問題。
--   修正問題其中視訊通話無法重新移只有一個 IM 交談時。
--   白板上的文字註釋出都會遺失時為 PNG 檔案儲存在白板修正問題。
--   修正問題時輸入超過並列文字日文 IM 視窗中的第一行隱藏的位置。
--   修正問題其中 & 字元 (&) 不正確地以此名稱中有底線。
--   在排定的會議中的 「 加入線上會議 」 url 修正問題。
--   修正問題其中滑鼠停留在視窗不會啟動視窗即使作業系統設定若要這樣做。
--   修正問題其中傳出電話交談歷程記錄項目顯示來電者，而不是呼叫方。
--   修正問題之 F12 不會在本機上儲存交談。
--   其中的未接的交談電子郵件不包含初始 IM 修正問題。
--   其中 emoji 可以新增 IM 文字區域即使簡報者已停用 IM 參與修正問題。
--   使用 [鈴聲與音效] 選項] 對話方塊上的版面配置修正問題。
--   修正問題時關閉 [交談] 視窗的商務 Skype 損毀。
--   修正問題時網域註冊為虛名網域的 DNS 較不登入失敗時。
--   修正問題常設聊天室通知設定其不進行另存成或載入正確。
--   修正其中現有的對等交談視窗或聊天室不顯示即使並重新開啟交談設定登入之後發生問題。
--   修正問題靜音或解除靜音作用中的交談會使其他交談視窗中看起來像擁有未讀取的郵件。
--   修正設定媒體旁路的使用者是無法繼續來自 PSTN 閘道的通話他們將該來電放入保留之後所發生問題。
--   其中使用者會看到藍色方塊，而不是影片透過加入會議時更新 URL 時使用的第 3 協力廠商的 RDP 實作修正問題。
--   修正問題的 SIP 位址的使用者部分，而不吐司警示中的顯示名稱的顯示位置。
--   修正的問題，當 Skype for Business 連線至 SIP 伺服器連接埠 443 上與 proxy 伺服器 is present、 有大幅延遲登入程序中如果 proxy 不允許這類連線。 修正啟用新增下 HKEY EnableDetectProxyForAllConnections DWORD 登錄項目\_目前\_使用者\\軟體\\Microsoft\\UCCPlatform\\Lync，並將值設定為 1。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：在虛擬桌面基礎結構 (VDI) 環境內，當使用者在進行語音通話時按一下 [音訊控制項]面板但並未出現。
+-   修正此問題：在使用者執行 Windows 7 時，首先共用了主要顯示器，接著切換為共用第二個顯示器，而檢視者看到黑色畫面。
+-   修正此問題：在搜尋輸入方塊或「今日新鮮事？」區段方塊中，無法輸入特定符號 (例如：& 符號)。
+-   修正此問題：當有未讀離線 IM 時，未讀計數不會顯示。
+-   修正此問題：「以電子郵件邀請」範本提及了 Lync，而非 Skype。
+-   修正此問題：在撥號鍵台下方的「我的號碼」區域內，缺少 LINE 號碼。
+-   修正此問題：在聊天過程中，傳送訊息後滑鼠指標不會在 IM 輸入區域中顯示。
+-   修正此問題：在登入商務用 Skype 時，當載入快取集區發生問題的時候，出現當機情況。
+-   修正此問題：在登入商務用 Skype 並還原交談時當機。
+-   修正此問題：在恢復後，登入商務用 Skype 時當機。
+-   修正此問題：在雙方組織內的 Exchange Server 皆已停用 TNEF 的情況下，會議連結遭到停用。
+-   修正此問題：若僅有一個進行中的 IM 交談，視訊通話無法重新啟動。
+-   修正此問題：將白板內容儲存為 PNG 檔案時，白板上的文字注釋會消失。
+-   修正此問題：在 IM 視窗中輸入兩行以上的日文字時，第一行會消失。
+-   修正此問題：名稱中的 & 符號字元會錯誤地由底線字元所取代。
+-   修正此問題：在已排程會議中的「加入線上會議」URL 所發生的問題。
+-   修正此問題：即使已在作業系統內設定「將滑鼠暫留在視窗上方以啟動視窗」，仍然無法啟動視窗。
+-   修正此問題：撥出電話交談歷程記錄項目中，顯示了來電者而非受話者。
+-   修正此問題：按 F12 時無法將交談儲存在本機。
+-   修正此問題：遺漏的交談電子郵件並未包含初始 IM。
+-   修正此問題：即使簡報者已停用 IM 參與功能，仍可在 IM 文字區域新增 Emoji。
+-   修正此問題：[鈴聲] 和 [聲音選項] 對話方塊的版面配置。
+-   修正此問題：在關閉交談視窗時，商務用 Skype 發生當機情況。
+-   修正此問題：當網域註冊為虛名網域時，無 DNS 的登入會失敗。
+-   修正此問題：不會正確地儲存/載入常設聊天室通知設定。
+-   修正此問題：即使已設置重新開啟交談的設定，在登入後，現有的端對端交談視窗或聊天室不會出現。
+-   修正此問題：將作用中的交談靜音或取消靜音時，若其他交談視窗有未讀訊息，會使這些視窗顯示於畫面中。
+-   修正此問題：已設定為略過媒體的使用者，在保留通話之後，無法透過 PSTN 閘道繼續通話。
+-   修正此問題：在使用協力廠商的 RDP 實作時，當使用者透過 URL 加入會議時，會看到藍色方塊而不是影像。
+-   修正此問題：SIP 位址的使用者部份會顯示，而非顯示快顯警示中的顯示名稱。
+-   修正此問題：當商務用 Skype 透過連接埠 443 與 SIP 伺服器連線，且 Proxy 伺服器已存在時，如果 Proxy 不允許這些連線，則登入程序中會發生嚴重的延遲。透過在 HKEY\_CURRENT\_USER\\Software\\Microsoft\\UCCPlatform\\Lync 下新增 EnableDetectProxyForAllConnections DWORD 登錄項目，並將值設為 1，可啟用修正程式。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **SVG 圖像：** 插入及編輯文件中的可調整的向量圖形 (SVG)。 [更多資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：** 使用標準文件庫的可擴充的向量圖形 (SVG) 檔案移至插入圖示\>圖例\>圖示。  [更多資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **儲存至最新的資料夾：** 使用 [最近] 索引標籤當您移至 [檔案儲存至最近使用過資料夾的文件\>另存新檔。
--   **改善讀取學習工具：** 在閱讀模式強化讀取技巧來調整間距的文字中的新命令，顯示音節、 間的分隔符號反白顯示每個 word 文件作為是助讀程式及。 [更多資訊](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
--   **協助工具功能改良：** 使用鍵盤、 [朗讀程式] 和其他輔助技術，讀取及編輯文件的改良的支援。 [更多資訊](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
--   **點選：** 尋找並重複使用您的組織相關文件的內容。 [更多資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **SVG 影像：** 插入並編輯文件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存文件至最近使用的資料夾。
+-   **透過學習工具來改善閱讀：** 在閱讀模式中，透過調整字距、顯示音節之間的停頓，以及在大聲朗讀文件時，反白顯示每個字的新命令來提升閱讀技巧。 [詳細資訊](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
+-   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯文件的支援已獲改善。 [詳細資訊](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
+-   **點選：** 尋找並重複使用您組織的相關文件內容。 [詳細資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正的問題有著色的筆劃其中兩個或三個筆劃後消失。
--   以引號消失時使用 Google 輸入法 (IME) 修正問題。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：在繪製兩到三條筆跡線條後，發生線條消失的情況。
+-   修正此問題：使用 Google 輸入法 (IME) 時，發生引號消失的情況。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題的可能會造成停止運作或不正確地顯示 frames 疊置順序的 VBA 表單。
--   修正問題其中 trigged System Center Configuration Manager 更新 UpdateChannel 設定變更登錄中為某個項目不是有效的更新通道。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
+-   修正此問題：由 System Center Configuration Manager 觸發的更新會將登錄中的 UpdateChannel 設定變更成某個無效的更新通道。
 
 
 
 ## <a name="version-1610-november-10"></a>版本 1610年： 年 11 月 10 日
 *版本 1610 （組建 7466.2038）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **筆跡重新顯示：** 移至 [繪製\>筆跡重新顯示重新顯示手寫正向和回溯隱藏及顯示的內容，提供逐步指示，或更容易理解的其他人的想法流程。 [更多資訊](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **CSV (utf-8) 支援：** 開啟並使用 utf-8 字元編碼的 CSV 檔案的儲存位置。
--   **資料轉換和連線的增強功能：** 選取要匯入相關的資料表時載入資料的 OData 來源新增自訂欄值來自函數計算，或顯示查詢使用的專用的檢視之間的相依性。
--   **與我共用：** 查看其他人已移至 [檔案共用與您的文件\>開啟\>共用與我]。 [更多資訊](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **筆跡重播：** 移至 [繪圖] \> [筆跡重播]，可往前和往後重播手寫來隱藏和顯示內容、提供逐步指示，或進一步了解他人想法的流程。 [詳細資訊](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **CSV (UTF-8) 支援︰** 開啟和儲存使用 UTF-8 字元編碼的 CSV 檔案。
+-   **資料轉換與連線能力增強功能︰** 選取此選項後，您可以在從 OData 來源載入資料時匯入相關表格、透過函數計算的值新增自訂欄，或使用專用檢視顯示查詢之間的相依性。
+-   **與我共用的項目：** 移至 [檔案] \> [開啟] \> [與我共用的項目]，查看其他人與您共用的文件。 [詳細資訊](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正的問題，當公式列中輸入及使用下拉式清單中，例如按 Enter 以完成該公式 VLOOKUP 函數選取最上層項目，而不是離開所輸入的值為 [自動] 下拉式清單-是。
--   修正問題其中開啟 Excel 97-Excel 2003 二進位檔案格式 (BIFF8) 檔，包含受保護工作表中的超連結會使 Excel 認為該檔案已損毀和 Excel 會嘗試修復或移除無法讀取的內容。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：如果在資料編輯列輸入資料及透過下拉式清單使用函數，如 VLOOKUP，按下 Enter 鍵以完成公式時，會選取自動完成下拉式清單最上方的項目，而不是保留輸入值的原狀。
+-   修正此問題：開啟 Excel 97 - Excel 2003 二進位檔案格式 (BIFF8) 的檔案時，若在其受保護的工作表中包含超連結，則 Excel 會認定該檔案損毀，而且 Excel 會嘗試修復或移除無法讀取的內容。
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   修正問題其中使用者不能刪除自訂頁面範本。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：使用者無法刪除自訂頁面範本。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **的摘要卡旅行社預定和套件：** 確認及追蹤差旅預定為套件傳遞，使用自動建立在 [收件匣] 和 [行事曆的摘要卡。 [更多資訊](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
--   **編輯器：** 提供進階、 關聯式校訂以協助提升的撰寫。 [更多資訊](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **差旅預定以及封裝的摘要卡片︰** 使用在 [收件匣] 和 [行事曆] 中自動建立的摘要卡片，確認並追蹤差旅預定及封裝傳遞。 [詳細資訊](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
+-   **Editor：** 提供進階與關聯式校訂，以協助改善書寫內容。 [詳細資訊](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題 Rtf 格式 (RTF) 電子郵件訊息其中無法開啟由收件者若使用資訊版權管理傳送郵件。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：如果郵件是使用資訊版權管理送出，收件者無法開啟 RTF 格式的電子郵件訊息。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **區段複製：** 複製並貼上各節之間的簡報。
--   **與我共用：** 查看其他人已移至 [檔案共用與您的文件\>開啟\>共用與我]。 [更多資訊](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **複製區段︰** 複製並貼上簡報間的區段。
+-   **與我共用的項目：** 移至 [檔案] \> [開啟] \> [與我共用的項目]，查看其他人與您共用的文件。 [詳細資訊](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   其中時使用的分頁的交談，按兩下 [] 索引標籤上，並啟動輸入有時會導致將焦點移至不同的索引標籤，並繼續在該交談] 視窗中輸入修正問題。
--   其中 Url 立即訊息中包含無法選取 [聊天歷程記錄] 視窗中使用鍵盤修正問題。
--   如果播放音效時檢視 IM 交談和某人輸入 」] 核取方塊已選取鈴聲與音效] 選項下其中聽到輸入聲音修正問題。
--   其中出現的對話方塊不使用螢幕助讀程式，例如 [朗讀程式] 時宣告該名修正問題。
--   修正問題其中第一個執行教學課程不能使用鍵盤導覽而無法讀取的螢幕助讀程式，例如 [朗讀程式]。
--   修正問題不會在高 DPI 設定向外工作列上顯示狀態圖示。
--   其中搜尋方塊中的 [清除欄位] 按鈕無法使用鍵盤選取修正問題。
--   修正問題其中使用者無法啟動會議邀請時從另一個集區中的使用者。
--   修正的問題本身新增至會議的使用者不正確地顯示以不同的使用者。
--   修正問題位置上的狀態變更通知的連絡人的顯示狀態圖示隱藏的來電轉接的主管。
--   修正問題不符 IM 視窗中的文字游標閃爍速率鍵盤屬性在 Windows 中設定。
--   修正問題其中螢幕助讀程式發佈群組交談不正確的連絡人名稱。
--   其中使用者無法使用鍵盤選取多名連絡人修正問題。
--   其中使用者相片無法加以擷取自 Exchange 修正問題。
--   修正問題其中 Skype 商務用戶端連線到 Skype Business server 在內部網路，而不是一個外部網路上時使用的直接存取使用者連線。
--   修正問題嘗試解析會議擁有者的名稱時 Skype 商務用戶端損毀。
--   其中變更設定時 for Business Skype 啟動或關閉 Windows 會導致 Skype 損毀的企業版 fix 發生問題。
--   修正問題時開啟常設聊天室中的參與者清單並嘗試移動鍵盤焦點放到參與者清單 for Business Skype 損毀。
--   修正其中 for Business Skype 上繼續當發生不未提供任何網路問題。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：如果使用分頁對話，在分頁上連按兩下並開始輸入文字時，有時候可能會造成焦點移至不同的分頁，然後繼續在該對話視窗中輸入文字。
+-   修正此問題：使用鍵盤時，無法在聊天記錄視窗中選取立即訊息中所包含的 URL。
+-   修正此問題：如果選取 [鈴聲] 和 [音效] 選項下方的 [檢視 IM 交談及有人正在輸入時播放音效] 核取方塊，應該會聽到輸入音效。
+-   修正此問題：使用螢幕助讀程式 (例如 [朗讀程式]) 時，未宣告出現的對話方塊。
+-   修正此問題：初次執行教學課程無法使用鍵盤進行瀏覽，而且螢幕助讀程式 (例如 [朗讀程式]) 無法進行讀取。
+-   修正此問題：在 [高 DPI] 設定中，工作列顯示狀態圖示未調整。
+-   修正此問題：無法使用鍵盤選取搜尋方塊中的清除欄位按鈕。
+-   修正此問題：如果邀請來自另一個集區中的使用者，使用者無法啟動會議。
+-   修正此問題：將自己新增至會議的使用者錯誤地顯示為不同的使用者。
+-   修正此問題：老闆來電時，狀態變更通知上的連絡人顯示狀態圖示遭到隱藏。
+-   修正此問題：IM 視窗中的文字游標閃爍率不符合 Windows 中的鍵盤內容設定。
+-   修正此問題：螢幕助讀程式宣告群組交談中不正確的連絡人名稱。
+-   修正此問題：使用者無法使用鍵盤選取多位連絡人。
+-   修正此問題：無法從 Exchange 擷取使用者相片。
+-   修正此問題：使用者使用直接存取進行連線時，商務用 Skype 用戶端會連線到內部網路上的商務用 Skype Server，而不是外部網路上的商務用 Skype Server。
+-   修正此問題：商務用 Skype 用戶端在嘗試解析會議擁有人的名稱時當機。
+-   修正此問題：在啟動或關閉商務用 Skype 時變更 Windows 設定，導致商務用 Skype 當機。
+-   修正此問題：在常設聊天室中開啟參與者清單並嘗試將鍵盤焦點移到參與者清單時，商務用 Skype 當機。
+-   修正此問題：商務用 Skype 在沒有網路可用的狀態下恢復執行時發生當機。
 
-### <a name="visio-feature-updates"></a>Visio： 功能的更新
--   **協力廠商範本及圖表：** 瀏覽或搜尋的新範本及範例圖表可從選取的協力廠商內容提供者。 第三方提供者的名稱會列在縮圖。
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **協力廠商範本和圖表：** 瀏覽或搜尋所選協力廠商內容提供者供應的新範本與範例圖表。協力廠商提供者的名稱會列在縮圖上。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **編輯器：** 提供進階、 關聯式校訂以協助提升的撰寫。 [更多資訊](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
--   **筆跡重新顯示：** 移至 [繪製\>筆跡重新顯示重新顯示手寫正向和回溯隱藏及顯示的內容，提供逐步指示，或更容易理解的其他人的想法流程。 [更多資訊](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **編輯與自然畫筆手勢：** 環繞選取並刪除交叉指向文件進行變更。 [更多資訊](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
--   **圖案辨識：** 自動使用 Draw 轉換成圖形在繪圖\>轉換成圖案。 [更多資訊](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
--   **與我共用：** 查看其他人已移至 [檔案共用與您的文件\>開啟\>共用與我]。 [更多資訊](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **Editor：** 提供進階與關聯式校訂，以協助改善書寫內容。 [詳細資訊](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+-   **筆跡重播：** 移至 [繪圖] \> [筆跡重播]，可往前和往後重播手寫來隱藏和顯示內容、提供逐步指示，或進一步了解他人想法的流程。 [詳細資訊](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **使用自然的畫筆筆勢進行編輯︰** 使用畫圈代表選取和畫叉代表刪除來變更文件。 [詳細資訊](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+-   **圖形辨識︰** 使用 [繪圖] \> [轉換為圖形] 自動將繪圖轉換成圖形。 [詳細資訊](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
+-   **與我共用的項目：** 移至 [檔案] \> [開啟] \> [與我共用的項目]，查看其他人與您共用的文件。 [詳細資訊](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   使用者無法使用筆跡具有內容控制項或不連續的選取項目會進行修正問題。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：使用者無法搭配使用筆跡與內容控制項，或無法在進行非連續選取時使用筆跡。
 
 
 
 ## <a name="version-1609-november-8"></a>版本 1609年： 年 11 月 8 日
 *版本 1609 （組建 7369.2055）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性佈告欄[MS16 133](https://technet.microsoft.com/library/security/ms16-133)： Microsoft Office (3199168) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 的安全性更新 (3199168)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 133](https://technet.microsoft.com/library/security/ms16-133)： Microsoft Office (3199168) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 的安全性更新 (3199168)
 
 
 
 ## <a name="version-1609-november-2"></a>版本 1609年： 年 11 月 2 日
 *版本 1609 （組建 7369.2054）*
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中使用 VBA 程式碼來複製工作表取消隱藏工作表處於隱藏狀態。
--   其中，當使用規劃求解，"Solver32.dll 找不到檔案"出現錯誤訊息之後選擇求解修正問題。
--   修正問題時使用高 DPI 監視器的 Bing 地圖增益集的圖示不會出現的位置與功能區啟用觸控式模式。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：使用 VBA 程式碼複製工作表時會使隱藏的工作表取消隱藏。
+-   修正此問題：使用規劃求解時，在選擇 [求解] 之後出現「找不到檔案 Solver32.dll」錯誤訊息。
+-   修正此問題：使用「高 DPI」監視器並啟用功能區的觸控模式時，未出現 Bing 地圖增益集的圖示。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   跨多個資料夾中執行 [進階尋找時 Outlook 損毀修復問題。
--   修正其中搜尋中的 [副本] 文字方塊中輸入的文字不會取得附加至主要搜尋方塊及搜尋不會發生問題。
--   修正的問題，在具有多個郵件具有附件的交談，Outlook 在嘗試開啟附件的其中一個那些郵件，如果該附件會儲存於線上位置時。
--   修正問題其中焦點會切換至小型] 對話方塊中的右上角，輸入東亞文字分隔字元使用輸入法 (IME) 時，且使用者無法再繼續編輯電子郵件訊息。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：Outlook 在跨多個資料夾進行進階尋找時當機。
+-   修正此問題：在搜尋中的 [副本] 文字方塊中輸入文字時，文字未附加至主要搜尋方塊，而且未進行搜尋。
+-   修正此問題：在內含附件的多個郵件交談中，如果其中一封郵件中的附件儲存在線上位置，則 Outlook 在嘗試開啟該附件時當機。
+-   修正此問題：使用輸入法 (IME) 輸入東亞字元時，焦點會切換至右上角的小型對話方塊，之後使用者無法繼續編輯電子郵件訊息。
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business： 更新的功能
--   **更新視覺元素：** 變更圖示和改善協助工具的色彩。 [更多資訊](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
+### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
+-   **更新的視覺元素：** 變更圖示和色彩，改善協助工具的使用。 [詳細資訊](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題其中使用者無法連線至 Exchange 使用者已移轉至 Exchange Online 後取得交談記錄、 連絡人或語音信箱資訊。
--   修正問題與其中嘗試不正確地將資訊貼到撥號鍵台或白板中的文字註貼到資訊 [交談] 輸入的文字方塊中的 [交談] 視窗。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：已將使用者移轉至 Exchange Online 之後，使用者無法連線到 Exchange 來取得交談記錄、連絡人或語音信箱資訊。
+-   修正此問題：交談視窗嘗試將資訊貼入撥號盤或者白板中的文字註解時，會不正確地將資訊貼入聊天輸入文字方塊。
 
-### <a name="visio-non-security-updates"></a>Visio： 的非安全性更新
--   修正問題 Visio 不會關閉後關閉已儲存的 Visio 檔案的位置。
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+-   修正此問題：在關閉所儲存的 Visio 檔案之後，未關閉 Visio。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題其中焦點會切換至小型] 對話方塊中的右上角，輸入東亞文字分隔字元使用輸入法 (IME) 時，且使用者無法再繼續編輯文件。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：使用輸入法 (IME) 輸入東亞字元時，焦點會切換至右上角的小型對話方塊，之後使用者無法繼續編輯文件。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   具有 VBA 表單控制項有會導致透明 label 控制項看起來不透明、 可能會造成不會再出現或運作如預期般運作，現有的表單和會導致 Office 應用程式停止回應時嘗試開啟啟用巨集檔案的修正問題包含表單控制項。
--   修正的問題時使用的受管理的中繼資料屬性，[顯示詳細資料] 按鈕會出現在 [屬性] 區段中 [檔案\>而不是所設定的中繼資料值的資訊。
--   修正問題 OfficeC2RClient.exe 其中不能 「 通道 」 辨識為選用設定。
--   其中切換到不同的更新通道可能會導致安裝下一次更新程序會執行舊版組建修正問題。
--   搭配使用 GDI 印表機驅動程式 V3 版本的印表機列印修正問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：嘗試開啟包含表單控制項的可啟用巨集檔案時，VBA 表單控制項可讓透明標籤控制項變成不透明、可讓現有表單不再出現或不再如預期運作，而且可讓 Office 應用程式停止回應。
+-   修正此問題：使用受管理的中繼資料屬性時，[顯示詳細資料] 按鈕出現在 [檔案] \> [資訊] 的 [屬性] 區段中，而不是設定的中繼資料值。
+-   修正此問題：OfficeC2RClient.exe 無法將「通道」辨識為選擇性設定。
+-   修正此問題：切換到不同的更新頻道時，可能會在下次執行更新程序時安裝先前的組建。
+-   修正使用 GDI 印表機驅動程式 V3 版印表機列印的問題。
 
 
 
 ## <a name="version-1609-october-11"></a>版本 1609年： 年 10 月 11 日
 *版本 1609 （組建 7369.2038）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   修正問題寫入禁止任何登錄的電腦上的登錄中寫入其中原因 OneNote 以損毀。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：在禁止任何登錄寫入的電腦上寫入登錄，導致 OneNote 當機。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題以數位方式簽署或加密電子郵件訊息與附件會導致會遺失之附件的內容。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：對具有附件的電子郵件訊息進行數位簽章或加密，導致附件的內容遺失。
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 月份的安全性更新
--   Microsoft 安全性佈告欄[MS16 120](https://technet.microsoft.com/library/security/ms16-120)： Microsoft 圖形元件 (3192884) 的安全性更新
+### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-120](https://technet.microsoft.com/library/security/ms16-120)：Microsoft 圖形元件的安全性更新 (3192884)
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄[MS16 121](https://technet.microsoft.com/library/security/ms16-121)： Microsoft Office (3194063) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-121](https://technet.microsoft.com/library/security/ms16-121)：Microsoft Office 的安全性更新 (3194063)
 
 
 
 ## <a name="version-1609-october-4"></a>版本 1609年： 年 10 月 4
 *版本 1609 （組建 7369.2024）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **資料轉換] 和 [連線的增強功能：** 將參數加入至查詢、 從合併列印中建立新的查詢或附加作業，及使用 Web 連接器預覽網頁。
--   **圖表的巨集錄製：** 支援的 Treemap、 長條圖、 柏拉圖、 瀑布、 方塊與 Whisker 圖表。
--   **變更色彩：** 使用告訴我的色彩設定為字型、 醒目提示、 圖案填滿及其他。 [更多資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **資料轉換與連線能力增強功能︰** 將參數新增至查詢、從合併或附加作業建立新查詢，以及使用 Web 連接器來預覽網頁。
+-   **圖表的巨集錄製︰** 支援樹狀圖、長條圖、柏拉圖、瀑布圖及盒鬚圖。
+-   **變更色彩：** 請使用 [操作說明搜尋] 來設定字型、醒目提示、圖形填滿等等。 [詳細資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中設定格式化條件規則未運作後開啟已儲存在.xls 格式的檔案。
--   其中使用者取得錯誤，而不是密碼提示字元處，嘗試連線到 Access 查詢參照連結的 ODBC 資料表需要密碼時提示後端伺服器的驗證與 64 位元版本的 Excel 修正問題。
--   從下拉式清單選擇項目時 Excel 當機修正問題。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：條件式格式化規則在開啟以 .xls 格式儲存的檔案之後無法運作。
+-   修正 64 位元版本的 Excel 問題：當使用者嘗試連接 Access 查詢，且查詢參考連結的 ODBC 資料表時，使用者得到錯誤結果，而不是密碼提示 (其需要密碼提示才能向後端伺服器進行驗證)。
+-   修正此問題：從下拉式清單中選擇項目時，Excel 會當機。
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   修正問題其中的文字行的多個標記的第一個標籤標記摘要台中時顯示搜尋的標籤。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：在搜尋標記時，[標記摘要] 面板只顯示文字行的多個標記中的第一個標記。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **\@提及：** 請確定收件者知道正在正在系統要求使用者輸入或動作包含 @ 符號後面的電子郵件或行事曆項目本文的人員的姓名。 這也會自動將將其新增至 [收件者。 [更多資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **\@提及：** 請確定收件者知道正在正在系統要求使用者輸入或動作包含 @ 符號後面的電子郵件或行事曆項目本文的人員的姓名。這也會自動將將其新增至 [收件者。[更多資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正的問題時使用自訂的預設佈景主題為信箋, 額外分行符號會新增至新的電子郵件和字型設為 Calibri。
--   修正問題時開啟 Windows 顯示設為 125 %outlook 會凍結。
--   修正問題貼上 OLE 連結的 Excel 儲存格會從草稿電子郵件訊息的消失。
--   修正問題其中使用者無法預覽圖像附件的郵件。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：使用自訂信箋做為預設佈景主題時，有額外的分行符號新增至新的電子郵件訊息且字型設定為 Calibri。
+-   修正此問題：如果 Windows 顯示設定為 125%，Outlook 會在開啟時凍結。
+-   修正此問題：當作 OLE 連結貼上的 Excel 儲存格從草稿電子郵件訊息中消失。
+-   修正此問題：使用者無法預覽訊息中的影像附件。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **筆跡重新顯示：** 重新顯示手寫正向和回溯隱藏和顯示內容、 提供逐步指示，或更容易理解的其他人的想法流程。 [更多資訊](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
--   **更好的錄製：** 建立組成錄製張投影片螢幕錄製並插入的影片、 簡報，然後共用該記錄的內容從遠端檢視。 您也可以內嵌測驗協助進行遠端學習並讓您的簡報以及變更多互動式筆跡色彩及使用記錄旁白和音訊的簡化控制項。
--   **Designer 增強功能：** 提供使用 SmartArt 項目符號的程序清單的設計建議。
--   **錄製功能區索引標籤：** 自訂功能區以新增 [錄製] 索引標籤。
--   **變更色彩：** 使用告訴我的色彩設定為字型、 醒目提示、 圖案填滿及其他。 [更多資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **筆跡重播：** 往前和往後重播手寫可隱藏和顯示內容、提供逐步指示，或進一步了解他人想法的流程。 [詳細資訊](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+-   **更好的錄製內容︰** 建立由錄製的投影片、螢幕錄製和插入的視訊所組成的簡報，然後分享該錄製的內容，以便從遠端檢視。您也可以內嵌測驗來協助進行遠端學習，並且讓您的簡報更具互動性，以及變更筆跡色彩和使用較簡單的控制項來記錄旁白和音訊。
+-   **設計工具改進功能：** 提供將 SmartArt 使用於分項流程清單的設計建議。
+-   **錄製功能區索引標籤︰** 藉由自訂功能區來新增 [錄製] 索引標籤。
+-   **變更色彩：** 請使用 [操作說明搜尋] 來設定字型、醒目提示、圖形填滿等等。 [詳細資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   修正問題其中自動超連結的 url 所擷取的瀏覽器視窗的螢幕擷取畫面未作用。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：將螢幕擷取畫面的超連結自動設為擷取的瀏覽器視窗 URL 時沒有作用。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題 for Business Skype 不更新時使用不同的解決方法，特別是高解析度的監視器監視器與監視變更縮放比例。
--   修正的問題時若要檢視清單中的 IM 轉換中的參與者使用鍵盤，, 鍵盤焦點不正確地移到而不顯示參與者清單的聊天歷程記錄。
--   修正問題時使用高對比 Windows 佈景主題的參與者動作畫面工具提示會消失。
--   修正問題不會議邀請中所示的電話號碼的位置。
--   用滑鼠指標在具有高 DPI 遠端控制案例中修正的問題。
--   參與者無法看到所顯示的其他參與者切換的共用的桌面時的共用的桌面修正問題。
--   修正問題登入失敗時使用的憑證問題的位置。
--   修正問題其中白板檢視不會在螢幕頂端時載入至內容的檢視並回到圖庫檢視切換從圖庫檢視。
--   修正與登入失敗的問題 Exchange 驗證期間。
--   修正的問題，當共享者所使用的 RDP 3rd 廠商實作及共用者的解析度低於檢視者的解決方法，Skype for Business 當機如果以檢視者會 Skype 視窗最大化。
--   修正問題其中不會處理前端的會議室顯示 [內容] 按鈕。
--   修正簽發者其中重新加入會議設定內部 proxy pac 檔案中的 Url 為自動設定指令碼的 Internet Explorer 的電腦上會失敗。
--   修正的問題時使用快速鍵設為靜音或關閉程序的影片，螢幕助讀程式，例如 [朗讀程式]，不要聲明所做的變更。
--   修正問題其中 [編輯位置] 對話方塊無須螢幕助讀程式，例如 [朗讀程式]，可以使用的標籤。
--   修正問題其中螢幕助讀程式，例如 [朗讀程式]、 不正確地處理功能區底下只會顯示提醒通知。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：商務用 Skype 在使用不同解析度的監視器 (尤其是高解析度監視器) 時，不會隨著監視器變更而更新縮放比例。
+-   修正此問題：使用鍵盤來檢視 IM 轉換中的參與者清單時，鍵盤焦點錯誤地移至聊天記錄，而未顯示參與者清單。
+-   修正此問題：使用高對比 Windows 佈景主題時，[參與者動作] 畫面上的工具提示消失。
+-   修正此問題：電話號碼的位置未顯示在會議邀請中。
+-   修正此問題：高 DPI 的遠端控制案例中的滑鼠指標問題。
+-   修正此問題：當其他參與者切換要顯示哪個共用桌面時，參與者看不到共用桌面。
+-   修正此問題：登入因為憑證問題而失敗。
+-   修正此問題：從 [圖庫檢視] 切換到 [內容檢視] 再切換回 [圖庫檢視] 時，未在螢幕頂端載入 [白板檢視]。
+-   修正此問題：在 Exchange 驗證期間登入失敗。
+-   修正此問題：當共用者使用 RDP 的協力廠商實作且共用者的解析度低於檢視器的解析度時，如果檢視器將 Skype 視窗最大化，則商務用 Skype 會當機。
+-   修正此問題：[內容] 按鈕無法在 [會議室前方] 顯示上運作。
+-   修正此問題：如果電腦已設定為將 Internet Explorer 中的內部 Proxy pac 檔案 URL 當作自動組態指令碼，則無法在該電腦上重新加入會議。
+-   修正此問題：使用鍵盤快速鍵將影片設為靜音或關閉影片時，螢幕助讀程式 (例如 [朗讀程式]) 未宣告所做的變更。
+-   修正此問題：[編輯位置] 對話方塊沒有螢幕助讀程式 (例如 [朗讀程式]) 可以使用的標籤。
+-   修正此問題：螢幕助讀程式 (例如 [朗讀程式]) 未正確地處理功能區下方顯示的警示通知。
 
-### <a name="visio-feature-updates"></a>Visio： 功能的更新
--   **協助工具檢查程式：** 檢查您的協助工具問題的圖表移至檔案\>Info\>檢查問題\>檢查協助工具。
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **協助工具檢查程式：** 移至 [檔案] \> [資訊] \> [檢查問題] \> [檢查協助工具]，檢查您的圖表是否有協助工具問題。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **變更色彩：** 使用告訴我的色彩設定為字型、 醒目提示、 圖案填滿及其他。 [更多資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **變更色彩：** 請使用 [操作說明搜尋] 來設定字型、醒目提示、圖形填滿等等。 [詳細資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 更新的功能
--   **版本及組建資訊：** 版本及組建資訊顯示在版本 YYMM (建置\# \# \# \#。\#\# \# \#) 當您移到檔案中的 Office 更新] 區段中的格式\>帳戶。 例如，這個版本的、 版本 1609 (建置 7369.2024)。
--   **授權的 token 更新共用電腦啟用：** Office 會嘗試更新共用的電腦啟用規則為基礎的授權權杖之後權杖到期 50%，以協助使用者不一定要能存取網際網路。
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **版本和組建資訊：** 當您移至 [檔案] \# [帳戶] 時，版本和組建資訊會在 [Office 更新] 區段中以「版本 YYMM (組建 \#\#\#\#.\#\#\#\>)」格式顯示。例如，在這個版本中為「版本 1609 (組建 7369.2024)」。
+-   **共用電腦啟用的授權權杖更新：** 一旦共用電腦啟用的授權權杖過期 50%，Office 就會嘗試定期更新該權杖，以提供協助給不一定有網際網路存取的使用者。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題時執行線上修復安裝使用者介面 (UI) 不會出現的位置。
--   其中 「 線上範本的搜尋 」 方塊仍啟用即使在存取線上範本已停用的群組原則設定或登錄設定後修正問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：執行線上修復時，未出現安裝使用者介面 (UI)。
+-   修正此問題：即使 [群組原則] 設定或登錄設定已經停用線上範本的存取，[搜尋線上範本] 方塊仍為啟用狀態。
 
 
 
 ## <a name="version-1608-september-26"></a>版本 1608年： 年 9 月 26 日
 *版本 1608 （組建 7341.2035）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   修正問題時從套索工具切換到 「 筆跡 」 工具幽靈筆跡筆劃會出現。
--   修正問題出拖放使用套索工具所選取的內容會導致 OneNote 損毀。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：從套索工具切換至筆跡工具時出現鬼影筆劃。
+-   修正此問題：在套索工具選取「拖放內容」會導致 OneNote 當機。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   其中，開啟 Office 應用程式、 時，使用者會收到錯誤訊息 Microsoft 找不到授權的應用程式及修復嘗試已失敗或取消，然後按一下 [Office 應用程式的問題會關閉的修正程式。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：在開啟 Office 應用程式時，使用者會收到「Microsoft 找不到授權應用程式，嘗試修復無效或已取消」的錯誤訊息，然後 Office 應用程式關閉。
 
 
 
 ## <a name="version-1608-september-21"></a>版本 1608年： 年 9 月 21 日
 *版本 1608 （組建 7341.2032）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **Power 查詢版面配置保留：** 格式和資料匯入使用 Get 轉換的計算結果的欄會保留查詢重新整理之後。
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **保留的 Power Query 版面配置：** 重新整理查詢後，使用「取得並轉換」匯入的資料格式和計算的欄會加以保留。
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正其中間接以法文或德文版的 Excel 函數中使用 R1C1 樣式的參照會導致問題\#REF ！ 而不是所參照的錯誤和預期的值。
--   修正問題其中 ENTER 鍵不可以以個別清單項目在自訂清單] 對話方塊中建立自訂排序清單時。
--   修正的問題的位置複製或移動資訊會導致錯誤訊息出現，例如"無法開啟剪貼簿"或"我們建立釋放剪貼簿上的空間。 另一個程式可能會使用該來說。 」
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：在法文或德文版 Excel 中，透過 INDIRECT 函數使用 R1C1 樣式參考時，沒有產生參考或預期的值，而是造成 \#REF! 錯誤。
+-   修正此問題：在「自訂清單」對話方塊中建立自訂排序清單時，無法使用 ENTER 鍵來分隔清單項目。
+-   修正此問題：複製或移動資訊時會出現錯誤訊息，例如「無法開啟剪貼簿」或「我們無法釋放剪貼簿上的空間，可能有另一個程式正在使用它」。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **迷你預覽之附加相片**： 相片附加至電子郵件，Outlook 會顯示小型預覽相片的訊息。
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **附加相片的小型預覽**：如果將相片附加到電子郵件，Outlook 會在訊息中顯示相片的小型預覽。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正圖像的會議邀請寄件者 Outlook 2016 其中會遺失時接收到 Outlook 2013 或 Outlook 2010 中的問題。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：在 Outlook 2013 或 Outlook 2010 中接收從 Outlook 2016 送出的會議邀請時，其中的影像會遺失。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   修正問題其中貼到 [記事] 區段中的.gif 檔案會導致 PowerPoint 損毀。
--   修正問題其中連結至其他投影片指向了錯誤的投影片將簡報儲存為 PDF 檔案時。
--   修正問題其中編輯檢視不會正確顯示它的拖曳至不同的不同螢幕解析度的監視器。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：將.gif 檔案貼到 [附註] 區段時會造成 PowerPoint 當機。
+-   修正此問題：將簡報儲存為 PDF 檔案時，其他投影片的連結會指向錯誤的投影片。
+-   修正此問題：將編輯視窗拖曳到螢幕解析度不同的其他監視器時，編輯視窗未正確顯示。
 
-### <a name="publisher-non-security-updates"></a>Publisher： 的非安全性更新
--   修正問題時將檔案儲存為 PDF 檔案變更圖片的色彩或透明度沒有出現的位置。
+### <a name="publisher-non-security-updates"></a>Publisher：非安全性更新
+-   修正此問題：將檔案儲存為 PDF 檔案時，未顯示已變更的圖片顏色或透明度。
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business： 更新的功能
--   **Citrix 支援**： Citrix 式虛擬桌面基礎結構 (VDI) 環境，以及 Citrix HDX 即時最佳化 Pack 2.1 的支援。
+### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
+-   **Citrix 支援**：支援 Citrix 類型的虛擬桌面基礎結構 (VDI) 環境，以及 Citrix HDX 即時最佳化組件 2.1。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正其中的對等視訊型螢幕共用工作階段會導致較高的 CPU 使用率，並讓應用程式和作業系統較少回應簡報者的電腦若簡報者使用一或多 ultra-最高定義顯示發生問題。
--   修正問題其中調整商務視窗最小高度 Skype 會導致不會顯示的語音信箱清單。
--   修正問題其中按一下會議選項] 按鈕上的 [開啟或建立 Skype 會議之後會導致 Outlook 損毀。
--   修正問題其中儲存的聊天歷程記錄以草稿郵件在 Outlook 中所出現與無法建立回覆。
--   如果使用者變更 Office 中的預設語言不會變更語言的主視窗標題的其中修正問題。
--   修正問題其中關係] 索引標籤會顯示外部連絡人多次，而不是只是一次。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：端對端的視訊型螢幕共享工作階段會造成 CPU 使用量增加，以及在簡報者使用一個或多個超高畫質 (ultra-high-definition) 顯示器時，造成簡報者電腦上的應用程式和作業系統回應變差。
+-   修正此問題：將商務用 Skype 視窗重新調整至最小高度時，會造成語音郵件清單無法顯示。
+-   修正此問題：在開啟或建立 Skype 會議後，按一下 [會議選項] 按鈕會造成 Outlook 當機。
+-   修正此問題：儲存的對話記錄在 Outlook 中顯示為草稿郵件訊息，且無法加以回覆。
+-   修正此問題：如果使用者變更 Office 中的預設語言，主視窗標題的語言並不會變更。
+-   修正此問題：[關係] 索引標籤會多次顯示外部連絡人，而非僅顯示一次。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題其中字型變更為 Segoe UI Emoji 時使用日文輸入的法 (IME) 時輸入雙位元組字元設 (DBCS) 符號字元。
--   修正問題不正確地提供部落認證嘗試發佈至 SharePoint 部落格文章時提示使用者。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：使用日文輸入法 (IME) 輸入雙位元組字集 (DBCS) 符號字元後，字型會變更為 Segoe UI Emoji。
+-   修正此問題：使用者嘗試發佈部落格貼文到 SharePoint 時，系統不正確地提示使用者提供部落客認證。
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 更新的功能
--   **提供意見反應：** 建議的新功能或告訴 Microsoft 您想要或項目無法正常運作移至檔案\>意見反應。
--   **協助改善：** 在 「 直接命令我] 方塊及應用程式，以改善的搜尋、 內容及建議中尋找您的回答右那里輸入您的問題。
--   **共用的電腦啟用降低功能的模式：** 當使用共用的電腦啟用，如果使用者關閉 [登入] 視窗或使用者授權憑證過期，使用者仍然可以使用的 Office 應用程式但應用程式將處於精簡的功能模式。
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **提供意見反應：** 前往 [檔案] \> [意見反應]，提供新功能建議或告訴 Microsoft 您喜歡的功能或無法使用的功能。
+-   **協助改進：** 在 [操作說明搜尋] 方塊中輸入您的問題，並透過改良搜尋、內容和建議選項直接在應用程式中尋找您的答案。
+-   **共用電腦啟用的精簡功能模式：** 使用共用電腦啟用時，如果使用者關閉登入視窗或使用者的授權權杖過期，使用者仍可使用 Office 應用程式，但應用程式會進入精簡功能模式。
 
 
 
 ## <a name="version-1607-september-13"></a>版本 1607年： 年 9 月 13 日
 *版本 1607 （組建 7167.2060）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性佈告欄[MS16 107](https://technet.microsoft.com/library/security/ms16-107)： Microsoft Office (3185852) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
-### <a name="outlook-security-updates"></a>Outlook： 安全性更新
--   Microsoft 安全性佈告欄[MS16 107](https://technet.microsoft.com/library/security/ms16-107)： Microsoft Office (3185852) 的安全性更新
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
-### <a name="visio-security-updates"></a>Visio： 安全性更新
--   Microsoft 安全性佈告欄[MS16 107](https://technet.microsoft.com/library/security/ms16-107)： Microsoft Office (3185852) 的安全性更新
+### <a name="visio-security-updates"></a>Visio：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 107](https://technet.microsoft.com/library/security/ms16-107)： Microsoft Office (3185852) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
 
 
 ## <a name="version-1607-september-6"></a>版本 1607年： 年 9 月 6 日
 *版本 1607 （組建 7167.2055）*
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題導致設為大於它們應該是先前建立的更新的下載項目大小的二進位差異壓縮。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：二進位差異壓縮導致更新上一次組建的下載內容大於應有的大小。
 
 
 
 ## <a name="version-1607-august-31"></a>版本 1607年： 2010 年 8 月 31 日
 *版本 1607 （組建 7167.2047）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正的問題，設計自訂表單時, 拖曳到表單欄位會導致 Outlook 損毀。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：設計自訂的表單時，拖曳欄位至表單上會造成 Outlook 當機。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題 Office 更新任務太常執行的位置，而造成增加 CPU 使用量和桌面圖示簡要閃爍或重新整理。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：Office 更新工作執行次數太頻繁，導致 CPU 使用量增加，以及桌面圖示短暫閃爍或重新整理。
 
 
 
 ## <a name="version-1607-august-16"></a>版本 1607年： 2010 年 8 月 16 日
 *版本 1607 （組建 7167.2040）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **資料轉換] 和 [連線改良：** 執行其他的日期/時間轉換和文字操作、 活頁簿移轉至不同環境、 群組列篩選，和在 [查詢編輯器] 視窗中的文件轉換的兩個或多個子句。
--   **發佈至 Power BI:** 將本機儲存的檔案至 Power BI 發佈與 Power BI 訂閱。
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **資料轉換與連線能力改進︰** 執行其他日期/時間轉換和文字操作、將活頁簿移轉到不同的環境、群組兩個以上的子句以進行資料列篩選，以及在 [查詢編輯器] 視窗中轉換文件。
+-   **發佈到 Power BI：** 透過 Power BI 訂閱將本機儲存的檔案發佈到 Power BI。
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題嘗試編輯的活頁簿包含許多] 文字方塊中時 Excel 停止回應。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：嘗試編輯包含許多文字方塊的活頁簿時，Excel 停止回應。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **復原已刪除的項目連結：** 在 [刪除的郵件] 資料夾中，"復原最近移除此資料夾的項目 」 連結已刪除的項目清單欄上方會出現並選取連結時，會帶出復原刪除的項目] 對話方塊。
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **復原刪除的郵件連結：** 在 [刪除的郵件] 資料夾中，已刪除的項目清單上方會出現「復原最近從此資料夾中移除的郵件」連結，選取連結時，[復原刪除的郵件] 對話方塊隨即出現。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題時開啟 Outlook 資料夾窗格會消失。
--   修正問題其中搜尋郵件使用常使用的文字欄位中的 [進階尋找導致"Outlook 無法執行搜尋 」 錯誤訊息。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：Outlook 開啟時，[資料夾] 窗格會消失。
+-   修正此問題：使用常用文字欄位中的「進階尋找」來搜尋郵件訊息時，出現「Outlook 無法執行您的搜尋」錯誤訊息。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **縮放：** 建立您的簡報互動式摘要的自動導覽連結。 [更多資訊](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)
--   **開啟超連結：** 使用 CTRL + 按一下即可編輯簡報時開啟超連結。
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **縮放：** 使用自動導覽連結建立簡報的互動摘要。 [詳細資訊](https://support.office.com/article/9d6c58cd-2125-4d29-86b1-0097c7dc47d7)
+-   **開啟超連結︰** 使用 CTRL+按一下以在編輯簡報時開啟超連結。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題其中使用者不正確地看見 「 僅限離線訊息 」 訊息時收件者無法接收離線訊息。
--   修正問題其中使用者將 Exchange 代理人之後伺服器、 代理人不會在顯示 Skype for Business 即使之後重新啟動它。
--   修正問題時設定的選項重新開啟交談時登入] 索引標籤會消失。
--   修正問題其中螢幕助讀程式無法聲明時新的郵件會進入 IM 交談。
--   修正與鍵盤導覽和 narrated 的文字的問題的螢幕助讀程式。
--   修正問題其中螢幕助讀程式不會聲明已經開始螢幕共用和人員可以看到螢幕。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：當收件者無法收到離線訊息時，使用者看到錯誤的「僅限離線訊息」訊息。
+-   修正此問題：使用者在 Exchange Server 新增委派後，委派未顯示在商務用 Skype 中，即使重新啟動電腦也一樣。
+-   修正此問題：設定重新開啟交談的選項後，索引標籤會在登入時消失。
+-   修正此問題：螢幕助讀程式無法在新訊息送達 IM 交談時宣告。
+-   修正螢幕助讀程式的鍵盤瀏覽和朗讀文字相關問題。
+-   修正此問題：螢幕助讀程式未宣告畫面共享已啟動且使用者可以看到此畫面。
 
-### <a name="visio-feature-updates"></a>Visio： 功能的更新
--   **UML 範本：** 三個範本 —[元件](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074)、[通訊](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)、 與[部署](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)— 會與整合模型語言 (UML) 2.5 標準相容。
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **UML 範本：** 三個範本 ( [元件](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074)、 [通訊](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)和 [部署](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)) 與整合模組化語言 (UML) 2.5 標準版相容。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **研究者：** 不會出現 Word 尋找相關報價、 citable 來源及圖像。 [更多資訊](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f)
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **研究工具：** 無須退出 Word 即可尋找相關引文、引用來源和影像。 [詳細資訊](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f)
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題的使用者變更預設編輯或校訂語言，不會變更延續至下一次開啟 Word 時。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：當使用者變更預設的編輯或校訂語言時，該變更不會延續到下一次開啟 Word 時。
 
 
 
 ## <a name="version-1606-august-9"></a>版本 1606年： 2010 年 8 月 9 日
 *版本 1606 （組建 7070.2036）*
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題的最新的安全性更新，而造成其中從不受信任位置開啟 HTML 檔案開啟 Excel 空白的 （空白） 畫面顯示，而不是讓使用者可以在受保護的檢視中開啟檔案沒有錯誤。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正由目前安全性更新造成的問題：從不受信任的位置開啟 HTML 檔時，不是允許使用者在受保護的檢視中開啟檔案，而是開啟畫面空白 (沒有內容) 的 Excel，且沒有顯示錯誤。
 
-### <a name="onenote-security-updates"></a>OneNote： 月份的安全性更新
--   Microsoft 安全性佈告欄[MS16 099](https://technet.microsoft.com/library/security/ms16-099)： Microsoft Office (3177451) 的安全性更新
+### <a name="onenote-security-updates"></a>OneNote：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
-### <a name="outlook-security-updates"></a>Outlook： 安全性更新
--   Microsoft 安全性佈告欄[MS16 099](https://technet.microsoft.com/library/security/ms16-099)： Microsoft Office (3177451) 的安全性更新
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 月份的安全性更新
--   Microsoft 安全性佈告欄[MS16 097](https://technet.microsoft.com/library/security/ms16-097)： Microsoft 圖形元件 (3177393) 的安全性更新
+### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-097](https://technet.microsoft.com/library/security/ms16-097)：Microsoft 圖形元件的安全性更新 (3177393)
 
-### <a name="visio-non-security-updates"></a>Visio： 的非安全性更新
--   移動 [繪圖] 索引標籤的位置上功能區] 並將"繪製具有觸控"選擇的位置移動繪製] 索引標籤上。
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+-   移動 [功能區] 上 [繪圖] 索引標籤的位置，並移動 [繪圖] 索引標籤上 [使用觸控繪圖] 選項的位置。
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄[MS16 099](https://technet.microsoft.com/library/security/ms16-099)： Microsoft Office (3177451) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 099](https://technet.microsoft.com/library/security/ms16-099)： Microsoft Office (3177451) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
 
 
 ## <a name="version-1606-july-26"></a>版本 1606年： 年 7 月 26 日
 *版本 1606 （組建 7070.2033）*
 
-### <a name="access-non-security-updates"></a>Access： 的非安全性更新
--   修正問題其中執行與排序的查詢時使用 Access 資料庫引擎，例如做為在 Access 應用程式或增益集使用的資料提供者的 Access 資料庫引擎會導致損毀應用程式。
+### <a name="access-non-security-updates"></a>Access：非安全性更新
+-   修正此問題：在使用 Access 資料庫引擎 (例如 Access 應用程式) 時透過排序執行查詢，或使用以 Access 資料庫引擎做為資料提供者的增益集執行查詢時，會造成應用程式當機。
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中插入無效範圍為基礎的樞紐分析表會顯示不正確的錯誤訊息。
--   修正問題其中儲存活頁簿包含使用 Application.OnUndo 程式設計復原層級、 時的活頁簿的最後一個修訂會緊跟在復原。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：插入以無效範圍為依據的樞紐分析表時，會顯示不正確的錯誤訊息。
+-   修正此問題：當您儲存的活頁簿包含使用 Application.OnUndo 的程式設計復原層級時，您對活頁簿所做的最後一次變更會被復原。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   當使用者加入會議使用未與主控會議之組織同盟的帳戶使用者看見空白的交談] 視窗的其中修正問題。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：當使用者使用與會議主持組織不同盟的帳戶加入會議時，使用者會看到空白交談視窗。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題其中執行 Office 位於相同的多個使用者的時間在單一電腦上具有特定權限設定原因損毀的 Office 應用程式。
--   修正問題其中使用 Office 增益集的命令會使 Excel、 Word 或 PowerPoint 隨機損毀。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：多個使用者透過特定權限設定，同時在一部電腦上執行 Office 時，造成 Office 應用程式當機。
+-   修正此問題：使用 Office 增益集命令會使 Excel、Word 或 PowerPoint 不定時當機。
 
 
 
 ## <a name="version-1606-july-20"></a>版本 1606年： 年 7 月 20 個
 *版本 1606 （組建 7070.2028）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   修正問題時將指標] 頁面上移取景手掌會消失。
--   修正問題其中刪除資料表會導致 OneNote 損毀。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：在頁面上移動時，移動游標會消失。
+-   修正此問題：刪除表格會造成 OneNote 當機。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題讓檢視會議要求當 Microsoft UI 自動化接聽程式，例如 [朗讀程式]，為執行，會使 Outlook 損毀。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：在 Microsoft UI Automation 接聽程式 (如 [朗讀程式]) 執行時檢視會議要求會造成 Outlook 當機。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正其中更新 Office ODBC 登錄項目會覆寫及需要 Microsoft Access 資料庫引擎可轉散發套件重新安裝或修復問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：更新 Office 會覆寫 ODBC 登錄項目，且需要重新安裝或修復 Microsoft Access 資料庫引擎可轉散發套件。
 
 
 
 ## <a name="version-1606-july-12"></a>版本 1606年： 年 7 月 12 日
 *版本 1606 （組建 7070.2026）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性佈告欄[MS16 088](https://technet.microsoft.com/library/security/ms16-088)： Microsoft Office (3170008) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中 Excel 不會通知的儲存格的值變更在某些情況下的 [朗讀程式]。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：在某些情況下，Excel 不會通知朗讀程式有關儲存格值的變更。
 
-### <a name="outlook-security-updates"></a>Outlook： 安全性更新
--   Microsoft 安全性佈告欄[MS16 088](https://technet.microsoft.com/library/security/ms16-088)： Microsoft Office (3170008) 的安全性更新
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄[MS16 088](https://technet.microsoft.com/library/security/ms16-088)： Microsoft Office (3170008) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題其中開啟需要表單型驗證的伺服器上的文件會導致 Word 損毀。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：開啟在伺服器上要求表單型驗證的文件，導致 Word 當機。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題其中 PowerPoint、 Word 或 Excel 在從 URL，例如存新檔 SharePoint、 開啟 Office 文件及 URL 結尾時 / 字元。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：從 URL (例如 SharePoint) 開啟 Office 文件，且 URL 以「/」結尾時，導致 PowerPoint、Word 和 Excel 當機。
 
 
 
 ## <a name="version-1606-july-5"></a>版本 1606年： 年 7 月 5
 *版本 1606 （組建 7070.2022）*
 
-### <a name="access-feature-updates"></a>Access： 功能更新
--   **dBASE 支援：** 匯入或連結至資料 dBASE 資料庫 (.dbf) 中所儲存的支援。 [更多資訊](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
+### <a name="access-feature-updates"></a>Access：功能更新
+-   **dBASE 支援：** 支援匯入或連結至儲存於 dBASE 資料庫 (.dbf) 的資料。 [詳細資訊](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
-### <a name="access-non-security-updates"></a>Access： 的非安全性更新
--   修正問題其中欄位大小的數字資料類型] 下拉式清單不顯示任何值，以防止使用者指定的數字欄位時建立或修改資料表類型。
+### <a name="access-non-security-updates"></a>Access：非安全性更新
+-   修正此問題：[數字] 資料類型的 [欄位大小] 下拉式清單不會顯示任何值，禁止使用者在建立或修改資料表時指定 [數字] 欄位的類型。
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **圖案辨識：** 自動轉換成圖形在繪圖。
--   **新連接器：** 建立使用新的線上服務類別包含與 SharePoint Online、 Exchange 及 SAP HANA 連接器從選項的查詢。
--   **含有 OLAP 連線的樞紐分析表：** 當您建立、 編輯及 OLAP 連線重新整理樞紐分析表會改善效能。
--   **資料轉換改良：** 將持續時間值轉換為年、 查詢編輯器 preview 中的空白區域與線條摘要的支援和重新命名查詢直接從 [查詢] 窗格。
--   **資料連線改良：** 偵測不規則的 CSV 檔案、 支援的 Microsoft 帳戶進行驗證時使用 Exchange 連接器，並驗證嘗試連線至其 SharePoint 清單時由使用者所提供的 Url。
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **圖形辨識︰** 自動將繪圖轉換成圖形。
+-   **新增連接器：** 使用新的 Online Services 類別選項來建立查詢，包括 SharePoint Online、Exchange 和 SAP HANA 的連接器。
+-   **OLAP 連線與樞紐分析表︰** 改進以 OLAP 連線來建立、編輯和重新整理樞紐分析表時的效能。
+-   **資料轉換功能改良：** 將持續時間值轉換為年、支援在 [查詢編輯器] 預覽中的空白字元和換行字元，以及直接從 [查詢] 窗格重新命名查詢。
+-   **資料連線功能改良：** 偵測不規則的 CSV 檔案、支援使用 Exchange 連接器驗證 Microsoft 帳戶，以及驗證使用者嘗試連線到 SharePoint 清單時所提供的 URL。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題，建立新的郵件給某位連絡人，[收件者:] 欄位已填入收件者名稱三次，即使只有一個電子郵件地址的連絡人。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：建立給連絡人的新郵件時，[收件者：] 欄位會填入收件者名稱三次，即使連絡人只有一個電子郵件地址。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **文字反白顯示：** 使用文字螢光吸引重要的文字。
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **文字醒目提示：** 使用文字螢光筆，以強調重要的文字。
 
-### <a name="visio-feature-updates"></a>Visio： 功能的更新
--   **筆跡支援：** 使用您的畫筆或手指繪製並加上註解與新的繪圖] 索引標籤上的工具。
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **手寫筆跡支援︰** 使用您的手寫筆或手指來繪製，並以新的 [繪圖] 索引標籤上的工具來加上註解。
 
 
 
 ## <a name="version-1605-june-30"></a>版本 1605年： 年 6 月 30 日
 *版本 1605 （組建 6965.2063）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   改善的訊息時使用高 DPI 包含資料表的外觀。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   改善使用高 DPI 時，包含資料表的郵件外觀。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   修正問題其中自動儲存簡報包含圖表會導致 PowerPoint 損毀。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：自動儲存包含圖表的簡報時，導致 PowerPoint 當機。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題其中 Skype 商務用戶端連線至 Skype Business Server 的外部網路上使用內部公司網路時。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：可以使用內部公司網路時，商務用 Skype 用戶端會連線到外部網路上的商務用 Skype Server。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題其中插入物件使用"從檔案建立"並選取.jpg、.gif。 或.png 檔案會產生錯誤訊息相關 htmlfile，而不是插入來代表 OLE 物件的圖示。
--   修正的問題會將圖片插入圖片內容控制項失敗。
--   使用含有 PowerPoint 投影片的連結的文件時所沒有回應的字修正問題。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：藉由使用 [從檔案建立] 插入物件，並選取.jpg、.gif 或.png 檔案時，會導致有關 HTML 檔案的錯誤訊息出現，而不是插入代表 OLE 物件的圖示。
+-   修正此問題：將圖片插入圖片內容控制項失敗。
+-   修正此問題：使用包含連結至 PowerPoint 投影片的文件時，Word 沒有回應。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   遙測儀表板的資訊可覆寫該檔案中記錄檔之前可以遙測儀表板上傳並也會增加導致要上傳檔案大小的記錄資訊修正問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：記錄遙測儀表板資訊時，造成記錄檔中的資訊在能上傳到遙測儀表板之前遭到覆寫，也會導致要上傳的檔案大小增加。
 
 
 
 ## <a name="version-1605-june-14"></a>版本 1605年： 年 6 月 14
 *版本 1605 （組建 6965.2058）*
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   當筆跡隨機筆劃其中會選取而不能一併修正問題。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：選取筆跡功能的隨機筆劃後無法取消選取。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   改善的可能即將進行的 PST 損毀偵測並新增嘗試以避免發生損毀的步驟。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   改善可能即將發生 PST 損毀的偵測，並新增步驟以嘗試防止發生損毀。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   修正問題使用者取得錯誤訊息的使用者執行包含內容的增益集的簡報中的即時共同撰寫時無法更新文件。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：當使用者在包含內容增益集的簡報中進行即時共同製作時，收到無法更新文件錯誤訊息。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正其中 Skype 在中大型會議，例如與 30 個以上的參與者共用某些使用者的問題。
--   安裝當使用者嘗試啟動音訊或視覺案例，例如桌面共用或加入會議的音訊部分 Skype 停止回應 Malwarebytes 軟體中修正的電腦上發生問題。 [此問題的詳細資訊](https://support.microsoft.com/kb/3165866)
--   其中，使用者會收到錯誤訊息嘗試使用會議功能，例如白板與共用的記事修正問題。 [此問題的詳細資訊](https://support.microsoft.com/kb/3165438)
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：Skype 在某些使用者參與大型會議 (例如有 30 個以上的參與者的會議) 時當機。
+-   修正此問題：在已安裝 Malwarebytes 軟體電腦上，Skype 在使用者嘗試初始化音訊或視覺案例 (例如共用桌面或加入會議音訊部分) 時停止回應。 [此問題的相關資訊](https://support.microsoft.com/kb/3165866)
+-   修正此問題：當使用者嘗試使用會議功能，例如白板或共用筆記時，收到錯誤訊息。 [此問題的相關資訊](https://support.microsoft.com/kb/3165438)
 
-### <a name="visio-security-updates"></a>Visio： 安全性更新
--   Microsoft 安全性佈告欄[MS16 070](https://technet.microsoft.com/library/security/ms16-070)： Microsoft Office (3163610) 的安全性更新
+### <a name="visio-security-updates"></a>Visio：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-070](https://technet.microsoft.com/library/security/ms16-070)：Microsoft Office 的安全性更新 (3163610)
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄[MS16 070](https://technet.microsoft.com/library/security/ms16-070)： Microsoft Office (3163610) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-070](https://technet.microsoft.com/library/security/ms16-070)：Microsoft Office 的安全性更新 (3163610)
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   如果使用者選擇 「 保留來源格式設定 」] 選項 [貼上的 SmartArt 圖形時 Word 損毀修復問題。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：當使用者選擇 [保留來源格式設定] 選項貼上 SmartArt 圖形時 Word 會當機。
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 070](https://technet.microsoft.com/library/security/ms16-070)： Microsoft Office (3163610) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-070](https://technet.microsoft.com/library/security/ms16-070)：Microsoft Office 的安全性更新 (3163610)
 
 
 
 ## <a name="version-1605-june-6"></a>版本 1605年： 年 6 月 6 日
 *版本 1605 （組建 6965.2053）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **取得 & 轉換為增強功能：** 新增或增強資料轉換和 Power 查詢的資料連線功能。 [更多資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **取得 & 轉換為增強功能：** 新增或增強資料轉換和 Power 查詢的資料連線功能。[更多資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正資料驗證下拉式清單取得損毀且含有多個工作表的活頁簿中有重複其本身的問題。
--   修正問題其中檔案關聯丟失 excel 從電腦解除安裝舊版的 Office 時。
--   修正問題其中 Excel 有時會留下背後的暫存檔後儲存檔案。
--   修正問題其中已刪除的工作表上呼叫的方法或屬性會導致 Excel 而不顯示錯誤之物件的找不到該工作表上的損毀。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：資料驗證下拉式清單在有多個工作表的活頁簿中損毀及重複。
+-   修正此問題：從電腦解除安裝舊版的 Office 時，遺失 Excel 檔案關聯。
+-   修正此問題：Excel 偶而會在檔案儲存後留下暫存檔案。
+-   修正此問題：呼叫工作表上已刪除的方法或屬性會使 Excel 當機，而不是顯示工作表上找不到該物件之錯誤訊息。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **簡體中文設定檔建立：** 當您登入 Office 365 帳戶設定為 Office 365 信箱的其他 Outlook 設定檔的體驗簡化的使用者介面 (UI)。
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **簡化設定檔的建立︰** 簡化當您以 Office 365 帳戶登入時，設定 Office 365 信箱其他 Outlook 設定檔的使用者介面 (UI) 體驗。
 
-    注意： 此功能是已導一段時間給訂閱者，因此您可能不會立即看到此功能。 當您收到這項功能的時機也取決於您的組織更新 Office 的方式。
+    注意： 此功能是已導一段時間給訂閱者，因此您可能不會立即看到此功能。當您收到這項功能的時機也取決於您的組織更新 Office 的方式。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題其中延伸的符號字元變更為"1".rtf 格式傳送電子郵件時。
--   修正問題其中回覆或轉寄使用黑色的字型色彩，而不是挑選新的色彩，即使"挑選新色彩回覆或轉寄時"已選取 [檔案\>選項\>郵件\>信箋與字型。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：傳送 .rtf 格式的電子郵件時，延伸符號字元會變更為「1」。
+-   修正此問題：即使在 [檔案] \> [選項] \> [郵件] \> [信箋與字型] 下，已選取 [回覆或轉寄時挑選新色彩]，仍然會使用黑色的字型色彩，而不是挑選新色彩來回覆或轉寄。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **SmartArt 圖形的共同撰寫：** 多位使用者可以同時編輯中的 SmartArt 圖形的不同項目。
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **共同撰寫 SmartArt 圖形：** 多個使用者可以同時編輯 SmartArt 圖形中的不同元素。
 
-### <a name="skype-for-business-feature-updates"></a>Skype for Business： 更新的功能
--   **離線通訊：** 傳送訊息給連絡人即使他們無法登入。 [更多資訊](https://support.office.com/article/ffdc6a43-71a1-40ee-bfcc-640d21324a3d)
--   **事先上傳會議附件：** 當您設定在 Outlook 中的線上會議中新增附件。 [更多資訊](https://support.office.com/article/fd3d9f9d-b448-4754-b813-02e49393f251)
+### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
+-   **離線訊息：** 就算連絡人未登入也可以傳送訊息。 [詳細資訊](https://support.office.com/article/ffdc6a43-71a1-40ee-bfcc-640d21324a3d)
+-   **預先上載會議附件︰** 當您在 Outlook 中設定線上會議時加入附件。 [詳細資訊](https://support.office.com/article/fd3d9f9d-b448-4754-b813-02e49393f251)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題其中嘗試開啟 Skype 使用者的連絡人卡片會導致 for Business Skype 損毀。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：嘗試開啟 Skype 使用者的連絡人卡片，會導致商務用 Skype 當機。
 
-### <a name="visio-feature-updates"></a>Visio： 功能的更新
--   **AutoCAD 支援：** 匯入 AutoCAD 2010 和 AutoCAD 2013 檔案以及重疊的圖形、 文字和資料的圖形。 [更多資訊](https://support.office.com/article/f3e09e21-f064-46cb-acd0-cf97cc3677cc)
--   **改善 AutoCAD 調整：** 匯入 AutoCAD 檔案時的縮放比例改良。 [更多資訊](https://support.office.com/article/92c153ca-0122-4857-bd18-3d9033ff3dc5)
--   **AutoCAD 效能改良功能：** 更快速匯入的 AutoCAD 檔案並使用置於 AutoCAD 繪圖的圖形。
+### <a name="visio-feature-updates"></a>Visio：功能更新
+-   **AutoCAD 支援︰** 匯入 AutoCAD 2010 和 AutoCAD 2013 檔案以及重疊圖形、文字和資料圖形。 [詳細資訊](https://support.office.com/article/f3e09e21-f064-46cb-acd0-cf97cc3677cc)
+-   **改善 AutoCAD 縮放比例︰** 改善匯入 AutoCAD 檔案時的縮放比例功能。 [詳細資訊](https://support.office.com/article/92c153ca-0122-4857-bd18-3d9033ff3dc5)
+-   **AutoCAD 效能改善：** 更快速地匯入 AutoCAD 檔案及處理位於 AutoCAD 繪圖上一層的圖案。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **加註註解方塊：** 按鈕會出現在允許您若要解決，輕鬆地回覆註解方塊或重新開啟註解。
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **註解方塊︰** 按鈕將顯示在註解方塊中，以讓您輕鬆地回覆、解決或重新開啟註解。
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 更新的功能
--   **共同作業功能分組的功能區上：** 共用、 聊天室、 註解、 文件活動與人員目前正在編輯文件等功能會群組在一起在 Word 和 PowerPoint 中的功能區上。 [更多資訊](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
--   **AD RMS 權限原則範本設定：** 可確保該"授與擁有者 （作者） 完全控制正確無到期日"的設定為接受時套用至新的 Word、 Excel 及 PowerPoint 文件，特別是如果停用的設定。 如果設定已停用，使用者會看見一則警告訊息所套用之範本可能會限制存取文件。
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **在功能區上群組共同作業功能：** 在 Word 與 PowerPoint 功能區上，將共用、聊天、註解和文件活動等功能，以及目前正在編輯文件的使用者群組在一起。 [詳細資訊](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
+-   **AD RMS 權限原則範本設定：** 確保「授與擁有者 (作者) 無期間限制的完整控制權限」的設定套用到新的 Word、Excel 及 PowerPoint 文件時有效，尤其是設定停用時。如果設定為停用，使用者會看到警告訊息，指出套用範本可能會限制文件的存取權。
 
-    請注意： 現有文件尚未受到保護範本鎖設定此設定不會變更。 擁有者仍有完全控制] 及 [無到期日在這些文件。
+    請注意： 現有文件尚未受到保護範本鎖設定此設定不會變更。擁有者仍有完全控制] 及 [無到期日在這些文件。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正造成一些 Office 2013 授權快取問題與 Office 2013 的 Office 365 用戶端版本，例如 Office 365 ProPlus、 Office 2016 版本的 Microsoft 起始升級之前要刪除的程式安裝資訊。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此快取問題：由 Microsoft 啟動之 Office 365 用戶端 (例如 Office 365 ProPlus) Office 2013 版本升級到 Office 2016 版本時，某些 Office 2013 授權和程式安裝資訊會遭到刪除。
 
 
 
 ## <a name="version-1604-may-23"></a>版本 1604年： 年 5 月 23 日
 *版本 1604 （組建 6868.2067）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題檢視較舊的郵件伺服器上的連結不會出現下方的清單中的郵件] 資料夾，例如收件匣] 或 [刪除的郵件資料夾中的位置。
--   修正問題其中 Outlook 不會傳送的郵件內容傳送郵件使用.msg 檔時。
--   更新收件匣修復工具 (scanpst.exe)，其可偵測及正確的檔案毀損問題相關讓.pst 檔編製索引及搜尋的方式。 此類型的損毀可以禁止載入的.pst 檔案、 損毀、 以使 Outlook 或造成高 CPU 使用量。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：用來檢視伺服器上較舊郵件訊息的連結，不會出現在資料夾 (例如收件匣或刪除的郵件資料夾) 中訊息清單的底部。
+-   修正此問題：使用 .msg 檔案傳送郵件時，Outlook 不會傳送訊息內容。
+-   更新 [收件匣修復工具] (scanpst.exe)，讓其可以偵測和修正與 .pst 檔案如何編製索引及搜尋方式相關的檔案損毀問題。這種類型的損毀會防止 .pst 檔案載入、Outlook 當掉或高 CPU 使用率。
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   其中損毀之後重新啟動 PowerPoint 與您使用 [文件復原] 工作窗格，如果您收到錯誤訊息當您嘗試儲存復原的檔案或開啟 [原始檔案修正問題。
--   修正問題嘗試儲存復原檔案當初用來建立先前的 PowerPoint 損毀時 PowerPoint 損毀。
--   其中如果您有包含表格、 簡報，然後將簡報另存為 PDF PowerPoint 在修正問題。
--   修正問題其中號碼和空格都會遺失時將簡報儲存在.rtf 格式或文字複製到 rtf 編輯器，例如 [wordpad]。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：如果 PowerPoint 在當機後重新啟動，而您正在使用 [文件復原] 工作窗格時，您若嘗試儲存已復原的檔案或開啟原始檔案會收到錯誤訊息。
+-   修正此問題：PowerPoint 嘗試儲存上一次 PowerPoint 當機所建立的復原檔案時會當機。
+-   修正此問題：如果您的簡報中包含資料表，並將簡報儲存為 PDF，則 PowerPoint 會當機。
+-   修正此問題：以 .rtf 格式或複製文字到 RTF 編輯器 (例如 WordPad) 儲存時，會遺失數字及空格。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正其中如果您在執行復原動作拖曳移動 SmartArt 圖形之後，在 Word 或 SmartArt 圖形會成為空白且無法選取問題。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：當您藉由拖曳移動 SmartArt 圖形後，執行復原動作會造成 Word 當機或 SmartArt 圖形變成空白和無法選取。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正其中設定畫筆粗細的筆跡會損毀應用在 Word、 Excel 及 PowerPoint 發生問題。
--   其中復原文件] 工作窗格不會出現在下次您的問題之後開啟 [Office 應用程式已損毀，尤其是當您重新開啟的應用程式權限之後損毀的修正程式。
--   更新 OfficeC2RClient.exe 使用 「 通道 」，而不是"分支"做為命令列選項。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：在 Word、Excel 和 PowerPoint 中為筆跡功能設定畫筆粗細導致應用程式當機。
+-   修正此問題：在您的 Office 應用程式當機後下一次重新開啟它，不會出現 [文件復原] 工作窗格，尤其是您在當機後馬上重新開啟時。
+-   更新 OfficeC2RClient.exe 以使用「channel」而不是「branch」作為命令列選項。
 
 
 
 ## <a name="version-1604-may-10"></a>版本 1604年： 年 5 月 10 日
 *版本 1604 （組建 6868.2062）*
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄[MS16 054](https://technet.microsoft.com/library/security/ms16-054)： Microsoft Office (3155544) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-054](https://technet.microsoft.com/library/security/ms16-054)：Microsoft Office 的安全性更新 (3155544)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 054](https://technet.microsoft.com/library/security/ms16-054)： Microsoft Office (3155544) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-054](https://technet.microsoft.com/library/security/ms16-054)：Microsoft Office 的安全性更新 (3155544)
 
 
 
 ## <a name="version-1604-may-4"></a>版本 1604年： 年 5 月 4
 *版本 1604 （組建 6868.2060）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **額外的資料連線：** 查詢 JSON 和 Azure SQL 資料倉儲來源的資料。
--   **Power 查詢增強功能：** 改良及新資料轉換和資料連線的功能。 [更多資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
--   **大型位址注意支援：** 如果可用 32 位元版本的 Excel 可以使用更多的記憶體。 [更多資訊](https://support.microsoft.com/kb/3160741)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **額外資料連線：** JSON 和 Azure SQL 資料倉儲來源的查詢資料。
+-   **Power Query 改善功能︰** 改善的新資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **大量位址提示 (Large Address Aware) 支援︰** 32 位元版本的 Excel 可以使用更多的記憶體 (若適用)。 [詳細資訊](https://support.microsoft.com/kb/3160741)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題開始] 畫面上出現的位置增益集已啟用時，即使您已設定未提供給 Excel 開啟時所出現的 [開始] 畫面。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：即使您已設定 Excel 開啟時不會顯示開始畫面，但若啟用增益集，開始畫面仍會出現。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **交談的附件清單：** Office 365 群組中的交談的所有附件都均可在下拉式清單中的讀取窗格的右上角。
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **交談的附件清單︰** Office 365 群組中的所有交談附件都可以從讀取窗格右上角的下拉式清單中取得。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題其中郵件分類不一定會在顯示純文字的郵件。
--   修正問題其中 Outlook 搜尋未傳回重複的結果時交談設定\>啟用使用傳統縮排檢視選項。
--   在 Outlook 西班牙文版本中建立新的郵件時，與欄位的索引標籤導覽修正問題。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：郵件分類並不一定在純文字郵件上顯示。
+-   修正此問題：啟用 [對話設定] \> [使用傳統縮排檢視] 選項時，Outlook 搜尋會傳回重複的結果。
+-   修正以下問題，在西班牙文版本的 Outlook 中建立新的郵件時，欄位的索引標籤導覽會出現問題。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題的編號波斯、 阿拉伯文、 印度文、 和希伯來文中的清單的內容。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正在波斯、阿拉伯文、印度文及希伯來文中內容編號清單的問題。
 
 
 
 ## <a name="version-1603-april-28"></a>版本 1603年： 年 4 月 28 日
 *版本 1603 （組建 6769.2040）*
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題出指定的範圍不正確地匯入使用資料時\>取得 & 轉換\>從資料表。
--   修正問題的巨集執行所在明顯慢的電腦上已啟用記錄遙測儀表板。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：使用 [資料] \> [取得並轉換] \> [從資料表] 時，已命名的範圍會不正確地匯入。
+-   修正此問題：巨集在已啟用 Telemetry 儀表板記錄的電腦上執行速度明顯變慢。
 
 
 
 ## <a name="version-1603-april-12"></a>版本 1603年： 年 4 月 12 日
 *版本 1603 （組建 6769.2017）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性公告[MS16 042](https://technet.microsoft.com/library/security/ms16-042)： Microsoft Office (3148775) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 的安全性更新 (3148775)
 
-### <a name="skype-for-business-security-updates"></a>Skype for Business： 月份的安全性更新
--   Microsoft 安全性公告[MS16 039](https://technet.microsoft.com/library/security/ms16-039): Microsoft 圖形元件 (3148522) 的安全性更新
+### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-039](https://technet.microsoft.com/library/security/ms16-039)：Microsoft 圖形元件的安全性更新 (3148522)
 
 
 
 ## <a name="version-1603-april-4"></a>版本 1603年: April 4
 *版本 1603 （組建 6769.2015）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **Power 查詢增強功能：** 增強的連線功能並加入新的轉換。 [更多資訊](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **Power Query 強化功能︰** 強化的連接性功能並新增新的轉換。 [詳細資訊](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   其中之後建立小計，將選取的範圍不會展開到包含小計修正問題。
--   修正問題無法開啟 FTP 伺服器上的檔案的位置。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：在建立小計之後，選取範圍不會延伸以包含小計。
+-   修正此問題：無法開啟 FTP 伺服器上的檔案。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正的問題中 HTML 簽章影像會為灰色出現方塊時傳送新訊息或回覆。
--   修正問題其中 [搜尋] 資料夾的讀取項目也會顯示未讀取項目。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：當傳送或回覆新郵件時，HTML 簽章中的影像會顯示為灰色方塊。
+-   修正此問題：已讀取項目的搜尋資料夾也會顯示未讀取項目。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **PowerPoint Designer 增強功能：** 設計多個圖像、 色彩解壓縮與臉部辨識的建議。 [更多資訊](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **PowerPoint 設計工具強化功能：** 多個影像、色彩擷取程式和臉部辨識的設計建議。 [詳細資訊](https://blogs.office.com/2016/03/24/powerpoint-designer-whats-new-and-whats-next/)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   修正問題時嘗試自訂項目符號其中顯示不是所有字型選項。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：當嘗試自訂項目符號時，未顯示所有字型選項。
 
-### <a name="visio-non-security-updates"></a>Visio： 的非安全性更新
--   修正問題圖形放在繪圖 CAD 不匯出的正確大小的位置。
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+-   修正此問題：放置在 CAD 繪圖的圖形未以正確的大小匯出。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   將選取的] 按鈕新增至 Word、 Excel 及 PowerPoint 允許使用者切換是否為畫筆使用筆跡標註或滑鼠模擬中的功能區。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   將 [選取] 按鈕新增至 Word、Excel 及 PowerPoint 中的功能區，讓使用者可切換是否使用畫筆進行筆跡註釋或滑鼠模擬。
 
 
 
 ## <a name="version-1602-march-24"></a>版本 1602年： 年 3 月 24 日
 *版本 1602 （組建 6741.2021）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題其中使用鍵盤快速鍵來存取電子郵件附件會導致 Outlook 損毀。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：使用鍵盤快速鍵存取電子郵件的附件時會造成 Outlook 當機。
 
 
 
 ## <a name="version-1602-march-17"></a>版本 1602年： 年 3 月 17
 *版本 1602 （組建 6741.2017）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **發佈至 Power BI:** 儲存至 powerbi.com 發佈活頁簿的項目，例如圖表、 範圍和表格和儀表板格式的資料互動。 需要的 Power BI 訂閱。 [更多資訊](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **發佈到 Power BI：**：儲存並發佈圖表、範圍和資料表等活頁簿項目至 powerbi.com，並與儀表板格式的資料互動。需要訂閱 Power BI。 [詳細資訊](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   其中，當使用佈景主題色彩及執行巨集或增益集，以綠色的灰色文字，使其成為讀取狀態的使用者很難狀態列會變更更新在狀態列上修正問題。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：使用佈景主題顏色並執行巨集或增益集時，狀態列變成綠底灰字，讓使用者難以閱讀狀態列上的狀態更新。
 
-### <a name="onenote-non-security-updates"></a>OneNote： 的非安全性更新
--   修正問題內容醒目提示不會出現的位置時使用檢視播放] 選項。
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
+-   修正此問題：當使用 [檢視播放] 選項時不會出現內容反白顯示。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **封存功能區上的命令：** 可讓您快速地移動收件匣或任何其他資料夾至封存資料夾中儲存的項目。 [更多資訊](https://support.office.com/article/25f75777-3cdc-4c77-9783-5929c7b47028)
--   **與團隊合作：** 瀏覽、 join 中，並建立從 Outlook 中的群組並新增類最主動遵循 [我的最愛]。 [更多資訊](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **功能區上的封存指令：** 可讓您將儲存在收件匣或任何其他資料夾中的項目快速移動至封存資料夾。 [詳細資訊](https://support.office.com/article/25f75777-3cdc-4c77-9783-5929c7b47028)
+-   **使用群組：** 從 Outlook 中瀏覽、加入和建立群組，並將最積極追蹤的群組新增至 [我的最愛]。 [詳細資訊](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   其中建立設定檔會導致 Outlook 損毀修復問題。 [此問題的詳細資訊](https://support.microsoft.com/kb/3098011)
--   修正問題其中捲動一則訊息會導致 Outlook 損毀。
--   修正問題游標落後使用者的輸入的內容。
--   其中 [來源] 下拉式清單中的項目不完全反白顯示完全在高對比模式下修正問題。
--   修正問題第一個附件選取時使用 SHIFT + 按一下以選取多個附件。
--   使用所有貼上以便將地址行事曆剪貼簿中複製到新的會議修正問題。
--   修正問題其中存取 Exchange 伺服器上的無反應公用資料夾會導致 Outlook 損毀。
--   修正問題的使用者無法存取架設在 Exchange Server 2010 上的公用資料夾的位置。
--   修正的問題，如果郵件寄件者將檔案附加同時包含內嵌映像中的內文或簽章 HTML 電子郵件回覆、 郵件收件者取得郵件，但不是附件。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：建立設定檔會造成 Outlook 當機。 [此問題的相關資訊](https://support.microsoft.com/kb/3098011)
+-   修正此問題：瀏覽一則訊息會造成 Outlook 當機。
+-   修正此問題：游標落後使用者正在輸入的資料。
+-   修正此問題：[寄件者] 下拉式清單中的項目在高對比模式下並未完全標示。
+-   修正此問題：當使用 SHIFT + 按一下來選取多個附件時，僅選取第一個附件。
+-   修正此問題：使用 [全部貼上] 以從行事曆剪貼簿中複製地址到新會議。
+-   修正此問題：存取 Exchange Server 上的棄置公用資料夾造成 Outlook 當機。
+-   修正此問題：使用者無法存取託管於 Exchange Server 2010 的公用資料夾。
+-   修正此問題：當郵件寄件者在回覆內文或簽章中包含內嵌影像的 HTML 電子郵件時附加檔案，郵件收件者會收到該郵件但未收到附加檔案。
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business： 的非安全性更新
--   修正問題其中按一下工作列上預覽圖像的新的 [交談] 視窗會導致 for Business Skype 損毀。
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正此問題：按一下新交談視窗的工作列預覽影像造成商務用 Skype 當機。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題游標落後使用者的輸入的內容。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：游標落後使用者正在輸入的資料。
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 更新的功能
--   **小型物件選取控點：** 協助使用者操作小型物件在 Word、 Excel、 PowerPoint 和 Outlook，尤其是當使用觸控式裝置時的改良的選取範圍控點。
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **小型物件的選取控點︰** 改良的選取控點可協助使用者管理 Word、Excel、PowerPoint 與 Outlook 中的小型物件，尤其是當使用觸控式的裝置時。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   新增檔案] 底下的選項\>選項\>進階在 Word、 Excel 及 PowerPoint 讓使用者設定的預設行為滑鼠模擬而不是筆跡標註使用畫筆。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   在 Word、Excel 和 PowerPoint 中的 [檔案 \> 選項 \> 進階] 下新增選項，讓使用者將使用觸控筆的預設行為設定為滑鼠模擬，而不是筆跡註釋。
 
 
 
 ## <a name="version-1601-march-4"></a>版本 1601年： 年 3 月 4
 *版本 1601 （組建 6568.2036）*
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正的問題時設定為使用 POP3，在伺服器上的所有郵件會從收件匣後都刪除 Outlook 下載的郵件訊息。 [此問題的詳細資訊](https://support.microsoft.com/kb/3145116)
--   修正問題，當設定為使用 POP3、 郵件訊息下載多次，而造成重複的項目。 [此問題的詳細資訊](https://support.microsoft.com/kb/3145116)
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：設定為使用 POP3 時，當 Outlook 下載郵件訊息後，伺服器上所有郵件訊息皆從收件匣中刪除。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
+-   修正問題，當設定為使用 POP3、 郵件訊息下載多次，而造成重複的項目。[此問題的詳細資訊](https://support.microsoft.com/kb/3145116)
 
 
 
 ## <a name="version-1601-march-3"></a>版本 1601年： 年 3 月 3 日
 *版本 1601 （組建 6568.2034）*
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄[MS16 029](https://technet.microsoft.com/library/security/ms16-029)： Microsoft Office 工具來處理遠端執行程式碼 (3141806) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-029](https://technet.microsoft.com/library/security/ms16-029)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3141806)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性佈告欄[MS16 029](https://technet.microsoft.com/library/security/ms16-029)： Microsoft Office 工具來處理遠端執行程式碼 (3141806) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-029](https://technet.microsoft.com/library/security/ms16-029)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3141806)
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   如果使用者嘗試將檔案轉換成使用 Adobe Acrobat PDFMaker PDF 應用程式損毀修正問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：使用者嘗試使用 Adobe Acrobat PDFMaker 將檔案轉換成 PDF 時造成應用程式當機。
 
 
 
 ## <a name="version-1601-february-16"></a>版本 1601年： 年 2 月 16 日
 *版本 1601 （組建 6568.2025）*
 
-### <a name="excel-feature-updates"></a>Excel： 功能更新
--   **漏斗圖表：** 值顯示成漸漸地愈來愈會降低比例。 [更多資訊](https://support.office.com/article/ba21bcba-f325-4d9f-93df-97074589a70e)
--   **改善公式自動完成：** Excel 現在會傳回所有部分會比對輸入函數名稱，不只是完全符合一開始的字串。
--   **新文字函數：** 兩個新的文字函式現在可以取得： [CONCAT](https://support.office.com/article/9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)和[TEXTJOIN](https://support.office.com/article/357b449a-ec91-49d0-80c3-0e8fc845691c)。
--   **新邏輯函數：** 兩個新的邏輯函式現在可以取得： [IFS](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45)和[交換器](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)。
--   **新的統計函數：** 現在提供兩個新的統計函數所： [MAXIFS](https://support.office.com/article/dfd611e6-da2c-488a-919b-9b6376b28883)和[MINIFS](https://support.office.com/article/6ca1ddaa-079b-4e74-80cc-72eef32e6599)。
--   **下列傳送] 選項：** 從 [共用] 窗格中傳送文件當做附件或為 PDF。 [更多資訊](https://support.office.com/article/8d8a52bb-03c3-4933-ab6c-330aabf1e589)
+### <a name="excel-feature-updates"></a>Excel：功能更新
+-   **漏斗圖：** 以比例逐漸減少的方式顯示值。 [詳細資訊](https://support.office.com/article/ba21bcba-f325-4d9f-93df-97074589a70e)
+-   **改良的公式自動完成：** 鍵入函數名稱時，Excel 現在會傳回部分符合的所有項目，而不只是傳回完全符合字串開頭的項目。
+-   **新的文字函數：** 現在可使用兩個新的文字函數： [CONCAT](https://support.office.com/article/9b1a9a3f-94ff-41af-9736-694cbd6b4ca2)和 [TEXTJOIN](https://support.office.com/article/357b449a-ec91-49d0-80c3-0e8fc845691c)。
+-   **新的邏輯函數：** 現在可使用兩個新的邏輯函數： [IFS](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45)和 [SWITCH](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)。
+-   **新的統計函數：** 現在可使用兩個新的統計函數： [MAXIFS](https://support.office.com/article/dfd611e6-da2c-488a-919b-9b6376b28883)和 [MINIFS](https://support.office.com/article/6ca1ddaa-079b-4e74-80cc-72eef32e6599)。
+-   **傳送選項：** 從 [共用] 窗格，以附件或以 PDF 格式的方式傳送文件。 [詳細資訊](https://support.office.com/article/8d8a52bb-03c3-4933-ab6c-330aabf1e589)
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中使用 Application.OnKey() 監聽主要筆劃會導致 Excel 損毀。
--   修正問題 Inquire 增益集已在啟用之後才會顯示查詢功能區的位置。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：使用 Application.OnKey() 來攔截按鍵動作時會造成 Excel 當機。
+-   修正此問題：啟用 Inquire 增益集後，Inquire 功能區不會顯示。
 
-### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business： 的非安全性更新
--   修正其中西班牙文版的 OneDrive for Business 不會開啟並顯示關於載入映像失敗的錯誤訊息而發生問題。
+### <a name="onedrive-for-business-non-security-updates"></a>商務用 OneDrive：非安全性更新
+-   修正此問題：商務用 OneDrive 的西班牙文版本不會開啟，反而會顯示載入影像失敗的相關錯誤訊息。
 
-### <a name="outlook-feature-updates"></a>Outlook： 功能更新
--   **建議的連絡人圖片：** 當使用名稱在 Outlook 中搜尋人員的圖片現在會顯示在建議的連絡人清單中的其名稱旁邊。
--   **疑難排解工具：** 診斷及解決部分最常時發生 Outlook 問題來執行 Office 支援與復原助理工具會從檔案\>疑難排解。
--   **文法檢查選項：** 其他或更新法文、 挪威文及丹麥文文法檢查會產生額外的文法錯誤快速反白顯示其選項。
--   **提供意見反應：** 移至檔案 UserVoice 網站上的 Outlook 的建議功能或改進\>意見反應。
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+-   **建議的連絡人圖片：** 當您使用名稱在 Outlook 中搜尋時，建議連絡人清單中的連絡人名稱旁會顯示他們的圖片。
+-   **疑難排解工具：** 藉由從 [檔案 \> 疑難排解]，執行 Office 支援及修復小幫手工具來診斷和解決一些最常見的 Outlook 問題。
+-   **文法檢查程式選項：** 法文、挪威文和丹麥文文法檢查程式的其他或更新選項，這將會使得其他文法錯誤以反白顯示。
+-   **提供意見反應：** 前往 [檔案 \> 意見反應]，針對 UserVoice 網站上 Outlook 的功能提供建議或改進。
 
-### <a name="outlook-non-security-updates"></a>Outlook： 的非安全性更新
--   修正問題而其中圖像顯示錯誤的大小的傳送高 dpi 裝置與一般 dpi 監視器之間的郵件時。
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正此問題：在高 dpi 裝置與正常的 dpi 監視器之間傳送郵件時，影像顯示的尺寸錯誤。
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint： 功能更新
--   **即時平台服務：** 請參閱誰在簡報上運作與新投影片每個人上運作。 [更多資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+-   **即時顯示狀態：** 查看誰正在使用簡報，以及每個人正在使用的投影片內容。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint： 的非安全性更新
--   修正問題其中使用\#插入一張投影片在投影片母片內的 textbox 的數字不會顯示投影片編號。
--   修正問題其中格式背景中選擇 [重設\>圖片校正會導致 PowerPoint 損毀。
--   修正問題其中選擇要編輯的原始的投影片的圖表資料格線處於開啟時是在相同的投影片上的圖表資料會導致 PowerPoint 損毀。
--   修正問題處有出現 [音訊] 圖示，即使已設定時播放簡報 （英文） 已匯出視訊格式為隱藏的投影片放映，期間。
--   修正問題其中設計想法] 對話方塊會繼續顯示當使用者選取"No 感謝您"之後插入的圖片。
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：使用 \# 在母片投影片的文字方塊內插入投影片編號時，投影片編號不會顯示。
+-   修正此問題：在 [格式背景 \> 圖片校正] 中選擇重設時，PowerPoint 會發生當機的情形。
+-   修正此問題：在原始投影片的圖表資料格開啟時，選擇對複製投影片上的圖表資料進行編輯，PowerPoint 就會當機。
+-   修正此問題：即使已將音效圖示設定為在投影片放映時隱藏，但在播放已匯出為視訊格式的簡報時，音效圖示還是會顯示。
+-   修正此問題：在使用者選擇「不用了，謝謝」後，在插入圖片時，會一直出現 [設計構想] 對話方塊。
 
-### <a name="word-feature-updates"></a>Word： 功能更新
--   **文法檢查選項：** 其他或更新法文、 挪威文及丹麥文文法檢查會產生額外的文法錯誤快速反白顯示其選項。
+### <a name="word-feature-updates"></a>Word：功能更新
+-   **文法檢查程式選項：** 法文、挪威文和丹麥文文法檢查程式的其他或更新選項，這將會使得其他文法錯誤以反白顯示。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題其中執行合併列印與 Outlook 連絡人中的錯誤訊息的結果。
--   使用 Word 中使用 Windows 10] 中的虛擬桌面修正問題。
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：執行與 Outlook 連絡人的合併列印時，會出現錯誤訊息。
+-   修復此問題：在 Windows 10 中使用虛擬桌面的 Word 時發生問題。
 
-### <a name="office-suite-feature-updates"></a>Office 套件： 更新的功能
--   **黑色的佈景主題：** 提供在 Word、 Excel、 PowerPoint、 Outlook 和 OneNote 的對比最高層級新的佈景主題。 [更多資訊](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
--   **筆跡標註：** 使用手指或畫筆的 Word、 Excel、 或 PowerPoint 寫入及繪製，及使用新的繪圖] 索引標籤上的工具以反白顯示特定感興趣的內容。 [更多資訊](https://support.office.com/article/c00b7319-2b50-4784-8114-47593d991c5c)
--   **排序檔案中的功能\>開啟：** 依名稱或檔案中修改日期排序\>但不包括 Outlook 的所有應用程式中開啟。 Word、 Excel 及 PowerPoint，排序也有可在檔案中\>另存新檔。
--   **在檔案中的資料夾瀏覽功能\>另存新檔：** 檔案中使用完整資料夾導覽\>另存新檔在 Word、 Excel 及 PowerPoint OneDrive 資料夾的 OneDrive for Business 資料夾與此電腦。
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+-   **黑色的佈景主題：** 新的佈景主題，其可在 Word、Excel、PowerPoint、Outlook 和 OneNote 中提供最高程度的對比。 [詳細資訊](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
+-   **筆跡註釋：** 使用您的手指或畫筆在 Word、Excel 或 PowerPoint 寫字和畫圖，並使用新的 [繪圖] 索引標籤上的工具，將特定感興趣的內容反白顯示。 [詳細資訊](https://support.office.com/article/c00b7319-2b50-4784-8114-47593d991c5c)
+-   **[檔案 \> 開啟] 中的排序功能：** 使用 Outlook 以外的所有應用程式時，在 [檔案 \>; 開啟] 依名稱或修改日期排序。若是 Word、Excel 及 PowerPoint，在 [檔案 \> 另存新檔] 中也可使用排序。
+-   **[檔案 \> 另存新檔] 中的資料夾瀏覽功能：** 針對 OneDrive 資料夾、商務用 OneDrive 資料夾以及這台電腦，在 Word、Excel 和 PowerPoint 中的 [檔案 \> 另存新檔] 中使用完整的資料夾瀏覽。
 
-### <a name="office-suite-non-security-updates"></a>Office 套件： 的非安全性更新
--   修正問題自訂 UI imageMSO 屬性中指定的圖示不會顯示 Word、 Excel、 或 PowerPoint 中的位置。
--   修正其中 office.com 的安裝 Office 之後開啟應用程式會導致損毀應用如果電腦不能存取網際網路或無法連線在網際網路上的 Office 授權服務發生問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：在 Word、Excel 或 PowerPoint 中，不會顯示具有 imageMSO 屬性且在自訂 UI 中指定的圖示。
+-   修正此問題：從 office.com 安裝 Office 後，若電腦不能存取網際網路，或無法連上網際網路的 Office 授權服務時，開啟應用程式時，應用程式會當機。
 
 
 
 ## <a name="version-1511-february-9"></a>版本 1511年： 年 2 月 9 日
 *版本 1511 （組建 6366.2068）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性佈告欄毫秒[16 015](https://go.microsoft.com/fwlink/?LinkId=722214)： Microsoft Office 工具來處理遠端執行程式碼 (3134226) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3134226)
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性佈告欄毫秒[16 015](https://go.microsoft.com/fwlink/?LinkId=722214)： Microsoft Office 工具來處理遠端執行程式碼 (3134226) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3134226)
 
 
 
 ## <a name="version-1511-january-25"></a>版本 1511年： 年 1 月 25 日
 *版本 1511 （組建 6366.2062）*
 
-### <a name="excel-non-security-updates"></a>Excel： 的非安全性更新
--   修正問題其中使用 Application.OnKey() 監聽按鍵會導致 Excel 損毀。
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：使用 Application.OnKey() 來攔截按鍵動作時，Excel 會當機。
 
-### <a name="word-non-security-updates"></a>Word： 的非安全性更新
--   修正問題 Word 不會顯示文件格式正確地編輯文件時的位置。 [此問題的詳細資訊](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正此問題：編輯文件時，Word 無法正常顯示文件的格式。 [此問題的相關資訊](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
 ## <a name="version-1511-january-12"></a>版本 1511年： 年 1 月 12 日
 *版本 1511 （組建 6366.2056）*
 
-### <a name="excel-security-updates"></a>Excel： 安全性更新
--   Microsoft 安全性公告[MS16 004](https://go.microsoft.com/fwlink/?LinkId=717998)： Microsoft Office 工具來處理遠端執行程式碼 (3124585) 的安全性更新
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
-### <a name="powerpoint-security-updates"></a>PowerPoint： 安全性更新
--   Microsoft 安全性公告[MS16 004](https://go.microsoft.com/fwlink/?LinkId=717998)： Microsoft Office 工具來處理遠端執行程式碼 (3124585) 的安全性更新
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
-### <a name="visio-security-updates"></a>Visio： 安全性更新
--   Microsoft 安全性公告[MS16 004](https://go.microsoft.com/fwlink/?LinkId=717998)： Microsoft Office 工具來處理遠端執行程式碼 (3124585) 的安全性更新
+### <a name="visio-security-updates"></a>Visio：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
-### <a name="word-security-updates"></a>Word： 安全性更新
--   Microsoft 安全性公告[MS16 004](https://go.microsoft.com/fwlink/?LinkId=717998)： Microsoft Office 工具來處理遠端執行程式碼 (3124585) 的安全性更新
+### <a name="word-security-updates"></a>Word：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
-### <a name="office-suite-security-updates"></a>Office 套件： 安全性更新
--   Microsoft 安全性公告[MS16 004](https://go.microsoft.com/fwlink/?LinkId=717998)： Microsoft Office 工具來處理遠端執行程式碼 (3124585) 的安全性更新
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)

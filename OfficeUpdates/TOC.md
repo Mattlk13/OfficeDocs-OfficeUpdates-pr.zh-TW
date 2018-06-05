@@ -11,12 +11,12 @@
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### 分號每年次通道
+### 半年通道
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### 分號每年次通道 （目標）
+### 半年通道 (已設定目標)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
@@ -40,7 +40,7 @@
 ## [Project Server 更新](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
 
-# 相關的連結
+# 相關連結
 ## [Windows 10 版本](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 技術支援週期原則](https://support.microsoft.com/lifecycle)
 
