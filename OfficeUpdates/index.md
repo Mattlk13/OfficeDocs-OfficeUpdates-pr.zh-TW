@@ -32,7 +32,7 @@ ms.locfileid: "19555957"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office 365 ProPlus</h3>
+                        <h3>Office 365 專業增強版</h3>
                         <p><a href="release-notes-office365-proplus.md">版本資訊</a></p>
                         <p><a href="update-history-office365-proplus-by-date.md">（依日期） 的更新歷程記錄</a></p>
                         <p><a href="download-sizes-office365-proplus-updates.md">更新大小</a></p>
