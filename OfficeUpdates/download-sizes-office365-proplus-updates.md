@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5b7f793ab49c492a5c92c0160276a47955d8835e
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 17e4b2b81ec0002f6dae5777dc235f9738bb3b34
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555962"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709724"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -25,7 +25,7 @@ ms.locfileid: "19555962"
   
 我們的目標是要在發行前一週提供更新大小資訊，但有時這項資訊無法事先取得。半年通道和半年通道 (已設定目標) 預計會在每個月的第二個星期二發行。每月通道則沒有一定的發行排程。
 
-如需指定版本中所含功能、安全性更新和非安全性更新的相關資訊，請參閱 [Office 365 專業增強版的版本資訊](release-notes-office365-proplus.md)。
+如需指定版本中所含功能、安全性更新和非安全性更新的相關資訊，請參閱 [Office 365 專業增強版更新的版本資訊](release-notes-office365-proplus.md)。
 
   
 > [!NOTE]
