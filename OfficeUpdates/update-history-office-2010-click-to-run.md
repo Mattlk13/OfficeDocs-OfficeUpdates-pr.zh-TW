@@ -3,19 +3,19 @@ title: Office 2010 Click-隨選即用產品的更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 專業人員提供的永久版本的 Office 2010 使用 Click 隨選更新歷程記錄
-ms.openlocfilehash: 59181f717a0a7ecc57bc64ebe306f4c876c03074
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: 709faa1fd3c73c17e518359d2facd8b2216f838b
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709764"
+ms.lasthandoff: 06/22/2018
+ms.locfileid: "19886569"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 Click-隨選即用產品的更新歷程記錄
 
@@ -30,9 +30,9 @@ ms.locfileid: "19709764"
 如果您使用其中一個這些產品，而且您想要確認您是最新、 檢查您的 Office 版本號碼和手動更新 Office 必要時。
   
 > [!NOTE]
-> Office 2010 的最新版本是**14.0.7209.5000**、 2018 年 5 月 8，在已發行。 
+> Office 2010 的最新版本是**14.0.7210.5000**，其中已於 2018 年 6 月 12 日發行。 
   
-若要檢查您的 Office 版本，請執行下列動作：
+若要檢查 Office 版本，請執行下列步驟：
   
 1. 開啟任何 Office 2010 應用程式，例如 Word 或 Excel。
     
@@ -46,15 +46,16 @@ ms.locfileid: "19709764"
 
 下表提供要先列出最新發行日期 for Office 2010 的更新清單。如果有的話 Microsoft 知識庫 (KB) 文章或包含資訊包含在更新修正的 Microsoft 安全性佈告欄資料表會包含版本和連結的版本號碼。
   
-新的版本都含有舊版本中所包含的所有更新。
+新的版本會包含先前版本所包含的所有更新。
 
 > [!NOTE]
-> 下面所列的知識庫文章是僅供參考 （英文）。按一下 [隨選更新包含知識庫文章中所列的所有修正項目。您不需要下載知識庫文章中所列的個別更新。
+> 下列 KB 文章僅供參考。「隨選即用」更新包含 KB 文章所列出的所有修正。您不需要個別下載 KB 文章中所列出的更新。
 
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2018 |5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
+|2018 |6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
+||5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
 ||4 月 10 日  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
 ||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
 ||2 月 13 日  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
@@ -83,22 +84,22 @@ ms.locfileid: "19709764"
 ||1 月 12 日  <br/> |14.0.7165.5002  <br/> |[KB 3131245](https://support.microsoft.com/kb/3131245) <br/> |
 |2015  <br/> |12 月 8 日  <br/> |14.0.7164.5001  <br/> |[KB 3121650](https://support.microsoft.com/kb/3121650) <br/> |
 ||11 月 10 日  <br/> |14.0.7162.5003  <br/> |[KB 3108456](https://support.microsoft.com/kb/3108456) <br/> |
-||年 10 月 13 日  <br/> |14.0.7160.5000  <br/> |[KB 3099951](https://support.microsoft.com/kb/3099951) <br/> |
-||年 9 月 8 日  <br/> |14.0.7157.5002  <br/> |[KB 3092181](https://support.microsoft.com/kb/3092181) <br/> |
+||10 月 13 日  <br/> |14.0.7160.5000  <br/> |[KB 3099951](https://support.microsoft.com/kb/3099951) <br/> |
+||9 月 8 日  <br/> |14.0.7157.5002  <br/> |[KB 3092181](https://support.microsoft.com/kb/3092181) <br/> |
 ||8 月 11 日  <br/> |14.0.7155.5001  <br/> |[KB 3083805](https://support.microsoft.com/kb/3083805) <br/> |
-||年 7 月 14 日  <br/> |14.0.7153.5002  <br/> |[KB 3077012](https://support.microsoft.com/kb/3077012) <br/> |
+||7 月 14 日  <br/> |14.0.7153.5002  <br/> |[KB 3077012](https://support.microsoft.com/kb/3077012) <br/> |
 ||6 月 9 日  <br/> |14.0.7151.5001  <br/> |[KB 3068507](https://support.microsoft.com/kb/3068507) <br/> |
-||年 5 月 12 日  <br/> |14.0.7149.5001  <br/> |[KB 3061974](https://support.microsoft.com/kb/3061974) <br/> |
-||4 月 14  <br/> |14.0.7147.5001  <br/> |[KB 3050766](https://support.microsoft.com/kb/3050766) <br/> |
-||年 3 月 10 日  <br/> |14.0.7145.5001  <br/> |[KB 3040794](https://support.microsoft.com/kb/3040794) <br/> |
-||10 月  <br/> |14.0.7143.5001  <br/> |[KB 3032763](https://support.microsoft.com/kb/3032763) <br/> |
+||5 月 12 日  <br/> |14.0.7149.5001  <br/> |[KB 3061974](https://support.microsoft.com/kb/3061974) <br/> |
+||4 月 14 日  <br/> |14.0.7147.5001  <br/> |[KB 3050766](https://support.microsoft.com/kb/3050766) <br/> |
+||3 月 10 日  <br/> |14.0.7145.5001  <br/> |[KB 3040794](https://support.microsoft.com/kb/3040794) <br/> |
+||2 月 10 日  <br/> |14.0.7143.5001  <br/> |[KB 3032763](https://support.microsoft.com/kb/3032763) <br/> |
 |2014  <br/> |12 月 9 日  <br/> |14.0.7140.5002  <br/> |[KB 3020812](https://support.microsoft.com/kb/3020812) <br/> |
 ||11 月 11 日  <br/> |14.0.7137.5001  <br/> |[KB 3012392](https://support.microsoft.com/kb/3012392) <br/> |
-||10 月 14  <br/> |14.0.7134.5001  <br/> |[KB 3003800](https://support.microsoft.com/kb/3003800) <br/> |
-||2010 年 8 月 12  <br/> |14.0.7130.5000  <br/> |[KB 2989071](https://support.microsoft.com/kb/2989071) <br/> |
-||年 7 月 8 日  <br/> |14.0.7128.5001  <br/> |[KB 2980001](https://support.microsoft.com/kb/2980001) <br/> |
-||年 5 月 13 日  <br/> |14.0.7123.5002  <br/> |[KB 2964042](https://support.microsoft.com/kb/2964042) <br/> |
-||年 4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
+||10 月 14 日  <br/> |14.0.7134.5001  <br/> |[KB 3003800](https://support.microsoft.com/kb/3003800) <br/> |
+||8 月 12 日  <br/> |14.0.7130.5000  <br/> |[KB 2989071](https://support.microsoft.com/kb/2989071) <br/> |
+||7 月 8 日  <br/> |14.0.7128.5001  <br/> |[KB 2980001](https://support.microsoft.com/kb/2980001) <br/> |
+||5 月 13 日  <br/> |14.0.7123.5002  <br/> |[KB 2964042](https://support.microsoft.com/kb/2964042) <br/> |
+||4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||12 月  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
 |2012  <br/> |年 10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 安全性佈告欄 MS12 064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 安全性佈告欄 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Office 2010 的定義更新  <br/> |
