@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555968"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886959"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,7 +25,33 @@ ms.locfileid: "19555968"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 
-## <a name="version-1805-may-24"></a>1805 版：5 月 24 日
+## <a name="version-1805-june-13"></a>版本 1805：6 月 13 日
+*版本 1805 (組建 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Outlook 非安全性更新
+ - 修正當應用程式呼叫 MAPI API 時會造成當機的問題。
+
+
+
+## <a name="version-1805-june-12"></a>版本 1805：6 月 12 日
+*版本 1805 (組建 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 遠端程式碼執行弱點
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 提高權限弱點
+
+### <a name="outlook-non-security-updates"></a>Outlook 非安全性更新
+
+- 修正當應用程式呼叫 MAPI API 時會造成當機的問題。
+
+### <a name="project-non-security-updates"></a>Project 非安全性更新
+
+- 修正當您在透過主要專案內容使用子專案時，系統阻止您儲存子專案的問題。
+
+## <a name="version-1805-may-24"></a>版本 1805：5 月 24 日
 *版本 1805 (組建 9330.2087)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook 非安全性更新

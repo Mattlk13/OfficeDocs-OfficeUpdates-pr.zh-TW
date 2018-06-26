@@ -3,7 +3,7 @@ title: Mac 版 Office 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 46548cbd64aaf43db8dd0f6070a3f8a2eb69df0a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555977"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886949"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -32,7 +32,32 @@ ms.locfileid: "19555977"
 > - 只有最新版本會提供下載連結。
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
+## <a name="june-2018-release"></a>2018 年 6 月版本
+
+**發行日期：** 2018 年 6 月 13 日 
+
+版本 16.14.1 (組建 18061302)**
+
+此版本修正了個別應用程式更新套件的問題。
+
+以下是更新套件的下載連結：[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) 和 [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg)。
+
+<br/><br/>
+
+ **發行日期：** 2018 年 6 月 12 日 
   
+ 版本 16.14.0 (組建 18061000)** 
+  
+此版本提供下列更新。
+  
+|**應用程式**|**功能更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Word  <br/> |**學習工具改善可讀性：** 讓您的眼睛休息。調整文字間距、欄寬和頁面色彩。或者聆聽 Word 為您大聲朗讀文件、朗讀時醒目提示文字。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**快速填入資料：** 提供一些範例給「快速填入」，它就會為您填入資料。[深入了解](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **破除語言障礙：** 使用 Microsoft Translator 以另一種語言翻譯文字、片語或完整句子。[深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**破除語言障礙：** 使用 Microsoft Translator 以另一種語言翻譯文字、片語或完整句子。[深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**以生動的色彩顯示超連結：** 超連結不再只是藍色。套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**建立他人會記得的簽名：** 使用豐富的字型樣式、色彩、映像連結等等項目來展現您自己。[深入了解](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **建立群組並且共同作業：** 想要在 Outlook 中建立 Office 365 群組嗎？沒有問題！新增和移除成員也可以。在 Mac 上共同作業更簡單。[深入了解](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+
 ## <a name="may-2018-release"></a>2018 年 5 月版本
 
 **發行日期：** 2018 年 5 月 24 日
@@ -95,9 +120,7 @@ ms.locfileid: "19555977"
  *版本 16.11.1 (組建 18031900)* 
   
 此版本修正了 Word、Excel 及 PowerPoint 在啟動時偶爾會無限期停止回應的問題。
-  
-以下是更新套件的下載連結：[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg) 和 [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg)。
- 
+   
 <br/><br/>
  
  **發行日期：** 2018 年 3 月 13 日 
@@ -106,15 +129,14 @@ ms.locfileid: "19555977"
   
 此版本提供下列更新。
   
-|**應用程式**|**功能更新**|**安全性更新**|**非安全性更新**|**更新套件的下載連結**|
+|**應用程式**|**功能更新**|**安全性更新**|**非安全性更新**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**焦點模式的功用更多樣化：** 現在，焦點模式會以您設定的縮放比例開啟，並在您捲動時顯示頁碼。  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過  <br/> |||
 |PowerPoint  <br/> |**內嵌字型：** 內嵌字型可確保簡報在每一部電腦上都會有相同的呈現，並且帶給使用者您想要給予的體驗。  <br/> ||||
-|Outlook  <br/> |**資料表：** 在您的郵件和行事曆活動中插入資料表，並讓您的內容具有結構。您無須再從其他 Office 應用程式複製並貼上了。[深入了解](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **同時檢視兩個時區：** 想要知道另一個國家或地區的時間嗎？現在，您可以在 Outlook 中新增第二個時區。<br/><br/> **跨時區排程：** 您會跨時區旅行嗎？您可以建立開始和結束時間屬於不同時區的活動，Outlook 會替您將時區轉換妥當。<br/><br/> **變更文字大小：** 放大或縮小資訊看板、郵件清單和讀取窗格中的字型大小。[深入了解](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||修正了下列問題：如果電腦的預設時區遵循日光節約時間 (DST)，並選取了 [週] 檢視，您可能會看到在 DST 開始的那一週，行事曆格線上的所有活動都出現了一小時的時差。  <br/> |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[OneNote 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
-|Office 套件  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點  <br/> ||不適用  <br/> |
-|Microsoft AutoUpdate 3.17  <br/> ||||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
+|Outlook  <br/> |**資料表：** 在您的郵件和行事曆活動中插入資料表，並讓您的內容具有結構。您無須再從其他 Office 應用程式複製並貼上了。[深入了解](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **同時檢視兩個時區：** 想要知道另一個國家或地區的時間嗎？現在，您可以在 Outlook 中新增第二個時區。<br/><br/> **跨時區排程：** 您會跨時區旅行嗎？您可以建立開始和結束時間屬於不同時區的活動，Outlook 會替您將時區轉換妥當。<br/><br/> **變更文字大小：** 放大或縮小資訊看板、郵件清單和讀取窗格中的字型大小。[深入了解](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||修正了下列問題：如果電腦的預設時區遵循日光節約時間 (DST)，並選取了 [週] 檢視，您可能會看到在 DST 開始的那一週，行事曆格線上的所有活動都出現了一小時的時差。  <br/> |
+|Office 套件  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點  <br/> |
+
    
 ## <a name="february-2018-release"></a>2018 年 2 月版本
 

@@ -3,19 +3,19 @@ title: 2018 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: eb057983e92975a4fa19d9dc5abae683c0564d20
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 8a5d598823ad277ad5f2cdd5f13368f338f4b3d6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555970"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886659"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
@@ -27,7 +27,36 @@ ms.locfileid: "19555970"
 > - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
 
 
-## <a name="version-1708-may-8"></a>1708 版：5 月 8 日
+## <a name="version-1708-june-12"></a>版本 1708：6 月 12 日
+版本 1708 (組建 8431.2270)**
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 遠端程式碼執行弱點
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 提高權限弱點
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正造成 Windows 7 SP1 使用者無法將成員新增至「新式群組」的問題。
+
+
+
+## <a name="version-1705-june-12"></a>版本 1705：6 月 12 日
+*版本 1705 (組建 8201.2294)*
+
+這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 版本 1708 (組建 8431.2270) — 其中包含了新功能、安全性更新和非安全性更新。**
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 遠端程式碼執行弱點
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 提高權限弱點
+
+
+
+## <a name="version-1708-may-8"></a>版本 1708：5 月 8 日
 *版本 1708 (組建 8431.2250)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新

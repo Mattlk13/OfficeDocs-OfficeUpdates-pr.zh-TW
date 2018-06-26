@@ -3,7 +3,7 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 ms.custom: LIL_Placement
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 41aebc13fd72fef6927bb2275b734113d1171a04
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: a3e11b6b965243c05897c6e60184968d77b38f14
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709714"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19926669"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -33,11 +33,13 @@ ms.locfileid: "19709714"
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|5 月 24 日   |[**版本 1805 (組建 9330.2087)**](monthly-channel-2018.md#version-1805-may-24) |||
+|2018|6 月 13 日   |[**版本 1805 (組建 9330.2124)**](monthly-channel-2018.md#version-1805-june-13) |||
+||6 月 12 日   |[版本 1805 (組建 9330.2118)](monthly-channel-2018.md#version-1805-june-12)  |[**版本 1803 (組建 9126.2227**)](semi-annual-channel-targeted-2018.md#version-1803-june-12)  |[**版本 1708 (組建 8431.2270)**](semi-annual-channel-2018.md#version-1708-june-12)  <br/>  [版本 1705 (組建 8201.2294)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5 月 24 日   |[版本 1805 (組建 9330.2087)](monthly-channel-2018.md#version-1805-may-24) |||
 ||5 月 23 日   |[版本 1805 (組建 9330.2078)](monthly-channel-2018.md#version-1805-may-23)  |  |  |
-||5 月 18 日   |  |**[版本 1803 (組建 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)**  |  |
+||5 月 18 日   |  |[版本 1803 (組建 9126.2210)](semi-annual-channel-targeted-2018.md#version-1803-may-18)  |  |
 ||5 月 14 日   |[版本 1804 (組建 9226.2156)](monthly-channel-2018.md#version-1804-may-14)  |  |  |
-||5 月 8 日   |[版本 1804 (組建 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[版本 1803 (組建 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[**版本 1708 (組建 8431.2250)**](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [版本 1705 (組建 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
+||5 月 8 日   |[版本 1804 (組建 9226.2126)](monthly-channel-2018.md#version-1804-may-8)  |[版本 1803 (組建 9126.2191)](semi-annual-channel-targeted-2018.md#version-1803-may-8)  |[ 1708 (組建 8431.2250)](semi-annual-channel-2018.md#version-1708-may-8)  <br/>  [版本 1705 (組建 8201.2278)](semi-annual-channel-2018.md#version-1705-may-8)   |
 ||4 月 25 日   | [版本 1804 (組建 9226.2114)](monthly-channel-2018.md#version-1804-april-25)   |   |   |
 ||4 月 11 日   | [版本 1803 (組建 9126.2152)](monthly-channel-2018.md#version-1803-april-11)   |   |   |
 ||4 月 10 日   |   | [版本 1803 (組建 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [版本 1708 (組建 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [版本 1705 (組建 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
