@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886959"
+ms.locfileid: "20036302"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886959"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+
+
+
+## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
+版本 1806 (組建 10228.20080)**
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+ - **改善的儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。
+ - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+ - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+ - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題的筆跡，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+
+### <a name="project-feature-updates"></a>Project：功能更新
+ - **使用最近的儲存位置保持組織：** 專案會保存您已儲存其他專案位置的持續清單。當您準備好要儲存專案時，只需選擇其中一個您最近的儲存位置，就能繼續進行您一天的工作。
+
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+ - 修正此問題：儲存主專案中的子專案時會發生失敗。
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+ - **更多樣板、更多圖示、更多選項：** 我們新增了 26 個樣板，包括「分析」、「藝術」、「慶祝」、「表情」、「位置」、「醫療」、「自然」、「人物」、「運動」、「天氣與季節」等等。
+
+### <a name="word-feature-updates"></a>Word：功能更新
+ - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+
 
 ## <a name="version-1805-june-13"></a>版本 1805：6 月 13 日
 *版本 1805 (組建 9330.2124)*
