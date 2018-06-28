@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 503f09cc7f9e00abc8ff73ca548d4f35e551a254
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: e2befc11978970e4d9fd113ae248cc53f9090781
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19555954"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886679"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -44,18 +44,18 @@ Outlook 與 Office 365 的相容性及內部部署環境取決於您的部署的
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|不適用  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2018 年 5 月 PU <br/>[KB4018372](https://support.microsoft.com/zh-TW/help/4018372) <br/><br/> Outlook 2016 垃圾郵件篩選器的 2016 年 8 月 PU  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|不適用  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2018 年 6 月 PU <br/>[KB4022160](https://support.microsoft.com/zh-TW/help/4022160) <br/><br/> Outlook 2016 垃圾郵件篩選器的 2016 年 8 月 PU  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2018 年 5 月 PU <br/>[KB4018376](https://support.microsoft.com/zh-TW/help/4018376) <br/><br/>  Outlook 2013 垃圾郵件篩選器的 2016 年 8 月 PU <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2018 年 6 月 PU <br/>[KB4022169](https://support.microsoft.com/zh-TW/help/4022169) <br/><br/>  Outlook 2013 垃圾郵件篩選器的 2016 年 8 月 PU <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/zh-TW/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2018 年 5 月 PU <br/>[KB4022144](https://support.microsoft.com/zh-TW/help/4022144) <br/><br/>  Outlook 2010 垃圾郵件篩選器的 2016 年 8 月 PU <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/zh-TW/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2018 年 6 月 PU <br/>[KB4022205](https://support.microsoft.com/zh-TW/help/4022205) <br/><br/>  Outlook 2010 垃圾郵件篩選器的 2016 年 8 月 PU <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 
