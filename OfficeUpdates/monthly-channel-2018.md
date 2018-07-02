@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
+ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036302"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "20157861"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -24,8 +24,7 @@ ms.locfileid: "20036302"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-
-
+ 
 
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
 版本 1806 (組建 10228.20080)**
@@ -36,13 +35,17 @@ ms.locfileid: "20036302"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
+ - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題的筆跡，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
+
 ### <a name="project-feature-updates"></a>Project：功能更新
  - **使用最近的儲存位置保持組織：** 專案會保存您已儲存其他專案位置的持續清單。當您準備好要儲存專案時，只需選擇其中一個您最近的儲存位置，就能繼續進行您一天的工作。
+ - **管理短期衝刺的全新方法：** 採取敏捷方式來使用工作面板。隨著專案的發展，請移至 [管理短期衝刺] 來新增或移除短期衝刺。
+
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
  - 修正此問題：儲存主專案中的子專案時會發生失敗。
@@ -109,6 +112,7 @@ ms.locfileid: "20036302"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 PowerPoint。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
  - **免操作輸入：** 使用您的語音直接聽寫以建立簡報。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft 表單：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
  - 修正 Project 第一次在 Project Web 應用程式中儲存專案時可能會當機的問題。
