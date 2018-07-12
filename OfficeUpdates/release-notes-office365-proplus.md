@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 2c6d54e1b75a7bd21b1e014236a2c8a4629a006a
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: b4205abeb74342f9fcb4218bfc033e7a122ac5bd
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036232"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246443"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
@@ -24,12 +24,12 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 下表列出每個更新通道的支援版本及最新組建編號。組建編號會直接連結至該版本的版本資訊。 
 
   
-|**通道**|**版本**|**組建**|**發行日期**|**現行版本支援截止日**|
+|**通道**|**版本**|**組建**|**發行日期**|**目前版本**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1806  <br/> |[10228.20080](monthly-channel-2018.md#version-1806-june-25)  <br/> | 2018 年 6 月 25 日  <br/> |版本 1807 發行日期 <br/>|
-|半年 (已設定目標)  <br/> |1803  <br/> |[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)  <br/> | 2018 年 6 月 12 日  <br/> |2018 年 9 月 11 日 <br/>|
-|半年 <br/> |1708  <br/> | [8431.2270](semi-annual-channel-2018.md#version-1708-june-12) <br/> |2018 年 6 月 12 日  <br/> |2019 年 3 月 12 日 <br/>|
-|延期 <br/> |1705  <br/> |[8201.2294](semi-annual-channel-2018.md#version-1705-june-12)  <br/> | 2018 年 6 月 12 日  <br/> |2018 年 7 月 10 日 <br/>|
+|每月  <br/> |1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |版本 1807 發行日期 <br/>|
+|半年 (已設定目標)  <br/> |1803  <br/> |[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
+|半年 <br/> |1803  <br/> | [9126.2259](semi-annual-channel-2018.md#version-1803-july-10) <br/> |2018 年 7 月 10 日  <br/> |2018 年 9 月 11 日 <br/>|
+|半年延伸 <br/> |1708  <br/> |[8431.2280](semi-annual-channel-2018.md#version-1708-july-10)  <br/> | 2018 年 7 月 10 日  <br/> |2019 年 3 月 12 日 <br/>|
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
 

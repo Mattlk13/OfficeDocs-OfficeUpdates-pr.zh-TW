@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/29/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
-ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
+ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/29/2018
-ms.locfileid: "20157861"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246253"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,9 +25,21 @@ ms.locfileid: "20157861"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
  
+## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
+版本 1806 (組建 10228.20104)**
+
+### <a name="access-security-updates"></a>Access：安全性更新
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 竄改弱點
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
+
 
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
-版本 1806 (組建 10228.20080)**
+*版本 1806 (組建 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **改善的儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。
@@ -92,7 +104,7 @@ ms.locfileid: "20157861"
  
 
 
-## <a name="version-1805-may-23"></a>1805 版：5 月 23 日
+## <a name="version-1805-may-23"></a>版本 1805：5 月 23 日
 *版本 1805 (組建 9330.2078)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -128,7 +140,7 @@ ms.locfileid: "20157861"
 
 
 
-## <a name="version-1804-may-14"></a>1804 版：5 月 14 日
+## <a name="version-1804-may-14"></a>版本 1804：5 月 14 日
 *版本 1804 (組建 9226.2156)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
@@ -136,7 +148,7 @@ ms.locfileid: "20157861"
 
 
 
-## <a name="version-1804-may-8"></a>1804 版：5 月 8 日
+## <a name="version-1804-may-8"></a>版本 1804：5 月 8 日
 *版本 1804 (組建 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -153,7 +165,7 @@ ms.locfileid: "20157861"
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行弱點
 
 
-## <a name="version-1804-april-25"></a>1804 版：4 月 25 日
+## <a name="version-1804-april-25"></a>版本 1804：4 月 25 日
 *版本 1804 (組建 9226.2114)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -174,7 +186,7 @@ ms.locfileid: "20157861"
 -   **找出相關的校訂問題並加以修正：**[編輯器] 窗格現在會顯示您的文件中所找到的校訂問題概觀，所以焦點會放在修正與您最相關的問題。
 
 
-## <a name="version-1803-april-11"></a>1803 版：4 月 11 日
+## <a name="version-1803-april-11"></a>版本 1803：4 月 11 日
 *版本 1803 (組建 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -196,7 +208,7 @@ ms.locfileid: "20157861"
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
 
 
-## <a name="version-1803-march-27"></a>1803 版：3 月 27 日
+## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803 (組建 9126.2116)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -229,7 +241,7 @@ ms.locfileid: "20157861"
 -   **改善了對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式在每個顯示器上都會順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
-## <a name="version-1802-march-13"></a>1802 版：3 月 13 日
+## <a name="version-1802-march-13"></a>版本 1802：3 月 13 日
 *版本 1802 (組建 9029.2253)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
@@ -242,7 +254,7 @@ ms.locfileid: "20157861"
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點
 
 
-## <a name="version-1802-february-26"></a>1802 版：2 月 26 日
+## <a name="version-1802-february-26"></a>版本 1802：2 月 26 日
 *版本 1802 (組建 9029.2167)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -264,7 +276,7 @@ ms.locfileid: "20157861"
 -   **讓您的圖表和來源能保持同步：** 當您在 Visio 中編輯 [資料視覺化工具] 圖表時，可以選擇用最新的圖表內容來更新連結的 Excel 來源資料。
 
 
-## <a name="version-1801-february-13"></a>1801 版：2 月 13 日
+## <a name="version-1801-february-13"></a>版本 1801：2 月 13 日
 *版本 1801 (組建 9001.2171)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -279,14 +291,14 @@ ms.locfileid: "20157861"
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 資訊洩漏弱點
 
 
-## <a name="version-1801-february-7"></a>1801 版：2 月 7 日
+## <a name="version-1801-february-7"></a>版本 1801：2 月 7 日
 *版本 1801 (組建 9001.2144)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正下列問題：如果您的編輯語言是日文、中文或韓文，則當您嘗試在 [首頁] 索引標籤上選取新字型時，或當編輯時，Excel 可能會凍結。
 
 
-## <a name="version-1801-february-1"></a>1801 版：2 月 1 日
+## <a name="version-1801-february-1"></a>版本 1801：2 月 1 日
 *版本 1801 (組建 9001.2138)*
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
@@ -303,7 +315,7 @@ ms.locfileid: "20157861"
 -   修正此問題：當使用者按下 Outlook 會議邀請的 [加入 Skype 會議] 連結時，會收到錯誤訊息 [找不到此 Skype 會議]。
 
 
-## <a name="version-1712-january-30"></a>1712 版：1 月 30 日
+## <a name="version-1712-january-30"></a>版本 1712：1 月 30 日
 *版本 1712 (組建 8827.2179)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -313,7 +325,7 @@ ms.locfileid: "20157861"
 -   修正此問題：當搜尋範圍限定為 [所有信箱] 時，搜索會失敗並顯示 [找不到相符項目]。
 
 
-## <a name="version-1712-january-17"></a>1712 版：1 月 17 日
+## <a name="version-1712-january-17"></a>版本 1712：1 月 17 日
 *版本 1712 (組建 8827.2148)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -347,7 +359,7 @@ ms.locfileid: "20157861"
 -   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，讓您可以變更其色彩、大小或材質。
 
 
-## <a name="version-1711-january-9"></a>1711 版：1 月 9 日
+## <a name="version-1711-january-9"></a>版本 1711：1 月 9 日
 *版本 1711 (組建 8730.2175)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -376,7 +388,7 @@ ms.locfileid: "20157861"
 -   [Advisory 180003](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 
-## <a name="version-1711-january-2"></a>1711 版：1 月 2 日
+## <a name="version-1711-january-2"></a>版本 1711：1 月 2 日
 *版本 1711 (組建 8730.2165)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新

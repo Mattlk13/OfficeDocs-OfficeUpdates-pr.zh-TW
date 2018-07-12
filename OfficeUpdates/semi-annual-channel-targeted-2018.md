@@ -3,19 +3,19 @@ title: 2018 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: ec8e532ab9583db5fa0d11fe5514eb50f421f6fb
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: b5b3cf82f2f59378f1309e7cd91540ad0689db47
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886629"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246383"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -24,6 +24,36 @@ ms.locfileid: "19886629"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+
+## <a name="version-1803-july-10"></a>版本 1803：7 月 10 日
+*版本 1803 (組建 9126.2259)*
+
+### <a name="access-security-updates"></a>Access：安全性更新
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 竄改弱點
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正此問題：在日期儲存格格式使用日本紀元日曆時顯示錯誤年份。
+-   當資料匯入 Excel 資料模型中，負值或零的輸入值會造成錯誤。此修正會將此類的值匯入為零。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：表格以粗框線錯誤編譯。
+
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+-   修正此問題：如果工作以成本資源分割，成本資源未正確更新，且成本遺失。
+-   修正時間表檢視的問題：在 [將現有工作新增至時間表] 對話方塊中，只會出現來自第一個摘要工作中的工作。
+-   修正此問題：從 Project Online 或 Project Server 將主要專案儲存為 XML 時失敗。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正會導致更新安裝在特定案例中耗費長時間的錯誤。 
+-   修正此問題：SVG 測試失敗
+-   修正問題，問題是當使用 System Center Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行中且重新啟動裝置之後套用。
+
 
 ## <a name="version-1803-june-12"></a>版本 1803：6 月 12 日
 版本 1803 (組建 9126.2227)**
@@ -68,7 +98,7 @@ ms.locfileid: "19886629"
 
 
 
-## <a name="version-1803-may-8"></a>1803 版：5 月 8 日
+## <a name="version-1803-may-8"></a>版本 1803：5 月 8 日
 *版本 1803 (組建 9126.2191)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -108,7 +138,7 @@ ms.locfileid: "19886629"
 
 
 
-## <a name="version-1803-april-10"></a>1803 版：4 月 10 日
+## <a name="version-1803-april-10"></a>版本 1803：4 月 10 日
 *版本 1803 (組建 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -131,7 +161,7 @@ ms.locfileid: "19886629"
 
 
 
-## <a name="version-1803-march-20"></a>1803 版：3 月 20 日
+## <a name="version-1803-march-20"></a>版本 1803：3 月 20 日
 *版本 1803 (組建 9126.2098)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -154,7 +184,7 @@ ms.locfileid: "19886629"
 
 
 
-## <a name="version-1803-march-13"></a>1803 版：3 月 13 日
+## <a name="version-1803-march-13"></a>版本 1803：3 月 13 日
 *版本 1803 (組建 9126.2072)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
@@ -393,7 +423,7 @@ ms.locfileid: "19886629"
 
 
 
-## <a name="version-1708-february-13"></a>1708 版：2 月 13 日
+## <a name="version-1708-february-13"></a>版本 1708：2 月 13 日
 *版本 1708 (組建 8431.2215)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -412,7 +442,7 @@ ms.locfileid: "19886629"
 
 
 
-## <a name="version-1708-january-9"></a>1708 版：1 月 9 日
+## <a name="version-1708-january-9"></a>版本 1708：1 月 9 日
 *版本 1708 (組建 8431.2153)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
