@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
+ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334433"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20397966"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
@@ -331,7 +331,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1708-july-10"></a>版本 1708：7 月 10 日
 *版本 1708 (組建 8431.2280)*
 
-* 這是自從 2017 年 9 月以來提供的半年延伸通道版本。它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1803 (組建 16.0.9126.2259) — 其中包含了新功能、安全性更新和非安全性更新*
+* 這是自從 2017 年 9 月以來提供的半年通道版本。它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1803 (組建 16.0.9126.2259) — 其中包含了新功能、安全性更新和非安全性更新*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
@@ -344,7 +344,7 @@ ms.locfileid: "20334433"
 
 
 ## <a name="version-1708-june-12"></a>版本 1708：6 月 12 日
-版本 1708 (組建 8431.2270)**
+*版本 1708 (組建 8431.2270)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
@@ -361,7 +361,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1705-june-12"></a>版本 1705：6 月 12 日
 *版本 1705 (組建 8201.2294)*
 
-這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 版本 1708 (組建 8431.2270) — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 版本 1708 (組建 8431.2270) — 其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
@@ -393,7 +393,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1705-may-8"></a>版本 1705：5 月 8 日
 *版本 1705 (組建 8201.2278)*
 
-這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2250) — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2250) — 其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-8147](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行弱點
@@ -429,7 +429,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1705-april-10"></a>版本 1705：4 月 10 日
 *版本 1705 (組建 8201.2272)*
 
-這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2242) — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2242) — 其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行弱點
@@ -458,7 +458,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1705-march-13"></a>版本 1705：3 月 13 日
 *版本 1705 (組建 8201.2265)*
 
-這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2236) — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2236) — 其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 遠端程式碼執行弱點
@@ -493,7 +493,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1705-february-13"></a>版本 1705：2 月 13 日
 *版本 1705 (組建 8201.2258)*
 
-這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2215) — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2215) — 其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 遠端程式碼執行弱點
@@ -759,7 +759,7 @@ ms.locfileid: "20334433"
 ## <a name="version-1705-january-9"></a>版本 1705：1 月 9 日
 *版本 1705 (組建 8201.2217)*
 
-這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2153) — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2153) — 其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端程式碼執行弱點
