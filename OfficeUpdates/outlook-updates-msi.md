@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: b57eb5dacff2e6934724fa6a05c0c76bae7fc894
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: a18e16114ac0c8865fc2b238a7c737076f4fd7fd
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246243"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21222777"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -33,11 +33,11 @@ Outlook 與 Office 365 的相容性及內部部署環境取決於您的部署的
     
 - 針對 Exchange 內部部署部署，請遵循您的 Outlook 版本的系統需求︰
     
-  - [Exchange 2016 系統需求](https://technet.microsoft.com/zh-TW/library/aa996719.aspx)
+  - [Exchange 2016 系統需求](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
   - [Exchange 2013 系統需求](https://technet.microsoft.com/zh-TW/library/aa996719%28v=exchg.150%29.aspx)
     
-  - [Exchange 2010 系統需求](https://technet.microsoft.com/zh-TW/library/aa996719%28v=exchg.141%29.aspx)
+  - [Exchange 2010 系統需求](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016 更新
