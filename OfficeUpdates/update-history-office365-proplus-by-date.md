@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 221a86c78a1777826a1e838d8dae150bcef6bb65
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 408a4936d0e6da5710764cbc210647ea3d4ecb62
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21223205"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772510"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -153,4 +153,6 @@ ms.locfileid: "21223205"
 - [Office 365 專業增強版更新的版本資訊](release-notes-office365-proplus.md)
 - [Office 365 專業增強版更新的下載大小](download-sizes-office365-proplus-updates.md)
 
+
+附註：如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft 解答論壇] (https://answers.microsoft.com/) 或 [技術社群] (https://techcommunity.microsoft.com/)，或連絡 [支援] (https://support.microsoft.com/contactus)。
 

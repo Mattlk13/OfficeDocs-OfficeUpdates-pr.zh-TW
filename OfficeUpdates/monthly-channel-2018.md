@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222944"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772500"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -39,7 +39,7 @@ ms.locfileid: "21222944"
  - **從 Visio 圖形建置 Word 文件：** 自動將圖表內容 (包括圖形和中繼資料) 新增至 Word 文件。然後自訂文件以建立程序指導方針和操作手冊。[深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
- - **使用 IRM 追蹤修訂：** 您現在可於 Word 中，在您並非擁有者的受 IRM 保護文件中使用「追蹤修訂」功能。
+ - **使用 IRM 追蹤修訂：** 您現在可於 Word 中，在不需要完全控制使用權限的受 IRM 保護文件中使用「追蹤修訂」功能。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
  - 修正了防止部分使用者開啟受 IRM 保護的文件和電子郵件 (由其他組織中的人員與他們共用) 的一些問題。
@@ -420,3 +420,5 @@ ms.locfileid: "21222944"
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正此問題：VBA 程式碼從專案中遺失。
+
+附註：如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft 解答論壇] (https://answers.microsoft.com/) 或 [技術社群] (https://techcommunity.microsoft.com/)，或連絡 [支援] (https://support.microsoft.com/contactus)。
