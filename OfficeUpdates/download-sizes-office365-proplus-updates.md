@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 595887039a9e93f1796c539fd7fcd235fda25056
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246283"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772490"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -36,6 +36,17 @@ ms.locfileid: "20246283"
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
 
+  ## <a name="july-25-2018"></a>2018 年 7 月 25 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是 1807 版 (組建 10325.20082)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1806 (組建 10228.20314)  <br/> |2018 年 7 月 17 日  <br/> |176  <br/> |
+|版本 1805 (組建 10228.20104)  <br/> |2018 年 7 月 10 日  <br/> |176  <br/> |
+
  ## <a name="july-10-2018"></a>2018 年 7 月 10 日
 
 ### <a name="monthly-channel"></a>每月通道
@@ -52,12 +63,12 @@ ms.locfileid: "20246283"
    
 ### <a name="semi-annual-channel"></a>半年通道
 
-最新的版本是 1708 版 (組建 9126.2259)。
+最新的版本是 1803 版 (組建 9126.2259)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
+|版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |280  <br/> |
 |版本 1708 (組建 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |280  <br/> |
-|版本 1708 (組建 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |280  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
@@ -375,3 +386,4 @@ ms.locfileid: "20246283"
 - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 - [Office 365 專業增強版的更新歷程記錄 (依版本列出)](update-history-office365-proplus-by-version.md)
 
+附註：如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft 解答論壇] (https://answers.microsoft.com/) 或 [技術社群] (https://techcommunity.microsoft.com/)，或連絡 [支援] (https://support.microsoft.com/contactus)。
