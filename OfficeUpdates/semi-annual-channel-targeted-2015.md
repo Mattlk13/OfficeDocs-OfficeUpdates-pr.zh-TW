@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員與版本資訊分號每年次通道 (Targeted) 版本的 Office 365 ProPlus 中 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556008"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>在 2015年分號每年次通道 (Targeted) 版本的版本資訊
@@ -22,13 +22,13 @@ ms.locfileid: "19556008"
 這些版本資訊提供的新功能、 安全性更新及 2015年中包括分號每年次通道 (Targeted) 更新至 Office 365 ProPlus 中的非安全性更新的相關資訊。
  
 > [!NOTE]
-> - 下列也提供資訊的新功能、 安全性更新及非安全性更新 Visio Pro for Office 365 及 Project Online 桌面用戶端。
-> - 此資訊也適用於 Office 365 商務是隨附 Office 365 計劃，例如企業進階版的 Office 版本。
+> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
+> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 分號每年次通道 (Targeted) 命名為第一次發行之前年 9 月 2017年延期通路。
 
 
 ## <a name="version-1509-december-8"></a>版本 1509年： 年 12 月 8 日
-*版本 1509 （組建 6001.1043）*
+*版本 1509 (組建 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正此問題：XPS 或使用 Windows 桌面用戶端所建立的列印成品，在非 Windows 桌面用戶端呈現為紅色的 X，因為這些用戶端不支援原生 XPS 轉譯。
@@ -57,7 +57,7 @@ ms.locfileid: "19556008"
 
 
 ## <a name="version-1509-november-10"></a>版本 1509年： 年 11 月 10 日
-*版本 1509 （組建 6001.1038）*
+*版本 1509 (組建 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
@@ -126,7 +126,7 @@ ms.locfileid: "19556008"
 
 
 ## <a name="version-1509-october-21"></a>版本 1509年： 年 10 月 21 日
-*版本 1509 （組建 6001.1034）*
+*版本 1509 (組建 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正此問題：在色彩選擇器中，選取了兩次框線相同的色彩時會導致 OneNote 當機。
@@ -169,7 +169,7 @@ ms.locfileid: "19556008"
 
 
 ## <a name="version-1509-october-5"></a>版本 1509年： 年 10 月 5
-*版本 1509 （組建 4229.1029）*
+*版本 1509 (組建 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正 Office 365 商務版的問題：嘗試搭配使用 SharePoint 與 OneNote 會導致錯誤訊息，告訴使用者他們必須升級至不同版本的 Office 版本。
@@ -194,7 +194,7 @@ ms.locfileid: "19556008"
 
 
 ## <a name="version-1509-september-22"></a>版本 1509年： 年 9 月 22 日
-*版本 1509 （組建 4229.1024）*
+*版本 1509 (組建 4229.1024)*
 
 這是此通道的最初發行版本。這是第一個提供 Office 2016 應用程式的發行版本。
 

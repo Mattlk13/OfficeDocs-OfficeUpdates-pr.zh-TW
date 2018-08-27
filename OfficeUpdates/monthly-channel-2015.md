@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 proplus 版本 2015年中的 IT 專業人員使用的每月通道版本資訊
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19555978"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>每月通道版本 2015年中的版本資訊
@@ -22,12 +22,12 @@ ms.locfileid: "19555978"
 這些版本資訊提供的新功能、 安全性更新及每月通道更新至 Office 365 ProPlus 2015 中所包含的非安全性更新的相關資訊。
  
 > [!NOTE]
-> - 下列也提供資訊的新功能、 安全性更新及非安全性更新 Visio Pro for Office 365 及 Project Online 桌面用戶端。
-> - 此資訊也適用於 Office 365 商務是隨附 Office 365 計劃，例如企業進階版的 Office 版本。
+> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
+> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 每月通道命名為目前 Channel 9 月 2017年之前。
 
 ## <a name="version-1511-december-11"></a>版本 1511年： 年 12 月 11 日
-*版本 1511 （組建 6366.2036）*
+*版本 1511 (組建 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **BI 範本：** 利用商務智慧 (BI) 功能的 Excel 的三個新範本：[行事曆前瞻](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、[股市分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、 [「 我的現金](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
@@ -55,7 +55,7 @@ ms.locfileid: "19555978"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。若要停用此功能[使用的最新的群組原則系統管理範本檔案](https://www.microsoft.com/download/details.aspx?id=49030)並啟用 PowerPoint 設計工具選項] 設定。您可以下找到此原則設定使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 |選項 |一般 |服務選項...]\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能[使用的最新的群組原則系統管理範本檔案](https://www.microsoft.com/download/details.aspx?id=49030)並啟用 PowerPoint 設計工具選項] 設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正此問題：在簡報者檢視畫面中，具有動畫的 SmartArt 不會以預期順序在投影片放映檢視中顯示。
@@ -69,7 +69,7 @@ ms.locfileid: "19555978"
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 -   **傳送選項**：從 Word 或 PowerPoint 中的 [共用] 窗格，以附件或以 PDF 格式的方式傳送文件。
--   **插入圖片 API**： 插入圖像 Word、 Excel、 或 PowerPoint 常見 office.js 文件庫中使用[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)。Word JavaScript API 提供特定主機的方法呼叫 insertInlinePictureFromBase64() [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 物件上設定內嵌的圖片。
+-   **插入圖片 API**： 插入圖像 Word、 Excel、 或 PowerPoint 常見 office.js 文件庫中使用[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)。 Word JavaScript API 提供特定主機的方法呼叫 insertInlinePictureFromBase64() [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 物件上設定內嵌的圖片。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：當執行 [開啟] 或 [另存新檔] 時，所顯示的修改日期資訊會遭到截斷。
@@ -83,7 +83,7 @@ ms.locfileid: "19555978"
 
 
 ## <a name="version-1509-december-8"></a>版本 1509年： 年 12 月 8 日
-*版本 1509 （組建 6001.1043）*
+*版本 1509 (組建 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正此問題：XPS 或使用 Windows 桌面用戶端所建立的列印成品，在非 Windows 桌面用戶端呈現為紅色的 X，因為這些用戶端不支援原生 XPS 轉譯。
@@ -112,7 +112,7 @@ ms.locfileid: "19555978"
 
 
 ## <a name="version-1509-november-10"></a>版本 1509年： 年 11 月 10 日
-*版本 1509 （組建 6001.1038）*
+*版本 1509 (組建 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
@@ -181,7 +181,7 @@ ms.locfileid: "19555978"
 
 
 ## <a name="version-1509-october-21"></a>版本 1509年： 年 10 月 21 日
-*版本 1509 （組建 6001.1034）*
+*版本 1509 (組建 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正此問題：在色彩選擇器中，選取了兩次框線相同的色彩時會導致 OneNote 當機。
@@ -224,7 +224,7 @@ ms.locfileid: "19555978"
 
 
 ## <a name="version-1509-october-5"></a>版本 1509年： 年 10 月 5
-*版本 1509 （組建 4229.1029）*
+*版本 1509 (組建 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正 Office 365 商務版的問題：嘗試搭配使用 SharePoint 與 OneNote 會導致錯誤訊息，告訴使用者他們必須升級至不同版本的 Office 版本。
@@ -249,7 +249,7 @@ ms.locfileid: "19555978"
 
 
 ## <a name="version-1509-september-22"></a>版本 1509年： 年 9 月 22 日
-*版本 1509 （組建 4229.1024）*
+*版本 1509 (組建 4229.1024)*
 
 這是此通道的最初發行版本。這是第一個提供 Office 2016 應用程式的發行版本。
 

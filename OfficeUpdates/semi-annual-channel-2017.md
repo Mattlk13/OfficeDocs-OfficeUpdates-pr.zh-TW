@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 ProPlus 的版本 2017年中的 IT 專業人員使用分號每年次通道的版本資訊
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19555991"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>在 2017年分號每年次通道版本的版本資訊
 
 這些版本資訊提供的新功能、 安全性更新及 2017年中包括分號每年次通道更新至 Office 365 ProPlus 中的非安全性更新的相關資訊。 
 > [!NOTE]
-> - 下列也提供資訊的新功能、 安全性更新及非安全性更新 Visio Pro for Office 365 及 Project Online 桌面用戶端。
-> - 此資訊也適用於 Office 365 商務是隨附 Office 365 計劃，例如企業進階版的 Office 版本。
-> - 分號每年次通道命名為已延期通道年 1 月 2018年之前。
+> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
+> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+> - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
 
 
 ## <a name="version-1705-december-12"></a>版本 1705年： 年 12 月 12 日
-*版本 1705 （組建 8201.2213）*
+*版本 1705 (組建 8201.2213)*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 資訊洩漏弱點
@@ -38,7 +38,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-december-12"></a>版本 1701年： 年 12 月 12 日
-*版本 1701 （組建 7766.2130）*
+*版本 1701 (組建 7766.2130)*
 
 *這是已自 6 2017年可用延期通道版本。它會繼續才支援與接收直到 2018 年 1 月的安全性更新。但是，新的延期通道版本現在可以使用-版本 1705 (建置 8201.2213) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -51,7 +51,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1705-november-24"></a>版本 1705年： 年 11 月 24 日
-*版本 1705 （組建 8201.2209）*
+*版本 1705 (組建 8201.2209)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：會導致 Office 應用程式當機的 64 位元版本 Office，例如當使用者移到 [檔案] \> [選項] 時。
@@ -59,7 +59,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1705-november-14"></a>版本 1705年： 年 11 月 14
-*版本 1705 （組建 8201.2207）*
+*版本 1705 (組建 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全性功能略過的弱點
@@ -75,7 +75,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-november-14"></a>版本 1701年： 年 11 月 14
-*版本 1701 （組建 7766.2122）*
+*版本 1701 (組建 7766.2122)*
 
 *這是已自 6 2017年可用延期通道版本。它會繼續才支援與接收直到 2018 年 1 月的安全性更新。但是，新的延期通道版本現在可以使用-版本 1705 (建置 8201.2207) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -93,7 +93,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1705-october-10"></a>版本 1705年： 年 10 月 10 日
-*版本 1705 （組建 8201.2200）*
+*版本 1705 (組建 8201.2200)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：展開或摺疊樞紐分析表時，Excel 暫時停止回應且樞紐分析表標頭移出螢幕。
@@ -114,7 +114,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-october-10"></a>版本 1701年： 年 10 月 10 日
-*版本 1701 （組建 7766.2119）*
+*版本 1701 (組建 7766.2119)*
 
 *這是已自 6 2017年可用延期通道版本。它會繼續才支援與接收直到 2018 年 1 月的安全性更新。但是，新的延期通道版本現在可以使用-版本 1705 (建置 8201.2200) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -133,7 +133,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1705-september-12"></a>版本 1705年： 年 9 月 12 日
-*版本 1705 （組建 8201.2193）*
+*版本 1705 (組建 8201.2193)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **[新增功能] 對話方塊：** 在 Access 更新了新功能之後開啟 Access 時，會出現醒目提示新的 Access 功能對話方塊。您也可以使用 [檔案] \> [帳戶] \> [新增功能] 來開啟對話方塊。
@@ -227,7 +227,7 @@ ms.locfileid: "19555991"
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **即時輸入時的共同撰寫：** 請參閱其中其他人所運作中的呈現方式和檢視變更為他們輸入。[更多資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **即時輸入時的共同撰寫：** 請參閱其中其他人所運作中的呈現方式和檢視變更為他們輸入。 [其他資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
 -   **使用畫筆來選取並操作物件︰** 使用數位畫筆來移動、調整大小或旋轉物件，使用它們的控點，或使用套索工具筆跡支援的畫筆按鈕。
@@ -394,7 +394,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-september-12"></a>版本 1701年： 年 9 月 12 日
-*版本 1701 （組建 7766.2116）*
+*版本 1701 (組建 7766.2116)*
 
 *這是已自 6 2017年可用延期通道版本。它會繼續才支援與接收直到 2018 年 1 月的安全性更新。但是，新的延期通道版本現在可以使用-版本 1705 (建置 8201.2193) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -418,7 +418,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-july-27"></a>版本 1701年： 年 7 月 27 日
-*版本 1701 （組建 7766.2099）*
+*版本 1701 (組建 7766.2099)*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全性功能略過的弱點
@@ -428,7 +428,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-july-27"></a>版本 1609年： 年 7 月 27 日
-*版本 1609 （組建 7369.2154）*
+*版本 1609 (組建 7369.2154)*
 
 *這是已可自 2017 年 2 月的延期通道版本。它會繼續才支援與接收直到 2017 年 9 月安全性更新。但是，新的延期通道版本現在可以使用-版本 1701 (建置 7766.2099) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -440,7 +440,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-july-13"></a>版本 1701年： 年 7 月 13 日
-*版本 1701 （組建 7766.2096）*
+*版本 1701 (組建 7766.2096)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 記憶體損毀弱點
@@ -452,7 +452,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-july-13"></a>版本 1609年： 年 7 月 13 日
-*版本 1609 （組建 7369.2151）*
+*版本 1609 (組建 7369.2151)*
 
 *這是已可自 2017 年 2 月的延期通道版本。它會繼續才支援與接收直到 2017 年 9 月安全性更新。但是，新的延期通道版本現在可以使用-版本 1701 (建置 7766.2096) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -466,7 +466,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1701-june-13"></a>版本 1701年： 年 6 月 13 日
-*版本 1701 （組建 7766.2092）*
+*版本 1701 (組建 7766.2092)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
 -   修正此問題：無法關閉飛出視窗功能表。
@@ -598,7 +598,7 @@ ms.locfileid: "19555991"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **Windows 通知樣式︰** 來電和交談的通知外觀變更。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **諮詢轉接：** 從內呼叫，請洽詢另一位使用者透過 IM 或電話之前傳送給該使用者的通話。[更多資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **諮詢轉接：** 從內呼叫，請洽詢另一位使用者透過 IM 或電話之前傳送給該使用者的通話。 [其他資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麥克風通知︰** 當麥克風在作業系統中處於靜音狀態，或如果麥克風未挑選任何音訊，則在交談視窗中顯示通知。
 -   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
@@ -747,7 +747,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-june-13"></a>版本 1609年： 年 6 月 13 日
-*版本 1609 （組建 7369.2139）*
+*版本 1609 (組建 7369.2139)*
 
 *這是已可自 2017 年 2 月的延期通道版本。它會繼續才支援與接收直到 2017 年 9 月安全性更新。但是，新的延期通道版本現在可以使用-版本 1701 (建置 7766.2092) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -772,7 +772,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-may-9"></a>版本 1609年： 年 5 月 9 日
-*版本 1609 （組建 7369.2130）*
+*版本 1609 (組建 7369.2130)*
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 遠端程式碼執行弱點
@@ -789,7 +789,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1605-may-9"></a>版本 1605年： 年 5 月 9 日
-*版本 1605 （組建 6965.2150）*
+*版本 1605 (組建 6965.2150)*
 
 *這是已自年 10 月 2016年可用延期通道版本。它會繼續才支援與接收直到 2017 年 6 月安全性更新。但是，新的延期通道版本現在可以使用-版本 1609 (建置 7369.2130) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -808,7 +808,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-april-11"></a>版本 1609年： 年 4 月 11 日
-*版本 1609 （組建 7369.2127）*
+*版本 1609 (組建 7369.2127)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：當使用者嘗試為另一位使用者設定權限使其能編輯範圍時，Excel 會當機。
@@ -823,7 +823,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1605-april-11"></a>版本 1605年： 年 4 月 11 日
-*版本 1605 （組建 6965.2145）*
+*版本 1605 (組建 6965.2145)*
 
 *這是已自年 10 月 2016年可用延期通道版本。它會繼續才支援與接收直到 2017 年 6 月安全性更新。但是，新的延期通道版本現在可以使用-版本 1609 (建置 7369.2127) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -837,7 +837,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-march-14"></a>版本 1609年： 年 3 月 14
-*版本 1609 （組建 7369.2120）*
+*版本 1609 (組建 7369.2120)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
@@ -854,7 +854,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1605-march-14"></a>版本 1605年： 年 3 月 14
-*版本 1605 （組建 6965.2140）*
+*版本 1605 (組建 6965.2140)*
 
 *這是已自年 10 月 2016年可用延期通道版本。它會繼續才支援與接收直到 2017 年 6 月安全性更新。但是，新的延期通道版本現在可以使用-版本 1609 (建置 7369.2120) — 其中包含的新功能、 安全性更新及非安全性更新。*
 
@@ -870,7 +870,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1609-february-22"></a>版本 1609年： 年 2 月 22 日
-*版本 1609 （組建 7369.2118）*
+*版本 1609 (組建 7369.2118)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **dBASE 支援：** 支援匯入或連結至儲存於 dBASE 資料庫 (.dbf) 的資料。 [詳細資訊](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
@@ -927,7 +927,7 @@ ms.locfileid: "19555991"
 -   修正此問題：刪除表格會造成 OneNote 當機。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **\@提及：** 請確定收件者知道正在正在系統要求使用者輸入或動作包含 @ 符號後面的電子郵件或行事曆項目本文的人員的姓名。這也會自動將將其新增至 [收件者。[更多資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@提及：** 請確定收件者知道正在正在系統要求使用者輸入或動作包含 @ 符號後面的電子郵件或行事曆項目本文的人員的姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **差旅預定以及封裝的摘要卡片︰** 使用在 [收件匣] 和 [行事曆] 中自動建立的摘要卡片，確認並追蹤差旅預定及封裝傳遞。 [詳細資訊](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加相片的小型預覽**：如果將相片附加到電子郵件，Outlook 會在訊息中顯示相片的小型預覽。
 -   **復原刪除的郵件連結：** 在 [刪除的郵件] 資料夾中，已刪除的項目清單上方會出現「復原最近從此資料夾中移除的郵件」連結，選取連結時，[復原刪除的郵件] 對話方塊隨即出現。
@@ -1086,7 +1086,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1605-january-10"></a>版本 1605年： 年 1 月 10 日
-*版本 1605 （組建 6965.2117）*
+*版本 1605 (組建 6965.2117)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS17-002 ](https://technet.microsoft.com/library/security/ms17-002)：Microsoft Office 的安全性更新 (3214291)
@@ -1094,7 +1094,7 @@ ms.locfileid: "19555991"
 
 
 ## <a name="version-1602-january-10"></a>版本 1602年： 年 1 月 10 日
-*版本 1602 （組建 6741.2105）*
+*版本 1602 (組建 6741.2105)*
 
 *這是已自 6 2016年可用延期通道版本。它會繼續才支援與接收直到 2017 年 2 月的安全性更新。但是，新的延期通道版本現在可以使用-版本 1605 (建置 6965.2117) — 其中包含的新功能、 安全性更新及非安全性更新。*
 

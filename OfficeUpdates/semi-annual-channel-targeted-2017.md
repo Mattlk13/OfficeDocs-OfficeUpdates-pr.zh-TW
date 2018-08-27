@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員與版本資訊分號每年次通道 (Targeted) 版本的 Office 365 ProPlus 中 2017
 ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19555982"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>在 2017年分號每年次通道 (Targeted) 版本的版本資訊
@@ -22,12 +22,12 @@ ms.locfileid: "19555982"
 這些版本資訊提供的新功能、 安全性更新及 2017年中包括分號每年次通道 (Targeted) 更新至 Office 365 ProPlus 中的非安全性更新的相關資訊。
  
 > [!NOTE]
-> - 下列也提供資訊的新功能、 安全性更新及非安全性更新 Visio Pro for Office 365 及 Project Online 桌面用戶端。
-> - 此資訊也適用於 Office 365 商務是隨附 Office 365 計劃，例如企業進階版的 Office 版本。
+> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
+> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 分號每年次通道 (Targeted) 命名為第一次發行之前年 9 月 2017年延期通路。
 
 ## <a name="version-1708-december-12"></a>版本 1708年： 年 12 月 12 日
-*版本 1708 （組建 8431.2131）*
+*版本 1708 (組建 8431.2131)*
 
  ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-11935](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11935)：Microsoft Excel 遠端程式碼執行弱點
@@ -53,7 +53,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1708-november-14"></a>版本 1708年： 年 11 月 14
-*版本 1708 （組建 8431.2110）*
+*版本 1708 (組建 8431.2110)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
 -   修正此問題：嘗試在文字方塊或下拉式方塊中選取文字似乎會選取所有文字，而不是表示選取範圍。
@@ -106,7 +106,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1708-october-10"></a>版本 1708年： 年 10 月 10 日
-*版本 1708 （組建 8431.2107）*
+*版本 1708 (組建 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
 -   修正此問題：如果查詢與 Microsoft Dynamics 連結的資料表中的主索引鍵有聯接，則查詢不會執行。
@@ -152,13 +152,13 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1708-september-12"></a>版本 1708年： 年 9 月 12 日
-*版本 1708 （組建 8431.2079）*
+*版本 1708 (組建 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **標籤名稱屬性：** 藉由使標籤與表單上的控制項相關聯來增強協助工具。
 -   **編輯新項目變得更無障礙：** 您可以使用快速鍵盤快速鍵 (Ctrl + E) 從下拉式方塊或清單方塊編輯新項目。
--   **動態連接器：** 從 Microsoft Dynamics 匯入資料或連結到儲存在其中的資料。 [詳細資訊](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
--   **Salesforce 連接器：** 匯入資料或連結到儲存在 Salesforce 的資料。 [詳細資訊](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
+-   **動態連接器：** 從 Microsoft Dynamics 匯入資料或連結到儲存在其中的資料。[詳細資訊](https://support.office.com/article/636079c1-9fc3-4fca-8410-6596d62223da)
+-   **Salesforce 連接器：** 匯入資料或連結到儲存在 Salesforce 的資料。[詳細資訊](https://support.office.com/article/7375ffb6-1d6a-46f1-bb0c-c6ac3c58f5a0)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **「從範例新增資料行」增強功能：** 支援多個日期/時間、數學、和索引資料行轉換。
@@ -172,7 +172,7 @@ ms.locfileid: "19555982"
 -   **共用的檔案活動︰** 選擇檔案右上角的 [活動] 按鈕，以查看在商務用 OneDrive 或 SharePoint 中共用檔案的共用、編輯、重新命名或還原。
 -   **安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果連結被視為惡意，系統就會將使用者重新導向至警告頁面而非原始的目標 URL。 [詳細資訊](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **增強的資料匯入功能︰** 輕鬆地從各種來源匯入圖形資料。使用 [查詢和連線] 側邊窗格來管理活頁簿查詢和連線，並透過 ODC 檔與他人共用查詢。 [詳細資訊](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
--   **共用檔案中的變更**：檢視誰在共用活頁簿中進行了變更，以及將活頁簿還原到舊版。 [詳細資訊](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **共用檔案中的變更**：檢視誰在共用活頁簿中進行了變更，以及將活頁簿還原到舊版。[詳細資訊](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 -   **具有畫筆按鈕的套索工具：** 使用套索工具筆跡支援的數位畫筆按鈕，而不造訪功能區。
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -196,7 +196,7 @@ ms.locfileid: "19555982"
 -   **內部部署附件的支援：** 內部部署 SharePoint 伺服器上的檔案會在 [訊息] \> [附加檔案] 下顯示為最近使用的檔案，而內部部署商務用 OneDrive 和 SharePoint 團隊網站會顯示在 [附加檔案] \> [瀏覽網頁位置]，此外本機檔案可以上傳至內部部署商務用 OneDrive 網站。
 -   **群組的業務分類︰**  租用戶系統管理員定義的業務分類層級 (如機密)，可在建立或編輯群組時指派，且該分類會顯示在群組標題中。
 -   **來賓存取 Office 365 群組︰** 透過授予存取組織對話、檔案、行事曆邀請和群組筆記本的存取權限，與組織外部的人員協同合作。 [詳細資訊](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **可採取的郵件：** 開發人員可以建立以方便使用者將無須切換至外部網站或個別 app[更多資訊](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)帶簡單或快速動作右從 Outlook 的郵件
+-   **可採取動作的訊息︰** 開發人員可以建立訊息，讓使用者可以從 Outlook 輕鬆採取簡單或快速的動作，而不需要切換至外部網站或個別的應用程式。[詳細資訊](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全性功能略過的弱點
@@ -209,13 +209,13 @@ ms.locfileid: "19555982"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
--   **影片的隱藏式輔助字幕：** 可將隱藏式輔助字幕新增至影片，使其變得更無障礙。 [詳細資訊](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **影片的隱藏式輔助字幕：** 可將隱藏式輔助字幕新增至影片，使其變得更無障礙。[詳細資訊](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **製作錄製的旁白︰** 當您錄製簡報時，可加入自己旁白的視訊。錄製可以包含動畫、筆跡、音訊和視訊。
 -   **共用的檔案活動︰** 選擇檔案右上角的 [活動] 按鈕，以查看在商務用 OneDrive 或 SharePoint 中共用檔案的共用、編輯、重新命名或還原。
 -   **Alt 文字建立︰** 雲端式服務會自動為簡報中的圖片產生替代文字。
 -   **安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果連結被視為惡意，系統就會將使用者重新導向至警告頁面而非原始的目標 URL。 [詳細資訊](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **設計工具改進功能：** 針對動作取向的清單提供專業的設計構想建議。
--   **共用檔案中的變更：** 檢視誰在共用簡報中進行了變更，以及將簡報還原到舊版。 [詳細資訊](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **共用檔案中的變更**：檢視誰在共用簡報中進行了變更，以及將簡報還原到舊版。[詳細資訊](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742)：PowerPoint 遠端程式碼執行弱點
@@ -314,7 +314,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1705-august-8"></a>版本 1705年： 2010 年 8 月 8 日
-*版本 1705 （組建 8201.2171）*
+*版本 1705 (組建 8201.2171)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：拖曳捲軸以移動郵件清單。
@@ -326,7 +326,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1705-july-27"></a>版本 1705年： 年 7 月 27 日
-*版本 1705 （組建 8201.2158）*
+*版本 1705 (組建 8201.2158)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：當嘗試儲存與 OneDrive 用戶端同步的文件變更時出現錯誤。
@@ -347,7 +347,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1705-july-13"></a>版本 1705年： 年 7 月 13 日
-*版本 1705 （組建 8201.2136）*
+*版本 1705 (組建 8201.2136)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 記憶體損毀弱點
@@ -381,7 +381,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1705-june-13"></a>版本 1705年： 年 6 月 13 日
-*版本 1705 （組建 8201.2102）*
+*版本 1705 (組建 8201.2102)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 -   **[新增功能] 對話方塊：** 在 Access 更新了新功能之後開啟 Access 時，會出現醒目提示新的 Access 功能對話方塊。您也可以使用 [檔案] \> [帳戶] \> [新增功能] 來開啟對話方塊。
@@ -461,7 +461,7 @@ ms.locfileid: "19555982"
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **即時輸入時的共同撰寫：** 請參閱其中其他人所運作中的呈現方式和檢視變更為他們輸入。[更多資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **即時輸入時的共同撰寫：** 請參閱其中其他人所運作中的呈現方式和檢視變更為他們輸入。 [其他資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
 -   **使用畫筆來選取並操作物件︰** 使用數位畫筆來移動、調整大小或旋轉物件，使用它們的控點，或使用套索工具筆跡支援的畫筆按鈕。
@@ -600,7 +600,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1701-may-9"></a>版本 1701年： 年 5 月 9 日
-*版本 1701 （組建 7766.2084）*
+*版本 1701 (組建 7766.2084)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：使用者會間歇性地看到郵件清單中的郵件選項會在刪除郵件時意外跳轉。
@@ -626,7 +626,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1701-april-11"></a>版本 1701年： 年 4 月 11 日
-*版本 1701 （組建 7766.2076）*
+*版本 1701 (組建 7766.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：開啟 .xls 活頁簿時，新視窗會變成灰色。
@@ -650,7 +650,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1701-march-14"></a>版本 1701年： 年 3 月 14
-*版本 1701 （組建 7766.2071）*
+*版本 1701 (組建 7766.2071)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
 -   修正此問題：無法關閉飛出視窗功能表。
@@ -689,7 +689,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1701-february-22"></a>版本 1701年： 年 2 月 22 日
-*版本 1701 （組建 7766.2060）*
+*版本 1701 (組建 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **資料轉換與連線能力增強功能︰** 將清單展開到新的文字行，且值之間以分隔符號分隔，並在連線到 SQL 時指定容錯移轉選項。
@@ -789,7 +789,7 @@ ms.locfileid: "19555982"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **Windows 通知樣式︰** 來電和交談的通知外觀變更。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **諮詢轉接：** 從內呼叫，請洽詢另一位使用者透過 IM 或電話之前傳送給該使用者的通話。[更多資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **諮詢轉接：** 從內呼叫，請洽詢另一位使用者透過 IM 或電話之前傳送給該使用者的通話。 [其他資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麥克風通知︰** 當麥克風在作業系統中處於靜音狀態，或如果麥克風未挑選任何音訊，則在交談視窗中顯示通知。
 -   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
@@ -914,7 +914,7 @@ ms.locfileid: "19555982"
 
 
 ## <a name="version-1609-january-10"></a>版本 1609年： 年 1 月 10 日
-*版本 1609 （組建 7369.2102）*
+*版本 1609 (組建 7369.2102)*
 
 附註： 不適用於此通道版本的 Word 版本的 Microsoft 安全性公告[MS17 002](https://technet.microsoft.com/library/security/ms17-002)的安全性更新。
 
