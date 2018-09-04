@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/2018
+ms.date: 8/15/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772500"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520685"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -24,9 +24,26 @@ ms.locfileid: "21772500"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
- 
+
+## <a name="version-1807-august-14"></a>版本 1807： 8 月 14 日
+*版本 1807 (組建 10325.20118)*
+
+### <a name="access-security-updates"></a>Access：安全性更新
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點 
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： 深度更新中的 Microsoft Office 防禦 
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
+
 ## <a name="version-1807-july-25"></a>版本 1807：7 月 25 日
-版本 1807 (組建 10325.20082)**
+*版本 1807 (組建 10325.20082)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能是因為以下的事件延遲：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
@@ -44,18 +61,23 @@ ms.locfileid: "21772500"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
  - 修正了防止部分使用者開啟受 IRM 保護的文件和電子郵件 (由其他組織中的人員與他們共用) 的一些問題。
 
+## <a name="version-1806-july-17"></a>版本 1806：  7 月 17 日
+*版本 1806 (組建 10228.20134)*
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+ - 固定一些效能問題。
 
 ## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
 *版本 1806 (組建 10228.20104)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 竄改弱點
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 竄改弱點
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
 
 
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
@@ -102,11 +124,11 @@ ms.locfileid: "21772500"
 *版本 1805 (組建 9330.2118)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 遠端程式碼執行弱點
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 提高權限弱點
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 提高權限弱點
 
 ### <a name="outlook-non-security-updates"></a>Outlook 非安全性更新
 
@@ -131,7 +153,7 @@ ms.locfileid: "21772500"
  - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，更有效地以視覺化方式呈現資料並進行明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。 請注意這項功能在某些區域無法使用。[了解更多](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **免操作輸入：** 使用您的語音直接聽寫以建立電子郵件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -172,17 +194,17 @@ ms.locfileid: "21772500"
 *版本 1804 (組建 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行弱點
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 遠端程式碼執行弱點
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端程式碼執行弱點
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 資訊洩漏弱點
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能略過的弱點
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能略過的弱點
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行弱點
 
 
 ## <a name="version-1804-april-25"></a>版本 1804：4 月 25 日
@@ -210,7 +232,7 @@ ms.locfileid: "21772500"
 *版本 1803 (組建 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行弱點
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正此問題：多個使用者在相同簡報上共同撰寫會導致投影片母片不正確重複。
@@ -223,9 +245,9 @@ ms.locfileid: "21772500"
 -   修正造成顯示記憶體不足訊息的問題。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
 
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
@@ -265,13 +287,13 @@ ms.locfileid: "21772500"
 *版本 1802 (組建 9029.2253)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 遠端程式碼執行弱點
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 遠端程式碼執行弱點
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點
 
 
 ## <a name="version-1802-february-26"></a>版本 1802：2 月 26 日
@@ -300,15 +322,15 @@ ms.locfileid: "21772500"
 *版本 1801 (組建 9001.2171)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 遠端程式碼執行弱點
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0850)：Microsoft Outlook 提高權限弱點
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0852)：Microsoft Outlook 記憶體損毀弱點
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850)：Microsoft Outlook 提高權限弱點
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852)：Microsoft Outlook 記憶體損毀弱點
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 記憶體損毀弱點
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 記憶體損毀弱點
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 資訊洩漏弱點
 
 
 ## <a name="version-1801-february-7"></a>版本 1801：2 月 7 日
@@ -383,29 +405,29 @@ ms.locfileid: "21772500"
 *版本 1711 (組建 8730.2175)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端程式碼執行弱點
--   [Advisory 170021](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/ADV170021)：Microsoft Office 深度防禦更新
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端程式碼執行弱點
+-   [Advisory 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防禦更新
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0791)：Microsoft Outlook 遠端程式碼執行弱點
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行弱點
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791)：Microsoft Outlook 遠端程式碼執行弱點
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行弱點
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行弱點
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行弱點
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 遠端程式碼執行弱點
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 記憶體損毀弱點
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0801)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0802)：Microsoft Office 記憶體損毀弱點
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0804)：Microsoft Word 遠端程式碼執行弱點
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 遠端程式碼執行弱點
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 遠端程式碼執行弱點
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 遠端程式碼執行弱點
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 記憶體損毀弱點
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行弱點
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 記憶體損毀弱點
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802)：Microsoft Office 記憶體損毀弱點
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 記憶體損毀弱點
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 遠端程式碼執行弱點
--   [Advisory 180003](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 遠端程式碼執行弱點
+-   [Advisory 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 
 ## <a name="version-1711-january-2"></a>版本 1711：1 月 2 日
@@ -421,4 +443,5 @@ ms.locfileid: "21772500"
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正此問題：VBA 程式碼從專案中遺失。
 
-附註：如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft 解答論壇] (https://answers.microsoft.com/) 或 [技術社群] (https://techcommunity.microsoft.com/)，或連絡 [支援] (https://support.microsoft.com/contactus)。
+> [!NOTE]
+> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者，您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。

@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772490"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520595"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -35,6 +35,37 @@ ms.locfileid: "21772490"
 > - 只會列出最近四個月的版本。
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
+
+  ## <a name="august-14-2018"></a>2018 年 8 月 14 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是 1807 版 (組建 10325.20118)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |82  <br/> |
+|版本 1807 (組建 10228.20134)  <br/> |2018 年 7 月 17 日  <br/> |183  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>半年通道
+
+最新的版本是 1803 版 (組建 9126.2275)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1803 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
+
+最新的版本是 1803 版 (組建 9126.2275)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1803 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1803 (組建 9126.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>2018 年 7 月 25 日
 
@@ -60,9 +91,6 @@ ms.locfileid: "21772490"
 |版本 1805 (組建 9330.2118)  <br/> |2018 年 6 月 12 日  <br/> |401  <br/> |
 |版本 1805 (組建 9330.2087)  <br/> |2018 年 5 月 24 日  <br/> |150  <br/> |
 
-   
-### <a name="semi-annual-channel"></a>半年通道
-
 最新的版本是 1803 版 (組建 9126.2259)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
@@ -76,8 +104,8 @@ ms.locfileid: "21772490"
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1803 (組建 9126.2210)  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
-|版本 1803 (組建 9126.2191)  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
+|版本 1803 (組建 9126.2227)  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
+|版本 1803 (組建 9126.2210)  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>2018 年 6 月 25 日
@@ -127,6 +155,14 @@ ms.locfileid: "21772490"
 |版本 1708 (組建 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |57  <br/> |
    
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
+
+最新的版本是 1803 版 (組建 9126.2275)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1708 (組建 8431.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
+|版本 1708 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
 
 最新的版本是版本 1803 (組建 9126.2227)。
   
@@ -386,4 +422,5 @@ ms.locfileid: "21772490"
 - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 - [Office 365 專業增強版的更新歷程記錄 (依版本列出)](update-history-office365-proplus-by-version.md)
 
-附註：如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft 解答論壇] (https://answers.microsoft.com/) 或 [技術社群] (https://techcommunity.microsoft.com/)，或連絡 [支援] (https://support.microsoft.com/contactus)。
+> [!NOTE]
+> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者，您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。

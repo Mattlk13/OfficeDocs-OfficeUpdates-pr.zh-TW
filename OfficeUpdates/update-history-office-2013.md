@@ -3,26 +3,26 @@ title: Office 2013 的更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: dbb60a87c099c03bf0a92b0dbc93b8042b9821c2
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: fefb08e29c345c609b704585ebadfd978650416c
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246423"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520535"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 大部分的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2013 是 **15.0.5049.1000**，發行時間為 2018 年 6 月 10 日。 
+> Office 2013 的最新版本是 **15.0.5059.1000**、 此版本已於 2018 年 8 月 14日發行。 
   
 若要檢查 Office 版本，請執行下列步驟：
   
@@ -46,14 +46,15 @@ ms.locfileid: "20246423"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2018 |7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/zh-TW/help/4340798)  |
-||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/zh-TW/help/4299875)  |
-||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/zh-TW/help/4133083)  |
-||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/zh-TW/help/4098622)  |
-||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/zh-TW/help/4090988)  |
+|2018 |8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
+||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
+||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
+||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
+||4 月 10 日   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/en-us/help/4098622)  |
+||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
-|2017   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
+|2017年   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
 ||11 月 14 日   |15.0.4981.1001   |[KB 4051890](https://support.microsoft.com/help/4051890)  |
 ||10 月 10 日   |15.0.4971.1002   |[KB 4043461](https://support.microsoft.com/help/4043461)  |
 ||9 月 12 日   |15.0.4963.1002   |[KB 4040279](https://support.microsoft.com/help/4040279)  |
@@ -64,8 +65,8 @@ ms.locfileid: "20246423"
 ||4 月 11 日   |15.0.4919.1002   |[KB 4016803](https://support.microsoft.com/help/4016803)  |
 ||3 月 14 日   |15.0.4911.1002   |[KB 4013886](https://support.microsoft.com/help/4013886)  |
 ||2 月 22 日   |15.0.4903.1002   |[KB 4010765](https://support.microsoft.com/help/4010765)  |
-||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/zh-TW/kb/3214449)  |
-|2016   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/zh-TW/kb/3208595)  |
+||1 月 10 日   |15.0.4893.1002   |[KB 3214449](https://support.microsoft.com/en-us/kb/3214449)  |
+|2016 年   |12 月 13 日   |15.0.4885.1001   |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595)  |
 ||11 月 8 日   |15.0.4875.1001   |[KB 3200802](https://support.microsoft.com/kb/3200802)  |
 ||10 月 11 日   |15.0.4867.1003   |[KB 3194160](https://support.microsoft.com/kb/3194160)  |
 ||9 月 13 日   |15.0.4859.1002   |[KB 3188548](https://support.microsoft.com/kb/3188548)  |
@@ -80,7 +81,7 @@ ms.locfileid: "20246423"
 ||2 月 17 日   |15.0.4797.1003   |此版本會修正當您捲動視窗或複製並貼上文字時，可能會導致 Office 應用程式 (例如，Word、Excel 或 Outlook) 凍結或執行速度非常緩慢的問題。   |
 ||2 月 9 日   |15.0.4797.1002   |[KB 3137471](https://support.microsoft.com/kb/3137471)  |
 ||1 月 12 日   |15.0.4787.1002   |[KB 3131245](https://support.microsoft.com/kb/3131245)  |
-|2015   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
+|2015年   |12 月 8 日   |15.0.4779.1002   |[KB 3121650](https://support.microsoft.com/kb/3121650)  |
 ||11 月 24 日   |15.0.4771.1004   |此版本會修正 Outlook 當機問題。   |
 ||11 月 10 日   |15.0.4771.1003   |[KB 3108456](https://support.microsoft.com/kb/3108456)  |
 ||10 月 13 日   |15.0.4763.1003   |[KB 3099951](https://support.microsoft.com/kb/3099951)  |
@@ -92,7 +93,7 @@ ms.locfileid: "20246423"
 ||4 月 14 日   |15.0.4711.1003   |[KB 3050766](https://support.microsoft.com/kb/3050766)  |
 ||3 月 10 日   |15.0.4701.1002   |[KB 3040794](https://support.microsoft.com/kb/3040794)  |
 ||2 月 10 日   |15.0.4693.1002   |[KB 3032763](https://support.microsoft.com/kb/3032763)  |
-|2014   |12 月 9 日   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
+|2014年   |12 月 9 日   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
 ||11 月 11 日   |15.0.4667.1002   |[KB 3012392](https://support.microsoft.com/kb/3012392)  |
 ||10 月 14 日   |15.0.4659.1001   |[KB 3003800](https://support.microsoft.com/kb/3003800)  |
 ||9 月 16 日   |15.0.4649.1003   |[KB 2889931](https://support.microsoft.com/kb/2889931)  |
