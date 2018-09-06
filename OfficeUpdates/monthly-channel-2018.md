@@ -3,27 +3,57 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/15/2018
+ms.date: 9/5/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 34a789416bbd4f6ac436842d7d6ebb45a249a732
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
+ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520685"
+ms.lasthandoff: 09/06/2018
+ms.locfileid: "23839211"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
 這些版本資訊會提供 2018 年 Office 365 專業增強版的每月通道更新所含新功能、安全性更新和非安全性更新的相關資訊。
  
-> [!NOTE]
+ > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+
+## <a name="version-1808-september-5"></a>版本 1808： 9 月 5 日
+*版本 1808 （組建 10730.20088）*
+
+### <a name="access-feature-updates"></a>存取：功能更新
+ - **重新整理、 重新連結，或移除連結的資料表** 更新連結資料表管理員是管理所有資料來源及連結的資料表的位置。 [深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+ - **關閉轉寄的會議** 防止出席者轉寄您的會議給其他人。 只要移至功能區，並按一下回應選項。 [深入了解](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ 
+### <a name="visio-feature-updates"></a>Visio：功能更新
+ - **盡情享受下一個圖表中的圖示時刻** 從 26 個有圖示的新樣版挑選來用於分析、 藝術、 慶祝、 表面、 運動、 及更多。 
+ - **從Visio 圖形建立一個 Word 文件** 自動新增圖表內容，包括圖形與中繼資料、 至 Word 文件。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 和 Power BI： 兩個搭配成效更大** 只要點幾下，就能把您的 Visio 圖表轉換成互動式的 Power BI vizualization。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+ ### <a name="project-feature-updates"></a>Project：功能更新
+ - **請參閱工作區卡片上的其他資訊** 當單獨的標題無法分辦本文時，請自訂您的工作區卡片以顯示最重要的詳細資訊。 [深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+- 在Excel中修正一個問題，其中使用者選取的點線標記了要複製的儲存格範圍，此範圍並未消失並仍然保留在剪貼簿，甚至後來的使用者執行了像是貼上的動作之後，也還保留在剪貼簿。 
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+ - 解決配置多個Exchange帳戶的使用者在搜尋結果列表中無法存取連結「點選以查看更多...」的問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+ - 修正了一個導致更新安裝在特定情況下需要花很長時間的問題。
+ 
+### <a name="lync-non-security-updates"></a>Lync: 非安全性更新
+ - 修正了一個禁止 IM 訊息中的表情符號顯示問題。 
+
 
 ## <a name="version-1807-august-14"></a>版本 1807： 8 月 14 日
 *版本 1807 (組建 10325.20118)*
@@ -84,12 +114,12 @@ ms.locfileid: "23520685"
 *版本 1806 (組建 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改善的儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。
+ - **改良的儲存格及公式列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或公式列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
- - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。
+ - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -212,7 +242,7 @@ ms.locfileid: "23520685"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **聽取您的電子郵件：** Outlook 可以大聲念出您的電子郵件，並將所念到的文字醒目提示。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **決不會錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。否則，Outlook 會在工作列中閃爍，以讓您注意到。
+-   **決不會錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。 否則，Outlook 會在工作列中閃爍，以讓您注意到。[深入了解 ](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **將刪除的郵件標示為已讀取：** 您現在可以將任何已刪除的郵件標示為已讀取。請移至 [檔案] \> [選項] \> [郵件] \> [其他] 來選擇使用。
 -   **加密選項：** Office 365 郵件加密使用者可以加密郵件，並將其傳送給組織內外的任何人。建立郵件時，加密選項會出現在 [選項] \> [權限] 底下。 [深入了解](https://aka.ms/omeoverview)
 
