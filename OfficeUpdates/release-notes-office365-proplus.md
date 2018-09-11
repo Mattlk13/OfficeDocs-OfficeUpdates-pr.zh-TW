@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/18
+ms.date: 9/6/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 38a10d5afa1996ca9abd1680a76395c5d8c75030
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839221"
+ms.locfileid: "23848351"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
@@ -27,7 +27,6 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 |**通道**|**版本**|**組建**|**發行日期**|**支援之前的版本**|
 |:-----|:-----|:-----|:-----|:-----|
 |每月  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 2018 年 9 月 5 日  <br/> |版本 1809 發行日期 <br/>|
-|每月  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 版本 1808 發行日期 <br/>|
 |半年 (已設定目標)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2018 年 9 月 11 日 <br/>|
 |半年 <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 9 月 10 日 <br/>|
 |半年 <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 2018 年 8 月 14 日  <br/> | 2019 年 3 月 12 日 <br/>|
@@ -70,4 +69,4 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 - [Microsoft 安全性更新指南](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者，您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。
+> 如果您使用 Office 時需要我們協助您解決問題，建議您將問題張貼在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或是您也可以連絡[支援中心](https://support.microsoft.com/contactus)。
