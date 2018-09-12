@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/16/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 1ca096f0a4595eb8017f5af719a8d4b85bd58d73
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: df6fa0c538e42af077c0c033bee48c1480510b94
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520735"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23940314"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -31,6 +31,24 @@ ms.locfileid: "23520735"
 > - 只有最新版本會提供下載連結。
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
+## <a name="september-2018-release"></a>2018年 9 月 版本
+
+ **發行日期：** 2018 年 9 月 11 日 
+  
+ *版本 16.17.0 （組建 18090901）* 
+  
+此版本提供下列更新。
+
+  
+|**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Word  <br/> |**用\@提及項目得到他們的注意：** 使用中的註解 @mentions 讓同事知道您需要他們的輸入。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**自訂捷徑回復：** 我們聽到您 ！ 對於您的要求，我們已帶回自訂的快速鍵。 [深入了解](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|深入了解[ ](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429) <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點 <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**用\@提及項目得到他們的注意：** 使用中的註解 @mentions 讓同事知道您需要他們的輸入。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。[深入了解 ](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您選擇的字型就是他們會看到的字型：** 在您的檔案內嵌您的自訂字型，這樣一來，不管他們到哪裡，你的字型也會跟著走。 [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
+|Microsoft AutoUpdate 4.2  <br/> |||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Office 套件  <br/> ||[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Word 遠端程式碼執行弱點 <br/>||
+
 ## <a name="august-2018-release"></a>2018年 8 月版本
 
  **發行日期：** 2018 年 8 月 14 日 
@@ -44,7 +62,7 @@ ms.locfileid: "23520735"
 |Word  <br/> |||[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18081201_Updater.pkg) <br/>|
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 遠端程式碼執行弱點  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點  <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018年-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412)： Microsoft AutoUpdate Office 權限弱點的提高權限  <br/>|[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
 |Office 套件  <br/> ||||
 
@@ -73,10 +91,8 @@ ms.locfileid: "23520735"
 *版本 16.14.1 (組建 18061302)*
 
 此版本修正了個別應用程式更新套件的問題。
-
-以下是更新套件的下載連結：[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) 和 [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg)。
-
 <br/><br/>
+
 
  **發行日期：** 2018 年 6 月 12 日 
   
