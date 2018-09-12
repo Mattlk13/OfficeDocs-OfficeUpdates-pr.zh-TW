@@ -3,26 +3,26 @@ title: Office 2013 的更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: fefb08e29c345c609b704585ebadfd978650416c
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: c1227107084ba85f142c4a5941168f58707f09a0
+ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520535"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23936695"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 大部分的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> Office 2013 的最新版本是 **15.0.5059.1000**、 此版本已於 2018 年 8 月 14日發行。 
+> Office 2013 的最新版本是 **15.0.5067.1000**、 已於 2018 年 9 月 11 日發行。 
   
 若要檢查 Office 版本，請執行下列步驟：
   
@@ -46,7 +46,8 @@ ms.locfileid: "23520535"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2018 |8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
+|2018 | 9 月 11 日   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
+||8 月 14 日   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
 ||7 月 10 日   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
 ||6 月 12 日   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
 ||5 月 8 日   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/en-us/help/4133083)  |
@@ -54,7 +55,7 @@ ms.locfileid: "23520535"
 ||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/en-us/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
-|2017年   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
+|2017   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
 ||11 月 14 日   |15.0.4981.1001   |[KB 4051890](https://support.microsoft.com/help/4051890)  |
 ||10 月 10 日   |15.0.4971.1002   |[KB 4043461](https://support.microsoft.com/help/4043461)  |
 ||9 月 12 日   |15.0.4963.1002   |[KB 4040279](https://support.microsoft.com/help/4040279)  |

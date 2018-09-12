@@ -3,25 +3,26 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 06d294c7ad348451fc9b8acabc5fd58a826338d9
-ms.sourcegitcommit: 977f06b0e459e7a29fdcae5bc3ed9d72f7c55bdb
+ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2018
-ms.locfileid: "23796737"
+ms.lasthandoff: 09/11/2018
+ms.locfileid: "23940304"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
 建議您一律更新至最新版本的 Microsoft AutoUpdate (MAU)。
 
 下表提供 Microsoft AutoUpdate 的版本歷程記錄資訊。此表格依發行日期排序，先列出最新發行日期。所有更新套件皆為 64 位元。
+
 
 > [!NOTE]
 > - 最新版的 Microsoft AutoUpdate 一律可從 [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196) 取得。
@@ -30,9 +31,10 @@ ms.locfileid: "23796737"
   
 |**發行日期**|**版本**|**詳細資訊**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
+|2018 年 9 月 11 日  <br/> |4.3.0  <br/> |[版本資訊](release-notes-office-for-mac.md#september-2018-release) <br/> |[下載 MAU 4.3.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |2018 年 8 月 14 日  <br/> |4.2.0  <br/> |[版本資訊](release-notes-office-for-mac.md#august-2018-release) <br/> |[下載 MAU 4.2.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |2018 年 7 月 10 日  <br/> |4.1.0  <br/> |[版本資訊](release-notes-office-for-mac.md#july-2018-release) <br/> |[下載 MAU 4.1.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
-|2018 年 6 月 12 日  <br/> |4.0.0  <br/> ||[下載 MAU 4.0.0](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |
+|2018 年 6 月 12 日  <br/> |4.0.0  <br/> |||
 |2018 年 5 月 15 日  <br/> |4.0.0  <br/> |||
 |2018 年 4 月 10 日  <br/> |3.18  <br/> |[版本資訊](release-notes-office-for-mac.md#april-2018-release) <br/> ||
 |2018 年 3 月 13 日  <br/> |3.17  <br/> |||
