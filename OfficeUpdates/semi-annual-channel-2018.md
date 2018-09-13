@@ -3,19 +3,19 @@ title: 2018 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520655"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952443"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
@@ -24,9 +24,39 @@ ms.locfileid: "23520655"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
+> - 在 2018 年 1 月以前，半年管道舊名為「順延管道」。
 
-## <a name="version-1803-august-14"></a>版本 1803： 8 月 14 日
+## <a name="version-1803-september-11"></a>版本 1803： 年 9 月 11 日
+*1803 版 (組建 9126.2282)*
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)： Microsoft Excel 資訊洩漏弱點
+
+### <a name="word-security-updates"></a>Word：安全性更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 遠端程式碼執行弱點
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics  遠端程式碼執行弱點
+
+
+## <a name="version-1708-september-11"></a>1708 版：9 月 11 日
+*版本 1708 （組建 8431.2309）*
+
+*這是自從 2018 年 1 月以來提供的半年管道版本。它會繼續得到支援，並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年管道版本：1803 版 (組建 16.0.9126.2282)，其中包含新功能、安全性更新和非安全性更新。*
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)： Microsoft Excel 資訊洩漏弱點
+
+### <a name="word-security-updates"></a>Word：安全性更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 遠端程式碼執行弱點
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics  遠端程式碼執行弱點
+
+
+## <a name="version-1803-august-14"></a>1803 版：8 月 14 日
 *版本 1803 (組建 9126.2275)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
@@ -38,16 +68,16 @@ ms.locfileid: "23520655"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： 深度更新中的 Microsoft Office 防禦 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
 
 
 ## <a name="version-1708-august-14"></a>版本 1708： 8 月 14 日
-*版本 1708 (組建 8431.2299)*
+*1708 版 (組建 8431.2299)*
 
-*這是自從 2018 年 1 月以來提供的半年通道版本。它會繼續受到支援並接收安全性更新直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1803 (組建 16.0.9126.2259) — 其中包含了新功能、安全性更新和非安全性更新。*
+*這是自從 2018 年 1 月以來提供的半年管道版本。它會繼續得到支援，並接收安全性更新，直到 2019 年 3 月為止。不過，目前已有新的半年管道版本：版本 1803 (組建 16.0.9126.2275)，其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
@@ -58,7 +88,7 @@ ms.locfileid: "23520655"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： 深度更新中的 Microsoft Office 防禦 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
@@ -367,9 +397,9 @@ ms.locfileid: "23520655"
 
 
 ## <a name="version-1708-july-10"></a>版本 1708：7 月 10 日
-*版本 1708 (組建 8431.2280)*
+*1708 版 (組建 8431.2280)*
 
-*這是自從 2018 年 1 月以來提供的半年通道版本。它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1803 (組建 9126.2259) — 其中包含了新功能、安全性更新和非安全性更新。*
+*這是自從 2018 年 1 月以來提供的半年管道版本。它會繼續得到支援，並接收安全性更新，直到 2019 年 3 月為止。不過，目前已有新的半年管道版本：版本 1803 (組建 9126.2259)，其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
@@ -825,4 +855,4 @@ ms.locfileid: "23520655"
 -   [Advisory 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 > [!NOTE]
-> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者，您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。
+> 如果使用 Office 時發生問題而需要協助，建議到  [Microsoft's 解答論壇（英文）](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)張貼問題，或者也可以連絡[技術支援](https://support.microsoft.com/contactus)。
