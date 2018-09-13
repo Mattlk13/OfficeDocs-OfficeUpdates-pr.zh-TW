@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.openlocfilehash: a0906b12585d05f30936e07ae60a74b5e4dca153
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848381"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952393"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -36,22 +36,56 @@ ms.locfileid: "23848381"
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
 
+  ## <a name="september-11-2018"></a>2018 年 9 月 11 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新版本是 1808 版 (組建 10730.20102)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1808 (組建 10730.20088)  <br/> |2018年9月5日  <br/> |96  <br/> |
+|1807 版 (組建 10325.20118)  <br/> |2018 年 8 月 14 日  <br/> |239 <br/> |
+|版本 1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |240  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>半年通道
+
+最新版本是 1803 版 (組建 9126.2282)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1803 (組建 9126.2259)  <br/> |2018 年 7 月 10 日  <br/> |99  <br/> |
+|版本 1708 (組建 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |99 <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
+
+最新版本是 1808 版 (組建 10730.20102)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1803 (組建 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |289 <br/> |
+|版本 1803 (組建 9126.2259)  <br/> |2018 年 7 月 10 日  <br/>   |287  <br/>|
+
+
   ## <a name="september-5-2018"></a>2018 年 9 月 5 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新版本是 1808 版 (組建 10730.20088)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1807 (組建 10325.20118)  <br/> |2018 年 8 月 14 日  <br/> |231  <br/> |
+|1807 版 (組建 10325.20118)  <br/> |2018 年 8 月 14 日  <br/> |231  <br/> |
 |版本 1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |237  <br/> |
+
 
   ## <a name="august-14-2018"></a>2018 年 8 月 14 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
-最新的版本是 1807 版 (組建 10325.20118)。
+最新版本是 1807 版 (組建 10325.20118)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -69,7 +103,7 @@ ms.locfileid: "23848381"
 |版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
 
   
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新版本是 1803 版 (組建 9126.2275)。
   
@@ -109,7 +143,7 @@ ms.locfileid: "23848381"
 |版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |280  <br/> |
 |版本 1708 (組建 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |280  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新版本是 1803 版 (組建 9126.2259)。
   
@@ -165,17 +199,17 @@ ms.locfileid: "23848381"
 |版本 1708 (組建 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |56  <br/> |
 |版本 1708 (組建 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |57  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新版本是 1803 版 (組建 9126.2275)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1708 (組建 8431.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
+|1708 版 (組建 8431.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
 |版本 1708 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
 |版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
 
-最新的版本是版本 1803 (組建 9126.2227)。
+最新版本是1803版(組建 9126.2227)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -213,7 +247,7 @@ ms.locfileid: "23848381"
 
 ## <a name="may-18-2018"></a>2018 年 5 月 18 日
 
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2210)。
   
@@ -256,7 +290,7 @@ ms.locfileid: "23848381"
 | 版本 1708 (組建 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |49  <br/> |
 |版本 1708 (組建 8431.2236)  <br/> |2018 年 3 月 13 日  <br/> |53  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2191)。
   
@@ -298,7 +332,7 @@ ms.locfileid: "23848381"
 |版本 1708 (組建 8431.2236)  <br/> |2018 年 3 月 13 日  <br/> |54  <br/> |
 |版本 1708 (組建 8431.2215)  <br/> |2018 年 2 月 13 日  <br/> |54  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2152)。
   
@@ -320,7 +354,7 @@ ms.locfileid: "23848381"
    
 ## <a name="march-20-2018"></a>2018 年 3 月 20 日
 
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2098)。
   
@@ -349,7 +383,7 @@ ms.locfileid: "23848381"
 |版本 1708 (組建 8431.2215)  <br/> |2018 年 2 月 13 日  <br/> |50  <br/> |
 |版本 1708 (組建 8431.2153)  <br/> |2018 年 1 月 9 日  <br/> |54  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2072)。
   
@@ -392,7 +426,7 @@ ms.locfileid: "23848381"
 |版本 1708 (組建 8431.2153)  <br/> |2018 年 1 月 9 日  <br/> |53  <br/> |
 |版本 1705 (組建 8201.2213)  <br/> |2017 年 12 月 12 日  <br/> |293  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1708 版 (組建 8431.2215)。
   
@@ -434,4 +468,4 @@ ms.locfileid: "23848381"
 - [Office 365 專業增強版的更新歷程記錄 (依版本列出)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。
+> 如果您使用 Office 時需要我們協助您解決問題，建議您將問題張貼在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或是您也可以連絡[支援中心](https://support.microsoft.com/contactus)。

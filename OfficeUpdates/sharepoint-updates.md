@@ -3,7 +3,7 @@ title: SharePoint 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 2016、SharePoint 2013 及 SharePoint 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: afdc90d617c0cdcb6261d5a0a177c2e330375491
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 9a4b6884be84070f2c15d8bb94659c5516e22ffc
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520565"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954839"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -33,6 +33,7 @@ ms.locfileid: "23520565"
 
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/en-us/help/4092459) <br/>  |2018 年 9 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4032256](https://support.microsoft.com/en-us/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/en-us/help/4022231) <br/> |2018年 8 月  <br/> |
 |SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/en-us/help/4022228)  <br/> |2018 年 7 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4022173](https://support.microsoft.com/en-us/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/en-us/help/4022178) <br/> |2018 年 6 月  <br/> |
@@ -77,6 +78,7 @@ ms.locfileid: "23520565"
     
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4092474](https://support.microsoft.com/en-us/help/4092474) <br/> [KB 4092476](https://support.microsoft.com/en-us/help/4092476) <br/> |2018 年 9 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4032244](https://support.microsoft.com/en-us/help/4032244) <br/> [KB 4032247](https://support.microsoft.com/en-us/help/4032247) <br/> |2018年 8 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022239](https://support.microsoft.com/en-us/help/4022239) <br/> [KB 4022241](https://support.microsoft.com/en-us/help/4022241) <br/> |2018 年 7 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4022184](https://support.microsoft.com/en-us/help/4022184) <br/> [KB 4022187](https://support.microsoft.com/en-us/help/4022187) <br/> |2018 年 6 月  <br/> |
@@ -136,6 +138,7 @@ ms.locfileid: "23520565"
 
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4227169](https://support.microsoft.com/en-us/help/4227169) <br/> |2018 年 9 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4032221](https://support.microsoft.com/en-us/help/4032221) <br/> |2018年 8 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022204](https://support.microsoft.com/en-us/help/4022204) <br/> |2018 年 6 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4022143](https://support.microsoft.com/en-us/help/4022143) <br/> |2018 年 5 月  <br/> |
@@ -206,6 +209,6 @@ ms.locfileid: "23520565"
 
 - [安裝 SharePoint Server 2016 的軟體更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
 - [SharePoint Server 2013 的軟體更新概觀](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [Prepare to deploy software updates for SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [準備為 SharePoint Server 2013 部署軟體更新](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
 - [Exchange Server 更新](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 - [Project Server 更新](project-server-updates.md)
