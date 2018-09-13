@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本最新更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 3b865b44cd18fdf825c0969f9724b841b70df697
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: 8ba1a34f2fa2d549ed903254d163d67d88830ed9
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520505"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954779"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -32,25 +32,27 @@ ms.locfileid: "23520505"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016 年** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |無  <br/> |2018年 8 月PU  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+|**2016 年** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |無  <br/> |2018 年 9 月 PU  <br/> [KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018年 8 月PU  <br/> [KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2018 年 9 月 PU  <br/> [KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018年 8 月PU <br/>[KB4346823](https://support.microsoft.com/en-us/help/4346823) <br/>|
+|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2018 年 9 月 PU <br/>[KB4459402](https://support.microsoft.com/en-us/help/4459402) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月所發行的更新
 
-[ 2018年 8 月的安全性與非安全性更新: KB4346823](https://support.microsoft.com/help/4346823)   
+[2018 年 9 月的安全性與非安全性更新：KB4459402](https://support.microsoft.com/help/4459402) 
+
+[2018 年 8 月的安全性和非安全性更新：KB4346823](https://support.microsoft.com/help/4346823)   
 
 [2018 年 7 月的安全性和非安全性更新：KB4340798](https://support.microsoft.com/help/4340798)   
 
@@ -71,8 +73,7 @@ ms.locfileid: "23520505"
 [2017 年 11 月的安全性和非安全性更新：KB4051890](https://support.microsoft.com/help/4051890)   
   
 [2017 年 10 月的安全性和非安全性更新：KB4043461](https://support.microsoft.com/help/4043461)   
-  
-[2017 年 9 月的安全性和非安全性更新：KB4040279](https://support.microsoft.com/help/4040279)   
+    
 
   
 
