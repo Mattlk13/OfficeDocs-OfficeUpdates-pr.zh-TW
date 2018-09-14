@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954819"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965139"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -38,49 +38,49 @@ ms.locfileid: "23954819"
 
   ## <a name="september-5-2018"></a>2018 年 9 月 5 日
 
-### <a name="monthly-channel"></a>每月管道
+### <a name="monthly-channel"></a>每月通道
 
 最新版本是 1808 版 (組建 10730.20088)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本1807 (組建 10325.20118)  <br/> |2018 年 8 月 14 日  <br/> |231  <br/> |
-|版本1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |237  <br/> |
+|版本 1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |237  <br/> |
 
   ## <a name="august-14-2018"></a>2018 年 8 月 14 日
 
-### <a name="monthly-channel"></a>每月管道
+### <a name="monthly-channel"></a>每月通道
 
 最新版本是 1807 版 (組建 10325.20118)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |82  <br/> |
+|版本 1807 (組建 10325.20082)  <br/> |2018 年 7 月 25 日  <br/> |82  <br/> |
 |版本 1807 (組建 10228.20134)  <br/> |2018 年 7 月 17 日  <br/> |183  <br/> |
 
   
-### <a name="semi-annual-channel"></a>半年頻道
+### <a name="semi-annual-channel"></a>半年通道
 
 最新版本是 1803 版 (組建 9126.2275)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1803 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
-|1708 版 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
+|版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
 
   
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新版本是 1803 版 (組建 9126.2275)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1803 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
-|1803 版 (組建 9126.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
+|版本 1803 (組建 9126.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>2018 年 7 月 25 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1807 版 (組建 10325.20082)。
   
@@ -91,7 +91,7 @@ ms.locfileid: "23954819"
 
  ## <a name="july-10-2018"></a>2018 年 7 月 10 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1806 版 (組建 10228.20104)。
   
@@ -101,27 +101,28 @@ ms.locfileid: "23954819"
 |版本 1805 (組建 9330.2124)  <br/> |2018 年 6 月 13 日  <br/> |149  <br/> |
 |版本 1805 (組建 9330.2118)  <br/> |2018 年 6 月 12 日  <br/> |401  <br/> |
 |版本 1805 (組建 9330.2087)  <br/> |2018 年 5 月 24 日  <br/> |150  <br/> |
-
-最新版本是 1803 版 (組建 9126.2259)。
+  
+### <a name="semi-annual-channel"></a>半年通道
+最新的版本是 1803 版 (組建 9126.2259)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |280  <br/> |
 |版本 1708 (組建 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |280  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新版本是 1803 版 (組建 9126.2259)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|1803 版 (組建 9126.2227)  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
-|1803 版 (組建 9126.2210)  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
+|版本 1803 (組建 9126.2227)  <br/> |2018 年 6 月 12 日  <br/> |78  <br/> |
+|版本 1803 (組建 9126.2210)  <br/> |2018 年 5 月 18 日  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>2018 年 6 月 25 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是版本 1806 (組建 10228.20080)。
   
@@ -133,7 +134,7 @@ ms.locfileid: "23954819"
    
 ## <a name="june-13-2018"></a>2018 年 6 月 13 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1805 版 (組建 9330.2118)。
   
@@ -146,7 +147,7 @@ ms.locfileid: "23954819"
    
 ## <a name="june-12-2018"></a>2018 年 6 月 12 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1805 版 (組建 9330.2118)。
   
@@ -165,17 +166,17 @@ ms.locfileid: "23954819"
 |版本 1708 (組建 8431.2250)  <br/> |2018 年 5 月 8 日  <br/> |56  <br/> |
 |版本 1708 (組建 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |57  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新版本是 1803 版 (組建 9126.2275)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|1708 版 (組建 8431.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
+|版本 1708 (組建 8431.2227)  <br/> |2018 年 6 月 12 日  <br/> |94  <br/> |
 |版本 1708 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
-|1708 版 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
+|版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
 
-最新的版本是版本 1803 (組建 9126.2227)。
+最新的版本是 1803 版(組建 9126.2227)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -186,7 +187,7 @@ ms.locfileid: "23954819"
 
 ## <a name="may-24-2018"></a>2018 年 5 月 24 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1805 版 (組建 9330.2087)。
   
@@ -200,7 +201,7 @@ ms.locfileid: "23954819"
 
 ## <a name="may-23-2018"></a>2018 年 5 月 23 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1805 版 (組建 9330.2078)。
   
@@ -213,7 +214,7 @@ ms.locfileid: "23954819"
 
 ## <a name="may-18-2018"></a>2018 年 5 月 18 日
 
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2210)。
   
@@ -225,7 +226,7 @@ ms.locfileid: "23954819"
  
 ## <a name="may-14-2018"></a>2018 年 5 月 14 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1804 版 (組建 9226.2156)。
   
@@ -237,7 +238,7 @@ ms.locfileid: "23954819"
 
 ## <a name="may-8-2018"></a>2018 年 5 月 8 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1804 版 (組建 9226.2126)。
   
@@ -256,7 +257,7 @@ ms.locfileid: "23954819"
 | 版本 1708 (組建 8431.2242)  <br/> |2018 年 4 月 10 日  <br/> |49  <br/> |
 |版本 1708 (組建 8431.2236)  <br/> |2018 年 3 月 13 日  <br/> |53  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2191)。
   
@@ -267,7 +268,7 @@ ms.locfileid: "23954819"
    
 ## <a name="april-25-2018"></a>2018 年 4 月 25 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1804 版 (組建 9226.2114)。
   
@@ -278,7 +279,7 @@ ms.locfileid: "23954819"
    
 ## <a name="april-11-2018"></a>2018 年 4 月 11 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1803 版 (組建 9126.2152)。
   
@@ -298,7 +299,7 @@ ms.locfileid: "23954819"
 |版本 1708 (組建 8431.2236)  <br/> |2018 年 3 月 13 日  <br/> |54  <br/> |
 |版本 1708 (組建 8431.2215)  <br/> |2018 年 2 月 13 日  <br/> |54  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2152)。
   
@@ -309,7 +310,7 @@ ms.locfileid: "23954819"
    
 ## <a name="march-27-2018"></a>2018 年 3 月 27 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1803 版 (組建 9126.2116)。
   
@@ -320,7 +321,7 @@ ms.locfileid: "23954819"
    
 ## <a name="march-20-2018"></a>2018 年 3 月 20 日
 
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2098)。
   
@@ -331,7 +332,7 @@ ms.locfileid: "23954819"
    
 ## <a name="march-13-2018"></a>2018 年 3 月 13 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1802 版 (組建 9029.2253)。
   
@@ -349,7 +350,7 @@ ms.locfileid: "23954819"
 |版本 1708 (組建 8431.2215)  <br/> |2018 年 2 月 13 日  <br/> |50  <br/> |
 |版本 1708 (組建 8431.2153)  <br/> |2018 年 1 月 9 日  <br/> |54  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1803 版 (組建 9126.2072)。
   
@@ -360,7 +361,7 @@ ms.locfileid: "23954819"
    
 ## <a name="february-26-2018"></a>2018 年 2 月 26 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1802 版 (組建 9029.2167)。
   
@@ -372,7 +373,7 @@ ms.locfileid: "23954819"
    
 ## <a name="february-13-2018"></a>2018 年 2 月 13 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1801 版 (組建 9001.2171)。
   
@@ -392,7 +393,7 @@ ms.locfileid: "23954819"
 |版本 1708 (組建 8431.2153)  <br/> |2018 年 1 月 9 日  <br/> |53  <br/> |
 |版本 1705 (組建 8201.2213)  <br/> |2017 年 12 月 12 日  <br/> |293  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>半年頻道 (已設定目標)
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
 最新的版本是 1708 版 (組建 8431.2215)。
   
@@ -403,7 +404,7 @@ ms.locfileid: "23954819"
    
 ## <a name="february-7-2018"></a>2018 年 2 月 7 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1801 版 (組建 9001.2144)。
   
@@ -416,7 +417,7 @@ ms.locfileid: "23954819"
    
 ## <a name="february-1-2018"></a>2018 年 2 月 1 日
 
-### <a name="monthly-channel"></a>每月頻道
+### <a name="monthly-channel"></a>每月通道
 
 最新的版本是 1801 版 (組建 9001.2138)。
   
