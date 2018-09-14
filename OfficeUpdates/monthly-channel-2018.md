@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839211"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952423"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -24,6 +24,20 @@ ms.locfileid: "23839211"
  > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+
+## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
+*版本 1808 (組建 10730.20102)*
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏弱點
+
+### <a name="word-security-updates"></a>Word：安全性更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 遠端程式碼執行弱點
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics 遠端程式碼執行弱點
+
 
 ## <a name="version-1808-september-5"></a>版本 1808： 9 月 5 日
 *版本 1808 （組建 10730.20088）*
@@ -36,27 +50,27 @@ ms.locfileid: "23839211"
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
  - **盡情享受下一個圖表中的圖示時刻** 從 26 個有圖示的新樣版挑選來用於分析、 藝術、 慶祝、 表面、 運動、 及更多。 
- - **從Visio 圖形建立一個 Word 文件** 自動新增圖表內容，包括圖形與中繼資料、 至 Word 文件。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **用 Visio 圖形建立一個 Word 文件** 自動新增圖表內容，包括圖形、中繼資料和Word 文件。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
  - **Visio 和 Power BI： 兩個搭配成效更大** 只要點幾下，就能把您的 Visio 圖表轉換成互動式的 Power BI vizualization。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
  - **請參閱工作區卡片上的其他資訊** 當單獨的標題無法分辦本文時，請自訂您的工作區卡片以顯示最重要的詳細資訊。 [深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
-- 在Excel中修正一個問題，其中使用者選取的點線標記了要複製的儲存格範圍，此範圍並未消失並仍然保留在剪貼簿，甚至後來的使用者執行了像是貼上的動作之後，也還保留在剪貼簿。 
+-  在Excel中修正一個問題，其中使用者選取的點線標記了要複製的儲存格範圍，此範圍並未消失並仍然保留在剪貼簿，甚至後來的使用者執行了像是貼上的動作之後，也還保留在剪貼簿。 
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
  - 解決配置多個Exchange帳戶的使用者在搜尋結果列表中無法存取連結「點選以查看更多...」的問題。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 修正了一個導致更新安裝在特定情況下需要花很長時間的問題。
+ - 修正了在特定情況下更新安裝要花很長時間的問題。
  
 ### <a name="lync-non-security-updates"></a>Lync: 非安全性更新
  - 修正了一個禁止 IM 訊息中的表情符號顯示問題。 
 
 
-## <a name="version-1807-august-14"></a>版本 1807： 8 月 14 日
-*版本 1807 (組建 10325.20118)*
+## <a name="version-1807-august-14"></a>版本 1807：8 月 14 日
+*1807 版 (組建 10325.20118)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
@@ -67,7 +81,7 @@ ms.locfileid: "23839211"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： 深度更新中的 Microsoft Office 防禦 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
@@ -91,7 +105,7 @@ ms.locfileid: "23839211"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
  - 修正了防止部分使用者開啟受 IRM 保護的文件和電子郵件 (由其他組織中的人員與他們共用) 的一些問題。
 
-## <a name="version-1806-july-17"></a>版本 1806：  7 月 17 日
+## <a name="version-1806-july-17"></a>版本 1806：7 月 17 日
 *版本 1806 (組建 10228.20134)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
@@ -114,12 +128,12 @@ ms.locfileid: "23839211"
 *版本 1806 (組建 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改良的儲存格及公式列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或公式列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改良的儲存格及資料編輯列：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **改善 SVG 支援：** 您可以插入已篩選過的 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
- - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，使您的郵件更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -166,7 +180,7 @@ ms.locfileid: "23839211"
 
 ### <a name="project-non-security-updates"></a>Project 非安全性更新
 
-- 修正當您在透過主要專案內容使用子專案時，系統阻止您儲存子專案的問題。
+- 修正當您在透過主要專案內容使用子專案時，系統導致您無法儲存子專案的問題。
 
 ## <a name="version-1805-may-24"></a>版本 1805：5 月 24 日
 *版本 1805 (組建 9330.2087)*
@@ -183,7 +197,7 @@ ms.locfileid: "23839211"
  - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，更有效地以視覺化方式呈現資料並進行明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。 請注意這項功能在某些區域無法使用。[了解更多](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在編輯時與共同作者交談：** 藉由與共同作者聊天，無需離開 Excel 就可更有效率地共同作業。 請注意這項功能在某些區域無法使用。[了解更多](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **免操作輸入：** 使用您的語音直接聽寫以建立電子郵件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -242,7 +256,7 @@ ms.locfileid: "23839211"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **聽取您的電子郵件：** Outlook 可以大聲念出您的電子郵件，並將所念到的文字醒目提示。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **決不會錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。 否則，Outlook 會在工作列中閃爍，以讓您注意到。[深入了解 ](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **決不會錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。 如果沒有設定的話，Outlook 會在工作列中閃爍引起您注意。[深入了解 ](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **將刪除的郵件標示為已讀取：** 您現在可以將任何已刪除的郵件標示為已讀取。請移至 [檔案] \> [選項] \> [郵件] \> [其他] 來選擇使用。
 -   **加密選項：** Office 365 郵件加密使用者可以加密郵件，並將其傳送給組織內外的任何人。建立郵件時，加密選項會出現在 [選項] \> [權限] 底下。 [深入了解](https://aka.ms/omeoverview)
 
@@ -474,4 +488,4 @@ ms.locfileid: "23839211"
 -   修正此問題：VBA 程式碼從專案中遺失。
 
 > [!NOTE]
-> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者，您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。
+> 如果您在使用 Office 時需要協助的話，建議您將問題張貼到 [Microsoft Answers 論壇](https://answers.microsoft.com/)、[Tech 社群](https://techcommunity.microsoft.com/)，或者您也可以連絡[技術支援](https://support.microsoft.com/contactus)。
