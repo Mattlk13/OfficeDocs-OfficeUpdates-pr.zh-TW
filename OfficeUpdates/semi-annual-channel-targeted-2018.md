@@ -3,19 +3,19 @@ title: 2018 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 1c6283259c9d6521fde11d1dcdeca2e6031fa601
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: bb6e9f8f4a2740f7ee98b178563afa03aad561e7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520625"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952433"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -24,6 +24,160 @@ ms.locfileid: "23520625"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+
+ ## <a name="version-1808-september-11"></a>版本 1808：  9 月 11 日
+*版本 1808 (組建 10730.20102)*
+
+### <a name="access-feature-updates"></a>Access：功能更新
+ - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，更有效地以視覺化方式呈現資料並進行明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+ 
+ ### <a name="access-security-updates"></a>Access：安全性更新
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+ - **共同作業編輯：** 在您的活頁簿中與他人同時作業。 [深入了解](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
+ - **現在已預設啟用 AutoSave 雲端檔案：**   AutoSave 在 2018 年9 月的半年管道 (Targeted) 版本已預設為啟用。 這項變更代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。 變更將會自動儲存在雲端，而使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。 但使用者必須了解這項行為變更，以防意外變更文件。 使用者可以在畫面頂端的 AutoSave 切換開關來停用 AutoSave 。 建議通知使用者這項近期變更，並提供有關這項 Office 365 新功能的使用教學。 [AutoSave 詳細說明](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [更多 IT 系統管理員的 AutoSave 須知的相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **儲存格及公式列編輯已最佳化：** 現在可以使 CTRL + A 來選取儲存格或公式列中的文字。 表情符號及其他複雜的字元的支援也已最佳化。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- 改善協助工具檢查程式︰協助工具檢查程式已對國際標準與建議的支援進行了更新，使活頁簿存取更便利。** ** [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **避免意外的編輯：** 將活頁簿以唯讀開啟，避免意外變更。 前往 [檔案] > [資訊] > [保護活頁簿] > [一律以唯讀開啟]
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)： Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 資訊洩漏弱點
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行弱點
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+-   修正從原儲存格變更圖表來源資料時 Excel 可能會損毀的問題。
+-   修正即使已設定 FullCalcOnLoad 屬性，開啟時也可能不會算的問題。  
+-   修正在日期儲存格格式使用日本年號日曆時顯示錯誤年份的問題。
+-   當資料匯入 Excel 資料模型中，負值或零的輸入值會造成錯誤。此修正會將此類的值匯入為零。
+-   修正 Excel 樞紐分析表中的群組 (或取消群組) 作業有時候會觸發當機的問題。
+-   修正此問題：在圖表上動作可能會造成 Excel 當機。
+-   修正此問題：部分使用者不小心停用 Power View 增益集。
+-   修正此問題：在文件復原期間建立的暫時自動復原檔案永遠不會清除。
+-   修正此問題：在嘗試與受保護 Workbook 中的文字檔建立新連線時，收到「Workbook 受到保護，且無法變更」錯誤訊息。
+-   修正在 Outlook 電子郵件中快速列印附件 Excel 活頁簿可能會列印不出來。
+-   修正此問題：按一下超連結可能會造成 Excel 當機。
+-   修正使用 cube 函數會造成 Excel 當機的問題。
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+ - **免持輸入：** 用語音直接聽寫建立電子郵件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
+ - **改善協助工具檢查程式︰** 協助工具檢查程式已對國際標準與建議的支援進行了更新，使訊息存取更便利。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **從 Profile Picker 管理設定檔：** 如果您習慣在 Outlook 啟動時使用 Profile Picker ，現在不用去[控制台]即可進行變更。 建立並刪除設定檔、變更設定，全部都在 Profile Picker 中。
+- **內建的協助工具：** 在圖像上新增替代文字，即可使訊息讓每個人存取。
+- **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能是因為以下的事件延遲：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
+- **了解出席人員：** 即使不是召集人，也可以看到其他人對開會通知的回應。
+- **永不錯過提醒：** 在正在工作的事窗中彈出提醒。 否則，Outlook 會在工作列中閃爍來讓您注意。[深入了解 ](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+- **將刪除的郵件標示為已讀取：** 您現在可以將任何已刪除的郵件標示為已讀取。請移至 [檔案] \> [選項] \> [郵件] \> [其他] 來選擇使用。
+- **檢視三個時區：** 需要跨時區排定會議嗎？ 將多個時區新增至行事曆，方便檢視所有人員的空檔，挑選可行的時間。 [深入了解](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+- **精簡建立群組的使用感受：** 精簡建立群祖的使用感受，使其看起來更具現代感，再也不雜亂。[了解更多](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
+- **密件副本 (Bcc) 警告：** 如果對先前使用密件副本的郵件選擇 [全部回覆]，將會顯示警告訊息。
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 竄改弱點
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244)：Microsoft Outlook 提高權限弱點
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能略過的弱點
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： Microsoft Office 深度防禦更新
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+-   修正如果將系統語言切換為日文，並在載入 Outlook 時嘗試輸入 VBA IDE 時會凍結的問題。
+-   修正切換到 [寄件匣] 或 [寄件備份] 資料夾時會使 Outlook 損毀的問題。
+-   修正此問題：會議內文或附件變更時所有出席者收到會議更新，而非傳送會議更新給選擇性的出席者。
+-   修正此問題：因為使用者代理程式字串中的變更，造成使用者無法連線到 EWS 及 REST 端點。
+-   修正此問題：出席者的會議位置更新是顯示舊的位置而不是新的位置。
+-   修正此問題：使用者在預覽讀取窗格中的附件時，會看到錯誤。
+-   修正此問題：當使用者在撰寫電子郵件時，解決電子郵件地址的顯示名稱會使 Outlook 當機。
+-   修正部分使用者收不到已由其租用戶管理啟用的支援功能的問題。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
+- **免持輸入：** 用語音直接聽寫建立簡報。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **現在已預設啟用 AutoSave 雲端檔案：**   AutoSave 在 2018 年9 月的半年管道 (Targeted) 版本已預設為啟用。 這項變更代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。 變更將會自動儲存在雲端，而使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。 但使用者必須了解這項行為變更，以防意外變更文件。 使用者可以在畫面頂端的 AutoSave 切換開關來停用 AutoSave 。 建議通知使用者這項近期變更，並提供有關這項 Office 365 新功能的使用教學。 [AutoSave 詳細說明](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [更多 IT 系統管理員的 AutoSave 須知的相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **儲存格及公式列編輯已最佳化：** 現在可以使 CTRL + A 來選取儲存格或公式列中的文字。 表情符號及其他複雜的字元的支援也已最佳化。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **轉換筆跡：** 擷取草草寫下的筆記和繪圖，並將其轉換為可供閱讀的文字和簡潔的圖形，以建立精美的簡報。 [深入了解](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
+- **對 SVG 支援已最佳化：** 可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **使用手寫筆為投影片撰寫標題：** 使用手寫筆的筆跡輸入，還可看到 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **避免意外的編輯：** 將活頁簿以唯讀開啟，避免意外變更。 前往 [檔案] > [資訊] > [保護活頁簿] > [一律以唯讀開啟]
+- **發佈至 Microsoft Stream：** 藉由 Microsoft Stream 更安全的在組織內以影片形式共用簡報。 [詳細資訊](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
+- **Microsoft 表單：** 在投影片上進行測驗或問卷。Office 會收集並儲存回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **改善協助工具檢查程式︰** 協助工具檢查程式已對國際標準與建議的支援進行了更新，使簡報存取更便利。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修正此問題：表格以粗框線錯誤編譯。
+-   修正當變更 Shape.Visibile 屬性時可能會造成當機的問題。
+-   修正共同撰寫文件中的變更無法合併的問題。
+-   修正包含 ActiveX 控制項的文件會造成共同撰寫失敗的問題。
+-   修正此問題：在圖形中使用拼字校正時會造成 PowerPoint 當機。
+-   修正此問題：PowerPoint 在從 SharePoint Online 開啟檔案時損毀。
+-   修正此問題：開啟 [自動儲存] 時，[復原] 窗格不正確地顯示。
+-   修正此問題：未顯示登入，使得使用者無法存取檔案。
+-   修正此問題：多個使用者在相同簡報上共同撰寫會導致投影片母片不正確重複。
+-   修正開啟儲存在 OneDrive 中的檔案時，會導致退出 Protected View 時 PowerPoint 會當機。
+
+### <a name="project-feature-updates"></a>Project：功能更新 
+- **Sprint 管理：** 快速新增、 更新或刪除 agile sprint。
+- **工作面板篩選：** 篩選重要資源或摘要任務，簡化工作面板。
+- **從工作面板設定完成百分比：** 針對每個資料行選擇完成百分比，然後透過拖放更新工作完成度。
+- **Sprint 瀏覽：** 在 Sprint 檢視間切換，並快速地在 Sprint 之間移動任務。
+- **管理短期衝刺的全新方法：** 採取敏捷方式來使用工作面板。隨著專案的發展，請移至 [管理短期衝刺] 來新增或移除短期衝刺。
+- **使用最近的儲存位置保持組織：** 專案會保存您已儲存其他專案位置的持續清單。當您準備好要儲存專案時，只需選擇其中一個您最近的儲存位置，就能繼續進行您一天的工作。
+
+### <a name="project-non-security-updates"></a>Project 非安全性更新
+- 修正在主要專案內容中使用子專案時無法儲存子專案的問題。
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+-   修正與 TLS 1.2 支援相關的問題。
+-   修正在會議中點選 [Skype 通話] 來新增使用者時會產生錯誤的問題。
+-   如果已將 Skype 會議室新增為位置，且會議已包含小組會議座標，請移除要求使用者將 Skype 座標新增至會議的提示。
+-   修正此問題：即使 UseLocationForE911Only 設定為 true，也會填入位置。
+-   修正此問題：使用名冊中的「使用會議中心呼叫」選項來邀請使用者時，商務用 Skype 會當機。
+-   修正此問題：建立商務用 Skype 會議時，在終端機伺服器上運行的Outlook 會凍結。
+-   將 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的預設值變更為 TRUE。
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+- **讓您的圖表和來源能保持同步：** 當您在 Visio 中編輯 [資料視覺化工具] 圖表時，可以選擇用最新的圖表內容來更新連結的 Excel 來源資料。
+- **資料視覺化檢視稽核範本：** 從 Excel 匯入內容並建立財務交易、 庫存管理等的稽核圖表。
+- **入門圖表：** 組織圖、腦力激盪和 SDL 範本有新的入門圖表可供快速啟動與執行。
+ - **從Visio 圖形建立 Word 文件** 自動新增圖表內容到 Word 文件，包括圖形與中繼資料。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+- **免持輸入：** 用語音直接聽寫建立文件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+- **現在已預設啟用 AutoSave 雲端檔案：**   AutoSave 在 2018 年9 月的半年管道 (Targeted) 版本已預設為啟用。 這項變更代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。 變更將會自動儲存在雲端，而使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。 但使用者必須了解這項行為變更，以防意外變更文件。 使用者可以在畫面頂端的 AutoSave 切換開關來停用 AutoSave 。 建議通知使用者這項近期變更，並提供有關這項 Office 365 新功能的使用教學。 [AutoSave 詳細說明](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [深入了解 IT 系統管理員的 AutoSave 須知]
+- **改善協助工具檢查程式︰** 協助工具檢查程式已對國際標準與建議的支援進行了更新，使簡報存取更便利。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **對 SVG 支援已最佳化：** 可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-security-updates"></a>Word：安全性更新
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)：Word PDF 遠端程式碼執行弱點
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修正造成顯示記憶體不足訊息的問題。
+-   修正了防止部分使用者開啟受 IRM 保護的文件和電子郵件 (由其他組織中的人員與他們共用) 的一些問題。
+-   修正了一些效能問題。
+
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Win32k Graphics  遠端程式碼執行弱點
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-  修正在特定情況下導致更新安裝要花很長時間的問題。
+-  修正此問題：開啟應用程式時，使用者可能會看到以安全模式啟動的訊息，然後應用程式無法開啟。
+-  修正了一些效能問題。
 
 ## <a name="version-1803-august-14"></a>版本 1803： 8 月 14 日
 *版本 1803 (組建 9126.2275)*
@@ -37,7 +191,7 @@ ms.locfileid: "23520625"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： 深度更新中的 Microsoft Office 防禦 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)： Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
@@ -132,7 +286,7 @@ ms.locfileid: "23520625"
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能略過的弱點
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
--   修正此問題：切換到 [寄件匣] 或 [寄件備份] 資料夾造成 Outlook 損毀。
+-   修正切換到 [寄件匣] 或 [寄件備份] 資料夾時會使 Outlook 損毀的問題。
 -   修正此問題：會議內文或附件變更時所有出席者收到會議更新，而非傳送會議更新給選擇性的出席者。
 -   修正此問題：因為使用者代理程式字串中的變更，造成使用者無法連線到 EWS 及 REST 端點。
 
@@ -163,7 +317,7 @@ ms.locfileid: "23520625"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正此問題：多個使用者在相同簡報上共同撰寫會導致投影片母片不正確重複。
--   修正此問題：將儲存在 OneDrive 中的檔案開啟時，結束受保護的檢視時會導致 PowerPoint 當機。
+-   修正開啟儲存在 OneDrive 中的檔案時，會導致退出 Protected View 時 PowerPoint 會當機。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正與 TLS 1.2 支援相關的問題。
@@ -182,7 +336,7 @@ ms.locfileid: "23520625"
 *版本 1803 (組建 9126.2098)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
--   修正此問題：快速列印附加至 Outlook 電子郵件的 Excel 活頁簿可能會列印不出來。
+-   修正在 Outlook 電子郵件中快速列印附件 Excel 活頁簿可能會列印不出來。
 -   修正此問題：按一下超連結可能會造成 Excel 當機。
 -   修正此問題：使用 cube 函數會造成 Excel 當機。
 
@@ -432,6 +586,7 @@ ms.locfileid: "23520625"
 -   [Advisory 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修正此問題：開啟應用程式時，使用者可能會看到以安全模式啟動的訊息，然後應用程式無法開啟。
 -   當啟用 Office COM 物件，讓 Office 365 用戶端更新由 System Center Configuration Manager 管理，[立即更新] 選項會在 [檔案] \> [帳戶] \> [更新選項] 中隱藏。
 -   修正此問題：當使用者嘗試使用 [啟動 Office] 對話方塊來啟動 Office 時，Office 應用程式會當機。
 -   修正在動態 DPI 環境下的 Office 增益集中縮放與調整大小的問題。
@@ -496,4 +651,4 @@ ms.locfileid: "23520625"
 
 
 > [!NOTE]
-> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您張貼您的問題在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或者，您也可以連絡 [支援中心](https://support.microsoft.com/contactus)。
+> 使用 Office 時如需問題協助，建議到 [Microsoft Answers 論壇 （英文）](https://answers.microsoft.com/)或 [Tech 社群](https://techcommunity.microsoft.com/)張貼問題，或連絡[技術支援](https://support.microsoft.com/contactus)。
