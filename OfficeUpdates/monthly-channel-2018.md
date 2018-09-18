@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952423"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991931"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,7 +25,7 @@ ms.locfileid: "23952423"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 
-## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
+## <a name="version-1808-september-11"></a>版本 1808： 9 月 11 日
 *版本 1808 (組建 10730.20102)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -42,7 +42,7 @@ ms.locfileid: "23952423"
 ## <a name="version-1808-september-5"></a>版本 1808： 9 月 5 日
 *版本 1808 （組建 10730.20088）*
 
-### <a name="access-feature-updates"></a>存取：功能更新
+### <a name="access-feature-updates"></a>Access：功能更新
  - **重新整理、 重新連結，或移除連結的資料表** 更新連結資料表管理員是管理所有資料來源及連結的資料表的位置。 [深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -50,7 +50,7 @@ ms.locfileid: "23952423"
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
  - **盡情享受下一個圖表中的圖示時刻** 從 26 個有圖示的新樣版挑選來用於分析、 藝術、 慶祝、 表面、 運動、 及更多。 
- - **用 Visio 圖形建立一個 Word 文件** 自動新增圖表內容，包括圖形、中繼資料和Word 文件。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **用 Visio 圖形建立一個 Word 文件** 自動新增圖表內容，包括圖形、中繼資料，到Word 文件。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
  - **Visio 和 Power BI： 兩個搭配成效更大** 只要點幾下，就能把您的 Visio 圖表轉換成互動式的 Power BI vizualization。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
@@ -69,8 +69,8 @@ ms.locfileid: "23952423"
  - 修正了一個禁止 IM 訊息中的表情符號顯示問題。 
 
 
-## <a name="version-1807-august-14"></a>版本 1807：8 月 14 日
-*1807 版 (組建 10325.20118)*
+## <a name="version-1807-august-14"></a>版本 1807： 8 月 14 日
+*版本1807 (組建 10325.20118)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312)：Microsoft Access 遠端程式碼執行 Use After Free 弱點
@@ -129,11 +129,11 @@ ms.locfileid: "23952423"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **改良的儲存格及資料編輯列：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **改善 SVG 支援：** 您可以插入已篩選過的 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
- - **協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，使您的郵件更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的訊息更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -180,7 +180,7 @@ ms.locfileid: "23952423"
 
 ### <a name="project-non-security-updates"></a>Project 非安全性更新
 
-- 修正當您在透過主要專案內容使用子專案時，系統導致您無法儲存子專案的問題。
+- 修正當您在透過主要專案內容使用子專案時，系統阻止您儲存子專案的問題。
 
 ## <a name="version-1805-may-24"></a>版本 1805：5 月 24 日
 *版本 1805 (組建 9330.2087)*
@@ -292,7 +292,7 @@ ms.locfileid: "23952423"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端程式碼執行弱點
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
-
+-   **Flash，禁止基於安全性考量啟用 Office 中的 Silverlight 和Shockwave控制項：** 基於安全性考量，Windows的Microsoft Office 365的新組建會封鎖 Flash, Silverlight, 和 Shockwave控制項。  了解更多 [以下](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 與 [此處](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803 (組建 9126.2116)*
@@ -301,7 +301,7 @@ ms.locfileid: "23952423"
 -   **Microsoft Translator：** 使用 Microsoft Translator 可將單字、片語或句子翻譯成另一種語言。您可以從功能區中的 [校閱] 索引標籤使用此功能。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
--   修正此問題：快速列印附加至 Outlook 電子郵件的 Excel 活頁簿可能會列印不出來。
+-   修正在 Outlook 電子郵件中快速列印附件 Excel 活頁簿可能會列印不出來。
 -   修正此問題：按一下超連結可能會造成 Excel 當機。
 -   修正此問題：使用 cube 函數會造成 Excel 當機。
 
