@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/13/2018
+ms.date: 9/20/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
-ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
+ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
+ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/14/2018
-ms.locfileid: "23976904"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24056142"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -27,13 +27,13 @@ ms.locfileid: "23976904"
 > [!NOTE]
 > - 如需 Mac 版 Office 的完整版本清單和其他下載連結，請參閱 [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)。 
 > - 如果您是 Office 測試人員，請參閱[測試人員快速組建的版本資訊](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 這些版本資訊也適用於 Mac 版 Office 2016，這是 Mac 版 Office 的永久版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Office 365 訂閱時才可供使用。
+> - 這項資訊不再適用於 Mac 版 Office 2016，這是 Mac 版 Office 的永久版本，可從零售商店或透過大量授權合約一次購買。  較舊的版本，包括 16.16 可以用 Mac 版 2016 Office Volume License 啟用。 不過，開頭 16.17的2016 Volume License 不再相容。
 > - 只有最新版本會提供下載連結。
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 ## <a name="september-2018-release"></a>2018年 9 月 版本
 
- **發布日期：** 2018 年 9 月 11 日 
+ **發行日期：** 2018 年 9 月 11 日 
   
  *版本 16.17.0 （組建 18090901）* 
   
@@ -43,7 +43,7 @@ ms.locfileid: "23976904"
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|
 |Word  <br/> |**用\@提及項目得到他們的注意：** 使用中的註解 @mentions 讓同事知道您需要他們的輸入。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**自訂捷徑回復：** 我們聽到您 ！ 對於您的要求，我們已帶回自訂的快速鍵。 [深入了解](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>||||UNTRANSLATED_CONTENT_START|||[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel Information Disclosure Vulnerability|||UNTRANSLATED_CONTENT_END||| <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點 <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**自訂捷徑回復：** 我們聽到您 ！ 對於您的要求，我們已帶回自訂的快速鍵。 [深入了解](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏弱點 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點 <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**用\@提及項目得到他們的注意：** 使用中的註解 @mentions 讓同事知道您需要他們的輸入。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。[深入了解 ](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您選擇的字型就是他們會看到的字型：** 在您的檔案內嵌您的自訂字型，這樣一來，不管他們到哪裡，你的字型也會跟著走。 [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 

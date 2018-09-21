@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 0075744d2adeae80a8ab591c598970b49c54d668
-ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
+ms.openlocfilehash: 275e38720009a2201df50c2edc1d7558529f79f3
+ms.sourcegitcommit: 02b7e0005dd4397f74aa831598ee35e7ed36d051
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23965149"
+ms.lasthandoff: 09/18/2018
+ms.locfileid: "23998552"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -32,11 +32,11 @@ ms.locfileid: "23965149"
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|9 月 11 日   |[**版本 1808 (組建 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**版本 1808 (組建 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**1803 版 (組建 9126.2282)**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708 （組建 8431.2309）](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018|9 月 5 日   |[版本 1808 (組建 10730.2008)**](monthly-channel-2018.md#version-1808-september-5) | | |
-|2018|8 月 14 日   |[版本1807 (組建 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[版本 1803 (組建 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803 (組建 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708 (組建 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
-||7 月 25 日   |[版本 1807 (組建 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
-||7 月 17 日   |[版本 1806 (組建 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
+|2018 年|9 月 11 日   |[**1808 版 (組建 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**1808 版 (組建 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[**1803 版 (組建 9126.2282)**](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [1708 版 (組建 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018 年|9 月 5 日   |[1808 版 (組建 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018 年|8 月 14 日   |[1807 版 (組建 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[1803 版 (組建 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[1803 版 (組建 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [1708 版 (組建 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+||7 月 25 日   |[1807 版 (組建 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
+||7 月 17 日   |[1806 版 (組建 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||7 月 10 日   |[版本 1806 (組建 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[版本 1803 (組建 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[版本 1803 (組建 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [版本 1708 (組建 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 ||6 月 25 日   |[版本 1806 (組建 10228.20080)](monthly-channel-2018.md#version-1806-june-25) |||
 ||6 月 13 日   |[版本 1805 (組建 9330.2124)](monthly-channel-2018.md#version-1805-june-13) |||
@@ -60,7 +60,7 @@ ms.locfileid: "23965149"
 ||1 月 17 日   | [版本 1712 (組建 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
 ||1 月 9 日   | [版本 1711 (組建 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [版本 1708 (組建 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [版本 1708 (組建 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [版本 1705 (組建 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
 ||1 月 2 日   | [版本 1711 (組建 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
-|2017|12 月 12 日  <br/> | [版本 1711 (組建 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [版本 1708 (組建 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [版本 1705 (組建 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [版本 1701 (組建 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
+|2017 年|12 月 12 日  <br/> | [版本 1711 (組建 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [版本 1708 (組建 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [版本 1705 (組建 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [版本 1701 (組建 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||12 月 6 日  <br/> | [版本 1711 (組建 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
 ||11 月 27 日  <br/> | [版本 1710 (組建 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||11 月 24 日  <br/> |  <br/> |  <br/> |[版本 1705 (組建 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
@@ -143,7 +143,7 @@ ms.locfileid: "23965149"
 ||2 月 9 日  <br/> |[版本 1511 (組建 6366.2068)](monthly-channel-2016.md#version-1511-february-9)  <br/> |[版本 1509 (組建 6001.1061)](semi-annual-channel-targeted-2016.md#version-1509-february-9)  <br/> |[版本 1509 (組建 6001.1061)](semi-annual-channel-2016.md#version-1509-february-9)  <br/> |
 ||1 月 25 日  <br/> |[版本 1511 (組建 6366.2062)](monthly-channel-2016.md#version-1511-january-25)  <br/> |  <br/> |  <br/> |
 ||1 月 12 日  <br/> |[版本 1511 (組建 6366.2056)](monthly-channel-2016.md#version-1511-january-12)  <br/> |[版本 1509 (組建 6001.1054)](semi-annual-channel-targeted-2016.md#version-1509-january-12)  <br/> |  <br/> |
-|2015|12 月 11 日  <br/> |[版本 1511 (組建 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
+|2015 年|12 月 11 日  <br/> |[版本 1511 (組建 6366.2036)](monthly-channel-2015.md#version-1511-december-11)  <br/> |  <br/> |  <br/> |
 ||12 月 8 日  <br/> |[版本 1509 (組建 6001.1043)](monthly-channel-2015.md#version-1509-december-8)  <br/> |[版本 1509 (組建 6001.1043)](semi-annual-channel-targeted-2015.md#version-1509-december-8)  <br/> |  <br/> |
 ||11 月 10 日  <br/> |[版本 1509 (組建 6001.1038)](monthly-channel-2015.md#version-1509-november-10)  <br/> |[版本 1509 (組建 6001.1038)](semi-annual-channel-targeted-2015.md#version-1509-november-10)  <br/> |  <br/> |
 ||10 月 21 日  <br/> |[版本 1509 (組建 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[版本 1509 (組建 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
@@ -158,5 +158,5 @@ ms.locfileid: "23965149"
 - [Office 365 專業增強版更新的下載大小](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
-> 如果您在使用 Office 時需要幫忙處理問題的話，我們建議您將問題張貼到 [Microsoft's Answers 論壇](https://answers.microsoft.com/) 或[ Tech 社群](https://techcommunity.microsoft.com/)，或者您也可以連絡[技術支援](https://support.microsoft.com/contactus)。
+> 如果您在使用 Office 時需要協助以解決問題，我們建議您將問題張貼到 [Microsoft's Answers 論壇](https://answers.microsoft.com/) 或[ Tech 社群](https://techcommunity.microsoft.com/)，或者您也可以連絡[技術支援](https://support.microsoft.com/contactus)。
 
