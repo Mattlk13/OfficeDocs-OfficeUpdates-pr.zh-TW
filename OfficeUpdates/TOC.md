@@ -8,23 +8,24 @@
 ### 每月通道
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
-#### [2016](monthly-channel-2016.md)
+#### [2016 年](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
 ### 半年通道
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
-#### [2016](semi-annual-channel-2016.md)
+#### [2016 年](semi-annual-channel-2016.md)
 
 ### 半年通道 (已設定目標)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016](semi-annual-channel-targeted-2016.md)
+#### [2016 年](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office for Mac
-## [更新歷程記錄](update-history-office-for-mac.md)
-## [版本資訊](release-notes-office-for-mac.md)
+## [更新歷程記錄 (Office 365、 2019年)](update-history-office-for-mac.md)
+## [版本資訊 (Office 365、 2019年)](release-notes-office-for-mac.md)
+## [版本資訊 (2016)](release-notes-office-2016-mac.md)
 ## [MAU 版本歷程記錄](release-history-microsoft-autoupdate.md)
 
 # Office （永久）
