@@ -3,19 +3,19 @@ title: Mac 版 Office 的更新歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 最新更新的相關資訊，包括套件下載連結與更新歷程記錄
-ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056132"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004440"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新歷程記錄
 
@@ -29,7 +29,8 @@ ms.locfileid: "24056132"
 16.17.0 (18090901)  <br/> |2018 年 9 月 11 日  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[版本資訊](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - 這項資訊不再適用於 Mac 版 Office 2016，這是 Mac 版 Office 的永久版本，可從零售商店或透過大量授權合約一次購買。  較舊的版本，包括 16.16 可以用 Mac 版 2016 Office Volume License 啟用。 不過，開頭 16.17的2016 Volume License 不再相容。
+> - 開始於2018年 9 月的16.17 版本，這項資訊也適用於 Office 2019 for Mac，這是 Office for Mac 零售商店或透過大量授權合約一次性購買所提供的版本。
+> - 16.16 或較早版本的更新歷程記錄資訊也適用於 Office 2016 for Mac，也是 Office for Mac 一次性購買所提供的版本。 較舊的版本，包括 16.16 可以用 Mac 版 2016 Office Volume License 啟用。 您不能啟動 16.17 或更新版本的 Office 2016 for Mac 大量授權版本。
 > - 如需指定的 Mac 版 Office 版本中所含功能、安全性更新和非安全性更新的相關資訊，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。
 > - 如果您想要搶先取得新的版本，請加入 [Office 測試人員](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)計劃。
 
