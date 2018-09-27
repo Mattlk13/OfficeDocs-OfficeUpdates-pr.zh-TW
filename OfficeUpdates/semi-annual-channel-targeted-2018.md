@@ -3,19 +3,19 @@ title: 2018 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/17/2018
+ms.date: 9/26/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 8d89c9f250fcec6994cbc2763a6a094ae1b58064
-ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
+ms.openlocfilehash: c67197a9d1c431e33fe79ab608bdd097e311007f
+ms.sourcegitcommit: db43e848b1320ec6d5f32094facaf0b6994a1046
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2018
-ms.locfileid: "23991941"
+ms.lasthandoff: 09/26/2018
+ms.locfileid: "25092111"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -38,11 +38,11 @@ ms.locfileid: "23991941"
  - **共同作業編輯：** 在您的活頁簿中與他人同時作業。 [深入了解](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
  - **現在已預設啟用 AutoSave 雲端檔案：**   AutoSave 在 2018 年9 月的半年管道 (Targeted) 版本已預設為啟用。 這項變更代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。 變更將會自動儲存在雲端，而使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。 但使用者必須了解這項行為變更，以防意外變更文件。 使用者可以在畫面頂端的 AutoSave 切換開關來停用 AutoSave 。 建議通知使用者這項近期變更，並提供有關這項 Office 365 新功能的使用教學。 [AutoSave 詳細說明](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [更多 IT 系統管理員的 AutoSave 須知的相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改善了儲存格及公式列編輯：** 現在可以使 CTRL + A 來選取儲存格或公式列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
-- 改善協助工具檢查程式︰協助工具檢查程式已對國際標準與建議的支援進行了更新，使活頁簿存取更便利。** ** [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-- **避免意外的編輯：** 將活頁簿以唯讀開啟，避免意外變更。 前往 [檔案] > [資訊] > [保護活頁簿] > [一律以唯讀開啟]
+- ** 改善協助工具檢查程式︰** 協助工具檢查程式已對國際標準與建議的支援進行了更新，使活頁簿存取更便利。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **避免不想要的編輯：** 將活頁簿以唯讀開啟，避免意外變更。 前往 [檔案] > [資訊] > [保護活頁簿] > [一律以唯讀開啟]
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行漏洞
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏弱點
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 遠端程式碼執行弱點 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379)：Microsoft Excel 遠端程式碼執行弱點 
@@ -70,10 +70,8 @@ ms.locfileid: "23991941"
 -   修正此問題：使用 cube 函數會造成 Excel 當機。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **免操作輸入：** 使用您的語音直接聽寫以建立電子郵件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
- - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
- - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的訊息更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
- - **從 Profile Picker 管理設定檔：** 如果您習慣在 Outlook 啟動時使用 Profile Picker ，現在不用去[控制台]即可進行變更。 建立並刪除設定檔、變更設定，全部都在 Profile Picker 中。
+ - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+ - **從 Profile Picker 管理設定檔：** 如果您習慣在 Outlook 啟動時使用 Profile Picker ，現在不用去 [控制台] 即可進行變更。 建立並刪除設定檔、變更設定，全部都在 Profile Picker 中。
 - **內建的協助工具：** 在圖像上新增替代文字，即可使訊息讓每個人存取。
 - **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能是因為以下的事件延遲：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
 - **了解要參與會議的人員：** 即使您不是召集人，也可以看到其他人對於會議邀請的回應。
@@ -100,13 +98,12 @@ ms.locfileid: "23991941"
 -   修正此問題：有些使用者未收到其租用戶系統管理員已啟用的支援功能。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
-- **免操作輸入：** 使用您的語音直接聽寫以建立簡報。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **現在已預設啟用 AutoSave 雲端檔案：**   AutoSave 在 2018 年9 月的半年管道 (Targeted) 版本已預設為啟用。 這項變更代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。 變更將會自動儲存在雲端，而使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。 但使用者必須了解這項行為變更，以防意外變更文件。 使用者可以在畫面頂端的 AutoSave 切換開關來停用 AutoSave 。 建議通知使用者這項近期變更，並提供有關這項 Office 365 新功能的使用教學。 [AutoSave 詳細說明](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [更多 IT 系統管理員的 AutoSave 須知的相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改善了儲存格及公式列編輯：** 現在可以使 CTRL + A 來選取儲存格或公式列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **轉換筆跡：** 擷取草草寫下的筆記和繪圖，並將其轉換為可供閱讀的文字和簡潔的圖形，以建立精美的簡報。 [深入了解](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題的筆跡，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-- **避免意外的編輯：** 將活頁簿以唯讀開啟，避免意外變更。 前往 [檔案] > [資訊] > [保護活頁簿] > [一律以唯讀開啟]
+- **避免不想要的編輯：** 將活頁簿以唯讀開啟，避免意外變更。 前往 [檔案] > [資訊] > [保護活頁簿] > [一律以唯讀開啟]
 - **發佈至 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [詳細資訊](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
 - **Microsoft 表單：** 在投影片上進行測驗或問卷。Office 會收集並儲存您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 - **改善協助工具檢查程式︰** 協助工具檢查程式已對國際標準與建議的支援進行了更新，使簡報存取更便利。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
@@ -135,8 +132,8 @@ ms.locfileid: "23991941"
 - 修正當您在透過主要專案內容使用子專案時，系統阻止您儲存子專案的問題。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
--   修正與 TLS 1.2 支援相關的問題。
--   修正了在會議中選取 [Skype 通話]新增使用者所產生錯誤的問題。
+-   修正與 TLS 1.2 支援相關的問題。 （請注意： 這是 4 月 10 日的資訊中提及的同一個修正，在這裡作為 9 月彙總套件的一部分再次提及。)
+-   修正了在會議中選取 [Skype 通話] 新增使用者所產生錯誤的問題。
 -   如果已將 Skype 會議室新增為位置，且會議已包含小組會議座標，請移除要求使用者將 Skype 座標新增至會議的提示。
 -   修正此問題：即使 UseLocationForE911Only 設定為 true，也會填入位置。
 -   修正此問題：使用名冊中的「使用會議中心呼叫」選項來邀請使用者時，商務用 Skype 會當機。
@@ -144,13 +141,12 @@ ms.locfileid: "23991941"
 -   將 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 的預設值變更為 TRUE。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
-- **讓您的圖表和來源能保持同步：** 當您在 Visio 中編輯 [資料視覺化工具] 圖表時，可以選擇用最新的圖表內容來更新連結的 Excel 來源資料。
+- **讓您的圖表和來源能保持同步：** 在 Visio 中編輯 [資料視覺化工具] 圖表時，可以選擇用最新的圖表內容來更新連結的 Excel 來源資料。
 - **資料視覺化檢視稽核範本：** 從 Excel 匯入內容並建立財務交易、 庫存管理等的稽核圖表。
-- **入門圖表：** 組織圖、腦力激盪和 SDL 範本有新的入門圖表可讓您快速啟動並執行。
+- **入門圖表：** 組織圖、腦力激盪和 SDL 範本有新的入門圖表可實現快速啟動和執行。
  - **從Visio 圖形建立 Word 文件** 自動新增圖表內容到 Word 文件，包括圖形與中繼資料。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **免操作輸入：** 使用您的語音直接聽寫以建立文件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **現在已預設啟用 AutoSave 雲端檔案：**   AutoSave 在 2018 年9 月的半年管道 (Targeted) 版本已預設為啟用。 這項變更代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。 變更將會自動儲存在雲端，而使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。 但使用者必須了解這項行為變更，以防意外變更文件。 使用者可以在畫面頂端的 AutoSave 切換開關來停用 AutoSave 。 建議通知使用者這項近期變更，並提供有關這項 Office 365 新功能的使用教學。 [AutoSave 詳細說明](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [深入了解 IT 系統管理員的 AutoSave 須知]
 - **改善協助工具檢查程式︰** 協助工具檢查程式已對國際標準與建議的支援進行了更新，使簡報存取更便利。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -173,7 +169,7 @@ ms.locfileid: "23991941"
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端程式碼執行弱點
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
--   **Flash，禁止基於安全性考量啟用 Office 中的 Silverlight 和Shockwave控制項：** 基於安全性考量，Windows的Microsoft Office 365的新組建會封鎖 Flash, Silverlight, 和 Shockwave控制項。 了解更多 [以下](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 與 [此處](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
+-   **基於安全性考量封鎖 Office 中 Flash、Silverlight 和Shockwave 控制項的啟動：** 基於安全性考量，Office 365 在 Windows 上的 Microsoft Office 新組建會封鎖 Flash、Silverlight 和 Shockwave 控制項的啟動。 在[這裡](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 與[這裡](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)瞭解更多詳情。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -  修正在特定情況下導致更新安裝要花很長時間的問題。
@@ -337,7 +333,7 @@ ms.locfileid: "23991941"
 *版本 1803 (組建 9126.2098)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
--   修正在 Outlook 電子郵件中快速列印附件 Excel 活頁簿可能會列印不出來。
+-   修正一個在 Outlook 電子郵件中無法快速列印有 Excel 活頁簿附件的問題。
 -   修正此問題：按一下超連結可能會造成 Excel 當機。
 -   修正此問題：使用 cube 函數會造成 Excel 當機。
 
@@ -351,7 +347,7 @@ ms.locfileid: "23991941"
 -   修正此問題：有些使用者未收到其租用戶系統管理員已啟用的支援功能。
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
--   修正此問題：Word 在執行 Windows 7 的電腦上無法開啟，且該電腦上未安裝 [客戶體驗和診斷遙測](https://support.microsoft.com/help/3080149/update-for-customer-experience-and-diagnostic-telemetry)的更新。
+-   修正此問題：Word 在執行 Windows 7 的電腦上無法開啟，且該電腦上未安裝[客戶體驗和診斷遙測](https://support.microsoft.com/help/3080149/update-for-customer-experience-and-diagnostic-telemetry)的更新。
 -   修正此問題：清單中的項目符號無法列印。
 
 
@@ -374,7 +370,7 @@ ms.locfileid: "23991941"
 -   **數位鉛筆：** 使用新的鉛筆紋理手寫或繪製出您的創意。只需傾斜即可使用支援的數位鉛筆進行陰影處理。
 -   **LinkedIn 功能設定：** 移至 [檔案] \> [選項] \> [一般]，以控制 LinkedIn 功能是否要顯示在您的 Office 應用程式中。[深入了解](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **3D 模型：** 使用 3D 來增加活頁簿的視覺效果和創意影響。輕鬆插入 3D 模型，然後將其旋轉 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、銀等) 來展現您的想法。
+-   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、白銀等) 來展現您的想法。
 -   **共用檔案 UI：** 對於商務用 OneDrive 或 SharePoint 檔案，按一下功能區右上角的 [共用] 按鈕，或移至 [檔案] \> [共用] 可啟動經簡化並改良過的 [共用] 對話方塊。對於新的或儲存在本機的檔案，該 UI 可讓使用者輕鬆地將檔案上傳至 OneDrive 以啟動共同作業。
 -   **封鎖危險的副檔名：** 依預設，視為具有高風險以及內嵌為 OLE 封裝物件的副檔名 (例如.exe、.vbs 和 .js)，會遭到封鎖而無法啟動。[深入了解](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **有用的聲音可改善協助工具：** 開啟音訊提示可在作業時一面引導您。可在 [檔案] \> [選項] \> [輕鬆存取] 中找到此功能。無需增益集。 [深入了解](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -403,7 +399,7 @@ ms.locfileid: "23991941"
 -   修正此問題：在檔案名稱包含方括弧時，使用者無法在受保護的檢視中關閉活頁簿。
 -   修正此問題：在拖曳或拖曳填滿時，工具提示的放置位置沒有對齊。
 -   修正此問題：使用 [檔案] \> [另存新檔] 來儲存活頁簿時，包含句點的檔案名稱在檔案儲存對話方塊中會出現空白或截斷。
--   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
+-   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上載。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **輕鬆地排序您的電子郵件：** 由於您的意見反應，我們已為不使用 [焦點收件匣] 的使用者，重新加入了郵件清單上方的排序功能和 [未讀取] 篩選器。
@@ -439,7 +435,7 @@ ms.locfileid: "23991941"
 -   **LinkedIn 功能設定：** 移至 [檔案] \> [選項] \> [一般]，以控制 LinkedIn 功能是否要顯示在您的 Office 應用程式中。[深入了解](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **使用數位筆執行投影片放映：** 使用 Surface 手寫筆或其他有藍牙按鈕的手寫筆，推進您的投影片。必須有 Windows 10 Fall Creators Update。 [深入了解](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 -   **3D 模型：** 使用 3D 來增加簡報的視覺效果和創意影響。透過「轉化」轉場在投影片之間建立電影動畫，讓 3D 模型讓您的簡報更生動。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、銀等) 來展現您的想法。
+-   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、白銀等) 來展現您的想法。
 -   **共用檔案 UI：** 對於商務用 OneDrive 或 SharePoint 檔案，按一下功能區右上角的 [共用] 按鈕，或移至 [檔案] \> [共用] 可啟動經簡化並改良過的 [共用] 對話方塊。對於新的或儲存在本機的檔案，該 UI 可讓使用者輕鬆地將檔案上傳至 OneDrive 以啟動共同作業。
 -   **封鎖危險的副檔名：** 依預設，視為具有高風險以及內嵌為 OLE 封裝物件的副檔名 (例如.exe、.vbs 和 .js)，會遭到封鎖而無法啟動。[深入了解](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **修訂醒目提示：** 會醒目提示已由其他使用者修改的投影片。
@@ -458,11 +454,11 @@ ms.locfileid: "23991941"
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正此問題：移除文件屬性和個人資訊會造成儲存至 SharePoint 失敗。
 -   修正此問題：以 Flash Player 為基礎之 YouTube 內嵌程式碼的參考，導致開啟新視窗來播放影片。舊的內嵌程式碼現已升級為參考以 HTML5 為基礎的 YouTube 影片，以便正確地就地播放。
--   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
+-   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上載。
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **工作面板檢視：** 在 [工作面板] 檢視中的卡片上排序工作。在面板上的資料行之間重新排序和移動卡片，就像在敏捷式專案中一樣。
--   **敏捷式專案：** 使用待辦項目、工作面板、衝刺及其他項目管理您的敏捷式專案。同時支援 Scrum 或 Kanban 方法。[深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
+-   **敏捷式專案：** 使用待辦項目、工作面板、衝刺及其他項目管理您的敏捷式專案。同時支援 Scrum 或看板方法。[深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 -   **在 Planner 中管理工作：** 將專案工作連結至 Planner，並為其建立計劃。將工作分成子工作、新增小組、指派任務，以及管理工作面板上的工作。
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
@@ -493,7 +489,7 @@ ms.locfileid: "23991941"
 -   修正此問題：執行合併列印精靈時，篩選包含 null (空白) 值的資料來源欄位失敗。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
--   修正了在會議中選取 [Skype 通話]新增使用者所產生錯誤的問題。
+-   修正了在會議中選取 [Skype 通話] 新增使用者所產生錯誤的問題。
 -   如果已將 Skype 會議室新增為位置，且會議已包含小組會議座標，請移除要求使用者將 Skype 座標新增至會議的提示。
 -   修正此問題：即使 UseLocationForE911Only 設定為 true，也會填入位置。
 -   修正此問題：使用名冊中的「使用會議中心呼叫」選項來邀請使用者時，商務用 Skype 會當機。
@@ -548,7 +544,7 @@ ms.locfileid: "23991941"
 -   **LinkedIn 功能設定：** 移至 [檔案] \> [選項] \> [一般]，以控制 LinkedIn 功能是否要顯示在您的 Office 應用程式中。[深入了解](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 -   **SharePoint 屬性面板：** 在文件中顯示和編輯 SharePoint 文件庫欄值。[檢視] 索引標籤上的功能區按鈕可讓您輕鬆存取面板，且 SharePoint 系統管理員可以使用文件庫設定來自動開啟 [屬性] 面板。
 -   **3D 模型：** 使用 3D 來增加文件的視覺效果和創意影響。輕鬆插入 3D 模型，然後將其旋轉 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
--   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、銀等) 來展現您的想法。
+-   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、白銀等) 來展現您的想法。
 -   **共用檔案 UI：** 對於商務用 OneDrive 或 SharePoint 檔案，按一下功能區右上角的 [共用] 按鈕，或移至 [檔案] \> [共用] 可啟動經簡化並改良過的 [共用] 對話方塊。對於新的或儲存在本機的檔案，該 UI 可讓使用者輕鬆地將檔案上傳至 OneDrive 以啟動共同作業。
 -   **封鎖危險的副檔名：** 依預設，視為具有高風險以及內嵌為 OLE 封裝物件的副檔名 (例如.exe、.vbs 和 .js)，會遭到封鎖而無法啟動。[深入了解](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **使用學習工具進行編輯：** 在 Word 的 Web 版面配置中現已提供學習工具。在您編輯時可調整文字間距和顯示音節。在任何檢視中，都可看見每個字會隨著大聲朗讀文件而以反白顯示。 [深入了解](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
@@ -576,7 +572,7 @@ ms.locfileid: "23991941"
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：當使用者嘗試對商務用 OneDrive 上的現有文件執行 [另存新檔] 時，Word 會當機，並取消儲存作業或嘗試合併現有變更。
 -   修正此問題：執行合併列印精靈時，篩選包含 null (空白) 值的資料來源欄位失敗。
--   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
+-   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上載。
 -   修正此問題：要移除文件中的 IRM 保護時並沒有移除保護。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
