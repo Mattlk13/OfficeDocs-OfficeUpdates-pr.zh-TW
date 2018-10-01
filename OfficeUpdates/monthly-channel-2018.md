@@ -1,35 +1,59 @@
 ---
-title: 2018 年每月通道版本的版本資訊
+title: 2018 年每月通道版本的發佈資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/17/2018
+ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
-ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
+ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2018
-ms.locfileid: "23991931"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25347009"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
+# <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的發佈資訊
 
-這些版本資訊會提供 2018 年 Office 365 專業增強版的每月通道更新所含新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊將提供 2018 年 Office 365 專業增強版每月通道更新的全新功能、安全性更新和非安全性更新等相關資訊。
  
  > [!NOTE]
-> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
-> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+> - 以下也將提供 Visio Pro for Office 365 和 Project Online 桌面用戶端的全新功能、安全性更新和非安全性更新等相關資訊。
+> - 此資訊也適用於 Office 365 商務版，這是一些 Office 365 方案附隨的 Office 版本(例如，商務進階版)。
 
-## <a name="version-1808-september-11"></a>版本 1808： 9 月 11 日
+## <a name="version-1809-september-27"></a>版本 1809： 9 月 27 日
+*版本 1809 （組建 10827.20138）*
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+- **快速查閱** 我們已加速您的 VLOOKUP、 HLOOKUP 和比對計算功能，以便您快速獲取解答。
+- **探索更多關於您的資料** Office 365 應用程式結合人工智慧 （AI）可協助您達成最佳的工作成果。 想法窗格使用 AI 提供極具智慧的建議，以幫助您節省時間並強化您的內容。[深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **呼叫所有的 Get & Transform 粉絲**如果您經常使用 Get & Transform ，改善後的範例欄位功能一定會讓您滿意。 而且，許多連接器也已獲得改善。 [深入了解](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **功能區圖示有新的外觀** 不要擔心，每個項目的運作方式完全相同。 此外，他們也適合顯示在各種尺寸的畫面上。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+- **快來看看即將推出的產品和服務** 在其正式發行以前，獲取全新的使用者體驗，並讓我們知道您的想法。 [深入了解](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
+- **請參閱安全連結背後的 URL** 安全連結可保護您免於電子郵件隱藏 Url 的病毒，但安全連結也會隱藏原始的 URL。 現在，即使 網址受到安全連結保護，您只須將滑鼠停留在 URL 上就能查看原始 URL。
+- **取得拼字建議的搜尋結果** 執行搜尋之後，Outlook 會提供建議的搜尋結果和拼字校正。
+- **功能區圖示有新的外觀** 不要擔心，所有功能的運作方式都和以前一樣。 此外，他們更適合顯示在各種尺寸的畫面上。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+- **新增校訂工具** 編輯文字不再有任何壓力。 PowerPoint 現已提供的文法與撰寫建議。 [深入了解](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **功能區圖示有新的外觀** 不要擔心，每個項目的運作方式完全相同。 此外，他們也適合顯示在各種尺寸的畫面上。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+- **用\@提及項目獲取關注：** 在您的評論中使用@mentions 讓同事知道您需要他們輸入資料。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **功能區圖示有新的外觀** 不要擔心，每個項目的運作方式完全相同。 此外，他們也適合顯示在各種尺寸的畫面上。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **方程式編輯器轉換程式** 轉換程式可讓使用者使用 Microsoft 方程式編輯器將其所建立的方程式轉換成 Office Math ML 格式，以便啟用編輯。 
+
+## <a name="version-1808-september-11"></a>版本 1808：  9 月 11 日
 *版本 1808 (組建 10730.20102)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行漏洞
 -   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏弱點
 
 ### <a name="word-security-updates"></a>Word：安全性更新
@@ -43,30 +67,30 @@ ms.locfileid: "23991931"
 *版本 1808 （組建 10730.20088）*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
- - **重新整理、 重新連結，或移除連結的資料表** 更新連結資料表管理員是管理所有資料來源及連結的資料表的位置。 [深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+ - **重新整理、 重新連結，或移除連結的資料表** 更新連結資料表管理員是管理所有資料來源及連結資料表的位置。 [深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **關閉轉寄的會議** 防止出席者轉寄您的會議給其他人。 只要移至功能區，並按一下回應選項。 [深入了解](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
+ - **關閉會議轉發功能** 防止出席者將您的會議轉發給其他人。 您只須移往功能區，並按一下回應選項即可。 [深入了解](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **盡情享受下一個圖表中的圖示時刻** 從 26 個有圖示的新樣版挑選來用於分析、 藝術、 慶祝、 表面、 運動、 及更多。 
- - **用 Visio 圖形建立一個 Word 文件** 自動新增圖表內容，包括圖形、中繼資料，到Word 文件。 然後自訂文件以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio 和 Power BI： 兩個搭配成效更大** 只要點幾下，就能把您的 Visio 圖表轉換成互動式的 Power BI vizualization。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **享受下一個圖表中的全新圖示** 從 26 個全新的圖示樣板中，挑選可用於分析、 藝術、 慶祝、 笑臉和運動的圖示。 
+ - **用 Visio 圖形建立一個 Word 文件** 將圖表內容（包括圖形、中繼資料）新增到Word 文件。 然後自訂文件，以建立程序指導方針及操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Visio 和 Power BI： 兩者搭配，成效更大** 只要點選幾下，就能把您的 Visio 圖表轉換成互動式的 Power BI 視覺呈現效果。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project：功能更新
- - **請參閱工作區卡片上的其他資訊** 當單獨的標題無法分辦本文時，請自訂您的工作區卡片以顯示最重要的詳細資訊。 [深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+ - **請參閱工作區卡片上的其他資訊** 當標題本身無法使人了解故事內容時，您可以自訂您的工作區卡片，以顯示最重要的詳細資訊。 [深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
--  在Excel中修正一個問題，其中使用者選取的點線標記了要複製的儲存格範圍，此範圍並未消失並仍然保留在剪貼簿，甚至後來的使用者執行了像是貼上的動作之後，也還保留在剪貼簿。 
+-  在Excel中修正一個問題：即便使用者執行貼上的動作，使用者選取點線標記要複製的儲存格範圍並不會消失，且仍保留在剪貼簿中。 
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
- - 解決配置多個Exchange帳戶的使用者在搜尋結果列表中無法存取連結「點選以查看更多...」的問題。
+ - 解決配置多個Exchange帳戶的使用者在搜尋結果列表中無法存取連結「點選以深入查看...」的問題。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
  - 修正了在特定情況下更新安裝要花很長時間的問題。
  
 ### <a name="lync-non-security-updates"></a>Lync: 非安全性更新
- - 修正了一個禁止 IM 訊息中的表情符號顯示問題。 
+ - 修正了一個阻礙 IM 訊息顯示表情符號的問題。 
 
 
 ## <a name="version-1807-august-14"></a>版本 1807： 8 月 14 日
@@ -81,7 +105,7 @@ ms.locfileid: "23991931"
 -   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點 
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防禦更新 
+-   [ADV180021 ](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021)：Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
@@ -90,26 +114,26 @@ ms.locfileid: "23991931"
 *版本 1807 (組建 10325.20082)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
-- **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能是因為以下的事件延遲：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
+- **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能與以下事件有關：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
 - **從 Outlook 提醒對話方塊加入小組會議：** 當 Outlook 提醒使用者有即將來臨的會議時，如果即將來臨的會議是小組線上會議，則它會顯示 [線上加入] 按鈕。這個動作與從 Outlook [提醒] 對話方塊加入商務用 Skype 會議的體驗類似。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **超連結色彩：** 超連結不再只是藍色。套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+ - **超連結色彩：** 超連結不再只是藍色。您可以隨意套用您喜歡的字型和色彩。[深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **從 Visio 圖形建置 Word 文件：** 自動將圖表內容 (包括圖形和中繼資料) 新增至 Word 文件。然後自訂文件以建立程序指導方針和操作手冊。[深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **從 Visio 圖形建置 Word 文件：** 自動將圖表內容 (包括圖形和中繼資料) 新增至 Word 文件。然後自訂文件，以建立程序指導方針和操作手冊。[深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
- - **使用 IRM 追蹤修訂：** 您現在可於 Word 中，在不需要完全控制使用權限的受 IRM 保護文件中使用「追蹤修訂」功能。
+ - **使用 IRM 追蹤修訂：** 您現在無須完全控制的使用權限，也能在 Word 中對受 IRM 保護的文件使用「追蹤修訂」功能。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 修正了防止部分使用者開啟受 IRM 保護的文件和電子郵件 (由其他組織中的人員與他們共用) 的一些問題。
+ - 修正此問題：部分使用者無法開啟受 IRM 保護的文件和電子郵件 (由其他組織中的人員與其共用) 。
 
 ## <a name="version-1806-july-17"></a>版本 1806：7 月 17 日
 *版本 1806 (組建 10228.20134)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 固定一些效能問題。
+ - 修正一些效能問題。
 
 ## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
 *版本 1806 (組建 10228.20104)*
@@ -128,28 +152,28 @@ ms.locfileid: "23991931"
 *版本 1806 (組建 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改良的儲存格及資料編輯列：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。 也已經改善支援 emojis 及其他複雜的字元。[了解更多](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改善儲存格及公式列編輯：** 現在可以使 CTRL + A 來選取儲存格或公式列中的文字。 改善支援 emojis 及其他複雜的字元。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
+ - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及表列的第一個設定，且可設定預設的結束日期。
  - **協助工具檢查程式改善︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的訊息更易於存取。 [深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題的筆跡，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 ### <a name="project-feature-updates"></a>Project：功能更新
- - **使用最近的儲存位置保持組織：** 專案會保存您已儲存其他專案位置的持續清單。當您準備好要儲存專案時，只需選擇其中一個您最近的儲存位置，就能繼續進行您一天的工作。
- - **管理短期衝刺的全新方法：** 採取敏捷方式來使用工作面板。隨著專案的發展，請移至 [管理短期衝刺] 來新增或移除短期衝刺。
+ - **使用最近的儲存位置保持有條不紊：** 專案會持續保存您已儲存其他專案的位置清單。當您準備好要儲存專案時，只需選擇其中一個您最近的儲存位置，就能繼續進行您一天的工作。
+ - **管理短期衝刺的全新方法：** 採取敏捷方式來使用工作面板。隨著專案進展，您可以移至 [管理短期衝刺] 來新增或移除短期衝刺。
 
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
  - 修正此問題：儲存主專案中的子專案時會發生失敗。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **更多樣板、更多圖示、更多選項：** 我們新增了 26 個樣板，包括「分析」、「藝術」、「慶祝」、「表情」、「位置」、「醫療」、「自然」、「人物」、「運動」、「天氣與季節」等等。
+ - **更多樣板、更多圖示、更多選項：** 我們新增了 26 個樣板。主題包括「分析」、「藝術」、「慶祝」、「表情」、「位置」、「醫療」、「自然」、「人物」、「運動」、「天氣與季節」等等。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
  - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -160,7 +184,7 @@ ms.locfileid: "23991931"
 *版本 1805 (組建 9330.2124)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook 非安全性更新
- - 修正當應用程式呼叫 MAPI API 時會造成當機的問題。
+ - 修正當應用程式呼叫 MAPI API 時會發生當機的問題。
 
 
 
@@ -176,11 +200,11 @@ ms.locfileid: "23991931"
 
 ### <a name="outlook-non-security-updates"></a>Outlook 非安全性更新
 
-- 修正當應用程式呼叫 MAPI API 時會造成當機的問題。
+- 修正當應用程式呼叫 MAPI API 時會發生當機的問題。
 
 ### <a name="project-non-security-updates"></a>Project 非安全性更新
 
-- 修正當您在透過主要專案內容使用子專案時，系統阻止您儲存子專案的問題。
+- 修正當您在透過主要專案內容使用子專案時，系統會阻止您儲存子專案的問題。
 
 ## <a name="version-1805-may-24"></a>版本 1805：5 月 24 日
 *版本 1805 (組建 9330.2087)*
@@ -194,34 +218,34 @@ ms.locfileid: "23991931"
 *版本 1805 (組建 9330.2078)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
- - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，更有效地以視覺化方式呈現資料並進行明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+ - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，可更有效地以視覺化方式呈現資料並做出明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，無需離開 Excel 就可更有效率地共同作業。 請注意這項功能在某些區域無法使用。[了解更多](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在編輯時與共同作者交談：** 藉由與共同作者聊天，無需離開 Excel 就可更有效率地共同作業。 請注意這項功能在某些區域無法使用。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **免操作輸入：** 使用您的語音直接聽寫以建立電子郵件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
- - **檢視 3 個時區：** 需要跨時區排程會議嗎？將多個時區新增至您的行事曆，輕鬆查看每個人的時程，並挑選出所有人都可以的時間。[深入了解](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
+ - **免操作輸入：** 使用您的語音直接聽寫以建立電子郵件。不需手動輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **檢視 3 個時區：** 需要跨時區安排會議嗎？將多個時區新增至您的行事曆，輕鬆查看每個人的時程，並挑選出所有人都有空的時間。[深入了解](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **輕鬆共用行事曆：** 共用行事曆更加簡單，而且從 Outlook Desktop 共用的行事曆現在也可在 Outlook Mobile 中使用。[深入了解](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 - 將共用行事曆邀請中的用語從「開啟此行事曆」變更為「接受」。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 PowerPoint。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
- - **免操作輸入：** 使用您的語音直接聽寫以建立簡報。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
- - **Microsoft 表單：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+ - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而無須離開 PowerPoint。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **免操作輸入：** 使用您的聲音直接以說話方式建立簡報。不需手動輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft 表單：** 在投影片上進行測驗或問卷。Office 會為您收集和儲存回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
- - 修正 Project 第一次在 Project Web 應用程式中儲存專案時可能會當機的問題。
+ - 修正 Project 第一次在 Project Web 應用程式中儲存專案時可能當機的問題。
 
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
- - **入門圖表：** 組織圖、腦力激盪和 SDL 範本有新的入門圖表可讓您快速啟動並執行。
+ - **入門圖表：** 組織圖、腦力激盪和 SDL 範本有新的入門圖表可實現快速啟動和執行。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
  - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Word。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
- - **免操作輸入：** 使用您的語音直接聽寫以建立文件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **免操作輸入：** 使用您的聲音直接以說話方式建立簡報。不需手動輸入。[ 深入了解 ](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **編輯當然是使用筆跡編輯：** 使用畫筆透過單一筆劃來分割或加入文字、新增新的一行，或插入文字。[深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
 
@@ -255,10 +279,10 @@ ms.locfileid: "23991931"
 *版本 1804 (組建 9226.2114)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **聽取您的電子郵件：** Outlook 可以大聲念出您的電子郵件，並將所念到的文字醒目提示。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **決不會錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。 如果沒有設定的話，Outlook 會在工作列中閃爍引起您注意。[深入了解 ](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   Outlook：功能更新** ** [ ](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+-   **決不錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。 如果沒有設定的話，Outlook 會在工作列中閃爍引起您的注意。[深入了解 ](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **將刪除的郵件標示為已讀取：** 您現在可以將任何已刪除的郵件標示為已讀取。請移至 [檔案] \> [選項] \> [郵件] \> [其他] 來選擇使用。
--   **加密選項：** Office 365 郵件加密使用者可以加密郵件，並將其傳送給組織內外的任何人。建立郵件時，加密選項會出現在 [選項] \> [權限] 底下。 [深入了解](https://aka.ms/omeoverview)
+-   **加密選項：** Office 365 郵件加密的使用者可以加密郵件，並將其傳送給組織內外的任何人。建立郵件時，加密選項會出現在 [選項] \> [權限] 底下。 [深入了解](https://aka.ms/omeoverview)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **轉換筆跡：** 擷取草草寫下的筆記和繪圖，並將其轉換為可供閱讀的文字和簡潔的圖形，以建立精美的簡報。 [深入了解](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -266,10 +290,10 @@ ms.locfileid: "23991931"
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **工作面板篩選：** 篩選重要資源或摘要任務，以簡化您的工作面板。
 -   **從工作面板設定完成百分比：** 針對每個資料行選擇完成百分比，然後透過拖放更新工作完成度。
--   **Sprint 瀏覽：** 從某個 Sprint 檢視切換為另一個檢視，並快速地在 Sprint 之間移動工作。
+-   **Sprint 瀏覽：** 從某個 Sprint 視圖切換為另一個視圖，並快速地在 Sprint 之間移動工作。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **找出相關的校訂問題並加以修正：**[編輯器] 窗格現在會顯示您的文件中所找到的校訂問題概觀，所以焦點會放在修正與您最相關的問題。
+-   **找出相關的校訂問題並加以修正：**[編輯器] 窗格現在會顯示在您的文件中找到的校訂問題，然後聚焦在修正與您最切身相關的問題。
 
 
 ## <a name="version-1803-april-11"></a>版本 1803：4 月 11 日
@@ -279,20 +303,20 @@ ms.locfileid: "23991931"
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行弱點
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
--   修正此問題：多個使用者在相同簡報上共同撰寫會導致投影片母片不正確重複。
--   修正此問題：將儲存在 OneDrive 中的檔案開啟時，結束受保護的檢視時會導致 PowerPoint 當機。
+-   修正此問題：多個使用者在相同簡報上共同撰寫時會導致投影母片不正確地重複顯示。
+-   修正了開啟儲存在 OneDrive 的檔案時，會導致 PowerPoint 在退出 Protected View 時會當機的問題。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正與 TLS 1.2 支援相關的問題。
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
--   修正造成顯示記憶體不足訊息的問題。
+-   修正造成系統顯示記憶體不足訊息的問題。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端程式碼執行弱點
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
--   **Flash，禁止基於安全性考量啟用 Office 中的 Silverlight 和Shockwave控制項：** 基於安全性考量，Windows的Microsoft Office 365的新組建會封鎖 Flash, Silverlight, 和 Shockwave控制項。  了解更多 [以下](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 與 [此處](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
+-   **基於安全性考量封鎖 Office 中 Flash、Silverlight 和Shockwave 控制項的啟動：** 基於安全性考量，Office 365 在 Windows 上的 Microsoft Office 新組建會封鎖 Flash、Silverlight 和 Shockwave 控制項的啟動。  深入了解 [此處](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) 與 [此處](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)。
 
 ## <a name="version-1803-march-27"></a>版本 1803：3 月 27 日
 *版本 1803 (組建 9126.2116)*
@@ -301,30 +325,30 @@ ms.locfileid: "23991931"
 -   **Microsoft Translator：** 使用 Microsoft Translator 可將單字、片語或句子翻譯成另一種語言。您可以從功能區中的 [校閱] 索引標籤使用此功能。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
--   修正在 Outlook 電子郵件中快速列印附件 Excel 活頁簿可能會列印不出來。
+-   修正一個在 Outlook 電子郵件中無法快速列印 Excel 活頁簿附件的問題。
 -   修正此問題：按一下超連結可能會造成 Excel 當機。
 -   修正此問題：使用 cube 函數會造成 Excel 當機。
 
 ### <a name="onedrive-for-business-non-security-updates"></a>商務用 OneDrive：非安全性更新
--   修正此問題：商務用 OneDrive (Groove.exe) 會在 [工作管理員] 中耗用相當於一個 CPU 核心的 CPU (例如，4 核心 CPU 的 25%) 來延長一段時間。
+-   修正此問題：商務用 OneDrive (Groove.exe) 會在 [工作管理員] 中長時間耗用相當於一個 CPU 核心的 CPU (例如，4 核心 CPU 的 25%) 。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **密件副本 (Bcc) 警告：** 如果您對先前使用密件副本的郵件選擇 [全部回覆]，將會顯示警告訊息。
--   **更聰明的 [收件者：] 行：** 當您按一下 [收件者：] 來撰寫郵件時，我們會建議您可能要選擇的收件者。此外，還可以看到收件者相片，讓您知道要傳送的對象是正確的。 
+-   **更聰明的 [收件者：] 行列：** 當您按一下 [收件者：] 來撰寫郵件時，我們會建議您可能要選擇的收件者。此外，您還可以看到收件者相片，讓您知道要傳送的對象是正確的。 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **Microsoft Translator：** 使用 Microsoft Translator 可將單字、片語或句子翻譯成另一種語言。您可以從功能區中的 [校閱] 索引標籤使用此功能。
--   **改善了對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式在每個顯示器上都會順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **改善對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式可在每個顯示器上順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
--   修正此問題：在會議中以選取 [Skype 通話] 的方式新增使用者會產生錯誤。
+-   修正了在會議中選取 [Skype 通話] 新增使用者會產生錯誤的問題。
 -   如果已將 Skype 會議室新增為位置，且會議已包含小組會議座標，請移除要求使用者將 Skype 座標新增至會議的提示。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
--   **改善了對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式在每個顯示器上都會順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **改善對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式可在每個顯示器上順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **改善了對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式在每個顯示器上都會順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **改善對高解析度顯示器的支援**：現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式可在每個顯示器上順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。 [深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
 ## <a name="version-1802-march-13"></a>版本 1802：3 月 13 日
@@ -344,7 +368,7 @@ ms.locfileid: "23991931"
 *版本 1802 (組建 9029.2167)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **了解要參與會議的人員：** 即使您不是召集人，也可以看到其他人對於會議邀請的回應。
+-   **了解參與會議的人員：** 即使您不是召集人，也可以看到其他人對會議邀請的回應。
 -   **輕鬆地排序您的電子郵件：** 由於您的意見反應，我們已為不使用 [焦點收件匣] 的使用者，重新加入了郵件清單上方的排序功能和 [未讀取] 篩選器。
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
@@ -359,7 +383,7 @@ ms.locfileid: "23991931"
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **內建資料庫模型圖表：** 使用新的資料庫模型圖表範本，將您的資料庫精確地建模為 Visio 圖表。不需要增益集。
 -   **更多商用圖表的樣板：** 使用新式圖形，以文氏圖表來比較和對比資料；或繪製循環、矩陣或金字塔圖表來表達您的想法。
--   **讓您的圖表和來源能保持同步：** 當您在 Visio 中編輯 [資料視覺化工具] 圖表時，可以選擇用最新的圖表內容來更新連結的 Excel 來源資料。
+-   **讓您的圖表和來源保持同步：** 在 Visio 中編輯 [資料視覺化工具] 圖表時，可選用最新的圖表內容來更新連結的 Excel 來源資料。
 
 
 ## <a name="version-1801-february-13"></a>版本 1801：2 月 13 日
@@ -381,7 +405,7 @@ ms.locfileid: "23991931"
 *版本 1801 (組建 9001.2144)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
--   修正下列問題：如果您的編輯語言是日文、中文或韓文，則當您嘗試在 [首頁] 索引標籤上選取新字型時，或當編輯時，Excel 可能會凍結。
+-   修正下列問題：如果您的編輯語言是日文、中文或韓文，則當您嘗試在 [首頁] 索引標籤上選取新字型時，或當您編輯時，Excel 可能會凍結。
 
 
 ## <a name="version-1801-february-1"></a>版本 1801：2 月 1 日
@@ -397,7 +421,7 @@ ms.locfileid: "23991931"
 -   修正此問題：當會議處於全螢幕模式時，[其他選項] 和 [邀請其他人] 按鈕會隱藏。
 -   修正此問題：當您想要加入會議時，P2P 音訊撥號視窗或電話會議視窗會變成透明。
 -   修正此問題：即將開始的 Skype 會議未顯示在 [會議] 索引標籤。
--   修正此問題：當商務用 Skype 配置為無音訊加入會議，新增音訊至會議時不會將音訊新增至現有的會議，反而是向使用者本身啟動新的 P2P 撥號。
+-   修正此問題：當商務用 Skype 被配置為無音訊加入會議，新增音訊至會議時不會將音訊新增至現有的會議，反而是向使用者本身啟動新的 P2P 撥號。
 -   修正此問題：當使用者按下 Outlook 會議邀請的 [加入 Skype 會議] 連結時，會收到錯誤訊息 [找不到此 Skype 會議]。
 
 
@@ -408,33 +432,33 @@ ms.locfileid: "23991931"
 -   修正此問題：當 Excel 最小化時，開啟活頁簿時捲軸會遺失。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
--   修正此問題：當搜尋範圍限定為 [所有信箱] 時，搜索會失敗並顯示 [找不到相符項目]。
+-   修正此問題：當搜尋範圍限定為 [所有信箱] 時，搜尋會失敗並顯示 [找不到相符項目]。
 
 
 ## <a name="version-1712-january-17"></a>版本 1712：1 月 17 日
 *版本 1712 (組建 8827.2148)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，讓您可以變更其色彩、大小或材質。
+-   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，可讓您變更其色彩、大小或材質。
 -   **取消選取儲存格：** 在工作表中進行選取，並取消選取不小心按到的儲存格而不必重新開始。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：在 [檔案總管] 中的檔案名稱上按兩下以開啟多個活頁簿時，活頁簿參照會失敗。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，讓您可以變更其色彩、大小或材質。
--   **Office 365 群組的改善︰** 您可以在群組訊息上按兩下，開啟其個別視窗，這讓您更加容易閱讀和回覆群組對話。
+-   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，可讓您變更其色彩、大小或材質。
+-   **Office 365 群組的改善︰** 您可以在群組訊息上按兩下，開啟其個別視窗。這可讓您更加容易閱讀和回覆群組對話。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **3D 動畫：** 透過輕輕搖晃或跳躍及旋轉等動畫，讓 3D 模型栩栩如生。
--   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，讓您可以變更其色彩、大小或材質。
+-   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，可讓您變更其色彩、大小或材質。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   在快顯通知 UI 中為撥入的 PSTN 通話新增來電轉接按鈕。
 -   當 ChatDefaultClient 和 CallDefaultClient 設定至 Teams 時，通知使用者來電與交談正在傳送至 Teams。
 -   當使用者不在會議中並停用商務用 Skype 時，使用者狀態會顯示為 [離線]，且會議加入體驗會設為 [原生有限用戶端]。
--   商務用 Skype 最小化至通知區域時，停用 [開啟] 和 [結束] 以外的所有選項。 
--   與 Aries 電話配對且啟用 RedirectClient 時，隱藏新來電和對話。
+-   商務用 Skype 最小化至通知區域時，會停用 [開啟] 和 [結束] 以外的所有選項。 
+-   與 Aries 電話配對且啟用 RedirectClient 時，會隱藏新的來電和對話。
 -   修正此問題：日期格式非美國格式 (mm/dd/yy) 時，在 PChat 中依日期搜尋訊息會失敗。
 -   修正此問題：當 EnableExternalP2PFileTransfer 原則設為 false 時，使用者仍然可以在會議中附加檔案。
 
@@ -442,7 +466,7 @@ ms.locfileid: "23991931"
 -   **使用 Excel 範本匯出至 Visio 圖表：** 搶先使用 Visio 流程表。在其中一個程序圖 Excel 範本中輸入資料，並匯出至 Visio 以自動建立圖表。需要 Visio Pro for Office 365。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，讓您可以變更其色彩、大小或材質。
+-   **將 SVG 圖示轉換成圖形：** 將所有 SVG 圖片和圖示轉換成 Office 圖形，可讓您變更其色彩、大小或材質。
 
 
 ## <a name="version-1711-january-9"></a>版本 1711：1 月 9 日
