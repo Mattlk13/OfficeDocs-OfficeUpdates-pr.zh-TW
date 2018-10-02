@@ -3,19 +3,19 @@ title: Mac 版 Office 的更新記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/27/2018
+ms.date: 10/1/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 的更新資訊，包括套件下載連結與更新記錄
-ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
-ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
+ms.openlocfilehash: 6771df21cbb5bad3f5cd01a79d8f02a9c1adc221
+ms.sourcegitcommit: 2a0ed40f3028b7e4e1239491b924adbc2ae9fb52
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2018
-ms.locfileid: "25341378"
+ms.lasthandoff: 10/02/2018
+ms.locfileid: "25354293"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新記錄
 
@@ -29,9 +29,9 @@ Office 365 訂閱隨贈的 Mac 版 Office 會定期更新並提供全新功能�
 16.17.0 (18090901)  <br/> |2018 年 9 月 11 日  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[版本資訊](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - 我們先從2018年 9 月發布的16.17 版本開始。這項資訊也適用於 Office 2019 for Mac。Office 2019 for Mac 是一種用戶可透過零售商店或大量授權合約進行一次性購買取得的 Mac 版 Office 。
-> - 16.16 或較早版本的更新記錄資訊也同樣適用於 Office 2016 for Mac。Office 2016 for Mac 也是用戶可透過一次性購買取得的Mac 版 Office。16.16 或較早版本可透過 Office 2016 for Mac 的大量授權啟用。但是，16.17 或更新版本則無法透過 Office 2016 for Mac 的大量授權啟用。如需了解 9 月以後釋出的  Office 2016 for Mac，請參閱 [Office 2016 for Mac 的版本資訊](release-notes-office-2016-mac.md)
-> - 如需了解的 Mac 版 Office 的功能、安全性更新和非安全性更新，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。
+> - 自2018年9月的16.17發布開始，這些版本資訊也同樣適用於 Office 2019 for Mac。Office 2019 for Mac是用戶透過零售商店或大量授權合約進行一次性購買取得的 Office for Mac 版本。
+> - 16.16 或較早版本的更新歷程記錄資訊也適用於 Office 2016 for Mac，也是 Office for Mac 一次性購買所提供的版本。 16.16 或較早版本可以透過 Office 2016 for Mac 的大量授權加以啟用。 16.17 或更新版本則無法使用 Office 2016 for Mac 的大量授權加以啟用。 如需深入了解 9 月以後的 Office 2016 for Mac ，請參閱 [Office 2016 for Mac 的版本資訊](release-notes-office-2016-mac.md)
+> - 如需深入了解 Mac 版 Office 的全新功能、安全性更新和非安全性更新，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。
 > - 如果您想搶先取得全新版本，請加入 [Office 測試人員](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)計劃。
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Mac 版 Office 的最新套件
@@ -49,17 +49,17 @@ Office 365 訂閱隨贈的 Mac 版 Office 會定期更新並提供全新功能�
 |OneNote  <br/> |16.17.0 (18090901)   <br/> |[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |不適用  <br/> |
    
 
-## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft 其他 Mac 程式的最新套件
+## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Microsoft 為其他 Mac 程式提供的最新套件
 
-Microsoft 透過下表提供 IT 專業人員可能會感興趣的其他 Mac 程式的最新套件（包括下載連結）。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。 
+Microsoft 透過下表提供 IT 專業人員可能會感興趣的其他 Mac 程式的最新套件（包括下載連結）。在版本號碼後面，會用括號以 YYMMDD 格式列出組建日期。 
   
 |**程式**|**版本**|**套件**|**SHA1 雜湊**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | 此更新套件為 64 位元。 <br/><br/>[MAU 的版本歷程記錄](release-history-microsoft-autoupdate.md) |
-|商務用 Skype  <br/> |16.21.0.75  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |最新版本已於 2018 年 9 月 14 日發行。 <br/><br/>[最新的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|商務用 Skype  <br/> |16.21.0.87  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 27E3FB163AB42003A9A452A74388557EFAB4F67D <br/> |最新版本已於 2018 年 10 月 1 日發行。 <br/><br/>[最新的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
 |遠端桌面 | 10.2.1 (1143) | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 此安裝套件為 64 位元。 <br/> <br/>[全新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
 |Intune 公司入口網站 |1.5 (52.1805002.000) [180509] | [下載](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune 的全新功能](https://docs.microsoft.com/intune/whats-new)|
-|適用於 Mac 版 Office 2016 的 Microsoft SharePoint 內部部署 Safari 瀏覽器外掛程式  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 此安裝套件為 64 位元。  <br/> |
+|Microsoft SharePoint 內部部署的 Safari 瀏覽器外掛程式 (適用於 Mac 版 Office 2016)  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 此安裝套件為 64 位元。  <br/> |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Mac 版 Office 的發行歷程記錄
