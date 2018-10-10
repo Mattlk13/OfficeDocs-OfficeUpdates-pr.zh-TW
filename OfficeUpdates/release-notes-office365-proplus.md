@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/28/18
+ms.date: 10/9/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道最新發行的清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: f5eb1057e2db9052cc11b636ca66b0053bd67dc6
-ms.sourcegitcommit: 116ff3898a6272bff303c954059ff487f91746b0
+ms.openlocfilehash: 671eb87440073b6ab096d4e9611e6b112baf3534
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2018
-ms.locfileid: "25363893"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456747"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
@@ -26,10 +26,10 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
   
 |**通道**|**版本**|**組建**|**發行日期**|**支援之前的版本**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 2018 年 9 月 27 日  <br/> |發行版本 1810 <br/>|
-|半年 (已設定目標)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13 日 <br/>|
-|半年 <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 2018 年 9 月 11 日  <br/> | 2019 年 3 月 13 日 <br/>|
+|每月  <br/> |1809  <br/> |[10827.20150)](monthly-channel-2018.md#version-1809-october-9)  <br/> | 2018年10月9日  <br/> |發行版本 1810 <br/>|
+|半年 (已設定目標)  <br/> |1808  <br/> |[10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018年10月9日  <br/> | 2019年3月13日 <br/>|
+|半年 <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-october-9) <br/> |2018年10月9日  <br/> | 2019年12月10日 <br/>|
+|半年 <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |2018年10月9日  <br/> | 2019年3月13日 <br/>|
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小資訊，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
 
