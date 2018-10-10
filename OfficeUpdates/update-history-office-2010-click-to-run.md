@@ -3,19 +3,19 @@ title: Office 2010 Click-隨選即用產品的更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 專業人員提供的永久版本的 Office 2010 使用 Click 隨選更新歷程記錄
-ms.openlocfilehash: 2c98b159a7799b0b4b4116feaaecab5823e540dd
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: b8dac3a66f54c2048c36e466925b0fa8badaf8f5
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954799"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456757"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 Click-隨選即用產品的更新歷程記錄
 
@@ -30,7 +30,7 @@ ms.locfileid: "23954799"
 如果您使用其中一個這些產品，而且您想要確認您是最新、 檢查您的 Office 版本號碼和手動更新 Office 必要時。
   
 > [!NOTE]
-> Office 2010 的最新版本是**14.0.7213.5000**、 已發行 2018 年 9 月 11 上。 
+> Office 2010 的最新版本是**14.0.7214.5000**，其中已於 2018 年 10 月 9 日發行。 
   
 若要檢查 Office 版本，請執行下列步驟：
   
@@ -54,7 +54,8 @@ ms.locfileid: "23954799"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2018 |年 9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
+|2018 |年 10 月 9 日  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
+| |年 9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
 ||2010 年 8 月 14  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
 ||7 月 10 日  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
 ||6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |

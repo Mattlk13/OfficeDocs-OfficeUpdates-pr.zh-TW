@@ -34,6 +34,7 @@
 ## [Skype 商務更新](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016.msp 檔案](msp-files-office-2016.md)
 ## [Office 2013 的.msp 檔案](msp-files-office-2013.md)
+## [Office 2019 更新](update-history-office-2019.md)
 ## [Office 2013 更新](update-history-office-2013.md)
 ## [Office 2010 更新](update-history-office-2010-click-to-run.md)
 
