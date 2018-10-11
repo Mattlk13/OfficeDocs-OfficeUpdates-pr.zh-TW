@@ -1,21 +1,21 @@
 ---
-title: 2018 年出版的半年通道版本資訊
+title: 2018 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供適用 2018 年 Office 365 專業增強版半年通道的版本資訊
-ms.openlocfilehash: 34d206085cf959c7dca3ab3e4cb2881efdb818b9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: a9edf21d49e4d7d7946ac22f6f014d2a5d242b8a
+ms.sourcegitcommit: d0a66098beda134e12800930e4b236f673d5dd72
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459420"
+ms.locfileid: "25492773"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年出版的半年通道版本資訊
 
@@ -43,10 +43,27 @@ ms.locfileid: "25459420"
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026)：Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft Graphics Components 遠端程式碼執行漏洞 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft Word 遠端程式碼執行漏洞 
 
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新 
+-   修復了2190到2194範圍內，符號切換到Cambria Math時所發生的問題。 這會導致Excel的儲存格高度增加 3 倍。
+-   修復了Excel中的問題：當使用者將滑鼠停留在多個已定義名稱的工作簿中的格式選項上時，Excel可能無反應，而且即使在格式選項中停用了即時預覽，Excel也可能在快速分析工具中無反應。
+-   我們目前正在調查，當Excel應用程式視窗從一個桌面移動到另一個桌面時，效能降低的問題。 同時，如果您發現到這種效能降低的問題，請試試在「文件選項」對話方塊裡的「一般」選項，設定為「當使用多個顯示器時」選擇「相容性最佳化」。
 
-## <a name="version-1708-october-9"></a>版本 1708：10 月 9 日
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修復了使用ActiveX內容來儲存文件時，可能造成文件損毀的問題。
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修復了插入Word文件物件時，會出現方程式編輯器的問題。
+
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+-   修復了如果為列印工作設定頁首或頁尾，下次列印專案時，無法保留所做更改的問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修復了儘管已透過協助功能和效能設定關閉動畫後，應用程式仍會顯示動畫的問題。 
+-   修復了使用螢光筆繪圖工具時背景變成空白的問題。
+
+## <a name="version-1708-october-9"></a>1708 版：10 月 9 日
 *版本 1708 (組建 8431.2316)*
 
 *這是從 2018 年 1 月以來所提供的半年通道版本。在 2019 年 3 月之前，我們會繼續支援這個版本並提供安全性更新。不過，我們目前已提供新的半年通道版本：版本　1803 (組建 16.0.9126.2282)，其中包含新功能、安全性更新和非安全性更新。*
@@ -65,10 +82,27 @@ ms.locfileid: "25459420"
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026)：Microsoft Office 深度防禦更新 
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft Graphics Components 遠端程式碼執行漏洞 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)：Microsoft Word 遠端程式碼執行漏洞 
 
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新 
+-   修復了2190到2194範圍內，符號切換到Cambria Math時所發生的問題。 這會導致Excel的儲存格高度增加 3 倍。
+-   修復了Excel中的問題：當使用者將滑鼠停留在多個已定義名稱的工作簿中的格式選項上時，Excel可能無反應，而且即使在格式選項中停用了即時預覽，Excel也可能在快速分析工具中無反應。
+-   我們目前正在調查，當Excel應用程式視窗從一個桌面移動到另一個桌面時，效能降低的問題。 同時，如果您發現到這種效能降低的問題，請試試在「文件選項」對話方塊裡的「一般」選項，設定為「當使用多個顯示器時」選擇「相容性最佳化」。
 
-## <a name="version-1803-september-11"></a>版本 1803：9 月 11 日
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+-   修復了使用ActiveX內容來儲存文件時，可能造成文件損毀的問題。
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+-   修復了插入Word文件物件時，會出現方程式編輯器的問題。
+
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+-   修復了如果為列印工作設定頁首或頁尾，下次列印專案時，無法保留所做更改的問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+-   修復了儘管已透過協助功能和效能設定關閉動畫後，應用程式仍會顯示動畫的問題。 
+-   修復了使用螢光筆繪圖工具時背景變成空白的問題。
+
+## <a name="version-1803-september-11"></a>1803 版：9 月 11 日
 *1803 版 (組建 9126.2282)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -85,7 +119,7 @@ ms.locfileid: "25459420"
 ## <a name="version-1708-september-11"></a>1708 版：9 月 11 日
 *版本 1708 （組建 8431.2309）*
 
-*這是從 2018 年 1 月以來所提供的半年通道版本。在 2019 年 3 月之前，我們會繼續支援這個版本並提供安全性更新。不過，我們目前已提供新的半年通道版本：版本　1803 (組建 16.0.9126.2282)，其中包含新功能、安全性更新和非安全性更新。*
+*這是自從 2018 年 1 月以來提供的半年管道版本。它會繼續得到支援，並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年管道版本：1803 版 (組建 16.0.9126.2282)，其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行漏洞
@@ -166,7 +200,7 @@ ms.locfileid: "25459420"
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全性功能略過的弱點
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878)：Microsoft Excel 記憶體損毀弱點
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884)：Microsoft Office 記憶體損毀弱點
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端程式碼執行漏洞
 -   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841)：Microsoft Excel 遠端程式碼執行弱點
 -   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能旁路
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行漏洞
@@ -176,7 +210,7 @@ ms.locfileid: "25459420"
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 資訊洩漏漏洞 
 -   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246)：Microsoft Excel 資訊洩漏漏洞
 -   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Excel 遠端程式碼執行漏洞
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能旁路
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過
 -   [Advisory 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防禦更新
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -197,14 +231,14 @@ ms.locfileid: "25459420"
 -   修正此問題：在 [檔案總管] 中的檔案名稱上按兩下以開啟多個活頁簿時，活頁簿參照會失敗。
 -   修正此問題：以程式設計方式建立樞紐分析表，接著以程式設計方式重新整理，會造成 Excel 當機。
 -   修正此問題：以程式設計方式呼叫 Workbook.Open() 可能會造成 Excel 當機。
--   修正當使用者使用巨集開啟 Office 2007 或較舊的活頁簿 (.xls 或 .xla) 時，會看到錯誤訊息 [重大失敗] 的問題。
+-   修正此問題：使用者使用巨集開啟 Office 2007 或較舊的活頁簿 (.xls 或 .xla) 時，會看到不正確的「重大失敗」錯誤訊息。
 -   修正此問題：使用者開啟內容功能表時，Excel 可能會當機。
 -   修正此問題：當使用者嘗試在現有的活頁簿中插入物件時，Excel 會在使用者按一下 [瀏覽] 時損毀。
 -   修正此問題：使用密碼保護一個範圍時，看不到要輸入密碼以解鎖範圍的對話方塊。
--   修正在檔案名稱包含方括弧時，使用者無法在受保護的檢視中關閉活頁簿的問題。
+-   修正此問題：在檔案名稱包含方括弧時，使用者無法在受保護的檢視中關閉活頁簿。
 -   修正此問題：在拖曳或拖曳填滿時，工具提示的放置位置沒有對齊。
 -   修正此問題：使用 [檔案] \> [另存新檔] 來儲存活頁簿時，包含句點的檔案名稱在檔案儲存對話方塊中會出現空白或截斷。
--   修正在儲存同步備份檔案時 Office 無法寫入磁碟但會不斷上傳檔案到 OneDrive 的問題。修正此問題之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
+-   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上載。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **輕鬆地排序您的電子郵件：** 由於您的意見反應，我們已為不使用 [焦點收件匣] 的使用者，重新加入了郵件清單上方的排序功能和 [未讀取] 篩選器。
@@ -278,7 +312,7 @@ ms.locfileid: "25459420"
 -   修正多位使用者在相同簡報上共同撰寫時導致投影片母片不正確重複的問題。
 -   修正開啟 OneDrive 中儲存的檔案導致 PowerPoint 在離開「受保護檢視」時當機的問題。修正移除文件屬性和個人資訊無法儲存至 SharePoint 的問題。
 -   修正在參考以 Flash Player 為基礎的 YouTube 內嵌程式碼時，會導致開啟新視窗並播放影片的問題。舊的內嵌程式碼現已升級為以參考HTML5 為基礎的 YouTube 影片，讓內容可以正確地播放。
--   修正在儲存同步備份檔案時 Office 無法寫入磁碟但會不斷上傳檔案到 OneDrive 的問題。修正此問題之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
+-   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上載。
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **工作面板檢視：** 在 [工作面板] 檢視中的卡片上排序工作。在面板上的資料行之間重新排序和移動卡片，就像在敏捷式專案中一樣。
@@ -378,7 +412,7 @@ ms.locfileid: "25459420"
 -   **3D 模型：** 使用 3D 來增加文件的視覺效果和創意發想。輕鬆插入 3D 模型，然後將其旋轉 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **新的筆跡效果：** 使用金屬畫筆和筆跡效果 (如彩虹、星空、熔岩、海洋、黃金、白銀等) 來展現您的想法。
 -   **共用檔案 UI：** 對於商務用 OneDrive 或 SharePoint 檔案，按一下功能區右上角的 [共用] 按鈕，或移至 [檔案] \> [共用] 即可啟動經簡化並改良過的 [共用] 對話方塊。對於新的或儲存在本機的檔案，該 UI 可讓使用者輕鬆地將檔案上傳至 OneDrive 以啟動共同作業。
--   **封鎖危險的副檔名：** 預設視為具有高風險以及內嵌為 OLE 封裝物件的副檔名 (例如.exe、.vbs 和 .js)，將會遭到封鎖而無法啟動。[深入了解](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **封鎖危險的副檔名：** 根據預設，具有高風險以及內嵌為 OLE 封裝物件的副檔名 (例如.exe、.vbs 和 .js)，將會遭到封鎖而無法啟動。[深入了解](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **使用學習工具進行編輯：** 在 Word 的 Web 版面配置中現已提供學習工具。在您編輯時可調整文字間距和顯示音節。在任何檢視中，都可看見每個字會隨著大聲朗讀文件而以反白顯示。 [深入了解](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **LaTeX 語法：** 使用 LaTeX 語法建立並編輯數學方程式。
 -   **有用的聲音可改善協助工具：** 開啟音訊提示可在作業時一面引導您。可在 [檔案] \> [選項] \> [輕鬆存取] 中找到此功能。無需增益集。 [深入了解](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -387,7 +421,7 @@ ms.locfileid: "25459420"
 -   **以 [編輯器] 窗格增強了撰寫協助：** 使用 [編輯器] 窗格可得到進階拼字檢查、文法和書寫樣式的建議。它內建無障礙功能，並已改善對輔助技術的支援。
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端遙控器代碼執行漏洞
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行漏洞
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行漏洞
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 遠端遙控器代碼執行漏洞
 -   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 記憶體損毀漏洞
@@ -409,7 +443,7 @@ ms.locfileid: "25459420"
 -   修正清單中項目符號無法列印的問題。
 -   修正當使用者嘗試對商務用 OneDrive 上的現有文件執行「另存新檔」時， Word 會當機並取消儲存作業或嘗試合併現有變更的問題。
 -   修正此問題：執行合併列印精靈時，篩選包含 null (空白) 值的資料來源欄位失敗。
--   修正在儲存同步備份檔案時 Office 無法寫入磁碟但會不斷上傳檔案到 OneDrive 的問題。修正此問題之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
+-   修正此問題：正在儲存同步備份檔案時，Office 無法寫入磁碟，但 Office 會不斷上傳檔案到 OneDrive。有了此修正程式之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上載。
 -   修正此問題：要移除文件中的 IRM 保護時並沒有移除保護。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
@@ -430,12 +464,12 @@ ms.locfileid: "25459420"
 -   修正開啟應用程式時，使用者可能會看到以「安全」模式啟動的訊息，但接著應用程式無法開啟的問題。
 -   當啟用 Office COM 物件，讓  System Center Configuration Manager 管理 Office 365 用戶端更新，[立即更新] 選項會在 [檔案] \> [帳戶] \> [更新選項] 中隱藏。
 -   修正此問題：當使用者嘗試使用 [啟動 Office] 對話方塊來啟動 Office 時，Office 應用程式會當機。
--   修正在動態 DPI 環境下的 Office 增益集中縮放與調整大小的問題。
+-   修正在動態 DPI 環境下的 Office 增益集縮放與調整大小的問題。
 -   修正此問題：即使目前已安裝 Office 365 ProPlus，Office 設定服務提供者 (CSP) 的 CurrentStatus 節點仍會傳回空字串。
 -   修正會導致 .box 檔案格式變更的問題，該問題會影響同一部電腦上所安裝之較舊 Office 版本的功能，因為系統會在相同電腦上的所有 Office 應用程式版本之間共用 .box 檔案。
 -   修正會導致更新安裝在特定情況下耗費長時間的問題。 
 -   修正此問題：SVG 測試失敗
--   修正當使用「System Center Configuration Manager」部署更新至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行中且重新啟動裝置後套用的問題。
+-   修正當使用 System Center Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行中且重新啟動裝置後套用的問題。
 
 
 ## <a name="version-1708-july-10"></a>版本 1708：7 月 10 日
@@ -450,7 +484,7 @@ ms.locfileid: "25459420"
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310)：Microsoft Office 竄改漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行漏洞
 
 
 ## <a name="version-1708-june-12"></a>版本 1708：6 月 12 日
@@ -486,17 +520,17 @@ ms.locfileid: "25459420"
 *版本 1708 (組建 8431.2250)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行漏洞
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端遙控器代碼執行漏洞
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 遠端程式碼執行漏洞
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端遙控器代碼執行漏洞
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 資訊洩漏漏洞
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能旁路漏洞
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能略過漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行漏洞
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行漏洞
 
 
 
@@ -506,17 +540,17 @@ ms.locfileid: "25459420"
 *這是從 2017 年 9 月以來所提供的順延通道版本。在 2018 年 7 月之前，我們會繼續支援這個版本並提供安全性更新。不過，我們目前已提供新的半年通道版本：版本 1708 (組建 8431.2250)，其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行漏洞
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端遙控器代碼執行漏洞
 -   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148)：Microsoft Excel 遠端程式碼執行漏洞
 -   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端遙控器代碼執行漏洞
 -   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163)：Microsoft Excel 資訊洩漏漏洞
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能旁路漏洞
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150)：Microsoft Outlook 安全性功能略過漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157)：Microsoft Office 遠端程式碼執行漏洞
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158)：Microsoft Office 遠端程式碼執行漏洞
 
 
 
@@ -530,9 +564,9 @@ ms.locfileid: "25459420"
 -   修正與 TLS 1.2 支援相關的問題。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端遙控器代碼執行漏洞
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行漏洞
 
 
 
@@ -545,9 +579,9 @@ ms.locfileid: "25459420"
 -   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029)：Microsoft Excel 遠端程式碼執行漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950)：Microsoft Office 資訊洩漏漏洞
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026)：Microsoft Office 遠端遙控器代碼執行漏洞
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)：Microsoft Office 遠端程式碼執行漏洞
 
 
 
@@ -558,7 +592,7 @@ ms.locfileid: "25459420"
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 遠端遙控器代碼執行漏洞
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能旁路
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過
 
 ### <a name="word-security-updates"></a>Word：安全性更新
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點
@@ -574,10 +608,10 @@ ms.locfileid: "25459420"
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903)：Microsoft Access 遠端遙控器代碼執行漏洞
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能旁路
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919)： Microsoft Office 資訊洩漏漏洞
 
 
 
@@ -596,7 +630,7 @@ ms.locfileid: "25459420"
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851)：Microsoft Office 記憶體損毀漏洞
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 資訊洩漏弱點
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853)：Microsoft Office 資訊洩漏漏洞
 
 
 
@@ -679,7 +713,7 @@ ms.locfileid: "25459420"
 -   修正將樞紐分析表的副本貼到另一個活頁簿時會當機的問題。
 -   修正當選擇「取代」命令時「尋找」及「取代」對話方塊隨即開啟，但對話方塊的焦點位於「尋找」索引標籤，而不是「取代」索引標籤的問題。
 -   修正從比 SharePoint Server 2016 更舊版本的 SharePoint Server 開啟活頁簿的「活動」窗格時， Excel 會當機的問題。
--   修正當啟用一個或多個 XLL 增益集時，Excel 會開啟並顯示一個空白視窗的問題。
+-   修正當啟用一或多個 XLL 增益集時 Excel 會開啟並顯示一個空白視窗的問題。
 -   修正在已關閉的活頁簿中使用「表單」按鈕之後，Excel 會當機的問題。
 -   修正在使用 SheetBeforeRightClick 事件時，插入與合併儲存格相交的資料行不會展開合併之儲存格的問題。
 -   修正在展開或摺疊樞紐分析表且樞紐分析表標頭移出螢幕時，Excel 暫時停止回應的問題。
@@ -718,10 +752,10 @@ ms.locfileid: "25459420"
 -   修正開啟 Outlook 時會間歇性當機的問題。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面，會隨著影像自動插入。
+-   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
 -   **影片的隱藏式輔助字幕：** 將隱藏式輔助字幕新增至影片，使其更方便使用。[詳細資訊](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **為錄音配旁白︰** 當您錄製簡報時，可加入自己旁白的影片。錄製內容可以包含動畫、筆跡、音檔和影片。
--   **共用的檔案活動︰** 選擇檔案右上角的「活動」按鈕，以查看在商務用 OneDrive 或 SharePoint 中共用檔案的共用、編輯、重新命名或還原。
+-   **共用的檔案活動︰** 選擇檔案右上角的 [活動] 按鈕，以查看在商務用 OneDrive 或 SharePoint 中共用檔案的共用、編輯、重新命名或還原。
 -   **Alt 文字建立︰** 雲端式服務會自動為簡報中的圖片產生替代文字。
 -   **安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果發現是惡意的連結，系統就會將使用者重新導向至警告頁面而非原始的目標 URL。 [詳細資訊](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 -   **設計工具改進：** 針對動作取向清單提供專業的設計構想建議。
@@ -735,7 +769,7 @@ ms.locfileid: "25459420"
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正在儲存同步備份檔案時 Office 無法寫入磁碟但會不斷上傳檔案到 OneDrive 的問題。修正此問題之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
 -   修正在表格中按下復原鍵後，編輯和格式化文字會導致 PowerPoint 當機的問題。
--   修正在參考以 Flash Player 為基礎的 YouTube 內嵌程式碼時，會導致開啟新視窗並播放影片的問題。舊的內嵌程式碼現已升級為以參考HTML5 為基礎的 YouTube 影片，讓內容可以正確地播放。
+-   修正在參考以 Flash Player 為基礎的 YouTube 內嵌程式碼時會導致開啟新視窗並播放影片的問題。舊的內嵌程式碼現已升級為參考以 HTML5 為基礎的 YouTube 影片，讓內容可以正確就地播放。
 -   修正從比「SharePoint Server 2016」更舊版本的 SharePoint Server 開啟簡報時，PowerPoint 會當機的問題。
 -   修正已連結至字型的終端用戶定義字元 (EUDC) 無法顯示的問題。
 
@@ -767,49 +801,49 @@ ms.locfileid: "25459420"
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   新增對話方塊，說明特定連接埠被封鎖或 IP 未列入白名單時，使用者為何無法加入會議。
--   修正此問題：當您按一下 IM 交談分頁時，常設聊天室中的未讀訊息會標示成已讀。
+-   修正當您按一下 IM 交談分頁時常設聊天室中未讀訊息標示為已讀的問題。
 -   修正此問題：傳入的 IM 快顯通知會發生幾秒延遲。
 -   修正此問題：停用 Exchange 同步處理時，AD 連絡人會顯示為電話號碼，而不是連絡人名稱。
 -   修正此問題：同盟停用且會議召集人未明確封鎖匿名加入時，匿名加入使用者會被封鎖而無法加入。
--   修正此問題：超過人數限制的會議中，對會議召集人顯示的受邀者數目不正確。
--   修正此問題：內送 PSTN 通話的快顯通知中不顯示電話號碼。
--   修正此問題：重新命名連絡人清單群組時，使用「Delete」鍵會刪除整個群組。
--   修正此問題：共用停止之前，會關閉 IM 交談中的共用通知。
--   修正此問題：某些非英文語言的登入畫面是空白的。
--   修正此問題：在聊天和聊天歷程記錄中的非英文字元是亂碼。
+-   修正系統針對超過人數限制的會議，對會議召集人顯示的受邀者數目不正確的問題。
+-   修正內送 PSTN 通話快顯通知中無法顯示電話號碼的問題。
+-   修正重新命名連絡人清單群組時使用「Delete」鍵會刪除整個群組的問題。
+-   修正共用停止之前會關閉 IM 交談中共用通知的問題。
+-   修正某些非英文語言的登入畫面是空白的問題。
+-   修正在聊天和聊天歷程記錄中的非英文字元是亂碼的問題。
 -   若使用者的名稱未知，則會顯示由「Organizational Auto Attendant」所處理的來電者電話號碼。
 -   新增 Inband 設定，可選擇性地限制 [這些人不需要在大廳中等候] 中的 [任何人 (沒有限制)]。
--   新增在 VDIv2 中 P2P 視訊呼叫己方視訊的開/關功能。
--   修正此問題：呼叫下拉功能表中連絡人會顯示重複的號碼。
--   修正此問題：在商務用 Skype 和商務用 Skype 基本版之間移動的使用者，委派會遭到移除。
--   修正此問題：使用「啟用顯示為離線」和「自訂狀態 URL」用戶端原則時，會看不到 [顯示為離線]。
+-   在 VDIv2 中新增開啟/關閉 P2P 視訊通話中己方視訊的功能。
+-   修正在通話下拉式功能表中會顯示重複的連絡人號碼的問題。
+-   修正使用者在商務用 Skype 和商務用 Skype 基本版之間移動時其委派遭到移除的問題。
+-   修正在使用「啟用顯示為離線」和「自訂狀態 URL」用戶端原則時看不見 [顯示為離線] 的問題。
 -   加寬「加入會議」按鈕，以修正某些當地語系化語言的截斷問題。
 -   更加凸顯「高重要性」訊息在聊天中的重要性。
 -   在允許的檔案傳輸封鎖清單中新增 Office 和商務用 Skype 副檔名類型。
--   在設為非英文的 Outlook 會議邀請中，修正會議頁尾文字的當地語系化。
--   修正此問題：在多個使用者的情況下，對話中的傳送者名稱可能會切換。
--   修正此問題：在成功加入會議前，空白的對話視窗都不會出現。
--   修正此問題：若職稱欄位空白，則搜尋結果中連絡人卡片上的部門欄位資訊也會空白。
--   修正此問題：從內部部署移轉到線上的使用者，會因為防火牆規則而造成登入失敗。
--   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端，用戶端會將 OAuthUsed 登錄機碼重設為 False。若要修正此問題，請將 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 值設定為 1。
+-   在非英文的 Outlook 會議邀請中，修正會議頁尾文字的當地語系化。
+-   修正在多個使用者的情況下對話中傳送者名稱可能會切換的問題。
+-   修正在成功加入會議前空白的對話視窗不會出現的問題。
+-   修正一旦職稱欄位空白，則搜尋結果中連絡人卡片上的部門欄位資訊也會空白的問題。
+-   修正從內部部署移轉到線上的使用者會因防火牆規則而無法登入的問題。
+-   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端時，用戶端會將 OAuthUsed 登錄機碼重設為 False。若要修正此問題，請將 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 值設定為 1。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
--   **從 Excel 資料製作圖表︰** 使用新的「資料視覺化工具」範本，從 Excel 資料自動建立「基本流程圖」或「交互功能流程圖」。 [詳細資訊](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+-   **從 Excel 資料製作圖表︰** 使用新的「資料視覺化工具」範本，從 Excel 資料自動建立「基本流程圖」或「交互功能流程圖」。[詳細資訊](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果發現是惡意的連結，系統就會將使用者重新導向至警告頁面而非原始的目標 URL。 [詳細資訊](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全性更新
--   修正此問題：在檔案圖示或檔案名稱上按兩下以開啟 Visio 檔時，COM 增益集沒有收到文件開啟的事件。
+-   修正在檔案圖示或檔案名稱上按兩下以開啟 Visio 檔時 COM 增益集沒有收到文件開啟事件的問題。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面，會隨著影像自動插入。
+-   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
 -   **Alt 文字建立︰** 雲端式服務會自動為文件中的圖片產生替代文字 (Alt 文字)。
--   **共用的檔案活動︰** 選擇檔案右上角的「活動」按鈕，以查看在商務用 OneDrive 或 SharePoint 中共用檔案的共用、編輯、重新命名或還原。
+-   **共用的檔案活動︰** 選擇檔案右上角的 [活動] 按鈕，以查看在商務用 OneDrive 或 SharePoint 中共用檔案的共用、編輯、重新命名或還原。
 -   **安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果發現是惡意的連結，系統就會將使用者重新導向至警告頁面而非原始的目標 URL。 [詳細資訊](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
--   **共用檔案中的變更**：檢視誰在共用文件中進行了變更，以及將文件還原到舊版。[詳細資訊](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+-   **共用檔案中的變更**：檢視誰在共用文件中進行了變更，以及將活頁簿還原為較舊的版本。[詳細資訊](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826)：Microsoft Office 記憶體損毀弱點
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行弱點
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826)：Microsoft Office 記憶體損毀漏洞
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行漏洞
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行漏洞
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 遠端遙控器代碼執行漏洞
 -   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 記憶體損毀漏洞
@@ -819,60 +853,60 @@ ms.locfileid: "25459420"
 -   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 遠端程式碼執行漏洞
 -   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 遠端遙控器代碼執行漏洞
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 遠端程式碼執行漏洞
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 記憶體損毀弱點
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 記憶體損毀漏洞
 -   [Advisory 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020)：Microsoft Office 深度防禦更新
 -   [Advisory 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防禦更新
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
--   修正當使用者嘗試對商務用 OneDrive 上的現有文件執行「另存新檔」時， Word 會當機並取消儲存作業或嘗試合併現有變更的問題。
+-   修正當使用者嘗試對商務用 OneDrive 上的現有文件執行 [另存新檔] 時 Word 會當機並取消儲存作業或嘗試合併現有變更的問題。
 -   修正在儲存同步備份檔案時 Office 無法寫入磁碟但會不斷上傳檔案到 OneDrive 的問題。修正此問題之後，使用者現在會看到一則錯誤訊息，且 Office 不會繼續上傳。
--   修正此問題：如果使用者在開啟 Word 後立刻瀏覽至 「插入」索引標籤，Word 可能會停止回應。
--   修正此問題：按一下邊界之後，輸入字元時，字元會顯示在畫面左上角。
--   修正此問題：從比 SharePoint Server 2016 更舊版本的 SharePoint Server 開啟文件的「活動」窗格時，Word 會當機。
--   修正此問題：載入 Grammarly 增益集時 Word 會意外關閉。
--   修正此問題：在某些情況下，嘗試復原雲端型檔案時 Word 會損毀。
--   修正此問題：無法旋轉繪圖畫布中圖形。
--   修正此問題：當輸入韓文時，母音和元音會不正確地分開。
--   以PDF格式儲存文件時，請用PDF版本1.7來儲存。
+-   修正使用者在開啟 Word 後立刻瀏覽至 「插入」索引標籤時 Word 可能會停止回應的問題。
+-   修正在按一下邊界後輸入字元時字元會顯示在畫面左上角的問題。
+-   修正從 SharePoint Server 2016 以前版本的 SharePoint Server 開啟活頁簿的 [活動] 窗格時 Word 會當機的問題。
+-   修正載入 Grammarly 增益集時 Word 會意外關閉的問題。
+-   修正在某些情況下嘗試復原雲端式檔案時 Word 會當機的問題。
+-   修正無法旋轉繪圖畫布中圖形的問題。
+-   修正在輸入韓文時母音和元音會不正確地分開的問題。
+-   以 PDF 格式儲存文件時，會將文件儲存為 1.7 版的 PDF。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630)：Microsoft Office 記憶體損毀弱點
--   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744)：Microsoft Office 記憶體損毀弱點
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882)：Microsoft Office 記憶體損毀弱點
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 遠端程式碼執行漏洞
+-   [CVE-2017-8630](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8630)：Microsoft Office 記憶體損毀漏洞
+-   [CVE-2017-8744](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8744)：Microsoft Office 記憶體損毀漏洞
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825)：Microsoft Office 遠端程式碼執行漏洞
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882)：Microsoft Office 記憶體損毀漏洞
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 遠端程式碼執行漏洞
 -   [Advisory 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   為 Office 365 德國方案的網域使用者新增單一登入 (SSO) 的支援。該方案的身分識別與內部部署的 Active Directory 相連。
--   新增功能以避免未成年人獲取和啟動來自 Office 市集的 Office 增益集。
+-   新增功能以避免未成年人取得並啟動來自 Office 市集的 Office 增益集。
 -   修正在動態 DPI 環境下的 Office 增益集中縮放與調整大小的問題。
 -   修正此問題：即使目前已安裝 Office 365 ProPlus，Office 設定服務提供者 (CSP) 的 CurrentStatus 節點仍會傳回空字串。
 -   修正會導致 .box 檔案格式變更的問題，該問題會影響同一部電腦上所安裝之較舊 Office 版本的功能，因為系統會在相同電腦上的所有 Office 應用程式版本之間共用 .box 檔案。
--   修正此問題：在使用共用電腦啟用的某些情況下，出現錯示應用程式發生錯誤的訊息，以致無法正常運作並詢問使用者是否要執行修復。
--   修正此問題：線上修復進度不會向使用者顯示。
--   修正此問題：Office 檔案屬性未顯示在「檔案總管」中。
--   修正此問題：開啟第二份文件時，Office 增益集按鈕會從功能區消失。
--   修正此問題：無法開啟某些名稱具有雙位元組字元的 VBA 模組。
--   修正此問題：「新增功能」對話方塊無法顯示。
--   修正此問題：按下「繪圖」索引標籤會造成部分使用者的應用程式損毀。
--   修正此問題：滑鼠在有工具提示的「通用控制項」停留時，會造成應用程式損毀。
--   修正此問題：使用「通用控制項」時，出現授權錯誤訊息。
--   修正此問題：某些程式檔案簽章的方式發生問題，導致防毒程式標幟這些檔案，以及在 Windows 資訊保護 (WIP) 底下保護或存取資料的問題。
+-   修正在某些使用共用電腦啟用情況下出現應用程式發生錯的誤訊息，使得應用程式無法正常運作並詢問使用者是否要執行修復的問題。
+-   修正系統不會向使用者顯示線上修復進度的問題。
+-   修正 Office 檔案屬性未顯示在「檔案總管」中的問題。
+-   修正開啟第二份文件時 Office 增益集按鈕會從功能區消失的問題。
+-   修正無法開啟某些名稱具有雙位元組字元 VBA 模組的問題。
+-   修正「新增功能」對話方塊無法顯示的問題。
+-   修正按下「繪圖」索引標籤後會導致部分使用者應用程式當機的問題。
+-   修正滑鼠在有工具提示的「通用控制項」停留時會導致應用程式當機的問題。
+-   修正使用「通用控制項」時出現授權錯誤訊息的問題。
+-   修正某些程式檔案簽章的方式導致防毒程式標幟這些檔案而無法根據 Windows 資訊保護 (WIP) 保護或存取資料的問題。
 -   新增支援以便使用者在 64 位元版本的 Office 開啟含有 mscomctl.ocx 控制項的巨集檔案。
--   改善在 mscomctl.ocx 中使用之控制項的協助工具。
--   修正此問題：Ribbon 或快速存取工具列自訂對話方塊中缺少指令。
+-   改善 mscomctl.ocx 中使用之控制項的協助工具。
+-   修正功能區或快速存取工具列自訂對話方塊中缺少命令的問題。
 
 
 
 ## <a name="version-1705-january-9"></a>版本 1705：1 月 9 日
 *版本 1705 (組建 8201.2217)*
 
-*這是自從 2017 年 9 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 7 月為止。不過，目前已提供新的半年通道版本 — 1708 版 (組建 8431.2153) — 其中包含了新功能、安全性更新和非安全性更新。*
+*這是從 2017 年 9 月以來所提供的順延通道版本。在 2018 年 7 月之前，我們會繼續支援這個版本並提供安全性更新。不過，我們目前已提供新的半年通道版本：版本 1708 (組建 8431.2153)，其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端程式碼執行弱點
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796)：Microsoft Excel 遠端遙控器代碼執行漏洞
 -   [Advisory 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021)：Microsoft Office 深度防禦更新
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
@@ -880,7 +914,7 @@ ms.locfileid: "25459420"
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端遙控器代碼執行漏洞
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端遙控器代碼執行漏洞
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行漏洞
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行漏洞
 -   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 遠端遙控器代碼執行漏洞
 -   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798)：Microsoft Office 記憶體損毀漏洞
@@ -890,10 +924,10 @@ ms.locfileid: "25459420"
 -   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805)：Microsoft Word 遠端程式碼執行漏洞
 -   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806)：Microsoft Word 遠端遙控器代碼執行漏洞
 -   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807)：Microsoft Word 遠端程式碼執行漏洞
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 記憶體損毀弱點
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812)：Microsoft Word 記憶體損毀漏洞
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 遠端程式碼執行弱點
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795)：Microsoft Office 遠端遙控器代碼執行漏洞
 -   [Advisory 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 > [!NOTE]
