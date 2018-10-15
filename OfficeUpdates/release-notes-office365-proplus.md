@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道最新發行的清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 1e746cb80014c2603951933adfa63db1f2dab3c9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: 0e0396048c7702400dd84d68da25a1fd7fa8a35c
+ms.sourcegitcommit: d780aaaf591dbfad76ed02b88abe569d6038c70f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459390"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25522144"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
@@ -26,8 +26,8 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
   
 |**通道**|**版本**|**組建**|**發行日期**|**支援之前的版本**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1809  <br/> |[10827.20150)](monthly-channel-2018.md#version-1809-october-9)  <br/> | 2018 年 10 月 9 日  <br/> |發行版本 1810 <br/>|
-|半年 (已設定目標)  <br/> |1808  <br/> |[10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
+|每月  <br/> |1809  <br/> |[10827.20150](monthly-channel-2018.md#version-1809-october-9)  <br/> | 2018 年 10 月 9 日  <br/> |發行版本 1810 <br/>|
+|半年 (已設定目標)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
 |半年 <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |2018 年 10 月 9 日  <br/> | 2019年12月10日 <br/>|
 |半年 <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
 
