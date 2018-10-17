@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: ea8fc3ac72f23561f2b0b3375787673c1517116e
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: f975ab214afef354fb5bbc653ec75f0639361f45
+ms.sourcegitcommit: 576ac4e4615156add1d957b1a6d176c26a08fd32
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504995"
+ms.lasthandoff: 10/16/2018
+ms.locfileid: "25577132"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -28,25 +28,41 @@ ms.locfileid: "25504995"
 > [!NOTE]
 > - 如需 Mac 版 Office 的完整版本清單和其他下載連結，請參閱 [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)。 
 > - 如果您是 Office 測試人員，請參閱[測試人員快速組建的版本資訊](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 在2018年九月發行，以 16.17為開頭的版本資訊也適用於 Mac 版 Office 2019，這是 Mac 版 Office 的永久版本，可從零售商店或透過大量授權合約買斷。但版本資訊所列的部分功能只有在已訂閱 Office 365 時才可使用。
-> - 16.16 以前的版本資訊也同樣適用於 Office 2016 for Mac，也是使用者可一次性購買的 Mac 版 Office。16.16 以前版本可透過 Office 2016 for Mac 大量授權合約啟用。但 16.17 以上版本則無法以 Office 2016 for Mac 大量授權啟用。有關 9 月以後釋出的  Office 2016 for Mac，請參閱 [Office 2016 for Mac 的版本資訊](release-notes-office-2016-mac.md)
-> - 只有最新版本會提供下載連結。
+> - 自 2018 年九月所發行的 16.17 版本開始，版本資訊也同樣適用於 Mac 版 Office 2019。Mac 版 Office 2019 是 Mac 版 Office 的永久版本，可從零售商店或透過大量授權合約買斷型購買。不過，版本資訊所列的部分功能只有在您已有 Office 365 訂閱時才可供使用。
+> - 16.16 版本或較早版本的版本資訊也同樣適用於 Mac 版 Office 2016。Mac 版 Office 2016 是買斷型購買的 Mac 版 Office。 16.16 或較早版本可以用 Office 2016 for Mac 的大量授權加以啟用。 16.17 版本或更新版本則無法使用 Office 2016 for Mac 的大量授權來啟用。 如需深入了解 9 月以後的 Mac 版 Office 2016，請參閱 [Mac 版 Office 2016 的版本資訊](release-notes-office-2016-mac.md)
+> - 目前只提供最新版本的下載連結。
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
-## <a name="september-2018-release"></a>2018年 9 月 版本
+## <a name="october-2018-release"></a>2018 年 10 月版本
+
+ **發行日期：** 2018 年 10 月 16 日 
+  
+ *版本 16.18.0 (組建 18101400)* 
+  
+這個版本提供下列更新：
+
+|**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Word  <br/>|**使用「\@提及」功能引起對方的注意：** 在註解中使用「@提及」功能，讓共事者知道您需要他們提供資訊。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/> <br/>**使用無障礙圖片：** 當插入圖片時，Office 會自動建議可供視障人士閱讀的標題。  <br/> ||[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
+|Excel  <br/>|**透過註解共同作業：** 在試算表內建的回覆方塊中持續互談。  [深入了解](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **探索更多關於您的資料** Office 365 應用程式結合人工智慧 （AI）可協助您達成最佳的工作成果。 構想窗格是使用 AI 創造極具智慧，且可以幫助您節省時間並強化內容的最佳建議。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **更「自動」的自動完成功能：** 當您輸入的公式時，會出現很有幫助的 [自動完成] 功能表，顯示可以選擇的引數選項。  <br/><br/> **目前相關資訊已改善：VoiceOver 瀏覽：** 在 Excel 中使用 VoiceOver 嗎？ 按下 VO + U 來移動所有的工作表。 您也可以啟用 macOS Trackpad Commander 做同樣的操作。 <br/> ||[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
+|PowerPoint  <br/>|**使用「 \@提及」功能來獲得關注：** 在註解中使用「@提及」功能讓共事者知道您需要他們提供資訊。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/> **使用無障礙圖片：** 當插入圖片時，Office 會自動建議可供視障人士閱讀的標題。  <br/><br/> **動畫觸發程序功能來了**：我們滿足您提出的要求！ 動畫觸發程序不再只限於 Windows 才有。 您可以在 [動畫] 索引標籤上找到這些觸發程序。 [了解更多](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
+|Outlook  <br/>|**已改善的搜尋功能：** 選取 [搜尋] 方塊時，會根據您最近的搜尋歷程記錄，提供快速建議。 不需要打字輸入。  [深入了解](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
+|Office 套件  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432) Microsoft 圖形元件遠端程式碼執行漏洞 <br/>||
+
+
+## <a name="september-2018-release"></a>2018 年 9 月版本
 
  **發布日期：** 2018 年 9 月 11 日 
   
- *版本 16.17.0 （組建 18090901）* 
+ *版本 16.17.0 (組建 18090901)* 
   
-本版本提供以下更新。
-
+這個版本提供下列更新：
   
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|
-|Word  <br/> |**用\@提及項目得到他們的注意：** 使用中的註解 @mentions 讓同事知道您需要他們的輸入。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**自訂捷徑回復：** 我們聽到您 ！ 對於您的要求，我們已帶回自訂的快速鍵。 [深入了解](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏漏洞 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行漏洞 <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**用\@提及項目得到他們的注意：** 使用中的註解 @mentions 讓同事知道您需要他們的輸入。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**使用筆跡繪製：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字，畫圖以及反白。[深入了解 ](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型可檢視所有角度 ：** 輕鬆插入3D 模型，360 度都可旋轉。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您選擇的字型就是他們會看到的字型：** 在您的檔案內嵌您的自訂字型，這樣一來，不管他們到哪裡，你的字型也會跟著走。 [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Word  <br/> |<br/>**使用筆跡來繪製：** 使用滑鼠或觸控板以及繪圖索引標籤上的畫筆來寫字、畫圖和反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**使用筆跡來繪製：** 使用滑鼠或觸控板以及繪圖索引標籤上的畫筆來寫字、畫圖和反白。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度 ：** 輕鬆插入3D 模型，然後旋轉到 360 度。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**自訂捷徑回復：** 我們聽到您 ！ 對於您的要求，我們已帶回自訂的快速鍵。 [深入了解](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏漏洞 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行漏洞 <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |<br/>**使用筆跡來繪製：** 使用滑鼠或觸控板以及繪圖索引標籤上的畫筆來寫字、畫圖和反白。[深入了解 ](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型可檢視所有角度 ：** 輕鬆插入3D 模型，360 度都可旋轉。 [深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您選擇的字型就是他們會看到的字型：** 在您的檔案內嵌您的自訂字型，這樣一來，不管他們到哪裡，你的字型也會跟著走。 [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
 |Office 套件  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)：Microsoft Graphics 遠端程式碼執行漏洞 <br/>||
@@ -57,7 +73,7 @@ ms.locfileid: "25504995"
   
  *版本 16.16.0 （組建 18081201）* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|
@@ -74,7 +90,7 @@ ms.locfileid: "25504995"
   
  *版本 16.15.0 (組建 18070902)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|
@@ -100,9 +116,9 @@ ms.locfileid: "25504995"
   
  *版本 16.14.0 (組建 18061000)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
-|**應用程式**|**功能更新**|**更新套件的下載連結**|
+|**應用程式**|**功能更新**|**下載更新套件的連結**|
 |:-----|:-----|:-----|
 |Word  <br/> |**學習工具的閱讀改善可讀性：** 讓眼睛休息。調整文字間距、欄寬和頁面色彩。或者聆聽 Word 大聲朗讀文件、朗讀時將文字以醒目標示。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
 |Excel  <br/> |**快速填入資料：** 提供範例供「快速填入」，將為您填入資料。[深入了解](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **破除語言障礙：** 使用 Microsoft Translator ，將文字、片語或完整句子翻譯成另一種語言。[深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
@@ -136,7 +152,7 @@ ms.locfileid: "25504995"
   
  *版本 16.13.0 (組建 18051301)*
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
@@ -153,7 +169,7 @@ ms.locfileid: "25504995"
   
  *版本 16.12.0 (組建 18041000)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|**非安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|:-----|
@@ -179,7 +195,7 @@ ms.locfileid: "25504995"
   
  *版本 16.11.0 (組建 18031100)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|**非安全性更新**|
 |:-----|:-----|:-----|:-----|:-----|
@@ -197,7 +213,7 @@ ms.locfileid: "25504995"
   
  *版本 16.10.0 (組建 18021001)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**非安全性更新**|
 |:-----|:-----|:-----|
@@ -219,7 +235,7 @@ ms.locfileid: "25504995"
   
  *版本 16.9.0 (組建 18011602)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -242,7 +258,7 @@ ms.locfileid: "25504995"
   
  *版本 15.41.0 (組建 17120500)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**安全性更新**|
 |:-----|:-----|
@@ -256,7 +272,7 @@ ms.locfileid: "25504995"
   
  *版本 15.40.0 (組建 17110800)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**安全性更新**|
 |:-----|:-----|
@@ -271,7 +287,7 @@ ms.locfileid: "25504995"
   
  *版本 15.39.0 (組建 17101000)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -289,7 +305,7 @@ ms.locfileid: "25504995"
   
  *版本 15.38.0 (組建 17090200)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -304,13 +320,13 @@ ms.locfileid: "25504995"
   
  *版本 15.37.0 (組建 17081500)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|
 |:-----|:-----|
 |Word  <br/> |**研究工具：** 無須退出 Word 即可尋找相關引文、引用來源和影像。[深入了解](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f#ID0EACAAA=Mac)  <br/><br/> **安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果連結被視為惡意，系統就會將使用者重新導向至警告頁面，而非原始的目標 URL。[深入了解](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3) |
 |Excel  <br/> |**安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果連結被視為惡意，系統就會將使用者重新導向至警告頁面，而非原始的目標 URL。[深入了解](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)  |
-|PowerPoint  <br/> |**安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果連結被視為惡意，系統就會將使用者重新導向至警告頁面，而非原始的目標 URL。[深入了解](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)  |
+|PowerPoint  <br/> |**安全連結：** 當使用者按一下連結時，Office 365 進階威脅防護 (ATP) 會檢查是否為惡意的連結。如果連結被視為惡意，系統就會將使用者重新導向至警告頁面，而非原始的目標 URL 網頁。[深入了解](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)  |
 
    
 ## <a name="july-2017-release"></a>2017 年 7 月版本
@@ -328,7 +344,7 @@ ms.locfileid: "25504995"
   
  *版本 15.36.0 (組建 17070201)* 
 
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -351,7 +367,7 @@ ms.locfileid: "25504995"
   
  *版本 15.35.0 (組建 17061000)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -365,7 +381,7 @@ ms.locfileid: "25504995"
   
  *版本 15.34.0 (組建 17051500)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -379,11 +395,11 @@ ms.locfileid: "25504995"
    
  **發行日期：** 2017 年 5 月 9 日 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**非安全性更新**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | - 修正了在選取 [自動檢查] 時無法傳送自動更新通知的重大問題。  <br/><br/>  - 修正了 AutoUpdate 在 OS X 10.10 上的當機問題。  <br/><br/> - 修正了應用程式在更新擱置時不會啟動的問題。   <br/><br/> **重要：** 如果您已更新至 Microsoft AutoUpdate 3.9.0，且將 AutoUpdate 設定設為 [自動檢查]，則必須使用下列其中一種方法手動更新至 Microsoft AutoUpdate 3.9.1：  <br/><br/>  移至 [說明]**** > [檢查更新]****，然後選擇 [檢查更新]****。  <br/><br/>  移至 [說明]**** > [檢查更新]****，然後選取 [自動下載並安裝]****。  |
+|Microsoft AutoUpdate 3.9.1  <br/> | - 修正了在選取 [自動檢查] 時無法傳送自動更新通知的重大問題。  <br/><br/>  - 修正了 AutoUpdate 在 OS X 10.10 上的當機問題。  <br/><br/> - 修正了若在更新擱置中時，應用程式不會啟動的問題。   <br/><br/> **重要：** 如果您已更新至 Microsoft AutoUpdate 3.9.0，且將 AutoUpdate 設定設為 [自動檢查]，則必須使用下列其中一種方法手動更新至 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 移至 [說明]**** > [檢查更新]****，然後選擇 [檢查更新]****。  <br/><br/>  - 移至 [說明]**** > [檢查更新]****，然後選取 [自動下載並安裝]****。  |
    
 ## <a name="april-2017-release"></a>2017 年 4 月版本
 
@@ -392,11 +408,11 @@ ms.locfileid: "25504995"
   
  *版本 15.33.0 (組建 17040900)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|
 |:-----|:-----|
-|Microsoft AutoUpdate  <br/> | 支援 Suite Delta Updates，這可讓每月更新大小降低 50%。  <br/><br/>  支援 MAU 自動更新，讓 MAU 自動進行更新，而不需要系統管理員認證。  <br/> |本版本的 MAU 未提供下載。  <br/> |
+|Microsoft AutoUpdate  <br/> | 支援 Suite Delta Updates，這會將每月的更新大小降低 50%。  <br/><br/>  - 支援 MAU 自動更新，讓 MAU 自動進行更新，而不需要系統管理員認證。  <br/> |本版本的 MAU 未提供下載。  <br/> |
    
 ## <a name="march-2017-release"></a>2017 年 3 月版本
 
@@ -404,7 +420,7 @@ ms.locfileid: "25504995"
   
  *版本 15.32.0 (組建 17030901)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**安全性更新**|
 |:-----|:-----|:-----|
@@ -419,13 +435,13 @@ ms.locfileid: "25504995"
   
  *版本 15.31.0 (組建 17021600)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**非安全性更新**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Touch Bar 支援：** 與您的工作最為相關的命令都可用觸控完成。(僅相容於具有 Touch Bar 的 MacBook Pro。)   |
-|Excel  <br/> |**Touch Bar 支援：** 與您的工作最為相關的命令都可用觸控完成。(僅相容於具有 Touch Bar 的 MacBook Pro。)   |
-|PowerPoint  <br/> |**Touch Bar 支援：** 與您的工作最為相關的命令都可用觸控完成。(僅相容於具有 Touch Bar 的 MacBook Pro。)   |
+|Word  <br/> |**Touch Bar 支援：** 與您目前操作最為相關的命令，都可用觸控操作。(僅相容於具有 Touch Bar 的 MacBook Pro。)   |
+|Excel  <br/> |**Touch Bar 支援：** 與您目前操作最為相關的命令，都可用觸控操作。(僅相容於具有 Touch Bar 的 MacBook Pro。)   |
+|PowerPoint  <br/> |**Touch Bar 支援：** 與您目前操作最為相關的命令，都可用觸控操作。(僅相容於具有 Touch Bar 的 MacBook Pro。)   |
 |Microsoft AutoUpdate  <br/> ||版本編號已更新至 3.8.4。 |
    
 ## <a name="january-2017-release"></a>2017 年 1 月版本
@@ -435,7 +451,7 @@ ms.locfileid: "25504995"
   
  *版本 15.30.0 (組建 17010700)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**非安全性更新**|
 |:-----|:-----|:-----|
@@ -457,7 +473,7 @@ ms.locfileid: "25504995"
   
  *版本 15.29.0 (組建 16120900)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**非安全性更新**|**安全性更新**|
 |:-----|:-----|:-----|:-----|
@@ -465,7 +481,7 @@ ms.locfileid: "25504995"
 |Excel  <br/> | 建立可存取的文件以及使用 VoiceOver 和其他輔助技術來讀取及編輯文件的支援已最佳化。[深入了解](https://support.office.com/article/1d014a46-3416-413d-909d-51c817e83580#PickTab=Mac) <br/> | 修正了在使用「資料驗證」時若在錯誤訊息方塊中輸入文字則會導致 Excel 當機的問題。  <br/> |Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 的安全性更新 (3204068)   |
 |PowerPoint  <br/> | 建立可存取的文件以及使用 VoiceOver 和其他輔助技術來讀取及編輯文件的支援已最佳化。[深入了解](https://support.office.com/article/8f6382e8-280e-4c33-9fc0-1cd98065aca7) |
 |Office 套件  <br/> | 增加了三種支援語言：希臘文、匈牙利文和斯洛伐克文  <br/> ||Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 的安全性更新 (3204068)  |
-|Microsoft AutoUpdate  <br/> || 版本編號已更新至 3.8.2。  <br/> 改善了可靠性並修正小錯誤。  <br/> |Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 的安全性更新 (3204068)  |
+|Microsoft AutoUpdate  <br/> || -版本編號已更新至 3.8.2。  <br/> -改善了相容性並修正小幅的錯誤。  <br/> |Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/MS16-148)：Microsoft Office 的安全性更新 (3204068)  |
    
 ## <a name="november-2016-release"></a>2016 年 11 月版本
 
@@ -491,7 +507,7 @@ ms.locfileid: "25504995"
   
  *版本 15.28.0 (組建 16111300)* 
   
-本版本提供以下更新。
+這個版本提供下列更新。
   
 |**應用程式**|**功能更新**|**非安全性更新**|**安全性更新**|
 |:-----|:-----|:-----|:-----|
@@ -499,8 +515,8 @@ ms.locfileid: "25504995"
 |Excel  <br/> || 修正了 Excel 無法將變更儲存於特定企業儲存體組態 (例如 NetApp FAS 裝置) 的長時間執行問題。Excel 現已採用與 Word 相同的檔案儲存模式。  <br/> |Microsoft 資訊安全佈告欄 [MS16-133](https://technet.microsoft.com/library/security/MS16-133)：Microsoft Office 的安全性更新 (3199168)  <br/> |
 |PowerPoint  <br/> |檢視使用 PowerPoint 2016 for Windows 中的縮放命令建立的互動式摘要和自動瀏覽連結。  <br/> | 修正了影像未呈現並且取代為參照 rID# 之錯誤的問題。  ||
 |Outlook  <br/> |找出並修正了使用協助工具檢查程式撰寫郵件或邀請時所發生的協助工具問題。[深入了解](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> | 修正了撰寫電子郵件時的自動語言偵測問題。 ||
-|Office 套件  <br/> || - 對於需要協助工具的使用者做了重大改善。  <br/><br/>  - Microsoft 錯誤報告可設定為將最新的損毀記錄儲存至磁碟 (預設寫入 com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE)。 <br/> <br/>  - 為 E1/K1 使用者提供更明確的啟動訊息。不會再對發生錯誤的使用者提供建議並鼓勵他們進行僅供檢視體驗。  <br/><br/> - 變更安裝程式和更新程式檔案名稱格式。例如，以 Microsoft_Office_2016_15.28.16111300_Installer.pkg 取代 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
-|Microsoft AutoUpdate  <br/> |納入可自動偵測、下載及安裝更新的新選項。  <br/> | 版本編號已更新至 3.8.1。  <br/> <br/>- 修正了在安裝舊版 Microsoft Silverlight 的情況下 (尤其是以 Null LCID 註冊 Silverlight 時)，MAU 可能會當機的問題。  <br/><br/>  - 修正了在使用 ManifestServer 喜好設定時 MAU 可能會當機的問題。  <br/><br/> - Microsoft AU Daemon 套件包的顯示名稱變更為 "Microsoft Update Assistant"。  <br/><br/> - 2016 應用程式的 MAU XML 摘要不再包含觸發程序字典，而需仰賴 "Update Version" 進行版本偵測。  <br/><br/> - MAU 現在會在應用程式更新視窗中顯示完整的版本字串。例如 15.28.16110300，而非只有 15.28。  ||
+|Office 套件  <br/> || - 對於需要協助工具的使用者做了重大改善。  <br/><br/>  -可設定 Microsoft 錯誤報告，將最新的損毀記錄儲存至磁碟 (defaults write com.microsofterrorreporting IsStoreLastCrashEnabled -bool TRUE)。 <br/> <br/>  - 為 E1/K1 使用者提供更明確的啟動訊息。不會再對發生錯誤的使用者提供建議，並鼓勵他們進行僅供檢視體驗。  <br/><br/> -安裝程式和更新程式檔案名稱格式變更。例如，以 Microsoft_Office_2016_15.28.16111300_Installer.pkg 取代 Microsoft_Office_2016_15.28.0_161113_Installer.pkg。  ||
+|Microsoft AutoUpdate  <br/> |納入可自動偵測、下載及安裝更新的新選項。  <br/> | -版本編號已更新至 3.8.1。  <br/> <br/>-修正了在安裝舊版 Microsoft Silverlight 的情況下，尤其是以 Null LCID 註冊 Silverlight 時，MAU 可能會當機的問題。  <br/><br/>  -修正了在使用 ManifestServer 喜好設定時，MAU 可能會當機的問題。  <br/><br/> -Microsoft AU Daemon 套件組合的顯示名稱變更為 "Microsoft Update Assistant"。  <br/><br/> -2016 應用程式的 MAU XML 摘要不再包含觸發字典，而需仰賴 "更新版本" 進行版本偵測。  <br/><br/> -MAU 會在應用程式更新視窗中顯示完整的版本字串。例如 15.28.16110300，而非只有 15.28。  ||
    
 
    
