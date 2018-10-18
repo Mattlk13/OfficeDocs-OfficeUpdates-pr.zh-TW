@@ -3,19 +3,19 @@ title: 每月管道版本 2018 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/11/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365  2018  專業增強版的每月通道版本的版本資訊
-ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
-ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
+ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2018
-ms.locfileid: "25504985"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607350"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018年每月管道版本的版本資訊
 
@@ -23,9 +23,16 @@ ms.locfileid: "25504985"
  
  > [!NOTE]
 > - 下列也會提供有關針對 Visio Pro for Office 365 及 Project Online 桌面用戶端的新功能、 安全性更新及非安全性更新的資訊。
-> - 此資訊也適用於 Office 365 商務版。Office 365 商務版是 Office 365 方案隨附的 Office 版本（例如：商務進階版）。
+> - 此資訊也適用於 Office 365 商務版。Office 365 商務版是 Office 365 方案隨附的 Office 版本，例如：商務進階版。
 
-## <a name="version-1809-october-9"></a>版本 1809年： 年 10 月 9 日
+## <a name="version-1809-october-16"></a>版本 1809：10 月 16 日
+*版本 1809 （組建 10827.20181）* 
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新 
+-  修正了各種效能問題。
+
+
+## <a name="version-1809-october-9"></a>版本 1809年: 10 月 9 日
 *版本 1809 （組建 10827.20150）*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -51,22 +58,22 @@ ms.locfileid: "25504985"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 - **快速查閱**已加速 VLOOKUP、 HLOOKUP 和比對計算功能，以便快速取得解答。[深入了解](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **呼叫所有的 Get & Transform 粉絲**如果您經常使用 Get & Transform ，會很樂意知道範例欄位功能已經改善了。許多連接器也已最佳化了。[深入了解](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **功能區圖示已有新的外觀** 不用擔心，所有功能的運作方式都和以前一樣，而且在各種尺寸的畫面中都看起來比以前更好。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能區圖示有新的外觀** 不要擔心，每個項目運作方式都相同。此外，他們在所有大小的螢幕上看起來都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **新功能搶先看**在推出之前試用全新的使用者體驗，並告訴我們您的想法。[深入了解](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **請參閱安全連結後面的 URL** 安全連結可保護您免於電子郵件隱藏的超連結病毒，但安全連結也會隱藏原始的超連結。現在只要將滑鼠懸停在URL上，即使受安全連結保護，也可檢視原始連結。
 - **取得搜尋拼字建議的結果** 執行搜尋之後，Outlook 會提供建議的搜尋結果和拼字校正。
-- **功能區圖示已有新的外觀** 不用擔心，所有功能的運作方式都和以前一樣，而且在各種尺寸的畫面中都看起來比以前更好。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能區圖示有新的外觀** 不要擔心，每個項目運作方式都相同。此外，他們在所有大小的螢幕上看起來都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
-- **投影片可持續播放** 插入動畫 3D 圖形可觀看心跳、行星軌道，以及暴龍擄掠全螢幕。[深入了解](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **功能區圖示已有新的外觀** 不用擔心，所有功能的運作方式都和以前一樣。 此外，它們更適合顯示在各種尺寸的畫面上。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **投影片可持續播放** 插入動畫 3D 圖形可觀看心跳、行星軌道，以及暴龍在整個螢幕横冲直撞。[深入了解](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **功能區圖示有新的外觀** 不要擔心，每個項目運作方式都相同。此外，他們在所有大小的螢幕上看起來都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **獲得它們的關注\@提示**使用 @評論提示讓同事知道您需要他們提供資訊。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
-- **您的功能區圖示已有新外觀** 不用擔心，所有功能的運作方式都和以前一樣。​ 此外，它們更適合顯示在各種尺寸的畫面上。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **方程式編輯器轉換程式** 轉換程式可以讓使用者使用 Microsoft 方程式編輯器將其所建立的方程式轉換成 Office Math ML 格式，以方便進行編輯。
+- **功能區圖示有新的外觀** 不要擔心，每個項目運作方式都相同。此外，他們在所有大小的螢幕上看起來都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **方程式編輯器轉換程式 **轉換程式可以讓使用者使用 Microsoft 方程式編輯器將其所建立的方程式轉換成 Office Math ML 格式，以方便進行編輯。
 
 ## <a name="version-1808-september-11"></a>版本 1808： 9月11日
 *版本 1808 (組建 10730.20102)*

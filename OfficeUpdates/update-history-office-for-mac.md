@@ -3,19 +3,19 @@ title: Mac 版 Office 的更新記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 的更新資訊，包括套件下載連結與更新記錄
-ms.openlocfilehash: 6c4f45903c180a2be6c6edf0ec0b0e7ae49098eb
-ms.sourcegitcommit: 6f2752d626a3c59bcfa984d4351e944cad171b8d
+ms.openlocfilehash: 388da8841fc6cfd42bb9eaf2d087d104e980273c
+ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/17/2018
-ms.locfileid: "25578934"
+ms.lasthandoff: 10/18/2018
+ms.locfileid: "25607340"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新記錄
 
@@ -24,12 +24,12 @@ Office 365 訂閱隨贈的 Mac 版 Office 會定期更新並提供全新功能�
 
 下表摘要列出Mac 版 Office 最新版本的相關資訊。
 
-|**目前版本**|**釋放日期**|**下載連結**|**詳細資訊**|
+|**目前版本**|**發行日期**|**下載連結**|**更多資訊**|
 |:-----|:-----|:-----|:-----|
 16.18 (18101400)  <br/> |2018 年 10 月 16日  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[版本資訊](release-notes-office-for-mac.md#october-2018-release) <br/> |
   
 > [!NOTE]
-> - 基於安全考量，Microsoft 已取代 SHA-1 使用。 [深入了解](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
+> - 基於安全考量，Microsoft 已取代 SHA-1 的使用。[了解更多](https://docs.microsoft.com/en-us/security-updates/SecurityAdvisories/2017/4010323)
 > - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也同樣適用於 Office 2019 for Mac。Office 2019 for Mac 是使用者透過零售商店或大量授權合約一次性購買取得的 Office for Mac 版本。
 > - 16.16 或較早版本的更新記錄資訊也同樣適用於 Office 2016 for Mac。Office 2016 for Mac 也是用戶可透過一次性購買取得的Mac 版 Office。16.16 或較早版本可透過 Office 2016 for Mac 的大量授權啟用。但是，16.17 或更新版本則無法透過 Office 2016 for Mac 的大量授權啟用。如需了解 9 月以後釋出的  Office 2016 for Mac，請參閱[Office 2016 for Mac 的版本資訊](release-notes-office-2016-mac.md)
 > - 如需深入了解 Mac 版 Office 的全新功能、安全性更新和非安全性更新，請參閱[Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。
@@ -54,13 +54,13 @@ Office 365 訂閱隨贈的 Mac 版 Office 會定期更新並提供全新功能�
 
 Microsoft 透過下表提供 IT 專業人員可能會感興趣的其他 Mac 程式的最新套件（包括下載連結）。在版本號碼後面，會用括號以 YYMMDD 格式列出組建日期。 
   
-|**程式**|**版本**|**套件**|**SHA-1 雜湊**|**詳細資訊**|
+|**程式**|**版本**|**套件**|**更多資訊**|**SHA-1/ SHA-256 雜湊**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | 此更新套件為 64 位元。 <br/><br/>[MAU 的版本歷程記錄](release-history-microsoft-autoupdate.md) |
-|商務用 Skype  <br/> |16.22.0.160 <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |最新版本已於 2018 年 10 月 12 日發行。 <br/><br/>[最新的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|遠端桌面 | 10.2.2 (1291)  | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | 此安裝套件為 64 位元。 <br/> <br/>[全新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
-|Intune 公司入口網站 |1.5 (52.1805002.000) [180509] | [下載](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Microsoft Intune 的全新功能](https://docs.microsoft.com/intune/whats-new)|
-|Microsoft SharePoint 內部部署的 Safari 瀏覽器外掛程式 (適用於 Mac 版 Office 2016)  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | 此安裝套件為 64 位元。  <br/> |
+|Microsoft AutoUpdate (MAU)  <br/> |4.4 (18101400)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   此更新套件為 64 位元。 <br/><br/>[MAU 的版本歷程記錄](release-history-microsoft-autoupdate.md)<br/> |258A04EBC0359C2D6E3691B03200D3DCBF4DEE65CE08B9E3A78AC0469D416B59  <br/>|
+|商務用 Skype  <br/> |16.22.0.160 <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版本已於 2018 年 10 月 12 日發行。 <br/><br/>[最近的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 0D12A7C2D31FC9D9438908B1F3D4448DEC41932D <br/> |
+|遠端桌面 | 10.2.2 (1291)  | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | 此安裝套件為 64 位元。 <br/> <br/>[全新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  a9df9b5d37707d0eeca3c9368d1219726f323d99 <br/> |
+|Intune 公司入口網站 |1.5 (52.1805002.000) [180509] | [下載](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 的全新功能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
+|適用於 Mac 版 Office 2016 的 Microsoft SharePoint 內部部署的 Safari 瀏覽器外掛程式  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安裝套件為 64 位元。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Mac 版 Office 的發行歷程記錄
@@ -70,7 +70,7 @@ Microsoft 透過下表提供 IT 專業人員可能會感興趣的其他 Mac 程�
 > [!NOTE]
 > 只有最新版本會提供下載連結。
   
-|**釋放日期**|**版本**|**詳細資訊**|**安裝套件**|**更新套件**|
+|**發行日期**|**版本**|**更多資訊**|**安裝套件**|**更新套件**|
 |:-----|:-----|:-----|:-----|:-----|
 |2018 年 10 月 16日  <br/> |16.18 (18101400)  <br/> |[版本資訊](release-notes-office-for-mac.md#october-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.18.18101400_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.18.18101400_Updater.pkg) <br/> |
 |2018 年 9 月 11 日  <br/> |16.17.0 (18090901)  <br/> |[版本資訊](release-notes-office-for-mac.md#september-2018-release) <br/> |[Office 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Office_16.17.18090901_Installer.pkg) <br/>  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg)、[Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg)、[PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg)、[Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg)、[OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.17.18090901_Updater.pkg) <br/> |
