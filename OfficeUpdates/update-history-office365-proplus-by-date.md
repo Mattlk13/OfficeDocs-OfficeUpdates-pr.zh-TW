@@ -3,38 +3,50 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607320"
+ms.locfileid: "25638173"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
-下表提供透過下列更新通道發行 Office 365 專業增強版更新的版本和組建編號清單：每月、半年 (已設定目標) 和半年。表格中的每個項目都可直接連結有關版本的版本資訊。版本資訊將提供與 Office 365 專業增強版更新有關的功能、安全性更新和非安全性更新等相關資訊。
+Office 365 專業增強版會定期以新功能、安全性更新與非安全性更新進行更新。這些更新會使用 [更新通道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)來推出。每個更新通道中的每個版本都有指派的版本號碼和組建編號。 
 
 
 > [!NOTE]
-> - 這些版本和組建編號也同樣適用於 Office 365 商務版、適用Office 365的 Visio 專業版與 Project Online 桌面用戶端。Office 365 商務版是部分 Office 365 方案附隨的 Office 版本，例如商務進階版。
+> - 這些版本和組建編號也同樣適用於 Office 365 商務版、適用 Office 365 的 Visio 專業版與 Project Online 桌面用戶端。Office 365 商務版是部分 Office 365 方案附隨的 Office 版本，例如商務進階版。
 > - 資料表將依發行日期排序，最新的發行日期將列在最前面。 
-> - 以粗體文字顯示的版本和組建編號，代表其更新通道最新的版本和組建編號。
 > - 如需更新通道的詳細資訊，請參閱 [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
+針對每個更新通道，下表列出支援的版本及最新版的組建編號。 
+ 
+|**通道**|**版本**|**組建**|**發行日期**|**支援之前的版本**|
+|:-----|:-----|:-----|:-----|:-----|
+|每月  <br/> |1809  <br/> |10827.20181 <br/> | 2018 年 10 月 16日  <br/> |發行版本 1810 <br/>|
+|半年 (已設定目標)  <br/> |1808  <br/> |10730.20155 <br/> | 2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
+|半年 <br/> |1803  <br/> | 9126.2295<br/> |2018 年 10 月 9 日  <br/> | 2019年12月10日 <br/>|
+|半年 <br/> |1708  <br/> |8431.2316  <br/> |2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
+
+若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小資訊，請參閱 [更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
+
+
+下表提供透過下列更新通道發行 Office 365 專業增強版每個更新的版本和組建編號清單：每月、半年 (已設定目標) 和半年。表格中的每個項目都可直接連結有關版本的版本資訊。版本資訊提供與 Office 365 專業增強版更新有關的功能、安全性更新和非安全性更新等相關資訊。
 
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018 年|10 月 16 日 |[**版本 1809 （組建 10827.20181）**](monthly-channel-2018.md#version-1809-october-16)| | |
-|2018 年|10月9日 |[版本 1809 （組建 10827.20150）](monthly-channel-2018.md#version-1809-october-9)|[**版本 1808 (組建 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**版本 1803 (組建 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [版本 1708 (組建 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
-|2018 年|9 月 27 日   |[版本 1809 （組建 10827.20138）](monthly-channel-2018.md#version-1809-september-27)| | |
+|2018 年|10 月 16 日 |[版本 1809 （組建 10827.20181）](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018 年|10月9日 |[版本 1809 （組建 10827.20150）](monthly-channel-2018.md#version-1809-october-9)|[版本 1808 (組建 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[版本 1803 (組建 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [版本 1708 (組建 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018年|9 月 27 日   |[版本 1809 （組建 10827.20138）](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018 年|9 月 11 日   |[版本 1808 (組建 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[版本 1808 (組建 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[1803 版 (組建 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [1708 版 (組建 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018 年|9 月 5 日   |[版本 1808 （組建 10730.20088）](monthly-channel-2018.md#version-1808-september-5) | | |
 |2018 年|8 月 14 日   |[版本1807 (組建 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[版本 1803 (組建 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803 (組建 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [1708 版 (組建 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |

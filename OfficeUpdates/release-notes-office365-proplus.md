@@ -10,35 +10,21 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道最新發行的清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: f4b6580d0466a6a04bba6f22f98ccdfa0859d1b4
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607310"
+ms.locfileid: "25638153"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
-Office 365 專業增強版會定期以新功能、安全性更新與非安全性更新進行更新。這些更新會使用[更新通道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)來推出。每個更新通道中的每個版本都有指派的版本號碼和組建編號。 
-
-下表列出每個更新管道的支援版本及最新組建編號。組建編號會直接連結至該版本的版本資訊。 
-
-  
-|**通道**|**版本**|**組建**|**發行日期**|**支援之前的版本**|
-|:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1809  <br/> |[10827.20181](monthly-channel-2018.md#version-1809-october-16)  <br/> | 2018 年 10 月 16日  <br/> |發行版本 1810 <br/>|
-|半年 (已設定目標)  <br/> |1808  <br/> |[10730.20155](semi-annual-channel-targeted-2018.md#version-1808-october-9)  <br/> | 2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
-|半年 <br/> |1803  <br/> | [9126.2295](semi-annual-channel-2018.md#version-1803-october-9) <br/> |2018 年 10 月 9 日  <br/> | 2019年12月10日 <br/>|
-|半年 <br/> |1708  <br/> |[8431.2316](semi-annual-channel-2018.md#version-1708-october-9)  <br/> |2018 年 10 月 9 日  <br/> | 2019年3月13日 <br/>|
-
-若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小資訊，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
-
 > [!NOTE]
-> - 這些版本號碼和組建編號也適用於 Office 365 商務版、Visio Pro for Office 365 與 Project Online 桌面用戶端。Office 365 商務版是隨附於部分 Office 365 方案的 Office 版本，例如商務進階版。
-> - 未在表格中列出的更新管道版本則已不再受到支援。例如，每月通道的版本 1704 已不受支援。 
+> - 表格列出的每個更新通道支援的版本已移至 [Office 365 專業增強版的更新歷程記錄（依日期列出） ](update-history-office365-proplus-by-date.md)。
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本更新歷程記錄
+
+## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版版本的更新歷程記錄
 
 如需完整版本清單，請參閱下列文章：
  - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
