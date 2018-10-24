@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: a27ee420c88373802be4ec0b874ec5f7a70175fa
-ms.sourcegitcommit: f9fd919ac17ebaaea3d9c382f66210fe267b1cdb
+ms.openlocfilehash: 9c39c4845d600c86e2f0019fe4095ae3e64417da
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2018
-ms.locfileid: "25676970"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718977"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -32,6 +32,7 @@ ms.locfileid: "25676970"
 > - 16.16 以前的版本資訊也同樣適用於 Office 2016 for Mac，也是使用者可一次性購買的 Mac 版 Office。16.16 以前版本可透過 Office 2016 for Mac 大量授權合約啟用。但 16.17 以上版本則無法以 Office 2016 for Mac 大量授權啟用。有關 9 月以後釋出的  Office 2016 for Mac，請參閱 [Office 2016 for Mac 的版本資訊](release-notes-office-2016-mac.md)
 > - 只有最新版本會提供下載連結。
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
+> - 我們通常在每月通道的一段時間內會推出功能（有時偶數修正）。 這讓我們確保在釋出功能給較多對象前事項運作很順利。 因此，如果您沒有看到如下所述的某個項目，請不要擔心，您最後將會看到。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="october-2018-release"></a>2018 年 10 月版本
 
@@ -399,7 +400,7 @@ ms.locfileid: "25676970"
   
 |**應用程式**|**非安全性更新**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | - 修正了在選取 「自動檢查」 時無法傳送自動更新通知的重大問題。  <br/><br/>  - 修正了 AutoUpdate 在 OS X 10.10 上的當機問題。  <br/><br/> - 修正了在更新擱置時，應用程式不會啟動的問題。   <br/><br/> **重要：** 如果您已更新至 Microsoft AutoUpdate 3.9.0，且將 AutoUpdate 設定設為 [自動檢查]，則必須使用下列其中一種方法手動更新至 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 移至 **[說明]**  >  ** 檢查更新**，然後選擇 **檢查更新**。  <br/><br/>  - 移至**說明 ** >   **檢查更新 **，然後選取 **自動下載並安裝 **。  |
+|Microsoft AutoUpdate 3.9.1  <br/> | - 修正了在選取「自動檢查」時無法傳送自動更新通知的重大問題。  <br/><br/>  - 修正了 AutoUpdate 在 OS X 10.10 上的當機問題。  <br/><br/> - 修正了在更新擱置時，應用程式不會啟動的問題。   <br/><br/> **重要：** 如果您已更新至 Microsoft AutoUpdate 3.9.0，且將 AutoUpdate 設定設為 [自動檢查]，則必須使用下列其中一種方法手動更新至 Microsoft AutoUpdate 3.9.1：  <br/><br/>  - 移至**說明**  >  ** 檢查更新**，然後選擇 **檢查更新**。  <br/><br/>  - 移至**說明 ** >   **檢查更新 **，然後選取 **自動下載並安裝 **。  |
    
 ## <a name="april-2017-release"></a>2017 年 4 月版本
 
