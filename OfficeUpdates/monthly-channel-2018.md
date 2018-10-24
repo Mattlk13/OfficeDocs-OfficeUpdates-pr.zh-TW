@@ -3,19 +3,19 @@ title: 每月管道版本 2018 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/23/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365  2018  專業增強版的每月通道版本的版本資訊
-ms.openlocfilehash: c1d7be28e55cb87e07b5e2b36a3b6bd59683715d
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: a14a4c99d586c58fc118182148acaf54adb37673
+ms.sourcegitcommit: 3744de1936f2f9bc46a3883f3ae684339630502f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607350"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25718967"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018年每月管道版本的版本資訊
 
@@ -24,6 +24,8 @@ ms.locfileid: "25607350"
  > [!NOTE]
 > - 下列也會提供有關針對 Visio Pro for Office 365 及 Project Online 桌面用戶端的新功能、 安全性更新及非安全性更新的資訊。
 > - 此資訊也適用於 Office 365 商務版。Office 365 商務版是 Office 365 方案隨附的 Office 版本，例如：商務進階版。
+> - 我們通常在每個月的一段時間內會推出功能（有時偶數修正）。 這讓我們確保在釋出功能給較多對象前事項運作很順利。 因此，如果您沒有看到如下所述的某個項目，請不要擔心，您最後將會看到。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1809-october-16"></a>版本 1809：10 月 16 日
 *版本 1809 （組建 10827.20181）* 
@@ -58,13 +60,13 @@ ms.locfileid: "25607350"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 - **快速查閱**已加速 VLOOKUP、 HLOOKUP 和比對計算功能，以便快速取得解答。[深入了解](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **呼叫所有的 Get & Transform 粉絲**如果您經常使用 Get & Transform ，會很樂意知道範例欄位功能已經改善了。許多連接器也已最佳化了。[深入了解](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
-- **功能區圖示有新的外觀** 不要擔心，每個項目運作方式都相同。此外，他們在所有大小的螢幕上看起來都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能區圖示已有新的外觀** 不用擔心，所有功能的運作方式都和以前一樣，而且在各種尺寸的畫面中都看起來比以前更好。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **新功能搶先看**在推出之前試用全新的使用者體驗，並告訴我們您的想法。[深入了解](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
 - **請參閱安全連結後面的 URL** 安全連結可保護您免於電子郵件隱藏的超連結病毒，但安全連結也會隱藏原始的超連結。現在只要將滑鼠懸停在URL上，即使受安全連結保護，也可檢視原始連結。
 - **取得搜尋拼字建議的結果** 執行搜尋之後，Outlook 會提供建議的搜尋結果和拼字校正。
-- **功能區圖示有新的外觀** 不要擔心，每個項目運作方式都相同。此外，他們在所有大小的螢幕上看起來都很棒。 [了解更多](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **功能區圖示已有新的外觀** 不用擔心，所有功能的運作方式都和以前一樣，而且在各種尺寸的畫面中都看起來比以前更好。 [深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 - **投影片可持續播放** 插入動畫 3D 圖形可觀看心跳、行星軌道，以及暴龍在整個螢幕横冲直撞。[深入了解](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
@@ -90,7 +92,7 @@ ms.locfileid: "25607350"
 
 
 ## <a name="version-1808-september-5"></a>版本 1808：9 月 5 日
-*版本 1808 （組建 10730.20088）*
+*版本 1808 (組建 10730.20088)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
  - **重新整理、 重新連結，或移除已連結的資料表** 已更新的 Linked Table Manager 是管理所有資料來源及連結資料表的地方。 [深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
