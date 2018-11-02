@@ -1,6 +1,5 @@
 # Office 365 專業增強版
 ## [（依日期） 的更新歷程記錄](update-history-office365-proplus-by-date.md)
-## [更新歷程記錄 （版本）](update-history-office365-proplus-by-version.md)
 ## [更新大小](download-sizes-office365-proplus-updates.md)
 
 ## [版本資訊](release-notes-office365-proplus.md)
@@ -8,18 +7,18 @@
 ### 每月通道
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
-#### [2016 年](monthly-channel-2016.md)
+#### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
 ### 半年通道
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
-#### [2016 年](semi-annual-channel-2016.md)
+#### [2016](semi-annual-channel-2016.md)
 
 ### 半年通道 (已設定目標)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
-#### [2016 年](semi-annual-channel-targeted-2016.md)
+#### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
 # Office for Mac
@@ -44,7 +43,7 @@
 ## [SharePoint 更新](sharepoint-updates.md)
 ## [Skype Business Server 更新](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
-# 相關連結
+# 相關的連結
 ## [Windows 10 版本](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 技術支援週期原則](https://support.microsoft.com/lifecycle)
 
