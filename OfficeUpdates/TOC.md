@@ -21,7 +21,7 @@
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
-# Office for Mac
+# Mac 版 Office
 ## [更新歷程記錄 (Office 365、 2019年)](update-history-office-for-mac.md)
 ## [版本資訊 (Office 365、 2019年)](release-notes-office-for-mac.md)
 ## [版本資訊 (2016)](release-notes-office-2016-mac.md)
@@ -38,7 +38,7 @@
 ## [Office 2010 更新](update-history-office-2010-click-to-run.md)
 
 # Office Server 產品
-## [Exchange Server 更新](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+## [Exchange Server 更新](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 更新](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
 ## [Skype Business Server 更新](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
