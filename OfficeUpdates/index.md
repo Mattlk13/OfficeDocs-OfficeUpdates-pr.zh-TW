@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: 提供 IT 專業人員的連結至 Office 版本的 Office 365 ProPlus、 Office for Mac 永久 Office 與 Office Server 內容產品
-ms.openlocfilehash: 1d4801133b50bd1de838c43afc564c88237a6c50
-ms.sourcegitcommit: 8153b40a75720fd5d01f43c898ea227f17f7fbec
+ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25018516"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024557"
 ---
 # <a name="office-updates"></a>Office 更新
 
@@ -46,7 +46,7 @@ ms.locfileid: "25018516"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office for Mac</h3>
+                        <h3>Mac 版 Office</h3>
                         <p><a href="release-notes-office-for-mac.md">版本資訊 (Office 365、 2019年)</a></p>
                         <p><a href="update-history-office-for-mac.md">更新歷程記錄 (Office 365、 2019年)</a></p>
                         <p><a href="release-notes-office-2016-mac.md">版本資訊 (2016)</a></p>
@@ -62,7 +62,7 @@ ms.locfileid: "25018516"
                 <div class="card">
                     <div class="cardText">
                         <h3>Office Server 產品</h3>
-                        <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Exchange Server 更新</a></p>
+                        <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Exchange Server 更新</a></p>
                         <p><a href="project-server-updates.md">Project Server 更新</a></p>
                         <p><a href="sharepoint-updates.md">SharePoint Server 更新</a></p>
                         <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype Business Server 更新</a></p>
@@ -97,8 +97,8 @@ ms.locfileid: "25018516"
                     <div class="cardText">
                         <h3>其他 Office 資源</h3>
                             <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365 的新功能？</a></p>
-                            <p><a href="https://products.office.com/business/office-365-roadmap">Office 365 藍圖</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">保持上的 Office 365 變更功能</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Office 365 藍圖</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">隨時掌握 Office 365 的變更</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office 部落格</a></p>
                     </div>
                 </div>
