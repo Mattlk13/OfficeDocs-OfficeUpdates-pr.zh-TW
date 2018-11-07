@@ -12,17 +12,17 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: 在單一位置尋找及管理 Project Server 2013 和 Project Server 2010 的更新。使用此頁面上的連結以取得更新的詳細資訊，並下載其本身的更新。
-ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+description: 在單一位置尋找及管理 Project Server 2013 和 Project Server 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
+ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456697"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024587"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
-使用此頁面上的連結取得 Project Server 2013 和 Project Server 2010 更新的詳細資訊，並下載其本身的更新。 
+使用此頁面上的連結取得 Project Server 2013 和 Project Server 2010 更新的詳細資訊，並下載更新本身。 
 > [!NOTE]
 > 如需 Project Server 2016 的更新資訊，請參閱 [SharePoint 更新](sharepoint-updates.md)，因為 Project Server 2016 是 SharePoint Server 2016 企業版的一部分。
   
@@ -132,5 +132,5 @@ ms.locfileid: "25456697"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Exchange Server 更新](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [Exchange Server 更新](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
 - [SharePoint 更新](sharepoint-updates.md)
