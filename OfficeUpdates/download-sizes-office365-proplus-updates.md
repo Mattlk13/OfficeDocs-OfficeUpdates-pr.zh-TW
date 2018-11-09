@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 51e73f96f003e915c46031c0e39ccfda17abc885
-ms.sourcegitcommit: 6658c0f5db7d3600c6c6a3dd8030ee1f1d5c72a4
+ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857151"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031662"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -35,6 +35,36 @@ ms.locfileid: "25857151"
 > - 只會列出最近四個月的版本。
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
+
+
+## <a name="november-11-2018"></a>2018 年 11 月 11日
+
+### <a name="monthly-channel"></a>每月通道
+
+暫訂發行為版本 1810 <(組建 11001.20094)>。 
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1809 (組建 10827.20181)  <br/> |2018 年 10 月 16 日  <br/> |188<br/> |
+|版本 1809 (組建 11001.20074)  <br/> |2018 年 10 月 29 日  <br/> |61<br/> |
+
+### <a name="semi-annual-channel"></a>半年通道
+
+暫訂發行為版本 1803 <(組建 9126.2315)>。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1803 (組建 9126.2282) <br/> |2018 年 10 月 9 日  <br/> |61 <br/> |
+|版本 1803 (組建 9126.2282)  <br/> |2018 年 9 月 11 日  <br/> |58<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
+
+暫訂發行為版本 1808 <(組建 10730.20205)>。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1803 (組建 10730.20102)  <br/> |2018 年 10 月 9 日  <br/> |92 <br/> |
+|版本 1808 (組建 10730.20102)  <br/> |2018 年 9 月 11 日  <br/>   |84  <br/>|
 
 ## <a name="october-29-2018"></a>2018 年 10 月 29 日
 

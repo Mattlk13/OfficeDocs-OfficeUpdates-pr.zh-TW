@@ -3,19 +3,19 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: c58289c4e240af9a182bd82fc253e7f0df57bf23
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841259"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031652"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -32,9 +32,9 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
 |每月  <br/> |1810  <br/> |11001.20074<br/> | 2018 年 10 月 29 日  <br/> |版本 1811 發行日期 <br/>|
-|半年 (已設定目標)  <br/> |1808  <br/> |10730.20155 <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2295<br/> |2018 年 10 月 9 日  <br/> | 2019 年 12 月 10 日 <br/>|
-|半年 <br/> |1708  <br/> |8431.2316  <br/> |2018 年 10 月 9 日  <br/> | 2019 年 3 月 13 日 <br/>|
+|半年 (已設定目標)  <br/> |1808  <br/> |10730.20155 <br/> | 2018 年 10 月 9 日  <br/> | 2019 年 3 月 12 日 <br/>|
+|半年 <br/> |1803  <br/> | 9126.2295<br/> |2018 年 10 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|半年 <br/> |1708  <br/> |8431.2316  <br/> |2018 年 10 月 9 日  <br/> |  2019 年 3 月 12 日 <br/>|
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
 

@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: dec4a8e8af5cc2cb4e15a47df3c9047f5e7cc8e4
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841249"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031642"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -33,6 +33,7 @@ ms.locfileid: "25841249"
 ### <a name="excel-feature-updates"></a>Excel：功能更新 
 
 - **使用註解共同作業：** 使用內建的回覆方塊試保持試算表中的交談正確。 [深入了解](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **股票報價唾手可得：** 擷取最新的股價、價格變化及其他新的股票資料類型。 並且地理位置也有新的資料類型。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 - **顯示圖片後面的內容：** 將圖片放在工作表中、挑選您的預設，並觀看透明度變更。 這就對了！ [深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **在資料編輯列中輕鬆編輯：** 您現在可以使用 CTRL + A，來選取儲存格或資料編輯列中的文字。 也改善了 Emoji 和其他複雜字元的支援。 [深入了解](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
