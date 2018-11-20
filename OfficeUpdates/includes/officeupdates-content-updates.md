@@ -21,7 +21,7 @@
 | 10/9/2018 | [Office 365 專業增強版更新的版本資訊](/OfficeUpdates/release-notes-office365-proplus) | 修改 |
 | 10/9/2018 | [2018 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2018) | 修改 |
 | 10/9/2018 | [2018 年半年通道 (已設定目標) 版本的版本資訊](/OfficeUpdates/semi-annual-channel-targeted-2018) | 修改 |
-| 10/9/2018 | [更新 Office 2019 歷程記錄](/OfficeUpdates/update-history-office-2019) | 新增 |
+| 10/9/2018 | [Office 2019 的更新歷程記錄](/OfficeUpdates/update-history-office-2019) | 新增 |
 | 10/9/2018 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改 |
 | 10/10/2018 | [2018 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2018) | 修改 |
 | 10/10/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改 |
@@ -39,7 +39,7 @@
 |------|------------|--------|
 | 10/16/2018 | [Mac 版 Office 的版本資訊](/OfficeUpdates/release-notes-office-for-mac) | 修改 |
 | 10/16/2018 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改 |
-| 10/16/2018 | [Office for Mac 的 2016年的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
+| 10/16/2018 | [Mac 版 Office 2016 的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
 | 10/17/2018 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改 |
 | 10/17/2018 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改 |
 | 10/17/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改 |
@@ -70,7 +70,7 @@
 | 10/29/2018 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改 |
 | 10/29/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改 |
 | 10/29/2018 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改 |
-| 10/30/2018 | [Office for Mac 的 2016年的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
+| 10/30/2018 | [Mac 版 Office 2016 的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
 | 10/30/2018 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改 |
 | 10/31/2018 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改 |
 | 10/31/2018 | Office 365 專業增強版的更新歷程記錄 (依版本列出) | 移除 |
@@ -89,3 +89,35 @@
 | 第 11/6/2018 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改 |
 | 第 11/6/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改 |
 | 第 11/9/2018 | [Microsoft AutoUpdate (MAU) 的版本歷程記錄](/OfficeUpdates/release-history-microsoft-autoupdate) | 修改 |
+
+
+## <a name="week-of-november-12-2018"></a>2018 年 11 月 12 日當週
+
+
+| 在發佈 |主題標題 | 變更 |
+|------|------------|--------|
+| 第 11/13/2018 | [Mac 版 Office 2016 的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
+| 第 11/13/2018 | [Mac 版 Office 的版本資訊](/OfficeUpdates/release-notes-office-for-mac) | 修改 |
+| 第 11/13/2018 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改 |
+| 第 11/13/2018 | [Office 2013 產品的最新的.msp 檔案的清單](/OfficeUpdates/msp-files-office-2013) | 修改 |
+| 第 11/13/2018 | [Office 2016 產品的最新的.msp 檔案的清單](/OfficeUpdates/msp-files-office-2016) | 修改 |
+| 第 11/13/2018 | [使用 Windows Installer (MSI) 的 Office 版本最新更新](/OfficeUpdates/office-updates-msi) | 修改 |
+| 第 11/13/2018 | [使用 Windows Installer (MSI) 的 Outlook 版本的最新更新](/OfficeUpdates/outlook-updates-msi) | 修改 |
+| 第 11/13/2018 | [Project Server 更新](/OfficeUpdates/project-server-updates) | 修改 |
+| 第 11/13/2018 | [SharePoint 更新](/OfficeUpdates/sharepoint-updates) | 修改 |
+| 第 11/13/2018 | [Office 2010 Click-隨選即用產品的更新歷程記錄](/OfficeUpdates/update-history-office-2010-click-to-run) | 修改 |
+| 第 11/13/2018 | [Office 2013 的更新歷程記錄](/OfficeUpdates/update-history-office-2013) | 修改 |
+| 第 11/13/2018 | [Office 2019 的更新歷程記錄](/OfficeUpdates/update-history-office-2019) | 修改 |
+| 第 11/13/2018 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改 |
+| 第 11/13/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改 |
+| 第 11/13/2018 | [2018 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2018) | 修改 |
+| 第 11/13/2018 | [2018 年半年通道 (已設定目標) 版本的版本資訊](/OfficeUpdates/semi-annual-channel-targeted-2018) | 修改 |
+| 第 11/13/2018 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改 |
+| 11/14/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改 |
+| 11/14/2018 | [Mac 版 Office 2016 的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
+| 11/14/2018 | [2018 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2018) | 修改 |
+| 11/14/2018 | [2018 年半年通道 (已設定目標) 版本的版本資訊](/OfficeUpdates/semi-annual-channel-targeted-2018) | 修改 |
+| 11/14/2018 | [Microsoft AutoUpdate (MAU) 的版本歷程記錄](/OfficeUpdates/release-history-microsoft-autoupdate) | 修改 |
+| 11/14/2018 | [Mac 版 Office 的版本資訊](/OfficeUpdates/release-notes-office-for-mac) | 修改 |
+| 11/14/2018 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改 |
+| 第 11/15/2018 | [Mac 版 Office 2016 的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改 |
