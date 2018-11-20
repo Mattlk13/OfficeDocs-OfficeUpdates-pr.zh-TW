@@ -3,7 +3,7 @@ title: Project Server 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在單一位置尋找及管理 Project Server 2013 和 Project Server 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
-ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: 138bb48526568fd0349f270b9ee7f4f89afaaf3d
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024587"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296613"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -30,6 +30,7 @@ ms.locfileid: "26024587"
   
 |**發行日期**|**KB 號碼**|
 |:-----|:-----|:-----|
+|2018 年 11 月  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
 |2018 年 10 月  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |2018 年 9 月  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |2018 年 8 月  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
@@ -81,6 +82,7 @@ ms.locfileid: "26024587"
 
 |**發行日期**|**KB 號碼**|
 |:-----|:-----|:-----|
+|2018 年 11 月  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |2018 年 10 月  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |2018 年 9 月  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |2018 年 8 月  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
