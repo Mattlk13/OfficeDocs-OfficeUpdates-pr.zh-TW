@@ -3,19 +3,19 @@ title: 2018 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526408"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618433"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -63,6 +63,10 @@ ms.locfileid: "26526408"
 - 修正此問題：使用者無法順利使用 [帳戶] 控制按鈕在自訂表單上切換帳戶。
 - 修正此問題：使用者使用 ScanPST 修復 OST/PST 檔案時發生當機。
 - 修正此問題：特定郵件上的 [副本:] 欄位無法顯示設定檔為線上模式的使用者。
+
+### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新 
+
+- 修正了可能發生的穩定性問題，包括同步處理和瀏覽至刪除的部分。
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新 
 
