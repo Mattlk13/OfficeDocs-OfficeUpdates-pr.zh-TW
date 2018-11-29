@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526388"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706647"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,6 +25,28 @@ ms.locfileid: "26526388"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>版本 1811：11 月 27 日
+*版本 1811 (組建 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access：功能更新
+
+- **繪製成黑色、繪製成灰色：** 依照您的喜好變更 Access 的外觀。有四個佈景主題可供選擇：彩色、深灰色、黑色或白色。[深入了解](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。[深入了解](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Outlook 非同步移動郵件：** 以非同步方式執行移動郵件，以提高 Outlook 使用者的生產力。
+- **開啟及關閉精美和焦點收件匣體驗：** 若已關閉 [焦點收件匣]，則未讀取的電子郵件會顯示在所有資料夾上，而不只是 [收件匣] 上。已新增 [排序方式標幟狀態]。焦點收件匣與搜尋的互動更好：在搜尋開始前，仍會保留 [焦點收件匣]。搜尋完成後顯示的「結果」文字。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **在印出的講義上看到投影片編號：** 將投影片編號新增至講義的列印複本。[深入了解](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **利用 [資訊位置] 中新公開的按鈕共用及上傳文件：**[共用]、[將路徑複製到剪貼簿] 及 [開啟檔案位置] 按鈕先前只能在文件儲存路徑後面存取。您現在可以在 [資訊位置] 中清楚地看到這些按鈕！瀏覽至 [檔案] > [資訊] 時通常會看到這些新按鈕。
+
 
 ## <a name="version-1810-november-13"></a>版本 1810：11 月 13 日
 *版本 1810 (組建 11001.20108)* 
@@ -213,7 +235,7 @@ ms.locfileid: "26526388"
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8378)：Microsoft Office 資訊洩漏弱點 
 
 ## <a name="version-1807-july-25"></a>版本 1807：7 月 25 日
-版本 1807 (組建 10325.20082)**
+*版本 1807 (組建 10325.20082)*
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能是因為以下的事件延遲：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
@@ -255,7 +277,7 @@ ms.locfileid: "26526388"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **改善儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **改善 SVG 支援：** 您可以插入已套用篩選的 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。

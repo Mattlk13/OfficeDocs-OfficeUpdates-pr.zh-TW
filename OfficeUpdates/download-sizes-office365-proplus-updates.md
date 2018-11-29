@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 28cd4f213edada1ecb0cb10f240dfa30c7d950c5
-ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
+ms.openlocfilehash: f57083dce6e2dcba5a728a92d634fa7a9ff4737a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "26299086"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706637"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -35,6 +35,17 @@ ms.locfileid: "26299086"
 > - 只會列出最近四個月的版本。
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
+
+## <a name="november-27-2018"></a>2018 年 11 月 27 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1811 (組建 11029.20079)。 
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1811 (組建 11001.20108)  <br/> |2018 年 11 月 13 日  <br/> |167<br/> |
+|版本 1810 (組建 11001.20074)  <br/> |2018 年 10 月 29 日  <br/> |166<br/> |
 
 
 ## <a name="november-13-2018"></a>2018 年 11 月 13 日

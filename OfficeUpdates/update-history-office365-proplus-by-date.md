@@ -3,19 +3,19 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 70fe3128638a8453b5156d47a8b626e0aa5692d8
-ms.sourcegitcommit: 9e7dba93366d357248b8b0af79ce436b0bd42c89
+ms.openlocfilehash: 60a0e8914a33ff22c72d81633018e5fd41b4aa82
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2018
-ms.locfileid: "26299076"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706627"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
  
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1810  <br/> |11001.20108<br/> | 2018 年 11 月 13 日  <br/> |版本 1811 發行日期 <br/>|
+|每月  <br/> |1811  <br/> |11029.20079<br/> | 2018 年 11 月 27 日  <br/> |版本 1812 發行日期 <br/>|
 |半年 (已設定目標)  <br/> |1808  <br/> |10730.20205 <br/> | 2018 年 11 月 13 日  <br/> | 2019 年 3 月 12 日 <br/>|
 |半年 <br/> |1803  <br/> | 9126.2315<br/> | 2018 年 11 月 13 日  <br/> |  2019 年 9 月 10 日 <br/>|
 |半年 <br/> |1708  <br/> | 8431.2329  <br/> | 2018 年 11 月 13 日  <br/> |  2019 年 3 月 12 日 <br/>|
@@ -44,6 +44,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018|11 月 27 日   |[版本 1811 (組建 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018|11 月 13 日 |[版本 1810 (組建 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[版本 1808 (組建 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[版本 1803 (組建 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [版本 1708 (組建 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018|10 月 29 日 |[版本 1810 (組建 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
 |2018|10 月 16 日 |[版本 1809 (組建 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
