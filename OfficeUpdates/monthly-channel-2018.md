@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706647"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987093"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -37,7 +37,8 @@ ms.locfileid: "26706647"
 
 - **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。[深入了解](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Outlook 非同步移動郵件：** 以非同步方式執行移動郵件，以提高 Outlook 使用者的生產力。
-- **開啟及關閉精美和焦點收件匣體驗：** 若已關閉 [焦點收件匣]，則未讀取的電子郵件會顯示在所有資料夾上，而不只是 [收件匣] 上。已新增 [排序方式標幟狀態]。焦點收件匣與搜尋的互動更好：在搜尋開始前，仍會保留 [焦點收件匣]。搜尋完成後顯示的「結果」文字。
+- **在 Outlook 中查看人們的 LinkedIn 詳細資料：** 現在，當您開啟連絡人的個人檔案卡片時，即可透過檢視 LinkedIn 個人檔案來深入了解連絡人。
+- **改善焦點收件匣的開啟和關閉體驗：** 對於沒有使用焦點收件匣的客戶，我們已在所有資料夾的郵件清單中恢復 [未讀取] 索引標籤。我們也新增了以旗標為依據的排序功能，讓您能更輕鬆地找到加上旗標的項目。最後，焦點收件匣有更好的互動搜尋模型：焦點收件匣會保留到使用者開始進行搜尋，然後我們在搜尋完成後顯示「結果」文字為止。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
