@@ -131,3 +131,16 @@
 | 第 11/19/2018 | [Mac 版 Office 2016 的版本資訊](/OfficeUpdates/release-notes-office-2016-mac) | 修改時間 |
 | 第 11/19/2018 | [2018 年半年通道 (已設定目標) 版本的版本資訊](/OfficeUpdates/semi-annual-channel-targeted-2018) | 修改時間 |
 | 第 11/19/2018 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改時間 |
+
+
+## <a name="week-of-november-26-2018"></a>2018 年 11 月 26 日當週
+
+
+| 發佈於 |主題標題 | 變更 |
+|------|------------|--------|
+| 第 11/27/2018 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改時間 |
+| 第 11/27/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改時間 |
+| 第 11/27/2018 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改時間 |
+| 11/29/2018 | [2018 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2018) | 修改時間 |
+| 11/29/2018 | [Office 365 專業增強版安全性更新的版本資訊](/OfficeUpdates/office365-proplus-security-updates) | 新增 |
+| 第 11/30/2018 | [Mac 版 Office 的版本資訊](/OfficeUpdates/release-notes-office-for-mac) | 修改時間 |
