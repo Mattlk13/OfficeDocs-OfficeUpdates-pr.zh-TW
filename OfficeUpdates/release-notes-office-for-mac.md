@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 328487e7090602cdcfbddea520d3b46e99ba4077
-ms.sourcegitcommit: 8f9a27b81ce0767c4ddf76d43a1c0ae335f5bed6
+ms.openlocfilehash: c38a599be2719cd869d4265c1a387ae1764d3635
+ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2018
-ms.locfileid: "27124024"
+ms.lasthandoff: 12/04/2018
+ms.locfileid: "27134264"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -82,7 +82,7 @@ ms.locfileid: "27124024"
 |Excel  <br/> |**使用筆跡繪圖：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字、畫圖以及反白。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度：** 輕鬆地插入3D 模型，然後再進行 360 度旋轉。[深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**自訂快速鍵回來了：** 我們聽到了！回應您的要求，我們已經恢復自訂快速鍵。[深入了解](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8429)：Microsoft Excel 資訊洩漏弱點 <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8331)：Microsoft Excel 遠端程式碼執行弱點 <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |<br/>**使用筆跡繪圖：** 使用滑鼠或觸控板、以及繪圖索引標籤上的畫筆來寫字、畫圖以及反白。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**插入3D 模型以查看所有角度：** 輕鬆地插入3D 模型，然後再進行 360 度旋轉。[深入了解](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**您選擇的字型就是他們會看到的字型：** 在您的檔案內嵌您的自訂字型，這樣一來，不管檔案到哪裡，你的字型也會跟著到哪裡。[深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.3  <br/> |||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.3  <br/> |||| 
 |Office 套件  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8332) Microsoft Graphics 遠端程式碼執行弱點 <br/>||
 
 ## <a name="august-2018-release"></a>2018 年 8 月版本
@@ -99,7 +99,7 @@ ms.locfileid: "27124024"
 |Excel  <br/> ||[CVE-2018-8375](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8375)：Microsoft Excel 遠端程式碼執行弱點  <br/>[CVE-2018-8382](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8382)：Microsoft Excel 資訊洩漏弱點  <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18081402_Updater.pkg) <br/>|
 |PowerPoint  <br/> |||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18081201_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18081201_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8412)：Microsoft AutoUpdate Office 提高權限弱點  <br/>|[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8412)：Microsoft AutoUpdate Office 提高權限弱點  <br/>| | 
 |Office 套件  <br/> ||||
 
 ## <a name="july-2018-release"></a>2018 年 7 月版本
@@ -116,7 +116,7 @@ ms.locfileid: "27124024"
 |Excel  <br/> |||[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**使用影片讓您的簡報更加生動：** 使用 YouTube 影片將即時動作新增至您的投影片，不用離開應用程式就可以檢視影片。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
 |Outlook  <br/> |**提升 Google 帳戶的安全性：** 安全性提升表示您不再需要允許存取「安全性較低的應用程式」或設定應用程式密碼，才能將您的 Google 帳戶新增至 Outlook。[深入了解](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b=Office_2016_for_Mac) <br/> ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.1  <br/> |更新到 Aria SDK 8.4。修正記憶體流失問題。<br/><br/>應用程式註冊的變更。現在支援 Office 2019 預覽。||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
+|Microsoft AutoUpdate 4.1  <br/> |更新到 Aria SDK 8.4。修正記憶體流失問題。<br/><br/>應用程式註冊的變更。現在支援 Office 2019 預覽。|| | 
 |Office 套件  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點  <br/> ||
 
 
@@ -142,7 +142,7 @@ ms.locfileid: "27124024"
 |Excel  <br/> |**快速填入資料：** 提供一些範例給「快速填入」，它就會為您填入資料。[深入了解](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **破除語言障礙：** 使用 Microsoft Translator 以另一種語言翻譯文字、片語或完整句子。[深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
 |PowerPoint  <br/> |**破除語言障礙：** 使用 Microsoft Translator 以另一種語言翻譯文字、片語或完整句子。[深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**以生動的色彩顯示超連結：** 超連結不再只是藍色。套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
 |Outlook  <br/> |**建立他人會記得的簽名：** 使用豐富的字型樣式、色彩、映像連結等等項目來展現您自己。[深入了解](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **建立群組並且共同作業：** 想要在 Outlook 中建立 Office 365 群組嗎？沒有問題！新增和移除成員也可以。在 Mac 上共同作業更簡單。[深入了解](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
-|Microsoft AutoUpdate 4.0  <br/> ||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18061000_Updater.pkg) <br/> |  
+|Microsoft AutoUpdate 4.0  <br/> | |  
 
 ## <a name="may-2018-release"></a>2018 年 5 月版本
 
@@ -178,7 +178,7 @@ ms.locfileid: "27124024"
 |Excel  <br/> |**在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **插入和編輯圖示：** 使用圖示在您的活頁簿中新增視覺效果，有多達 500 個圖示可供您插入及編輯。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**使用時間表篩選資料：** 輕輕滑動時間表篩選器的日期範圍，即可篩選樞紐分析表。[深入了解](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行弱點   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端程式碼執行弱點  <br/> ||
 |PowerPoint  <br/> |**在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 PowerPoint。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**插入和編輯圖示：** 使用圖示在您的簡報中新增視覺效果，有多達 500 個圖示可供您插入及編輯。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8176)：Microsoft PowerPoint 遠端程式碼執行弱點  <br/> ||
 |Outlook  <br/> |**自訂撥動手勢：** 將向左撥動和向右撥動的手勢設定為您最常使用的動作。您可以選擇 [刪除]、[封存]、[標記為已讀取]、[標幟] 或 [無]。[深入了解](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **支援 Google 日曆和連絡人：** 直接在 Outlook 中管理您的 Google 日曆和連絡人。*[深入了解](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \**將這項功能提供給 Office 365 訂閱者需要一段時間，因此您可能不會立即看到這項功能。* |||
-|Microsoft AutoUpdate 4.0  <br/> |||[Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18051301_Updater.pkg) <br/> |
+|Microsoft AutoUpdate 4.0  <br/> || <br/> |
    
 ## <a name="april-2018-release"></a>2018 年 4 月版本
 
