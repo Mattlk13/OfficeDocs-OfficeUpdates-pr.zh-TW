@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987093"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154821"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,6 +25,7 @@ ms.locfileid: "26987093"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>版本 1811：11 月 27 日
 *版本 1811 (組建 11029.20079)* 
@@ -39,6 +40,7 @@ ms.locfileid: "26987093"
 - **Outlook 非同步移動郵件：** 以非同步方式執行移動郵件，以提高 Outlook 使用者的生產力。
 - **在 Outlook 中查看人們的 LinkedIn 詳細資料：** 現在，當您開啟連絡人的個人檔案卡片時，即可透過檢視 LinkedIn 個人檔案來深入了解連絡人。
 - **改善焦點收件匣的開啟和關閉體驗：** 對於沒有使用焦點收件匣的客戶，我們已在所有資料夾的郵件清單中恢復 [未讀取] 索引標籤。我們也新增了以旗標為依據的排序功能，讓您能更輕鬆地找到加上旗標的項目。最後，焦點收件匣有更好的互動搜尋模型：焦點收件匣會保留到使用者開始進行搜尋，然後我們在搜尋完成後顯示「結果」文字為止。
+- **依預設在 SMIME 加密和簽章電子郵件中封鎖下載外部內容：** 由於 SMIME 通訊協定中存在漏洞，Outlook 會封鎖從已由 SMIME 加密或簽章的郵件上下載外部內容。使用者無法利用按一下來透過 Outlook UI 下載外部內容，以防止安全漏洞。使用者可使用「選項」對話方塊中的新選項，來還原之前的行為。 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
