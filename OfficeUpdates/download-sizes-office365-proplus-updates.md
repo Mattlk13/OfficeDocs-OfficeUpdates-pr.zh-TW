@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180773"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194914"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -90,7 +90,7 @@ ms.locfileid: "27180773"
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1803 (組建 9126.2282) <br/> |2018 年 10 月 9 日  <br/> |61 <br/> |
+|版本 1803 (組建 9126.2295) <br/> |2018 年 10 月 9 日  <br/> |61 <br/> |
 |版本 1803 (組建 9126.2282)  <br/> |2018 年 9 月 11 日  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
@@ -192,7 +192,7 @@ ms.locfileid: "27180773"
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1803 (組建 9126.2259)  <br/> |2018 年 7 月 10 日  <br/> |99  <br/> |
-|版本 1708 (組建 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |99 <br/> |
+|版本 1803 (組建 9126.2275)  <br/> |2018 年 8 月 14 日  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
@@ -233,8 +233,8 @@ ms.locfileid: "27180773"
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1803 (組建 8431.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
-|版本 1708 (組建 8431.2270)  <br/> |2018 年 6 月 12 日  <br/> |279  <br/> |
+|版本 1803 (組建 9126.2259)  <br/> |2018 年 7 月 10 日  <br/> |86  <br/> |
+|版本 1708 (組建 8431.2280)  <br/> |2018 年 7 月 10 日  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
