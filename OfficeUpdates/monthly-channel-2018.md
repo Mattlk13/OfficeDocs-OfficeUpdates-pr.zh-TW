@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/04/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
-ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
+ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "27154821"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241484"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,6 +25,27 @@ ms.locfileid: "27154821"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - [安全性更新](office365-proplus-security-updates.md)將開始各別列出每個 Office 365 專業增強版更新通道的安全性更新資訊。 
+
+## <a name="version-1811-december-11"></a>版本 1811：12 月 11 日
+*版本 1811 (組建 11029.20108)* 
+
+ ### <a name="excel-security-updates"></a>Excel：安全性更新 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 資訊洩漏弱點 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 資訊洩漏弱點 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 遠端程式碼執行弱點 
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 遠端程式碼執行弱點 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 遠端程式碼執行弱點 
 
 
 ## <a name="version-1811-november-27"></a>版本 1811：11 月 27 日
@@ -214,7 +235,7 @@ ms.locfileid: "27154821"
  - 對於一些已設定多個 Exchange 帳戶的使用者，已解決導致「按一下以檢視其他...」連結從搜尋結果清單中遺失的問題。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 已修正導致更新安裝在特定情節中需要很長時間的問題。
+ - 已修正導致更新安裝在特定情況下需要很長時間的問題。
  
 ### <a name="lync-non-security-updates"></a>Lync：非安全性更新
  - 已修正阻止在 IM 訊息中顯示表情符號的問題。 
@@ -260,7 +281,7 @@ ms.locfileid: "27154821"
 *版本 1806 (組建 10228.20134)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 已修正某些效能問題。
+ - 修正一些效能問題。
 
 ## <a name="version-1806-july-10"></a>版本 1806：7 月 10 日
 *版本 1806 (組建 10228.20104)*
@@ -280,15 +301,15 @@ ms.locfileid: "27154821"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **改善儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
  - **改善協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。[深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題的筆跡，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+ - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 ### <a name="project-feature-updates"></a>Project：功能更新
@@ -303,7 +324,7 @@ ms.locfileid: "27154821"
  - **更多樣板、更多圖示、更多選項：** 我們新增了 26 個樣板，包括「分析」、「藝術」、「慶祝」、「表情」、「位置」、「醫療」、「自然」、「人物」、「運動」、「天氣與季節」等等。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
- - **改善的 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+ - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 
 
@@ -331,7 +352,7 @@ ms.locfileid: "27154821"
 
 ### <a name="project-non-security-updates"></a>Project 非安全性更新
 
-- 修正當您在透過主要專案內容使用子專案時，系統阻止您儲存子專案的問題。
+- 修正此問題：當您透過主要專案使用子專案時，系統阻止您儲存子專案。
 
 ## <a name="version-1805-may-24"></a>版本 1805：5 月 24 日
 *版本 1805 (組建 9330.2087)*
@@ -417,7 +438,7 @@ ms.locfileid: "27154821"
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **工作面板篩選：** 篩選重要資源或摘要任務，以簡化您的工作面板。
 -   **從工作面板設定完成百分比：** 針對每個資料行選擇完成百分比，然後透過拖放更新工作完成度。
--   **Sprint 瀏覽：** 從某個 Sprint 檢視切換為另一個檢視，並快速地在 Sprint 之間移動工作。
+-   **短期衝刺瀏覽：** 從某個短期衝刺檢視切換為另一個檢視，並快速地在短期衝刺之間移動工作。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **找出相關的校訂問題並加以修正：**[編輯器] 窗格現在會顯示您的文件中所找到的校訂問題概觀，所以焦點會放在修正與您最相關的問題。
@@ -455,7 +476,7 @@ ms.locfileid: "27154821"
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：快速列印附加至 Outlook 電子郵件的 Excel 活頁簿可能會列印不出來。
 -   修正此問題：按一下超連結可能會造成 Excel 當機。
--   修正此問題：使用 cube 函數會造成 Excel 當機。
+-   修正此問題：使用 cube 函式會造成 Excel 當機。
 
 ### <a name="onedrive-for-business-non-security-updates"></a>商務用 OneDrive：非安全性更新
 -   修正此問題：商務用 OneDrive (Groove.exe) 會在 [工作管理員] 中耗用相當於一個 CPU 核心的 CPU (例如，4 核心 CPU 的 25%) 來延長一段時間。
@@ -640,4 +661,4 @@ ms.locfileid: "27154821"
 -   修正此問題：VBA 程式碼從專案中遺失。
 
 > [!NOTE]
-> 附註：如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft 解答論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
+> 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

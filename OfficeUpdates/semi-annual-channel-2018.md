@@ -3,19 +3,19 @@ title: 2018 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 8018fdf91a14b24f725f19a80298f951a14be7c0
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526428"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241494"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
@@ -25,6 +25,62 @@ ms.locfileid: "26526428"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
+
+> [!NOTE]
+> - [安全性更新](office365-proplus-security-updates.md)將開始各別列出每個 Office 365 專業增強版更新通道的安全性更新資訊。
+
+## <a name="version-1803-december-11"></a>版本 1803：12 月 11 日
+*版本 1803 (組建 9126.2336)*
+
+### <a name="excel-security-updates"></a>Excel：安全性更新 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 資訊洩漏弱點 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 資訊洩漏弱點 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 遠端程式碼執行弱點 
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 遠端程式碼執行弱點 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 遠端程式碼執行弱點 
+
+
+### <a name="outlook-non-secirity-updates"></a>Outlook：非安全性更新
+
+- 修正 Outlook 更新特定連絡人欄位時意外關閉的問題。
+- 解決使用者啟動 [管理規則及通知] 對話方塊時看到錯誤訊息的問題。
+- 解決 Outlook 使用者執行一些增益集時遇到損毀的問題。
+
+
+## <a name="version-1708-december-11"></a>版本 1708：12 月 11 日
+*版本 1708 (組建 8431.2351)*
+
+*這是自從 2018 年 1 月以來提供的半年通道版本。它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1803 (組建 16.0.9126.2336) — 其中包含了新功能、安全性更新和非安全性更新。*
+
+### <a name="excel-security-updates"></a>Excel：安全性更新 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 遠端程式碼執行弱點 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8598)：Microsoft Excel 資訊洩漏弱點 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 資訊洩漏弱點 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8636)：Microsoft Excel 遠端程式碼執行弱點 
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8587)：Microsoft Outlook 遠端程式碼執行弱點 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 遠端程式碼執行弱點 
+
+### <a name="outlook-non-secirity-updates"></a>Outlook：非安全性更新
+
+- 修正 Outlook 更新特定連絡人欄位時意外關閉的問題。
+- 解決使用者啟動 [管理規則及通知] 對話方塊時看到錯誤訊息的問題。
+- 解決 Outlook 使用者執行一些增益集時遇到損毀的問題。
+
 
 ## <a name="version-1803-november-13"></a>版本 1803：11 月 13 日
 *版本 1803 (組建 9126.2315)*
@@ -262,7 +318,7 @@ ms.locfileid: "26526428"
 -   修正此問題：Excel 在從 SharePoint Online 開啟檔案時損毀。
 -   修正此問題：快速列印附加至 Outlook 電子郵件的 Excel 活頁簿可能會列印不出來。
 -   修正此問題：按一下超連結可能會造成 Excel 當機。
--   修正此問題：使用 cube 函數會造成 Excel 當機。
+-   修正此問題：使用 cube 函式會造成 Excel 當機。
 -   修正此問題，列印或預覽列印時，只列印或顯示了工作表中的一部分，內容被截斷為工作表上的交叉分析篩選器。
 -   修正此問題：在嘗試與受保護活頁簿中的文字檔建立新連線時，收到「活頁簿受到保護，且無法變更」錯誤訊息。修正此問題：如果您的編輯語言是日文、中文或韓文，則當您嘗試在 [首頁] 索引標籤上選取新字型時，或當編輯時，Excel 可能會凍結。
 -   修正此問題：當 Excel 最小化時，開啟活頁簿時捲軸會遺失。
@@ -505,7 +561,7 @@ ms.locfileid: "26526428"
 -   修正在動態 DPI 環境下的 Office 增益集中縮放與調整大小的問題。
 -   修正此問題：即使目前已安裝 Office 365 ProPlus，Office 設定服務提供者 (CSP) 的 CurrentStatus 節點仍會傳回空字串。
 -   修正此問題：因為同一部電腦上所有的 Office 應用程式版本會共用 .box 檔案，而導致 .box 檔案格式變更；該問題會影響同一部電腦上所安裝舊版 Office 的功能。
--   修正會導致更新安裝在特定案例中耗費長時間的錯誤。 
+-   修正會導致更新安裝在特定情況下耗費長時間的錯誤。 
 -   修正此問題：SVG 測試失敗
 -   修正問題，問題是當使用 System Center Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行中且重新啟動裝置之後套用。
 
