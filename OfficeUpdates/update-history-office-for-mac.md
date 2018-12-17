@@ -3,19 +3,19 @@ title: Mac 版 Office 的更新歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/12/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 最新更新的相關資訊，包括套件下載連結與更新歷程記錄
-ms.openlocfilehash: c83e0965a99bd55ee48ef01ffda556648071fa19
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: a5458f6c5cc795c3ffaeb5505632e5364de6ab6b
+ms.sourcegitcommit: 9b6f17fd40e7565dec1a6b205de3f6f06d7aaf34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241374"
+ms.lasthandoff: 12/14/2018
+ms.locfileid: "27264222"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新歷程記錄
 
@@ -57,7 +57,7 @@ ms.locfileid: "27241374"
 |:-----|:-----|:-----|:-----|:-----|
 |Microsoft AutoUpdate (MAU)  <br/> |4.6 (18120801)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |   此更新套件為 64 位元。 <br/><br/>[MAU 的版本歷程記錄](release-history-microsoft-autoupdate.md)<br/> |5FB669DB651237FEC165E45BE4E82F3A82F969042B06DB6FA00A10B79B1BEDE6 <br/>|
 |商務用 Skype  <br/> |16.23.0.64 <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版本已於 2018 年 11 月 14 日發行。 <br/><br/>[最新的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> | 2030D149B52E37D338CAE99437219FFB7D148B4C0F85A2131A8974C5A3949F78 <br/> |
-|遠端桌面 | 10.2.2 (1291)  | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | 此安裝套件為 64 位元。 <br/> <br/>[新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) | 4d5b06ef48e9c75b0dc37d60bb31d3f13e28902932e524295af8e42b943972fd <br/> |
+|遠端桌面 | 10.2.4.1  | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | 此安裝套件為 64 位元。 <br/> <br/>[新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |  e3e4af2c716c5d5f10354075b56149b914f8793fd6c36f153b7168872d0113d1 <br/> |
 |Intune 公司入口網站 |1.5 (52.1805002.000) [180509] | [下載](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 的新功能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
 |適用於 Mac 版 Office 2016 的 Microsoft SharePoint 內部部署 Safari 瀏覽器外掛程式  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安裝套件為 64 位元。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
    
