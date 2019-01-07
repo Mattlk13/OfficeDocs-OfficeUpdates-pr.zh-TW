@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 01/03/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 52394a5132cc5a2a2dc2a0d691976a6a11851b62
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: dc2f2bba78c335ccb26d1edafcd566bb0aa5a5f7
+ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241354"
+ms.lasthandoff: 01/04/2019
+ms.locfileid: "27525784"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -36,12 +36,22 @@ ms.locfileid: "27241354"
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
 
+## <a name="january-3-2019"></a>2019 年 1 月 3 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1812 (組建 11126.20188)。 
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1810 (組建 11029.20079)  <br/> |2018 年 11 月 27 日  <br/> |179<br/> |
+|版本 1811 (組建 11029.20108)  <br/> |2018 年 12 月 11 日  <br/> |176<br/> |
 
 ## <a name="december-11-2018"></a>2018 年 12 月 11 日
 
 ### <a name="monthly-channel"></a>每月通道
 
-最新的版本是 1811 版 (組建 11029.20108)。 
+最新的版本是版本 1811 (組建 11029.20108)。 
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -50,7 +60,7 @@ ms.locfileid: "27241354"
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-最新的版本是 1803 版 (組建 9126.2336)。
+最新的版本是版本 1803 (組建 9126.2336)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -59,7 +69,7 @@ ms.locfileid: "27241354"
   
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
-最新的版本是 1808 版 (組建 10730.20262)。
+最新的版本是版本 1808 (組建 10730.20262)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -82,7 +92,7 @@ ms.locfileid: "27241354"
 
 ### <a name="monthly-channel"></a>每月通道
 
-最新的版本是 1810 版 (組建 11001.20108)。 
+最新的版本是版本 1810 (組建 11001.20108)。 
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -91,7 +101,7 @@ ms.locfileid: "27241354"
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-最新的版本是 1803 版 (組建 9126.2315)。
+最新的版本是版本 1803 (組建 9126.2315)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -100,7 +110,7 @@ ms.locfileid: "27241354"
 
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
-最新的版本是 1808 版 (組建 10730.20205)。
+最新的版本是版本 1808 (組建 10730.20205)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
