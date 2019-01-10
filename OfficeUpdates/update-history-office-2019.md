@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 455b94312ee32139602ed925eb92f1389338f179
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 7b4a0334bc9ad63c7fb28f8111cab157fb38ea08
+ms.sourcegitcommit: 19bde490bd56c4b49a6ed51d62a24048792bbf3b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770044"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "27791641"
 ---
 # <a name="update-history-for-office-2019"></a>Office 2019 的更新歷程記錄
 
@@ -37,7 +37,6 @@ Microsoft 會視需要發行 Office 2019 安全性更新和品質更新，例如
 ## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019 大量授權版本
 下列資訊適用於大量授權版的 Office 2019，例如透過大量授權合約購買的 Office 專業增強版 2019。
 
-  
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
 |2019 年 1 月 8 日   |版本 1808 (組建 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0585) <br/> |
