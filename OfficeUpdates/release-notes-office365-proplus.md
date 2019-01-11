@@ -3,38 +3,38 @@ title: Office 365 專業增強版更新的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 1/8/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道最新發行的清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 1d1f776e7616d967ecb7a555b7cfa41fe587509d
-ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
+description: 為 IT 專業人員提供 Office 365 專業增強版在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
+ms.openlocfilehash: 739f393f003db9d0486013158109f16cb1c2b666
+ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2018
-ms.locfileid: "25638153"
+ms.lasthandoff: 01/08/2019
+ms.locfileid: "27770094"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
 > [!NOTE]
-> - 表格列出的每個更新通道支援的版本已移至 [Office 365 專業增強版的更新歷程記錄（依日期列出） ](update-history-office365-proplus-by-date.md)。
+> - 列出每個更新通道支援版本的表格，已移至 [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)。
 
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版版本的更新歷程記錄
+## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本更新歷程記錄
 
 如需完整版本清單，請參閱下列文章：
  - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本資訊
 
-如需依更新管道和年度列出的完整版本資訊，請參閱下列文章︰
- - 每月：[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)、[2015](monthly-channel-2015.md)
- - 半年 (已設定目標)：[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)、[2015](semi-annual-channel-targeted-2015.md)
- - 半年：[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
+如需依更新通道和年度列出的完整版本資訊，請參閱下列文章︰
+ - 每月：[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)、[2015](monthly-channel-2015.md)
+ - 半年 (已設定目標)：[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)、[2015](semi-annual-channel-targeted-2015.md)
+ - 半年：[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
 
 ## <a name="office-for-mac-release-information"></a>Mac 版 Office 版本資訊
 
@@ -45,13 +45,13 @@ ms.locfileid: "25638153"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
-- [Office 365 有什麼新功能?](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Office 365 的新功能？](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365 藍圖](https://products.office.com/business/office-365-roadmap)
 - [Office 365 訊息中心概觀](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 版本資訊](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 安全性更新指南](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> 如果使用 Office 時需要我們協助解決問題，建議將問題張貼在 [Microsoft Answers 論壇 ](https://answers.microsoft.com/) 或 [Tech 社群](https://techcommunity.microsoft.com/)，或是也可以連絡[支援中心](https://support.microsoft.com/contactus)。
+> 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

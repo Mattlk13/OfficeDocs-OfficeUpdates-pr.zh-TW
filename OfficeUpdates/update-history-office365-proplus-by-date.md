@@ -3,19 +3,19 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/3/2019
+ms.date: 1/8/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: fb609e400e9c091545ee3a0ae7248a1046c3018b
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 9bc0c8007bb551f1578eea1255a3e641e89fc510
+ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27525774"
+ms.lasthandoff: 01/11/2019
+ms.locfileid: "27801500"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,10 +31,11 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
  
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1812  <br/> |11126.20188<br/> | 2019 年 1 月 3 日 <br/> |版本 1901 發行日期 <br/>|
-|半年 (已設定目標)  <br/> |1808  <br/> |10730.20262 <br/> | 2018 年 12 月 11 日  <br/> | 2019 年 3 月 12 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2336<br/> | 2018 年 12 月 11 日 <br/> |  2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1708  <br/> | 8431.2351  <br/> | 2018 年 12 月 11 日 <br/> |  2019 年 3 月 12 日 <br/>|
+|每月  <br/> |1812  <br/> |11126.20196 <br/> | 2019 年 1 月 8 日 <br/> |版本 1901 發行日期 <br/>|
+|半年 (已設定目標)  <br/> |1808  <br/> |10730.20264 <br/> |  2019 年 1 月 8 日 <br/> | 2019 年 3 月 12 日 <br/>|
+|半年 <br/> |1808  <br/> | 10730.20264<br/> | 2019 年 1 月 8 日  <br/> |  2020 年 3 月 10 日 <br/>|
+|半年 <br/> |1803  <br/> | 9126.2351  <br/> | 2019 年 1 月 8 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|半年 <br/> |1708  <br/> | 8431.2366  <br/> | 2019 年 1 月 8 日  <br/> |  2019 年 3 月 12 日 <br/>|
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
 
@@ -44,6 +45,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|1 月 8 日 |[版本 1812 (組建 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[版本 1808 (組建 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[版本 1808 (組建 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [版本 1803 (組建 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [版本 1708 (組建 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|1 月 3 日   |[版本 1812 (組建 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|12 月 11 日 |[版本 1811 (組建 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[版本 1808 (組建 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[版本 1803 (組建 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [版本 1708 (組建 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|11 月 27 日   |[版本 1811 (組建 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
