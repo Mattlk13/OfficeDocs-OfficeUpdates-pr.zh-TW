@@ -51,5 +51,3 @@
 # 相關連結
 ## [Windows 10 版本資訊](https://www.microsoft.com/itpro/windows-10/release-information)
 ## [Microsoft 週期原則](https://support.microsoft.com/lifecycle)
-
-
