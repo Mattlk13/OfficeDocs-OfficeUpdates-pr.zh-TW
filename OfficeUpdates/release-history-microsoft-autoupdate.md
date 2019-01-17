@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 01/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 0a63a09cd202c0ae6cec9031cc44d6dc9d869221
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 8f29d5238e8b759a54c90ff4390e720f1d855f2c
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241294"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325403"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -31,7 +31,8 @@ ms.locfileid: "27241294"
   
 |**發行日期**|**版本**|**詳細資訊**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|2018 年 12 月 11 日 <br/>|4.6.0 <br/> | [版本資訊](release-notes-office-for-mac.md#december-2018-release) <br/> |[下載 MAU 4.6.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2019 年 1 月 16 日 <br/>|4.7.0 <br/> | [版本資訊](release-notes-office-for-mac.md#january-2019-release) <br/> |[下載 MAU 4.7.0](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2018 年 12 月 11 日 <br/>|4.6.0 <br/> | [版本資訊](release-notes-office-for-mac.md#december-2018-release) <br/> ||
 |2018 年 11 月 14 日 <br/> |4.5.0 <br/> |[版本資訊](release-notes-office-for-mac.md#november-2018-release) <br/> | |
 |2018 年 10 月 16 日 <br/> |4.4.0 <br/> |[版本資訊](release-notes-office-for-mac.md#october-2018-release) <br/> | |
 |2018 年 9 月 11 日  <br/> |4.3.0  <br/> |[版本資訊](release-notes-office-for-mac.md#september-2018-release) <br/> | |

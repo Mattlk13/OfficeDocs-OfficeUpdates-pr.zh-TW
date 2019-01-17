@@ -3,19 +3,19 @@ title: Office 365 專業增強版安全性更新的版本資訊
 ms.author: andrewmo
 author: ''
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: 8ba613b04a8a91d438891cbcda75216cd4715456
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 3fe63810815126c8c1616beef9221dfaf9d1833c
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241254"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325373"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
 
@@ -24,6 +24,27 @@ ms.locfileid: "27241254"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+
+## <a name="january-8-2019"></a>2019 年 1 月 8 日
+
+每月通道：版本 1812 (組建 11126.20196)  
+半年已設定目標通道：版本 1808 (組建 10730.20264)  
+半年通道：版本 1808 (組建 10730.20264)  
+半年通道：版本 1803 (組建 9126.2351)  
+半年通道：版本 1708 (組建 8431.2366)  
+
+
+### <a name="outlook"></a>Outlook
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0559)
+
+### <a name="word-security-updates"></a>Word：安全性更新 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0585) 
+ 
+### <a name="office-suite-security-updates"></a>Office 套件：安全性更新 
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0560)
+
 ## <a name="december-11-2018"></a>2018 年 12 月 11 日
 每月通道：版本 1811 (組建 11029.20108)  
 半年通道：版本 1803 (組建 9126.2336)  
