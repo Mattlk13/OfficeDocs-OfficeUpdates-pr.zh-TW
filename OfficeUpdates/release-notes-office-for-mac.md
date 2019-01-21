@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325453"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28726706"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -49,6 +49,9 @@ ms.locfileid: "28325453"
 |PowerPoint  <br/>| **在講義中列印投影片編號：** 當您將簡報列印至講義時，每張投影片顯示時都會伴隨著投影片編號。 <br/><br/> **將敏感度標籤套用至您的簡報**：將敏感度標籤套用至您的簡報，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **將敏感度標籤套用至您的郵件**：將敏感度標籤套用至您的郵件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 自動更新 4.7 <br/>| AutoUpdate 精靈現在啟動作為安裝程序的一部分。這樣可以排除先前對使用者顯示，會令人混淆的安全性對話方塊。 <br/><br/> 已增強 Microsoft AutoUpdate 的安全性功能以支援 SHA256 憑證。 <br/>|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
+> [!NOTE]
+> 從版本 16.21 開始，預設情況下將會為***新***安裝的版本安裝 Microsoft Teams。如需詳細資訊，請參閱[在 Mac 上的 Microsoft Teams 安裝](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
 
 
 ## <a name="december-2018-release"></a>2018 年 12 月版本
