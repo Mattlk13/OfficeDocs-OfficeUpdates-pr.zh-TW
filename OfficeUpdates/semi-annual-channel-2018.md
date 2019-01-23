@@ -3,19 +3,19 @@ title: 2018 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: d7b404c7485bb526ae9cd153a5ebe9e012a6502a
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241494"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27264114"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
@@ -48,7 +48,7 @@ ms.locfileid: "27241494"
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 遠端程式碼執行弱點 
 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook：非安全性更新
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
 - 修正 Outlook 更新特定連絡人欄位時意外關閉的問題。
 - 解決使用者啟動 [管理規則及通知] 對話方塊時看到錯誤訊息的問題。
@@ -75,7 +75,7 @@ ms.locfileid: "27241494"
 
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 遠端程式碼執行弱點 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook：非安全性更新
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
 - 修正 Outlook 更新特定連絡人欄位時意外關閉的問題。
 - 解決使用者啟動 [管理規則及通知] 對話方塊時看到錯誤訊息的問題。
