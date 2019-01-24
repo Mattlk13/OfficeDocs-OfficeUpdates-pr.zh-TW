@@ -3,19 +3,19 @@ title: 2018 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241514"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258499"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -54,10 +54,9 @@ ms.locfileid: "27241514"
 - 已修正此問題：建立多個繫結至相同資料行的表格交叉分析篩選器時可能發生損毀，並刪除該行資料。
 - 已修正此問題：關閉自動調整欄寬的選項後，Excel 有時在重新整理儲存格中有換行文字的已篩選查詢資料表時會發生損毀。
 - 已修正此問題：儲存在 Excel 2007 中的交叉分析篩選器若在較新版的 Excel 中開啟，且交叉分析篩選器中顯示的項目有變更，則可能觸發損毀。
-- 已修正此問題：使用者開啟交談歷程記錄資料夾時遇到當機問題。
-- 引入 [取得診斷] 按鈕的支援，可簡化支援要求的調查。
+- 引進 [取得診斷] 按鈕的支援，以簡化支援要求的調查。
 
-### <a name="outlook-non-secirity-updates"></a>Outlook：非安全性更新
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
 - 已修正使用者啟動 [管理規則及通知] 對話方塊時看到錯誤訊息的問題。
 - 已修正此問題：使用者使用計量付費連線時，無法透過 DirectAccess 連線到他們的信箱。
@@ -65,6 +64,7 @@ ms.locfileid: "27241514"
 - 已修正此問題：使用者轉寄具有內嵌附件的項目時，會看到非預期的附件。
 - 已修正 OFT 檔案在作為附件傳送後，呈現效果不良的問題。
 - 已修正此問題：部分增益集使用者在將會議新增至共用行事曆時遇到損毀問題。
+- 已修正以下問題：使用者開啟 [交談歷程記錄] 資料夾時遇到當機問題。
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 

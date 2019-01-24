@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724915"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "28723126"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -29,11 +29,14 @@ ms.locfileid: "27724915"
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
 
+## <a name="version-1812-january-8"></a>版本 1812：1 月 8 日
+*版本 1812 (組建 11126.20196)* 
+
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+- 已修正以下問題：核取甘特圖的 [要徑]、[落後] 和 [寬限時間] 長條圖樣式後，無法取消核取。
+
 ## <a name="version-1812-january-3"></a>版本 1812：1 月 3 日
 *版本 1812 (組建 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access：功能更新
-- **透過 Microsoft Graph 讓您更聰明：** 透過智慧科技，匯入或連結智慧資料並重塑傳統資料庫。[深入了解](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
@@ -61,3 +64,5 @@ ms.locfileid: "27724915"
 
 
 
+> [!NOTE]
+> 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

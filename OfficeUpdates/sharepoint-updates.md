@@ -3,7 +3,7 @@ title: SharePoint 更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/12/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: sharepoint-server-itpro
@@ -14,12 +14,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 2016、SharePoint 2013 及 SharePoint 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: 9472f81b26c9b0313f7884e2f45e6f0c23746715
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: c36bb58f8397ca13ba9745b84467a0b9a22f571a
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241434"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770174"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -33,12 +33,14 @@ ms.locfileid: "27241434"
 
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4461634](https://support.microsoft.com/zh-TW/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/zh-TW/help/4461514) <br/> |2019 年 1 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/zh-TW/help/4461548)  <br/> |2018 年 12 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/zh-TW/help/4461513)  <br/> |2018 年 11 月  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 更新歷程記錄
 
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/zh-TW/help/4461598) <br/>  |2019 年 1 月  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/zh-TW/help/4461541) <br/>  |2018 年 12 月  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/zh-TW/help/4461501) <br/>  |2018 年 11 月  <br/> |
 |SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4461447](https://support.microsoft.com/zh-TW/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/zh-TW/help/4092463) <br/> |2018 年 10 月  <br/> |
@@ -87,6 +89,7 @@ ms.locfileid: "27241434"
     
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461603](https://support.microsoft.com/zh-TW/help/4461603) <br/> [KB 4461605](https://support.microsoft.com/zh-TW/help/4461605) <br/> |2019 年 1 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461552](https://support.microsoft.com/zh-TW/help/4461552) <br/> [KB 4461555](https://support.microsoft.com/zh-TW/help/4461555) <br/> |2018 年 12 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461508](https://support.microsoft.com/zh-TW/help/4461508) <br/> [KB 4461510](https://support.microsoft.com/zh-TW/help/4461510) <br/> |2018 年 11 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 4461455](https://support.microsoft.com/zh-TW/help/4461455) <br/> [KB 4461458](https://support.microsoft.com/zh-TW/help/4461458) <br/> |2018 年 10 月  <br/> |
@@ -150,6 +153,7 @@ ms.locfileid: "27241434"
 
 |**封裝名稱：**|**KB 號碼**|**發行日期**|
 |:-----|:-----|:-----|
+|SharePoint Server 2010  <br/> |[KB 4461622](https://support.microsoft.com/zh-TW/help/4461622) <br/> |2019 年 1 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4461580](https://support.microsoft.com/help/4461580) <br/> [KB 4461575](https://support.microsoft.com/help/4461575) <br/> |2018 年 12 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 4011713](https://support.microsoft.com/help/4011713) <br/> [KB 4461528](https://support.microsoft.com/help/4461528) <br/> |2018 年 11 月  <br/> |
 |SharePoint Server 2010  <br/> |[KB 4461464](https://support.microsoft.com/zh-TW/help/4461464) <br/> |2018 年 10 月  <br/> |

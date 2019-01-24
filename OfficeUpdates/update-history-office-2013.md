@@ -3,26 +3,26 @@ title: Office 2013 的更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/20/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 1115ae73e04ab24b5059323f1ffc517e318a0045
-ms.sourcegitcommit: 521ec634035dc680126a01d94c513493df7251a2
+ms.openlocfilehash: 681c3077e784f7ae9ab0b6855fbdd91533967225
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "27378533"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770134"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 大部分的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2013 是 **15.0.5093.1001**，發行時間為 2018 年 12月 19 日。 
+> 最新版的 Office 2013 是 **15.0.5101.1002**，發行日期為 2019 年 1 月 8 日。 
   
 若要檢查 Office 版本，請執行下列步驟：
   
@@ -46,6 +46,7 @@ ms.locfileid: "27378533"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
+|2019|1 月 8 日   |15.0.5101.1002   |[KB 4484800](https://support.microsoft.com/zh-TW/help/4484800)  |
 |2018|12 月 19 日   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/zh-TW/help/4477615)  |
 ||11 月 13 日   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/zh-TW/help/4469617)  |
 ||10 月 9 日   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/zh-TW/help/4464656)  |
