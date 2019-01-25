@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/17/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 790e984241f228ced8caf7ba00cf45aa0aef6dd0
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/23/2019
-ms.locfileid: "28723126"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442059"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -28,6 +28,12 @@ ms.locfileid: "28723126"
 
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
+
+## <a name="version-1812-january-14"></a>版本 1812：1 月 14 日
+*版本 1812 (組建 11126.20266)* 
+
+僅允許非安全性更新。更多資訊將於近期提供。
+
 
 ## <a name="version-1812-january-8"></a>版本 1812：1 月 8 日
 *版本 1812 (組建 11126.20196)* 
