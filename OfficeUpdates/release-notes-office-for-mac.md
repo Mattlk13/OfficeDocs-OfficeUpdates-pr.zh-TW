@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28726706"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530288"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -35,6 +35,25 @@ ms.locfileid: "28726706"
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## <a name="january-2019-release"></a>2019 年 1 月版本
+
+ **發行日期：** 2019 年 1 月 24 日 
+  
+ *版本 16.21.0 (組建 19011700)*
+
+ 此版本提供下列更新：
+
+|**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Word  <br/>| 已修正中文當地語系化的問題。<br/><br/>| |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Outlook  <br/>| 已修正中文當地語系化的問題。<br/><br/>  | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
+
+ **發行日期：** 2019 年 1 月 23 日 
+  
+ *版本 16.21.0 (組建 190102303)* 此版本提供下列更新：
+ 
+|**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
+ |:-----|:-----|:-----|
+ |Excel  <br/>| 已修正混合 Unicode 和非 Unicode 時字元間距的迴歸問題。 <br/><br/> | <br/><br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
 
  **發行日期：** 2019 年 1 月 16 日 
   
