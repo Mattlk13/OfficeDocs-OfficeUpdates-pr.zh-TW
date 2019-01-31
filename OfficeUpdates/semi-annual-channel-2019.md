@@ -3,19 +3,19 @@ title: 2019 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/11/2019
+ms.date: 1/29/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d77822fbe8a2fdf87f3c7f080dbc80272e0d9fd6
+ms.sourcegitcommit: 04ecc58188e4af42b54135fb7aa9681b1803f328
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325433"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29647018"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -109,7 +109,7 @@ ms.locfileid: "28325433"
 - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **避免不想要的編輯：** 設定您的活頁簿開啟為唯讀，以避免意外變更。移至 [檔案 > 資訊 > 保護活頁簿 > 一律以唯讀開啟]
 - **改善協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的簡報更易於存取。[深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
--  **透過測驗或問卷詢問觀眾：** 在投影片上進行測驗或問卷。Office 會收集並儲存您的回覆。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 - 修正了使用 ActiveX 內容來儲存文件時，可能造成文件損毀的問題。
