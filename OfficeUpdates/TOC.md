@@ -26,6 +26,10 @@
 #### [2016](semi-annual-channel-targeted-2016.md)
 #### [2015](semi-annual-channel-targeted-2015.md)
 
+### Office 測試人員計畫
+#### [更新歷程記錄的測試人員通道](update-history-office-insider.md)
+#### [更新歷程記錄的每月通道 (已設定目標)](update-history-monthly-channel-targeted.md)
+
 # Mac 版 Office
 ## [更新歷程記錄 (Office 365, 2019)](update-history-office-for-mac.md)
 ## [版本資訊 (Office 365, 2019)](release-notes-office-for-mac.md)
