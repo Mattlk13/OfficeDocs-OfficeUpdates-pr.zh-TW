@@ -43,7 +43,7 @@
 | 1/11/2019 | [2019 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2019) | 修改時間 |
 
 
-## <a name="week-of-january-14-2019"></a>2019 年 1 月 14 日當週
+## <a name="week-of-january-14-2019"></a>2019 年 1 月14 日當週
 
 
 | 發佈時間 |主題標題 | 變更 |
@@ -72,3 +72,18 @@
 | 1/24/2019 | [2019 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2019) | 修改時間 |
 | 1/24/2019 | [Mac 版 Office 的版本資訊](/OfficeUpdates/release-notes-office-for-mac) | 修改時間 |
 | 1/24/2019 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改時間 |
+
+
+## <a name="week-of-january-28-2019"></a>2019 年 1 月 28 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 1/31/2019 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改時間 |
+| 1/31/2019 | [2019 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2019) | 修改時間 |
+| 1/31/2019 | [2019 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2019) | 修改時間 |
+| 1/31/2019 | [Mac 版 Office 的更新歷程記錄](/OfficeUpdates/update-history-office-for-mac) | 修改時間 |
+| 1/31/2019 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改時間 |
+| 2/1/2019 | [Office 每月通道 (已設定目標) 的更新歷程記錄](/OfficeUpdates/update-history-monthly-channel-targeted) | 新增 |
+| 2/1/2019 | [更新 Office 內部通道的歷程記錄](/OfficeUpdates/update-history-office-insider) | 新增 |
+| 2/1/2019 | [Office 365 專業增強版的更新歷程記錄 (依日期列出)](/OfficeUpdates/update-history-office365-proplus-by-date) | 修改時間 |
