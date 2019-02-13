@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: 3fe63810815126c8c1616beef9221dfaf9d1833c
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: cfa6d6d844e06e3b14865a64e02c1064fbb8c8f5
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325373"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954025"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
 
@@ -24,6 +24,26 @@ ms.locfileid: "28325373"
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+## <a name="february-12-2019"></a>2019 年 2 月 12 日
+每月通道：版本 1901 (組建 11231.20174)  
+半年通道 (已設定目標)：版本 1808 (組建 10730.20280)   
+半年通道：版本 1808 (組建 10730.20280)  
+半年通道：版本 1803 (組建 9126.2356)  
+半年通道：版本 1708 (組建 8431.2372)  
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0669)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0671)
 
 ## <a name="january-8-2019"></a>2019 年 1 月 8 日
 

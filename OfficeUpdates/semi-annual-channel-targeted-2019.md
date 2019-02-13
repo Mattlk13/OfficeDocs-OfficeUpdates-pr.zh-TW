@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: f0ed901d649115b8ea1c3b18339f835d48637b62
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: d9ace400fb5f3c92d1e0089c851f51109dfc2228
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325413"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29953995"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -28,6 +28,24 @@ ms.locfileid: "28325413"
  
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
+*版本 1808 (組建 10730.20280)* 
+
+### <a name="access-non-security-updates"></a>Access：非安全性更新 
+
+- 這個更新將新日本時代的支援新增至 Access。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新 
+
+- 解決嘗試管理規則時，因參照不再存在資料夾的規則而導致使用者看見錯誤訊息或看見用戶端規則無法執行的問題。
+- 解決因快取的委派信箱導致使用者在無法預測的時間間隔遇到頻繁的當機問題。
+- 解決因為會議結束時間設定為隔天午夜而導致全天會議在某些檢視中比原訂多橫跨一天的問題。
+- 修正參考日本時代建立新約會或會議時發生的當機問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 修正使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-TW/office/dev/add-ins/publish/centralized-deployment)部署的增益集發生凍結且無法使用的問題。
 
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日

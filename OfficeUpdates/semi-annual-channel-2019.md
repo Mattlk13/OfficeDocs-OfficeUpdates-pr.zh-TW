@@ -3,19 +3,19 @@ title: 2019 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690725"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954055"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -28,6 +28,68 @@ ms.locfileid: "29690725"
 
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+> - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
+
+## <a name="version-1808-february-12"></a>版本 1808：2 月 12 日
+*版本 1808 (組建 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access：非安全性更新 
+
+- 這個更新將新日本時代的支援新增至 Access。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新 
+
+- 解決嘗試管理規則時，因參照不再存在資料夾的規則而導致使用者 1. 看見錯誤訊息以及 2. 看見用戶端規則無法執行的問題。
+- 解決因快取的委派信箱導致使用者在無法預測的時間間隔遇到頻繁的當機問題。
+- 解決因為會議結束時間設定為隔天午夜而導致全天會議在某些檢視中比原訂多橫跨一天的問題。
+- 修正參考日本時代建立新約會或會議時發生的當機問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 修正使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-TW/office/dev/add-ins/publish/centralized-deployment)部署的增益集發生凍結且無法使用的問題。
+
+
+## <a name="version-1803-february-12"></a>版本 1803：2 月 12 日
+*版本 1803 (組建 9126.2356)*
+
+*這是從 2018 年 7 月以來提供的半年通道版本。這個版本會繼續受到支援並會收到安全性更新，直到 2019 年 9 月為止。不過，目前已提供新的半年通道版本 — 版本 1808 (組建 10730.20280) — 其中包含了新功能、安全性更新和非安全性更新。*
+
+### <a name="access-non-security-updates"></a>Access：非安全性更新 
+
+- 這個更新將新日本時代的支援新增至 Access。
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新 
+
+- 這個更新將新日本時代的支援新增至 Excel。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+
+- 修正參考日本時代建立新約會或會議時發生的當機問題。
+
+### <a name="project-non-security-updates"></a>Project：非安全性更新
+- 這個更新將新日本時代的支援新增至 Project
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+
+- 這個更新將新日本時代的支援新增至 Word。
+
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+
+- 這個更新將新日本時代的支援新增至 Visio。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 修正使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-TW/office/dev/add-ins/publish/centralized-deployment)部署的增益集發生凍結且無法使用的問題。
+
+## <a name="version-1708-february-12"></a>版本 1708：2 月 12 日
+*版本 1708 (組建 8431.2372)*
+
+*這是自從 2018 年 1 月以來提供的半年通道版本。它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1808 (組建 10730.20280) — 其中包含了新功能、安全性更新和非安全性更新。*
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 修正使用 [O365 Office 集中式部署](https://docs.microsoft.com/zh-TW/office/dev/add-ins/publish/centralized-deployment)部署的增益集發生凍結且無法使用的問題。
+
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日
 版本 1808 (組建 10730.20264)**
@@ -35,7 +97,6 @@ ms.locfileid: "29690725"
 ### <a name="access-feature-updates"></a>Access：功能更新
 
  - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，更有效地以視覺化方式呈現資料並進行明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **共同作業編輯：** 在您的活頁簿中與他人同時作業。[深入了解](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
