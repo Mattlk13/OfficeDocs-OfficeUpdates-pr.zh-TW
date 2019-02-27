@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 54adf02c6a6955501988011fccfb505b55efeeb5
-ms.sourcegitcommit: f681559832b0ed0c65ba450ddf2c735c6ac33e90
+ms.openlocfilehash: 38dfeb237f513a1e8473c13f2bca43bb7034286d
+ms.sourcegitcommit: a5af28fd94e1c4fc54b4ce745ee3271e25c994bc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210488"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30247705"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -24,6 +24,8 @@ ms.locfileid: "30210488"
 ## <a name="office-insider-versions-and-builds"></a>Office 測試人員的版本和組建
 
 如果您已經註冊先前稱為「測試人員 - 慢」的每月通道 (已設定目標) 層級，您約略每個月會取得一項新的 Office 功能更新，加上包含有重要修正或安全性更新的後續組建。以下清單顯示最近每月通道 (已設定目標) 的版本和組建，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。若要尋找版本資訊，請參閱 [Office 測試人員的新功能](https://support.office.com/zh-TW/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+
+**2019 年 2 月 25 日**<br/> 版本 1902 (組建 11328.20116)<br/>
 
 **2019 年 2 月 21 日**<br/> 版本 1902 (組建 11328.20100)<br/>
 
