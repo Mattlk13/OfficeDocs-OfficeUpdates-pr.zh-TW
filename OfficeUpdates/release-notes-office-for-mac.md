@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 2/20/2019
+ms.date: 2/26/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 76bb531d3d1ade277ee81256407cfeefdac4ac4b
-ms.sourcegitcommit: cbf28ac3d54fe873f17d57e40714c2647bd4363a
+ms.openlocfilehash: dd5e573544acd6a9950b4d28f63980e044913e7b
+ms.sourcegitcommit: 3af5f3ced6b4775a320ba0305a84faa7ec31e69e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30128119"
+ms.lasthandoff: 02/26/2019
+ms.locfileid: "30294606"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,6 +34,15 @@ ms.locfileid: "30128119"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+## <a name="february-2019-release"></a>2019 年 2 月版本
+
+**發行日期：** 2019 年 2 月 26 日
+
+ 此版本提供下列更新：
+
+|**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Microsoft Auto Update 4.8 <br/>| 修正了 MacOS 10.10 的 MAU 加入自動更新的提示問題 <br/><br/> 已將 MAU ApplicationID 從 'MSau03' 更新為 'MSau04' <br/><br/> 修正執行另一個版本時，MAU 權限協助程式的安裝問題 <br/>|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.8.19022003_Updater.pkg)|
 ## <a name="february-2019-release"></a>2019 年 2 月版本
 
 **發行日期：** 2019 年 2 月 20 日 
