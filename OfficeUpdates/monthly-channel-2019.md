@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 02/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 9ad21789db5aa940eb879f14684d7e56c4ddfbb4
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
+ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954005"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379358"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -28,6 +28,44 @@ ms.locfileid: "29954005"
 
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
+
+## <a name="version-1902-march-4"></a>版本 1902：3 月 4 日
+*版本 1902 (組建 11328.20146)* 
+
+### <a name="access-feature-updates"></a>Access：功能更新
+
+- **將索引標籤保留在資料庫物件上：** 能清楚看到使用中的索引標籤、輕鬆拖曳索引標籤來重新排列，只要按一下就能關閉資料庫物件。
+- **使用更大的空間來縮放：** 加大 [縮放] 方塊、變更字型、記憶縮放。[深入了解](https://support.office.com/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **使用 \@ 提及取得他人注意**在註解中使用 @ 提及功能讓同事知道您需要他們提供建議。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **更深入地探索您的資料：** 新的 [構想] 按鈕可尋找資料的模式，並使用模式建立更有智慧且個人化的建議。[深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
+- **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **在連續會議之間置入時間**將會議預設提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[在這裡](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)[和這裡可深入了解](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- **使用「大聲朗讀」聆聽您的電子郵件：** Outlook 可以大聲朗讀您的電子郵件，強調所朗讀的文字。若要開啟 [大聲朗讀]，請移至 [輕鬆存取] 設定。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
+- **郵件加密：加密專用 IRM 原則：** 新的加密專用的選項會顯示在 Office 365 郵件加密使用者的 [選項] > [權限] 功能表。此選項可讓您加密郵件，並將郵件傳送給組織內外的任何人。[深入了解](https://aka.ms/omeoverview)
+- **循環範圍的新預設值：** 在 [週期設定] 對話方塊中，循環範圍之前的預設值為 [沒有結束日期]。雖然這有助於建立長時間執行的週期性系列，但在一段時間之後可能會發生損壞。我們正將 [週期設定] 對話方塊的預設值更新為 [結束於]，這樣我們的預設值就會符合行事曆操作的建議最佳做法。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **輕鬆插入內嵌影片：** 想要在您的投影片中放入 Vimeo 或 YouTube 影片嗎？只要有影片頁面連結即可。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **您來計算，格式設定交給我們**我們能將難懂的手寫數學運算式變更為標準字元。只要選擇 [筆跡轉換數學]，然後選取您的手寫筆記，即可開始使用。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
+- **以生動的色彩顯示超連結：** 超連結不再只是藍色。套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)變更 24843
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
+- **了解自動儲存未開啟的原因！** 在自動儲存功能關閉時按一下 [自動儲存] 開關現在會將顯示一個有用的註標，說明自動儲存關閉的可能原因。造成自動儲存無法運作的唯一原因，就是文件不在 OneDrive 或 SharePoint 上，而我們將一鍵按鈕功能來方便移動文件。
+ 
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 *版本 1901 (組建 11231.20174)* 
