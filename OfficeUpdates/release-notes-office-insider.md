@@ -1,12 +1,17 @@
 ---
-標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： mikho manager: andrewmo ms.date: 3/1/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_ProPlus描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
+標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： mikho manager: andrewmo ms.date: 3/07/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_ProPlus描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Release Notes for Office 測試人員
 
-本文包含的 Word、 Excel、 PowerPoint、 Outlook、 存取及 Project for Windows desktop 測試人員組建的版本資訊。每週，我們會反白顯示有趣的新功能、 重要的修正程式，且所有重大問題，我們希望您了解。請注意，我們通常推行功能 （和有時甚至修正） 至內部人員在一段時間。這可讓我們以確保項目會順暢運作，釋放更多的對象功能之前。因此，如果您沒有看到如下所述的某個項目，請不要擔心您會看到其最終。  
+本文包含的 Word、 Excel、 PowerPoint、 Outlook、 存取及 Project for Windows desktop 測試人員組建的版本資訊。 每週，我們會反白顯示有趣的新功能、 重要的修正程式，且所有重大問題，我們希望您了解。 請注意，我們通常推行功能 （和有時甚至修正） 至內部人員在一段時間。 這可讓我們在向廣泛的對象發行功能之前確保一切運作正常。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
 
-## <a name="february-25-2019-version-1903-build-1133020014"></a>2019 年 2 月 25 日版本 1903 （組建 11330.20014）
+> [!NOTE]
+> - 版本資訊會張貼每週，且可能會編譯的多個組建。 
+> - 發行備忘稿出版物日期可能不會符合實際組建發行日期。
+
+## <a name="march-1-2019"></a>2019 年 3 月 1 日 
+版本 1903 （組建 11414.20014）
 
 
 ## <a name="notable-fixes"></a>值得注意的修正程式：
@@ -26,7 +31,7 @@
 - 我們已修正此問題： 其中的 「 開啟此工作 」 工作流程功能區按鈕沒有回應的特定電子郵件
 - 我們已修正此問題： 其中 Outlook 並未不會清除在內部部署會議室之後使用者選取可用的會議室的會議室尋找工具
 
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 - 我們更新顯示時確認 relinking 表格與資料來源的提示文字
 - 我們固定有深佈景主題的白色背景的白色文字已儲存的匯入/匯出] 對話方塊
 - 我們修正此問題： 使用者無法設定了是/否欄位的顯示控制項屬性到 Textbox 在資料表設計
@@ -38,7 +43,8 @@
 
 
 
-## <a name="february-12-2019-version-1903-build-1133020014"></a>年 2 月 12 2019年版本 1903 （組建 11330.20014）
+## <a name="february-15-2019"></a>2019 年 2 月 15日日 
+版本 1903 （組建 11310.20016）
 
 ## <a name="whats-new"></a>新功能：
 
@@ -52,13 +58,13 @@
 #### <a name="getting-started"></a>快速入門：
 
 - 若要取得要視為相同物件的兩個物件的 Morph，使用者可以重新命名使用 [選取項目] 窗格中的圖形。
-- 名稱必須做為開頭 」!!!"（兩個驚嘆號） 的 Morph 使用它來覆寫預設的比對的行為，例如 「!!!名稱 」
-- 使用者可以繼續重新命名圖形不會啟動與任何名稱與 「!!!"而不用它會變更 Morph 運作的方式
+- 名稱必須做為開頭 」!!!" （兩個驚嘆號） 的 Morph 使用它來覆寫預設的比對的行為，例如 「!!!名稱 」
+- 使用者可以繼續重新命名圖形不會啟動與任何名稱與 「!!!" Morph 運作而不用它將會變更的方式
 
 #### <a name="scenarios-to-try"></a>可嘗試的案例：
 
 - 在投影片中插入圖形，假設矩形
-- 建立新的投影片
+- 建立新投影片
 - 第 2 個投影片中插入另一個圖案，假設三角形
 - 開啟 SelectionPane、 重新命名的矩形中投影片 1 至 「!!!圖案 」，並重新命名張投影片 2 的三角形 」!!!圖案 」
 - 第 2 個投影片上套用 Morph
@@ -102,7 +108,7 @@ SmartArt morph 與更順暢地轉換
 
 ### <a name="seamlessly-switch-between-accounts"></a>順暢地帳戶之間切換
 
-新的帳戶管理員在一個位置，會顯示所有的工作和個人帳戶，並可能會讓您控制在它們之間切換。此更新的體驗建立清楚如何您登入，並且現在您可以切換工作和個人帳戶而不必先登入或處理的複雜的對話方塊。
+新的帳戶管理員在一個位置，會顯示所有的工作和個人帳戶，並可能會讓您控制在它們之間切換。 此更新的體驗建立清楚如何您登入，並且現在您可以切換工作和個人帳戶而不必先登入或處理的複雜的對話方塊。
 
 
 ![MeMock.png](Images/MeMock.png)
@@ -128,7 +134,7 @@ SmartArt morph 與更順暢地轉換
 ### <a name="outlook"></a>Outlook
 - 我們使用 [傳送至 OneNote 按鈕顯示修正此問題：
 
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 - 各種效能和穩定性的修正程式
 
 ### <a name="project"></a>Project
@@ -136,7 +142,8 @@ SmartArt morph 與更順暢地轉換
 
 
 </BR></BR>
-## <a name="february-9-2019-version-1903-build-1133020014"></a>年 2 月 9 日 2019年版本 1903 （組建 11330.20014）
+## <a name="february-11-2019"></a>2019 年 2 月 11日日
+版本 1903 （組建 11330.20014）
 
 
 ## <a name="notable-fixes"></a>值得注意的修正程式：
@@ -156,7 +163,7 @@ SmartArt morph 與更順暢地轉換
 ### <a name="outlook"></a>Outlook
 - 各種效能和穩定性的修正程式
 
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 - 各種效能和穩定性的修正程式
 
 ### <a name="project"></a>Project
@@ -165,7 +172,8 @@ SmartArt morph 與更順暢地轉換
 </BR></BR>
 
 
-## <a name="january-30-2019-version-1902-build-1132620000"></a>2019 年 1 月 30 日版本 1902 （組建 11326.20000）
+## <a name="february-1-2019"></a>2019 年 2 月 1日日 
+版本 1902 （組建 11326.20000）
 
 
 ## <a name="notable-fixes"></a>值得注意的修正程式
@@ -187,7 +195,7 @@ SmartArt morph 與更順暢地轉換
 ### <a name="outlook"></a>Outlook
 - 我們已修正此問題： 其中行事曆中任務檢視已無法正確顯示任務主旨
 
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 - 我們已擴充性的問題修正與圖表
 
 ### <a name="project"></a>Project
