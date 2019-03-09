@@ -1,5 +1,5 @@
 ---
-標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： mikho manager: andrewmo ms.date: 3/07/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_ProPlus描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
+標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： mikho manager: andrewmo ms.date: 3/08/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_ProPlus描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Release Notes for Office 測試人員
@@ -7,8 +7,56 @@
 本文包含的 Word、 Excel、 PowerPoint、 Outlook、 存取及 Project for Windows desktop 測試人員組建的版本資訊。 每週，我們會反白顯示有趣的新功能、 重要的修正程式，且所有重大問題，我們希望您了解。 請注意，我們通常推行功能 （和有時甚至修正） 至內部人員在一段時間。 這可讓我們在向廣泛的對象發行功能之前確保一切運作正常。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
 
 > [!NOTE]
-> - 版本資訊會張貼每週，且可能會編譯的多個組建。 
-> - 發行備忘稿出版物日期可能不會符合實際組建發行日期。
+> - 版本資訊每週張貼及可能的多個組建編譯
+> - 發行備忘稿出版物日期，可能不符合實際組建發行日期
+
+
+## <a name="march-8-2019"></a>2019 年 3 月 8日日 
+版本 1903 （組建 11425.20036）
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>尋找您所要尋找與 Microsoft Search
+
+與 Microsoft Search，您可以尋找所有檔案、 動作、 人員，並協助您需要完成的工作。
+
+#### <a name="getting-started"></a>快速入門：
+
+- 此功能會顯著，顯示在標頭中的 UI。
+
+#### <a name="scenarios-to-try"></a>可嘗試的案例：
+
+- 搜尋大學、 最近的文件或搜尋您最常使用的功能區命令
+- 尋找新主題，或受到取得更多有關
+
+
+## <a name="notable-fixes"></a>值得注意的修正程式：
+
+### <a name="word"></a>Word 
+- 我們已修正 esc '' 中的選項時，發生損毀問題
+- 我們已修正的註解回覆時，發生損毀問題
+- 我們已修正的問題與複製 & 貼上]，從 Word PowerPoint Online
+
+### <a name="excel"></a>Excel
+- 我們已修正此問題： 其中複製儲存格在 Excel 中導致高 CPU 使用率保護狀態時已開啟的文件並可編輯文件
+
+### <a name="powerpoint"></a>PowerPoint
+- 各種效能和穩定性的修正程式
+
+### <a name="outlook"></a>Outlook
+- 我們已修正此問題： 其中 Outlook 搜尋已不會執行的所選時間順序排序
+- 我們已修正此問題： 其中的 「 開啟此工作 」 工作流程功能區按鈕沒有回應的特定電子郵件
+- 我們已修正此問題： 其中 Outlook 並未不會清除在內部部署會議室之後使用者選取可用的會議室的會議室尋找工具
+
+### <a name="access"></a>Access
+- 我們固定有深佈景主題的白色背景的白色文字已儲存的匯入/匯出] 對話方塊
+- 我們修正此問題： 使用者無法設定了是/否欄位的 DisplayControl 屬性到 Textbox 在資料表設計
+
+### <a name="project"></a>Project
+- 各種效能和穩定性的修正程式
+
 
 ## <a name="march-1-2019"></a>2019 年 3 月 1 日 
 版本 1903 （組建 11414.20014）
