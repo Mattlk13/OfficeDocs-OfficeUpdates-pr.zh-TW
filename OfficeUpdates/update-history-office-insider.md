@@ -3,19 +3,19 @@ title: Office 測試人員通道的更新歷程記錄
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/01/2019
+ms.date: 03/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: bcda4695c35146289f5dbcbc8014775243688a15
-ms.sourcegitcommit: 387d908317422401386311c406299e9515a67566
+ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
+ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2019
-ms.locfileid: "30361748"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30482446"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -25,15 +25,15 @@ ms.locfileid: "30361748"
 
 如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近測試人員版本和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。 
 
-若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://support.office.com/zh-TW/article/insider-release-notes-for-office-for-windows-desktop-523b3d33-8f46-4c79-b427-fdcf40c0b433)。
+若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。
 
-**2019 年 3 月 1 日**<br/> 版本 1902 (組建 11425.20036)<br/> 
+**2019 年 3 月 1 日**<br/> 版本 1903 (組建 11425.20036)<br/> 
 
-**2019 年 2 月 25 日**<br/> 版本 1902 (組建 11414.20014)<br/> 
+**2019 年 2 月 25 日**<br/> 版本 1903 (組建 11414.20014)<br/> 
 
-**2019 年 2 月 12 日**<br/> 版本 1902 (組建 11406.20002)<br/> 
+**2019 年 2 月 12 日**<br/> 版本 1903 (組建 11406.20002)<br/> 
 
-**2019 年 2 月 9 日**<br/> 版本 1902 (組建 11330.20014)<br/> 
+**2019 年 2 月 9 日**<br/> 版本 1903 (組建 11330.20014)<br/> 
 
 **2019 年 1 月 30 日**<br/> 版本 1902 (組建 11326.20000)<br/> 
 
