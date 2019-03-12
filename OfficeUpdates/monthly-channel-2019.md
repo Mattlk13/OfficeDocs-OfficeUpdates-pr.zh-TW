@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379358"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509296"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -46,10 +46,9 @@ ms.locfileid: "30379358"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **在連續會議之間置入時間**將會議預設提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[在這裡](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)[和這裡可深入了解](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2)
+- **在連續會議之間置入時間：** 將會議預設為提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[深入了解](https://support.office.com/zh-TW/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **使用「大聲朗讀」聆聽您的電子郵件：** Outlook 可以大聲朗讀您的電子郵件，強調所朗讀的文字。若要開啟 [大聲朗讀]，請移至 [輕鬆存取] 設定。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **郵件加密：加密專用 IRM 原則：** 新的加密專用的選項會顯示在 Office 365 郵件加密使用者的 [選項] > [權限] 功能表。此選項可讓您加密郵件，並將郵件傳送給組織內外的任何人。[深入了解](https://aka.ms/omeoverview)
-- **循環範圍的新預設值：** 在 [週期設定] 對話方塊中，循環範圍之前的預設值為 [沒有結束日期]。雖然這有助於建立長時間執行的週期性系列，但在一段時間之後可能會發生損壞。我們正將 [週期設定] 對話方塊的預設值更新為 [結束於]，這樣我們的預設值就會符合行事曆操作的建議最佳做法。
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 

@@ -3,23 +3,29 @@ title: Office 測試人員通道的更新歷程記錄
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/07/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
-ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
+ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30482446"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512792"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
 測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
+
+> [!NOTE]
+> - 此處的更新歷程記錄會列出發行的所有組建
+> - 版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。
+
+
 
 ## <a name="office-insider-versions-and-builds"></a>Office 測試人員的版本和組建
 
