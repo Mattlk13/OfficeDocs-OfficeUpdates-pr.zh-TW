@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/4/2019
+ms.date: 3/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: a9860958b4d093b72d84b68b3681094cb3b2f19d
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379348"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568196"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -35,6 +35,36 @@ ms.locfileid: "30379348"
 > - 只會列出最近四個月的版本。
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。 
+
+## <a name="march-12-2019"></a>2019 年 3 月 12 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1902 (組建 11328.20158)。 
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1901 (組建 11231.20130)  <br/> |2019 年 1 月 31 日  <br/> |179<br/> |
+|版本 1901 (組建 11231.20174)  <br/> |2019 年 2 月 12 日  <br/> |177<br/> |
+|版本 1902 (組建 11328.20146)  <br/> |2019 年 3 月 4 日  <br/> |278<br/> |
+
+### <a name="semi-annual-channel"></a>半年通道
+
+最新的版本是版本 1808 (組建 10730.20304)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1808 (組建 10730.20264)  <br/> |2019 年 1 月 8 日  <br/> |84<br/> |
+|版本 1808 (組建 10730.20280) <br/> |2019 年 2 月 12 日  <br/> |74<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
+
+最新的版本是版本 1902 (組建 11328.20158)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1808 (組建 10730.20264)  <br/> |2019 年 1 月 8 日  <br/> |257 <br/> |
+|版本 1808 (組建 10730.20280)  <br/> |2019 年 2 月 12 日  <br/> |256 <br/> |
 
 ## <a name="march-4-2019"></a>2019 年 3 月 4 日
 

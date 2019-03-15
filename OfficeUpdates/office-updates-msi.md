@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本最新更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 2e2d6e8c8c167c8eef407f984cafc6b7d720fbc8
-ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
+ms.openlocfilehash: ccdb1bfce7945be7c85d393b1ddf112626775fb7
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29964525"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568216"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -32,23 +32,25 @@ ms.locfileid: "29964525"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |無  <br/> |2019 年 2 月 PU  <br/> [KB4488446](https://support.microsoft.com/help/4488446) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2019 年 3 月 PU  <br/> [KB4491754](https://support.microsoft.com/help/4491754) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2019 年 2 月 PU  <br/> [KB4488446](https://support.microsoft.com/help/4488446) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2019 年 3 月 PU  <br/> [KB4491754](https://support.microsoft.com/help/4491754) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2019 年 2 月 PU <br/>[KB4488446](https://support.microsoft.com/help/4488446) <br/>|
+|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2019 年 3 月 PU <br/>[KB4491754](https://support.microsoft.com/help/4491754) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月所發行的更新
+
+[2019 年 3 月的安全性和非安全性更新：KB4491754](https://support.microsoft.com/zh-TW/help/4491754) 
 
 [2019 年 2 月的安全性和非安全性更新：KB4488446](https://support.microsoft.com/help/4488446)
 
@@ -72,7 +74,7 @@ ms.locfileid: "29964525"
   
 [2018 年 4 月的安全性和非安全性更新：KB4098622](https://support.microsoft.com/zh-TW/help/4098622) 
   
-[2018 年 3 月的安全性和非安全性更新：KB4090988](https://support.microsoft.com/zh-TW/help/4090988)  
+ 
   
 
   
