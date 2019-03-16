@@ -1,5 +1,5 @@
 ---
-標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： mikho manager: andrewmo ms.date: 3/08/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_ProPlus描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
+標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： v almuzz manager: andrewmo ms.date: 3/15/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_專業增強版的描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Release Notes for Office 測試人員
@@ -10,6 +10,32 @@
 > - 版本資訊每週張貼及可能的多個組建編譯
 > - 發行備忘稿出版物日期，可能不符合實際組建發行日期
 
+## <a name="march-15-2019"></a>2019 年 3 月 15日日 
+版本 1904 （組建 11504.20000）
+
+## <a name="notable-fixes"></a>值得注意的修正程式：
+
+### <a name="word"></a>Word 
+- 我們已修正此問題： 另存為 pdf 格式的文件中的影像位置會有不正確的 DPI
+
+### <a name="excel"></a>Excel
+- 各種效能和穩定性的修正程式
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正此問題： 註解窗格會無法開啟或關閉正確
+- 我們已修正此問題： 其中應用程式可能損毀刪除程序的影片
+- 我們修正此問題： 在某些情況下的應用程式會失敗來啟動
+
+### <a name="outlook"></a>Outlook
+- 我們已修正此問題： 其中讀信回條已在日文中檢視時不正確
+
+### <a name="access"></a>Access
+- 各種效能和穩定性的修正程式
+
+### <a name="project"></a>Project
+- 各種效能和穩定性的修正程式
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>2019 年 3 月 8日日 
 版本 1903 （組建 11425.20036）
