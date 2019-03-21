@@ -3,19 +3,19 @@ title: Office 每月通道 (已設定目標) 的更新歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/08/2019
+ms.date: 03/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: a4b79be302debe7782f193ff15de65888c8d30a1
-ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
+ms.openlocfilehash: 8d0dc92dffc1e7ef6b8b490243b41bd0aeec4ef7
+ms.sourcegitcommit: 9f82708539207fced44253bdd88060c19500cf38
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2019
-ms.locfileid: "30512772"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30568396"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -28,6 +28,10 @@ ms.locfileid: "30512772"
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
 > - 版本資訊更新的頻率較慢，並且可能為最高達版本資訊發行組建編號之多個組建更新的組合
+
+**2019 年 3 月 18 日**<br/> 版本 1903 (組建 Build 11425.20140)<br/>
+
+**2019 年 3 月 12 日**<br/> 版本 1903 (組建 11425.20096)<br/>
 
 **2019 年 3 月 2 日**<br/> 版本 1902 (組建 11328.20146)<br/>
 

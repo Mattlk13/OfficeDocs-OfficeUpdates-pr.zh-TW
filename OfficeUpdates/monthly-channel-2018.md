@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: db7e95f6140b84b4f41c7172868ca124dbb9de3b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
+ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568376"
+ms.lasthandoff: 03/20/2019
+ms.locfileid: "30697621"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -58,7 +58,7 @@ ms.locfileid: "30568376"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
 - **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。[深入了解](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
-- **Outlook 非同步移動郵件：** 以非同步方式執行移動郵件，以提高 Outlook 使用者的生產力。
+- **在移動郵件時繼續作業：** Outlook 現在會在背景中移動郵件，因此，在資料夾之間移動大量郵件時您可以繼續作業。
 - **在 Outlook 中查看人們的 LinkedIn 詳細資料：** 現在，當您開啟連絡人的個人檔案卡片時，即可透過檢視 LinkedIn 個人檔案來深入了解連絡人。
 - **改善焦點收件匣的開啟和關閉體驗：** 對於沒有使用焦點收件匣的客戶，我們已在所有資料夾的郵件清單中恢復 [未讀取] 索引標籤。我們也新增了以旗標為依據的排序功能，讓您能更輕鬆地找到加上旗標的項目。最後，焦點收件匣有更好的互動搜尋模型：焦點收件匣會保留到使用者開始進行搜尋，然後我們在搜尋完成後顯示「結果」文字為止。
 - **依預設在 SMIME 加密和簽章電子郵件中封鎖下載外部內容：** 由於 SMIME 通訊協定中存在漏洞，Outlook 會封鎖從已由 SMIME 加密或簽章的郵件上下載外部內容。使用者無法利用按一下來透過 Outlook UI 下載外部內容，以防止安全漏洞。使用者可使用「選項」對話方塊中的新選項，來還原之前的行為。 
