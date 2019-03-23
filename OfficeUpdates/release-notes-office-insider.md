@@ -1,5 +1,5 @@
 ---
-標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： v almuzz manager: andrewmo ms.date: 3/15/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_專業增強版的描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
+標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： v almuzz manager: andrewmo ms.date: 3/22/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_專業增強版的描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Release Notes for Office 測試人員
@@ -10,7 +10,36 @@
 > - 版本資訊每週張貼及可能的多個組建編譯
 > - 發行備忘稿出版物日期，可能不符合實際組建發行日期
 
-## <a name="march-15-2019"></a>2019 年 3 月 15日日 
+## <a name="march-22-2019"></a>2019 年 3 月 22日日
+版本 1904 （組建 11514.20004）
+
+## <a name="notable-fixes"></a>值得注意的修正程式：
+
+### <a name="word"></a>Word 
+- 我們已修正此問題： 其中 UI 會持續顯示 「 檢查的改變 >
+
+### <a name="excel"></a>Excel
+- 我們已修正此問題： 設定無法移動工作表之後損毀的應用程式
+- 我們已修正此問題： 設定無法儲存成 pdf 格式之後損毀的應用程式
+- 我們已修正此問題： 其中儲存對話方塊不會接受某些韓文字元
+
+### <a name="powerpoint"></a>PowerPoint
+- 各種效能和穩定性的修正程式
+
+### <a name="outlook"></a>Outlook
+- 各種效能和穩定性的修正程式
+
+### <a name="access"></a>Access
+- 我們固定的錯誤訊息在 Access 中建立額外的快速鍵，來存取所在
+- 我們已修正此問題： 從連結的 SharePoint 資料會無法正確顯示
+
+### <a name="project"></a>Project
+- 我們已修正此問題： 其中的語言設定會從切換中文英文
+- 我們已修正此問題： 所在之應用程式可能損毀同步至 SharePoint
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>2019 年 3 月 15日日
 版本 1904 （組建 11504.20000）
 
 ## <a name="notable-fixes"></a>值得注意的修正程式：
