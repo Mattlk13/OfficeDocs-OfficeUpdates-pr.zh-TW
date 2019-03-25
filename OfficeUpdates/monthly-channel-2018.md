@@ -3,19 +3,19 @@ title: 2018 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697621"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737563"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -184,7 +184,7 @@ ms.locfileid: "30697621"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **查看即將推出的功能** 在發行新的使用者體驗之前先行試用，讓我們知道您的想法。[深入了解](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **查看安全連結背後的 URL** 安全連結可協助您防範在電子郵件中收到惡意的 URL，但它們會隱藏原始 URL。現在只需將滑鼠游標移到 URL 上方，即可查看原始內容，甚至有安全連結保護的連結也一樣。
+- **查看安全連結背後的 URL：** 安全連結可保護您防範在電子郵件中收到但隱藏原始 URL 的惡意 URL。 若要查看原始 URL，請將滑鼠游標移到 URL 上。 需要進階威脅防護授權。 [深入了解](https://products.office.com/zh-TW/exchange/advance-threat-protection)
 - **取得搜尋拼字建議**在執行搜尋之後，Outlook 將提供拼字更正的建議搜尋查詢。
 - **功能區圖示有了嶄新的外觀** 別擔心，一切照舊，而且它們在各種尺寸的螢幕上看起來都很棒。[深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
