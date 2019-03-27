@@ -1,5 +1,5 @@
 ---
-title: Office 2010 按一下隨選即用產品的更新歷程記錄
+title: Office 2010 隨選即用產品更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
@@ -9,17 +9,17 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: IT 專業人員提供的 Office 2010 使用 Click-隨選即用的永久版本的更新歷程記錄
+description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
 ms.openlocfilehash: b069b4ccaaf6c3750d9ef162961b108f419e8984
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
-ms.translationtype: MT
+ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2019
+ms.lasthandoff: 03/19/2019
 ms.locfileid: "30568176"
 ---
-# <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 按一下隨選即用產品的更新歷程記錄
+# <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
-下列 Office 2010 產品保持在最新狀態會自動使用稱為按一下-隨選即用的技術。
+下列 Office 2010 產品會使用名為隨選即用的技術自動保持在最新狀態。
   
 - Office Home and Business 2010
     
@@ -27,24 +27,24 @@ ms.locfileid: "30568176"
     
 - Office Starter 2010
     
-如果您使用下列其中一個這些產品，而且您想要確認您是最新狀態，請檢查您的 Office 版本號碼，並手動更新 Office 視。
+如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2010 是**14.0.7230.5000**，其中已於 2019 年 3 月 12 日發行。 
+> 最新版的 Office 2010 是 **14.0.7230.5000**，發行時間為 2019 年 3 月 12 日。 
   
-若要檢查 Office 版本，請執行下列步驟：
+若要查看您的 Office 版本，請執行下列操作：
   
 1. 開啟任何 Office 2010 應用程式，例如 Word 或 Excel。
     
-2. 選擇 [**檔案** > **幫助**。
+2. 選擇 [檔案]**** > [說明]****。
     
-3. 在**按一下 [-隨選即用產品更新**，記下所列的版本號碼。
+3. 請記下列於 [隨選即用產品更新]**** 底下的版本號碼。
     
-    如果的版本號碼符合最新版本，您最新狀態。 如果不是，您可以手動更新以取得 Office 2010 的最新版本。 更新 Office，[請遵循下列步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
+    如果版本號碼與最新版本相符，那麼您用的就是最新版本。 如果不是，您可以手動更新以取得最新版本的 Office 2010。 若要更新 Office，請[依照這些步驟進行](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010)。
     
-### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>更新的發行日期、 版本號碼和修正 for Office 2010 的資訊清單
+### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Office 2010 更新的發行日期、版本號碼及修正程式資訊清單
 
-下表提供更新的清單 for Office 2010 >，要先列出最新發行日期。 如果可以，Microsoft 知識庫 (KB) 文章或 Microsoft 資訊安全佈告欄，其中包含更新中包含的修正的相關資訊，該表格包含連結，與發行的版本號碼。
+下表提供 Office 2010 的更新清單，發行日期最新的部分先列出。 此表格包含發行的版本號碼和 Microsoft 知識庫 (KB) 文章或 Microsoft 資訊安全佈告欄的連結 (如果有的話)，該連結包含隨附於更新之修正程式的相關資訊。
   
 新的版本會包含先前版本所包含的所有更新。
 
@@ -54,18 +54,18 @@ ms.locfileid: "30568176"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2019|年 3 月 12  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
-||月 15 日  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
-||1 月 8 日  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
-|2018|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
-||10 月 9 日  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
-| |9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
-||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
-||7 月 10 日  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
-||6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
-||5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
-||4 月 10 日  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
-||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
+|2019 年|3 月 12 日  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/zh-TW/help/4491754) <br/> |
+||2 月 15 日  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/zh-TW/help/4488446) <br/> |
+||1 月 8 日  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/zh-TW/help/4484800) <br/> |
+|2018|11 月 13 日  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/zh-TW/help/4469617) <br/> |
+||10 月 9 日  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/zh-TW/help/4464656) <br/> |
+| |9 月 11 日  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/zh-TW/help/4459402) <br/> |
+||8 月 14 日  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/zh-TW/help/4346823) <br/> |
+||7 月 10 日  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/zh-TW/help/4340798) <br/> |
+||6 月 12 日  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/zh-TW/help/4299875) <br/> |
+||5 月 8 日  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/zh-TW/help/4133083) <br/> |
+||4 月 10 日  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/zh-TW/help/4098622) <br/> |
+||3 月 13 日  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/zh-TW/help/4090988) <br/> |
 ||2 月 13 日  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||1 月 9 日  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
 |2017  <br/> |12 月 12 日  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
@@ -73,12 +73,12 @@ ms.locfileid: "30568176"
 ||10 月 10 日  <br/> |14.0.7189.5001  <br/> |[KB 4043461](https://support.microsoft.com/help/4043461) <br/> |
 ||9 月 12 日  <br/> |14.0.7188.5002  <br/> |[KB 4040279](https://support.microsoft.com/help/4040279) <br/> |
 ||7 月 27 日  <br/> |14.0.7187.5000  <br/> |[KB 4036121](https://support.microsoft.com/help/4036121) <br/> |
-||年 7 月 11 日  <br/> |14.0.7185.5000  <br/> |[KB 4033107](https://support.microsoft.com/help/4033107) <br/> |
+||7 月 11 日  <br/> |14.0.7185.5000  <br/> |[KB 4033107](https://support.microsoft.com/help/4033107) <br/> |
 ||6 月 13 日  <br/> |14.0.7182.5000  <br/> |[KB 4023935](https://support.microsoft.com/help/4023935) <br/> |
 ||5 月 9 日  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||4 月 11 日  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||3 月 14 日  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
+|2016  <br/> |12 月 13 日  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/zh-TW/kb/3208595) <br/> |
 ||11 月 8 日  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||10 月 11 日  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||9 月 13 日  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |
@@ -110,20 +110,20 @@ ms.locfileid: "30568176"
 ||4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||2 月 12 日  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 安全性公告 MS12 064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 安全性公告 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> 適用於 Office 2010 的定義更新  <br/> |
-||3 月 13 日  <br/> |14.0.6117.5002  <br/> |適用於 Office 2010 的定義更新  <br/> |
-|2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 安全性公告 MS11 089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 垃圾郵件篩選器更新  <br/> |
-||4 月 12 日  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> 適用於 Office 2010 的定義更新  <br/> |
-||2 月 9 日  <br/> |14.0.5130.5004  <br/> |適用於 Office 2010 的定義更新  <br/> |
-|2010  <br/> |12 月 14  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> 適用於 Office 2010 的定義更新  <br/> |
-||11 月 9 日  <br/> |14.0.5128.5002  <br/> |[KB 2289161](https://support.microsoft.com/kb/2289161) <br/> 適用於 Office 2010 的定義更新  <br/> |
-||年 10 月 12 日  <br/> |14.0.5123.5005  <br/> |[KB 2345000](https://support.microsoft.com/kb/2345000) <br/> 適用於 Office 2010 的定義更新  <br/> |
-||年 9 月 14 日  <br/> |14.0.5123.5002  <br/> |[KB 2202188](https://support.microsoft.com/kb/2202188) <br/> [KB 2288640](https://support.microsoft.com/kb/2288640) <br/> 讓 Outlook Social Connector 2010 更新  <br/> 適用於 Office 2010 的定義更新  <br/> |
-||7 月 13 日  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> [KB 2078278](https://support.microsoft.com/kb/2078278) <br/> 適用於 Office 2010 的定義更新  <br/> |
-||年 4 月 15 日  <br/> |14.0.4763.1000  <br/> |這是 「 量產發行 」 (RTM) 版本的 Office 2010。  <br/> |
-||年 2 月 11 日  <br/> |14.0.4545.1000  <br/> |這是 Office 2010 beta 版。  <br/> [KB 980028](https://support.microsoft.com/kb/980028) <br/> |
-|將 [2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (beta)  <br/> |這是 Office 2010 beta 版。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
-||11 月 18  <br/> |14.0.4536.1000  <br/> |這是 Office 2010 beta 版。  <br/> |
+|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 資訊安全佈告欄 MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 資訊安全佈告欄 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Office 2010 的定義更新  <br/> |
+||3 月 13 日  <br/> |14.0.6117.5002  <br/> |Office 2010 的定義更新  <br/> |
+|2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 資訊安全佈告欄 MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 垃圾郵件篩選的更新  <br/> |
+||4 月 12 日  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Office 2010 的定義更新  <br/> |
+||2 月 9 日  <br/> |14.0.5130.5004  <br/> |Office 2010 的定義更新  <br/> |
+|2010  <br/> |12 月 14 日  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Office 2010 的定義更新  <br/> |
+||11 月 9 日  <br/> |14.0.5128.5002  <br/> |[KB 2289161](https://support.microsoft.com/kb/2289161) <br/> Office 2010 的定義更新  <br/> |
+||10 月 12 日  <br/> |14.0.5123.5005  <br/> |[KB 2345000](https://support.microsoft.com/kb/2345000) <br/> Office 2010 的定義更新  <br/> |
+||9 月 14 日  <br/> |14.0.5123.5002  <br/> |[KB 2202188](https://support.microsoft.com/kb/2202188) <br/> [KB 2288640](https://support.microsoft.com/kb/2288640) <br/> Outlook Social Connector 2010 的更新  <br/> Office 2010 的定義更新  <br/> |
+||7 月 13 日  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> [KB 2078278](https://support.microsoft.com/kb/2078278) <br/> Office 2010 的定義更新  <br/> |
+||4 月 15 日  <br/> |14.0.4763.1000  <br/> |這是 Office 2010 的「釋出以便製造」(RTM) 版本。  <br/> |
+||2 月 11 日  <br/> |14.0.4545.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 980028](https://support.microsoft.com/kb/980028) <br/> |
+|2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (搶鮮版 (Beta))  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
+||11 月 18 日  <br/> |14.0.4536.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> |
    
   
 

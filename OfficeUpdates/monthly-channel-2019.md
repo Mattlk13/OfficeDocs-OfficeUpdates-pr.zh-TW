@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/12/2019
+ms.date: 3/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568306"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800523"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -27,7 +27,12 @@ ms.locfileid: "30568306"
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
+> - [安全性更新](office365-proplus-security-updates.md)將開始各別列出每個 Office 365 專業增強版更新通道的安全性更新資訊。 
+
+## <a name="version-1902-march-25"></a>版本 1902：3 月 25 日
+*版本 1902 (組建 11328.20222)*
+
+- 不同的錯誤 (bug) 和效能修正。
 
 ## <a name="version-1902-march-12"></a>版本 1902：3 月 12 日
 *版本 1902 (組建 11328.20158)* 
