@@ -3,19 +3,19 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/27/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: dab70023b36ea0e6456db4c7b9b969f0b59c656d
-ms.sourcegitcommit: 1f7171f728ce96b307858207cd04c59ae830291c
+ms.openlocfilehash: 05f442b7b9a8ec761f737b9e982e81d8b8b368e5
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/28/2019
-ms.locfileid: "30936853"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027893"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
  
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1902 <br/> |11328.20222 <br/> | 2019 年 3 月 25 日 <br/> |版本 1903 發行日期 <br/>|
+|每月  <br/> |1903 <br/> |11425.20202 <br/> | 2019 年 4 月 1 日 <br/> |版本 1904 發行日期 <br/>|
 |半年 (已設定目標)  <br/> |1902  <br/> |11328.20158 <br/> |  2019 年 3 月 12 日 <br/> | 2019 年 9 月 10 日 <br/>|
 |半年 <br/> |1808  <br/> | 10730.20304<br/> | 2019 年 3 月 12 日  <br/> |  2020 年 3 月 10 日 <br/>|
 |半年 <br/> |1803  <br/> | 9126.2356  <br/> | 2019 年 2 月 12 日  <br/> |  2019 年 9 月 10 日 <br/>|
@@ -44,7 +44,8 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019 年|3 月 25 日 |[版本 1902 (組建 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
+|2019|4 月 1 日 |[版本 1903 (組建 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
+|2019|3 月 25 日 |[版本 1902 (組建 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019 年|3 月 12 日 |[版本 1902 (組建 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[版本 1902 (組建 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |版本 1808 (組建 10730.20304)[](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
 |2019|3 月 4 日  |[版本 1902 (組建 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
 |2019|2 月 12 日 |[版本 1901 (組建 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[版本 1808 (組建 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[版本 1808 (組建 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [版本 1803 (組建 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [版本 1708 (組建 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
