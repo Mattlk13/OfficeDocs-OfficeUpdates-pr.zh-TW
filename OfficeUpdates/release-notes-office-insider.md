@@ -1,7 +1,22 @@
 ---
-標題: 「 發行備忘稿的 Office 測試人員-"ms.author: andrewmo 作者： v almuzz manager: andrewmo ms.date: 3/22/2019 ms.audience: Win32 Fast ms.topic： 參考 ms.service: o365 專業增強版 localization_priority： 重要 ms.collection: RelNotes_專業增強版的描述: 」 提供內部人員快速對象與最新清單的重要新功能、 修正或已知的問題
+title: Release Notes for Office 測試人員
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: 提供 Fast 測試人員-對象與最新清單的重要新功能、 修正或已知的問題
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478540"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Release Notes for Office 測試人員
 
 本文包含的 Word、 Excel、 PowerPoint、 Outlook、 存取及 Project for Windows desktop 測試人員組建的版本資訊。 每週，我們會反白顯示有趣的新功能、 重要的修正程式，且所有重大問題，我們希望您了解。 請注意，我們通常推行功能 （和有時甚至修正） 至內部人員在一段時間。 這可讓我們在向廣泛的對象發行功能之前確保一切運作正常。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
@@ -127,7 +142,7 @@
 - 我們已修正此問題： 其中複製儲存格在 Excel 中導致高 CPU 使用率保護狀態時已開啟的文件並可編輯文件
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們已修正的問題與投影片影像大小在 PowerPoint 中使用 @Mentions 時
+- 我們已修正此問題： 投影片影像大小時使用@MentionsPowerPoint 中
 
 ### <a name="outlook"></a>Outlook
 - 我們已修正此問題： 其中 Outlook 搜尋已不會執行的所選時間順序排序
