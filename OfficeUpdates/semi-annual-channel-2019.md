@@ -3,28 +3,26 @@ title: 2019 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/6/2019
+ms.date: 4/9/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568356"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478570"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
-這些版本資訊會提供 2019 年 Office 365 專業增強版的半年通道更新所含新功能、安全性更新和非安全性更新的相關資訊。 
+這些版本資訊可提供 2019 年 Office 365 專業增強版的半年通道更新所含新功能和非安全性更新的相關資訊，包含 Visio Pro for Office 365 和 Project Online 電腦版用戶端。
 
 > [!NOTE]
-> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 在 2019 年 1 月以前，半年通道的舊名為順延通道。
 
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
@@ -71,7 +69,7 @@ ms.locfileid: "30568356"
 ## <a name="version-1803-february-12"></a>版本 1803：2 月 12 日
 *版本 1803 (組建 9126.2356)*
 
-*這是從 2018 年 7 月以來提供的半年通道版本。這個版本會繼續受到支援並會收到安全性更新，直到 2019 年 9 月為止。不過，目前已提供新的半年通道版本 — 版本 1808 (組建 10730.20280) — 其中包含了新功能、安全性更新和非安全性更新。*
+*這是自從 2018 年 7 月以來提供的半年通道版本。 它會繼續受到支援並接收安全性更新，直到 2019 年 9 月為止。 不過，目前已提供新的半年通道版本，即版本 1808 (組建 10730.20280)，其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新 
 
@@ -103,7 +101,7 @@ ms.locfileid: "30568356"
 ## <a name="version-1708-february-12"></a>版本 1708：2 月 12 日
 *版本 1708 (組建 8431.2372)*
 
-*這是自從 2018 年 1 月以來提供的半年通道版本。它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。不過，目前已提供新的半年通道版本 — 版本 1808 (組建 10730.20280) — 其中包含了新功能、安全性更新和非安全性更新。*
+*這是自從 2018 年 1 月以來提供的半年通道版本。 它會繼續受到支援並接收安全性更新，直到 2019 年 3 月為止。 不過，目前已提供新的半年通道版本，即版本 1808 (組建 10730.20280)，其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 
@@ -111,7 +109,7 @@ ms.locfileid: "30568356"
 
 
 ## <a name="version-1808-january-8"></a>版本 1808：1 月 8 日
-版本 1808 (組建 10730.20264)**
+*版本 1808 (組建 10730.20264)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
 
@@ -260,9 +258,9 @@ ms.locfileid: "30568356"
 
 
 ## <a name="version-1803-january-8"></a>版本 1803：1 月 8 日
-版本 1803 (組建 9126.2351)**
+*版本 1803 (組建 9126.2351)*
 
-這是從 2018 年 7 月以來提供的半年通道版本。這個版本會繼續受到支援並會收到安全性更新，直到 2019 年 9 月為止。不過，目前已提供新的半年通道版本 — 版本 1808 — 其中包含了新功能、安全性更新和非安全性更新。**
+*這是自從 2018 年 7 月以來提供的半年通道版本。 它會繼續受到支援並接收安全性更新，直到 2019 年 9 月為止。 不過，目前已提供新的半年通道版本，即版本 1808，其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 - 修正問題，確保 LinkedIn 選項在 各 Office 應用程式之間的一致性。

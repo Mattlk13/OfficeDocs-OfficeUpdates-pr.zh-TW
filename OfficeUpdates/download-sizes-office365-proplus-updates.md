@@ -3,19 +3,19 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/3/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: b62212216545a690172901bef75543778b6dad64
-ms.sourcegitcommit: 7380adc27555df032fbc89fb3b68bafa82e0fad4
+ms.openlocfilehash: 89e16d8802ba6093b3ce0fb2d44dc3cc8fa61567
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31043429"
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478560"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -59,7 +59,7 @@ ms.locfileid: "31043429"
 
 ### <a name="monthly-channel"></a>每月通道
 
-預期的版本為版本 1903 (組建 11425.20202) 
+最新的版本是版本 1903 (組建 11425.20202)。 
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
