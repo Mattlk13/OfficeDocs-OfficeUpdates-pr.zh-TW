@@ -1,320 +1,360 @@
 ---
-title: Release Notes for Office 測試人員
+title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 3/22/2019
+ms.date: 4/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 提供 Fast 測試人員-對象與最新清單的重要新功能、 修正或已知的問題
-ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
-ms.translationtype: MT
+description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
+ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478540"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516068"
 ---
-# <a name="release-notes-for-office-insiders"></a>Release Notes for Office 測試人員
+# <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
-本文包含的 Word、 Excel、 PowerPoint、 Outlook、 存取及 Project for Windows desktop 測試人員組建的版本資訊。 每週，我們會反白顯示有趣的新功能、 重要的修正程式，且所有重大問題，我們希望您了解。 請注意，我們通常推行功能 （和有時甚至修正） 至內部人員在一段時間。 這可讓我們在向廣泛的對象發行功能之前確保一切運作正常。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
+本文包含 Windows 電腦版 Word、Excel、PowerPoint、Outlook、Access 和 Project 測試人員組建的版本資訊。 我們每週都強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們在一段時間內會經常推出新功能 (某些時候還有修正) 給測試人員。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
 
 > [!NOTE]
-> - 版本資訊每週張貼及可能的多個組建編譯
-> - 發行備忘稿出版物日期，可能不符合實際組建發行日期
+> - 版本資訊會每週發佈，可能是多個組建的編譯
+> - 版本資訊發佈日期可能與實際組建發行日期不相符
 
-## <a name="march-22-2019"></a>2019 年 3 月 22日日
-版本 1904 （組建 11514.20004）
+## <a name="april-5th-2019"></a>2019 年 4 月 5 日
+版本 1904 (組建 11527.20014)
 
-## <a name="notable-fixes"></a>值得注意的修正程式：
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all-applications"></a>所有應用程式
+ - 我們已修正 Excel 的內容功能表中會出現錯誤應用程式圖示的問題
+- 我們已修正在安裝更新之後 [檔案功能表] 按鈕會消失的問題
+- 我們已修正會變更您的使用者授權的問題
 
 ### <a name="word"></a>Word 
-- 我們已修正此問題： 其中 UI 會持續顯示 「 檢查的改變 >
+- 我們已修正文字在特定縮放比例中無法正常顯示的問題
 
 ### <a name="excel"></a>Excel
-- 我們已修正此問題： 設定無法移動工作表之後損毀的應用程式
-- 我們已修正此問題： 設定無法儲存成 pdf 格式之後損毀的應用程式
-- 我們已修正此問題： 其中儲存對話方塊不會接受某些韓文字元
+- 我們已修正使用者在進行編輯之後未收到儲存活頁簿提示的問題
+- 我們已修正當使用者共用活頁簿時未觸發 BeforeSave 事件的問題。
+- 我們已修正將欄的大小重新調整為小於 6 像素會擲回不正確錯誤訊息的問題。
+- 我們已修正 Excel 忽略 Application.Visible 旗標的問題
+- 我們已修正追蹤箭號保留在非作用中凍結窗格的問題
+- 我們已修正在開啟活頁簿時日期和貨幣儲存格格式會變更的問題
+- 我們已修正工具提示會意外移動的問題
+- 我們已修正 Power Query 編輯器的當地語系化問題
+- 我們已修正在透過電子郵件傳送時活頁簿附件會遭到移除的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 各種效能和穩定性的修正程式
+- 我們已修正複製圖形會比預期還要久的問題
 
 ### <a name="outlook"></a>Outlook
-- 各種效能和穩定性的修正程式
+- 我們已修正在使用繪圖工具時 Outlook 可能會當機的問題
+- 我們已修正當撰寫 html 電子郵件時的當地語系化問題
+- 我們已修正使用者在選取下面窗格時會遇到困難的問題
 
 ### <a name="access"></a>Access
-- 我們固定的錯誤訊息在 Access 中建立額外的快速鍵，來存取所在
-- 我們已修正此問題： 從連結的 SharePoint 資料會無法正確顯示
+- 修正多項效能和穩定性
 
 ### <a name="project"></a>Project
-- 我們已修正此問題： 其中的語言設定會從切換中文英文
-- 我們已修正此問題： 所在之應用程式可能損毀同步至 SharePoint
+- 修正多項效能和穩定性
 
 </BR></BR>
 
-## <a name="march-15-2019"></a>2019 年 3 月 15日日
-版本 1904 （組建 11504.20000）
+## <a name="march-22-2019"></a>2019 年 3 月 22 日
+版本 1904 (組建 11514.20004)
 
-## <a name="notable-fixes"></a>值得注意的修正程式：
+## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
-- 我們已修正此問題： 另存為 pdf 格式的文件中的影像位置會有不正確的 DPI
+- 我們已修正 UI 經常會顯示「正在檢查變更」的問題
 
 ### <a name="excel"></a>Excel
-- 各種效能和穩定性的修正程式
+- 我們已修正應用程式可能在移動工作表之後當機的問題
+- 我們已修正應用程式可能在儲存為 PDF 之後當機的問題
+- 我們已修正儲存對話方塊不會接受某些韓文字元的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們已修正此問題： 註解窗格會無法開啟或關閉正確
-- 我們已修正此問題： 其中應用程式可能損毀刪除程序的影片
-- 我們修正此問題： 在某些情況下的應用程式會失敗來啟動
+- 修正多項效能和穩定性
 
 ### <a name="outlook"></a>Outlook
-- 我們已修正此問題： 其中讀信回條已在日文中檢視時不正確
+- 修正多項效能和穩定性
 
 ### <a name="access"></a>Access
-- 各種效能和穩定性的修正程式
+- 我們已修正 Access 中對 Access 建立額外捷徑的錯誤訊息
+- 我們已修正來自連結 SharePoint 的資料無法正確顯示的問題
 
 ### <a name="project"></a>Project
-- 各種效能和穩定性的修正程式
+- 我們已修正語言設定會從中文切換為英文的問題
+- 我們已修正應用程式可能在同步處理到 SharePoint 時當機的問題
 
 </BR></BR>
 
-## <a name="march-8-2019"></a>2019 年 3 月 8日日 
-版本 1903 （組建 11425.20036）
+## <a name="march-15-2019"></a>2019 年 3 月 15 日
+版本 1904 (組建 11504.20000)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="word"></a>Word 
+- 我們已修正以 PDF 格式儲存文件時，文件中影像的 DPI 會不正確的問題
+
+### <a name="excel"></a>Excel
+- 修正多項效能和穩定性
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正註解窗格無法正確開啟或關閉的問題
+- 我們已修正應用程式會在刪除影片時當機的問題
+- 我們已修正於某些情況下應用程式會無法啟動的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正以日文檢視時讀信回條不正確的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
+
+## <a name="march-8-2019"></a>2019 年 3 月 8 日 
+版本 1903 (組建 11425.20036)
 
 ## <a name="whats-new"></a>新功能：
 
 ### <a name="word"></a>Word
 
-### <a name="find-what-youre-looking-for-with-microsoft-search"></a>尋找您所要尋找與 Microsoft Search
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>使用 Microsoft Search 尋找您要的內容
 
-與 Microsoft Search，您可以尋找所有檔案、 動作、 人員，並協助您需要完成的工作。
+您可以使用 Microsoft Search 找到所有檔案、動作、人員，協助您完成工作所需。
 
-#### <a name="getting-started"></a>快速入門：
+#### <a name="getting-started"></a>開始使用：
 
-- 此功能會顯著，顯示在標頭中的 UI。
+- 這個功能在標題中的 UI 上方強調顯示。
 
-#### <a name="scenarios-to-try"></a>可嘗試的案例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
 
-- 搜尋大學、 最近的文件或搜尋您最常使用的功能區命令
-- 尋找新主題，或受到取得更多有關
+- 搜尋某間大學、最近使用過的文件或搜尋最常用的功能區命令
+- 尋找某個主題或主旨並取得更多相關資訊
 
 
-## <a name="notable-fixes"></a>值得注意的修正程式：
+## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
-- 我們已修正 esc '' 中的選項時，發生損毀問題
-- 我們已修正的註解回覆時，發生損毀問題
-- 我們已修正的問題與複製 & 貼上]，從 Word PowerPoint Online
+- 我們已修正在 [選項] 中按下 ESC 鍵時發生的當機問題
+- 我們已修正回覆註解時發生的當機問題
+- 我們已修正從 Word 到 PowerPoint Online 的複製與貼上問題
 
 ### <a name="excel"></a>Excel
-- 我們已修正此問題： 其中複製儲存格在 Excel 中導致高 CPU 使用率保護狀態時已開啟的文件並可編輯文件
+- 我們已修正當受保護的文件和可編輯的文件在開啟時複製 Excel 儲存格導致高 CPU 使用率的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 ### <a name="outlook"></a>Outlook
-- 我們已修正此問題： 其中 Outlook 搜尋已不會執行的所選時間順序排序
-- 我們已修正此問題： 其中的 「 開啟此工作 」 工作流程功能區按鈕沒有回應的特定電子郵件
-- 我們已修正此問題： 其中 Outlook 並未不會清除在內部部署會議室之後使用者選取可用的會議室的會議室尋找工具
+- 我們已修正 Outlook 搜尋未依所選時間順序排序的問題
+- 我們已修正 [開啟此工作] 工作流程功能區按鈕無法回應特定電子郵件的問題
+- 我們已修正使用者在 [會議室尋找工具] 中選取可用的會議室後，Outlook 無法清除內部部署會議室的問題
 
 ### <a name="access"></a>Access
-- 我們固定有深佈景主題的白色背景的白色文字已儲存的匯入/匯出] 對話方塊
-- 我們修正此問題： 使用者無法設定了是/否欄位的 DisplayControl 屬性到 Textbox 在資料表設計
+- 我們已修正已儲存的匯入/匯出對話方塊在深色佈景主題中有白色文字在白色背景的問題
+- 我們已修正使用者在表格設計中無法針對 [文字方塊] 的 [是/否] 欄位設定 DisplayControl 屬性的問題
 
 ### <a name="project"></a>Project
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 
 ## <a name="march-1-2019"></a>2019 年 3 月 1 日 
-版本 1903 （組建 11414.20014）
+版本 1903 (組建 11414.20014)
 
 
-## <a name="notable-fixes"></a>值得注意的修正程式：
+## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
-- 我們已修正 esc '' 中的選項時，發生損毀問題
-- 我們已修正的問題與複製 & 貼上]，從 Word PowerPoint Online
+- 我們已修正在 [選項] 中按下 ESC 鍵時發生的當機問題
+- 我們已修正從 Word 到 PowerPoint Online 的複製與貼上問題
 
 ### <a name="excel"></a>Excel
-- 我們已修正此問題： 其中複製儲存格在 Excel 中導致高 CPU 使用率保護狀態時已開啟的文件並可編輯文件
+- 我們已修正當受保護的文件和可編輯的文件在開啟時複製 Excel 儲存格導致高 CPU 使用率的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們已修正此問題： 投影片影像大小時使用@MentionsPowerPoint 中
+- 我們已修正在 PowerPoint 中使用 @Mentions 的投影片圖像大小問題
 
 ### <a name="outlook"></a>Outlook
-- 我們已修正此問題： 其中 Outlook 搜尋已不會執行的所選時間順序排序
-- 我們已修正此問題： 其中的 「 開啟此工作 」 工作流程功能區按鈕沒有回應的特定電子郵件
-- 我們已修正此問題： 其中 Outlook 並未不會清除在內部部署會議室之後使用者選取可用的會議室的會議室尋找工具
+- 我們已修正 Outlook 搜尋未依所選時間順序排序的問題
+- 我們已修正 [開啟此工作] 工作流程功能區按鈕無法回應特定電子郵件的問題
+- 我們已修正使用者在 [會議室尋找工具] 中選取可用的會議室後，Outlook 無法清除內部部署會議室的問題
 
 ### <a name="access"></a>Access
-- 我們更新顯示時確認 relinking 表格與資料來源的提示文字
-- 我們固定有深佈景主題的白色背景的白色文字已儲存的匯入/匯出] 對話方塊
-- 我們修正此問題： 使用者無法設定了是/否欄位的顯示控制項屬性到 Textbox 在資料表設計
+- 我們已更新確認使用資料來源重新連結資料表時顯示的提示文字
+- 我們已修正已儲存的匯入/匯出對話方塊在深色佈景主題中有白色文字在白色背景的問題
+- 我們已修正使用者在表格設計中無法針對 [文字方塊] 的 [是/否] 欄位設定 [顯示控制項] 屬性的問題
 
 ### <a name="project"></a>Project
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 </BR></BR>
 
 
 
-## <a name="february-15-2019"></a>2019 年 2 月 15日日 
-版本 1903 （組建 11310.20016）
+## <a name="february-15-2019"></a>2019 年 2 月 15 日 
+版本 1903 (組建 11310.20016)
 
 ## <a name="whats-new"></a>新功能：
 
 ### <a name="powerpoint"></a>PowerPoint
 
 
-### <a name="morph-transition-enhancements---morph-by-name"></a>依名稱的 Morph-morph 轉換增強功能
+### <a name="morph-transition-enhancements---morph-by-name"></a>轉化轉場增強效果 - 依名稱轉化
 
-指定您想要轉化的圖形
+選取要轉化的圖形
 
-#### <a name="getting-started"></a>快速入門：
+#### <a name="getting-started"></a>開始使用：
 
-- 若要取得要視為相同物件的兩個物件的 Morph，使用者可以重新命名使用 [選取項目] 窗格中的圖形。
-- 名稱必須做為開頭 」!!!" （兩個驚嘆號） 的 Morph 使用它來覆寫預設的比對的行為，例如 「!!!名稱 」
-- 使用者可以繼續重新命名圖形不會啟動與任何名稱與 「!!!" Morph 運作而不用它將會變更的方式
+- 若要使轉化將兩個物件視為同一個物件，使用者可以使用 [選取窗格] 重新命名圖形。
+- 名稱前面必須加上「!!」 (兩個半形驚嘆號)，例如「!!名稱」，轉化才能用來覆寫預設比對行為
+- 使用者可以繼續將圖形重新命名為不是以「!!」為開頭的任何名稱 不必擔心會變更轉化的運作方式
 
-#### <a name="scenarios-to-try"></a>可嘗試的案例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
 
-- 在投影片中插入圖形，假設矩形
+- 在投影片中插入圖形，讓我們假設是矩形
 - 建立新投影片
-- 第 2 個投影片中插入另一個圖案，假設三角形
-- 開啟 SelectionPane、 重新命名的矩形中投影片 1 至 「!!!圖案 」，並重新命名張投影片 2 的三角形 」!!!圖案 」
-- 第 2 個投影片上套用 Morph
+- 在第 2 張投影片中插入不同的圖形，讓我們假設是三角形
+- 開啟 [選取窗格]，將投影片 1 中的矩形重新命名為「!!圖形」，將投影片 2 中的三角形重新命名為「!!圖形」
+- 將 [轉化] 套用至第 2 張投影片
 
 </BR>
 
-### <a name="morph-transition-enhancements---smartart"></a>SmartArt-morph 轉換增強功能
+### <a name="morph-transition-enhancements---smartart"></a>轉化轉場增強效果 - SmartArt
 
-SmartArt morph 與更順暢地轉換
+轉場更順暢的 SmartArt 轉化
 
-#### <a name="getting-started"></a>快速入門：
+#### <a name="getting-started"></a>開始使用：
 
-使用 Morph smartart 相同的方式
+您使用 SmartArt 的方式與轉化相同
 
-#### <a name="scenarios-to-try"></a>可嘗試的案例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
 
 - 在投影片中插入 SmartArt
-- 重複的投影片
-- 調整大小/變更/移動重複投影片上的 SmartArt
-- 重複的投影片上套用 Morph
+- 複製投影片
+- 在複製的投影片上調整大小/變更/移動 SmartArt
+- 在複製的投影片上套用 [轉化]
 
 </BR>
 
-### <a name="morph-transition-enhancements---tables"></a>Morph 轉換增強功能-表格
+### <a name="morph-transition-enhancements---tables"></a>轉化轉場增強效果 - 表格​​
 
-使用更順暢地切換的資料表 morph
+轉場更順暢的表格轉化
 
-#### <a name="getting-started"></a>快速入門：
-使用 Morph 表格上使用相同的方式
+#### <a name="getting-started"></a>開始使用：
+您使用表格的方式與轉化相同
 
-#### <a name="scenarios-to-try"></a>可嘗試的案例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
 
 - 在投影片中插入表格
-- 重複的投影片
-- 調整大小/變更/移動重複的投影片上的表格
-- 重複的投影片上套用 Morph
+- 複製投影片
+- 在複製的投影片上調整大小/變更/移動表格
+- 在複製的投影片上套用 [轉化]
 
 </BR>
 
-### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a>Word、 Excel、 PowerPoint、 OneNote、 存取、 Project、 Publisher & Visio
+### <a name="word-excel-powerpoint-onenote-access-project-publisher--visio"></a>Word、Excel、PowerPoint、OneNote、Access、Project、Publisher 和 Visio
 
-### <a name="seamlessly-switch-between-accounts"></a>順暢地帳戶之間切換
+### <a name="seamlessly-switch-between-accounts"></a>在不同帳戶之間順暢切換
 
-新的帳戶管理員在一個位置，會顯示所有的工作和個人帳戶，並可能會讓您控制在它們之間切換。 此更新的體驗建立清楚如何您登入，並且現在您可以切換工作和個人帳戶而不必先登入或處理的複雜的對話方塊。
+全新的帳戶管理員會在同一個地方顯示您所有的工作和個人帳戶，讓您能控制在其間切換。 這項更新的經驗能清楚知道您的登入方法，因此您現在不需要先登出或處理複雜的對話方塊就可以切換工作和個人帳戶。
 
 
 ![MeMock.png](Images/MeMock.png)
 
-#### <a name="scenarios-to-try"></a>可嘗試的案例：
-- 在帳戶之間切換
-- 新增帳戶 [附註： 您可能想要先移至 [檔案 |帳戶 |連線的服務，並移除任何個人的服務連線至工作帳戶，反之亦然]
+#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
+- 在不同的帳戶之間切換
+- 新增帳戶 [附註：您可能想要先移至 [檔案] | [帳戶] | [已連線服務]，移除任何已連線至工作帳戶的個人服務或是反向服務]
 - 登出帳戶
 </BR>
 
-## <a name="notable-fixes"></a>值得注意的修正程式：
+## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
-- 我們以表格 & 影像的快顯預覽修正此問題：
+- 我們已修正表格和影像的內容預覽問題
 
 ### <a name="excel"></a>Excel
-- 我們已修正此問題： 自動篩選] 搜尋欄位中的文字所在白色在黑色的佈景主題
-- 我們固定同意 UI 此問題： 使用新的 Office 增益集
+- 我們已修正在黑色佈景主題中，自動篩選的搜尋欄位中文字是白色的問題
+- 我們已修正新 Office 增益集的同意 UI 問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們使用時的膝上型電腦或平板電腦上呈現投影片會自動擴充顯示修正的問題。
+- 我們已修正在膝上型電腦或平板電腦上進行投影片簡報時自動延伸顯示的問題。
 
 ### <a name="outlook"></a>Outlook
-- 我們使用 [傳送至 OneNote 按鈕顯示修正此問題：
+- 我們已修正 [傳送至 OneNote] 按鈕的顯示問題
 
 ### <a name="access"></a>Access
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 ### <a name="project"></a>Project
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 
 </BR></BR>
-## <a name="february-11-2019"></a>2019 年 2 月 11日日
-版本 1903 （組建 11330.20014）
+## <a name="february-11-2019"></a>2019 年 2 月 11 日
+版本 1903 (組建 11330.20014)
 
 
-## <a name="notable-fixes"></a>值得注意的修正程式：
+## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
-- 我們已修正此問題： 其中一些自訂的樣式無法套用至 word online
-- 我們使用豐富的物件，在 Word 中固定內容預覽問題
-- 我們已修正此問題： 其中貼上清單會導致 Word 當機
+- 我們已修正某些自訂樣式無法套用至線上 Word 的問題
+- 我們已修正 Word 中豐富物件的內容預覽問題
+- 我們已修正貼上清單會導致 Word 當機的問題
 
 ### <a name="excel"></a>Excel
-- 我們已修正此問題： 其中附加的空格之後的數字格式都不會再顯示時，也沒有貨幣符號
-- 我們修正此問題： 使用自動偵測如股票
+- 我們已修正無貨幣符號時，數字格式後的附加空白不再顯示的問題
+- 我們已修正自動偵測股票的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 ### <a name="outlook"></a>Outlook
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 ### <a name="access"></a>Access
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 ### <a name="project"></a>Project
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
 
 </BR></BR>
 
 
-## <a name="february-1-2019"></a>2019 年 2 月 1日日 
-版本 1902 （組建 11326.20000）
+## <a name="february-1-2019"></a>2019 年 2 月 1 日 
+版本 1902 (組建 11326.20000)
 
 
-## <a name="notable-fixes"></a>值得注意的修正程式
+## <a name="notable-fixes"></a>值得注意的修正
 
 ### <a name="word"></a>Word 
-- 我們已修正的問題與內嵌的 Excel 表格中調整大小的儲存格
-- 我們使用複製/貼上的繪圖畫布中之圖案修正此問題：
+- 我們已修正內嵌 Excel 表格中調整儲存格大小的問題
+- 我們已修正繪圖畫布中複製/貼上圖形的問題
 
 ### <a name="excel"></a>Excel
-- 我們已修正的問題與從 Excel Web app 開啟檔案
-- 我們已修正此問題： 在儲存為 CSV 檔案。XLSX 已失敗因為檔案的名稱大小
-- 我們固定來顯示快顯功能表選項的快顯功能表
+- 我們已修正從 Excel Web App 開啟檔案的問題
+- 我們已修正因為檔名大小造成 CSV 檔案儲存為 XLSX 失敗的問題
+- 我們已修正快顯功能表顯示快顯功能表選項的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們固定發出其中使用者已無法使用鍵盤快速鍵 ctrl + alt + 7/ctrl + alt + 8 輸入方括號
-- 我們已修正此問題： 本機程序的影片插入 PPT 會其中降低 'C' 磁碟機的磁碟空間
-- 我們固定 [發佈到其中一些使用者已不顯示 Microsoft Stream 按鈕
+- 我們已修正使用者無法使用鍵盤快速鍵 ctrl+alt+7/ctrl+alt+8 輸入方括號的問題
+- 我們已修正將本機影片插入至 PPT 會減少 C 磁碟機磁碟空間的問題
+- 我們已修正 [發佈至 Microsoft Stream] 按鈕無法向某些使用者顯示的問題
 
 ### <a name="outlook"></a>Outlook
-- 我們已修正此問題： 其中行事曆中任務檢視已無法正確顯示任務主旨
+- 我們已修正行事曆中工作檢視無法正確顯示工作主旨的問題
 
 ### <a name="access"></a>Access
-- 我們已擴充性的問題修正與圖表
+- 我們已修正圖表的縮放比例的問題
 
 ### <a name="project"></a>Project
-- 各種效能和穩定性的修正程式
+- 修正多項效能和穩定性
