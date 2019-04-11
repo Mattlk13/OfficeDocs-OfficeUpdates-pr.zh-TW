@@ -3,19 +3,19 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478550"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751494"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -27,6 +27,26 @@ ms.locfileid: "31478550"
  
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1902-april-9"></a>版本 1902：4 月 9 日
+*版本 1902 (組建 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+
+- 解決了在連絡人卡片上載入圖片時導致客戶遇到當機的問題。
+- 解決了導致某些客戶在啟動 Office 應用程式時遇到當機的問題。
+- 已修正當系統工作列停留在螢幕左側或頂部時，視窗無法顯示在正確位置的問題。
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+
+- 如果檔案以唯讀模式開啟，然後您從 [資訊] 窗格中按一下 [另存新檔]，修正問題以便顯示儲存 UI。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
+- 已修正下載連結圖片時，造成懸置的迴歸。
+- 已修正在 Word、Excel、PowerPoint 貼上大型 EMF 檔案的模糊問題。
+- 已修正版本歷程記錄剖析邏輯時，在少數情況下導致文件以唯讀模式開啟的錯誤 (bug)。
 
 ## <a name="version-1902-march-12"></a>版本 1902：3 月 12 日
 *版本 1902 (組建 11328.20158)*

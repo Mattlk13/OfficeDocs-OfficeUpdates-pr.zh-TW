@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 99ea2f8a3ec131b643fc6c964585e7e0b592efe7
-ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
+ms.openlocfilehash: 4a8c42ea3cfc6e80aea0d898854398c150f1b9f2
+ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/10/2019
-ms.locfileid: "31751524"
+ms.locfileid: "31763731"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -45,6 +45,8 @@ ms.locfileid: "31751524"
 - **更順暢的變形** 為圖形命名，進一步控制圖形的轉化效果。 [深入了解](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **提高內容的方便使用性：** 想要讓您的簡報更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
+
+- **當您可以重複使用時為什麼要重新打造？**  重複使用您所建立的投影片或其他人與您共用的投影片來以節省時間。 [深入了解](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 
