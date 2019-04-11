@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: 99ea2f8a3ec131b643fc6c964585e7e0b592efe7
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516458"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751524"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -28,8 +28,13 @@ ms.locfileid: "31516458"
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
 
-## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日
-*版本 1903 (組建 11425.20202)*
+## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
+*版本 1903 (組建 11425.20204)* 
+
+安全性更新列於[此處](office365-proplus-security-updates.md)
+
+## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日 
+*版本 1903 (組建 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
@@ -40,6 +45,13 @@ ms.locfileid: "31516458"
 - **更順暢的變形** 為圖形命名，進一步控制圖形的轉化效果。 [深入了解](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **提高內容的方便使用性：** 想要讓您的簡報更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+
+- 修正因第三方 SfB / Lync SDK 應用程式存在，而導致商務用 Skype 在回應聊天通知時停止回應的問題。
+- 修正將特定剪貼簿內容貼到聊天時，應用程式當機的問題。
+- 修正由其中一位通話專員接聽的通話佇列通話的「接受者」資訊無法顯示的問題。
+- 已修正當 Teams 使用者加入商務用 Skype 會議時，通話圖示隱藏的問題。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
