@@ -3,19 +3,19 @@ title: 2019 年半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478570"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745545"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -27,6 +27,18 @@ ms.locfileid: "31478570"
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
 > - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
+
+## <a name="version-1808-april-9"></a>版本 1808：4 月 9 日
+*版本 1808 (組建 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+
+- 已修正使用者可在 IE 或 Edge 以匿名方式開啟文件的問題。
+- 已修正問題：將文字強調顯示色彩格式設定套用至任何 Word 文檔頁首/頁腳 PAGE 和/或 NUMPAGES 功能變數後，將欄位呈現為黑色而不是套用的文字強調顯示色彩。
+- 我們為日本新時代新增了 Word 日語明信片精靈增益集的支援。 
+
+## <a name="version-1803-april-9"></a>版本 1803：4 月 9 日
+本月無更新。
 
 ## <a name="version-1808-march-12"></a>版本 1808：3 月 12 日
 *版本 1808 (組建 10730.20304)*
