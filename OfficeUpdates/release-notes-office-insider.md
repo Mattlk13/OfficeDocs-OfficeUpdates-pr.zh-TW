@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/5/2019
+ms.date: 4/11/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a829ee5b17b51382cbb85dd7a135b271b62235fc
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516068"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818510"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,7 +25,38 @@ ms.locfileid: "31516068"
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
 
-## <a name="april-5th-2019"></a>2019 年 4 月 5 日
+## <a name="april-11-2019"></a>2019 年 4 月 11 日
+版本 1905 (組建 11601.20042)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all-applications"></a>所有應用程式
+ - 我們已修正會防止使用者將檔案儲存到雲端位置的問題
+ - 我們已修正可能從功能區開啟錯誤窗格的問題
+
+### <a name="word"></a>Word 
+- 修正多項效能和穩定性
+
+### <a name="excel"></a>Excel
+- 我們已修正當活頁簿不包含連結資料類型時，使用者會看到連結資料類型之錯誤訊息的問題
+- 我們已修正在本機與線上檢視 Word 文件時，文件中的 URL 連結可能變更的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正應用程式可能會在從 [動畫] 索引標籤復原變更之後當機的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正會防止一些使用者修改公用資料夾中連絡人 [備註] 欄位的問題
+- 我們已修正到期日與刪除日期之間可能發生衝突的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
+
+## <a name="april-5-2019"></a>2019 年 4 月 5 日
 版本 1904 (組建 11527.20014)
 
 ## <a name="notable-fixes"></a>值得注意的修正：
