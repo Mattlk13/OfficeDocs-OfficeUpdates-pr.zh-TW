@@ -3,19 +3,19 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 05f442b7b9a8ec761f737b9e982e81d8b8b368e5
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 17a39855ca7e302eeb92f0ca642dfd55db422b7d
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027893"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751504"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -29,12 +29,12 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 下列表格會列出每個更新通道的支援版本及最新組建編號。 
  
-|**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
+|**通道**|**版本**|**建置**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1903 <br/> |11425.20202 <br/> | 2019 年 4 月 1 日 <br/> |版本 1904 發行日期 <br/>|
-|半年 (已設定目標)  <br/> |1902  <br/> |11328.20158 <br/> |  2019 年 3 月 12 日 <br/> | 2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1808  <br/> | 10730.20304<br/> | 2019 年 3 月 12 日  <br/> |  2020 年 3 月 10 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2356  <br/> | 2019 年 2 月 12 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|每月  <br/> |1903 <br/> |11425.20204 <br/> | 2019 年 4 月 9 日 <br/> |版本 1904 發行日期 <br/>|
+|半年 (已設定目標)  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
+|半年 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
+|半年 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
 
@@ -44,25 +44,26 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|4 月 9 日 |[版本 1903 (組建 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[版本 1902 (組建 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[版本 1808 (組建 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [版本 1803 (組建 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|4 月 1 日 |[版本 1903 (組建 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
-|2019|3 月 25 日 |[版本 1902 (組建 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
-|2019 年|3 月 12 日 |[版本 1902 (組建 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[版本 1902 (組建 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |版本 1808 (組建 10730.20304)[](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
-|2019|3 月 4 日  |[版本 1902 (組建 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
-|2019|2 月 12 日 |[版本 1901 (組建 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[版本 1808 (組建 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[版本 1808 (組建 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [版本 1803 (組建 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [版本 1708 (組建 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019 年|3 月 25 日 |[版本 1902 (組建 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
+|2019 年|3 月 12 日 |[版本 1902 (組建 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[版本 1902 (組建 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[版本 1808 (組建 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
+|2019 年|3 月 4 日  |[版本 1902 (組建 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | |
+|2019 年|2 月 12 日 |[版本 1901 (組建 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[版本 1808 (組建 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[版本 1808 (組建 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [版本 1803 (組建 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [版本 1708 (組建 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|1 月 31 日   |[版本 1901 (組建 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
-|2019|1 月 14 日   |[版本 1812 (組建 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
-|2019|1 月 8 日 |[版本 1812 (組建 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[版本 1808 (組建 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[版本 1808 (組建 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [版本 1803 (組建 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [版本 1708 (組建 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
-|2019|1 月 3 日   |[版本 1812 (組建 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
+|2019 年|1 月 14 日   |[版本 1812 (組建 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
+|2019 年|1 月 8 日 |[版本 1812 (組建 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[版本 1808 (組建 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[版本 1808 (組建 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [版本 1803 (組建 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [版本 1708 (組建 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019 年|1 月 3 日   |[版本 1812 (組建 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|12 月 11 日 |[版本 1811 (組建 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[版本 1808 (組建 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[版本 1803 (組建 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [版本 1708 (組建 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
-|2018|11 月 27 日   |[版本 1811 (組建 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
+|2018 年|11 月 27 日   |[版本 1811 (組建 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018|11 月 13 日 |[版本 1810 (組建 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[版本 1808 (組建 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[版本 1803 (組建 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [版本 1708 (組建 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018|10 月 29 日 |[版本 1810 (組建 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |
-|2018|10 月 16 日 |[版本 1809 (組建 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018 年|10 月 16 日 |[版本 1809 (組建 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
 |2018|10 月 9 日 |[版本 1809 (組建 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[版本 1808 (組建 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[版本 1803 (組建 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [版本 1708 (組建 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
-|2018|9 月 27 日   |[版本 1809 (組建 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
+|2018 年|9 月 27 日   |[版本 1809 (組建 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018|9 月 11 日   |[版本 1808 (組建 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[版本 1808 (組建 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[版本 1803 (組建 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [版本 1708 (組建 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
-|2018|9 月 5 日   |[版本 1808 (組建 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
-|2018|8 月 14 日   |[版本 1807 (組建 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[版本 1803 (組建 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803 (組建 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708 (組建 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018 年|9 月 5 日   |[版本 1808 (組建 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018 年|8 月 14 日   |[版本 1807 (組建 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[版本 1803 (組建 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[版本 1803 (組建 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [版本 1708 (組建 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||7 月 25 日   |[版本 1807 (組建 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||7 月 17 日   |[版本 1806 (組建 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||7 月 10 日   |[版本 1806 (組建 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[版本 1803 (組建 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[版本 1803 (組建 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [版本 1708 (組建 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
@@ -79,7 +80,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 ||4 月 10 日   |   | [版本 1803 (組建 9126.2152)](semi-annual-channel-targeted-2018.md#version-1803-april-10)   | [版本 1708 (組建 8431.2242)](semi-annual-channel-2018.md#version-1708-april-10)  <br/>   [版本 1705 (組建 8201.2272)](semi-annual-channel-2018.md#version-1705-april-10)   |
 ||3 月 27 日   | [版本 1803 (組建 9126.2116)](monthly-channel-2018.md#version-1803-march-27)   |   |   |
 ||3 月 20 日   |   | [版本 1803 (組建 9126.2098)](semi-annual-channel-targeted-2018.md#version-1803-march-20)   |   |
-||3 月 13 日  | [版本 1802 (組建 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [版本 1803 (組建 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [版本 1708 (組建 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [版本 1705 (組建 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
+||3 月 13 日  | [版本 1802 (組建 9029.2253)](monthly-channel-2018.md#version-1802-march-13)   | [版本 1803 (組建 9126.2072)](semi-annual-channel-targeted-2018.md#version-1803-march-13)   | [ 版本 1708 (組建 8431.2236)](semi-annual-channel-2018.md#version-1708-march-13) <br/>    [版本 1705 (組建 8201.2265)](semi-annual-channel-2018.md#version-1705-march-13)   |
 ||2 月 26 日   | [版本 1802 (組建 9029.2167)](monthly-channel-2018.md#version-1802-february-26)   |   |   |
 ||2 月 13 日   | [版本 1801 (組建 9001.2171)](monthly-channel-2018.md#version-1801-february-13)   | [版本 1708 (組建 8431.2215)](semi-annual-channel-targeted-2018.md#version-1708-february-13)   | [版本 1708 (組建 8431.2215)](semi-annual-channel-2018.md#version-1708-february-13)  <br/>   [版本 1705 (組建 8201.2258)](semi-annual-channel-2018.md#version-1705-february-13)   |
 ||2 月 7 日   | [版本 1801 (組建 9001.2144)](monthly-channel-2018.md#version-1801-february-7)   |   |   |
@@ -93,7 +94,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 ||11 月 27 日  <br/> | [版本 1710 (組建 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||11 月 24 日  <br/> |  <br/> |  <br/> |[版本 1705 (組建 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
 ||11 月 20 日  <br/> | [版本 1710 (組建 8625.2132)](monthly-channel-2017.md#version-1710-november-20)  <br/> |  <br/> |  <br/> |
-||11 月 14 日  <br/> | [版本 1710 (組建 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [版本 1708 (組建 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [版本 1705 (組建 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [版本 1701 (組建 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
+||11 月 14 日  <br/> | [Version 1710 (Build 8625.2127)](monthly-channel-2017.md#version-1710-november-14)  <br/> | [ 版本 1708 (組建 8431.2110)](semi-annual-channel-targeted-2017.md#version-1708-november-14)  <br/> | [版本 1705 (組建 8201.2207)](semi-annual-channel-2017.md#version-1705-november-14)  <br/>  [版本 1701 (組建 7766.2122)](semi-annual-channel-2017.md#version-1701-november-14)  <br/> |
 ||11 月 2 日  <br/> |[版本 1710 (組建 8625.2121)](monthly-channel-2017.md#version-1710-november-2)  <br/> |  <br/> |  <br/> |
 ||10 月 25 日  <br/> | [版本 1709 (組建 8528.2147)](monthly-channel-2017.md#version-1709-october-25)  <br/> |  <br/> |  <br/> |
 ||10 月 16 日  <br/> | [版本 1709 (組建 8528.2139)](monthly-channel-2017.md#version-1709-october-16)  <br/> |  <br/> |  <br/> |
@@ -111,7 +112,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 ||7 月 28 日  <br/> | [版本 1707 (組建 8326.2059)](monthly-channel-2017.md#version-1707-july-28)  <br/> |  <br/> |  <br/> |
 ||7 月 27 日  <br/> | [版本 1707 (組建 8326.2058)](monthly-channel-2017.md#version-1707-july-27)  <br/> |[版本 1705 (組建 8201.2158)](semi-annual-channel-targeted-2017.md#version-1705-july-27)  <br/> | [版本 1701 (組建 7766.2099)](semi-annual-channel-2017.md#version-1701-july-27)  <br/>  [版本 1609 (組建 7369.2154)](semi-annual-channel-2017.md#version-1609-july-27)  <br/> |
 ||7 月 19 日  <br/> | [版本 1706 (組建 8229.2103)](monthly-channel-2017.md#version-1706-july-19)  <br/> |  <br/> |  <br/> |
-||7 月 13 日  <br/> | [版本 1706 (組建 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [版本 1705 (組建 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [版本 1701 (組建 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [版本 1609 (組建 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
+||7 月 13 日  <br/> | [版本 1706 (組建 8229.2086)](monthly-channel-2017.md#version-1706-july-13)  <br/> | [版本 1705 (組建 8201.2136)](semi-annual-channel-targeted-2017.md#version-1705-july-13) <br/> | [版本 1701 (組建 7766.2096)](semi-annual-channel-2017.md#version-1701-july-13)  <br/>  [Version 1609 (Build 7369.2151)](semi-annual-channel-2017.md#version-1609-july-13)  <br/> |
 ||6 月 28 日  <br/> | [版本 1706 (組建 8229.2073)](monthly-channel-2017.md#version-1706-june-28)  <br/> |  <br/> |  <br/> |
 ||6 月 13 日  <br/> | [版本 1705 (組建 8201.2102)](monthly-channel-2017.md#version-1705-june-13)  <br/> | [版本 1705 (組建 8201.2102)](semi-annual-channel-targeted-2017.md#version-1705-june-13)  <br/> | [版本 1701 (組建 7766.2092)](semi-annual-channel-2017.md#version-1701-june-13)  <br/>  [版本 1609 (組建 7369.2139)](semi-annual-channel-2017.md#version-1609-june-13)  <br/> |
 ||6 月 7 日  <br/> | [版本 1705 (組建 8201.2075)](monthly-channel-2017.md#version-1705-june-7)  <br/> |  <br/> |  <br/> |
@@ -129,7 +130,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 ||1 月 25 日  <br/> | [版本 1612 (組建 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |
 ||1 月 10 日  <br/> |  <br/> | [版本 1609 (組建 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [版本 1605 (組建 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [版本 1602 (組建 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||1 月 4 日  <br/> | [版本 1611 (組建 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |
-|2016|12 月 13 日  <br/> | [版本 1611 (組建 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[版本 1609 (組建 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [版本 1605 (組建 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [版本 1602 (組建 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
+|2016|12 月 13 日  <br/> | [版本 1611 (組建 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[ 版本 1609 (組建 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [版本 1605 (組建 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [版本 1602 (組建 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
 ||12 月 6 日  <br/> | [版本 1611 (組建 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |
 ||11 月 10 日  <br/> | [版本 1610 (組建 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |
 ||11 月 8 日  <br/> |[版本 1609 (組建 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> | [版本 1609 (組建 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [版本 1605 (組建 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [版本 1602 (組建 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
