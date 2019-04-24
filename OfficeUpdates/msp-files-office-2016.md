@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 專業人員提供永久版本的 Office 2016，使用 Windows Installer (MSI) 的最新的.msp 檔案清單
 ms.openlocfilehash: 8ccebf9a8eee47a862d8e3cf3847a8bac4538c2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745515"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438818"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品的最新的.msp 檔案清單
 
@@ -51,7 +51,7 @@ ms.locfileid: "31745515"
 |.msp filename * * *|產品 * * *|非安全性發行日期 * * *|非安全性 KB 文章 * * *|安全性發行日期 * * *|安全性版本 KB 文章 * * *|安全性 KB 抑制 * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |存取-x-無  <br/> |Access 2016  <br/> |2019 年 3 月 5日日  <br/> |[4462192](https://support.microsoft.com/help/4462192) <br/> |2018 年 7 月 10 日  <br/> |[4018338](https://support.microsoft.com/en-us/help/4018338) <br/> |[4011665](https://support.microsoft.com/en-us/help/4011665) <br/> |
-|ace-x-無  <br/> |Office 2016  <br/> |2017 年 9 月 5日日  <br/> |[3191924](https://support.microsoft.com/help/3191924) <br/> |2019 年 4 月 9日日  <br/> |[4462213](https://support.microsoft.com/help/4462213) <br/> |[4018294](https://support.microsoft.com/help/4018294)  <br/> |
+|ace-x-無  <br/> |Office 2016  <br/> |2017 年 9 月 5日日  <br/> |[3191924](https://support.microsoft.com/help/3191924) <br/> |2019 年 4 月 9 日  <br/> |[4462213](https://support.microsoft.com/help/4462213) <br/> |[4018294](https://support.microsoft.com/help/4018294)  <br/> |
 |acewss-x-無  <br/> |Office 2016  <br/> |2017 年 11 月 7日日  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |圖表-x-無  <br/> |Office 2016  <br/> |2019 年 4 月 2日日  <br/> |[4464501](https://support.microsoft.com/en-us/help/4464501) <br/> |2018 年 4 月 10 日  <br/> |[4018319](https://support.microsoft.com/en-us/help/4018319) <br/> |[4011095](https://support.microsoft.com/en-us/help/4011095) <br/> |
 |conv-x-無  <br/> |Office 2016  <br/> |不適用  <br/> |不適用  <br/> |2017 年 9 月 12 日  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
@@ -59,7 +59,7 @@ ms.locfileid: "31745515"
 |csisyncclient-x-無  <br/> |Office 2016  <br/> |2016 年 10 月 4日日  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |dcf-x-無  <br/> |Office 2016  <br/> |2019 年 1 月 2 日  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |eqnedt32-x-無  <br/> |Office 2016  <br/> |不適用  <br/> |不適用  <br/> |2018 年 1 月 9 日  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|excel-x-無  <br/> |Excel 2016  <br/> |2019 年 3 月 5日日  <br/> |[4462212](https://support.microsoft.com/help/4462212) <br/> |2019 年 4 月 9日日  <br/> |[4462236](https://support.microsoft.com/en-us/help/4462236) <br/> |[4462115](https://support.microsoft.com/en-us/help/4462115) <br/> |
+|excel-x-無  <br/> |Excel 2016  <br/> |2019 年 3 月 5日日  <br/> |[4462212](https://support.microsoft.com/help/4462212) <br/> |2019 年 4 月 9 日  <br/> |[4462236](https://support.microsoft.com/en-us/help/4462236) <br/> |[4462115](https://support.microsoft.com/en-us/help/4462115) <br/> |
 |excelpp-x-無  <br/> |Office 2016  <br/> |2017 年 12 月 5日日  <br/> |[4011218](https://support.microsoft.com/help/4011218) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |exppdf-x-無  <br/> |Office 2016  <br/> |2016 年 4 月 5日日  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |filterpack-x-無  <br/> |Office 2016  <br/> |2015 年 12 月 8日日  <br/> |[2920684](https://support.microsoft.com/help/2920684) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
@@ -73,7 +73,7 @@ ms.locfileid: "31745515"
 |lync-x-無  <br/> |商務用 Skype 2016  <br/> |2019 年 4 月 2日日  <br/> |[4462234](https://support.microsoft.com/en-us/help/4462234) <br/> |2018 年 11 月 13 日  <br/> |[4461473](https://support.microsoft.com/help/4461473) <br/> |[4022221](https://support.microsoft.com/help/4022221)  <br/> |
 |mscomctlocx-x-無  <br/> |Office 2016  <br/> |不適用  <br/> |不適用  <br/> |2016 年 1 月 12 日  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |不適用  <br/> |
 |msmipc-x-無  <br/> |Office 2016  <br/> |2017 年 4 月 4日日  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|mso-x-無  <br/> |Office 2016  <br/> |2019 年 3 月 5日日  <br/> |[4462214](https://support.microsoft.com/en-us/help/4462214) <br/> |2019 年 4 月 9日日  <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |[4462146](https://support.microsoft.com/en-us/help/4462146) <br/> |
+|mso-x-無  <br/> |Office 2016  <br/> |2019 年 3 月 5日日  <br/> |[4462214](https://support.microsoft.com/en-us/help/4462214) <br/> |2019 年 4 月 9 日  <br/> |[4462242](https://support.microsoft.com/en-us/help/4462242) <br/> |[4462146](https://support.microsoft.com/en-us/help/4462146) <br/> |
 |msodll20-x-無  <br/> |Office 2016  <br/> |2018 年 9 月 4日日  <br/> |[4011670](https://support.microsoft.com/help/4011670) <br/> |2017 年 6 月 13 日  <br/> |[3178667](https://support.microsoft.com/help/3178667) <br/> |不適用  <br/> |
 |msodll30-x-無  <br/> |Office 2016  <br/> |2019 年 3 月 5日日  <br/> |[4462195](https://support.microsoft.com/en-us/help/4462195) <br/> |2017 年 9 月 12 日  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui-x-無  <br/> |Office 2016  <br/> |2018 年 10 月 2日日  <br/> |[4461442](https://support.microsoft.com/en-us/help/4461442) <br/> |2016 年 5 月 10 日  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |不適用  <br/> |
