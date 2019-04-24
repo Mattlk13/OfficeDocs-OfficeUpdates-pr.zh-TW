@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818510"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958134"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,7 +25,60 @@ ms.locfileid: "31818510"
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
 
-## <a name="april-11-2019"></a>2019 年 4 月 11 日
+## <a name="april-19-2019"></a>2019 年 4 月 19 日
+版本 1905 (組建 11609.20002)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>使用資料類型改善區域分布圖體驗
+
+此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。
+
+##### <a name="getting-started"></a>開始使用：
+
+- 此功能是 Excel 內現有功能的增強功能。 若要使用增強功能，請將位置轉換為豐富的實體，並使用區域分布圖繪製。 
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+- 使用者可以嘗試對應城市、省/市、縣/市、國家/地區和郵遞區號。 
+
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all-applications"></a>所有應用程式
+- 我們已修正每當應用程式啟動時會顯示 [初次執行] 對話方塊的問題
+- 我們已修正 [另存新檔] 對話方塊中 SharePoint 連結可能遺失的問題。
+- 我們已修正使用者錯誤地看到 [立即修復] 對話方塊的問題
+
+### <a name="word"></a>Word 
+- 我們已修正某些使用者在要求字型時，可能會收到記憶體或磁碟空間不足錯誤的問題
+- 我們已修正視窗從 [註解] 窗格切換時，焦點可能會遺失的問題
+
+### <a name="excel"></a>Excel
+- 修正多項效能和穩定性
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正會妨礙調整商標圖形大小的問題
+- 我們已修正在受保護的檢視模式中開啟檔案時，PowerPoint 會當機的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正會防礙一些使用者選取中文文字的問題
+- 我們已修正未正確計算到期日的問題
+
+### <a name="access"></a>Access
+- 我們已修正會防礙一些使用者使用巨集建立器的問題
+- 我們已修正列印報表只會列印第一頁的問題
+- 我們已修正將游標移到超連結上時，應用程式會當機的問題
+- 我們已修正使用關聯性檢視檢視時，造成某些項目在螢幕上消失的問題
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905 (組建 11601.20042)
 
 ## <a name="notable-fixes"></a>值得注意的修正：
@@ -213,7 +266,7 @@ ms.locfileid: "31818510"
 - 我們已修正當受保護的文件和可編輯的文件在開啟時複製 Excel 儲存格導致高 CPU 使用率的問題
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們已修正在 PowerPoint 中使用 @Mentions 的投影片圖像大小問題
+- 我們已修正在 PowerPoint 中使用 @提及的投影片圖像大小問題
 
 ### <a name="outlook"></a>Outlook
 - 我們已修正 Outlook 搜尋未依所選時間順序排序的問題
