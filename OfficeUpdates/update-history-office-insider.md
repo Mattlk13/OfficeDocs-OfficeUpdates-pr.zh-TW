@@ -3,19 +3,19 @@ title: Office 測試人員通道的更新歷程記錄
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/19/2019
+ms.date: 04/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: b7eeee07099d7e1e32bad421d00c4a0570ff4e62
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516468"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958144"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -33,7 +33,11 @@ ms.locfileid: "31516468"
 
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。
 
-**2019 年 4 月 1 日**<br/> 版本 1904 (組建 11527.20004)<br/>
+[//]: # (請勿移除)
+
+**2019 年 4 月 15 日**<br/> 版本 1905 (組建 11609.20002)<br/>
+
+**2019 年 4 月 7 日**<br/> 版本 1904 (組建 11601.20042)<br/>
 
 **2019 年 3 月 18 日**<br/> 版本 1904 (組建 11520.20004)<br/>
 
@@ -68,7 +72,9 @@ ms.locfileid: "31516468"
 **Twitter 上的 Office 測試人員**<br/> 我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。<br/> 
 [在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[![I影像顯示 Facebook 圖示。 ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+
+  [
+  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **搶先使用新功能**
