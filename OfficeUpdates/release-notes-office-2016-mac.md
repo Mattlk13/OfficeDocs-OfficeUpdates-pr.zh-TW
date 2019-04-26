@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 從 2018 年 9 月開始為 IT 專業人員提供 Mac 版 Office 2016 的版本資訊
-ms.openlocfilehash: 801964703a2a43f721a31b7692d1dd24f69450d0
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
+ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924331"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "32460138"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Mac 版 Office 2016 的版本資訊
 
@@ -35,9 +35,9 @@ Mac 版 Office 2016 的更新可從 Microsoft AutoUpdate (MAU) 取得。若要�
 下表列出 Mac 版 Office 2016 和個別應用程式 (例如，Word 和 Excel) 的最新套件。所有套件都只提供 64 位元版本。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。如果您尚未安裝應用程式則會使用安裝套件，至於更新套件，則是用來更新現有安裝的。
 
 ### <a name="april-16-2019"></a>2019 年 4 月 16 日
-版本 16.16 (19041201)
+版本 16.16.9 (19041201)
 
-|**Application**|**下載連結**|**安裝套件的 SHA256 雜湊**|
+|**應用程式**|**下載連結**|**安裝套件的 SHA256 雜湊**|
 |:-----|:-----|:-----|:-----|
 |Office 套件 (所有應用程式)  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | 249E708A9432092D5BDEFE9AE81AFC108C19E43EBB96EAA8CCCF79F4FDA8F5B8 <br/> |
 |Word  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19041201_Updater.pkg) <br/> | 8A7B53137D85A1E053F341E5E5CF9F90124F8BD0265A7F19FD5636194BAACC00 <br/>|
@@ -50,7 +50,7 @@ Mac 版 Office 2016 的更新可從 Microsoft AutoUpdate (MAU) 取得。若要�
 
  **發行日期：** 2019 年 4 月 16 日 
   
- *版本 16.16 (組建 19041201)* 
+ 版本 16.16.9 (組建 19041201)** 
   
 此版本提供下列更新。
   
@@ -138,7 +138,7 @@ Mac 版 Office 2016 的更新可從 Microsoft AutoUpdate (MAU) 取得。若要�
 
  **發行日期：** 2018 年 11 月 13 日 
   
- *版本 16.16.4  (組建 18111001)* 
+ *版本 16.16.4 (組建 18111001)* 
   
 此版本提供下列更新。
   
