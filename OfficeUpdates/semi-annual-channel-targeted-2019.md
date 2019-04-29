@@ -3,19 +3,19 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958044"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370305"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -31,11 +31,26 @@ ms.locfileid: "31958044"
 ## <a name="version-1902-april-9"></a>版本 1902：4 月 9 日
 *版本 1902 (組建 11328.20230)*
 
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+
+- 解決了當儲存格中包含的公式結尾為定義的名稱時，按下 Tab 鍵不會移至下一個儲存格的問題。
+- 解決了儲存格格式設定導致檔案大小不必要地增加的問題。
+- 解決了在活頁簿之間剪下並貼上樞紐分析表可能導致貼上資料，但沒有您正與其共同作業的其他人的樞紐分析表的問題。
+
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
+- 已修正當系統工作列停留在螢幕左側或頂部時，視窗無法顯示在正確位置的問題。
 - 解決了在連絡人卡片上載入圖片時導致客戶遇到當機的問題。
 - 解決了導致某些客戶在啟動 Office 應用程式時遇到當機的問題。
 - 已修正當系統工作列停留在螢幕左側或頂部時，視窗無法顯示在正確位置的問題。
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+
+- 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
+
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+
+- 已修正第三方解決方案利用停用動態 DPI 功能來擴充 Visio，造成損毀視窗階層問題的問題。
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 
@@ -43,6 +58,9 @@ ms.locfileid: "31958044"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 
+- 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 
+  [深入了解]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
 - 已修正在 Word、Excel、PowerPoint 貼上大型 EMF 檔案的模糊問題。
