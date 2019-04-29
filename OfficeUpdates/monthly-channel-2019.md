@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/18/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 6222443b6b6d22d2d80b135fe10fec61ff96d708
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438648"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370285"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -46,9 +46,12 @@ ms.locfileid: "32438648"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903 (組建 11425.20204)* 
 
-安全性更新列於[此處](office365-proplus-security-updates.md)
+- 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日 
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+- 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
+
+## <a name="version-1903-april-01"></a>版本 1903：4 月 1 日
 *版本 1903 (組建 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
