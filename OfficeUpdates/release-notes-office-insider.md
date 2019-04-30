@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
+ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438901"
+ms.lasthandoff: 04/28/2019
+ms.locfileid: "33370185"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -24,6 +24,32 @@ ms.locfileid: "32438901"
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
+
+## <a name="april-26-2019"></a>2019 年 4 月 26 日
+版本 1905 (組建 11617.20002)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="word"></a>Word 
+- 修正多項效能和穩定性
+
+### <a name="excel"></a>Excel
+- 我們已修正 Solver 巨集無法執行的問題
+- 我們已修正阻止 Excel 檔案匯入到 SharePoint 的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 修正多項效能和穩定性
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="april-19-2019"></a>2019 年 4 月 19 日
 版本 1905 (組建 11609.20002)
