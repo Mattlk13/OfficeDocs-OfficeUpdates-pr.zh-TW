@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370285"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480085"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -27,6 +27,30 @@ ms.locfileid: "33370285"
 
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
+
+## <a name="version-1904-april-29"></a>版本 1904：4 月 29 日
+*版本 1904 (組建 11601.20144)* 
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **隱私權控制：** 用於診斷資料的連線體驗的新增、更新及改良的控制項。 [深入了解](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
 
 ## <a name="version-1903-april-23"></a>版本 1903：4 月 23 日
 版本 1903 (組建 11425.20244)**

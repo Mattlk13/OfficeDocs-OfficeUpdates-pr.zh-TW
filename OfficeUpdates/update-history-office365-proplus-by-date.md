@@ -3,19 +3,19 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/24/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: a919e2deb8bb244f93a10f479339a760b3b936d6
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370235"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480094"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
  
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1903 <br/> |11425.20244 <br/> | 2019 年 4 月 22 日 <br/> |版本 1904 發行日期 <br/>|
+|每月  <br/> |1904 <br/> |11601.20144 <br/> | 2019 年 4 月 29 日 <br/> |版本 1905 發行日期 <br/>|
 |半年 (已設定目標)  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
 |半年 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
 |半年 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
@@ -44,6 +44,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|4 月 29 日 |[版本 1904 (組建 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019|4 月 22 日 |[版本 1903 (組建 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|4 月 17 日 |[版本 1903 (組建 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
 |2019 年|4 月 16 日 |[版本 1903 (組建 11425.20218)](monthly-channel-2019.md#version-1903-april-16)| | |
