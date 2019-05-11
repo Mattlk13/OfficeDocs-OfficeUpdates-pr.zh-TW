@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370185"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882762"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -24,6 +24,65 @@ ms.locfileid: "33370185"
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
+
+## <a name="may-10-2019"></a>2019 年 5 月 10 日
+版本 1906 (組建 11702.20000)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+- 我們已修正 [另存新檔] 對話方塊顯示不正確路徑的問題
+
+### <a name="word"></a>Word 
+- 我們已修正有些「告訴我」選項無法插入的問題
+
+### <a name="excel"></a>Excel
+- 修正多項效能和穩定性
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 修正多項效能和穩定性
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 我們已修正任務識別碼需要醒目提示才能看見的問題
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>2019 年 5 月 3 日
+版本 1906 (組建 11629.20008)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+- 我們已修正有些使用者使用商務用 OneDrive 同步處理時遇到的問題
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- 我們已修正升級至較新版 Excel 後活頁簿的外部連結有時會被移除的問題
+- 我們已修正有些使用者可能會遇到無法在新活頁簿中選取儲存格的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正將繪圖轉換成文字時字型大小不一致的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正從 .VCF 檔案儲存連絡人可能會導致空白欄位的問題
+- 我們已修正即使郵件已寄出卻仍卡在寄件匣資料夾的問題
+- 我們已修正檢視 DRM 訊息時 Outlook 可能會當機的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 我們已修正編輯器會從中文切換為英文的問題
+- 我們已修正主專案的已發佈複本中出現未發佈工作的問題
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>2019 年 4 月 26 日
 版本 1905 (組建 11617.20002)
