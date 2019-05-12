@@ -3,19 +3,18 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
+ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480085"
+ms.lasthandoff: 05/09/2019
+ms.locfileid: "33834812"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -28,6 +27,11 @@ ms.locfileid: "33480085"
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
 
+## <a name="version-1904-may-08"></a>版本 1904：5 月 8 日 
+*版本 1904 (組建 11601.20178)* 
+
+ - 各種錯誤和效能修正。
+
 ## <a name="version-1904-april-29"></a>版本 1904：4 月 29 日
 *版本 1904 (組建 11601.20144)* 
 
@@ -35,15 +39,25 @@ ms.locfileid: "33480085"
 
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
 
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **將您的 LinkedIn 人際網路連接至 Outlook：** 安全地將您的 LinkedIn 帳戶與 Microsoft 帳戶連結，以直接在人員卡片中查看 LinkedIn 個人資料中的資訊。 [深入了解](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
+- **將進度圖表匯出到 Word：** 在 Word 文件中自動新增圖表內容，如圖案和中繼資料。 然後，自訂文件來建立程序指導方針和操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+ - **追蹤修訂、註解和即時共同作業的色彩會同步：** 我們產品中的修正現在可確保註解、追蹤修訂及共同作業者的游標會以相同色彩顯示。
+
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **新圖示：** 根據您的意見反應，我們新增了超過 300 個新圖示。 使用功能區 [插入] 索引標籤上的 [圖示] 按鈕，即可以找到它們。
 
 - **隱私權控制：** 用於診斷資料的連線體驗的新增、更新及改良的控制項。 [深入了解](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
@@ -79,6 +93,8 @@ ms.locfileid: "33480085"
 *版本 1903 (組建 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **Excel 的深入解析：** 深入分析可為廣泛的使用者帶來價值。 深入分析為資料分析提供較柔和的方法，並為其他人提供您的資料的不同觀點。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **提高內容的方便使用性：** 想要讓您的試算表更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能，我們會在狀態列上告訴您需要留意的部分。
 
@@ -166,6 +182,8 @@ ms.locfileid: "33480085"
 - **他們會看到您的 meme：** 如果使用文字或靜態影像還不足以清楚表達您的想法，您可以使用動畫 GIF。[深入了解](https://support.office.com/article/114BB251-861F-41CD-B20F-7E7289630C5B)
  
 ### <a name="visio-feature-updates"></a>Visio：功能更新
+
+- **資料流程圖上的 Double-Take：** 資料視覺化工具流程圖美觀的新版面配置，既清新、簡潔且更易於了解。 [深入了解](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **內建的 Azure 樣板：** 使用數十種 Azure 樣板來設計雲端應用程式或規劃架構。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
