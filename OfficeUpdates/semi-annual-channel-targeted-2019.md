@@ -3,19 +3,18 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370305"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034494"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -27,6 +26,37 @@ ms.locfileid: "33370305"
  
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1902-may-14"></a>版本 1902：5 月 14 日
+*版本 1902 (組建 11328.20286)*
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+ -  已修正在 Excel 中使用相機工具可能會造成試算表當機的問題。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+ - 解決造成客戶無法編輯所移轉項目上某些欄位的問題。
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+- 已修正在罕見的情況下，PowerPoint 停止將使用者的變更上傳到雲端的問題。
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+ - 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
+ - 使用用來登入其他 Office 應用程式的認證來登入商務用 Skype。
+ - 隨著共用電腦啟用安裝時，正確地啟用商務用 Skype 應用程式。
+
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+ - 已修正第三方解決方案利用停用動態 DPI 功能來擴充 Visio，造成損毀視窗階層問題的問題。
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+ - 已修正編輯 SharePoint 新增的相關人員可能會當機的問題。
+ - 已修正 Word 啟動時出現的「無法載入資源」對話方塊。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+ - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+ - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
+ - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。
+ - 已修正與間歇性的空白登入提示相關的問題。
+ 
 
 ## <a name="version-1902-april-9"></a>版本 1902：4 月 9 日
 *版本 1902 (組建 11328.20230)*
@@ -43,10 +73,7 @@ ms.locfileid: "33370305"
 - 解決了在連絡人卡片上載入圖片時導致客戶遇到當機的問題。
 - 解決了導致某些客戶在啟動 Office 應用程式時遇到當機的問題。
 - 已修正當系統工作列停留在螢幕左側或頂部時，視窗無法顯示在正確位置的問題。
-
-### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
-
-- 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
+- 解決造成客戶無法編輯所移轉項目上某些欄位的問題。
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全性更新
 
@@ -59,7 +86,7 @@ ms.locfileid: "33370305"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 
 - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 
-  [深入了解]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+  [深入了解]("https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
 - 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
@@ -97,7 +124,8 @@ ms.locfileid: "33370305"
 - **循環範圍的新預設值：** 在 [週期設定] 對話方塊中，循環範圍之前的預設值為 [沒有結束日期]。雖然這有助於建立長時間執行的週期性系列，但在一段時間之後可能會發生損壞。我們正將 [週期設定] 對話方塊的預設值更新為 [結束於]，這樣我們的預設值就會符合行事曆操作的建議最佳做法。
 - **從 Outlook 提醒對話方塊加入小組會議：** 當 Outlook 提醒使用者有即將來臨的會議時，如果即將來臨的會議是小組線上會議，則它會顯示 [線上加入] 按鈕。這個動作與從 Outlook [提醒] 對話方塊加入商務用 Skype 會議的體驗類似。
 - **停止看到過去事件的提醒：** 您可以設定行事曆，以在事件結束之後自動關閉事件的提醒。 [深入了解](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **查看安全連結背後的 URL：** 安全連結可保護您防範在電子郵件中收到但隱藏原始 URL 的惡意 URL。 若要查看原始 URL，請將滑鼠游標移到 URL 上。 需要進階威脅防護授權。 [深入了解](https://products.office.com/zh-TW/exchange/advance-threat-protection)
+- **查看安全連結背後的 URL：** 安全連結可保護您防範在電子郵件中收到但隱藏原始 URL 的惡意 URL。 若要查看原始 URL，請將滑鼠游標移到 URL 上。 需要進階威脅防護授權。 
+  [深入了解](https://products.office.com/zh-TW/exchange/advance-threat-protection)
 - **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。 [深入了解](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **郵件加密：僅加密 IRM 原則：**[選項] > [權限] 功能表上的全新僅加密選項，供 Office 365 郵件加密使用者使用。 這個選項可讓您加密郵件，並將郵件傳送給組織內外的任何人。
 - **當您被列於密件副本時，顯示提醒：** 當您不小心回覆所有人，而將自己列於密件副本時，密件副本資訊提示會顯示提醒。
@@ -116,7 +144,7 @@ ms.locfileid: "33370305"
 - **您素描，我修飾：** 我們可將手繪文字和形狀變為更精緻的圖表。只需選取您的筆跡線條即可開始。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **顯示圖片後面的內容：** 將圖片放在工作表中、挑選您的預設，並觀看透明度變更。就這麼簡單！[深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **運用筆跡製作精彩的投影片：** 將筆跡轉換成標準圖形和文字，然後從 PowerPoint 設計工具吸取智慧的投影片設計概念。 [深入了解](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
 - **匯出為 4K 影片：** 您現在可以在將簡報匯出為影片時選取 4K 解析度。  [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -148,7 +176,8 @@ ms.locfileid: "33370305"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方應用程式現在已使用 office.js api 擁有插入 SVG 支援的功能：** 亦稱為 Office 增益集的第三方應用程式現在擁有插入 SVG 的功能。使用者現在可以將個人的 SVG 集合連線至 Office。開發人員現在可以使用 Office.js API 來使用這項功能。
-- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。 [深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。 
+  [深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 

@@ -3,19 +3,18 @@ title: Office 365 專業增強版更新的下載大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480115"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034477"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -27,7 +26,7 @@ ms.locfileid: "33480115"
 
 如需指定版本中所含功能、安全性更新和非安全性更新的相關資訊，請參閱 [Office 365 專業增強版更新的版本資訊](release-notes-office365-proplus.md)。
 
-  
+ 
 > [!NOTE]
 > - 表格中所列的大約下載大小僅適用於 Office 365 專業增強版的 x64 英文 (美國) 版本。 (2019 年 3 月 13 日之前的所有版本顯示的是 x86 大小。)
 > - 下載大小是近似值。實際下載大小可能有所不同，可能多達 50 MB。 
@@ -36,6 +35,34 @@ ms.locfileid: "33480115"
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。
 
+## <a name="may-14-2019"></a>2019 年 5 月 14 日
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1904 (組建 11601.20204)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1904 (組建 11601.20178)  <br/> |2019 年 5 月 8 日  <br/> |185<br/> |
+|版本 1904 (組建 11601.20144)  <br/> |2019 年 4 月 29 日  <br/> |188<br/> |
+
+### <a name="semi-annual-channel"></a>半年通道
+
+最新的版本是版本 1808 (組建 10730.20344)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1808 (組建 10730.20334) <br/> |2019 年 4 月 9 日  <br/> |72<br/> |
+|版本 1808 (組建 10730.20304)  <br/> |2019 年 3 月 12 日  <br/> |82<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
+
+最新的版本是版本 1902 (組建 11328.20286)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1902 (組建 11328.20230)  <br/> |2019 年 4 月 9 日  <br/> |72 <br/> |
+|版本 1902 (組建 11328.20158)  <br/> |2019 年 3 月 12 日  <br/> |76 <br/> |
+
 ## <a name="april-29-2019"></a>2019 年 4 月 29 日
 ### <a name="monthly-channel"></a>每月通道
 
@@ -43,15 +70,14 @@ ms.locfileid: "33480115"
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
+|版本 1904 (組建 11425.20244)  <br/> |2019 年 4 月 22 日  <br/> |151<br/> |
 |版本 1903 (組建 11425.20228)  <br/> |2019 年 4 月 17 日  <br/> |156<br/> |
-|版本 1903 (組建 11425.20244)  <br/> |2019 年 4 月 22 日  <br/> |146<br/> |
-
 
 
 ## <a name="april-22-2019"></a>2019 年 4 月 22 日
 ### <a name="monthly-channel"></a>每月通道
 
-最新的版本是版本 1903 (組建 11425.20244)。 
+最新的版本是版本 1903 (組建 11425.20244)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
