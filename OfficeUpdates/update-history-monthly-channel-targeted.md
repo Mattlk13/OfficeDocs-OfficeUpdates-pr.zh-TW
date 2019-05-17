@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: efa3ea366478529d033786c53f4c19a4ff893383
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
+ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834802"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34107672"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -30,6 +30,12 @@ ms.locfileid: "33834802"
 > - 版本資訊更新的頻率較慢，並且可能為最高達版本資訊發行組建編號之多個組建更新的組合
 
 [//]: # (請勿移除)
+
+**2019 年 5 月 16 日**<br/>
+版本 1905 (組建 11629.20136)<br/>
+
+**2019 年 5 月 14 日**<br/>
+版本 1904 (組建 11601.20204)<br/>
 
 **2019 年 5 月 8 日**<br/>
 版本 1904 (組建 11601.20178)<br/>
@@ -99,7 +105,7 @@ ms.locfileid: "33834802"
 
 
   [
-  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **搶先使用新功能**
