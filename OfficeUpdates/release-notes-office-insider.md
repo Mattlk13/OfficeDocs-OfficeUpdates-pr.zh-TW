@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882762"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161562"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -24,6 +24,117 @@ ms.locfileid: "33882762"
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
+
+## <a name="may-17-2019"></a>2019 年 5 月 17 日
+版本 1906 (組建 11708.20006)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>使用者體驗更新
+
+[即將推出] 中的更新現已發佈，其中包括簡化功能區、資料夾窗格的新版視覺效果、郵件清單，以及讀取窗格。
+
+##### <a name="getting-started"></a>開始使用：
+
+這些變更會成為新的預設 UI。自 12 月中旬起，即可透過 [即將推出] 開關切換使用這套 UI，協助您徹底發揮生產力
+
+#### <a name="customizable-simplified-ribbon"></a>自訂簡化功能區
+
+提供輕鬆自訂功能，方便在傳統與 [簡化] 檢視之間切換，以及釘選/取消釘選命令。
+
+##### <a name="getting-started"></a>開始使用：
+
+使用者可以使用簡化功能區，方法是開啟 [即將推出] (在一開始)，然後按一下功能區中的＞形箭號，即可在傳統的多行功能區與新式的簡化單行功能區之間切換。
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+從傳統功能區切換到簡化功能區
+
+#### <a name="pick-your-favorite-action"></a>挑選您的最愛動作
+
+不使用 [標幟] 和 [刪除] 嗎？ 那麼 [封存] 或 [標示為已讀取] 呢？ 自訂快速動作功能表，加上您最常使用的命令。
+
+##### <a name="getting-started"></a>開始使用：
+
+若要選取 [快速動作]，請以滑鼠右鍵按一下郵件清單中的 [電子郵件]，以顯示內容功能表。 然後按一下 [設定快速動作...]
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+將 [標幟] 和 [刪除] 的預設值變更為 [封存]、[移動]、[標示為已讀取] 或 [無]，以便清除郵件清單
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>寬鬆或緊密的版面配置？ 由您選擇
+
+若您想讓郵件之間能有更多空間，可以採用「緊密間距」；或者，您也可以採用緊密的版面配置，以便查看更多郵件。
+
+##### <a name="getting-started"></a>開始使用：
+
+前往 [檢視] 索引標籤，勾選 [更緊密的間距] 核取方塊。若是使用傳統功能區，該核取方塊位於「郵件」群組內；若是使用簡化功能區，則是位於「目前檢視」設定當中
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+使用 Outlook 在未啟用設定的情況下分類及撰寫電子郵件。 如果開啟 [使用更緊密的間距]，即可讓每個頁面能夠容納得下更多郵件，並讓撰寫表單的控制項更為簡潔。
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>使用 OneDrive 同步處理用戶端時的刪除重複資料 MRU 項目
+
+透過刪除重複資料 MRU 項目，改善 OneDrive 同步處理用戶端與雲端附件的整合度並加快附加速度，讓其速度足以媲美同步處理資料的複製行為
+
+##### <a name="getting-started"></a>開始使用：
+
+若您使用的是 OneDrive 同步處理用戶端，將再也看不到「附加檔案 MRU」的檔案重複項目。
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+啟用 OneDrive 同步處理用戶端，並使用 Outlook 電腦版的 [附加檔案] 功能表
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>已改善擁有多個資料夾的信箱共用資料夾同步處理
+
+Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為 500 個。 透過這項變更已讓 Outlook 獲得改善，您在同步時將不會再遇到這 500 個資料夾的數量限制。
+
+##### <a name="getting-started"></a>開始使用：
+
+在信箱中新增 1000 個資料夾、讓其他人存取信箱、新增「其他人」的 Outlook 設定檔，然後確認同步處理是否可正常運作。
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>小面積清除
+
+##### <a name="getting-started"></a>開始使用：
+
+前往 [繪圖] 索引標籤。選取 [橡皮擦] 下拉式清單。 選擇 [小型橡皮擦] 或 [中型橡皮擦]。
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+前往 [繪圖] 索引標籤。選取畫筆。 畫出一道筆跡線條。 選取 [橡皮擦] 下拉式清單。 選擇 [小型橡皮擦] 或 [中型橡皮擦]。 清除一小塊的筆跡線條。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部 
+- 我們已修正可能會導致部分使用者無法儲存成 PDF 的問題
+- 我們已修正可能會影響使用者在 32 位元系統上儲存大型檔案的問題
+
+### <a name="word"></a>Word 
+- 我們已大幅改善 [聽寫] 功能的反應能力
+
+### <a name="excel"></a>Excel
+- 我們已修正按兩下事件在觸控式螢幕裝置上可能會失靈的問題
+- 我們已修正可能會導致部分使用者無法編輯 VBA 巨集的問題
+- 我們已修正使用交叉分析篩選器時可能會影響效能的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 我們已修正從所選範本中會出現錯誤範本的問題
+
+### <a name="access"></a>Access
+- 我們已修正在使用縮放建立器顯示完整 RTF 格式時，可能難以閱讀的問題
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>2019 年 5 月 10 日
 版本 1906 (組建 11702.20000)
@@ -62,6 +173,7 @@ ms.locfileid: "33882762"
 - 我們已修正有些使用者使用商務用 OneDrive 同步處理時遇到的問題
 
 ### <a name="word"></a>Word 
+- 我們已修正在某些情況下，Word 會花很長時間啟動的問題
 
 ### <a name="excel"></a>Excel
 - 我們已修正升級至較新版 Excel 後活頁簿的外部連結有時會被移除的問題
@@ -200,7 +312,7 @@ ms.locfileid: "33882762"
 ## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="all-applications"></a>所有應用程式
- - 我們已修正 Excel 的內容功能表中會出現錯誤應用程式圖示的問題
+- 我們已修正 Excel 的內容功能表中會出現錯誤應用程式圖示的問題
 - 我們已修正在安裝更新之後 [檔案功能表] 按鈕會消失的問題
 - 我們已修正會變更您的使用者授權的問題
 
