@@ -3,19 +3,18 @@ title: Office 測試人員通道的更新歷程記錄
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 04/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: dd5f4c337d4060ba2b1812cad8d7b6edd48137f2
-ms.sourcegitcommit: dee992f8ce988adc164ab492529e92db5e450a09
+ms.openlocfilehash: c750a9379472576ed8316e54804709fe2c094cab
+ms.sourcegitcommit: 6c539a93fcd2137394873885154e2317de606e11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33639624"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34403568"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -34,6 +33,10 @@ ms.locfileid: "33639624"
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (請勿移除)
+
+**2019 年 5 月 22 日**<br/> 版本 1906 (組建 11715.20002)<br/> 
+
+**2019 年 5 月 14 日**<br/> 版本 1906 (組建 11708.20006)<br/>
 
 **2019 年 5 月 6 日**<br/>
 版本 1906 (組建 11702.20000)<br/>
@@ -85,7 +88,7 @@ ms.locfileid: "33639624"
 
 
   [
-  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **搶先使用新功能**

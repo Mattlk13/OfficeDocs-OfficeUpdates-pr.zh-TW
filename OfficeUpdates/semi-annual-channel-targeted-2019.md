@@ -3,18 +3,19 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034494"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337107"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -32,6 +33,13 @@ ms.locfileid: "34034494"
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
  -  已修正在 Excel 中使用相機工具可能會造成試算表當機的問題。
+ - 已修正在帶有圖表工作表的非使用中視窗中使用滑鼠滾輪時導致當機的問題。
+ - 將試算表匯入 SharePoint 時發生「未預期錯誤」訊息的問題已解決。
+ - 在開啟包含使用其規則名稱和自訂檢視的條件式格式設定的活頁簿時導致 Excel 當機的問題已解決。
+ - 巨集用於驗證資料的公式若長於 255 個字元可能會產生執行階段錯誤。 此問題現已修正。
+ - 發生問題，導致包含連結至其他活頁簿之樞紐分析表的檔案載入速度緩慢。 此問題已解決。
+ - 開啟 HTML 檔案時收到「檔案格式與副檔名不符」錯誤的問題已解決。
+ - 已進行變更，以解決在非使用中視窗滾動滑鼠滾輪的問題。  
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
  - 解決造成客戶無法編輯所移轉項目上某些欄位的問題。
