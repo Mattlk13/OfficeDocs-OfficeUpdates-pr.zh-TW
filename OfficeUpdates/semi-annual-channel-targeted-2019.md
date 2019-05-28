@@ -3,19 +3,19 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 5/22/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
-ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
+ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34337107"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432421"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -60,6 +60,8 @@ ms.locfileid: "34337107"
  - 已修正 Word 啟動時出現的「無法載入資源」對話方塊。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+ - 修正無法將檔案儲存到 Apache WebDAV 資料夾的問題。
+ - 修正 Office 在客戶開啟某些雲端儲存檔案時會意外關閉的問題。
  - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
  - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。

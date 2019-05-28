@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161562"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432411"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -24,6 +24,42 @@ ms.locfileid: "34161562"
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
+
+## <a name="may-24-2019"></a>2019 年 5 月 24 日
+版本 1906 (組建 11715.20002)
+
+## <a name="whats-new"></a>新功能：
+
+#### <a name="user-experience-updates"></a>使用者體驗更新
+
+[即將推出] 中的更新現已發佈，其中包括簡化功能區、資料夾窗格的新版視覺效果、郵件清單，以及讀取窗格。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+
+- 我們已修正 [聊天] 窗格無法顯示的問題
+
+### <a name="word"></a>Word 
+- 我們已修正在某些情況下 Word 無法為文法錯誤正確醒目提示文字的問題
+
+### <a name="excel"></a>Excel
+- 我們已修正 [圖表項目] 使用不正確圖示的問題
+- 我們已修正開啟同樣的活頁簿時，可能會啟動 VBA 指令碼中不正確活頁簿的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 修正多項效能和穩定性
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 我們已修正 Project 在切換工作列後可能會當機的問題
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>2019 年 5 月 17 日
 版本 1906 (組建 11708.20006)
@@ -278,6 +314,22 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905 (組建 11601.20042)
 
+## <a name="whats-new"></a>新功能：
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access 的新功能 - 存取 Microsoft Graph 的資料連接器
+
+連結至 Microsoft Graph 服務或從 Microsoft Graph 服務匯入，來建立可運用儲存在 Graph 中智慧型關聯式資料的應用程式
+
+#### <a name="getting-started"></a>開始使用：
+
+在功能區中的 [外部資料] 索引標籤，按一下 [新資料來源]，然後在 [線上服務] 功能表中找到新的圖表連接器
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+從各種不同的圖表服務匯入或連結至各種不同的圖表服務，包括人員、群組和 OneDrive 項目。
+
 ## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="all-applications"></a>所有應用程式
@@ -308,6 +360,55 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 
 ## <a name="april-5-2019"></a>2019 年 4 月 5 日
 版本 1904 (組建 11527.20014)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Windows 版 Outlook：設定並共用您的 [焦點收件匣] 設定
+
+[焦點收件匣] 喜好設定會儲存在雲端內，因此當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時，都可以取得相同的一致體驗。
+
+#### <a name="getting-started"></a>開始使用：
+
+在 [檔案] > [選項] > [一般] 索引標籤下，還有一個名為 [將我的 Outlook 設定儲存在雲端中] 的新喜好設定。 使用者需要核取方塊，才能讓他們的 [焦點收件匣] 設定漫遊到其他電腦的 Outlook 安裝和 OWA。
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+在已開啟雲端設定喜好設定的電腦上變更 [焦點收件匣]。 瀏覽至 OWA，然後查看那裡也同樣套用了喜好設定。 在 OWA 變更 [焦點收件匣]，然後啟動電腦版 Outlook 查看已反映喜好設定。
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>[學習工具] 模式額外支援更多頁面色彩
+
+Word 中的 [學習工具] 新增更多頁面佈景主題色彩的支援，讓您能夠變更頁面的背景色彩。  許多人在背景全白或全黑時閱讀會有困難，因此我們在 PC 和 Mac 的 Word 中增加了色彩選項。
+
+#### <a name="getting-started"></a>開始使用：
+
+若要試用，請移至 [檢視] 索引標籤，選擇 [學習工具]，然後選擇 [頁面色彩]。
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+若要試用，請移至 [檢視] 索引標籤，選擇 [學習工具]，然後選擇 [頁面色彩]。
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>以具備動畫效果的 3D 模型提高創意
+
+Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您的試算表更生動！
+
+#### <a name="getting-started"></a>開始使用：
+
+1. 開啟 Excel
+2. 插入具備動畫效果的 3D 模型 (很快會進到 Remix，但現在請在此位置存取動畫模型：\\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)
+3. 動畫模型會在編輯器中播放！ [檢查投影片放映] 模式 - 動畫模型也會在那裡播放！
+4. 在 3D 格式功能區中，探索模型中更多的動畫場景
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+1. 插入動畫模型，然後看它在編輯器中播放
+2. 透過 3D 格式功能區中的 [場景庫]，探索動畫模型中可用的動畫場景
+3. 透過功能區、浮動工具列或空格鍵輕鬆地播放/暫停動畫
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
@@ -378,6 +479,22 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 ## <a name="march-15-2019"></a>2019 年 3 月 15 日
 版本 1904 (組建 11504.20000)
 
+## <a name="whats-new"></a>新功能：
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>焦點模式
+
+切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 僅供 Office 365 訂閱者使用。
+
+#### <a name="getting-started"></a>開始使用：
+
+[檢視] 索引標籤 功能區狀態列中的 [焦點] 按鈕 [焦點] 按鈕
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+進入焦點模式，享受專注的體驗
+
 ## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 
 - 搜尋某間大學、最近使用過的文件或搜尋最常用的功能區命令
 - 尋找某個主題或主旨並取得更多相關資訊
+- 
+#### <a name="coauthoring"></a>共同撰寫
 
+厭倦於被包含巨集的文件阻礙了嗎？ 現在商務用 OneDrive 的 docm 檔案允許同時由多個作者編輯。
+
+#### <a name="getting-started"></a>開始使用：
+
+使用者在 UI 中不需要按下任何按鈕，就能存取這項功能。 商務用 OneDrive 的 docm 檔案預設已啟用此功能。
+因此，使用者應該將 docm 檔案儲存至商務用 OneDrive 試用看看。
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+在商務用 OneDrive 建立 docm 檔案、與同事共用並且共同作業！
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
@@ -452,6 +581,21 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 ## <a name="march-1-2019"></a>2019 年 3 月 1 日 
 版本 1903 (組建 11414.20014)
 
+## <a name="whats-new"></a>新功能
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>追蹤修訂、註解和即時共同作業的色彩會同步
+
+我們產品中的修正現在可確保註解、追蹤修訂及共同作業者的游標會以相同色彩顯示。
+
+#### <a name="getting-started"></a>開始使用：
+
+開啟其他人已開啟的 SharePoint 或 OneDrive 文件。 確認使用者的追蹤修訂和註解色彩符合該使用者游標的色彩。
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+開啟其他人已開啟的 SharePoint 或 OneDrive 文件。 確認使用者的追蹤修訂和註解色彩符合該使用者游標的色彩。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
