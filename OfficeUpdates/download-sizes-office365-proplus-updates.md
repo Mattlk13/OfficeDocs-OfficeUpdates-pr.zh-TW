@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034477"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549730"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -35,6 +35,28 @@ ms.locfileid: "34034477"
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。
 
+## <a name="may-29-2019"></a>2019 年 5 月 29 日
+*版本 1905 (組建 11629.20196)*
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1905 (組建 11629.20196)。 
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1904 (組建 11601.20230)  <br/> |2019 年 5 月 22 日  <br/> |193<br/> |
+|版本 1904 (組建 11601.20204)  <br/> |2019 年 5 月 14 日  <br/> |60<br/> |
+
+## <a name="may-22-2019"></a>2019 年 5 月 22 日
+*版本 1904 (組建 11601.20230)*
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1904 (組建 11601.20230)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1904 (組建 11601.20204)  <br/> |2019 年 5 月 14 日  <br/> |193<br/> |
+|版本 1904 (組建 11601.20178)  <br/> |2019 年 5 月 8 日  <br/> |62<br/> |
+
 ## <a name="may-14-2019"></a>2019 年 5 月 14 日
 ### <a name="monthly-channel"></a>每月通道
 
@@ -42,8 +64,8 @@ ms.locfileid: "34034477"
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1904 (組建 11601.20178)  <br/> |2019 年 5 月 8 日  <br/> |185<br/> |
-|版本 1904 (組建 11601.20144)  <br/> |2019 年 4 月 29 日  <br/> |188<br/> |
+|版本 1904 (組建 11601.20178)  <br/> |2019 年 5 月 8 日  <br/> |60<br/> |
+|版本 1904 (組建 11601.20144)  <br/> |2019 年 4 月 29 日  <br/> |71<br/> |
 
 ### <a name="semi-annual-channel"></a>半年通道
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834812"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549740"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -22,10 +22,71 @@ ms.locfileid: "33834812"
  
  > [!NOTE]
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。 
+> - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1905-may-29"></a>版本 1905：5 月 29 日
+*版本 1905 (組建 11629.20196)*
+
+### <a name="access-feature-updates"></a>Access：功能更新
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。 [深入了解](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **在註解中使用 @Mentions 提及功能，讓共同作業更有效率：** 共同作業變得更容易了！ 現在您可以在文件註解中 @提及小組成員，而他們會自動收到電子郵件通知，並將他們帶至該文件中。
+
+- **共同撰寫合併增強功能：** 共同撰寫已改善使用條件式格式設定、儲存格樣式、範圍保護、檢視格線和跨工作表剪下/貼上時的合併成功率。 
+
+### <a name="outlook"></a>Outlook
+
+- **快速新增帳戶的方式：** 由於帳戶設定已改善，您現在可以更輕鬆地將使用雙因素驗證的 Outlook.com 和 Gmail 帳戶新增到 Outlook。 [深入了解](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **即時的輔助字幕和翻譯字幕：** 簡報者的文字會自動顯示為畫面上的標題，或翻譯為所選語言的字幕。 [深入了解](https://support.office.com/article/d68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。 [深入了解](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **在註解中使用 @Mentions 提及功能，讓共同作業更有效率：** 共同作業變得更容易了！ 現在您可以在文件註解中 @提及小組成員，而他們會自動收到電子郵件通知，並將他們帶至該文件中。
+
+### <a name="project-feature-updates"></a>Project：功能更新
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **匯出成 PDF、PPT 或針對電子郵件訂閱而設定的 Power BI 報表現在也將具備 Visio 視覺效果：** 如果您將 Power BI 報表匯出成 PDF、PPT，或為其設定電子郵件訂閱，Visio 視覺效果將會以這些匯出的格式完美地呈現。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word-feature-updates"></a>Word：功能更新  
+
+- **在註解中使用 @Mentions 提及功能，讓共同作業更有效率：** 共同作業變得更容易了！ 現在您可以在文件註解中 @提及小組成員，而他們會自動收到電子郵件通知，並將他們帶至該文件中。
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **[學習工具] 模式額外支援更多頁面色彩：** Word 中的 [學習工具] 新增更多頁面佈景主題色彩的支援，讓您能夠變更頁面的背景色彩。  許多人在背景全白或全黑時閱讀會有困難，因此我們在 PC 和 Mac 的 Word 中增加了色彩選項。
+
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。 [深入了解](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+## <a name="version-1904-may-22"></a>版本 1904：5 月 22 日
+*版本 1904 (組建 11601.20230)*
+
+這解決了使用者在選取並提交其隱私權等級的選項後，在每次啟動應用程序時都會看到新隱私權提示的問題。
+
+## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
+*版本 1904 (組建 11601.20204)*
+
+ - 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/OfficeUpdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-08"></a>版本 1904：5 月 8 日 
 *版本 1904 (組建 11601.20178)* 
@@ -144,7 +205,8 @@ ms.locfileid: "33834812"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **在連續會議之間置入時間：** 將會議預設為提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[深入了解](https://support.office.com/zh-TW/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- 
+  **在連續會議之間置入時間：** 將會議預設為提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[深入了解](https://support.office.com/zh-TW/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **使用「大聲朗讀」聆聽您的電子郵件：** Outlook 可以大聲朗讀您的電子郵件，強調所朗讀的文字。若要開啟 [大聲朗讀]，請移至 [輕鬆存取] 設定。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -163,7 +225,8 @@ ms.locfileid: "33834812"
  
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
-- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
+- 
+  **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 *版本 1901 (組建 11231.20174)* 
@@ -185,7 +248,11 @@ ms.locfileid: "33834812"
 
 - **資料流程圖上的 Double-Take：** 資料視覺化工具流程圖美觀的新版面配置，既清新、簡潔且更易於了解。 [深入了解](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
-- **內建的 Azure 樣板：** 使用數十種 Azure 樣板來設計雲端應用程式或規劃架構。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **內建的 Azure 樣板：** 使用數十種 Azure 樣板來設計雲端應用程式或規劃架構。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **為靜態文件注入動人的生命力：** 將文件轉變為在任何裝置上，均具有完美外觀的可互動、易分享的網頁。[深入了解](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
@@ -223,8 +290,7 @@ ms.locfileid: "33834812"
 ### <a name="word-feature-updates"></a>Word：功能更新
 
 - **運用行聚焦，提高理解力：** 毫不費力地逐行瀏覽文件。調整焦點，在檢視畫面中一次放入一行、三行或五行。[深入了解](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
-- **為靜態文件注入動人的生命力：** 將文件轉變為在任何裝置上，均具有完美外觀的可互動、易分享的網頁。[深入了解](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **在您工作的同時，持續執行協助工具檢查程式：** 不用一直開啟協助工具檢查程式，仍然可以追蹤文件內是否有協助工具問題。透過狀態列上的指示器 (與拼字檢查類似)，Word 可在您工作的同時，標示出找到的協助工具問題。 
+- **在您工作的同時，持續執行協助工具檢查程式：** 不用一直開啟協助工具檢查程式，仍然可以追蹤文件內是否有協助工具問題。透過狀態列上的指示器 (與拼字檢查類似)，Word 可在您工作的同時，標示出找到的協助工具問題。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 

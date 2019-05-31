@@ -3,24 +3,22 @@ title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480094"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549750"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
 Office 365 專業增強版會定期以新功能、安全性更新與非安全性更新進行更新。這些更新會使用[更新通道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)來發行。每個更新通道中的每個版本都有指派的版本號碼和組建編號。 
-
 
 > [!NOTE]
 > - 這些版本號碼和組建編號也適用於 Office 365 商務版、Visio Pro for Office 365 與 Project Online 桌面用戶端。Office 365 商務版是隨附於部分 Office 365 方案的 Office 版本，例如商務進階版。
@@ -28,22 +26,31 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 > - 如需更新通道的詳細資訊，請參閱 [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下列表格會列出每個更新通道的支援版本及最新組建編號。 
- 
+
+[//]: # (EOSTABLESTART)
+
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月  <br/> |1904 <br/> |11601.20144 <br/> | 2019 年 4 月 29 日 <br/> |版本 1905 發行日期 <br/>|
-|半年 (已設定目標)  <br/> |1902  <br/> |11328.20230 <br/> |  2019 年 4 月 9 日 <br/> | 2019 年 9 月 10 日 <br/>|
-|半年 <br/> |1808  <br/> | 10730.20334<br/> | 2019 年 4 月 9 日  <br/> |  2020 年 3 月 10 日 <br/>|
-|半年 <br/> |1803  <br/> | 9126.2382  <br/> | 2019 年 4 月 9 日  <br/> |  2019 年 9 月 10 日 <br/>|
+|每月<br/>|1905<br/>|11629.20196<br/>|2019 年 5 月 29 日<br/>|版本 1906 發行日期<br/>|
+|半年 (已設定目標)<br/>|1902<br/>|11328.20286<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+|半年<br/>|1808<br/>|10730.20344<br/>|2019 年 5 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1803<br/>|9126.2387<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
+
+[//]: # (EOSTABLEEND)
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
 
 
-下表提供在下列更新通道發行的每項 Office 365 專業增強版更新的版本號碼和組建編號清單：每個月、半年 (已設定目標) 和半年。表格中的每個項目都會直接連結至該版本的版本資訊。版本資訊會提供 Office 365 專業增強版的更新中所包含的功能、安全性更新和非安全性更新的相關資訊。
+下表提供在下列更新通道發行的每項 Office 365 專業增強版更新的版本號碼和組建編號清單：每個月、半年 (已設定目標) 和半年。表格中的每個項目都會直接連結至該版本的版本資訊。版本資訊會提供 Office 365 專業增強版的更新中所包含的功能、安全性更新和非安全性更新的相關資訊。  
 
+[//]: # (HISTORYTABLESTART)
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|5 月 29 日 |[版本 1905 (組建 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
+|2019|5 月 22 日 |[版本 1904 (組建 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
+|2019|5 月 14 日 |[版本 1904 (組建 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[版本 1902 (組建 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[版本 1808 (組建 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [版本 1803 (組建 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
+|2019|5 月 8 日 |[版本 1904 (組建 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|4 月 29 日 |[版本 1904 (組建 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019|4 月 22 日 |[版本 1903 (組建 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|4 月 17 日 |[版本 1903 (組建 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
@@ -182,7 +189,8 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 ||10 月 21 日  <br/> |[版本 1509 (組建 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[版本 1509 (組建 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
 ||10 月 5 日  <br/> |[版本 1509 (組建 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[版本 1509 (組建 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
 ||9 月 22 日  <br/> |[版本 1509 (組建 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[版本 1509 (組建 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
-   
+
+[//]: # (HISTORYTABLEEND)
 
 ## <a name="related-topics"></a>相關主題
 
