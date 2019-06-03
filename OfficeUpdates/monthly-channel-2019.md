@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549740"
+ms.locfileid: "34550894"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -77,6 +77,14 @@ ms.locfileid: "34549740"
 - **[學習工具] 模式額外支援更多頁面色彩：** Word 中的 [學習工具] 新增更多頁面佈景主題色彩的支援，讓您能夠變更頁面的背景色彩。  許多人在背景全白或全黑時閱讀會有困難，因此我們在 PC 和 Mac 的 Word 中增加了色彩選項。
 
 - **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。 [深入了解](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+
+- 為商務用 Skype Online 使用者提供選項以停用 [新增相片 - 幫助人們了解您] 上下文提示。 若要啟用此修正程式，您可以[深入了解](https://support.microsoft.com/help/4503469)。
+
+- 防止在重新啟動商務用 Skype 後，總是啟用第二個響鈴設定。 若要啟用此修正程式，您可以[深入了解](https://support.microsoft.com/help/4503470)。
+
+ - 修正當加入大型會議同時使用 Lync SDK 型應用程式時，商務用 Skype 停止回應的問題。 若要啟用此修正程式，您可以[深入了解](https://support.microsoft.com/help/4503472)。
 
 ## <a name="version-1904-may-22"></a>版本 1904：5 月 22 日
 *版本 1904 (組建 11601.20230)*
