@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 9f7c1e10c63e9c37bf6a8695b6c3a909fc2ed925
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: b849b50792988a4640597749d5b4f33b99fac150
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550884"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684009"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -34,6 +34,17 @@ ms.locfileid: "34550884"
 > - 只會列出最近四個月的版本。
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。
+
+## <a name="june-3-2019"></a>2019 年 6 月 3 日
+*版本 1905 (組建 11629.20214)*
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1905 (組建 11629.20214)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1905 (組建 11629.20196)  <br/> |2019 年 5 月 29 日  <br/> |291<br/> |
+|版本 1904 (組建 11601.20230)  <br/> |2019 年 5 月 22 日  <br/> |190<br/> |
 
 ## <a name="may-29-2019"></a>2019 年 5 月 29 日
 *版本 1905 (組建 11629.20196)*

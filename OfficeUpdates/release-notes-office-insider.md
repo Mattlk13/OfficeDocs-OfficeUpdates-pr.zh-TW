@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432411"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659780"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -24,6 +24,112 @@ ms.locfileid: "34432411"
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
+
+
+## <a name="may-31-2019"></a>2019 年 5 月 31 日
+版本 1906 (組建 11722.20008)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>[連絡支援人員] 對話方塊現在可停駐，且會顯示在右側
+
+用於 [連絡支援人員] 的對話方塊現在會顯示在右側窗格中，並且會以停駐視窗形式開始。
+
+#### <a name="ink-in-your-email"></a>在您的電子郵件中使用筆跡！
+
+您現在可以在您的 Outlook 電子郵件中繪製圖片並加上註釋。
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>在 Word 中開啟文件連結
+
+當您在 Office 中按一下文件連結時，您可以更新您的喜好設定，以預設在 Word App 中開啟該連結。  若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/zh-TW/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>開始使用：
+
+此功能將預設為關閉。 使用者可以透過 [選項] -> [進階] -> [連結處理] 設定來開啟它，也可以在 Win32 WXP 應用程式帶他們進行選擇加入體驗時選擇加入。
+當使用者按一下透過 Outlook/Word/PowerPoint/Excel 儲存在 OneDrive/商務用 OneDrive/SharePoint 上的 Word/PowerPoint/Excel 檔案時，這些連結依預設會在適當的 Office 應用程式中 (而非瀏覽器中) 開啟。
+
+若要變更此預設值，使用者可以更新 Outlook/Word/Excel/PowerPoint 中的下列設定：
+
+[檔案] -> [選項] -> [進階] -> [連結處理]
+
+此設定會在 Outlook/Word/PowerPoint/Excel 之間共用，而且可以在任一應用程式中設定。
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+若要觸發選擇加入體驗 - 從 Outlook/Word/PowerPoint/Excel 開啟儲存在 OneDrive/SharePoint 中 Word 文件的連結 - 按一下 [在來自 Office Online 的用戶端中開啟] - 在 30 天內執行此動作兩次。 在您選擇加入之後，依預設會在 Win32 應用程式中啟動連結。
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>在 PowerPoint 中開啟簡報連結
+
+當您在 Office 中按一下連結連結時，您可以更新您的喜好設定，以預設在 PowerPoint App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/zh-TW/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>開始使用：
+
+此功能將預設為關閉。 使用者可以透過 [選項] -> [進階] -> [連結處理] 設定來開啟它，也可以在 Win32 WXP 應用程式帶他們進行選擇加入體驗時選擇加入。
+當使用者按一下透過 Outlook/Word/PowerPoint/Excel 儲存在 OneDrive/商務用 OneDrive/SharePoint 上的 Word/PowerPoint/Excel 檔案時，這些連結依預設會在適當的 Office 應用程式中 (而非瀏覽器中) 開啟。
+
+若要變更此預設值，使用者可以更新 Outlook/Word/Excel/PowerPoint 中的下列設定：
+
+[檔案] -> [選項] -> [進階] -> [連結處理]
+
+此設定會在 Outlook/Word/PowerPoint/Excel 之間共用，而且可以在任一應用程式中設定。
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+若要觸發選擇加入體驗 - 從 Outlook/Word/PowerPoint/Excel 開啟儲存在 OneDrive/SharePoint 中 PowerPoint 簡報的連結 - 按一下 [在來自 Office Online 的用戶端中開啟] - 在 30 天內執行此動作兩次。 在您選擇加入之後，依預設會在 Win32 應用程式中啟動連結。
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>在 Excel 中開啟活頁簿連結
+
+當您在 Office 中按一下活頁簿連結時，您可以更新您的喜好設定，以預設在 Excel App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/zh-TW/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>開始使用：
+
+此功能將預設為關閉。 使用者可以透過 [選項] -> [進階] -> [連結處理] 設定來開啟它，也可以在 Win32 WXP 應用程式帶他們進行選擇加入體驗時選擇加入。
+當使用者按一下透過 Outlook/Word/PowerPoint/Excel 儲存在 OneDrive/商務用 OneDrive/SharePoint 上的 Word/PowerPoint/Excel 檔案時，這些連結依預設會在適當的 Office 應用程式中 (而非瀏覽器中) 開啟。
+
+若要變更此預設值，使用者可以更新 Outlook/Word/Excel/PowerPoint 中的下列設定：
+
+[檔案] -> [選項] -> [進階] -> [連結處理]
+
+此設定會在 Outlook/Word/PowerPoint/Excel 之間共用，而且可以在任一應用程式中設定。
+
+##### <a name="scenarios-to-try"></a>可嘗試使用的案例：
+
+若要觸發選擇加入體驗 - 從 Outlook/Word/PowerPoint/Excel 開啟儲存在 OneDrive/SharePoint 中 Excel 活頁簿的連結 - 按一下 [在來自 Office Online 的用戶端中開啟] - 在 30 天內執行此動作兩次。 在您選擇加入之後，依預設會在 Win32 應用程式中啟動連結。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+- 我們已修正即使在已停用自動儲存的情況下，檔案有時會自動儲存的問題
+
+### <a name="word"></a>Word 
+- 我們已修正可能會導致部分使用者無法儲存至 SharePoint 的問題
+
+### <a name="excel"></a>Excel
+- 我們已修正可能對非作用中篩選器顯示不正確圖示的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 我們已修正有些使用者在群組排程檢視中會不正確地顯示為離線的問題
+- 我們已修正可能會防止 SafeLink 剖析包含尾端空格 URL 的問題
+- 我們已修正會議室在非工作時間外顯示為可用的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>2019 年 5 月 24 日
 版本 1906 (組建 11715.20002)

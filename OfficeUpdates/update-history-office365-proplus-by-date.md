@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: f3848c46626369f6f957ed0839f7692af755f574
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549750"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683999"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1905<br/>|11629.20196<br/>|2019 年 5 月 29 日<br/>|版本 1906 發行日期<br/>|
+|每月<br/>|1905<br/>|11629.20214<br/>|2019 年 6 月 3 日<br/>|版本 1906 推出<br/>|
 |半年 (已設定目標)<br/>|1902<br/>|11328.20286<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
 |半年<br/>|1808<br/>|10730.20344<br/>|2019 年 5 月 14 日<br/>|2020 年 3 月 10 日<br/>|
 |半年<br/>|1803<br/>|9126.2387<br/>|2019 年 5 月 14 日<br/>|2019 年 9 月 10 日<br/>|
@@ -47,6 +47,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|6 月 3 日|[版本 1905 (組建 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|5 月 29 日 |[版本 1905 (組建 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
 |2019|5 月 22 日 |[版本 1904 (組建 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
 |2019|5 月 14 日 |[版本 1904 (組建 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[版本 1902 (組建 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[版本 1808 (組建 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [版本 1803 (組建 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |

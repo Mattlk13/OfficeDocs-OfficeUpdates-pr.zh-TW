@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
-ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
+ms.openlocfilehash: e51c94a9660afb2e1bfebf609fbbc8e65b7d2e11
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2019
-ms.locfileid: "34550894"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34683989"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -26,6 +26,11 @@ ms.locfileid: "34550894"
 
  > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1905-june-03"></a>版本 1905：6 月 3 日
+*版本 1905 (組建 11629.20214)*
+
+ - 已修正某些增益集會在圖表的圖形周圍擲出未預期錯誤的問題。
 
 ## <a name="version-1905-may-29"></a>版本 1905：5 月 29 日
 *版本 1905 (組建 11629.20196)*
