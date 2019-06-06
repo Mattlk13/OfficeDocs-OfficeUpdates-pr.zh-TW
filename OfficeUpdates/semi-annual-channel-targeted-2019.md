@@ -60,7 +60,7 @@ ms.locfileid: "34432421"
  - 已修正 Word 啟動時出現的「無法載入資源」對話方塊。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 修正無法將檔案儲存到 Apache WebDAV 資料夾的問題。
+ - 此修正程式可修正無法將檔案儲存到 Apache WebDAV 資料夾的問題。
  - 修正 Office 在客戶開啟某些雲端儲存檔案時會意外關閉的問題。
  - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
