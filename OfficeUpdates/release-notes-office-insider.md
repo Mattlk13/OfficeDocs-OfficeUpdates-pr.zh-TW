@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659780"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773749"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,6 +25,35 @@ ms.locfileid: "34659780"
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
 
+
+## <a name="june-7-2019"></a>2019 年 6 月 7 日
+版本 1907 (組建 11727.20064)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="word"></a>Word 
+- 我們已修正當 Word 中的自動校正設定為使句中的第一個字母均為大寫時，偶爾會當機的問題
+- 我們已改善在 SharePoint 上編輯文件時的效能。
+- 我們已修正在 Adobe Illustrator 中所建立之向量影像無法正確顯示的問題
+
+### <a name="excel"></a>Excel
+- 我們已修正錄製巨集時，排序欄位有時未正確設定的問題
+- 我們已修正重新計算陣列公式期間導致停止回應或當機的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 我們已修正內嵌附件有時未正確縮放的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 我們已修正固定工期的時程表有時會變更工作分派完成日期的問題
+- 我們已修正從舊版本中開啟專案時顯示的完成百分比值可能有誤的問題
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>2019 年 5 月 31 日
 版本 1906 (組建 11722.20008)
