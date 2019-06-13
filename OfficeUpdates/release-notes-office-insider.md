@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/7/2019
+//: ''
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
-ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
+ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34773749"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857753"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,6 +25,8 @@ ms.locfileid: "34773749"
 > - 版本資訊會每週發佈，可能是多個組建的編譯
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
 
+ > [!NOTE]
+> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
 ## <a name="june-7-2019"></a>2019 年 6 月 7 日
 版本 1907 (組建 11727.20064)
