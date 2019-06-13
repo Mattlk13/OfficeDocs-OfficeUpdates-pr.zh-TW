@@ -3,19 +3,19 @@ title: 2019 年每月通道版本的版本資訊
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857743"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910383"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -113,7 +113,9 @@ ms.locfileid: "34857743"
 ## <a name="version-1904-may-22"></a>版本 1904：5 月 22 日
 *版本 1904 (組建 11601.20230)*
 
-這解決了使用者在選取並提交其隱私權等級的選項後，在每次啟動應用程序時都會看到新隱私權提示的問題。
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 這解決了使用者在選取並提交其隱私權等級的選項後，在每次啟動應用程序時都會看到新隱私權提示的問題。
 
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904 (組建 11601.20204)*
