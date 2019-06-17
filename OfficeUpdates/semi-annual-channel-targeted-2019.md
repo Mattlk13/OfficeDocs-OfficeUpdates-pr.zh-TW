@@ -3,19 +3,19 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432421"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910393"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -27,6 +27,31 @@ ms.locfileid: "34432421"
  
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
+*版本 1902 (組建 11328.20318)*
+<br/>安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+ - 已解決將包含 XML 對應的檔案儲存為 PDF 時導致當機的問題。
+ - 已解決在載入包含無效工作表名稱之活頁簿時，導致外部連結遭到刪除的問題。
+ - 已修正在 Excel 中使用相機工具可能會造成試算表當機的問題。
+ - 已解決以下問題：當插入或刪除儲存格時，瀑布圖和漏斗圖無法與表格同步處理。
+ - 已解決以下問題：在工作表計算期間使用依賴表格之另一個工作表上的陣列公式重新計算資料表格時，發生當機。 
+ - 已解決以下問題：未先簽出檔案，無法從 SharePoint 開啟受密碼保護的活頁簿。
+ - 已進行變更，確保在共用或切換自動儲存時，處理 BeforeSave 事件。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+ - 已解決在「群組依據」中新增第二個條件後，客戶的工作似乎會消息的問題。
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+ - 已修正以下問題：共用目前正在共同作業的文件時，會產生具 .asd 副檔名的附件。
+ - 已修正註解被歸因於隨機作者的問題。
+ - 已修正在簽出文件時，簽章遭到移除的問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+ - 此修正在「復原」動作後，VBA 的錯誤形狀填入狀態錯誤。
+
 
 ## <a name="version-1902-may-14"></a>版本 1902：5 月 14 日
 *版本 1902 (組建 11328.20286)*
