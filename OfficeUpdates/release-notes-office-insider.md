@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857753"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948789"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,7 +26,41 @@ ms.locfileid: "34857753"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
 
  > [!NOTE]
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="june-14-2019"></a>2019 年 6 月 14 日
+版本 1907 (組建 11807.20000)
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="word"></a>Word 
+- 我們已修正了儲存到 OneDrive 時，使用者可能無法登入的問題
+- 我們已修正了使用者可能無法變更限制存取模式中之 SharePoint 內容的問題
+- 我們已修正了調整邊界時，可能會變更頁首及頁尾內容的問題
+- 我們已修正了切換成網頁檢視時，格式設定可能會中斷的問題
+- 我們已修正了從 SharePoint 開啟時，使用者無法使用自訂欄位的問題
+
+### <a name="excel"></a>Excel
+- 我們已修正了刪除篩選集之資料列時的效能問題
+- 我們已修正了有時可能會造成滑鼠在受保護檢視模式中閃爍的問題
+- 我們修正了刪除系列時，可能會導致當機的問題
+- 我們已修正了某些使用者即使在沒有提供的情況下，仍舊有新增版本歷程記錄之選項的問題
+- 我們已修正了使用試算表比較工具時，可能導致例外狀況的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正了按一下連結到 SharePoint 時，可能會發生當機的問題
+- 我們已修正了使用 Surface 手寫筆輸入時，可能將使用者切換到下一個頁面的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正了在某些情況下 [收件者] 欄位大於正常的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>2019 年 6 月 7 日
 版本 1907 (組建 11727.20064)
