@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 5/16/2019
+ms.date: 6/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: f4d50487f0d0b34847de5b7762480ae066124e59
-ms.sourcegitcommit: c4fdac916cafdae4c82b761be963b4f7726e1451
+ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/29/2019
-ms.locfileid: "34544606"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935875"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,9 +34,27 @@ ms.locfileid: "34544606"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-## <a name="may-2019-release"></a>2019 年 5 月發行
 
-**發行日期：** 2019 年 5 月 14 日
+  **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
+
+## <a name="june-2019-release"></a>2019 年 6 月版本
+
+**發行日期：** 2019 年 6 月 11 日
+
+*版本 16.26 (組建 19060901)*
+
+ 此版本提供下列更新：
+
+|**Application**|**更新**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|:-----|
+|Word  <br/><br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。 |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)：Microsoft Word 遠端程式碼執行弱點<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)：Microsoft Word 遠端程式碼執行弱點<br/>|[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。|<br/>|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|PowerPoint<br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。<br/><br/>**線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。<br/><br/>**即時的輔助字幕和翻譯字幕：** 您的文字在您呈現在會自動顯示為字幕或翻譯為其他語言做為字幕。 為獲得最佳結果，請使用耳機式麥克風。||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
+|Outlook|**從 Outlook 到 OneNote 只需按一下：** 只要按一下按鈕，您便可以將 Outlook 郵件和會議記錄儲存到 OneNote 筆記本。 將它用作封存或做為資料的暫存位置。 <br/> | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+
+## <a name="may-2019-release"></a>2019 年 5 月發行      
+
+**發行日期：** 2019 年 5 月 14 日 
 
 *版本 16.25 (組建 19051201)*
 
@@ -162,7 +180,7 @@ ms.locfileid: "34544606"
 
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| 已修正中文當地語系化的問題。<br/><br/>| |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Word  <br/>| 已修正中文當地語系化的問題。<br/><br/>**破除語言障礙：** 使用 Microsoft Translator 將文字、片語或整個文件翻譯為另一種語言。 您可以從功能區中的 [檢閱] 索引標籤來執行此動作。| |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
 |Outlook  <br/>| 已修正中文當地語系化的問題。<br/><br/>**根據電源和網路狀態，將同步處理最佳化：** Outlook 現在會在使用電池電力和限制網路 (例如飛機上的 Wi-Fi) 上，將 Exchange 帳戶的同步處理最佳化。<br/><br/>**所有會議詳細資料動態：** 按一下行事曆中的活動可查看所有會議詳細資料。 在同一個位置就能查看受邀者、編輯您的回覆，或加入會議。 [深入了解](https://support.office.com/article/3b3b0575-36e2-4632-a982-1e6977870658)  | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
 
  **發行日期：** 2019 年 1 月 23 日 
@@ -182,11 +200,9 @@ ms.locfileid: "34544606"
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **瞬間從 iPhone 移至 Word ：** 使用 Apple Continuity Camera 將相片從 iPhone 插入文件。需使用 macOS Mojave。[深入了解](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的文件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561)：Microsoft Word 資訊洩漏弱點  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585)：Microsoft Word 遠端程式碼執行弱點 |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **使用註解共同作業：** 使用內建的回覆方塊，在試算表中進行交談。[深入了解](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **將敏感度標籤套用至您的工作表**：將敏感度標籤套用至您的工作表，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 支援：** 在活頁簿中插入並編輯 SVG 可加入視覺效果。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**適用於長條圖、瀑布圖、矩形式樹狀結構圖、放射環狀圖、漏斗圖和地圖圖表的其他格式設定選項：** 使用 [格式] 窗格，讓您更能掌控新圖表類型的格式設定選項。
-| | <br/><br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **在講義中列印投影片編號：** 當您將簡報列印至講義時，每張投影片顯示時都會伴隨著投影片編號。 <br/><br/> **將敏感度標籤套用至您的簡報**：將敏感度標籤套用至您的簡報，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**內嵌字型子集：** 只內嵌簡報中使用的字元。  [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)
- | <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **將敏感度標籤套用至您的郵件**：將敏感度標籤套用至您的郵件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在目前信箱中快速尋找郵件：** 根據您最近使用的搜尋歷程記錄，選取搜尋方塊以顯示快速建議。 不需要輸入。 [深入了解](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **使用註解共同作業：** 使用內建的回覆方塊，在試算表中進行交談。[深入了解](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **將敏感度標籤套用至您的工作表**：將敏感度標籤套用至您的工作表，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 支援：** 在活頁簿中插入並編輯 SVG 可加入視覺效果。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**適用於長條圖、瀑布圖、矩形式樹狀結構圖、放射環狀圖、漏斗圖和地圖圖表的其他格式設定選項：** 使用 [格式] 窗格，讓您更能掌控新圖表類型的格式設定選項。|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **在講義中列印投影片編號：** 當您將簡報列印至講義時，每張投影片顯示時都會伴隨著投影片編號。 <br/><br/> **將敏感度標籤套用至您的簡報**：將敏感度標籤套用至您的簡報，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**內嵌字型子集：** 只內嵌簡報中使用的字元。  [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **將敏感度標籤套用至您的郵件**：將敏感度標籤套用至您的郵件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在目前信箱中快速尋找郵件：** 根據您最近使用的搜尋歷程記錄，選取搜尋方塊以顯示快速建議。 不需要輸入。 [深入了解](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**新增 Gmail 變得更簡單**：安全性提升表示您不再需要允許存取「較不安全的 App」，也不再需要設定 App 密碼即可將您的 Gmail 帳戶新增至 Outlook。<br/><br/>**Mac 版 Outlook 現在會醒目提示搜尋字詞：** 是否曾嘗試搜尋某個項目，並希望 Outlook 能在項目清單和預覽窗格中醒目提示您的搜尋字詞？ 是的，您不需再懷疑，此功能已推出！||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 自動更新 4.7 <br/>| AutoUpdate 精靈現在啟動作為安裝程序的一部分。這樣可以排除先前對使用者顯示，會令人混淆的安全性對話方塊。 <br/><br/> 已增強 Microsoft AutoUpdate 的安全性功能以支援 SHA256 憑證。 <br/>|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
@@ -203,7 +219,7 @@ ms.locfileid: "34544606"
 
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **使用護眼的深色模式：** 深色背景能在低光源環境中保護眼睛。需使用 macOS Mojave。<br/><br/>  **保留文字外觀：** 內嵌字型以確保您文件的文字在每一部電腦上看起來都一樣。不再有意料之外的事！[深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**檢視文件中內嵌的字型：** 允許已經內嵌到檔案中的字型顯示在 Mac Word 中。<br/><br/>**焦點模式可叫用的狀態列：** 在焦點模式下使用可叫用的狀態列，能夠更輕鬆地查看字數統計以及存取縮放控制項。| |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **使用護眼的深色模式：** 深色背景能在低光源環境中保護眼睛。需使用 macOS Mojave。<br/><br/>  **保留文字外觀：** 內嵌字型以確保您文件的文字在每一部電腦上看起來都一樣。不再有意料之外的事！[深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**檢視文件中內嵌的字型：** 允許已經內嵌到檔案中的字型顯示在 Mac Word 中。<br/><br/>**焦點模式可叫用的狀態列：** 在焦點模式中，使用可叫用的狀態列，更輕鬆地查看字數統計以及存取縮放控制項。<br/><br/>**利用焦點模式取得更多內容：** 我們聽到了！ 焦點模式現在會於您設定縮放比例時開啟，也會在您捲動時顯示頁碼。| |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **使用護眼的深色模式：** 深色背景能在低光源環境中保護眼睛。 需要 macOS Mojave。 <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597)：Microsoft Excel 遠端程式碼執行弱點 <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627)：Microsoft Excel 資訊洩漏弱點 |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **使用護眼的深色模式：** 深色背景能在低光源環境中保護眼睛。 需要 macOS Mojave。 <br/><br/>  **瞬間從 iPhone 移至 PowerPoint：** 使用 Apple Continuity Camera 將相片從 iPhone 插入投影片。需使用 macOS Mojave。[深入了解](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628)：Microsoft PowerPoint 遠端程式碼執行弱點 <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **使用護眼的深色模式：** 深色背景能在低光源環境中保護眼睛。需使用 macOS Mojave。<br/><br/>  **共用行事曆：** 與家人、朋友和同事共用您的行事曆。在 Mac、PC 或雲端版 Outlook 中開啟與您共用的行事曆。[深入了解](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **關閉會議的轉寄：** 防止出席者將您的會議轉寄給其他人。[深入了解](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **使用 Teams 連線到您的會議：** 需要與遠端的團隊合作？使用 Outlook 中的 Teams 進行排程及加入線上會議。[深入了解](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**查看誰會參加會議：** 按一下行事曆中任何會議或活動，即可查看參加者有誰。<br/><br/> **檢視三個時區：** 需要跨時區排程會議嗎？將多個時區新增至行事曆，方便檢視所有人員的空檔，並挑選出所有人都可行的時間。[深入了解](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
@@ -436,7 +452,8 @@ ms.locfileid: "34544606"
 |:-----|:-----|:-----|
 |Word  <br/> |**即時與他人共同編輯：** 視窗右上角的縮圖會顯示還有誰正在與您共用使用文件。標幟圖示會顯示其他人的工作地點，而且您可以在他們輸入時檢視變更。[深入了解](https://support.office.com/article/7dd3040c-3f30-4fdd-bab0-8586492a1f1d#ID0EABAAA=Mac)  <br/><br/> **自動為您儲存！** 存放在雲端中的文件、工作表和簡報會自動儲存變更，而且您可以快速檢視其他人的更新。需要復原嗎？您可以查看版本歷程記錄中的變更清單，並存取較舊的版本。[深入了解](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **快速存取您的網站和群組︰** 您可以在 [開啟] 功能表中快速找出儲存在您常用網站和群組中的簡報。  <br/> |[CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792)：Microsoft Word 遠端程式碼執行弱點  <br/>  <br/>[CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794)：Microsoft Word 遠端程式碼執行弱點 |
 |Excel  <br/> |**共同編輯：** 同時與他人共同使用活頁簿。視窗右上角的縮圖會顯示還有哪些人正在與您一起檢視或編輯檔案。[深入了解](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104#ID0EAABAAA=Mac)  <br/><br/> **自動為您儲存！** 存放在雲端中的文件、工作表和簡報會自動儲存變更，而且您可以快速檢視其他人的更新。需要復原嗎？您可以查看版本歷程記錄中的變更清單，並存取較舊的版本。[深入了解](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac)  <br/><br/> **更多圖表：** 使用新的圖表 (例如漏斗圖、放射圖及長條圖) 將您的資料轉換為專業的視覺效果，或使用新的地圖圖表類型，經由簡單的幾個步驟將地理資料轉換為地圖。   <br/><br/> **更多函式：** 使用新的邏輯函式 [IF 函式](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45)與 [SWITCH 函式](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)縮短您所撰寫的公式。   <br/><br/> **快速存取您的網站和群組︰** 您可以在 [開啟] 功能表中快速找出儲存在您常用網站和群組中的簡報。  <br/> <br/> **進一步支援樞紐分析圖：** 變更您在樞紐分析表中的篩選器，您已建立的圖表就會自動調整而顯示您真正想要的結果。  <br/> <br/> **多執行緒計算**公式會隨著值的變更而更快速地更新，因為 Excel 使用多個處理執行緒。 |
-|PowerPoint  <br/> |**即時與他人共同編輯：** 視窗右上角的縮圖會顯示還有誰正在與您共用使用文件。標幟圖示會顯示其他人的工作地點，而且您可以在他們輸入時檢視變更。[深入了解](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **自動為您儲存！** 存放在雲端中的文件、工作表和簡報會自動儲存變更，而且您可以快速檢視其他人的更新。需要復原嗎？您可以查看版本歷程記錄中的變更清單，並存取較舊的版本。[深入了解](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **檢視有何變更：** 在您離開時經過他人修改的投影片會醒目提示。[深入了解](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **迅速展開研究：** 從頭開始並不容易。快速啟動工具可就您選擇的主題自動建立大綱，並提供建議的談話重點和設計，讓您的簡報更精彩。[深入了解](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **修剪媒體：** 移除音訊或視訊剪輯的開頭或結尾處不需要的內容。[深入了解](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **快速存取您的網站和群組︰** 您可以在 [開啟] 功能表中快速找出儲存在您常用網站和群組中的簡報。  <br/> <br/> **投影片放映中的雷射指標：** 使用滑鼠作為雷射指標，將目光吸引到投影片的某些部分。 |
+|PowerPoint  <br/> |**即時與他人共同編輯：** 視窗右上角的縮圖會顯示還有誰正在與您共用使用文件。標幟圖示會顯示其他人的工作地點，而且您可以在他們輸入時檢視變更。[深入了解](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)  <br/><br/> **自動為您儲存！** 存放在雲端中的文件、工作表和簡報會自動儲存變更，而且您可以快速檢視其他人的更新。需要復原嗎？您可以查看版本歷程記錄中的變更清單，並存取較舊的版本。[深入了解](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5.aspx#OfficeVersion=Mac) <br/> <br/> **檢視有何變更：** 在您離開時經過他人修改的投影片會醒目提示。[深入了解](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d) <br/> <br/> **迅速展開研究：** 從頭開始並不容易。快速啟動工具可就您選擇的主題自動建立大綱，並提供建議的談話重點和設計，讓您的簡報更精彩。[深入了解](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224.aspx) <br/> <br/> **修剪媒體：** 移除音訊或視訊剪輯的開頭或結尾處不需要的內容。[深入了解](https://support.office.com/article/1fc386f2-8404-43e8-9dbd-fee3a11a1d8f#Platform=Mac) <br/> <br/> **快速存取您的網站和群組︰** 您可以在 [開啟] 功能表中快速找出儲存在您常用網站和群組中的簡報。  <br/> <br/> **投影片放映中的雷射指標：** 使用滑鼠作為雷射指標，將目光吸引到投影片的某些部分。<br/><br/>**文字螢光筆：** 現在在 Mac 上推出文字醒目提示！ 使用文字螢光筆來強調重要的文字片段。
+ |
 |Outlook  <br/> |**輕輕一撥就能封存或刪除：** 以兩根手指向左掃過觸控板即可封存電子郵件，向右撥動則可刪除，而無須再費事整理收件匣。  <br/> |[CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793)：Microsoft Outlook 遠端程式碼執行弱點 |
 
    

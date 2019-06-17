@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/15/2019
+ms.date: 6/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: b33d9718ce92494b25b294de4618ec6dd8132c7c
-ms.sourcegitcommit: 38b3f8be8686cd853e481c1e93b89040637a9748
+ms.openlocfilehash: 856e2a039b7b4e7bbd7dcd3cba72be59e07f8c7b
+ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/23/2019
-ms.locfileid: "34419147"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34935835"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -25,13 +25,37 @@ ms.locfileid: "34419147"
 
 
 > [!NOTE]
-> - 最新版的 Microsoft AutoUpdate 一律可從 [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196) 取得。
-> - 僅提供最新版的 Microsoft AutoUpdate 下載連結。
+> 
+> - 僅提供最新版的 Microsoft AutoUpdate 下載連結
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
   
-|**發行日期**|**版本**|**詳細資訊**|**更新套件的下載連結**|
+## <a name="june-2019-release"></a>2019 年 6 月版本
+
+**發行日期：** 2019 年 6 月 11 日
+
+*Microsoft Auto Update 4.12*
+
+ **功能更新：**
+
+- 二進位差異更新：針對 SSD 裝置推出較小的更新，以減少由於更新造成的頻寬使用量。
+- 支援附屬應用程式：MAU 現在支援附屬應用程式，例如 Microsoft OneDrive。
+- 「複製時安裝功能」的增強功能：更新複製已更強固且不會發生故障。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.12 套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+<br/>
+**SHA-1/SHA-256 雜湊：**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+## <a name="release-history"></a>版本歷程記錄
+
+|**發行日期**|**版本**|**詳細資訊**||
 |:-----|:-----|:-----|:-----|
-|2019 年 5 月 14 日 <br/>|4.11 <br/> | [版本資訊](release-notes-office-for-mac.md#May-2019-release) <br/> |[下載 MAU 4.11](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|2019 年 6 月 11日 <br/>|4.12 <br/> |  <br/> ||
+|2019 年 5 月 14 日 <br/>|4.11 <br/> | [版本資訊](release-notes-office-for-mac.md#May-2019-release) <br/> | <br/> |
 |2019 年 4 月 16 日 <br/>|4.10 <br/> | [版本資訊](release-notes-office-for-mac.md#April-2019-release) <br/> |<br/> |
 |2019 年 3 月 14 日 <br/>|4.9.0 <br/> | [版本資訊](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |2019 年 2 月 26 日 <br/>|4.8.0 <br/> | [版本資訊](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
