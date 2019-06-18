@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910383"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017363"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -38,13 +38,13 @@ ms.locfileid: "34910383"
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 
- - 已修正某些增益集會在圖表的圖形周圍擲出未預期錯誤的問題。
+- 已修正某些增益集會在圖表的圖形周圍擲出未預期錯誤的問題。
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全性更新
 
- - 有多個圖形無法從 Visio 匯出至 SVG。
+- 有多個圖形無法從 Visio 匯出至 SVG。
 
-## <a name="version-1905-june-03"></a>版本 1905：6 月 3 日 
+## <a name="version-1905-june-3"></a>版本 1905：6 月 3 日
 *版本 1905 (組建 11629.20214)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
@@ -122,13 +122,13 @@ ms.locfileid: "34910383"
 
  - 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/OfficeUpdates/office365-proplus-security-updates)
 
-## <a name="version-1904-may-08"></a>版本 1904：5 月 8 日 
-*版本 1904 (組建 11601.20178)* 
+## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
+*版本 1904 (組建 11601.20178)*
 
- - 各種錯誤和效能修正。
+- 各種錯誤和效能修正。
 
 ## <a name="version-1904-april-29"></a>版本 1904：4 月 29 日
-*版本 1904 (組建 11601.20144)* 
+*版本 1904 (組建 11601.20144)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
@@ -146,7 +146,7 @@ ms.locfileid: "34910383"
 
 - **將進度圖表匯出到 Word：** 在 Word 文件中自動新增圖表內容，如圖案和中繼資料。 然後，自訂文件來建立程序指導方針和操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
- - **追蹤修訂、註解和即時共同作業的色彩會同步：** 我們產品中的修正現在可確保註解、追蹤修訂及共同作業者的游標會以相同色彩顯示。
+- **追蹤修訂、註解和即時共同作業的色彩會同步：** 我們產品中的修正現在可確保註解、追蹤修訂及共同作業者的游標會以相同色彩顯示。
 
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
 
