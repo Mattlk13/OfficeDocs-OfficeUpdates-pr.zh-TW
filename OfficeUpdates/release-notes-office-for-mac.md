@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 6b4f1f4f2b7613617645cd5e1d1eebd7682f7698
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935875"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060295"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -48,7 +48,7 @@ ms.locfileid: "34935875"
 |**Application**|**更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/><br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。 |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)：Microsoft Word 遠端程式碼執行弱點<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)：Microsoft Word 遠端程式碼執行弱點<br/>|[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。|<br/>|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
+|Excel<br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。<br/><br/>**群組或不要群組：** 樞紐分析表日期不需進行群組。 關閉自動群組功能：[Excel] > [喜好設定] > [表格與篩選]。<br/><br/>**上標及下標概覽：** 如果下標、上標和刪除線是您的必備格式，您可以將它們新增到功能區與快速存取工具列，方便您輕鬆存取。| |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
 |PowerPoint<br/>|使用 @Mentions 提及功能取得他人注意：在註解中使用 @mentions 提及功能，讓其他人知道您需要他們提供建議。<br/><br/>**線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。<br/><br/>**即時的輔助字幕和翻譯字幕：** 您的文字在您呈現在會自動顯示為字幕或翻譯為其他語言做為字幕。 為獲得最佳結果，請使用耳機式麥克風。||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
 |Outlook|**從 Outlook 到 OneNote 只需按一下：** 只要按一下按鈕，您便可以將 Outlook 郵件和會議記錄儲存到 OneNote 筆記本。 將它用作封存或做為資料的暫存位置。 <br/> | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
 
