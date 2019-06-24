@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948789"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130642"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,6 +27,76 @@ ms.locfileid: "34948789"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="june-21-2019"></a>2019 年 6 月 21 日
+版本 1907 (組建 11815.20002)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Outlook 電腦版中用於黑色佈景主題的深色模式
+
+使用深色模式時，黑色佈景主題中的使用者現在也會在讀取電子郵件時看到讀取窗格具有深色背景，並在撰寫電子郵件時擁有深色背景的撰寫體驗。 如果使用者想要預覽郵件在淺色背景下的外觀，在讀取窗格或功能區中有太陽/月亮切換。
+
+#### <a name="getting-started"></a>開始使用：
+
+1. 開啟黑色佈景主題，深色模式預設就會處於開啟狀態。
+2. 使用月亮/太陽切換 (在讀取窗格和功能區中) 可為不在深色模式的使用者預覽郵件的外觀
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例
+
+1. 在深色模式中讀取電子郵件。 如果您無法讀取某些項目，請使用讀取窗格中的太陽切換來切換為淺色背景。 
+2. 在深色模式中撰寫電子郵件。 使用功能區中的太陽切換，預覽您的郵件使用淺色背景時的外觀。 
+
+如果您遇到未正確顯示的任何電子郵件，請將其 (當作附件) 傳送到 OutlookDarkModeFail，
+
+#### <a name="get-location-suggestions"></a>取得位置建議
+
+開始輸入，Outlook 就會尋找符合的位置。
+
+建立約會和會議時，這適用於 [位置] 欄位。
+
+#### <a name="getting-started"></a>開始使用：
+
+- 在 Outlook 中的 O365 或 Outlook.com 行事曆上，建立約會或會議。 
+- 按一下 [位置] 欄位，然後開始輸入…
+
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例
+
+當您將會議室加入至會議時，按一下 [位置] 欄位，而不是使用會議室尋找工具增益集或通訊錄。
+若是在公共場所 (如餐廳、咖啡廳，甚至是牙醫診所) 的實體位置進行會議，請嘗試使用新的選擇器找到確切的位置。 如此一來，您將可以在該離開時，收到 Outlook Mobile 的通知。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+- 我們已修正在離線時會導致搜尋方塊啟用的問題
+
+### <a name="word"></a>Word 
+- 我們已修正有時候可能難以查看鍵盤焦點的問題
+- 我們已修正貼到新文件的文字，有時候文字對齊可能會不正確的問題
+- 我們已修正將使用者的電腦暫停之後，可能防止部分使用者儲存變更的問題
+- 我們已修正在某些情況下會列印整份文件，而非所選範圍的問題
+- 我們已修正可能會讓註解在較小型的顯示器上難以閱讀的問題
+- 我們已修正擷取到裝置時可能會造成當機的問題
+
+### <a name="excel"></a>Excel
+- 修正多項效能和穩定性
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正有時候可能難以查看鍵盤焦點的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正不正確地將未啟用的增益集顯示為已啟用的問題。
+- 我們已修正會在有大量原則時，使得客戶無法檢視所有保留原則的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>2019 年 6 月 14 日
 版本 1907 (組建 11807.20000)
@@ -484,22 +554,6 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905 (組建 11601.20042)
-
-## <a name="whats-new"></a>新功能：
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Access 的新功能 - 存取 Microsoft Graph 的資料連接器
-
-連結至 Microsoft Graph 服務或從 Microsoft Graph 服務匯入，來建立可運用儲存在 Graph 中智慧型關聯式資料的應用程式
-
-#### <a name="getting-started"></a>開始使用：
-
-在功能區中的 [外部資料] 索引標籤，按一下 [新資料來源]，然後在 [線上服務] 功能表中找到新的圖表連接器
-
-#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
-
-從各種不同的圖表服務匯入或連結至各種不同的圖表服務，包括人員、群組和 OneDrive 項目。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 

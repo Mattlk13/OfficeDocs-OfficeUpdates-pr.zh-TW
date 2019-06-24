@@ -34,7 +34,7 @@
 # Mac 版 Office
 ## [更新歷程記錄 (Office 365, 2019)](update-history-office-for-mac.md)
 ## [版本資訊 (Office 365, 2019)](release-notes-office-for-mac.md)
-## [版本資訊 (2016)](release-notes-office-2016-mac.md)
+## [更新歷程記錄 (2016)](release-notes-office-2016-mac.md)
 ## [MAU 版本歷程記錄](release-history-microsoft-autoupdate.md)
 
 # Office (永久)
