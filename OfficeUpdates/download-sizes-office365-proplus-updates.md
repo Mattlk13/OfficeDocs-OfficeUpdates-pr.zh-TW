@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5112dbbe6587b2301207d59a9f485f792dd3421a
-ms.sourcegitcommit: 2223813cb55c65a6bec9a6afce3eb1d8c6ddc2f3
+ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34737945"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203692"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -34,10 +34,38 @@ ms.locfileid: "34737945"
 > - 只有最近使用的舊版本會列示於表格中。如果您正在從舊版進行更新，下載大小就會變大。
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。
 
-## <a name="jun-5-2019"></a>2019 年 6 月 5日
+[//]: # (請勿移除)
+
+## <a name="june-24-2019"></a>2019 年 6 月 24日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJune 24, 2019)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1906 (組建 11727.20210)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1905 (組建 11629.20246) <br/> |2019 年 6 月 11日 <br/> |171<br/> |
+|版本 1905 (組建 11629.20214) <br/> |2019 年 6 月 3 日 <br/> |175<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJune 24, 2019)
+
+## <a name="jun-11-2019"></a>2019 年 6 月 11 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1905 (組建 11629.20246)。
+  
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1905 (組建 111629.20214)  <br/> |2019 年 6 月 3 日  <br/> |72<br/> |
+|版本 1904 (組建 11629.20196)  <br/> |2019 年 5 月 29 日  <br/> |71<br/> |
+|
 ### <a name="semi-annual-channel"></a>半年通道
 
-預期的版本為版本 1808 (組建 10730.20348)。
+最新的版本是版本 1808 (組建 10730.20348)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -46,7 +74,7 @@ ms.locfileid: "34737945"
 
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
-預期的版本為版本 1902 (組建 11328.20318)。
+最新的版本是版本 1902 (組建 11328.20318)。
   
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
