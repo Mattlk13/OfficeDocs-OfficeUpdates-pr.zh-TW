@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203712"
+ms.locfileid: "35226863"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -26,7 +26,7 @@ ms.locfileid: "35203712"
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
 ## <a name="version-1906-june-24"></a>版本 1906：6 月 24 日
 *版本 1906 (組建 11727.20210)*
@@ -54,7 +54,7 @@ ms.locfileid: "35203712"
 - **我們已為您更新 Outlook 使用者體驗：** 先前利用「即將推出」提供預覽的簡化體驗，專門設計來幫助您專注於最重要的事物上。 
   [深入了解](https://support.office.com/zh-TW/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **在電子郵件中使用筆跡！** 您現在可以在 Outlook 電子郵件中繪製圖片並加上註釋。 
+- **讓我繪製：** 使用筆跡在圖片上徒手畫或新增繪圖畫布來傳達您的想法。 
   [深入了解](https://support.office.com/zh-TW/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
@@ -67,7 +67,7 @@ ms.locfileid: "35203712"
 
 - 啟用 [在會議中裁剪我的視訊並置中對齊] 設定時，在 4K 監視器上進行的會議可正確裁剪視訊
 
-- 允許從具有多張網路介面卡的 Windows 10 電腦將檔案傳輸到舊版 Office Communicator 用戶端。 [深入了解] (https://support.microsoft.com/help/4508477)
+- 允許從具有多張網路介面卡的 Windows 10 電腦將檔案傳輸到舊版 Office Communicator 用戶端。 [深入了解](https://support.microsoft.com/help/4508477)
 
 - 改善了商務用 Skype 和 Microsoft Teams 參與者之間的通訊體驗
 
