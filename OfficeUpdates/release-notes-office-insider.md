@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/21/2019
+ms.date: 6/28/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
-ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
+ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
+ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130642"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35393337"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,6 +27,41 @@ ms.locfileid: "35130642"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="june-28-2019"></a>2019 年 6 月 28 日
+版本 1907 (組建 11819.20002)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint 和 Visio
+
+#### <a name="recommended-documents"></a>建譯的文件
+
+透過建議您的相關活動尋找文件。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="word"></a>Word 
+- 我們已修正可能會導致有些 .DOC 檔案無法開啟的問題
+- 我們已修正可能會導致註解無法正確載入的問題
+
+### <a name="excel"></a>Excel
+- 我們已改善 Power Query 的效能
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正在 Surface 裝置上使用手寫筆可能會導致螢幕閃爍的相關問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正將約會轉換成會議時可能會變更約會的空閒/忙碌狀態問題
+- 我們已修正電子郵件有臨時範本的保護時會顯示錯誤範本和描述的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="june-21-2019"></a>2019 年 6 月 21 日
 版本 1907 (組建 11815.20002)
