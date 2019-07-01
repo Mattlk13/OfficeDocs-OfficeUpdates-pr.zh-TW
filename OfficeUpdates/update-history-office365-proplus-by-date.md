@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 52cbaa1193d576b48770f1bd48b7b0db435be84b
-ms.sourcegitcommit: 6687d3d967294413101e7888d96750a4e389bd46
+ms.openlocfilehash: 2502e16e8ba6ed10617b2df0042ce1f8e7977bbe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35215324"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345570"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1906<br/>|11727.20210<br/>|2019 年 6 月 24日<br/>|版本 1907 已推出<br/>|
+|每月<br/>|1906<br/>|11727.20230<br/>|2019 年 6 月 27 日<br/>|版本 1907 已推出<br/>|
 |半年 (已設定目標)<br/>|1902<br/>|11328.20318<br/>|2019 年 6 月 11日<br/>|2019 年 9 月 10 日<br/>|
 |半年<br/>|1808<br/>|10730.20348<br/>|2019 年 6 月 11日<br/>|2020 年 3 月 10 日<br/>|
 |半年<br/>|1803<br/>|9126.2388<br/>|2019 年 6 月 11日<br/>|2019 年 9 月 10 日<br/>|
@@ -47,7 +47,9 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
-|2019 年|6 月 24日|[版本 1906 (組建 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | |
+|2019|6 月 27 日|[版本 1906 (組建 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | |
+|2019|6 月 26 日|[版本 1906 (組建 11727.20224)](monthly-channel-2019.md#version-1906-june-26)| | |
+|2019|6 月 24日|[版本 1906 (組建 11727.20210)](monthly-channel-2019.md#version-1906-june-24)| | |
 |2019 年|6 月 11 日|[版本 1905 (組建 11629.20246)](monthly-channel-2019.md#version-1905-june-11)|[版本 1902 (組建 11328.20318)](semi-annual-channel-targeted-2019.md#version-1902-june-11)|[版本 1808 (組建 10730.20348)](semi-annual-channel-2019.md#version-1808-june-11)<br/>[版本 1803 (組建 9126.2388)](semi-annual-channel-2019.md#version-1803-june-11)|
 |2019|6 月 3 日 |[版本 1905 (組建 11629.20214)](monthly-channel-2019.md#version-1905-june-3)| | |
 |2019|5 月 29 日 |[版本 1905 (組建 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |

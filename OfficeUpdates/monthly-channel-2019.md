@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226863"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345580"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -27,6 +27,25 @@ ms.locfileid: "35226863"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="version-1906-june-27"></a>版本 1906：6 月 27 日
+*版本 1906 (組建 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+
+- 解決導致部分 POP3 使用者查看所有純文字格式電子郵件 (無論設定) 的問題。  此修正將會還原 HTML 格式郵件的檢視。
+
+## <a name="version-1906-june-26"></a>版本 1906：6 月 26 日
+*版本 1906 (組建 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+
+- 已修正 Excel 中，巨集指派給圖形或表單控制項時，可能會顯示不正確的錯誤訊息，或者可能會處理不正確目標範圍的問題。
+- 已解決導致表格旁的剪下並貼上作業在與其他人共同撰寫時失敗的問題。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+
+- 解決導致經理對於代理人是否已經回覆特定會議邀請含混不清的問題。
 
 ## <a name="version-1906-june-24"></a>版本 1906：6 月 24 日
 *版本 1906 (組建 11727.20210)*
