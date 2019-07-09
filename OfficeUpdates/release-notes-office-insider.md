@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575164"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587894"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -138,7 +138,7 @@ ms.locfileid: "35575164"
 1. 在深色模式中讀取電子郵件。 如果您無法讀取某些項目，請使用讀取窗格中的太陽切換來切換為淺色背景。 
 2. 在深色模式中撰寫電子郵件。 使用功能區中的太陽切換，預覽您的郵件使用淺色背景時的外觀。 
 
-如果您遇到未正確顯示的任何電子郵件，請將其 (當作附件) 傳送到 OutlookDarkModeFail，
+如果您遇到未正確顯示的任何電子郵件，請將其 (當作附件) 傳送到 OutlookDarkModeFail@service.microsoft.com
 
 #### <a name="get-location-suggestions"></a>取得位置建議
 
