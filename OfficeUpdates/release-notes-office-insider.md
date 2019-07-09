@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393337"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575164"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,6 +27,60 @@ ms.locfileid: "35393337"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="july-5-2019"></a>2019 年 7 月 5 日
+版本 1908 (組建 11901.20002)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
+
+#### <a name="sketchy-shapes"></a>素描形狀！
+
+仍在編寫簡報的草稿嗎？ 套用素描樣式來顯示您仍在處理文件。 此功能可在不將物件轉換成自由格式、手繪形狀的情況下，為您的物件賦與個人風格。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+- 我們已大幅提高功能區 KeyTip 的效能
+- 我們已修正無法正常顯示 [查看即將推出的新功能] 方塊的問題
+- 我們已修正可能會導致共同撰寫圖庫飛出視窗中的相片排列錯誤的問題
+
+### <a name="word"></a>Word 
+- 我們已修正有時無法加入新註解的問題
+- 我們已修正表格有時可能會造成當機的問題
+- 我們已修正無效的資料有時可能會新增至合併列印結尾的問題
+- 我們已修正可能會導致不正確呈現部分 LaTeX 方程式的問題
+
+### <a name="excel"></a>Excel
+- 我們已修正變更圖表類型有時可能會導致執行階段例外狀況的問題
+- 我們已修正開啟多個視窗時會顯示不正確功能區的問題
+- 我們已修正巨集開啟活頁簿的第二個執行個體時可能會造成錯誤的問題
+- 我們已修正開啟或建立活頁簿，或切換使用不同的活頁簿時可能會造成當機的問題
+- 我們已修正使用者無法在 Teams 中開啟透過 Word 建立之 PDF 的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正匯出成 PDF 時會降低圖表品質的問題
+- 我們已修正工具提示無法顯示到達中心之距離的問題
+
+### <a name="outlook"></a>Outlook
+- 我們已修正有時可能會導致 [磁碟已滿] 錯誤訊息無法顯示的問題
+- 我們已修正更新會議邀請時可能會導致附件重複的問題
+
+### <a name="access"></a>Access
+- 我們已修正某些查詢無法傳回大整數值的問題
+- 我們已修正可能會引起 SQL 文字方塊無法編輯的問題
+- 我們已修正工具提示可能難以在某些高 DPI 顯示器上查看的問題
+
+### <a name="project"></a>Project
+- 我們已修正在新工作中可能會導致旗標值無法編輯的問題
+- 我們已修正可能導致狀態更新在 [工作分派] 和 [任務] 上不正確地設定 [實際開始日期] 的問題
+- 我們已修正可能會導致部分資源錯誤顯示為過度分派的問題
+- 我們已修正新增延隔時間、小數點分隔符號是逗號，以及連線至伺服器時，工作相依性新增方法可能會出錯的問題
+- 我們已修正透過 CSOM 更新本機自訂欄位的查閱表格值可能會損毀 PCS 的問題
+- 我們已修正總工時值示內如果含有小數點時將不正確顯示的問題
+
+</BR></BR>
 
 ## <a name="june-28-2019"></a>2019 年 6 月 28 日
 版本 1907 (組建 11819.20002)
