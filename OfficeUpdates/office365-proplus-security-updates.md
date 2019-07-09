@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: af4f418640b2931062d7fbe7157d14f3354c54b4
-ms.sourcegitcommit: 09fce01ca8aaf16478bdf41ee05a19b1b3c3cbb2
+ms.openlocfilehash: 5cba7eb79cf38354f25f3ebc71464695400445fc
+ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34852887"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "35585571"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
 
