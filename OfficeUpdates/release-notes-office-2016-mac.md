@@ -1,5 +1,5 @@
 ---
-title: Mac 版 Office 2016 的版本資訊
+title: Mac 版 Office 2016 更新歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -10,14 +10,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 從 2018 年 9 月開始為 IT 專業人員提供 Mac 版 Office 2016 的版本資訊
-ms.openlocfilehash: 607abf772306e7c98657080fdabe5e304eccb051
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 094e0654c5e92dee64d0f1ce3c74a0f9f2443b06
+ms.sourcegitcommit: 7a98878289dd61a6cfa7ea5e9a4ee90ad085b9bb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935895"
+ms.lasthandoff: 06/20/2019
+ms.locfileid: "35110775"
 ---
-# <a name="release-notes-for-office-2016-for-mac"></a>Mac 版 Office 2016 的版本資訊
+# <a name="update-history-for-office-2016-for-mac"></a>Mac 版 Office 2016 更新歷程記錄
 
 Mac 版 Office 2016 是 Office 的一個版本，可從零售商店或透過大量授權合約買斷。我們將視需要提供其安全性更新和錯誤修復直到 2020 年 10 月 13 日。Mac 支援 Mac 版 Office 2016 的最低 macOS 為 10.10 (Yosemite)。
 
