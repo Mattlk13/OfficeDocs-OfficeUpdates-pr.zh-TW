@@ -3,19 +3,19 @@ title: Office 2010 隨選即用產品更新歷程記錄
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: 3f2e2ebdf24184d3452682a5116787ba5bd0f2ae
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: d393785c16090e6925ee6735b51ce290d1ff5a1c
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745525"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594557"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
@@ -30,7 +30,7 @@ ms.locfileid: "31745525"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2010 是**14.0.7232.5000**，其中已於 2019 年 4 月 9 日發行。 
+> 最新版的 Office 2010 是**14.0.7235.5000**，其中已於 2019 年 7 月 9 日發行。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -54,7 +54,10 @@ ms.locfileid: "31745525"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2019 年|4 月 9 日  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
+|2019 年|7 月 9 日  <br/> |14.0.7235.5000  <br/> |[KB 4509295](https://support.microsoft.com/en-us/help/4509295) <br/> |
+||6 月 11 日  <br/> |14.0.7234.5000  <br/> |[KB 4505743](https://support.microsoft.com/en-us/help/4505743) <br/> |
+||5 月 14 日  <br/> |14.0.7233.5000  <br/> |[KB 4501270](https://support.microsoft.com/en-us/help/4501270) <br/> |
+||4 月 9 日  <br/> |14.0.7232.5000  <br/> |[KB 4495300](https://support.microsoft.com/en-us/help/4495300) <br/> |
 ||3 月 12 日  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
 ||2 月 15 日  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
 ||1 月 8 日  <br/> |14.0.7228.5000  <br/> |[KB 4484800](https://support.microsoft.com/en-us/help/4484800) <br/> |
