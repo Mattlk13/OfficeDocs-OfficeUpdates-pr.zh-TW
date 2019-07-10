@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910393"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607357"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -27,6 +27,49 @@ ms.locfileid: "34910393"
  
 > [!NOTE]
 > - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+
+## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
+*版本 1902 (組建 11328.20368)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+- 修正刪除篩選過的 Excel 資料列非常緩慢的問題。
+- 修正以兩根手指捲動會導致灰色矩形繪製超出工作表範圍，並且讓 Excel 當機的問題。
+
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+- 解決導致使用者有時會看見 Outlook 插入英文拼音字母，而不是讓輸入法候選視窗保持開啟以選取中文字的問題。
+- 解決導致使用者看到針對排程的會議建議的會議室卻沒有可預約時間的問題。
+- 解決導致使用者嘗試開啟會議系列的例外狀況卻開啟主要系列的問題。
+- 解決導致使用者在 [刪除的郵件] 資料夾中看到郵件到期日期計算錯誤的問題。
+
+
+### <a name="teams-non-security-updates"></a>Teams：非安全性更新
+
+- Teams 安裝程式在安裝完成後，現在有 [原則] 可關閉自動啟動。
+
+
+### <a name="visio-non-security-updates"></a>Visio：非安全性更新
+
+- 解決適用於 Visio 的 ActiveX 解決方案無法搭配 Office 365 運作的相關問題，會以一個說明找不到 riched20.dll 的錯誤訊息表示。
+
+
+### <a name="word--non-security-updates"></a>Word：非安全性更新
+
+- 修正停用範本搜尋列的 GPO 設定
+- 修正使用者在離線後又編輯僅限伺服器才有的文件而可能遺失某些變更的問題。
+- 改善啟用 [文件的快速組件] 摘要資訊時的效能
+- 修正從伺服器第一次下載修訂可能會失敗的問題
+
+
+### <a name="office-suite--non-security-updates"></a>Office 套件：非安全性更新
+
+- 解決安裝其他 Office 產品或語言套件後，使用共用電腦啟用的裝置可能會意外還原為使用者啟用的問題。
+- 修正以 SYSTEM 身分執行 proxy 驗證時會封鎖 Office 更新的問題。
+- 修正以解決使用者設定檔變更後，Office 增益集消失的問題。
+
 
 ## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
 *版本 1902 (組建 11328.20318)*
