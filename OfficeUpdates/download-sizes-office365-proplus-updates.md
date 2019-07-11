@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: f353cd54355468e4eed9cc8cde8eae2429c65236
-ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
+ms.openlocfilehash: 39c60b6d84ffff836a1f89735e357cbcd1901793
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2019
-ms.locfileid: "35585561"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601462"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -35,34 +35,43 @@ ms.locfileid: "35585561"
 > - 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標) 」到「半年通道」，更新大小會遠超過表格中所列的更新大小。它可能需要完整下載，下載大小至少 1 GB。
 
 [//]: # (DO NOT REMOVE)
-## <a name="july-8-2019"></a>2019 年 7 月 8 日
+
+## <a name="july-9-2019"></a>2019 年 7 月 9 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJuly 9, 2019)
 
 ### <a name="monthly-channel"></a>每月通道
 
-預期的版本為版本 1906 (組建 11727.20244)。
+最新的版本是版本 1906 (組建 11727.20244)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1906 (組建 11727.20230) <br/> |2019 年 6 月 27 日 <br/> |202<br/> |
 |版本 1906 (組建 11727.20224) <br/> |2019 年 6 月 26 日 <br/> |51<br/> |
 
+
+
 ### <a name="semi-annual-channel"></a>半年通道
 
-預期的版本為版本 1902 (組建 11328.20368)。
+最新的版本是版本 1902 (組建 11328.20368)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1808 (組建 10730.20348) <br/> |2019 年 6 月 11日  <br/> |307<br/> |
-|版本 1808 (組建 10730.20344) <br/> |2019 年 5 月 14 日  <br/> |307<br/> |
+|版本 1808 (組建 10730.20348) <br/> |2019 年 6 月 11日 <br/> |307<br/> |
+|版本 1808 (組建 10730.20344) <br/> |2019 年 5 月 14 日 <br/> |307<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>半年通道 (已設定目標)
 
-預期的版本為版本 1902 (組建 11328.20368)。
-  
+最新的版本是版本 1902 (組建 11328.20368)。
+
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1902 (組建 11328.20318)  <br/> |2019 年 6 月 11日  <br/> |71 <br/> |
-|版本 1902 (組建 11328.20286)  <br/> |2019 年 5 月 14 日  <br/> |74 <br/> |
+|版本 1902 (組建 11328.20318) <br/> |2019 年 6 月 11日 <br/> |71<br/> |
+|版本 1902 (組建 11328.20286) <br/> |2019 年 5 月 14 日 <br/> |74<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJuly 9, 2019)
+
 
 ## <a name="june-27-2019"></a>2019 年 6 月 27 日
 
