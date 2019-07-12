@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605582"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612142"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -29,8 +29,7 @@ ms.locfileid: "35605582"
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902 (組建 11328.20368)*
-
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+<br/>安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
 
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -196,6 +195,26 @@ ms.locfileid: "35605582"
 - 已修正下載連結圖片時，造成懸置的迴歸。
 - 已修正在 Word、Excel、PowerPoint 貼上大型 EMF 檔案的模糊問題。
 - 已修正版本歷程記錄剖析邏輯時，在少數情況下導致文件以唯讀模式開啟的錯誤 (bug)。
+
+
+## <a name="version-1808-july-09"></a>版本 1808：7 月 9 日
+*版本 1808 (組建 10730.20360)*
+<br/>安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+
+- 已改善啟用快速組件文件摘要資訊時的效能。
+- 已修正在簽出檔案時，簽章遭到移除的問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+
+- 已修正會影響在虛擬化 Windows 上執行 Office 應用程式的問題。
+
+
+## <a name="version-1803-july-09"></a>版本 1803：7 月 9 日
+*版本 1803 (組建 9126.2428)*
+<br/>安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
 
 
 ## <a name="version-1808-june-11"></a>版本 1808：6 月 11 日
