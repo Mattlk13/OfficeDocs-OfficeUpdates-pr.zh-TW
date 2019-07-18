@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
-ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
+ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
+ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390971"
+ms.lasthandoff: 07/17/2019
+ms.locfileid: "35759453"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -37,6 +37,38 @@ ms.locfileid: "35390971"
 
   **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
 
+## <a name="july-16-2019-release"></a>2019 年 7 月 16 日發行
+*版本 16.27 (組建 19071500)*
+
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- 修正各種效能問題。
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- 修正各種效能問題。
+
+
+### <a name="excel-security-updates"></a>Excel：安全性更新
+
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110)：Microsoft Excel 遠端程式碼執行弱點
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111)：Microsoft Excel 遠端程式碼執行弱點
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- 修正各種效能問題。
+
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **分享您雲端檔案中的附件：** 輕鬆地將雲端檔案附加至電子郵件訊息，以實現增強的共同作業。<br/>
+
+### <a name="outlook-security-updates"></a>Outlook：安全性更新
+
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)：Microsoft Exchange 資訊洩漏弱點<br/><br/>
 ## <a name="june-11-2019-release"></a>2019 年 6 月 11 日發行
 *版本 16.26 (組建 19060901)*
 
