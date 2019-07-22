@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/12/2019
+ms.date: 7/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
-ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
+ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
+ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35643035"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35803160"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,6 +27,50 @@ ms.locfileid: "35643035"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="july-19-2019"></a>2019 年 7 月 19 日
+版本 1908 (組建 11911.20000)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="word"></a>Word
+
+#### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>了解在 Word Online 中閱讀時，縮略字代表的意義
+
+當您遇到縮略字時，我們會嘗試使用貴組織的資料來定義縮略字。
+
+#### <a name="coauthoring-improvements"></a>共同撰寫的增強功能
+
+改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="word"></a>Word 
+- 我們已修正 BookMarkEnd 標記遺失的問題。
+- 我們已修正字型選項會在使用者輸入特殊字元時變更的問題。
+- 我們已修正有時候可能會造成新註解卡片有空白回覆的問題。
+- 我們已修正共用電子郵件時可能會造成格式遺失的問題。
+
+### <a name="excel"></a>Excel
+- 我們已修正大範圍的陣列有時可能會造成當機的問題。
+- 我們已大幅改善從篩選範圍複製資料的效能。
+- 我們已修正如果檔案名稱包含特殊字元便無法開啟某些檔案的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+- 我們已修正 PowerPoint 中預設未選取新建區段的區段名稱問題。
+- 我們已修正使用 4:3 顯示器時 UI 變得難以使用的問題。
+
+### <a name="outlook"></a>Outlook
+- 我們已修正無法列出可用會議室的問題。
+- 我們已修正部分 POP3 使用者無法使用 HTML 格式的問題。
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="july-12-2019"></a>2019 年 7 月 12 日
 版本 1907 (組建 11901.20038)
