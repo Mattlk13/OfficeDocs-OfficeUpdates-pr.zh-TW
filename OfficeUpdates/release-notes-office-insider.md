@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803160"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916966"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,6 +27,44 @@ ms.locfileid: "35803160"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="july-26-2019"></a>2019 年 7 月 26 日
+版本 1908 (組建 11916.20000)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="word-excel-powerpoint"></a>Word、Excel、PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>建立更易於存取的 PDF
+
+建立 PDF 檔案，然後協助工具檢查程式會指出在儲存之前應該修正的協助工具問題。
+
+## <a name="notable-fixes"></a>值得注意的修正：
+
+### <a name="all"></a>全部
+
+- 我們修正了 Office 更新後 Office 文件類型關聯和圖示有時會中斷的問題
+
+### <a name="word"></a>Word 
+- 修正多項效能和穩定性
+
+### <a name="excel"></a>Excel
+- 我們修正了移動圖表有時會導致當機的問題
+- 我們修正了在更改圖表類型後從 Chart 物件獲取 Workbook 物件有時會導致錯誤的問題
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正多項效能和穩定性
+
+### <a name="outlook"></a>Outlook
+- 我們修正了在簡化版的功能區中，停用的控制項有時不會呈現灰色的問題
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>2019 年 7 月 19 日
 版本 1908 (組建 11911.20000)
@@ -925,7 +963,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 
 - 這個功能在標題中的 UI 上方強調顯示。
 
-#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
 
 - 搜尋某間大學、最近使用過的文件或搜尋最常用的功能區命令
 - 尋找某個主題或主旨並取得更多相關資訊
@@ -1035,7 +1073,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 - 名稱前面必須加上「!!」 (兩個半形驚嘆號)，例如「!!名稱」，轉化才能用來覆寫預設比對行為
 - 使用者可以繼續將圖形重新命名為不是以「!!」為開頭的任何名稱 不必擔心會變更轉化的運作方式
 
-#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
 
 - 在投影片中插入圖形，讓我們假設是矩形
 - 建立新投影片
@@ -1053,7 +1091,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 
 您使用 SmartArt 的方式與轉化相同
 
-#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
 
 - 在投影片中插入 SmartArt
 - 複製投影片
@@ -1069,7 +1107,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 #### <a name="getting-started"></a>開始使用：
 您使用表格的方式與轉化相同
 
-#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
 
 - 在投影片中插入表格
 - 複製投影片
@@ -1087,7 +1125,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 
 ![MeMock.png](Images/MeMock.png)
 
-#### <a name="scenarios-to-try"></a>可嘗試使用的範例：
+#### <a name="scenarios-to-try"></a>可嘗試使用的案例：
 - 在不同的帳戶之間切換
 - 新增帳戶 [附註：您可能想要先移至 [檔案] | [帳戶] | [已連線服務]，移除任何已連線至工作帳戶的個人服務或是反向服務]
 - 登出帳戶
