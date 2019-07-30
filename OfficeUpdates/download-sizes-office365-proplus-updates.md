@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 618ba47e894e43df22fced1370f24c05421d0a19
-ms.sourcegitcommit: 75261a0a6da741286e89750a6035e398c041972c
+ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
+ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35834253"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35924910"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -32,6 +32,22 @@ ms.locfileid: "35834253"
 
 
 [//]: # (請勿移除)
+
+## <a name="july-29-2019"></a>2019 年 7 月 29 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJuly 29, 2019)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1907 (組建 11901.20176)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1906 (組建 11727.20244) <br/> |2019 年 7 月 9 日 <br/> |195<br/> |
+|版本 1906 (組建 11727.20230) <br/> |2019 年 6 月 27 日 <br/> |200<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJuly 29, 2019)
 
 ## <a name="july-9-2019"></a>2019 年 7 月 9 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: ce692869d1e03aa375e19db34cec57a6c13d4be3
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: d67b2233ee605a43993548a8cc13a89d3ef1aa93
+ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605572"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35924940"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,9 +31,9 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1906<br/>|11727.20244<br/>|2019 年 7 月 9 日<br/>|版本 1907 已推出<br/>|
-|半年 (已設定目標)<br/>|1902<br/>|11328.20368<br/>|2019 年 7 月 9 日<br/>|2019 年 9 月 10 日<br/>|
+|每月<br/>|1907<br/>|11901.20176<br/>|2019 年 7 月 29 日<br/>|版本 1908 已推出<br/>|
 |半年<br/>|1902<br/>|11328.20368<br/>|2019 年 7 月 9 日<br/>|2020 年 9 月 8 日<br/>|
+|半年 (已設定目標)<br/>|1902<br/>|11328.20368<br/>|2019 年 7 月 9 日<br/>|2019 年 9 月 10 日<br/>|
 |半年<br/>|1808<br/>|10730.20360<br/>|2019 年 7 月 9 日<br/>|2020 年 3 月 10 日<br/>|
 |半年<br/>|1803<br/>|9126.2428<br/>|2019 年 7 月 9 日<br/>|2019 年 9 月 10 日<br/>|
 
@@ -48,6 +48,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|7 月 29 日|[版本 1907 (組建 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |
 |2019|7 月 9 日|[版本 1906 (組建 11727.20244)](monthly-channel-2019.md#version-1906-july-9)|[版本 1902 (組建 11328.20368)](semi-annual-channel-targeted-2019.md#version-1902-july-9)|[版本 1902 (組建 11328.20368)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[版本 1808 (組建 10730.20360)](semi-annual-channel-2019.md#version-1902-july-9)<br/>[版本 1803 (組建 9126.2428)](semi-annual-channel-2019.md#version-1902-july-9)|
 |2019|6 月 27 日|[版本 1906 (組建 11727.20230)](monthly-channel-2019.md#version-1906-june-27)| | |
 |2019|6 月 26 日|[版本 1906 (組建 11727.20224)](monthly-channel-2019.md#version-1906-june-26)| | |

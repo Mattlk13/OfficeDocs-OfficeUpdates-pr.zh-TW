@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 30786bb2d76c8fe0f6b2a1a1e0e1b8a3634aa6ee
+ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601512"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35924950"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -27,6 +27,51 @@ ms.locfileid: "35601512"
 
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="version-1907-july-29"></a>版本 1907：7 月 29 日
+*版本 1907 (組建 11901.20176)*
+* 各種錯誤和效能修正。
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
+
+- **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數。 
+  [深入了解](https://support.office.com/zh-TW/article/cb37c233-1d4e-4187-ad68-c847a13d73ad)
+
+- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
+  [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。 
+  [深入了解](https://support.office.com/zh-TW/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 
+  [深入了解](https://support.office.com/zh-TW/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
+
+- **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 
+  [深入了解](https://support.office.com/zh-TW/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
+  [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **跟分心說再見：** Mac 中最受歡迎的功能來到 Windows。 切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 
+  [深入了解](https://support.office.com/zh-TW/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
+
+- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
+  [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **精確橡皮擦：** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。 
+  [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906 (組建 11727.20244)*
