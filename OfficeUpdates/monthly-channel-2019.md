@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 30786bb2d76c8fe0f6b2a1a1e0e1b8a3634aa6ee
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
+ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924950"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35931163"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -37,7 +37,7 @@ ms.locfileid: "35924950"
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
 
 - **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數。 
-  [深入了解](https://support.office.com/zh-TW/article/cb37c233-1d4e-4187-ad68-c847a13d73ad)
+  [深入了解](https://support.office.com/zh-TW/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
 
 - **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
   [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
