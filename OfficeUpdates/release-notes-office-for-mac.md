@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759453"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937621"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -64,8 +64,8 @@ ms.locfileid: "35759453"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **分享您雲端檔案中的附件：** 輕鬆地將雲端檔案附加至電子郵件訊息，以實現增強的共同作業。<br/>
-
+- **分享您雲端檔案中的附件：** 輕鬆地將雲端檔案附加至電子郵件訊息，以提升共同作業效率。<br/>
+- **[讀取窗格] 中的深色模式支援：** 您現在收到的電子郵件背景為深色，以便於在光線不足的環境中查看。 需要 macOS Mojave。 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)：Microsoft Exchange 資訊洩漏弱點<br/><br/>
