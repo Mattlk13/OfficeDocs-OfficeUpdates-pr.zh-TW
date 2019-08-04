@@ -3,33 +3,41 @@ title: Office 365 專業增強版更新的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2018
+ms.date: 7/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 28fcd7169df09e40384b695083120f33856cfc4a
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
+ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948779"
+ms.lasthandoff: 07/23/2019
+ms.locfileid: "35823952"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
 
-> [!NOTE]
-> - 列出每個更新通道支援版本的表格，已移至 [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)。
+
+## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 專業增強版的安全性更新發行
+
+如需安全性更新的完整清單，請參閱下列文章：
+ - [Office 365 專業增強版的安全性更新](office365-proplus-security-updates.md)
 
 
+## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版的更新歷程記錄發行
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本更新歷程記錄
-
-如需完整版本清單，請參閱下列文章：
+如需發行的完整清單和每個頻道支援的版本，請參閱下列文章：
  - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本資訊
+
+ ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 專業增強版的更新大小發行
+
+如需更新版本大小的完整清單，請參閱下列文章：
+ - [Office 365 專業增強版更新的下載大小](download-sizes-office365-proplus-updates.md)
+
+## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本資訊發行
 
 如需依更新通道和年度列出的完整版本資訊，請參閱下列文章︰
  - 每月：[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
@@ -41,6 +49,7 @@ ms.locfileid: "34948779"
 如需 Mac 版 Office (隨附於任何包含 Office 365 專業增強版的 Office 365 訂閱方案) 更新的相關資訊，請參閱下列文章：
  - [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)
  - [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)
+ - [MAU 版本歷程記錄](release-history-microsoft-autoupdate.md)
 
 
 ## <a name="related-topics"></a>相關主題

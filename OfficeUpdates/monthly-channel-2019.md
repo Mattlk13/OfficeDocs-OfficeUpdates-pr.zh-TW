@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
-ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
+ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/30/2019
-ms.locfileid: "35931163"
+ms.locfileid: "35936334"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -261,11 +261,13 @@ ms.locfileid: "35931163"
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **將進度圖表匯出到 Word：** 在 Word 文件中自動新增圖表內容，如圖案和中繼資料。 然後，自訂文件來建立程序指導方針和操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
-
 - **追蹤修訂、註解和即時共同作業的色彩會同步：** 我們產品中的修正現在可確保註解、追蹤修訂及共同作業者的游標會以相同色彩顯示。
 
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+### <a name="visio-feature-updates"></a>Visio：功能更新
+
+- **將進度圖表匯出到 Word：** 在 Word 文件中自動新增圖表內容，如圖案和中繼資料。 然後，自訂文件來建立程序指導方針和操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 

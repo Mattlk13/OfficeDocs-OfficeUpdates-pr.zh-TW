@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
-ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
+ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35795539"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35936344"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -40,7 +40,7 @@ ms.locfileid: "35795539"
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。
+- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **MAU 更新連結：**
@@ -51,13 +51,92 @@ ms.locfileid: "35795539"
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
+## <a name="june-2019-release"></a>2019 年 6 月發行
+
+**發行日期：** 2019 年 6 月 27 日
+
+*Microsoft Auto Update 4.12*
+
+ **功能更新：**
+
+- 修正 Apple OS 測試版造成完整更新程式的 MAU 更新中失敗的問題。 
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.12 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
+<br/><br/>
+
+**發行日期：** 2019 年 6 月 9 日
+
+*Microsoft Auto Update 4.12*
+
+ **功能更新：**
+
+- 二進位差異更新：針對 SSD 裝置推出較小的更新，以減少由於更新造成的頻寬使用量。
+- 支援附屬應用程式：MAU 現在支援附屬應用程式，例如 Microsoft OneDrive。
+- 「複製時安裝功能」的增強功能：更新複製已更強固且不會發生故障。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.12 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+
+## <a name="may-2019-release"></a>2019 年 5 月發行
+
+**發行日期：** 2019 年 5 月 14 日
+
+*Microsoft AutoUpdate 4.11*
+
+ **功能更新：**
+
+- MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
+- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- 各種錯誤和效能修正。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.11 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
+<br/><br/>
+
+## <a name="april-2019-release"></a>2019 年 4 月發行
+
+**發行日期：** 2019 年 4 月 16 日
+
+*Microsoft AutoUpdate 4.10*
+
+ **功能更新：**
+
+- 複製時安裝功能增強功能：針對 SSD 裝置，針對使用中的應用程式推出複製時更新，因此可減少由於更新造成的應用程式停機時間。
+- 安裝最佳化：更新程序會使用平行化複製，這樣就會減少因更新造成的應用程式停機時間。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.10 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
+<br/><br/>
 
 ## <a name="release-history"></a>版本歷程記錄
 
 |**發行日期**|**版本**|**詳細資訊**||
 |:-----|:-----|:-----|:-----|
 |2019 年 7 月 18 日 <br/>|4.13 <br/> |  <br/> ||
-|2019 年 6 月 11日 <br/>|4.12 <br/> | <br/> ||
+|2019 年 6 月 27 日 <br/>2019 年 6 月 9 日|4.12 <br/> | <br/> ||
 |2019 年 5 月 14 日 <br/>|4.11 <br/> |  <br/> | <br/> |
 |2019 年 4 月 16 日 <br/>|4.10 <br/> |  <br/> |<br/> |
 |2019 年 3 月 14 日 <br/>|4.9.0 <br/> | [版本資訊](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
