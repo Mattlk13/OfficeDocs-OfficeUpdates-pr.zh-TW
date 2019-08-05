@@ -3,19 +3,19 @@ title: Office 測試人員的版本資訊
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916966"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168328"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,7 +26,98 @@ ms.locfileid: "35916966"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符
 
  > [!NOTE]
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+[//]: # (請勿移除)
+
+
+## <a name="august-02-2019br"></a>**2019 年 8 月 2 日**<br/>
+版本 1908 (組建 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Excel 功能更新：
+
+- **轉換檔案，以改善協助工具功能：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+
+### <a name="outlook-feature-updates"></a>Outlook 功能更新：
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 功能更新：
+
+- **轉換檔案，以改善協助工具功能：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+
+### <a name="word-feature-updates"></a>Word 功能更新：
+
+- **轉換檔案，以改善協助工具功能：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+
+- **重寫功能幫大忙：** 想要以另一種方式表達嗎？ 使用 [重寫] 以查看傳達訊息的不同建議。
+
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+
+
+
+## <a name="non-security-updates"></a>非安全性更新：
+
+### <a name="access"></a>Access
+- 修正多項效能和穩定性
+
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正了列印至 PDF 時，&quot;重複所有標籤&quot;看起來像已套用的問題</span></div>
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我們已修正了使用者可能無法從桌面開啟文件的問題</span></div>
+
+- <div><span>我們已修正了&quot;另一個安裝正在進行中&quot;的不正確錯誤訊息，可能導致無法升級的問題</span></div>
+
+- <div><span>我們已修正了安全性更新安裝後，使用者可能會看到錯誤訊息的問題</span></div>
+
+- <div><span>我們已修正了可能會造成游標消失的問題</span></div>
+
+- <div><span>我們已修正了使用者可能預設前往 [繪圖] 索引標籤而不是 [常用] 索引標籤的問題</span></div>
+
+- <div><span>我們已修正了大型樹狀檢視可能會導致當機的問題</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">我們已修正了可能導致系統重複提示輸入密碼的問題</span>
+
+- <div><span>我們已修正了可能無法正確查詢電子郵件地址的問題</span></div>
+
+- <div><span>我們已修正了可能導致使用者無法開啟由舊版 Outlook 建立之行事曆項目的問題</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我們已修正了部分動畫無法開始的問題</span></div>
+
+### <a name="project"></a>Project
+- 修正多項效能和穩定性
+
+### <a name="word"></a>Word
+
+- <div><span>我們已修正了註解的回覆以錯誤順序顯示的問題</span></div>
+
+- <div><span>我們已修正了在某些情況下，會顯示提示而非顯示註解的問題</span></div>
+
+- <div><span>我們已修正了當使用者嘗試新增註解時，可能會顯示 [修訂窗格] 的問題</span></div>
+
+- <div><span>我們已修正了可能無法顯示 [復原] 下拉式清單的問題</span></div>
+
+- <div><span>我們已修正了有時無法新增註解的問題</span></div>
+
 
 ## <a name="july-26-2019"></a>2019 年 7 月 26 日
 版本 1908 (組建 11916.20000)
