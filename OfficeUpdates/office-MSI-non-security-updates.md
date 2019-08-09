@@ -3,19 +3,19 @@ title: 使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/03/2019
+ms.date: 08/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
-ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
+ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35430176"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231588"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -26,6 +26,30 @@ ms.locfileid: "35430176"
 > - 本文中的資訊不適用於 Office 365 版本的 Office，例如 Office 365 專業增強版。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="august-6-2019"></a>2019 年 8 月 6 日
+
+**Office 2016**<br/>
+Microsoft Excel 2016 更新 ([KB4475550](https://support.microsoft.com/help/4475550))<br/>
+Microsoft Office 2016 更新 ([KB4475516](https://support.microsoft.com/help/4475516))<br/>
+Microsoft Office 2016 更新 ([KB3114528](https://support.microsoft.com/help/3114528))<br/>
+Microsoft Office 2016 更新 ([KB4475542](https://support.microsoft.com/help/4475542))<br/>
+Microsoft Office 2016 更新 ([KB3141456](https://support.microsoft.com/help/3141456))<br/>
+Microsoft Office 2016 更新 ([KB4464588](https://support.microsoft.com/help/4464588))<br/>
+Microsoft Office 2016 更新 ([KB4032254](https://support.microsoft.com/help/4032254))<br/>
+Microsoft Office 2016 更新 ([KB4475551](https://support.microsoft.com/help/4475551))<br/>
+Microsoft Office 2016 更新 ([KB4464535](https://support.microsoft.com/help/4464535))<br/>
+Microsoft Office 2016 語言介面套件更新 ([KB4475541](https://support.microsoft.com/help/4475541))<br/>
+Microsoft OneNote 2016 更新 ([KB4092450](https://support.microsoft.com/help/4092450))<br/>
+Microsoft PowerPoint 2016 更新 ([KB4464577](https://support.microsoft.com/help/4464577))<br/>
+Microsoft Project 2016 更新 ([KB4475544](https://support.microsoft.com/help/4475544))<br/>
+商務用 Skype 2016 更新 ([KB4475548](https://support.microsoft.com/help/4475548))<br/>
+
+**Office 2013**<br/>
+Microsoft Office 2013 更新 ([KB4475556](https://support.microsoft.com/help/4475556))<br/>
+商務用 Skype 2015 更新 ([KB4475564](https://support.microsoft.com/help/4475564))<br/><br/>
+
+
 
 ## <a name="july-2-2019"></a>2019 年 7 月 2 日
 

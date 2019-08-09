@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168328"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231598"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -60,7 +60,7 @@ ms.locfileid: "36168328"
 - **轉換檔案，以改善協助工具功能：** 將您的檔案升級為現代格式，讓所有人更容易存取。
 
 
-- **重寫功能幫大忙：** 想要以另一種方式表達嗎？ 使用 [重寫] 以查看傳達訊息的不同建議。
+- **用其他方式表達：** 當您想要以不同方式表達時，「重寫」功能可以幫助您。 重寫提供其他不同方式來表達您的詞彙。
 
 
 - **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
