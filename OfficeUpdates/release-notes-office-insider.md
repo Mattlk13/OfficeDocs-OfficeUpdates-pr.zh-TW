@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231598"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285980"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -28,7 +28,61 @@ ms.locfileid: "36231598"
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
-[//]: # (請勿移除)
+[//]: # (DO NOT REMOVE)
+
+
+## <a name="august-09-2019br"></a>**2019 年 8 月 9 日**<br/>
+版本 1909 (組建 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Excel 功能更新：
+
+- **共同作業變得更容易：** 共同撰寫的增強功能表示，使用條件式格式設定、儲存格樣式等等時，您的變更會與共同作業者的變更順暢地合併。
+
+
+- **搜尋並享受：** 我們對插入圖示新增了搜尋，讓您易於找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。
+
+
+### <a name="office-suite-feature-updates"></a>Office 套件功能更新：
+
+- **新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗
+
+
+### <a name="outlook-feature-updates"></a>Outlook 功能更新：
+
+- **抵禦攻擊的進階防護：** 使用 Office 365 進階威脅防護，您會受到保護，不受電子郵件主旨、附加的郵件、簽署的郵件、網路路徑內超連結的攻擊。
+
+
+- **搜尋並享受：** 我們對插入圖示新增了搜尋，讓您易於找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 功能更新：
+
+- **搜尋並享受：** 我們對插入圖示新增了搜尋，讓您易於找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。
+
+
+### <a name="word-feature-updates"></a>Word 功能更新：
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+
+- **搜尋並享受：** 我們對插入圖示新增了搜尋，讓您易於找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。
+
+
+
+
+## <a name="non-security-updates"></a>非安全性更新：
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正會導致會議收件者在取消會議後收到兩次通知的問題</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我們已修正當使用者對圖形與圖示選取 [無外框] 或 [無填滿] 時會導致損毀的問題</span></div>
+
+
+
 
 
 ## <a name="august-02-2019br"></a>**2019 年 8 月 2 日**<br/>
@@ -166,11 +220,8 @@ ms.locfileid: "36231598"
 
 #### <a name="learn-what-acronyms-mean-when-you-read-in-word-online"></a>了解在 Word Online 中閱讀時，縮略字代表的意義
 
-當您遇到縮略字時，我們會嘗試使用貴組織的資料來定義縮略字。
+當您遇到縮略字時，我們會嘗試使用組織的資料來定義縮略字。
 
-#### <a name="coauthoring-improvements"></a>共同撰寫的增強功能
-
-改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
@@ -293,6 +344,12 @@ ms.locfileid: "36231598"
 
 ## <a name="whats-new"></a>新功能：
 
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數
+
+- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint 和 Visio
 
 #### <a name="recommended-documents"></a>建譯的文件
@@ -771,6 +828,18 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 ## <a name="april-26-2019"></a>2019 年 4 月 26 日
 版本 1905 (組建 11617.20002)
 
+## <a name="new-features"></a>新功能
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>共同撰寫的增強功能
+
+改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
+
+### <a name="visio"></a>Visio
+
+- **從 Power BI 匯出 Visio 視覺效果：** 當匯出 Power BI 報表為 PDF 或 PowerPoint 等更多檔案時，Power BI Visio 視覺效果會正常顯示。
+
 ## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 
 ## <a name="march-22-2019"></a>2019 年 3 月 22 日
 版本 1904 (組建 11514.20004)
+
+## <a name="new-features"></a>新功能
+
+- **隱私權控制：** 用於診斷資料和連線體驗的新增、更新及改良的控制項。 深入了解 <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office 圖示有新的外觀：** Office 圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
