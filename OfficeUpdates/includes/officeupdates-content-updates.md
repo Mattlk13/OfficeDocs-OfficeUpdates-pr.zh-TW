@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>2019 年 7 月 01 日當週
-
-
-| 發佈時間 |主題標題 | 變更 |
-|------|------------|--------|
-| 7/2/2019 | [使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新](/OfficeUpdates/office-msi-non-security-updates) | 修改時間 |
-| 7/5/2019 | [Office 測試人員的版本資訊](/OfficeUpdates/release-notes-office-insider) | 修改時間 |
-
-
 ## <a name="week-of-july-08-2019"></a>2019 年 7 月 08 日當週
 
 
@@ -90,3 +81,17 @@
 | 8/1/2019 | [2019 年半年通道版本的版本資訊](/OfficeUpdates/semi-annual-channel-2019) | 修改時間 |
 | 8/1/2019 | [2019 年半年通道 (已設定目標) 版本的版本資訊](/OfficeUpdates/semi-annual-channel-targeted-2019) | 修改時間 |
 | 8/2/2019 | [Office 測試人員的版本資訊](/OfficeUpdates/release-notes-office-insider) | 修改時間 |
+
+
+## <a name="week-of-august-05-2019"></a>2019 年 8 月 05 日當週
+
+
+| 發佈時間 |主題標題 | 變更 |
+|------|------------|--------|
+| 8/5/2019 | [2019 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2019) | 修改時間 |
+| 8/6/2019 | [Office 測試人員通道的更新歷程記錄](/OfficeUpdates/update-history-office-insider) | 修改時間 |
+| 8/6/2019 | [Office 365 專業增強版更新的下載大小](/OfficeUpdates/download-sizes-office365-proplus-updates) | 修改時間 |
+| 8/6/2019 | [2019 年每月通道版本的版本資訊](/OfficeUpdates/monthly-channel-2019) | 修改時間 |
+| 8/6/2019 | [使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新](/OfficeUpdates/office-msi-non-security-updates) | 修改時間 |
+| 8/7/2019 | [Office 測試人員的版本資訊](/OfficeUpdates/release-notes-office-insider) | 修改時間 |
+| 8/9/2019 | [Office 測試人員的版本資訊](/OfficeUpdates/release-notes-office-insider) | 修改時間 |
