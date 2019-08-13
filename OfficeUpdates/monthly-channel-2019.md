@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222961"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302472"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -58,6 +58,8 @@ ms.locfileid: "36222961"
 
 - **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
   [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -311,6 +313,7 @@ ms.locfileid: "36222961"
 
 - **Excel 的深入解析：** 深入分析可為廣泛的使用者帶來價值。 深入分析為資料分析提供較柔和的方法，並為其他人提供您的資料的不同觀點。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **提高內容的方便使用性：** 想要讓您的試算表更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能，我們會在狀態列上告訴您需要留意的部分。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
@@ -320,6 +323,10 @@ ms.locfileid: "36222961"
 - **提高內容的方便使用性：** 想要讓您的簡報更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
 
 - **當您可以重複使用時為什麼要重新打造？**  重複使用您所建立的投影片或其他人與您共用的投影片來以節省時間。
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+
+- 修正 Excel 中合併衝突的問題，此問題會造成提示使用者重新開啟活頁簿以取得變更。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 

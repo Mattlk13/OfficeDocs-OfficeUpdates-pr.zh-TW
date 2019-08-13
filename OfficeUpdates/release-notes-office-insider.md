@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285980"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302482"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -295,6 +295,10 @@ ms.locfileid: "36285980"
 #### <a name="sketchy-shapes"></a>素描形狀！
 
 仍在編寫簡報的草稿嗎？ 套用素描樣式來顯示您仍在處理文件。 此功能可在不將物件轉換成自由格式、手繪形狀的情況下，為您的物件賦與個人風格。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
