@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/31/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 6f9c5e78135b3311077445c6de6fb593b5796875
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936344"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396587"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -31,6 +31,25 @@ ms.locfileid: "35936344"
 
 若要檢視版本資訊，請參閱[版本資訊](release-notes-office-for-mac.md)。<br/><br/>
 
+## <a name="august-2019-release"></a>2019 年 8 月發行
+
+**發行日期：** 2019 年 8 月 13 日
+
+*Microsoft AutoUpdate 4.14*
+
+ **功能更新：**
+
+- 修正用於改善語音翻譯的各種問題，更新效能和 UI。
+- 新增用於疑難排解的遙測和修正程式。
+
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.14 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.14.19081202_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
 ## <a name="july-2019-release"></a>2019 年 7 月發行
 
 **發行日期：** 2019 年 7 月 18 日
