@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
+ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393208"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36404477"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -294,6 +294,8 @@ ms.locfileid: "36393208"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+
+- 修正以 SYSTEM 身分執行 Proxy 驗證時會封鎖 Office 更新的問題。
 
 ## <a name="version-1903-april-23"></a>版本 1903：4 月 23 日
 版本 1903 (組建 11425.20244)**
