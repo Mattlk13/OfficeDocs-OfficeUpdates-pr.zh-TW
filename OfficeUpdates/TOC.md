@@ -30,6 +30,8 @@
 ### [更新歷程記錄的每月通道 (已設定目標)](update-history-monthly-channel-targeted.md)
 ###[版本資訊的測試人員通道](release-notes-office-insider.md)
 
+## [ODT 版本歷程記錄](ODT-release-history.md)
+
 # Mac 版 Office
 ## [更新歷程記錄 (Office 365, 2019)](update-history-office-for-mac.md)
 ## [版本資訊 (Office 365, 2019)](release-notes-office-for-mac.md)
