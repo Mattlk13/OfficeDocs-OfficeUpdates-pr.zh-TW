@@ -9,23 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: a4ebd3ab963cc4f4b31a2b957347c957ccff5f51
-ms.sourcegitcommit: 65ea2540b23e2c9fe58f14d25ef1e393936df8e2
+ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
+ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36404477"
+ms.lasthandoff: 08/20/2019
+ms.locfileid: "36473443"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
-這些版本資訊可提供 2019 年 Office 365 專業增強版的每月通道更新所含新功能和非安全性更新的相關資訊，包含 Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版。
+這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月通道更新所含新功能和非安全性更新的相關資訊。
  
  > [!NOTE]
-> - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
-> - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 
+  [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
- > [!NOTE]
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907 (組建 11901.20218)*
