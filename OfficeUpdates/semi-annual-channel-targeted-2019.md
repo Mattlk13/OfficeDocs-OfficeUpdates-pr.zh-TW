@@ -3,30 +3,49 @@ title: 2019 年半年通道 (已設定目標) 版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: c310abe1ae582684e7e59ffbd3b15939fbcc2039
-ms.sourcegitcommit: 03e9e308f4791aeebda4ad284591e8ddb973f56c
+ms.openlocfilehash: ff0d92073df62c8b12b9c78559a6189e7901e471
+ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054805"
+ms.lasthandoff: 08/21/2019
+ms.locfileid: "36488514"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
-這些版本資訊可提供 2019 年 Office 365 專業增強版的半年 (已設定目標) 通道更新所含新功能和非安全性更新的相關資訊，包含 Visio Pro for Office 365 和 Project Online 電腦版用戶端。
+這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道 (已設定目標) 更新所含新功能和非安全性更新的相關資訊。
  
 > [!NOTE]
-> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
+> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 
+  [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
-> [!NOTE]
-> - 每個 Office 365 專業增強版更新通道的安全性更新資訊將於[安全性更新](office365-proplus-security-updates.md)中個別列出。
+## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
+*版本 1902 (組建 11328.20392)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+### <a name="excel-non-security-updates"></a>Excel：非安全性更新
+- 修正清除篩選圖示同時對表格中已篩選和未篩選交叉分析篩選器顯示的問題。
+
+### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
+- 修正使用者將信箱從基本驗證升級為新式驗證後，造成關聯的帳戶錯誤的問題
+
+### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
+- 修正與其他使用者就文件共同作業時，應用程式可能會意外終止的問題。
+
+### <a name="word-non-security-updates"></a>Word：非安全性更新
+- 修正 VBA 更新欄位很緩慢的問題。
+- 修正開啟部分 DOC 檔案時，出現提示說明檔案已損毀的問題。
+- 修正與其他使用者就文件共同作業時，應用程式可能會意外終止的問題。
+
+### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
+- 修正設定 API 在某些案例下無法在 Office JavaScript 程式庫運作的問題 [深入了解](https://support.microsoft.com/zh-TW/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902 (組建 11328.20368)*
@@ -164,7 +183,7 @@ ms.locfileid: "36054805"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 
 - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 
-  [深入了解]("https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
+  [深入了解](https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
 - 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
