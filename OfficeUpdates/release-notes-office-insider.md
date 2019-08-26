@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393218"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620522"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,7 +27,123 @@ ms.locfileid: "36393218"
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
-[//]: # (DO NOT REMOVE)
+[//]: # (請勿移除)
+
+
+## <a name="august-23-2019br"></a>**2019 年 8 月 23 日**<br/>
+版本 1909 (組建 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>非安全性更新：
+
+### <a name="excel"></a>Excel
+
+- <div><span>我們已大幅改善刪除合併儲存格的資料行的效能</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我們已修正在瀏覽器中檢視時，部分的 Unicode 字元可能會無法顯示的問題</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正可能會無法儲存檔案到 WebDAV 的位置的問題</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我們已修正當使用者點擊一個註解，但可能是另一個註解被選取的問題</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**2019 年 8 月 16 日**<br/>
+版本 1909 (組建 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint 功能更新：
+
+- **列印講義上的投影片編號：** 投影片編號會自動包含在講義上。 由您決定將其保留或關閉。
+
+
+
+
+## <a name="non-security-updates"></a>非安全性更新：
+
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正可能會導致 AutoSave 自動開啟的問題</span></div>
+
+
+- <div>我們已修正可能會導致不正確計算儲存格高度的問題</div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我們已修正了一個問題，將能大幅改善註解功能的效能</span></div>
+
+
+- <div><span>我們已修正搜尋時使用方向鍵可能會造成當機的問題</span></div>
+
+
+- <div><span>我們已修正如果將 @ 符號放在特定字元後，可能會無法使用 @ 提及的問題</span></div>
+
+
+- <div><span>我們已修正在刪除 @ 提及時，可能會導致當機的問題</span></div>
+
+
+- <div><span>我們已修正無法在註解卡正確顯示 Emoji 的問題</span></div>
+
+
+- <div><span>我們已修正使用中​的​剪貼簿​​有時可能會導致當機的問題</span></div>
+
+
+- <div><span>我們已修正可能會導致快速存取工具列按鈕停止運作的問題</span></div>
+
+
+- <div><span>我們已修正無法讓文件格式設定預覽切換到背景的問題</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正當 Office 佈景主題設為黑色，區段下拉式清單中的區段名稱顯示為空白的問題。
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正在傳送​​事件時可能會導致 Outlook 重複獲取和失去焦點的問題</span></div>
+
+
+- <div><span>我們已修正無法從工作資料夾的捷徑張貼回覆的問題</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我們已修正受保護的檢視有時候可能會在合作時造成問題的問題</span></div>
+
+
+- <div><span>我們已修正可能無法正確顯示註解窗格中工作的問題</span></div>
+
+
+- <div><span>我們已修正插入新投影片時可能會造成當機的問題</span></div>
+
+
+### <a name="user-lifecycle"></a>使用者生命週期
+
+- <div><span>我們已修正有時候可能會導致訂閱功能消失的問題</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我們已修正如果超連結包含特定字元，則超連結可能會中斷的問題</span></div>
+
+
+- <div><span>我們已修正在檢視影像註解時，影像可能會調整至不正確大小的問題</span></div>
+
+
+- <div><span>我們已修正項目符號清單下拉式功能表有時可能會導致當機的問題</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**2019 年 8 月 9 日**<br/>
