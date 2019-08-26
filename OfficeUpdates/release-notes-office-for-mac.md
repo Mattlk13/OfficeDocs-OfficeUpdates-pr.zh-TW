@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396597"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567203"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -30,8 +30,7 @@ ms.locfileid: "36396597"
 > - 如果您是 Office 測試人員，請參閱[測試人員快速組建的版本資訊](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
 > - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Office 365 訂閱時才可供使用。
 > - 16.16 版及較舊版本的版本資訊也適用於 Mac 版 Office 2016，後者也是 Mac 版 Office 的一個版本，可買斷取得。您可以使用 Mac 版 Office 2016 大量授權啟動 16.16 版以下 (包含16.16) 的舊版本。16.17 版或更新版本則無法透過 Mac 版 Office 2016 大量授權啟動。如需 9 月以後的 Mac 版 Office 2016 相關資訊，請參閱 [Mac 版 Office 2016 的版本資訊](release-notes-office-2016-mac.md)。
-> 
-> 
+> > 
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ ms.locfileid: "36396597"
 
 ## <a name="august-13-2019-release"></a>2019 年 8 月 13 日發行
 *版本 16.28 (組建 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -52,18 +50,11 @@ ms.locfileid: "36396597"
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201)：Microsoft Word 遠端程式碼執行弱點
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205)：Microsoft Word 遠端程式碼執行弱點
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
 - **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **專注在待辦事項上：** 選取 [解決] 來摺疊註解，使得開啟中的項目能夠突顯。
 - **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
@@ -71,12 +62,12 @@ ms.locfileid: "36396597"
 - **投影片放映期間持續的筆跡：** 簡報期間在投影片上繪製時，手寫筆可持續使用。 系統也會儲存註解。 [深入了解](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
 - **分享您雲端檔案中的附件：** 輕鬆地將雲端檔案附加至電子郵件訊息，以提升共同作業效率。 [深入了解](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+- **隱私權控制：** 用於診斷資料的連線體驗的新增、更新及改良的控制項。 [深入了解](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 
