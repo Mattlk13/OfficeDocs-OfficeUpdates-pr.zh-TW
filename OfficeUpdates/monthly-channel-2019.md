@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: d1303df71491b1ed244f70fcd4d135d308815d69
-ms.sourcegitcommit: a7326cf3aad7eb2a0f336d7558b4701a3a6037ca
+ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
+ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2019
-ms.locfileid: "36473443"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631231"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -25,6 +25,48 @@ ms.locfileid: "36473443"
   [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
+
+## <a name="version-1908-august-26"></a>版本 1908：8 月 26 日
+*版本 1908 (組建 11929.20254)*
+* 各種錯誤和效能修正。
+
+### <a name="excel-feature-updates"></a>Excel：功能更新
+
+- **勾勒草圖：** 為活頁簿中的 Office 圖形提供隨意的手繪外觀。 
+  [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
+  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+- **專注在待辦事項上：** 選取 [解決] 來摺疊註解，使得開啟中的項目能夠突顯。
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+
+- **Office 圖示有新的外觀：** Office 圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- **取得位置建議：** 排程約會和會議時，請在 [位置] 中開始輸入，Outlook 會建議會議室、地址，以及其他最近使用的位置。 
+  [深入了解](https://support.office.com/zh-TW/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
+  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 
+  [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
+  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **勾勒草圖：** 為文件中的 Office 圖形提供隨意的手繪外觀。 
+  [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
+  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907 (組建 11901.20218)*
