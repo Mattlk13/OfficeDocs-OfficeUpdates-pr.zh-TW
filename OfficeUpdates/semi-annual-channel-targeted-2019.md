@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: ff0d92073df62c8b12b9c78559a6189e7901e471
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: 864b96c4bee92987e4595803804813f1571ebbd6
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488514"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672893"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -182,8 +182,7 @@ ms.locfileid: "36488514"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 
-- 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 
-  [深入了解](https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
+- 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 [深入了解](https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
 - 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
@@ -222,8 +221,7 @@ ms.locfileid: "36488514"
 - **循環範圍的新預設值：** 在 [週期設定] 對話方塊中，循環範圍之前的預設值為 [沒有結束日期]。雖然這有助於建立長時間執行的週期性系列，但在一段時間之後可能會發生損壞。我們正將 [週期設定] 對話方塊的預設值更新為 [結束於]，這樣我們的預設值就會符合行事曆操作的建議最佳做法。
 - **從 Outlook 提醒對話方塊加入小組會議：** 當 Outlook 提醒使用者有即將來臨的會議時，如果即將來臨的會議是小組線上會議，則它會顯示 [線上加入] 按鈕。這個動作與從 Outlook [提醒] 對話方塊加入商務用 Skype 會議的體驗類似。
 - **停止看到過去事件的提醒：** 您可以設定行事曆，以在事件結束之後自動關閉事件的提醒。 [深入了解](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **查看安全連結背後的 URL：** 安全連結可保護您防範在電子郵件中收到但隱藏原始 URL 的惡意 URL。 若要查看原始 URL，請將滑鼠游標移到 URL 上。 需要進階威脅防護授權。 
-  [深入了解](https://products.office.com/zh-TW/exchange/advance-threat-protection)
+- **查看安全連結背後的 URL：** 安全連結可保護您防範在電子郵件中收到但隱藏原始 URL 的惡意 URL。 若要查看原始 URL，請將滑鼠游標移到 URL 上。 需要進階威脅防護授權。 [深入了解](https://products.office.com/zh-TW/exchange/advance-threat-protection)
 - **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。 [深入了解](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **郵件加密：僅加密 IRM 原則：**[選項] > [權限] 功能表上的全新僅加密選項，供 Office 365 郵件加密使用者使用。 這個選項可讓您加密郵件，並將郵件傳送給組織內外的任何人。
 - **當您被列於密件副本時，顯示提醒：** 當您不小心回覆所有人，而將自己列於密件副本時，密件副本資訊提示會顯示提醒。
@@ -242,7 +240,7 @@ ms.locfileid: "36488514"
 - **您素描，我修飾：** 我們可將手繪文字和形狀變為更精緻的圖表。只需選取您的筆跡線條即可開始。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **顯示圖片後面的內容：** 將圖片放在工作表中、挑選您的預設，並觀看透明度變更。就這麼簡單！[深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **運用筆跡製作精彩的投影片：** 將筆跡轉換成標準圖形和文字，然後從 PowerPoint 設計工具吸取智慧的投影片設計概念。 [深入了解](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
-- **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **匯出為 4K 影片：** 您現在可以在將簡報匯出為影片時選取 4K 解析度。  [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -274,8 +272,7 @@ ms.locfileid: "36488514"
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
 - **Office 第三方應用程式現在已使用 office.js api 擁有插入 SVG 支援的功能：** 亦稱為 Office 增益集的第三方應用程式現在擁有插入 SVG 的功能。使用者現在可以將個人的 SVG 集合連線至 Office。開發人員現在可以使用 Office.js API 來使用這項功能。
-- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。 
-  [深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。 [深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 
