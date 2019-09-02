@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620522"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693880"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -27,8 +27,103 @@ ms.locfileid: "36620522"
  > [!NOTE]
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
-[//]: # (請勿移除)
+[//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1909-august-30"></a>版本 1909：8 月 30 日
+*版本 1909 (組建 12026.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。 [深入了解](https://support.office.com/zh-TW/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">敏感度</span>的 keytip &nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">與其他 keytip 相衝突的問題。</span></span></div>
+
+- <div><span>我們已修正在嘗試儲存的同時使用共用活頁簿時所發生的問題。</span></div>
+
+- <div><span>我們已修正 Excel 只列出位於「\Excel\Add-in Manager」登錄值中前 16 個增益集的問題。<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>我們已修正 Frequency 函數會傳回不正確結果的問題。</span></div>
+
+
+- <div><span>我們已大幅提升透過色彩篩選的效能。</span></div>
+
+
+- <div><span>我們已修正 Surface 使用者移動滑鼠可能解譯為按一下滑鼠事件的問題。</span></div>
+
+
+- <div><span>我們已修正在 [尋找/取代] 對話方塊中鍵盤無法瀏覽的問題</span></div>
+
+
+- <div><span>我們已修正某些字型名稱無法正確顯示的問題</span></div>
+
+
+- <div><span>我們已修正 CSV 無法顯示為支援的檔案類型的問題</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>我們已修正當使用共用資料庫時，使用者可能收到&quot;不一致的狀態&quot;錯誤訊息的問題。</div>
+
+
+- <div><span>我們已修正可能導致日期選擇器在不該出現時出現的問題</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正部分 POP3 使用者無法顯示 HTML 內容的問題</span></div>
+
+
+- <div><span>我們已修正在無法使用的環境中工作時，從連絡人卡片的溢位功能表移除非功能性「Planner」連結的問題。</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>我們已修正 &nbsp;OneNote 背景同步處理有時候會竊取焦點的問題。</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我們已修正會影響 3D 盤旋的旋轉方向的問題。</span></div>
+
+- <div><span>我們已修正如果超連結包含特殊字元便無法運作的問題。</span></div>
+
+- <div><span>我們已修正會造成的同時開啟多個註解窗格的問題。</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>我們已修正在列印團隊規劃檢視之後可能會導致當機的問題。</span></div>
+
+### <a name="word"></a>Word
+
+- <div>我們已<span>修正直排文字方塊中多位元組字元在閱讀檢視中顯示重疊的問題。<br></span></div>
+
+- <div><span>我們&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">已修正當使用者在增益集中採取動作時，找不到日文明信片和賀卡相關增益集資源的問題。</span></span></div>
+
+- <div><span>我們已修正在受保護的檢視中的標題列使用者介面會造成問題的問題</span></div>
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> 我們已修正當您在含有一般圖形和連接器圖形的選擇上變更圖形時的損毀檔案問題。</span></span></div>
+
+- <div><span>我們已修正<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">從多個外部顯示器使用固定/解除固定時會造成問題的問題。</span></span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="august-23-2019br"></a>**2019 年 8 月 23 日**<br/>
 版本 1909 (組建 12015.20004)<br/>
@@ -413,8 +508,7 @@ ms.locfileid: "36620522"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 
-  [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
@@ -1038,6 +1132,14 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 
 ## <a name="april-12-2019"></a>2019 年 4 月 12 日
 版本 1905 (組建 11601.20042)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>充分發揮 Microsoft Graph
+
+使用智慧型技術匯入或連結到智慧型資料，並重新打造您的桌面資料庫。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
