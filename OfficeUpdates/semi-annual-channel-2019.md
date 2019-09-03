@@ -21,8 +21,7 @@ ms.locfileid: "36672903"
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道更新所含新功能和非安全性更新的相關資訊。
 
 > [!NOTE]
-> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 
-  [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
 
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
@@ -225,8 +224,7 @@ ms.locfileid: "36672903"
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
  - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。
  - 已修正與間歇性的空白登入提示相關的問題。
- - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 
-  [深入了解]("https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
+ - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 [深入了解]("https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
 - 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
@@ -526,8 +524,7 @@ ms.locfileid: "36672903"
 
 ### <a name="office-suite-security-update"></a>Office 套件：安全性更新
 
-- 
-  **基於安全原因已封鎖 Flash、Silverlight、Shockwave 控制在 Office 中啟動：** 基於安全原因，Windows 上新組建的 Microsoft Office for Office 365 會封鎖 Flash、Silverlight、Shockwave 控制的啟動。請看[這裡](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[這裡](https://support.office.com/zh-TW/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)深入了解。
+- **基於安全原因已封鎖 Flash、Silverlight、Shockwave 控制在 Office 中啟動：** 基於安全原因，Windows 上新組建的 Microsoft Office for Office 365 會封鎖 Flash、Silverlight、Shockwave 控制的啟動。請看[這裡](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[這裡](https://support.office.com/zh-TW/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)深入了解。
  
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 - 已修正導致更新安裝在特定情況下需要很長時間的問題。

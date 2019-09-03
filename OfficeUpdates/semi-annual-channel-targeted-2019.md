@@ -21,8 +21,7 @@ ms.locfileid: "36672893"
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道 (已設定目標) 更新所含新功能和非安全性更新的相關資訊。
  
 > [!NOTE]
-> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 
-  [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日

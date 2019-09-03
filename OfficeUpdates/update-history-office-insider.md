@@ -138,8 +138,7 @@ ms.locfileid: "36631245"
 **Twitter 上的 Office 測試人員**<br/> 我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。<br/> 
 [在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 

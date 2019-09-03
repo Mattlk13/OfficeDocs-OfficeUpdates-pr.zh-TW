@@ -21,8 +21,7 @@ ms.locfileid: "36631231"
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月通道更新所含新功能和非安全性更新的相關資訊。
  
  > [!NOTE]
->- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 
-  [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
 
@@ -32,11 +31,9 @@ ms.locfileid: "36631231"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **勾勒草圖：** 為活頁簿中的 Office 圖形提供隨意的手繪外觀。 
-  [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **勾勒草圖：** 為活頁簿中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
-  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **專注在待辦事項上：** 選取 [解決] 來摺疊註解，使得開啟中的項目能夠突顯。
 
@@ -46,27 +43,21 @@ ms.locfileid: "36631231"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **取得位置建議：** 排程約會和會議時，請在 [位置] 中開始輸入，Outlook 會建議會議室、地址，以及其他最近使用的位置。 
-  [深入了解](https://support.office.com/zh-TW/article/1d8631be-611a-4e3d-9109-b153e4622d53)
+- **取得位置建議：** 排程約會和會議時，請在 [位置] 中開始輸入，Outlook 會建議會議室、地址，以及其他最近使用的位置。 [深入了解](https://support.office.com/zh-TW/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
-  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
-- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 
-  [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
-  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **勾勒草圖：** 為文件中的 Office 圖形提供隨意的手繪外觀。 
-  [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
+- **勾勒草圖：** 為文件中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/zh-TW/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 
-  [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/zh-TW/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907 (組建 11901.20218)*
@@ -90,42 +81,33 @@ ms.locfileid: "36631231"
 
 - **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數。
 
-- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
-  [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。 
-  [深入了解](https://support.office.com/zh-TW/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。 [深入了解](https://support.office.com/zh-TW/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 
-  [深入了解](https://support.office.com/zh-TW/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/zh-TW/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
 
-- **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 
-  [深入了解](https://support.office.com/zh-TW/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 [深入了解](https://support.office.com/zh-TW/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
-  [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 
-  [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **跟分心說再見：** Mac 中最受歡迎的功能來到 Windows。 切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 
-  [深入了解](https://support.office.com/zh-TW/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+- **跟分心說再見：** Mac 中最受歡迎的功能來到 Windows。 切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 [深入了解](https://support.office.com/zh-TW/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
 
-- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 
-  [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **精確橡皮擦：** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。 
-  [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **精確橡皮擦：** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906 (組建 11727.20244)*
@@ -161,28 +143,23 @@ ms.locfileid: "36631231"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **觀看工作表生動地呈現：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在工作表內橫衝直撞。 
-  [深入了解](https://support.office.com/zh-TW/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **觀看工作表生動地呈現：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在工作表內橫衝直撞。 [深入了解](https://support.office.com/zh-TW/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **簡化且也能自訂的功能區：** 輕鬆使用簡化、以單一列方式陳列的常用按鈕。 輕鬆在傳統與 [簡化] 檢視之間切換，以及釘選/取消釘選命令。 
-  [深入了解](https://support.office.com/zh-TW/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+- **簡化且也能自訂的功能區：** 輕鬆使用簡化、以單一列方式陳列的常用按鈕。 輕鬆在傳統與 [簡化] 檢視之間切換，以及釘選/取消釘選命令。 [深入了解](https://support.office.com/zh-TW/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
 - **挑選您的最愛動作：** 不使用 [標幟] 和 [刪除] 嗎？ 那麼 [封存] 或 [標示為已讀取] 呢？ 在您最常使用的命令，自訂快速動作功能表。
 
 - **已改善擁有多個資料夾的信箱共用資料夾同步處理：** Outlook 多年來在同步處理共用信箱時，將其資料夾的數量限制最多為 500 個。 這項變更改善了 Outlook，同步處理時將不會再發生 500 個資料夾的數量限制。
 
-- **焦點收件匣設定在不同裝置之間會保持相同：** 您的焦點收件匣喜好設定現在會儲存在雲端。 這麼一來，當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時便可享有相同的體驗。 
-  [深入了解](https://support.office.com/zh-TW/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+- **焦點收件匣設定在不同裝置之間會保持相同：** 您的焦點收件匣喜好設定現在會儲存在雲端。 這麼一來，當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時便可享有相同的體驗。 [深入了解](https://support.office.com/zh-TW/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **想要寬鬆或緊密的版面配置？您可自由選擇：** 若您想讓郵件之間能有更多空間，可以採用「緊密間距」；或者，您也可以採用緊密的版面配置，以便查看更多郵件。
 
-- **我們已為您更新 Outlook 使用者體驗：** 先前利用「即將推出」提供預覽的簡化體驗，專門設計來幫助您專注於最重要的事物上。 
-  [深入了解](https://support.office.com/zh-TW/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **我們已為您更新 Outlook 使用者體驗：** 先前利用「即將推出」提供預覽的簡化體驗，專門設計來幫助您專注於最重要的事物上。 [深入了解](https://support.office.com/zh-TW/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **讓我繪製：** 使用筆跡在圖片上徒手畫或新增繪圖畫布來傳達您的想法。 
-  [深入了解](https://support.office.com/zh-TW/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **讓我繪製：** 使用筆跡在圖片上徒手畫或新增繪圖畫布來傳達您的想法。 [深入了解](https://support.office.com/zh-TW/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -291,7 +268,7 @@ ms.locfileid: "36631231"
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904 (組建 11601.20204)*
 
- - 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/OfficeUpdates/office365-proplus-security-updates)
+ - 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
 *版本 1904 (組建 11601.20178)*
@@ -356,7 +333,7 @@ ms.locfileid: "36631231"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903 (組建 11425.20204)* 
 
-- 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/OfficeUpdates/office365-proplus-security-updates)
+- 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 - 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
@@ -421,8 +398,7 @@ ms.locfileid: "36631231"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- 
-  **在連續會議之間置入時間：** 將會議預設為提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[深入了解](https://support.office.com/zh-TW/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+- **在連續會議之間置入時間：** 將會議預設為提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。[深入了解](https://support.office.com/zh-TW/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **使用「大聲朗讀」聆聽您的電子郵件：** Outlook 可以大聲朗讀您的電子郵件，強調所朗讀的文字。若要開啟 [大聲朗讀]，請移至 [輕鬆存取] 設定。[深入了解](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -441,8 +417,7 @@ ms.locfileid: "36631231"
  
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
-- 
-  **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/teams-install)
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 *版本 1901 (組建 11231.20174)* 

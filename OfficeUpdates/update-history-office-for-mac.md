@@ -53,8 +53,7 @@ ms.locfileid: "36396547"
 
 下表提供 IT 專業人員可能會感興趣的 Microsoft 其他 Mac 程式最新套件的相關資訊，包括下載連結。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。
 
-
-  **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/><br/>
+**附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/><br/>
 
   
 |**程式**|**版本**|**套件**|**詳細資訊**|**SHA-1/ SHA-256 雜湊**|

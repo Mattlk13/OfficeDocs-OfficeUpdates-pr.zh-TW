@@ -54,14 +54,11 @@ ms.locfileid: "35594491"
 
 [2019 年 6 月的安全性和非安全性更新：KB4505743](https://support.microsoft.com/help/4505743)
 
+[2019 年 5 月的安全性和非安全性更新：KB4501270](https://support.microsoft.com/zh-TW/help/4501270)
 
-  [2019 年 5 月的安全性和非安全性更新：KB4501270](https://support.microsoft.com/zh-TW/help/4501270)
+[2019 年 4 月的安全性和非安全性更新：KB4495300](https://support.microsoft.com/zh-TW/help/4495300)
 
-
-  [2019 年 4 月的安全性和非安全性更新：KB4495300](https://support.microsoft.com/zh-TW/help/4495300)
-
-
-  [2019 年 3 月的安全性和非安全性更新：KB4491754](https://support.microsoft.com/zh-TW/help/4491754) 
+[2019 年 3 月的安全性和非安全性更新：KB4491754](https://support.microsoft.com/zh-TW/help/4491754) 
 
 [2019 年 2 月的安全性和非安全性更新：KB4488446](https://support.microsoft.com/help/4488446)
 
