@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567203"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758207"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -114,7 +114,8 @@ ms.locfileid: "36567203"
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **使用 \@提及：** 功能取得他人注意：在註解中使用 @提及功能，讓其他人知道您需要他們提供建議。
+- 使用 \@提及功能**取得他人注意：** 在註解中使用 @提及功能，讓其他人知道您需要他們提供建議。
+- **共同撰寫的增強功能**：在文件中共同撰寫來強化 Word 效能。
 
 ### <a name="word-security-updates"></a>Word：安全性更新
 
