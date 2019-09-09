@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693880"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785410"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,60 @@ ms.locfileid: "36693880"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1910-september-06"></a>版本 1910：9 月 6 日
+*版本 1910 (組建 12030.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正可能會導致功能區中的字型名稱與正在使用的字型不同的問題</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正當 Internet Explorer 中的受限制網站停用受保護模式時，可能會導致 Outlook 不適當的資源消耗的問題。</span></div>
+
+
+- <div><span>我們已修正當貼上 ANSI 原始碼的文字時, 有時可能會導致顯示 Unicode 字元的問題</span></div>
+
+
+- <div><span>我們已修正有些使用者在群組排程檢視中會不正確地顯示為離線的問題</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我們已修正表格格式設定可能遺失的問題</span></div>
+
+
+- <div><span>我們已修正導致 Ctrl+V 鍵盤快速鍵中斷的問題</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1909-august-30"></a>版本 1909：8 月 30 日
 *版本 1909 (組建 12026.20000)*
