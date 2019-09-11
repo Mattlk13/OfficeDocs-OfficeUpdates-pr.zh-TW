@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 最新更新的相關資訊，包括套件下載連結與更新歷程記錄
-ms.openlocfilehash: d9c5cc51009a1fb0002581aa63640e2161df4e95
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: cefa2cad86a7d15b25e5e6aedc9dcb00284e060a
+ms.sourcegitcommit: bff4f60861d00fc918535960251ad062848d9b3b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396547"
+ms.lasthandoff: 09/09/2019
+ms.locfileid: "36819001"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新歷程記錄
   
@@ -58,10 +58,10 @@ ms.locfileid: "36396547"
   
 |**程式**|**版本**|**套件**|**詳細資訊**|**SHA-1/ SHA-256 雜湊**|
 |:-----|:-----|:-----|:-----|:-----|
-|商務用 Skype  <br/> |16.24.0.191 <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版本已於 2019 年 1 月 31 日發行。 <br/><br/>[最新的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  B35E2BE81C90D9E0ABFE1EC3A9384A3DE826C35D9F1304C111C56D5B44BB2A72 <br/> |
-|遠端桌面 | 10.2.9  | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | 此安裝套件為 64 位元。 <br/> <br/>[新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   ffed37daf89803c40f59e61a539d4e0a347ac2dee7070a523b44cf69bb9221cd <br/> |
-|Intune 公司入口網站 |1.5 (52.1805002.000) [180509] | [下載](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 的新功能](https://docs.microsoft.com/intune/whats-new) | 6aa67dc0accea7a3745e29133d2591568ff9f1cb <br/> |
-|適用於 Mac 版 Office 2016 的 Microsoft SharePoint 內部部署 Safari 瀏覽器外掛程式  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安裝套件為 64 位元。  <br/>| 45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/>  |
+|商務用 Skype  <br/> |16.27.37 <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> |最新版本已於 2019 年 6 月 23 日發行。 <br/><br/>[最新的更新](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |  ac33fbfa83e304e1ac3ba7365e8bf307b117ec954fd48902991356ee86f2e836 <br/> |
+|遠端桌面 | 10.3.1  | [下載](https://go.microsoft.com/fwlink/?linkid=868963) | 此安裝套件為 64 位元。 <br/> <br/>[新功能](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |   a846cecda7391b4e67c37b4b30a0c49ebd3c80f4782a989c0b4f866cd6d09339 <br/> |
+|Intune 公司入口網站 |1.17 (52.1908008.000) [190823] | [下載](https://go.microsoft.com/fwlink/?linkid=869655)| [Microsoft Intune 的新功能](https://docs.microsoft.com/intune/whats-new) | fec704b5194360a48365d0193a46135358c5f129fc2b1fb02acb902cd1f96de0 <br/> |
+|適用於 Mac 版 Office 2016 的 Microsoft SharePoint 內部部署 Safari 瀏覽器外掛程式  <br/> |15.32.0 (170309)  <br/> |[下載](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |此安裝套件為 64 位元。  <br/>| f7f29202881a319fb249d15ab6125b5a1a94b303c649cbe3fafb37ecd4728ed8  <br/>  |
    
 ## <a name="release-history-for-office-for-mac"></a>Mac 版 Office 的發行歷程記錄
 
