@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
-ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
+ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36758207"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838240"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,6 +34,31 @@ ms.locfileid: "36758207"
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
+
+## <a name="september-10-2019-release"></a>2019 年 9 月 10 日發行
+*版本 16.29 (組建 19090802)*
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- 修正各種效能問題。
+### <a name="excel--feature-updates"></a>Excel：功能更新
+
+- **完整色彩的工作表索引標籤：** 當您選擇工作表的索引標籤色彩時，現在色彩會填滿整個索引標籤，讓您更容易看到。
+
+- **在 Mac 上透過本機檔案重新整理資料：** 在 Mac 上透過文字、CSV、XLSX、XML 和 JSON 檔案重新整理您的 Power Query 查詢。 
+
+ ### <a name="excel-security-updates"></a>Excel：安全性更新
+
+- [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1263)：Microsoft Excel 資訊洩漏弱點
+- [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1297)：Microsoft Excel 遠端程式碼執行弱點
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- 修正各種效能問題。
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- 修正各種效能問題。
 
 ## <a name="august-13-2019-release"></a>2019 年 8 月 13 日發行
 *版本 16.28 (組建 19081202)*

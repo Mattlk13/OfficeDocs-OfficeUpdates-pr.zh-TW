@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 88b43fa1b3639de2841c8f9d5f7cc50f88cc2f72
-ms.sourcegitcommit: bd6e681bdde320ee6d55f7d4e4434d4f0cde7a81
+ms.openlocfilehash: e42580be8f69fe8c5b39f18c007dac8b7297159b
+ms.sourcegitcommit: facaa5a5a4a470c52b1d7a0b322b4f20000c11f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36713546"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36835843"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -30,31 +30,44 @@ ms.locfileid: "36713546"
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="september-3-2019"></a>2019 年 9 月 3 日
+## <a name="september-10-2019"></a>2019 年 9 月 10 日
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 10, 2019)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1908 (組建 11929.20300)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1908 (組建 11929.20254) <br/> |2019 年 8 月 26 日 <br/> |57<br/> |
+|版本 1907 (組建 11901.20218) <br/> |2019 年 8 月 13 日 <br/> |172<br/> |
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-<i>預期的版本為版本 1902 (組建 11328.20396)</i>。
+最新的版本是版本 1902 (組建 11328.20420)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1902 (組建 11328.20392) <br/> |2019 年 8 月 13 日 <br/> |326<br/> |
-|版本 1902 (組建 11328.20368) <br/> |2019 年 7 月 9 日 <br/> |67<br/> |
+|版本 1902 (組建 11328.20392) <br/> |2019 年 8 月 13 日 <br/> |66<br/> |
+|版本 1902 (組建 11328.20368) <br/> |2019 年 7 月 9 日 <br/> |68<br/> |
 
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
-
-<i>預期的版本為版本 1908 (組建 11929.20260)</i>。
+最新的版本是版本 1908 (組建 11929.20300)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 1902 (組建 11328.20392) <br/> |2019 年 8 月 13 日 <br/> |338<br/> |
+|版本 1902 (組建 11328.20392) <br/> |2019 年 8 月 13 日 <br/> |341<br/> |
 |版本 1902 (組建 11328.20368) <br/> |2019 年 7 月 9 日 <br/> |341<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 10, 2019)
+
+## <a name="september-3-2019"></a>2019 年 9 月 3 日
+
+
+
 
 ## <a name="august-26-2019"></a>2019 年 8 月 26 日
 

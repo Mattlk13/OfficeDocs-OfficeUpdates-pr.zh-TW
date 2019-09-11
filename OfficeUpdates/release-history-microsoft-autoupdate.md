@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429937"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838183"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -31,6 +31,26 @@ ms.locfileid: "36429937"
 
 若要檢視版本資訊，請參閱[版本資訊](release-notes-office-for-mac.md)。<br/><br/>
 
+## <a name="september-2019-release"></a>2019 年 9 月發行
+
+**發行日期：** 2019 年 9 月 10 日
+
+*Microsoft AutoUpdate 4.15*
+
+ **功能更新：**
+
+- MAU 更新期限通知現在會以本機裝置的時間格式向使用者顯示截止時間。
+- MAU AU 精靈現在稱為「Microsoft Update 小幫手」。
+- 修正執行 'msupdate' 命令時，前景應用程式中失去焦點的問題。
+
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.15 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>2019 年 8 月發行
 
 **發行日期：** 2019 年 8 月 13 日
@@ -49,7 +69,7 @@ ms.locfileid: "36429937"
 <br/>
 **SHA-256 雜湊：**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>2019 年 7 月發行
 
 **發行日期：** 2019 年 7 月 18 日
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**發行日期**|**版本**|**詳細資訊**||
 |:-----|:-----|:-----|:-----|
+|2019 年 9 月 10 日 <br/>|4.15 <br/> |  <br/> ||
+|2019 年 8 月 13 日 <br/>|4.14 <br/> |  <br/> ||
 |2019 年 7 月 18 日 <br/>|4.13 <br/> |  <br/> ||
 |2019 年 6 月 27 日 <br/>2019 年 6 月 9 日|4.12 <br/> | <br/> ||
 |2019 年 5 月 14 日 <br/>|4.11 <br/> |  <br/> | <br/> |

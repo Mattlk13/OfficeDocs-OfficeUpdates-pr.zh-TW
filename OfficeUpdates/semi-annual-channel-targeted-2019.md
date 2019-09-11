@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 864b96c4bee92987e4595803804813f1571ebbd6
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672893"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838284"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -24,6 +24,210 @@ ms.locfileid: "36672893"
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  
+## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
+*版本 1908 (組建 11929.20300)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **使用更大的空間來縮放：** 加大 [縮放] 方塊、變更字型、記憶縮放。 [深入了解](https://support.office.com/zh-TW/article/9a62d165-67f8-4790-bad8-a2c2e83dcedf)
+
+- **將索引標籤保留在資料庫物件上：** 能清楚看到使用中的索引標籤、輕鬆拖曳索引標籤來重新排列，只要按一下就能關閉資料庫物件。
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/zh-TW/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel"></a>Excel
+
+- **更深入地探索您的資料：** 新的 [構想] 按鈕可尋找資料的模式，並使用模式建立更有智慧且個人化的建議。[深入了解](https://support.office.com/zh-TW/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+- **增加您內容的覆蓋面：** 想要讓您的簡報更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/zh-TW/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **觀看工作表生動地呈現：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在工作表內橫衝直撞。 [深入了解](https://support.office.com/zh-TW/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+
+- **共同作業變得更容易：** 共同撰寫的增強功能代表的是使用條件式格式設定、儲存格樣式等等時，您的變更會與共同作業者的變更順暢地合併。
+
+- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。 [深入了解](https://support.office.com/zh-TW/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+- **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數。
+
+### <a name="outlook"></a>Outlook
+
+- **在移動郵件時繼續作業：** Outlook 現在會在背景中移動郵件，因此，在資料夾之間移動大量郵件時您可以繼續作業。
+
+- **在連續會議之間置入時間：** 將會議預設為提早 5-10 分鐘結束，讓出席者有時間休息，或在前往下一個地點。
+
+- **他們會看到您的 meme：** 如果使用文字或靜態影像還不足以清楚表達您的想法，您可以使用動畫 GIF。[深入了解](https://support.office.com/zh-TW/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+
+- **焦點收件匣設定在不同裝置之間會保持相同：** 您的焦點收件匣喜好設定現在會儲存在雲端。 這麼一來，當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時便可享有相同的體驗。 [深入了解](https://support.office.com/zh-TW/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **我們已為您更新 Outlook 使用者體驗：** 先前利用「即將推出」提供預覽的簡化體驗，專門設計來幫助您專注於最重要的事物上。 [深入了解](https://support.office.com/zh-TW/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+
+- **想要寬鬆或緊密的版面配置？您可自由選擇：** 若您想讓項目之間能有更多空間，可以採用「緊密間距」；或者，您也可以採用緊密的版面配置，以便查看更多項目。
+
+- **簡化且也能自訂的功能區：** 輕鬆使用簡化、以單一列方式陳列的常用按鈕。 輕鬆在傳統與 [簡化] 檢視之間切換，以及釘選/取消釘選命令。 [深入了解](https://support.office.com/zh-TW/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
+
+- **更快速新增帳戶的方式：** 由於帳戶設定已改善，您現在可以更輕鬆地將使用雙因素驗證的 Outlook.com 和 Gmail 帳戶新增到 Outlook。 [深入了解](https://support.office.com/zh-TW/article/70191667-9c52-4581-990e-e30318c2c081)
+
+- **挑選您的最愛動作：** 不使用 [標幟] 和 [刪除] 嗎？ 那麼 [封存] 或 [標示為已讀取] 呢？ 自訂快速動作功能表，加上您最常使用的命令。
+
+- **不再受限於同步處理限制：** Outlook 的增強功能指出資料夾限制已不存在，因此您可以開始將您的共用信箱同步處理。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **透過測驗或問卷詢問聽眾：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/zh-TW/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+
+- **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+- **增加您內容的覆蓋面：** 想要讓您的簡報更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
+
+- **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
+
+- **輕鬆插入內嵌影片：** 想要在您的投影片中放入 Vimeo 或 YouTube 影片嗎？只要有影片頁面連結即可。[深入了解](https://support.office.com/zh-TW/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **較佳變形效果：** 命名您的圖形以便加強掌控其轉化方式。 [深入了解](https://support.office.com/zh-TW/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/zh-TW/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 [深入了解](https://support.office.com/zh-TW/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+### <a name="project"></a>Project
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/zh-TW/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio"></a>Visio
+
+- **告別錯誤的 Excel 連結：** 找不到與 Data Visualizer 圖表連結的 Excel 活頁簿嗎？重新連結，就可繼續使用了。[深入了解](https://support.office.com/zh-TW/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+
+- **內建的 Azure 樣板：** 使用數十種 Azure 樣板來設計雲端應用程式或規劃架構。 [深入了解](https://support.office.com/zh-TW/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+- **資料流程圖上的 Double-Take：** 資料視覺化工具流程圖美觀的新版面配置，既清新、簡潔且更易於了解。 按一下 [設計] 索引標籤來取得選項。
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/zh-TW/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **將進度圖表匯出到 Word：** 在 Word 文件中自動新增圖表內容，如圖案和中繼資料。 然後，自訂文件來建立程序指導方針和操作手冊。 [深入了解](https://support.office.com/zh-TW/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+
+- **從 Power BI 匯出 Visio 視覺效果：** 當匯出 Power BI 報表為 PDF 或 PowerPoint 等檔案時，Power BI Visio 視覺效果會正常顯示。 [深入了解](https://support.office.com/zh-TW/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word"></a>Word
+
+- **編輯當然是使用筆跡編輯：** 使用畫筆透過單一筆劃來分割或加入文字、新增新的一行，或插入文字。[深入了解](https://support.office.com/zh-TW/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **為靜態文件注入動人的生命力：** 將文件轉變為在任何裝置上，均具有完美外觀的可互動、易分享的網頁。[深入了解](https://support.office.com/zh-TW/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+
+- **使用 \@提及功能取得他人注意：** 在註解中使用 @提及功能，讓其他人知道您需要他們提供建議。 [深入了解](https://support.office.com/zh-TW/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+
+- **運用行聚焦，提高理解力：** 毫不費力地逐行瀏覽文件。調整焦點，在檢視畫面中一次放入一行、三行或五行。[深入了解](https://support.office.com/zh-TW/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+
+- **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
+
+- **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
+
+- **增加您內容的覆蓋面：** 想要讓您的文件更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
+
+- **為頁面新增顏色：** 新頁面顏色表示，如果全白或全黑背景不適合您，則可以輕鬆變更。
+
+- **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/zh-TW/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **跟分心說再見：** Mac 中最受歡迎的功能來到 Windows。 切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 [深入了解](https://support.office.com/zh-TW/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+### <a name="office-suite"></a>Office 套件
+
+- **利用 [資訊位置] 中新公開的按鈕共用及上傳文件：**[共用]、[將路徑複製到剪貼簿] 及 [開啟檔案位置] 按鈕先前只能在文件儲存路徑後面存取。您現在可以在 [資訊位置] 中清楚地看到這些按鈕！瀏覽至 [檔案] > [資訊] 時通常會看到這些新按鈕。
+
+- **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
+
+- **隱私權控制：** 用於診斷資料和連線體驗的新增、更新及改良的控制項。 [深入了解](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **Office 圖示有新的外觀：** Office 圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。
+
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。 [深入了解](https://docs.microsoft.com/DeployOffice/teams-install)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- 修正在 Excel 中指派給圖形或表單控制項的巨集可能顯示不正確的錯誤訊息，或者可能會處理不正確目標範圍的問題。
+
+- 修正在與其他使用者共同撰寫的工作階段中變更樞紐分析表排序的方式，然後重新整理它可能導致失敗的問題。
+
+- 修正插入或刪除儲存格時，瀑布圖和漏斗圖無法與表格同步處理的問題。
+
+- 修正 Excel 中合併衝突的問題，此問題會造成提示使用者重新開啟活頁簿以取得變更。
+
+- 修正會導致表格旁的剪下並貼上作業在與其他人共同撰寫時失敗的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 修正使用者將信箱從基本驗證升級為新式驗證後，造成將錯誤的帳戶與其 Outlook 設定檔相關聯的問題。
+
+- 修正會導致部分 POP3 使用者看到所有電子郵件皆為純文字格式 (無論設定為何) 的問題。 此修正將會還原 HTML 格式郵件的檢視。
+
+- 修正會導致使用者無法透過螢幕助讀程式存取位置建議的問題。
+
+- 修正嘗試擷取使用者的 Outlook 雲端設定時，導致一些使用者遇到驗證錯誤的問題。
+
+- 修正會導致經理對於代理人是否已經回覆特定會議邀請含混不清的問題。
+
+- 修正會導致 Outlook 使用者在特定案例中停滯在「需要密碼」狀態的問題。
+
+- 修正會導致目前的資料夾搜尋間歇性失敗的問題。
+
+- 修正會導致使用者看到在該會議室的可用時間以外進行之會議的會議室建議的問題。
+
+- 修正使用雲端附件時，會導致使用者看到錯誤「找不到這個檔案。 請確認路徑與檔案名稱都正確」的暫時性服務問題。 [深入了解](https://support.office.com/zh-TW/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- 修正會導致使用者看到從 Outlook 上傳至 OneDrive 或 SharePoint 檔案其檔案名稱已變更，其中的數個字元由底線取代的問題。
+
+- 修正非英文使用者的郵件中，主旨列會相當小的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正某些增益集會在圖表的圖形周圍擲出未預期錯誤的問題。
+
+- 修正還原 PowerPoint 影片控制項的協助工具名稱的問題。
+
+- 修正部分動畫無法開始的問題
+
+### <a name="project"></a>Project
+
+- 修正讓 Windows 7 上的使用者能夠從 Project Web App 和 SharePoint 網站開啟專案的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 有多個圖形無法從 Visio 匯出至 SVG。
+
+### <a name="word"></a>Word
+
+- 修正在 Word 文件上與其他人共同作業時，使用者會遇到錯誤訊息的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正在某些情況下，同步處理引擎備份的 SharePoint 檔案可能會顯示「已儲存」但實際上未儲存任何變更的問題。
+
+- 修正大型樹狀檢視失敗的問題。
+
+- 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902 (組建 11328.20392)*
 

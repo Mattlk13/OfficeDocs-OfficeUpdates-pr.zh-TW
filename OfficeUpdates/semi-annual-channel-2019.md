@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: fbd9e068fe2a258020e81b06550656d781fb447f
-ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
+ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672903"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838294"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -23,6 +23,45 @@ ms.locfileid: "36672903"
 > [!NOTE]
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-september-10"></a>版本 1902：9 月 10 日
+*版本 1902 (組建 11328.20420)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="access"></a>Access
+
+- 修正會導致 Microsoft Access 中特定查詢執行速度較舊版組建中更慢的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 修正使用雲端附件時，會導致使用者看到錯誤「找不到這個檔案。 請確認路徑與檔案名稱都正確」的暫時性服務問題。 [深入了解](https://support.office.com/zh-TW/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+
+- 修正會導致使用者看到從 Outlook 上傳至 OneDrive 或 SharePoint 檔案其檔案名稱已變更，其中的數個字元由底線取代的問題。
+
+### <a name="word"></a>Word
+
+- 修正在 Word 文件上與其他人共同作業時，使用者會遇到錯誤訊息的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1808-september-10"></a>版本 1808：9 月 10 日
+*版本 1808 (組建 10730.20380)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="access"></a>Access
+
+- 修正會導致 Microsoft Access 中特定查詢執行速度較舊版組建中更慢的問題。
 
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902 (組建 11328.20392)*
