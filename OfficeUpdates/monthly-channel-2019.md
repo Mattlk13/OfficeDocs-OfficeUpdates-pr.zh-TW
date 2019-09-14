@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
+ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631231"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36973382"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -22,8 +22,39 @@ ms.locfileid: "36631231"
  
  > [!NOTE]
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需其他資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+>- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
+## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
+*版本 1908 (組建 11929.20300)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="outlook"></a>Outlook
+
+- 修正會導致使用者無法透過螢幕助讀程式存取位置建議的問題。
+
+- 修正嘗試擷取使用者的 Outlook 雲端設定時，導致一些使用者遇到驗證錯誤的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正還原 PowerPoint 影片控制項的協助工具名稱的問題。
+
+- 修正部分動畫無法開始的問題。
+
+### <a name="word"></a>Word
+
+- 修正嘗試共用儲存在 SharePoint 2016 上的檔案時，導致使用者遇到「很抱歉，發生問題，無法共用」訊息的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正大型樹狀檢視失敗的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-august-26"></a>版本 1908：8 月 26 日
 *版本 1908 (組建 11929.20254)*
@@ -96,6 +127,8 @@ ms.locfileid: "36631231"
 - **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 [深入了解](https://support.office.com/zh-TW/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **建立地圖圖表：** 此功能是針對使用 Excel 的地理資料類型繪製區域分布圖圖表使用者的增強功能。 對使用者的優點是功能之間有更豐富的整合，以及使用者要對應的區域會有更好的精確度。 其他優點包括功能能夠對應城市多邊形。 [深入了解](https://support.office.com/zh-TW/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **新增投影片標題以讓簡報更易於使用：** 協助工具檢查程式可協助您找出並修正遺失的投影片標題。
 
 - **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 

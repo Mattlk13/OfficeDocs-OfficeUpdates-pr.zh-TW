@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785410"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972854"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -91,6 +91,11 @@ ms.locfileid: "36785410"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
+
+### <a name="access"></a>Access
+
+- **快速尋找連結資料表：** 新的搜尋方塊可讓您輕鬆尋找連結資料表。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。 [深入了解](https://support.office.com/zh-TW/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,9 +565,18 @@ ms.locfileid: "36785410"
 
 仍在編寫簡報的草稿嗎？ 套用素描樣式來顯示您仍在處理文件。 此功能可在不將物件轉換成自由格式、手繪形狀的情況下，為您的物件賦與個人風格。
 
+### <a name="excel"></a>Excel
+
+- **更快速共用檔案**：不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 ### <a name="powerpoint"></a>PowerPoint
 
 - **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
+
+### <a name="word"></a>Word
+
+- **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
@@ -617,6 +631,10 @@ ms.locfileid: "36785410"
 - **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數
 
 - **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。
+
+### <a name="word"></a>Word
+
+- **共同撰寫的增強功能**：增強共同撰寫時的可靠性。
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word、Excel、PowerPoint 和 Visio
 
@@ -1036,6 +1054,12 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 ## <a name="may-10-2019"></a>2019 年 5 月 10 日
 版本 1906 (組建 11702.20000)
 
+## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+**在螢幕上容納更多郵件：** 選取 [檢視] > [使用更緊密的間距] 來調整郵件之間的間距。
+
 ## <a name="notable-fixes"></a>值得注意的修正：
 
 ### <a name="all"></a>全部
@@ -1063,6 +1087,12 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 
 ## <a name="may-3-2019"></a>2019 年 5 月 3 日
 版本 1906 (組建 11629.20008)
+
+## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+**集中所有加密選項：** 只要前往 [選項] > [加密]，即可選擇要用來保護電子郵件訊息的方法。
 
 ## <a name="notable-fixes"></a>值得注意的修正：
 
@@ -1097,6 +1127,10 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 版本 1905 (組建 11617.20002)
 
 ## <a name="new-features"></a>新功能
+
+### <a name="outlook"></a>Outlook
+
+**共用行事曆更新的速度更快：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽以更快且更可靠地更新共用行事曆。
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 版本 1905 (組建 11609.20002)
 
 ## <a name="whats-new"></a>新功能：
+
+### <a name="outlook"></a>Outlook
+
+**搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。
 
 ### <a name="excel"></a>Excel
 

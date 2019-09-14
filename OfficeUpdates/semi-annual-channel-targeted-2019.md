@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841042"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972814"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -220,6 +220,8 @@ ms.locfileid: "36841042"
 ### <a name="word"></a>Word
 
 - 修正在 Word 文件上與其他人共同作業時，使用者會遇到錯誤訊息的問題。
+
+- 修正嘗試共用儲存在 SharePoint 2016 上的檔案時，導致使用者遇到「很抱歉，發生問題，無法共用」訊息的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
