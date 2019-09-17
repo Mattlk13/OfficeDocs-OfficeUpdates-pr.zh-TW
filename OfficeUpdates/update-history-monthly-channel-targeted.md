@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 97418d7e2550bb4cd00795e37fc467a35fecb264
-ms.sourcegitcommit: 40287cc78e58338d63dc01c5361dc46417f51a5e
-ms.translationtype: HT
+ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
+ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2019
-ms.locfileid: "35919117"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998619"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -23,60 +23,75 @@ ms.locfileid: "35919117"
 
 ## <a name="office-insider-versions-and-builds"></a>Office 測試人員的版本和組建
 
-如果您已經註冊先前稱為「測試人員 - 慢」的每月通道 (已設定目標) 層級，您約略每個月會取得一項新的 Office 功能更新，加上包含有重要修正或安全性更新的後續組建。以下清單顯示最近每月通道 (已設定目標) 的版本和組建，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。若要尋找版本資訊，請參閱 [Office 測試人員的新功能](https://support.office.com/zh-TW/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+如果您已經註冊先前稱為「測試人員 - 慢」的每月通道 (已設定目標) 層級，您約略每個月會取得一項新的 Office 功能更新，加上包含有重要修正或安全性更新的後續組建。以下清單顯示最近每月通道 (已設定目標) 的版本和組建，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。若要尋找版本資訊，請參閱 [Office 測試人員的新功能](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
 > - 版本資訊更新的頻率較慢，並且可能為最高達版本資訊發行組建編號之多個組建更新的組合
 
  > [!NOTE]
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+> - Microsoft Teams 的 Office 365 專業增強版-落後六月的開頭、 Microsoft Teams 的現有安裝將包含在現有的安裝的 Office 365 專業增強版 （和 Office 365 商務版），在這些安裝的更新時。 時將會新增 microsoft Teams 的日期取決於您要使用哪一個更新通道。 請參閱[Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/en-us/deployoffice/teams-install)如需詳細資訊。
 
 [//]: # (請勿移除)
 
-**2019 年 7 月 27 日**<br/>
-版本 1907 (組建 11901.20176)<br/>
+**2019 年 9 月 16日日**<br/>
+版本 1909 （組建 12026.20190）<br/>
 
-**2019 年 7 月 25 日**<br/>
-版本 1907 (組建 11901.20156)<br/>
+**2019 年 9 月 10 日**<br/>
+版本 1909 （組建 12026.20108）<br/>
 
-**2019 年 7 月 22 日**<br/>
-版本 1907 (組建 11901.20120)<br/>
+**2019 年 8 月 25日日**<br/>
+版本 1908 （組建 11929.20254）<br/>
 
-**2019 年 7 月 15 日**<br/>
-版本 1907 (組建 11901.20080)<br/>
+**2019 年 8 月 16日日**<br/>
+版本 1908 （組建 11929.20182）<br/>
 
-**2019 年 7 月 9 日**<br/>
-版本 1906 (組建 11727.20244)<br/>
+**2019 年 8 月 13日日**<br/>
+版本 1908 （組建 11929.20114）<br/>
 
-**2019 年 6 月 27 日**<br/>
-版本 1906 (組建 11727.20230)<br/>
+**2019 年 7 月 27日日**<br/>
+版本 1907 （組建 11901.20176）<br/>
 
-**2019 年 6 月 26 日**<br/>
-版本 1906 (組建 11727.20224)<br/>
+**2019 年 7 月 25日日**<br/>
+版本 1907 （組建 11901.20156）<br/>
 
-**2019 年 6 月 23 日**<br/>
-版本 1906 (組建 11727.20210)<br/>
+**2019 年 7 月 22日日**<br/>
+版本 1907 （組建 11901.20120）<br/>
 
-**2019 年 6 月 20 日**<br/>
-版本 1906 (組建 11727.20188)<br/>
+**2019 年 7 月 15日日**<br/>
+版本 1907 （組建 11901.20080）<br/>
 
-**2019 年 6 月 11日**<br/>
-版本 1906 (組建 11727.20104)<br/>
+**2019 年 7 月 9日日**<br/>
+版本 1906 （組建 11727.20244）<br/>
 
-**2019 年 6 月 3 日**<br/>
-版本 1905 (組建 11629.20214)<br/>
+**2019 年 6 月 27日日**<br/>
+版本 1906 （組建 11727.20230）<br/>
 
-**2019 年 5 月 25 日**<br/>
-版本 1905 (組建 11629.20196)<br/>
+**2019 年 6 月 26日日**<br/>
+版本 1906 （組建 11727.20224）<br/>
 
-**2019 年 5 月 22 日**<br/> 版本 1905 (組建 11629.20164)<br/>
+**2019 年 6 月 23日日**<br/>
+版本 1906 （組建 11727.20210）<br/>
 
-**2019 年 5 月 16 日**<br/>
-版本 1905 (組建 11629.20136)<br/>
+**2019 年 6 月 20日日**<br/>
+版本 1906 （組建 11727.20188）<br/>
 
-**2019 年 5 月 14 日**<br/>
-版本 1904 (組建 11601.20204)<br/>
+**2019 年 6 月 11日日**<br/>
+版本 1906 （組建 11727.20104）<br/>
+
+**2019 年 6 月 3日日**<br/>
+版本 1905 （組建 11629.20214）<br/>
+
+**2019 5 月 25日日**<br/>
+版本 1905 （組建 11629.20196）<br/>
+
+**2019 月 22日日**<br/> 版本 1905 （組建 11629.20164）<br/>
+
+**2019 月 16日日**<br/>
+版本 1905 （組建 11629.20136）<br/>
+
+**2019 5 月 14日日**<br/>
+版本 1904 （組建 11601.20204）<br/>
 
 **2019 年 5 月 8 日**<br/>
 版本 1904 (組建 11601.20178)<br/>
@@ -144,8 +159,9 @@ ms.locfileid: "35919117"
 **Twitter 上的 Office 測試人員**<br/> 我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。<br/> 
 [在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+
+  [
+  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **搶先使用新功能**

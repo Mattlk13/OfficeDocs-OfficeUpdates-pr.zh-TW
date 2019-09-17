@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972854"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980449"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,44 @@ ms.locfileid: "36972854"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1910-september-13"></a>版本 1910：9 月 13 日
+*版本 1910 (組建 12105.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正使用者在部分受保護的工作表中無法貼上超連結的問題</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正 UI 可能停滯在精簡檢視中的問題</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>我們已修正使用者可能會在列印為 PDF 時發生錯誤的問題</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>我們已修正在摘要任務上<span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">變更工時值時，如果已啟用受保護的工作則可能會造成當機的問題</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">我們已修正可能會禁止將事件同步處理到企業行事曆功能的問題</font>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我們已修正可能會導致重複警告以捨棄本機檔案版本的問題</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-06"></a>版本 1910：9 月 6 日
 *版本 1910 (組建 12030.20004)*
