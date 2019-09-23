@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838240"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040691"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,6 +34,21 @@ ms.locfileid: "36838240"
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
+
+## <a name="september-18-2019-release"></a>2019 年 9 月 18 日發行
+*版本 16.29.1 (組建 19091700)*
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- 解決未登入 Office 時最近開啟的文件清單的問題。
+
+### <a name="excel--feature-updates"></a>Excel：功能更新
+
+- 解決未登入 Office 時最近開啟的文件清單的問題。
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- 解決未登入 Office 時最近開啟的文件清單的問題。<br/><br/>
 
 ## <a name="september-10-2019-release"></a>2019 年 9 月 10 日發行
 *版本 16.29 (組建 19090802)*
