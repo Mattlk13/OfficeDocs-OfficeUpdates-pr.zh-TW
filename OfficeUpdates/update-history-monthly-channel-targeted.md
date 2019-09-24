@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: d906239f2973a7d8f5e3b7585f27b8a77c02db94
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
+ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998619"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131665"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -33,6 +33,9 @@ ms.locfileid: "36998619"
 > - Microsoft Teams 的 Office 365 專業增強版-落後六月的開頭、 Microsoft Teams 的現有安裝將包含在現有的安裝的 Office 365 專業增強版 （和 Office 365 商務版），在這些安裝的更新時。 時將會新增 microsoft Teams 的日期取決於您要使用哪一個更新通道。 請參閱[Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/en-us/deployoffice/teams-install)如需詳細資訊。
 
 [//]: # (請勿移除)
+
+**2019 年 9 月 23日日**<br/>
+版本 1909 （組建 12026.20248）<br/>
 
 **2019 年 9 月 16日日**<br/>
 版本 1909 （組建 12026.20190）<br/>
