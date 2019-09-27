@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068050"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275494"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 專業增強版的已知問題
 
@@ -31,13 +31,17 @@ ms.locfileid: "37068050"
 
 |摘要|調查中|已解決|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+我們發現會導致將超連結貼到一些受保護工作表中的問題。|每月和 SACT 版本 1908 和 SAC 版本 1902||
+我們發現 Excel 構想功能中，在 Win32 用戶端中按一下 [構想] 按鈕來載入增益集時會發生錯誤的問題。|每月版本 1908||
+我們發現在增益集管理員中瀏覽時只會顯示 16 個增益集的問題。|每月和 SACT 版本 1908||
 |**Outlook**
-我們已修正可能會無法儲存檔案到 WebDAV 位置的問題。|每月版本 1909||
+我們發現可能會無法儲存檔案到 WebDAV 位置的問題。|每月版本 1909||
 |**Project**
-請考慮下列案例。 開啟專案。 按一下 [檔案] 功能表、按一下 [匯出]、然後按一下 [建立 PDF/XPS] 按鈕。 在 [瀏覽] 對話方塊中、輸入檔案名、然後按一下 [確定]。 在這種情況下，您會發現 XPS 檔案的 PDF 沒有建立。 |SAC 版本 1902||
+我們發現從 [檔案] 功能表建立 PDF/XPS 時不會建立檔案的問題。 |SAC 版本 1902||
 |**Word**
 我們發現使用者開啟檔案時可能會遇到問題。|每月版本 1908||
-對於由 OneDrive 同步處理引擎同步處理的 Office 檔案，在 [儲存] 和 [另存新檔] 時將不會再驗證文件中繼資料 (例如必要屬性和內容類型需求)。|SAC 版本 1902||
+我們發現由 OneDrive 同步處理引擎同步處理的 Office 檔案的問題，在 [儲存] 和 [另存新檔] 時將不會再驗證文件中繼資料 (例如必要屬性和內容類型需求)。|SAC 版本 1902||
 
 ## <a name="may-2019---sample"></a>2019 年 5 月 - 範例
 
