@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
-ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
+ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/03/2019
-ms.locfileid: "33568603"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350274"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -25,8 +25,6 @@ ms.locfileid: "33568603"
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - [安全性更新](office365-proplus-security-updates.md)將開始各別列出每個 Office 365 專業增強版更新通道的安全性更新資訊。 
 
 ## <a name="version-1811-december-11"></a>版本 1811：12 月 11 日
@@ -60,7 +58,8 @@ ms.locfileid: "33568603"
 - **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。[深入了解](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **在移動郵件時繼續作業：** Outlook 現在會在背景中移動郵件，因此，在資料夾之間移動大量郵件時您可以繼續作業。
 - **改善焦點收件匣的開啟和關閉體驗：** 對於沒有使用焦點收件匣的客戶，我們已在所有資料夾的郵件清單中恢復 [未讀取] 索引標籤。我們也新增了以旗標為依據的排序功能，讓您能更輕鬆地找到加上旗標的項目。最後，焦點收件匣有更好的互動搜尋模型：焦點收件匣會保留到使用者開始進行搜尋，然後我們在搜尋完成後顯示「結果」文字為止。
-- **依預設在 SMIME 加密和簽章電子郵件中封鎖下載外部內容：** 由於 SMIME 通訊協定中存在漏洞，Outlook 會封鎖從已由 SMIME 加密或簽章的郵件上下載外部內容。使用者無法利用按一下來透過 Outlook UI 下載外部內容，以防止安全漏洞。使用者可使用「選項」對話方塊中的新選項，來還原之前的行為。 
+- **依預設在 SMIME 加密和簽章電子郵件中封鎖下載外部內容：** 由於 SMIME 通訊協定中存在漏洞，Outlook 會封鎖從已由 SMIME 加密或簽章的郵件上下載外部內容。使用者無法利用按一下來透過 Outlook UI 下載外部內容，以防止安全漏洞。使用者可使用「選項」對話方塊中的新選項，來還原之前的行為。
+- **在 Outlook 中查看人們的 LinkedIn 詳細資料：** 現在，當您開啟連絡人的個人檔案卡片時，即可透過檢視 LinkedIn 個人檔案來深入了解連絡人。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
@@ -180,6 +179,7 @@ ms.locfileid: "33568603"
 - **快速查閱** 我們已加速 VLOOKUP、HLOOKUP、MATCH 的計算速度，讓您能更快得到答案。[深入了解](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **呼叫所有取得與轉換粉絲** 如果您經常使用取得與轉換，您會很高興知道我們已改善資料行來源範例功能。此外，也已改善許多連接器。[深入了解](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **功能區圖示有了嶄新的外觀** 別擔心，一切照舊，而且它們在各種尺寸的螢幕上看起來都很棒。[深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **快速開始使用 Office 檔案 - 輕鬆建立及開啟檔案，擁有更新的「開始」體驗** Word、PowerPoint 和 Excel 重新設計過的 Office 開始頁面，可協助您以更輕鬆的方式開始使用新文件、從您最近使用過的文件繼續著手進行，以及尋找共用文件與其他人共同作業。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **查看即將推出的功能** 在發行新的使用者體驗之前先行試用，讓我們知道您的想法。[深入了解](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,13 +190,15 @@ ms.locfileid: "33568603"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 - **生動地觀看您的投影片** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個畫面橫衝直撞。[深入了解](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **功能區圖示有了嶄新的外觀** 別擔心，一切照舊，而且它們在各種尺寸的螢幕上看起來都很棒。[深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **透過測驗或問卷詢問聽眾：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **利用測驗或問卷詢問您的對象** 在投影片上放入測驗或問卷。 Office 會為您收集並儲存回應。 [深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **快速開始使用 Office 檔案 - 輕鬆建立及開啟檔案，擁有更新的「開始」體驗** Word、PowerPoint 和 Excel 重新設計過的 Office 開始頁面，可協助您以更輕鬆的方式開始使用新文件、從您最近使用過的文件繼續著手進行，以及尋找共用文件與其他人共同作業。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **使用 \@mentions 取得其注意** 在註解中使用 @mentions，讓同事知道您何時需要其輸入。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **功能區圖示有了嶄新的外觀** 別擔心，一切照舊，而且它們在各種尺寸的螢幕上看起來都很棒。[深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **方程式編輯器轉換程式** 此轉換程式可讓使用者將使用 Microsoft 方程式編輯器建立的方程式轉換為 Office 數學 ML 格式，以啟用編輯。
-- **為靜態文件注入動人的生命力：** 將文件轉變為在任何裝置上，均具有完美外觀的可互動、易分享的網頁。[深入了解](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **為靜態文件注入動人的生命力** 將文件轉變為在任何裝置上，均具有完美外觀的可互動、易分享的網頁。 [深入了解](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **快速開始使用 Office 檔案 - 輕鬆建立及開啟檔案，擁有更新的「開始」體驗** Word、PowerPoint 和 Excel 重新設計過的 Office 開始頁面，可協助您以更輕鬆的方式開始使用新文件、從您最近使用過的文件繼續著手進行，以及尋找共用文件與其他人共同作業。
 
 ## <a name="version-1808-september-11"></a>版本 1808：9 月 11 日
 *版本 1808 (組建 10730.20102)*
@@ -265,6 +267,7 @@ ms.locfileid: "33568603"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 - **Outlook 增益集警告：** 有時 Outlook COM 增益集會發生問題，讓其餘 Outlook 功能變慢。這些問題可能是因為以下的事件延遲：在 Outlook 資料夾之間進行切換、新的電子郵件送達、開啟行事曆項目等等。當這類問題發生時，Outlook 會在通知列中顯示警告。
 - **從 Outlook 提醒對話方塊加入小組會議：** 當 Outlook 提醒使用者有即將來臨的會議時，如果即將來臨的會議是小組線上會議，則它會顯示 [線上加入] 按鈕。這個動作與從 Outlook [提醒] 對話方塊加入商務用 Skype 會議的體驗類似。
+- **改良的增益集通知** 改良過的增益集通知
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
  - **超連結色彩：** 超連結不再只是藍色。套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
@@ -296,21 +299,22 @@ ms.locfileid: "33568603"
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   [CVE-2018-8281](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2018-8281)：Microsoft Office 遠端程式碼執行弱點
 
-
 ## <a name="version-1806-june-25"></a>版本 1806：6 月 25 日
 *版本 1806 (組建 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **改善儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **改善儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
- - **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
- - **改善協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。[深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **定期預設：** 在 [定期約會] 對話方塊中 (「定期範圍」下)，「結束日期」是預設設定 (而非「沒有結束日期」) 及列出的第一個設定，且會設定預設的結束日期。
+- **改善協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的郵件更易於存取。[深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+- **改善 Outlook 桌面中「關注」群組的字串。** 我們正在變更 Outlook 中的群組字串，將目前的「訂閱/取消訂閱」措辭變更為「關注/停止關注」。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
- - **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **使用手寫筆為投影片撰寫標題：** 使用手寫筆輸入標題，並觀看 PowerPoint 將它轉換成文字。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **以漸進方式開啟大型檔案：** 即使大型 PowerPoint 簡報的某些部分 (例如大型視訊或影像) 還沒有下載完成，還是能夠下載、開啟並與之互動。
 
 
 ### <a name="project-feature-updates"></a>Project：功能更新
@@ -432,6 +436,7 @@ ms.locfileid: "33568603"
 -   **絕不錯過任何提醒：** 將提醒設定為在您正在工作的視窗上彈出。否則，Outlook 會在工作列中閃爍，以引起您的注意。[深入了解](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **將刪除的郵件標示為已讀取：** 您現在可以將任何已刪除的郵件標示為已讀取。請移至 [檔案] \> [選項] \> [郵件] \> [其他] 來選擇使用。
 -   **加密選項：** Office 365 郵件加密使用者可以加密郵件，並將其傳送給組織內外的任何人。建立郵件時，加密選項會出現在 [選項] \> [權限] 底下。 [深入了解](https://aka.ms/omeoverview)
+- **支援在 [行事曆] 檢視中顯示所有已加入群組** 此增強功能可讓使用者在左側導覽窗格的 [行事曆] 檢視中查看所有已加入的新式群組，輕鬆地將任何群組的行事曆與某個人的個人行事曆或另一個群組的行事曆覆疊。 先前只有「我的最愛」群組才會出現在此清單中。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **轉換筆跡：** 擷取草草寫下的筆記和繪圖，並將其轉換為可供閱讀的文字和簡潔的圖形，以建立精美的簡報。 [深入了解](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980449"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300490"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,92 @@ ms.locfileid: "36980449"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1910-september-27"></a>版本 1910：9 月 27 日
+版本：1910 (組建 12119.20000)**
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正當變更系列集合時，可能會導致散佈折線圖無法正確呈現的問題。</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正了當與共享行事曆資料夾互動時，可能會報告權限錯誤的問題。</span></div>
+
+
+- <div><span>我們已修正了使用者可能會無法新增附件至行事曆的問題。</span></div>
+
+
+- <div><span>我們已修正了當回覆數位簽章的郵件時，導致顯示錯誤訊息的問題。</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我們已修正列印到 Deskjet 印表機時，可能會導致縮放問題的問題</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我們已修正中等粗體文字樣式不正確的問題</span></div>
+
+
+- <div><span>我們已修正當關閉具有擱置上傳的檔案時，使用者收到不正確錯誤訊息的問題</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1910-september-20"></a>版本 1910：9 月 20 日
+版本：1910 (組建 12112.20000)**
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正 Excel 有時候會在啟動時發生懸置的問題。</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們大幅改善了當有大量會議室可供選擇時，會議室選取的效能。</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">我們已修正在 Office 365.中移轉至新式驗證時，擁有 Outlook 多個信箱的客戶無法進行信箱同步處理的問題。</span><br></div>
+
+
+- <div><span>我們已修正簽章標籤中某些字元不會顯示在下拉式功能表中的問題。</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>我們修正了使用本機資源取代企業資源時，可能會導致當機的問題。</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我們已修正 [草稿模式] 中可能會導致同步捲動無法正常運作的問題。</span></div>
+
+
+- <div>我們已修正第一次儲存文件後可能導致 [工具提示] 無法正確顯示的問題</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-13"></a>版本 1910：9 月 13 日
 *版本 1910 (組建 12105.20000)*
@@ -856,7 +942,7 @@ ms.locfileid: "36980449"
 
 #### <a name="open-document-links-in-word"></a>在 Word 中開啟文件連結
 
-當您在 Office 中按一下文件連結時，您可以更新您的喜好設定，以預設在 Word App 中開啟該連結。  若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/zh-TW/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+當您在 Office 中按一下文件連結時，您可以更新您的喜好設定，以預設在 Word App 中開啟該連結。  若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>開始使用：
 
@@ -877,7 +963,7 @@ ms.locfileid: "36980449"
 
 #### <a name="open-presentation-links-in-powerpoint"></a>在 PowerPoint 中開啟簡報連結
 
-當您在 Office 中按一下連結連結時，您可以更新您的喜好設定，以預設在 PowerPoint App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/zh-TW/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+當您在 Office 中按一下連結連結時，您可以更新您的喜好設定，以預設在 PowerPoint App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>開始使用：
 
@@ -898,7 +984,7 @@ ms.locfileid: "36980449"
 
 #### <a name="open-workbook-links-in-excel"></a>在 Excel 中開啟活頁簿連結
 
-當您在 Office 中按一下活頁簿連結時，您可以更新您的喜好設定，以預設在 Excel App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/zh-TW/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+當您在 Office 中按一下活頁簿連結時，您可以更新您的喜好設定，以預設在 Excel App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>開始使用：
 

@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011673"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329251"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月通道更新所含新功能和非安全性更新的相關資訊。
  
  > [!NOTE]
->- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="version-1909-september-30"></a>版本 1909：9 月 30 日
+*版本 1909 (組建 12026.20264)*
+* 不同的錯誤 (bug) 和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **快速尋找連結資料表：** 新的搜尋方塊可讓您輕鬆尋找連結資料表。 [深入了解](https://support.office.com/zh-TW/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook 中的 [插入連結] 功能表會插入含有租用戶系統管理員所定義的權限的連結：** Outlook 中使用 [插入連結] 所插入的連結，只有具有連結權限的使用者可使用。 這常會造成使用者來回傳送電子郵件，要求對方授與文件的存取權。 我們已更新這項體驗，現在插入的連結將具有由租用戶系統管理員設定的預設權限。
+
+- **Outlook 視覺更新**：這是 Outlook 核心體驗的視覺更新的一部分，其中更新 [讀取窗格] 和 [檢查] 中的 [郵件訊息] 版面配置。
+
+- **共用行事曆更新的速度更快：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽以更快且更可靠地更新共用行事曆。
+
+- **在搜尋結果中查看相關郵件：** Outlook 會分析搜尋字詞，然後在搜尋結果的最上方顯示最相關的電子郵件。 您也可以在 [最佳結果] 區段中查看依日期排列順序的所有結果。
+
+- **傳送郵件給正確的人員：** 只需按一下 [收件者：] 行，然後從 [建議的連絡人] 中選擇。 圖片和目前狀態指示器可協助您選擇正確的人員。
+
+- **抵禦攻擊的進階防護：** 使用 Office 365 進階威脅防護，您會受到保護，不受電子郵件主旨、附加的郵件、簽署的郵件、網路路徑內超連結的攻擊。
+
+- **在不同燈光下查看郵件：** 使用太陽/月亮按鈕以在讀取窗格中於淺色和深色背景之間切換。 [深入了解](https://support.office.com/zh-TW/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。 [深入了解](https://support.office.com/zh-TW/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **筆跡重播：** 對筆跡繪圖進行動畫處理，以使其在投影片放映過程中向前或向後重播。 [深入了解](https://support.office.com/zh-TW/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
+
+### <a name="word"></a>Word
+
+- **用其他方式表達：** 當您想要以不同方式表達時，「重寫」功能可以幫助您。 重寫提供其他不同方式來表達您的詞彙。
+
+- **共同撰寫的增強功能**：增強共同撰寫時的可靠性。
+
+- **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">解決會導致將超連結貼到一些受保護工作表中的問題。</span><br></div>
+
+
+- <div>&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">當在增益集管理員中瀏覽時</span>，顯示 16 個以上的增益集。</div>
+
+
+### <a name="insights-services"></a>深入解析服務
+
+- <div>已修正在 Excel 構想功能中，在 Win32 用戶端中按一下 [構想] 按鈕來載入增益集時會發生錯誤的問題。&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>已解決導致部分安全連結無法顯示簡單動態顯示 URL 的問題。</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">已更新 Outlook 中的附件封鎖邏輯，以同時封鎖 python 附件。</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">已解決導致使用者在 Outlook 處理序中看到記憶體洩漏的問題。</span>
+
+- 我們已修正了檔案可能無法儲存到 WebDAV 位置的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">我們已修正使用者在開啟檔案時會發生的問題。</p></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908 (組建 11929.20300)*
