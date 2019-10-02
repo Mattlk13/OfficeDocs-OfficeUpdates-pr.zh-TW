@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員針對每月通道的版本資訊版本的 Office 365 專業增強版 2017
-ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438738"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350254"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>在 2017年中的每月通道版本的版本資訊
 
@@ -539,6 +539,7 @@ ms.locfileid: "32438738"
 -   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
 -   **Azure Data Lake Store 連接器：** 使用者現在可以從 Azure Data Lake Store 匯入資料。
 -   **「從範例新增資料行」增強功能：** 支援建議、更多日期/時間作業及其他轉換。
+- **協助工具內建在**輕鬆地找到選項 > 輕鬆存取] 中，讓應用程式更易於存取的設定。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **新帳戶設定：** 使用新的精靈設定新帳戶，所需的手動步驟更少。
@@ -546,6 +547,7 @@ ms.locfileid: "32438738"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **畫筆自訂：** 針對筆跡選擇畫筆和螢光筆的個人集合。您的自訂集可在您所有的 Windows 電腦上使用。
 -   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
+- **協助工具內建在**輕鬆地找到選項 > 輕鬆存取] 中，讓應用程式更易於存取的設定。
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正此問題：分時段的基準值不符合 (您將專案儲存為 XML 檔案格式時的) 初始值。
@@ -563,8 +565,12 @@ ms.locfileid: "32438738"
 -   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端，用戶端會將 OAuthUsed 登錄機碼重設為 False。若要修正此問題，請將 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 值設定為 1。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **畫筆自訂：** 針對筆跡選擇畫筆和螢光筆的個人集合。您的自訂集可在您所有的 Windows 電腦上使用。
--   **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
+- **畫筆自訂：** 針對筆跡選擇畫筆和螢光筆的個人集合。您的自訂集可在您所有的 Windows 電腦上使用。
+- **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
+- **協助工具內建在**輕鬆地找到選項 > 輕鬆存取] 中，讓應用程式更易於存取的設定。
+
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
+- **保持 [受保護免於 Office 文件中的惡意連結**Safelinks 是企業功能，可以提供時間按一下 [Office 文件中的網站 (http/https) 連結的保護。
 
 
 
@@ -619,6 +625,8 @@ ms.locfileid: "32438738"
 -   **影片的隱藏式輔助字幕：** 可將隱藏式輔助字幕新增至影片，使其變得更無障礙。 [詳細資訊](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **設計工具的改進：** 設計工具現在會針對新增至投影片的圖表建議設計概念。
 -   **Windows 資訊保護 (WIP) 支援：**    PowerPoint 現在是已應用程式，而且可以區別公司與個人資料，正確判斷要保護，根據設定的原則。  [更多資訊](https://aka.ms/wiptechnet)
+- **讓您更無障礙的影像**智慧型服務產生圖片，以使視障人士更容易存取您的文件的替代的文字。
+- **PowerPoint 設計工具來轉換的投影片的更多類型**設計工具現在會提供新增至投影片的圖表的設計構想建議。
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正了 [建立專案網站] 對話方塊，以顯示網站的正確位置；現在 Microsoft Project Online 中每個企業專案範本 (EPT) 都會有自己的專案網站 URL。
@@ -649,6 +657,7 @@ ms.locfileid: "32438738"
 -   **以 [編輯器] 窗格增強了撰寫協助：** 使用 [編輯器] 窗格可得到進階拼字檢查、文法和書寫樣式的建議。它內建無障礙功能，並已改善對輔助技術的支援。
 -   **Alt 文字建立︰** 雲端式服務會自動為文件中的圖片產生替代文字 (Alt 文字)。
 -   **Windows 資訊保護 (WIP) 支援：**    Word 現在是已應用程式，而且可以區別公司與個人資料，正確判斷要保護，根據設定的原則。  [更多資訊](https://aka.ms/wiptechnet)
+- **讓您更無障礙的影像**智慧型服務產生圖片，以使視障人士更容易存取您的文件的替代的文字。
 
 
 
