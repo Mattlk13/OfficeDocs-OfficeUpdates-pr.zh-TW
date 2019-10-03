@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329251"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350264"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -88,12 +88,7 @@ ms.locfileid: "37329251"
 
 
 - <div>&nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">當在增益集管理員中瀏覽時</span>，顯示 16 個以上的增益集。</div>
-
-
-### <a name="insights-services"></a>深入解析服務
-
 - <div>已修正在 Excel 構想功能中，在 Win32 用戶端中按一下 [構想] 按鈕來載入增益集時會發生錯誤的問題。&nbsp;</div>
-
 
 ### <a name="outlook"></a>Outlook
 
