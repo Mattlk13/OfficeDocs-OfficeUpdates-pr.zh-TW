@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 9d7decd6b91045b9a7669428749c4fc3d7b3cc0d
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838294"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391317"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道更新所含新功能和非安全性更新的相關資訊。
 
 > [!NOTE]
-> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -40,7 +40,7 @@ ms.locfileid: "36838294"
 
 ### <a name="outlook"></a>Outlook
 
-- 修正使用雲端附件時，會導致使用者看到錯誤「找不到這個檔案。 請確認路徑與檔案名稱都正確」的暫時性服務問題。 [深入了解](https://support.office.com/zh-TW/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- 修正導致使用者看到「找不到此檔案」錯誤的暫時服務問題。 使用雲端附件時，請確認路徑和檔案名正確。 [深入了解](https://support.office.com/zh-TW/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - 修正會導致使用者看到從 Outlook 上傳至 OneDrive 或 SharePoint 檔案其檔案名稱已變更，其中的數個字元由底線取代的問題。
 
@@ -159,6 +159,7 @@ ms.locfileid: "36838294"
 - **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **匯出為 4K 影片：** 您現在可以在將簡報匯出為影片時選取 4K 解析度。  [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **大型檔案現在會以更快速度開啟：** 現在開啟儲存在 OneDrive 或 SharePoint 上的檔案時，會在背景下載影像、視訊及其他大型元素。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
@@ -263,7 +264,7 @@ ms.locfileid: "36838294"
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
  - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。
  - 已修正與間歇性的空白登入提示相關的問題。
- - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 [深入了解]("https://docs.microsoft.com/zh-TW/windows/deployment/update/waas-delivery-optimization)
+ - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 [深入了解]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
 - 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
@@ -563,7 +564,7 @@ ms.locfileid: "36838294"
 
 ### <a name="office-suite-security-update"></a>Office 套件：安全性更新
 
-- **基於安全原因已封鎖 Flash、Silverlight、Shockwave 控制在 Office 中啟動：** 基於安全原因，Windows 上新組建的 Microsoft Office for Office 365 會封鎖 Flash、Silverlight、Shockwave 控制的啟動。請看[這裡](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[這裡](https://support.office.com/zh-TW/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)深入了解。
+- **基於安全原因已封鎖 Flash、Silverlight、Shockwave 控制在 Office 中啟動：** 基於安全原因，Windows 上新組建的 Microsoft Office for Office 365 會封鎖 Flash、Silverlight、Shockwave 控制的啟動。請看[這裡](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729)和[這裡](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US)深入了解。
  
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 - 已修正導致更新安裝在特定情況下需要很長時間的問題。
