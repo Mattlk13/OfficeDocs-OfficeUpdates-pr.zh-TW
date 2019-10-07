@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300490"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400142"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,78 @@ ms.locfileid: "37300490"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1910-october-04"></a>版本 1910：10 月 4 日
+*版本 1910 (組建 12126.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>我們已修正 [預覽列印] 中的列印範圍不正確的問題</span></div>
+
+
+- <div><span>我們已修正可能會讓樞紐分析表在共同撰寫工作階段期間無法重新整理的問題</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>我們已修正當使用共用資料庫時，使用者可能收到&quot;不一致的狀態&quot;錯誤訊息的問題。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>我們已修正導致郵件資料夾重複的問題</span></div>
+
+
+- <div><span>我們已修正當嘗試傳送 s/MIME 加密電子郵件時，可能會導致錯誤訊息的問題</span></div>
+
+
+- <div><span>我們已修正當使用者收到來自 Skype 的「未接的交談」訊息時，有時可能會導致當機的問題</span></div>
+
+
+- <div><span>我們已修正可能會造成記憶體洩漏的問題</span></div>
+
+
+- <div><span>我們已修正當儲存為草稿時，可能會導致寄件者名稱變更的問題</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>我們已修正以下問題：在您將文字貼到投影片母片和投影片版面配置上的頁首/頁尾/投影片編號預留位置之後，造成 TextRanges 損壞
+
+
+- <div><span></span></div>我們已修正在使用超連結貼上文字時，無法建立超連結的問題
+
+
+- <div>我們已修正造成統計資料無法正常運作的問題</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>我們已修正未確認字型色彩的問題</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div>我們已修正在停用功能後，可能會提供版本歷程記錄的問題</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-27"></a>版本 1910：9 月 27 日
 版本：1910 (組建 12119.20000)**

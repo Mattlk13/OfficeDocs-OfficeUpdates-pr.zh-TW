@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972814"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391267"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道 (已設定目標) 更新所含新功能和非安全性更新的相關資訊。
  
 > [!NOTE]
-> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - 從版本 1902 開始，Microsoft Teams 會包含在半年通道 (已設定目標) 的全新安裝中。 將 Teams 更新至版本 1908 或更新版本時，即會將 Teams 新增至半年通道 (已設定目標) 的現有安裝中。 如需詳細資訊，請參閱[使用 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
@@ -191,9 +191,9 @@ ms.locfileid: "36972814"
 
 - 修正會導致目前的資料夾搜尋間歇性失敗的問題。
 
-- 修正會導致使用者看到在該會議室的可用時間以外進行之會議的會議室建議的問題。
+- 修正以下問題：使用者看到該會議的會議室可用時間之外的會議室建議。
 
-- 修正使用雲端附件時，會導致使用者看到錯誤「找不到這個檔案。 請確認路徑與檔案名稱都正確」的暫時性服務問題。 [深入了解](https://support.office.com/zh-TW/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- 修正導致使用者看到「找不到此檔案」錯誤的暫時服務問題。 使用雲端附件時，請確認路徑和檔案名稱正確。 [深入了解](https://support.office.com/zh-TW/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - 修正會導致使用者看到從 Outlook 上傳至 OneDrive 或 SharePoint 檔案其檔案名稱已變更，其中的數個字元由底線取代的問題。
 
@@ -453,6 +453,7 @@ ms.locfileid: "36972814"
 - **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **匯出為 4K 影片：** 您現在可以在將簡報匯出為影片時選取 4K 解析度。  [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **大型檔案現在會以更快速度開啟：** 現在開啟儲存在 OneDrive 或 SharePoint 上的檔案時，會在背景下載影像、影片及其他大型元素。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 

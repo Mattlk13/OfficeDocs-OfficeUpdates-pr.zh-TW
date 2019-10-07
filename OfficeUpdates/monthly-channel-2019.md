@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350264"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391297"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -63,6 +63,10 @@ ms.locfileid: "37350264"
 - **筆跡重播：** 對筆跡繪圖進行動畫處理，以使其在投影片放映過程中向前或向後重播。 [深入了解](https://support.office.com/zh-TW/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
+
+### <a name="visio"></a>Visio
+
+- **使用 Microsoft Flow 和 Visio 來設計和自動化業務工作流程：** 使用 Visio 來設計工作流程圖，並將它匯出到 Microsoft Flow 以進行自動化。
 
 ### <a name="word"></a>Word
 
@@ -528,6 +532,7 @@ ms.locfileid: "37350264"
 - **您來計算，格式設定交給我們**我們能將難懂的手寫數學運算式變更為標準字元。只要選擇 [筆跡轉換數學]，然後選取您的手寫筆記，即可開始使用。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **大型檔案現在會以更快速度開啟：** 現在開啟儲存在 OneDrive 或 SharePoint 上的檔案時，會在背景下載影像、影片及其他大型元素。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
