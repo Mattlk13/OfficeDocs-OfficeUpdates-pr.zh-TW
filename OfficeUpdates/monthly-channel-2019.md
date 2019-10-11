@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391297"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427683"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -24,10 +24,31 @@ ms.locfileid: "37391297"
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
+## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
+*版本 1909 (組建 12026.20320)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+
+### <a name="outlook"></a>Outlook
+
+- 已修正 Outlook 中的附件封鎖邏輯也會封鎖 python 附的問題。
+
+- 已解決導致使用者無法開啟某些週期性行事曆項目執行個體的問題。
+
+- 已解決導致使用者在 Outlook 處理序中看到記憶體洩漏的問題。
+
+- 已解決導致使用者在建立設定檔時遇到當機的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-1909-september-30"></a>版本 1909：9 月 30 日
 *版本 1909 (組建 12026.20264)*
 * 不同的錯誤 (bug) 和效能修正。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -240,7 +261,7 @@ ms.locfileid: "37391297"
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
- - 解決導致目前的資料夾搜尋間歇性失敗的問題。
+- 解決導致目前的資料夾搜尋間歇性失敗的問題。
 
 ## <a name="version-1906-june-27"></a>版本 1906：6 月 27 日
 *版本 1906 (組建 11727.20230)*
@@ -612,7 +633,9 @@ ms.locfileid: "37391297"
 
 - **告別錯誤的 Excel 連結：** 找不到與 Data Visualizer 圖表連結的 Excel 活頁簿嗎？重新連結，就可繼續使用了。[深入了解](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
+### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
+- **新增功能窗格：**[新增功能] 體驗已移至 [說明] 窗格，讓您可以更輕鬆地存取最新更新，並掌握最新消息。
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

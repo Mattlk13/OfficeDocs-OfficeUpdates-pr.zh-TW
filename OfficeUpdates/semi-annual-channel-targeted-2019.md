@@ -9,24 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391267"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427693"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
 這些版本資訊可提供 2019 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道 (已設定目標) 更新所含新功能和非安全性更新的相關資訊。
- 
+
 > [!NOTE]
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-
- > [!NOTE]
 > - 從版本 1902 開始，Microsoft Teams 會包含在半年通道 (已設定目標) 的全新安裝中。 將 Teams 更新至版本 1908 或更新版本時，即會將 Teams 新增至半年通道 (已設定目標) 的現有安裝中。 如需詳細資訊，請參閱[使用 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
 
- 
+## <a name="version-1908-october-08"></a>版本 1908：10 月 8 日
+*版本 1908 (組建 11929.20388)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- 已解決會導致將超連結貼到一些受保護工作表中的問題。
+
+- 已修正當在增益集管理員中瀏覽時，顯示 16 個以上的增益集的問題。
+
+- 已修正在 Excel 構想功能中，在 Win32 用戶端中按一下 [構想] 按鈕來載入增益集時會發生錯誤的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 已解決導致部分安全連結無法顯示簡單動態顯示 URL 的問題。
+
+- 已更新 Outlook 中的附件封鎖邏輯，以同時封鎖 python 附件。
+
+- 已解決導致使用者在 Outlook 處理序中看到記憶體洩漏的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正在 PowerPoint 共同撰寫和離線編輯的工作階段中可能會導致資料遺失的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正使用者在開啟檔案時可能會遇到的當機問題。
+
+- 已修正 Backstage 的 [資訊位置] 平板未顯示協助工具資訊的問題。
+
+- 已改善透過恢復之前可能已中斷的下載，下載 Office 更新時的可靠性。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908 (組建 11929.20300)*
 
