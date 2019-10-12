@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
+ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427693"
+ms.locfileid: "37437665"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -59,6 +59,8 @@ ms.locfileid: "37427693"
 - 已修正 Backstage 的 [資訊位置] 平板未顯示協助工具資訊的問題。
 
 - 已改善透過恢復之前可能已中斷的下載，下載 Office 更新時的可靠性。
+
+- 為了保護 Office 客戶的安全性，我們現在專門使用 SHA-2 演算法來簽署 Microsoft Office 更新。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
