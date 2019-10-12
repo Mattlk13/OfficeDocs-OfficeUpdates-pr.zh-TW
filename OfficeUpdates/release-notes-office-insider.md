@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400142"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471328"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,51 @@ ms.locfileid: "37400142"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1910-october-11"></a>版本 1910：10 月 11 日
+*版本 1910 (組建 12130.20112)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div>解決從 OneDrive 以物件形式插入檔案的問題</div>
+
+
+- <div>解決無法將超連結格式正確套用至部分內容的問題</div>
+
+
+- <div>解決含有結構化絕對參考的公式可能無法正確調整的問題</div>
+
+
+- <div>解決在目前的 Office 版本中開啟在舊版 Office 中建立的活頁簿時，可能導致 Excel 懸置的問題</div>
+
+
+- <div>解決從 Excel 複製的內容，在貼上到其他 Office 應用程式時，可能無法正確顯示的問題</div>
+
+
+- <div>修正以校正使用圖表範本插入圖表時，預覽中使用的色彩</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>已發現 ARC 裝置在 AirSpace WinComp 下執行時，可能會遺失連線的問題</div>
+
+
+### <a name="word"></a>Word
+
+- <div>解決從 OneDrive 以物件形式插入檔案的問題</div>
+
+
+- <div>改善復原步驟，以<span>修正會導致從電子郵件執行緒中刪除圖形內容的問題。&nbsp;</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-october-04"></a>版本 1910：10 月 4 日
 *版本 1910 (組建 12126.20000)*
@@ -103,7 +148,7 @@ ms.locfileid: "37400142"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-27"></a>版本 1910：9 月 27 日
-版本：1910 (組建 12119.20000)**
+*版本：1910 (組建 12119.20000)*
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -144,7 +189,7 @@ ms.locfileid: "37400142"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-september-20"></a>版本 1910：9 月 20 日
-版本：1910 (組建 12112.20000)**
+*版本：1910 (組建 12112.20000)*
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
