@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838183"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523099"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,8 +29,26 @@ ms.locfileid: "36838183"
 > - 僅提供最新版的 Microsoft AutoUpdate 下載連結
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
-若要檢視版本資訊，請參閱[版本資訊](release-notes-office-for-mac.md)。<br/><br/>
+若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="october-2019-release"></a>2019 年 10 月發行
+
+**發行日期：** 2019 年 10 月 15 日
+
+*Microsoft Auto Update 4.16*
+
+ **功能更新：**
+
+- 從 Microsoft AutoUpdate 4.16 之後，所有客戶都能享用全新改善的使用者體驗。
+
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.16 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
 ## <a name="september-2019-release"></a>2019 年 9 月發行
 
 **發行日期：** 2019 年 9 月 10 日

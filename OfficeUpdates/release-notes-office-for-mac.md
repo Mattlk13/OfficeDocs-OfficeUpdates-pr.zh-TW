@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040691"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523139"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -31,9 +31,36 @@ ms.locfileid: "37040691"
 > - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Office 365 訂閱時才可供使用。
 > - 16.16 版及較舊版本的版本資訊也適用於 Mac 版 Office 2016，後者也是 Mac 版 Office 的一個版本，可買斷取得。您可以使用 Mac 版 Office 2016 大量授權啟動 16.16 版以下 (包含16.16) 的舊版本。16.17 版或更新版本則無法透過 Mac 版 Office 2016 大量授權啟動。如需 9 月以後的 Mac 版 Office 2016 相關資訊，請參閱 [Mac 版 Office 2016 的版本資訊](release-notes-office-2016-mac.md)。
 > > 
-> - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
+
+## <a name="october-15-2019-release"></a>2019 年 10 月 15 日發行
+*版本 16.30 (組建 19101301)*
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- **在 Word 中編輯您的 PDF：** 開啟 PDF，將其轉換為 Word 文件，並開始編輯。
+### <a name="excel--feature-updates"></a>Excel：功能更新
+
+- **Visio 資料視覺化工具 Excel 增益集：** 您可以在 Excel 中輕鬆快速地將資料以視覺化方式呈現到精美的 Visio 圖表中。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel：安全性更新
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1327)：Microsoft Excel 遠端程式碼執行弱點
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1331)：Microsoft Excel 遠端程式碼執行弱點
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- **筆跡重播：** 對筆跡繪圖進行動畫處理，以使其在投影片放映過程中向前或向後重播。 [深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- 修正各種效能問題。<br/><br/>
 
 ## <a name="september-18-2019-release"></a>2019 年 9 月 18 日發行
 *版本 16.29.1 (組建 19091700)*
