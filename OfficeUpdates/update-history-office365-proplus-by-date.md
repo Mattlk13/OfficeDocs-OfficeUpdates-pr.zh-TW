@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 33c5882494fc6dc407eb9cd1438d65008935173d
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631226"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508868"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -25,22 +25,20 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 > - 資料表依發行日期排序，最新的發行日期列在最前面。 
 > - 如需更新通道的詳細資訊，請參閱 [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
-下列表格會列出每個更新通道的支援版本及最新組建編號。 
+下列表格會列出每個更新通道的支援版本及最新組建編號。
 
 [//]: # (EOSTABLESTART)
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1908<br/>|11929.20254<br/>|2019 年 8 月 26 日<br/>|版本 1909 已推出<br/>|
-|半年 (已設定目標)<br/>|1902<br/>|11328.20392<br/>|2019 年 8 月 13 日<br/>|2019 年 9 月 10 日<br/>|
-|半年<br/>|1902<br/>|11328.20392<br/>|2019 年 8 月 13 日<br/>|2020 年 9 月 8 日<br/>|
-|半年<br/>|1808<br/>|10730.20370<br/>|2019 年 8 月 13 日<br/>|2020 年 3 月 10 日<br/>|
-|半年<br/>|1803<br/>|9126.2432<br/>|2019 年 8 月 13 日<br/>|2019 年 9 月 10 日<br/>|
+|每月<br/>|1909<br/>|12026.20334<br/>|2019 年 10 月 14 日<br/>|版本 1910 已推出<br/>|
+|半年 (已設定目標)<br/>|1908<br/>|11929.20396<br/>|2019 年 10 月 14 日<br/>|2020 年 3 月 10 日<br/>|
+|半年<br/>|1902<br/>|11328.20438<br/>|2019 年 10 月 8 日<br/>|2020 年 9 月 8 日<br/>|
+|半年<br/>|1808<br/>|10730.20386<br/>|2019 年 10 月 8 日<br/>|2020 年 3 月 10 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
 若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
-
 
 下表提供在下列更新通道發行的每項 Office 365 專業增強版更新的版本號碼和組建編號清單：每個月、半年 (已設定目標) 和半年。表格中的每個項目都會直接連結至該版本的版本資訊。版本資訊會提供 Office 365 專業增強版的更新中所包含的功能、安全性更新和非安全性更新的相關資訊。  
 
@@ -48,6 +46,10 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 月 14 日|[版本 1909 (組建 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[版本 1908 (組建 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
+|2019|10 月 8 日|[版本 1909 (組建 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[版本 1908 (組建 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[版本 1902 (組建 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[版本 1808 (組建 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
+|2019|9 月 30 日|[版本 1909 (組建 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
+|2019|9 月 10 日|[版本 1908 (組建 11929.20300)](monthly-channel-2019.md#version-1908-september-10)|[版本 1908 (組建 11929.20300)](semi-annual-channel-targeted-2019.md#version-1908-september-10)|[版本 1902 (組建 11328.20420)](semi-annual-channel-2019.md#version-1902-september-10)<br/>[版本 1808 (組建 10730.20380)](semi-annual-channel-2019.md#version-1808-september-10)|
 |2019|8 月 26 日|[版本 1908 (組建 11929.20254)](monthly-channel-2019.md#version-1908-august-26)| | |
 |2019|8 月 13 日|[版本 1907 (組建 11901.20218)](monthly-channel-2019.md#version-1907-august-13)|[版本 1902 (組建 11328.20392)](semi-annual-channel-targeted-2019.md#version-1902-august-13)|[版本 1902 (組建 11328.20392)](semi-annual-channel-2019.md#version-1902-august-13)<br/>[版本 1808 (組建 10730.20370)](semi-annual-channel-2019.md#version-1808-august-13)<br/>[版本 1803 (組建 9126.2432)](semi-annual-channel-2019.md#version-1803-august-13)|
 |2019|7 月 29 日|[版本 1907 (組建 11901.20176)](monthly-channel-2019.md#version-1907-july-29)| | |

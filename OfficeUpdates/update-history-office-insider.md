@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: f83de6b5c8a56e0bc7ff83c3c4ac039171839ebc
-ms.sourcegitcommit: 387fdd3ae168f420e1ed93ce7d486c5e0ff39e88
+ms.openlocfilehash: dbae84384185ba68b75ab69cfd979aee6e641a5c
+ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998629"
+ms.lasthandoff: 10/14/2019
+ms.locfileid: "37501801"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -26,11 +26,23 @@ ms.locfileid: "36998629"
 
 ## <a name="office-insider-versions-and-builds"></a>Office 測試人員的版本和組建
 
-如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近測試人員版本和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。 
+如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近測試人員版本和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。
 
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (DO NOT REMOVE)
+
+**2019 年 10 月 14 日**<br/>
+版本 1911 (組建 12209.20010)<br/>
+
+**2019 年 10 月 8 日**<br/>
+版本 1910 (組建 12130.20112)<br/>
+
+**2019 年 9 月 30 日**<br/>
+版本 1910 (組建 12126.20000)<br/>
+
+**2019 年 9 月 23 日**<br/>
+版本 1910 (組建 12119.20000)<br/>
 
 **2019 年 9 月 16 日**<br/>
 版本 1910 (組建 12112.20000)<br/>
@@ -148,7 +160,7 @@ ms.locfileid: "36998629"
 [在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
 [
-  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/zh-TW/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **搶先使用新功能**
