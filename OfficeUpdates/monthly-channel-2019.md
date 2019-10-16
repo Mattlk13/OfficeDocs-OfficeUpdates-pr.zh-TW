@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: b21507a1d6802326f4888bebe7f2d2351bfe4842
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508858"
+ms.locfileid: "37523109"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -23,6 +23,14 @@ ms.locfileid: "37508858"
  > [!NOTE]
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="version-1909-october-15"></a>版本 1909：10 月 15 日
+*版本 1908 (組建 11929.20396)*
+
+### <a name="non-security-updates"></a>非安全性更新
+
+### <a name="office-suite"></a>Office 套件
+- 我們已暫時停用 [雲端儲存] 對話方塊來解決 2019 年 10 月14 日發佈的儲存問題。 當 7 天的快取期間屆滿取之後，此功能將會重新啟用。
 
 ## <a name="version-1909-october-14"></a>版本 1909：10 月 14 日
 *版本 1909 (組建 12026.20334)*
