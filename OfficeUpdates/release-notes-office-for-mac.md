@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
+ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523139"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37564754"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -43,7 +43,7 @@ ms.locfileid: "37523139"
 - **在 Word 中編輯您的 PDF：** 開啟 PDF，將其轉換為 Word 文件，並開始編輯。
 ### <a name="excel--feature-updates"></a>Excel：功能更新
 
-- **Visio 資料視覺化工具 Excel 增益集：** 您可以在 Excel 中輕鬆快速地將資料以視覺化方式呈現到精美的 Visio 圖表中。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- 修正各種效能問題。
 
 
 
