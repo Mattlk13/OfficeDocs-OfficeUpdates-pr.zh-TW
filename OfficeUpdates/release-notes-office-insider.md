@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
-ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
+ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37471328"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595321"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,92 @@ ms.locfileid: "37471328"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1911-october-18"></a>版本 1911：10 月 18 日
+*版本 1911 (組建 12209.20010)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **傳送可存取的郵件給最需要它的人員：** Outlook 會顯示郵件提示，協助確保將您的內容傳送給偏好可存取內容的使用者時可供其存取
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **最佳化您的簡報：** 協助工具檢查程式可協助您以螢幕閱讀器為中心，在投影片上排列物件。
+
+### <a name="office-suite"></a>Office 套件
+
+- **上傳中心將由需要注意的檔案體驗取代：**「上傳中心」將由會顯示在 Office 應用程式的 [檔案] > [開啟] 下的「需要注意的檔案」體驗取代。 相較於上傳中心，此新體驗更為現代化、整合且更不具侵入性。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="non-security-updates"></a>非安全性更新
+### <a name="excel"></a>Excel
+
+- <div><span>解決使用自動調整來調整列高時，核取方塊控制項可能收縮的問題</span></div>
+
+
+- <div><span>解決捲動後選取儲存格時，可能導致選取錯誤的儲存格的問題</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>發現簽署具有數位簽署附件的電子郵件時，可能導致數位簽章遭到破壞的問題</span></div>
+
+
+- <div><span>發現在將長檔名拖放至郵件內文時，長檔名遭到截斷的問題</span></div>
+
+
+- <div>發現當功能區設定為自動隱藏時，搜尋方塊可能消失的問題</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">發現投影片預覽的長寬比未正確鎖定/解除鎖定的問題</span>
+
+
+### <a name="security"></a>安全性
+
+- <div><span>發現歡迎訊息含有無效連結的問題</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div>發現在執行更新工作時，若輸入記事，可能不會保留記事的問題<br></div>
+
+
+- <div>發現檔案可能遭某個使用者鎖定，但不會在錯誤訊息中顯示任何使用者名稱的問題。</div>
+
+
+- <div><span>發現在開啟唯讀專案時，使用者可能會收到數個訊息的問題</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>發現使用螢幕閱讀器檢視註解時的問題</span></div>
+
+
+- <div><span>發現將某些評論錯誤地識別為拼寫或文法評論的問題</span></div>
+
+
+- <div><span>發現新留言對話方塊有時候未取得焦點的問題</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>我們已修正了&quot;另一個安裝正在進行中&quot;的不正確錯誤訊息，可能導致無法升級的問題</span></div>
+
+- <div><span>發現可能會影響從本機資源同步至雲端資源的問題</span></div>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-october-11"></a>版本 1910：10 月 11 日
 *版本 1910 (組建 12130.20112)*

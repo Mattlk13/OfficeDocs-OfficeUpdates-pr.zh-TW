@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574371"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593774"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 專業增強版的已知問題
 
@@ -33,6 +33,7 @@ ms.locfileid: "37574371"
 |摘要|受影響的應用程式|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |已發現「尋找及取代」在找到第一個項目後，對話方塊中的焦點位置變更的問題。 <br><br> **解決的版本**： <br> SACT 版本 1908 (16.0.11929.20396)|Excel<br><br>
+|發現依色彩篩選的效能問題。 <br><br> **解決的版本**： <br>每月版本 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |發現當使用者將項目從主要行事曆複製到群組行事曆時，引起權限錯誤體驗的問題。<br><br> **狀態**：調查中|Outlook<br><br>
 |發現在 Win7 上所有應用程式功能區的插入圖案庫大約 4 秒鐘才會顯示的效能問題。<br><br> **解決的版本**： <br>每月版本 1909 (16.0.12026.20264) <br> SACT 版本 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |已發現在某些情況下，Office 快速鍵可能會在更新後消失的問題。  <br><br> **狀態**：調查中|Office 套件<br><br>
