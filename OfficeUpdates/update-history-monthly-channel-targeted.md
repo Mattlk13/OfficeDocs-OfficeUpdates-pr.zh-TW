@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508878"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644134"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -34,22 +34,25 @@ ms.locfileid: "37508878"
 
 [//]: # (DO NOT REMOVE)
 
-**2019 年 10 月 14日日**<br/>
+**2019 年 10 月 22日日**<br/>
+版本 1910 （組建 12130.20210）<br/>
+
+**2019 年 10 月 14 日**<br/>
 版本 1910 （組建 12130.20184）<br/>
 
-**2019 年 10 月 14日日**<br/>
+**2019 年 10 月 14 日**<br/>
 版本 1910 （組建 12130.20178）<br/>
 
-**2019 年 10 月 8日日**<br/>
+**2019 年 10 月 8 日**<br/>
 版本 1909 (組建 12026.20320)<br/>
 
 **2019 年 9 月 28日日**<br/>
 版本 1909 (組建 12026.20264)<br/>
 
-**2019 年 9 月 23日日**<br/>
+**2019 年 9 月 23 日**<br/>
 版本 1909 （組建 12026.20248）<br/>
 
-**2019 年 9 月 16日日**<br/>
+**2019 年 9 月 16 日**<br/>
 版本 1909 （組建 12026.20190）<br/>
 
 **2019 年 9 月 10 日**<br/>
@@ -70,10 +73,10 @@ ms.locfileid: "37508878"
 **2019 年 7 月 25日日**<br/>
 版本 1907 （組建 11901.20156）<br/>
 
-**2019 年 7 月 22日日**<br/>
+**2019 年 7 月 22 日**<br/>
 版本 1907 （組建 11901.20120）<br/>
 
-**2019 年 7 月 15日日**<br/>
+**2019 年 7 月 15 日**<br/>
 版本 1907 （組建 11901.20080）<br/>
 
 **2019 年 7 月 9 日**<br/>
@@ -174,8 +177,7 @@ ms.locfileid: "37508878"
 **Twitter 上的 Office 測試人員**<br/> 我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。<br/> 
 [在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
+[
   ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
