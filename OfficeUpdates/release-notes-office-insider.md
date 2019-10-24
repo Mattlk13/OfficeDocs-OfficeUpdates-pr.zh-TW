@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 688f469ac559bd60f8bb309c49af83c5d33751b7
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
+ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595321"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37653436"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -78,13 +78,7 @@ ms.locfileid: "37595321"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div><span></span></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">發現投影片預覽的長寬比未正確鎖定/解除鎖定的問題</span>
-
-
-### <a name="security"></a>安全性
-
-- <div><span>發現歡迎訊息含有無效連結的問題</span></div>
-
+- <div><span>發現投影片預覽的長寬比未正確鎖定/解除鎖定的問題</span></div>
 
 ### <a name="project"></a>Project
 
@@ -113,6 +107,9 @@ ms.locfileid: "37595321"
 - <div><span>我們已修正了&quot;另一個安裝正在進行中&quot;的不正確錯誤訊息，可能導致無法升級的問題</span></div>
 
 - <div><span>發現可能會影響從本機資源同步至雲端資源的問題</span></div>
+
+- <div><span>發現歡迎訊息含有無效連結的問題</span></div>
+
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
