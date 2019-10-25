@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: f7555a84f2e95d03eec5d438678deb69a186a464
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 8a335b131dae72d251d409aa15c413dd58bff91c
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508868"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644174"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -22,7 +22,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 > [!NOTE]
 > - 這些版本號碼和組建編號也適用於 Office 365 商務版、Visio Pro for Office 365 與 Project Online 桌面用戶端。Office 365 商務版是隨附於部分 Office 365 方案的 Office 版本，例如商務進階版。
-> - 資料表依發行日期排序，最新的發行日期列在最前面。 
+> - 資料表依發行日期排序，最新的發行日期列在最前面。
 > - 如需更新通道的詳細資訊，請參閱 [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下列表格會列出每個更新通道的支援版本及最新組建編號。
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1909<br/>|12026.20334<br/>|2019 年 10 月 14 日<br/>|版本 1910 已推出<br/>|
+|每月<br/>|1909<br/>|12026.20344<br/>|2019 年 10 月 22 日<br/>|版本 1910 已推出<br/>|
 |半年 (已設定目標)<br/>|1908<br/>|11929.20396<br/>|2019 年 10 月 14 日<br/>|2020 年 3 月 10 日<br/>|
 |半年<br/>|1902<br/>|11328.20438<br/>|2019 年 10 月 8 日<br/>|2020 年 9 月 8 日<br/>|
 |半年<br/>|1808<br/>|10730.20386<br/>|2019 年 10 月 8 日<br/>|2020 年 3 月 10 日<br/>|
@@ -46,6 +46,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 月 22 日|[版本 1909 (組建 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019|10 月 14 日|[版本 1909 (組建 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[版本 1908 (組建 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|10 月 8 日|[版本 1909 (組建 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[版本 1908 (組建 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[版本 1902 (組建 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[版本 1808 (組建 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
 |2019|9 月 30 日|[版本 1909 (組建 12026.20264)](monthly-channel-2019.md#version-1909-september-30)| | |
