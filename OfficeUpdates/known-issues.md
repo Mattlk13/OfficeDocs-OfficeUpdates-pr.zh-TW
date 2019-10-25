@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: 80cc2a4fa618b2e14e09797da9e5f7bd4fe51d5d
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 11a85638b39592486804ea989ba6df582e5f64a7
+ms.sourcegitcommit: a49f78bb35491a3117a58c57862cdc673226e6db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644124"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37697868"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 專業增強版的已知問題
 
@@ -28,17 +28,23 @@ ms.locfileid: "37644124"
 
 <br>
 
-### <a name="last-updated-october-22-2019"></a>上次更新日期：2019 年 10 月 22 日
+### <a name="last-updated-october-24-2019"></a>上次更新日期：2019 年 10 月 24 日
 
-|摘要||
+|摘要|
 :-------------------------------------------------------------------------------------|:---------------------|
-|
-發現「尋找及取代」在找到第一個項目後，對話方塊中的焦點位置變更的問題。 <br><br> **已解決**： <br> SACT 版本 1908 (16.0.11929.20396)|Excel<br><br>
-|發現依色彩篩選的效能問題。 <br><br> **解決的版本**： <br>每月版本 1909 (16.0.12026.20264)|Excel<br><br> <br>|<br><br>
-|發現當使用者將項目從主要行事曆複製到群組行事曆時，引起權限錯誤體驗的問題。<br><br> **狀態**：調查中|Outlook<br><br>
-|發現在 Win7 上所有應用程式功能區的插入圖案庫大約 4 秒鐘才會顯示的效能問題。<br><br> **解決的版本**： <br>每月版本 1909 (16.0.12026.20264) <br> SACT 版本 1908 (16.0.11929.20396)|PowerPoint<br><br>
-|已發現在某些情況下，Office 快速鍵可能會在更新後消失的問題。  <br><br> **調查中**：每月|Office 套件<br><br>
-|發現使用者可能無法儲存 Word、Excel 和 PowerPoint 文件的問題。  此問題會影響建立新檔案並在按一下 [儲存] 圖示或按 Ctrl + S 之後帶出 [另存成模型對話方塊] 選項的使用者。<br><br> **解決的版本**： <br>每月版本 1909 (16.0.12026.20334) <br> SACT 版本 1908 (16.0.11929.20396)|Office 套件<br><br>
+|**Excel**
+|發現「尋找及取代」在找到第一個項目後，對話方塊中的焦點位置變更的問題。 <br><br> **調查中**： <br>每月<br> <br>**已解決**： <br> SACT 版本 1908 (16.0.11929.20396)|
+|發現依色彩篩選的效能問題。 <br><br> **調查中**： <br>SACT<br> <br>**已解決**： <br> 每月版本 1909 (16.0.12026.20264)
+|<br>
+|**Outlook**
+|發現當使用者將項目從其主要行事曆複製到群組行事曆時，造成使用者遇到權限錯誤的問題。 <br><br> **調查中**： <br>每月和 SACT
+|<br>
+|**PowerPoint**
+|發現 Win7 上的效能問題，其中，於所有應用程式中從功能區插入圖案庫時，大約需要 4 秒鐘的時間才會顯示。<br><br> **已解決**： <br>每月版本 1909 (16.0.12026.20264) <br> SACT 版本 1908 (16.0.11929.20396)
+|<br>
+|**Office 套件**
+|發現在某些情況下，Office 快速鍵可能會在更新後消失的問題。  <br><br> **調查中**： <br> SAC<br><br> **已解決**： <br>每月版本 1909 (16.0.12026.20334) <br> SACT 版本 1908 (16.0.11929.20396)
+|發現使用者可能無法儲存 Word、Excel 和 PowerPoint 文件的問題。  此問題會影響建立新檔案並在按一下 [儲存] 圖示或按 Ctrl + S 之後帶出 [另存成模型對話方塊] 選項的使用者。<br><br> **已解決**： <br>每月版本 1909 (16.0.12026.20334) <br> SACT 版本 1908 (16.0.11929.20396)<br><br>
 |
 
 
