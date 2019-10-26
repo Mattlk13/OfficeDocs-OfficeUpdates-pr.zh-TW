@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653436"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733007"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,97 @@ ms.locfileid: "37653436"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1911-october-25"></a>版本 1911：10 月 25 日
+*版本 1911 (組建 12215.20006)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="visio"></a>Visio
+
+- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **改善共同撰寫：** 改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- <div><span>記錄計數可能不正確</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>我們已大幅改善刪除合併儲存格的資料行的效能</span></div>
+
+
+- <div><span>可能已防止使用者以 Office 365 Excel 活頁簿格式儲存</span></div>
+
+
+- <div><span>核取方塊無法正確呈現</span></div>
+
+
+- <div><span>無法儲存對圖表大小的變更</span></div>
+
+
+- <div><span>某些 VBA 函數會針對新的圖表類型傳回錯誤</span></div>
+
+
+- <div><span>[選取資料來源] 對話方塊上的部分欄位並未區分大小寫</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>無法儲存對圖表大小的變更</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>圖形可能會顯示在圖形框線以外</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>圖形可能會顯示在圖形框線以外</span></div>
+
+
+- <div><span>醒目提示文字可能很困難</span></div>
+
+
+- <div><span>可能已防止使用者在編輯器中瀏覽個別項目</span></div>
+
+
+- <div><span>可能不會將文法或拼寫錯誤醒目提示</span></div>
+
+
+- <div><span>無法儲存對圖表大小的變更</span></div>
+
+
+- <div><span>將格式設定套用到 @ 提及之後，可能會防止開啟連絡人卡片</span></div>
+
+
+- <div><span>已解決使用者無法儲存 Word、Excel 和 PowerPoint 文件的問題。&nbsp;此問題會影響建立新檔案並在按一下 [儲存] 圖示或按 Ctrl + S 之後帶出 [另存成模型對話方塊]&quot;&quot; 選項的使用者。</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>在 Windows 7 上使用圖形時的效能問題</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-october-18"></a>版本 1911：10 月 18 日
 *版本 1911 (組建 12209.20010)*
