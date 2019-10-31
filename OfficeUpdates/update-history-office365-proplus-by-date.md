@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 8a335b131dae72d251d409aa15c413dd58bff91c
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 6df9bb27b190aabf9b611c317e7f6814e1c18523
+ms.sourcegitcommit: 5659a229b4a2e3bf3ba2f047565ab238e3bb398f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644174"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37887095"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|1909<br/>|12026.20344<br/>|2019 年 10 月 22 日<br/>|版本 1910 已推出<br/>|
+|每月<br/>|1910<br/>|12130.20272<br/>|2019 年 10 月 30 日<br/>|版本 1911 已推出<br/>|
 |半年 (已設定目標)<br/>|1908<br/>|11929.20396<br/>|2019 年 10 月 14 日<br/>|2020 年 3 月 10 日<br/>|
 |半年<br/>|1902<br/>|11328.20438<br/>|2019 年 10 月 8 日<br/>|2020 年 9 月 8 日<br/>|
 |半年<br/>|1808<br/>|10730.20386<br/>|2019 年 10 月 8 日<br/>|2020 年 3 月 10 日<br/>|
@@ -46,6 +46,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|10 月 30 日|[版本 1910 (組建 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |
 |2019|10 月 22 日|[版本 1909 (組建 12026.20344)](monthly-channel-2019.md#version-1909-october-22)| | |
 |2019|10 月 14 日|[版本 1909 (組建 12026.20334)](monthly-channel-2019.md#version-1909-october-14)|[版本 1908 (組建 11929.20396)](semi-annual-channel-targeted-2019.md#version-1908-october-14)| |
 |2019|10 月 8 日|[版本 1909 (組建 12026.20320)](monthly-channel-2019.md#version-1909-october-8)|[版本 1908 (組建 11929.20388)](semi-annual-channel-targeted-2019.md#version-1908-october-8)|[版本 1902 (組建 11328.20438)](semi-annual-channel-2019.md#version-1902-october-8)<br/>[版本 1808 (組建 10730.20386)](semi-annual-channel-2019.md#version-1808-october-8)|
