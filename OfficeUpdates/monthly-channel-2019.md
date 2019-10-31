@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644184"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890022"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -23,6 +23,55 @@ ms.locfileid: "37644184"
  > [!NOTE]
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="version-1910-october-30"></a>版本 1910：10 月 30 日
+*版本 1910 (組建 12130.20272)*
+* 不同的錯誤 (bug) 和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+
+
+### <a name="excel"></a>Excel
+
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+### <a name="outlook"></a>Outlook
+
+- **出現錯誤後，收到升級 Outlook 的提示：** 當 Outlook 遇到更新版本中已修正的錯誤時，Outlook 會提示客戶升級並接收此修正
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+
+### <a name="word"></a>Word
+
+- **共同撰寫的增強功能**：在具有追蹤修訂的文件中共同撰寫來強化 Word 效能。
+
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+- **已修正合併 3D 物件所造成的文件損毀問題：** 已修正由合併 3D 物件所造成的文件損毀問題。
+
+- **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合貴組織的資訊保護原則。
+### <a name="office-suite"></a>Office 套件
+
+- **在現有的 Office 365 專業增強版上安裝 Microsoft Teams：** 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱隨著 Office 365 專業增強版部署 Microsoft Teams。 [深入了解](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-1909-october-22"></a>版本 1909：10 月 22 日
 *版本 1909 (組建 12026.20344)*
