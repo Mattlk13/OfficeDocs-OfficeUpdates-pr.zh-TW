@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: 1622ddf9a89767c2d0e456737362eecf4123b3fd
-ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
+ms.openlocfilehash: 65dbad6110d38fd98fb7b6df94c2a54df2f89459
+ms.sourcegitcommit: 6570d42ebb04c11b9aa40dac7825ae8da9694e10
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37275484"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37902399"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
@@ -28,6 +28,14 @@ ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產�
  **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="october-31-2019"></a>2019 年 10 月 31 日
+
+版本 16.0.12130.20272
+- 修正了允許商務用 Skype 基本版 2019 安裝 2019 永久企業版大量授權產品的問題
+- 修正了使用 Proxy 時，在某些情況下，可能會導致 ODT 下載模式意外失敗的問題
+- 新功能可讓 ODT 下載模式透過 HTTP 連接埠 80 以外的埠來下載
 
 
 ## <a name="july-10-2019"></a>2019 年 7 月 10 日
