@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
+ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733007"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37931907"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,132 @@ ms.locfileid: "37733007"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1911-november-01"></a>版本 1911：11 月 1 日
+*版本 1911 (組建 12228.20020)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字
+
+- **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字
+
+- **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
+
+### <a name="visio"></a>Visio
+
+- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
+
+- **改善共同撰寫：** 改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- <div><span>解決從不受信任的網路共用編輯受保護的檔案時，Excel 可能會當機的問題</span></div>
+
+
+- <div>解決在刪除含有的走勢圖參考另一個資料表中資料的資料表時，會導致重新開啟檔案時，將檔案識別為已損毀的問題。</div>
+
+
+- <div>解決當您將報表篩選隨著其餘的樞紐分析表一起轉換，以用於 SQL 表格式伺服器的查詢時，可能會遇到結果不正確的問題。</span></div>
+
+
+- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
+
+
+- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>轉寄的電子郵件可能會遺失內嵌的影像</div>
+
+
+- <div><span>會議室尋找工具可能會對可用的會議室顯示 [無]&quot;&quot;</span></div>
+
+
+- <div><span>使用者可能無法建立具有嚴格租用戶限制的 Outlook 設定檔</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>使用者無法將工作標示為已完成，並將它設為 99%</span></div>
+
+
+- <div>資源撫平無法解決資源過度分派問題</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
+
+
+- <div><span>開啟舊版文件，然後移至 [資訊] 索引標籤會導致當機</span></div>
+
+
+- <div><span>內容功能表中未顯示校訂建議</span></div>
+
+
+- <div><span>對註解套用不正確的內容原則</span></div>
+
+
+- <div><span>以深色文字編寫的舊版註解在深色模式中不會顯示</span></div>
+
+
+- <div><span>使用韓文/英文自動校正時，可能出現不正確的字元</span></div>
+
+
+- <div><span>在應優先套用較高的原則標籤前，可能已套用了較低的原則標籤</div></span>
+
+
+- <div><span>來自 Outlook 郵件中的 cid: 影像連結&nbsp;現在能在要求時成功中斷。</div></span>
+
+
+- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
+
+
+- <div><span>從瀏覽窗格搜尋可能會失敗</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>某些繪圖可能不會在預覽或投影片放映中顯示</span></div>
+
+
+- <div><span>在垂直文字方塊中，部分片假名字元可能無法正確顯示</span></div>
+
+
+- <div>嘗試將檔案儲存到已中斷連線的網路共用時可能會導致當機</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-october-25"></a>版本 1911：10 月 25 日
 *版本 1911 (組建 12215.20006)*
