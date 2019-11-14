@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 5900ce9c86c2d1e1cd653c538dcb1db34d6c1c4d
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993708"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282181"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -30,13 +30,21 @@ ms.locfileid: "37993708"
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="november-5-2019"></a>2019 年 11 月 5 日
+## <a name="november-12-2019"></a>2019 年 11 月 12 日
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1910 (組建 12130.20344)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1910 (組建 12130.20272) <br/> |2019 年 10 月 30 日 <br/> |61<br/> |
+|版本 1909 (組建 12026.20344) <br/> |2019 年 10 月 22 日 <br/> |156<br/> |
+
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-<i>預期的版本為版本 1902 (組建 11328.20468)</i>。
+最新的版本是版本 1902 (組建 11328.20468)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -44,9 +52,11 @@ ms.locfileid: "37993708"
 |版本 1902 (組建 11328.20420) <br/> |2019 年 9 月 10 日 <br/> |70<br/> |
 
 
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 12, 2019)
+
 ### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
 
-<i>預期的版本為版本 1908 (組建 11929.20436)。</i>
+最新的版本是版本 1908 (組建 11929.20436)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ ms.locfileid: "37993708"
 |版本 1908 (組建 11929.20388) <br/> |2019 年 10 月 8 日 <br/> |66<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 12, 2019)
+
+## <a name="november-5-2019"></a>2019 年 11 月 5 日
+
+
+
 
 ## <a name="october-30-2019"></a>2019 年 10 月 30 日
 
