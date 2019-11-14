@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453583"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289813"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -23,6 +23,57 @@ ms.locfileid: "37453583"
 > [!NOTE]
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-november-12"></a>版本 1902：11 月 12 日
+*版本 1902 (組建 11328.20468)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="excel"></a>Excel
+
+- 解決在刪除某個範圍之後，可能會導致輸入的值延遲顯示的問題。
+- 解決在目前的 Office 版本中開啟在舊版 Office 中建立的活頁簿時，可能導致 Excel 懸置的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 解決啟用快顯通知時，導致使用者注意到記憶體流失的問題。
+- 解決會導致客戶注意到 Outlook 中的記憶體流失的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 可靠性修正：修正第三方增益集可能會造成 PowerPoint 失敗的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正 Win7 上的效能問題，其中，於所有應用程式中從功能區插入圖案庫時，大約需要 4 秒鐘的時間才會顯示。
+- 修正 [開始功能表] 快速鍵和 Office 副檔名會在更新之後意外消失的問題。
+- 為了保護 Office 客戶的安全性，我們現在專門使用 SHA-2 演算法來簽署 Microsoft Office 更新。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1808-november-12"></a>版本 1808：11 月 12 日
+*版本 1808 (組建 10730.20416)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="outlook"></a>Outlook
+
+- 解決會導致將 [要離線保留的郵件] 設定為 [全部] 以外的使用者，在將同步處理視窗外部的項目從本機存放區移至 Exchange Online 信箱時，會看到資料遺失的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 為了保護 Office 客戶的安全性，我們現在專門使用 SHA-2 演算法來簽署 Microsoft Office 更新。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 

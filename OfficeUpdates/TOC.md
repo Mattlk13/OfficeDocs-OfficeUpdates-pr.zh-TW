@@ -29,6 +29,7 @@
 ### [更新歷程記錄的測試人員通道](update-history-office-insider.md)
 ### [更新歷程記錄的每月通道 (已設定目標)](update-history-monthly-channel-targeted.md)
 ###[版本資訊的測試人員通道](release-notes-office-insider.md)
+### [每月通道版本資訊 (已設定目標)](release-notes-monthly-channel-targeted.md)
 
 ## [ODT 版本歷程記錄](ODT-release-history.md)
 

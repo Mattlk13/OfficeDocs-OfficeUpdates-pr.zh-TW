@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890032"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289833"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -23,6 +23,57 @@ ms.locfileid: "37890032"
 > [!NOTE]
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 從版本 1902 開始，Microsoft Teams 會包含在半年通道 (已設定目標) 的全新安裝中。 將 Teams 更新至版本 1908 或更新版本時，即會將 Teams 新增至半年通道 (已設定目標) 的現有安裝中。 如需詳細資訊，請參閱[使用 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+
+## <a name="version-1908-november-12"></a>版本 1908：11 月 12 日
+*版本 1908 (組建 11929.20436)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="excel"></a>Excel
+
+- 修正以校正使用圖表範本插入圖表時，預覽中使用的色彩。
+- 我們已修正當變更系列集合時，可能會導致散佈折線圖無法正確呈現的問題。
+- 解決使用執行中巨集變更自訂屬性時，會導致共同撰寫中斷的問題。
+- 我們解決了非同步使用者定義函數造成的效能問題，導致它們同步執行。
+- 我們已大幅提升依色彩篩選的效能。
+- 解決在目前的 Office 版本中開啟在舊版 Office 中建立的活頁簿時，可能導致 Excel 懸置的問題。
+- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
+
+### <a name="outlook"></a>Outlook
+
+- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
+- 解決當使用者將項目從其主要行事曆複製到群組行事曆時，造成使用者遇到權限錯誤的問題。
+- 解決會導致非常長時間的 Outlook 工作階段記憶體流失的問題。
+- 解決會導致使用者在與特定安全連結互動時在 Outlook 中遇到失敗的問題。
+- 解決會導致使用者在處理某些自動探索回應時遇到失敗的問題。
+- 解決導致某些使用者在新增次要 Exchange 帳戶時看到建立了重複的特殊資料夾的問題。
+- 解決會導致在搜尋意見反應體驗中懸置的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。</div>
+- 可靠性修正：修正第三方增益集可能會造成 PowerPoint 失敗的問題。
+
+### <a name="project"></a>Project
+
+- 修正 [全部撫平] 命令無法正確解決資源過度分配的問題。
+- 修正當您有作業中有零個工作的指派時，可能無法將作業標示為完成且永遠會顯示為 99% 的問題。
+- 發現在開啟唯讀專案時，使用者可能會收到數個訊息的問題。
+
+### <a name="word"></a>Word
+
+- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
+- 修正應用程式可能在關機時懸置的各種問題。 同時修正特定增益集相關失敗的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解決第三方外掛程式中與文字方塊/圖案自動調整屬性相關的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="october-15"></a>10 月 15 日
 

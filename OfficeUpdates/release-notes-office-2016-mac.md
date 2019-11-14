@@ -3,19 +3,19 @@ title: Mac 版 Office 2016 更新歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 從 2018 年 9 月開始為 IT 專業人員提供 Mac 版 Office 2016 的版本資訊
-ms.openlocfilehash: b06f8305d9de9a7617f5833dff2afa1c2e8e9199
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 52c3c6244c2cd1d8ae3c002a874d71205cb79333
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523089"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289681"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac 版 Office 2016 更新歷程記錄
 
@@ -34,18 +34,34 @@ Mac 版 Office 2016 的更新可從 Microsoft AutoUpdate (MAU) 取得。若要�
 
 下表列出 Mac 版 Office 2016 和個別應用程式 (例如，Word 和 Excel) 的最新套件。所有套件都只提供 64 位元版本。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。如果您尚未安裝應用程式則會使用安裝套件，至於更新套件，則是用來更新現有安裝的。
 
-### <a name="october-15-2019"></a>2019 年 10 月 15 日
-版本 16.16.15 (19101400)
+### <a name="november-12-2019"></a>2019 年 11 月 12 日
+版本 16.16.16 (19111100)
 
-|**Application**|**下載連結**|**安裝套件的 SHA256 雜湊**|
+|**應用程式**|**下載連結**|**安裝套件的 SHA256 雜湊**|
 |:-----|:-----|:-----|:-----|
-|Office 套件 (所有應用程式)  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | 06A7B75DB163E235C22DF586F637C145474FE967F9CBF6B647654E203550B5AD <br/> |
-|Word  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19101400_Updater.pkg) <br/> | 14B9B177D3F0DB8213BDF0AFA8C7D3C15C69A09E2007F58DD27E11EACC9A456A <br/>|
-|Excel  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19101400_Updater.pkg) <br/> | FBA69C4A8E10679A8CA3BDF26A1CE6B468D834F22D1E4BFCB88F9181C6B03402 <br/>  |
-|PowerPoint  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19101400_Updater.pkg) <br/> | CA2D54376367C36B525696B3D9E46ACB5EFD46E9C36E1DCDFE74CC03CA4BB08D <br/> |
-|Outlook  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19101400_Updater.pkg) <br/> |  27F1DB52BF91D79E2D07B0DB502967293C437E225E0FD5B697BE0F597B1426C6 <br/> |
-|OneNote  <br/> |[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19101400_Updater.pkg) <br/> | 不適用 <br/> |
+|Office 套件 (所有應用程式)  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | E412F8E82EC7E5CA3650CCF7A98956C93553928EE3CE4B0ECB7760F527834B66 <br/> |
+|Word  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19111100_Updater.pkg) <br/> | 70007A789AA03F31E443DD660F5957B429D33592A356F35F18121B00C640C185 <br/>|
+|Excel  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19111100_Updater.pkg) <br/> | D9A138F87D59179937FE398D9D9556A01AACFA63F6E2FBC1FCDE064ADC667A72 <br/>  |
+|PowerPoint  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19111100_Updater.pkg) <br/> | 90C7F39685FAA8E6CAAD7C2AACEB651FCDADA044148724C67E4E5FB36344D0D5 <br/> |
+|Outlook  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19111100_Updater.pkg) <br/> |  0D849BDDE5DD7A41A4CEAB7D16153CF1E7FB6855D21E58DFD83BA82749BC1384 <br/> |
+|OneNote  <br/> |[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19111100_Updater.pkg) <br/> | 不適用 <br/> |
 
+## <a name="november-2019-release"></a>2019 年 11 月發行
+
+ **發行日期：** 2019 年 11 月 12 日 
+  
+ *版本 16.16.16 (組建 19111100)* 
+  
+此版本提供下列更新。
+  
+|**應用程式**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Word  <br/> | |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19111100_Updater.pkg) <br/>|
+|Excel  <br/> | [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1446)<br/>[CVE-2019-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1448)<br/>[CVE-2019-1457](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1457) |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.19111100_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.19111100_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.19111100_Updater.pkg) <br/>|
+|OneNote <br/> ||[OneNote 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.19111100_Updater.pkg)|
+|Office 套件  <br/> | <br/>||
 ## <a name="october-2019-release"></a>2019 年 10 月發行
 
  **發行日期：** 2019 年 10 月 15 日 

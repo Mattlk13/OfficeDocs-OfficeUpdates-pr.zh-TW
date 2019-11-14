@@ -3,19 +3,19 @@ title: Mac 版 Office 的版本資訊
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: e9e6dc1442a2b7b50f968b09a059e35f42bf0a33
-ms.sourcegitcommit: bd2285bb5931e247232bb31c47f7fcc8147360d4
+ms.openlocfilehash: 952eef49a27824b361b0defba618e4f64d877ef6
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37564754"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289701"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,6 +34,33 @@ ms.locfileid: "37564754"
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
+
+## <a name="november-12-2019-release"></a>2019 年 11 月 12 日發行
+*版本 16.31 (組建 19111002)*
+
+### <a name="word-feature-updates"></a>Word：功能更新
+
+- 修正各種效能問題。
+### <a name="excel--feature-updates"></a>Excel：功能更新
+
+- 修正各種效能問題。
+
+
+
+ ### <a name="excel-security-updates"></a>Excel：安全性更新
+
+- [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1446)：Microsoft Excel 資訊洩漏弱點
+- [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1448)：Microsoft Excel 遠端程式碼執行弱點
+- [CVE-2019-1457](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1457)：Microsoft Office Excel 安全性功能略過
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
+
+- 修正各種效能問題。
+
+
+### <a name="outlook-feature-updates"></a>Outlook：功能更新
+
+- 修正各種效能問題。<br/><br/>
 
 ## <a name="october-15-2019-release"></a>2019 年 10 月 15 日發行
 *版本 16.30 (組建 19101301)*
