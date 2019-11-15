@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289833"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312133"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -256,8 +256,6 @@ ms.locfileid: "38289833"
 ### <a name="office-suite"></a>Office 套件
 
 - **安裝 Microsoft Teams：** 我們已將 Teams 新增至 Office 365 專業增強版的現有安裝。 [深入了解](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)
-
-- **利用 [資訊位置] 中新公開的按鈕共用及上傳文件：**[共用]、[將路徑複製到剪貼簿] 及 [開啟檔案位置] 按鈕先前只能在文件儲存路徑後面存取。您現在可以在 [資訊位置] 中清楚地看到這些按鈕！瀏覽至 [檔案] > [資訊] 時通常會看到這些新按鈕。
 
 - **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
 
