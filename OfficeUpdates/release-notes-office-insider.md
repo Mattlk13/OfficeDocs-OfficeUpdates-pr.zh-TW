@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
-ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
+ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076417"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669832"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,79 @@ ms.locfileid: "38076417"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1912-november-15"></a>版本 1912：11 月 15 日
+*版本1912 (組建 12307.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="insights-services"></a>深入解析服務
+
+- **Excel 構想中的自然語言查詢：** Excel 構想的新功能，詢問關於您資料的自然語言問題
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- <div><span>某些當地語系化版本的 [文字到欄] 功能可能會失敗</span></div>
+
+
+- <h5>編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。<br></h5>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>新增透過群組原則強制執行 S/MIME 設定的功能</div>
+
+
+- <div><span>內嵌影像可能會比預期小</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>當您將焦點移出文字後，游標可能會消失</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>使用者可能會遇到授權錯誤</span></div>
+
+
+- <div><span>日期選擇器中的 [今日] 按鈕有時候可能會設定不正確的日期</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>以滑鼠右鍵按一下有時不會選取整個字詞</span></div>
+
+
+- <div>轉換成建議格式之後，游標在物件內可能仍處於使用中狀態</div>
+
+
+- <div>訊息中的影像在某些情況下可能會不正確的縮放</div>
+
+
+- <div>某些主題可能會導致難以判斷所選取的註解</div>
+
+
+- <div><span>選取註解提示之後，在窗格切換器中隱藏時，現在會顯示新式註解窗格</span></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>回覆註解可能會導致文字方塊垂直延伸到窗格的邊緣以外</span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-november-08"></a>版本 1912：11 月 8 日
 *版本 1912 (組建 12231.20000)*

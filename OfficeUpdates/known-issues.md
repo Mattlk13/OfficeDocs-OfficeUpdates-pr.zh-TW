@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
+ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282161"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640822"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 專業增強版的已知問題
 
@@ -32,6 +32,22 @@ ms.locfileid: "38282161"
 ### <a name="last-updated-november-12-2019"></a>上次更新：2019 年 11 月 12 日
 
 ### <a name="excel"></a>Excel
+
+- 使用自動調整來調整列高時，核取方塊控制項可能收縮。<br><br>**調查中**：每月、SACT
+
+- 非同步使用者定義函數造成的效能問題，導致它們同步執行。<br><br>**已解決**：SACT 版本 1908 (11929.20436) 
+
+- 可能已防止使用者以 Office 365 Excel 活頁簿格式儲存<br><br>**已解決**：SACT 版本 1908 (11929.20436)
+
+
+- 當檔案具備大量設定格式化的條件時，按一下 [字型色彩] 按鈕時會出現的效能問題。<br><br>**已解決**：SACT 版本 1908 (11929.20436)
+
+- 已大幅改善刪除有合併儲存格之欄的效能。<br><br>**調查中**：SACT<br>**已解決**：每月版本 1910 (12130.20272)
+
+- 當您將報表篩選隨著其餘的樞紐分析表一起轉換，以用於 SQL 表格式伺服器的查詢時，會遇到結果不正確。<br><br>**調查中**：每月
+
+- 修正以校正使用圖表範本插入圖表時，預覽中使用的色彩<br><br>**已解決**：每月版本 1910 (12130.20272)、SACT 版本 1908 (11929.20436)
+
 
 - 發現從 OneDrive 以物件形式插入檔案的問題。<br><br> **已解決**：每月版本 1910 (12130.20272)
 
@@ -71,6 +87,9 @@ ms.locfileid: "38282161"
 
 ### <a name="powerpoint"></a>PowerPoint
 
+- 在垂直文字方塊中，部分片假名字元可能無法正確顯示。<br><br>
+**調查中**：每月
+
 - 發現在貼上具有超連結的文字時，無法建立超連結的問題。 <br><br>**已解決**：每月版本 1910 (12130.20272)
 
 - 發現將文字貼到投影片母片和投影片版面配置的頁首/頁尾/投影片編號預留位置之後，可能導致 TextRanges 中斷的問題。 <br><br>**已解決**：每月版本 1910 (12130.20272)
@@ -80,11 +99,26 @@ ms.locfileid: "38282161"
 
 ### <a name="project"></a>Project
 
+- 當您有作業中有零個工作的指派時，可能無法將作業標示為完成且永遠會顯示為 99%。<br><br>
+**調查中**：每月<br>
+**已解決**：SACT 版本 1908 (11929.20436)
+
+- 資源撫平無法解決資源過度分派問題<br><br>
+**調查中**：每月
+
 - 發現在開啟唯讀專案時，使用者可能會收到數個訊息的問題。<br><br>
 **已解決**：每月版本 1910 (12130.20344)、SACT 版本 1908 (11929.20436)
 
 ### <a name="word"></a>Word
+
+- 從瀏覽窗格搜尋可能會失敗<br><br>
+**調查中**：每月
+
 - 發現從 OneDrive 以物件形式插入檔案的問題。<br><br> **已解決**：每月版本 1910 (12130.20272)
+
+### <a name="office-suite"></a>Office 套件
+- 嘗試將檔案儲存到已中斷連線的網路共用時可能會導致問題
+**調查中**：每月
 
 
 
