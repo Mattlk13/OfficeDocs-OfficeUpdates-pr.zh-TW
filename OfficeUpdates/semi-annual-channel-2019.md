@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289813"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402439"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -304,7 +304,7 @@ ms.locfileid: "38289813"
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
 - 已解決在「群組依據」中新增第二個條件後，客戶的工作似乎會消失的問題。
-- 解決了造成客戶無法編輯所移轉項目上某些欄位的問題。 
+- 解決了造成客戶無法編輯所移轉項目上某些欄位的問題。
 - 已修正當系統工作列停留在螢幕左側或頂部時，視窗無法顯示在正確位置的問題。
 - 解決了在連絡人卡片上載入圖片時導致客戶遇到當機的問題。
 - 解決了導致某些客戶在啟動 Office 應用程式時遇到當機的問題。
