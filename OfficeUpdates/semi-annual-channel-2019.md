@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402439"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669822"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -48,6 +48,10 @@ ms.locfileid: "38402439"
 ### <a name="powerpoint"></a>PowerPoint
 
 - 可靠性修正：修正第三方增益集可能會造成 PowerPoint 失敗的問題。
+
+### <a name="word"></a>Word
+
+- 我們已修正在嘗試完成部分特殊字元時，字型變更為 MS Mincho 的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
