@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669832"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704492"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -54,7 +54,7 @@ ms.locfileid: "38669832"
 - <div><span>某些當地語系化版本的 [文字到欄] 功能可能會失敗</span></div>
 
 
-- <h5>編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。<br></h5>
+- <div>編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。</div>
 
 
 ### <a name="outlook"></a>Outlook
