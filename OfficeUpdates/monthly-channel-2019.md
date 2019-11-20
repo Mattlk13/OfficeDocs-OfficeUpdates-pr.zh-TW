@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 870e6c6035cc5071dcaa7fe6f8e55e9e0f266b4b
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
+ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289611"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724051"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -22,12 +22,29 @@ ms.locfileid: "38289611"
  
  > [!NOTE]
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
->- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+>- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+
+## <a name="version-1910-november-18"></a>版本 1910：11 月 18 日
+*版本 1910 (組建 12130.20390)*
+* 各種錯誤和效能修正。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決會導致使用者在會議中看到位置欄位意外變更的問題。
+
+- 解決會導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定]&quot;&quot; 按鈕的空白訊息方塊的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 1 2日
 *版本 1910 (組建 12130.20344)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -89,7 +106,7 @@ ms.locfileid: "38289611"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **在現有的 Office 365 專業增強版上安裝 Microsoft Teams：** 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱隨著 Office 365 專業增強版部署 Microsoft Teams。 [深入了解](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)
+- **在現有的 Office 365 專業增強版上安裝 Microsoft Teams：** 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱隨著 Office 365 專業增強版部署 Microsoft Teams。 [深入了解](https://docs.microsoft.com/DeployOffice/teams-install)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -132,7 +149,7 @@ ms.locfileid: "38289611"
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
 *版本 1909 (組建 12026.20320)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -244,7 +261,7 @@ ms.locfileid: "38289611"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908 (組建 11929.20300)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -310,16 +327,18 @@ ms.locfileid: "38289611"
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907 (組建 11901.20218)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 
- - 修正在與其他使用者共同撰寫的工作階段中變更樞紐分析表排序的方式，然後重新整理可能觸發的問題。
+- 修正在與其他使用者共同撰寫的工作階段中變更樞紐分析表排序的方式，然後重新整理可能觸發的問題。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
-  - 修正使用者將信箱從基本驗證升級為新式驗證後造成錯誤的帳戶與 Outlook 設定檔相關聯的問題。
+
+- 修正使用者將信箱從基本驗證升級為新式驗證後造成錯誤的帳戶與 Outlook 設定檔相關聯的問題。
 
 ## <a name="version-1907-july-29"></a>版本 1907：7 月 29 日
+
 *版本 1907 (組建 11901.20176)*
 * 各種錯誤和效能修正。
 
@@ -362,7 +381,7 @@ ms.locfileid: "38289611"
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906 (組建 11727.20244)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
@@ -428,7 +447,7 @@ ms.locfileid: "38289611"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905 (組建 11629.20246)*
-<br/>安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+<br/>安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 
@@ -518,7 +537,7 @@ ms.locfileid: "38289611"
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904 (組建 11601.20204)*
 
- - 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+- 安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
 *版本 1904 (組建 11601.20178)*
@@ -583,7 +602,7 @@ ms.locfileid: "38289611"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903 (組建 11425.20204)* 
 
-- 安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+- 安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 - 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
@@ -668,7 +687,7 @@ ms.locfileid: "38289611"
  
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 
-- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的新安裝中，預設會安裝 Microsoft Teams。[深入了解](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 *版本 1901 (組建 11231.20174)* 
