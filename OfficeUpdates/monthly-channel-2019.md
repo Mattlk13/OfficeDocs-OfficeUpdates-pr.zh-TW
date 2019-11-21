@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724051"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753790"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -26,18 +26,20 @@ ms.locfileid: "38724051"
 
 ## <a name="version-1910-november-18"></a>版本 1910：11 月 18 日
 *版本 1910 (組建 12130.20390)*
-* 各種錯誤和效能修正。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
+
+### <a name="access"></a>Access
+
+- 已修正執行更新查詢會不正確顯示「查詢損毀」錯誤訊息的問題。
+
 ### <a name="outlook"></a>Outlook
 
 - 解決會導致使用者在會議中看到位置欄位意外變更的問題。
 
 - 解決會導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定]&quot;&quot; 按鈕的空白訊息方塊的問題。
-
-
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -68,7 +70,6 @@ ms.locfileid: "38724051"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
-
 
 ### <a name="excel"></a>Excel
 
