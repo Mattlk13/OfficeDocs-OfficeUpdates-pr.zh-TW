@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
-ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.openlocfilehash: dafc1001d61da1691fe60c7141045f74a8e24156
+ms.sourcegitcommit: d923a1840b7e9e9541568a3fcd9ffb439fb3cca6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38753790"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "38793841"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -35,12 +35,6 @@ ms.locfileid: "38753790"
 
 - 已修正執行更新查詢會不正確顯示「查詢損毀」錯誤訊息的問題。
 
-### <a name="outlook"></a>Outlook
-
-- 解決會導致使用者在會議中看到位置欄位意外變更的問題。
-
-- 解決會導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定]&quot;&quot; 按鈕的空白訊息方塊的問題。
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 1 2日
@@ -58,14 +52,15 @@ ms.locfileid: "38753790"
 
 - 解決會導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定]&quot;&quot; 按鈕的空白訊息方塊的問題。
 
-
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1910-october-30"></a>版本 1910：10 月 30 日
 *版本 1910 (組建 12130.20272)*
-* 不同的錯誤 (bug) 和效能修正。
 
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決會導致在搜尋意見反應體驗中懸置的問題。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
