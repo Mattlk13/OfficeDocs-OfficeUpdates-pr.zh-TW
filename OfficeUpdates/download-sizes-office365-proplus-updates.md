@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 89181a939ed22a51a1958ecf395f3662361f1a03
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
+ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704432"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39208976"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -29,6 +29,42 @@ ms.locfileid: "38704432"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="november-22-2019"></a>2019 年 11 月 22 日
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1910 (組建 12130.20410)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1910 (組建 12130.20390) <br/> |2019 年 11 月 18 日 <br/> |50<br/> |
+|版本 1910 (組建 12130.20344) <br/> |2019 年 11 月 12 日 <br/> |58<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 22, 2019)
+
+### <a name="semi-annual-channel"></a>半年通道
+
+最新的版本是版本 1902 (組建 11328.20480)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1902 (組建 11328.20468) <br/> |2019 年 11 月 12 日 <br/> |61<br/> |
+|版本 1902 (組建 11328.20438) <br/> |2019 年 10 月 8 日 <br/> |69<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
+
+最新的版本是版本 1908 (組建 11929.20494)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1908 (組建 11929.20436) <br/> |2019 年 11 月 12 日 <br/> |57<br/> |
+|版本 1908 (組建 11929.20396) <br/> |2019 年 10 月 14 日 <br/> |65<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 22, 2019)
 
 ## <a name="november-18-2019"></a>2019 年 11 月 18 日
 
