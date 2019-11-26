@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204322"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254362"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -35,7 +35,7 @@ ms.locfileid: "39204322"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 此更新可修正 Microsoft Access 中的「更新查詢」執行時或在 SQL 中使用 UPDATE 陳述式時，可能導致發生錯誤「查詢已損壞」&quot;&quot;的問題。
+- 已修正執行更新查詢會不正確顯示「查詢損毀」錯誤訊息的問題。
 
 ### <a name="outlook"></a>Outlook
 
@@ -52,7 +52,9 @@ ms.locfileid: "39204322"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-- 各種錯誤和效能修正。
+### <a name="access"></a>Access
+
+- 已修正執行更新查詢會不正確顯示「查詢損毀」錯誤訊息的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
