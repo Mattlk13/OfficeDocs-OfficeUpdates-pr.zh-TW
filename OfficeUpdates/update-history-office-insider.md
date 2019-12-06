@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: b688ed09e0b704a3c8bda37a95341338a346d1d7
-ms.sourcegitcommit: eb8e5c5006c44c15eed4e5442e42b6373ad6a4af
+ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39837211"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857861"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -28,7 +28,7 @@ ms.locfileid: "39837211"
 
 如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近測試人員版本和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。
 
-若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/zh-TW/OfficeUpdates/release-notes-office-insider)。
+若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (DO NOT REMOVE)
 

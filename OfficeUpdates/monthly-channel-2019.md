@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: d412d9cdd90b3a4a647404e30119ae3f8f231554
-ms.sourcegitcommit: fa15539afddaa27c28846d3968381a67788b4588
+ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
+ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2019
-ms.locfileid: "39818773"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39857841"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -76,8 +76,6 @@ ms.locfileid: "39818773"
 - 解決 Office 更新可能會非預期地從 Office CDN 而不是預期使用的來源 (例如本機或網路共用或 Configuration Manager 提供的位置) 下載檔案的問題。
 
 - 修正 ODT 和 GPO 更新期限設定中的問題，在其中，相對期限只有在第一次設定時才會有效，此修正可啟用後續更新的相關期限。
-
-- 解決 Office 更新可能會非預期地從 Office CDN 而不是預期使用的來源 (例如本機或網路共用或 Configuration Manager 提供的位置) 下載檔案的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
