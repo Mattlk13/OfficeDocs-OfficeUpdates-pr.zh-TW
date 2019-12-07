@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: a9debfb0a7ce3b844627c528288fb408dcd563e3
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204342"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890447"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -31,11 +31,20 @@ ms.locfileid: "39204342"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
+
+### <a name="access"></a>Access
+
+- 已修正執行更新查詢會不正確顯示「查詢損毀」錯誤訊息的問題。
+
 ### <a name="excel"></a>Excel
 
 - 當檔案具備大量設定格式化的條件時，按一下 [字型色彩] 按鈕時出現的效能緩慢問題。
 
 - 我們已修正預覽列印中的列印範圍不正確的問題。
+
+- 從不受信任的網路共用編輯受保護的檔案時，Excel 可能會發生問題。
+
+- 解決在未開啟活頁簿時，搜尋最近使用的檔案會造成當機的問題。
 
 ### <a name="outlook"></a>Outlook
 
@@ -46,6 +55,8 @@ ms.locfileid: "39204342"
 - 解決會導致使用者看到針對新式群組的搜尋失敗的問題。
 
 - 解決會導致使用者嘗試從「未接的交談」&quot;&quot;建立規則時遇到當機的問題。
+
+- 解決會導致使用者看到針對新式群組的搜尋失敗的問題。
 
 ### <a name="word"></a>Word
 
