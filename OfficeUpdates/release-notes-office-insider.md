@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704492"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890457"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -29,6 +29,103 @@ ms.locfileid: "38704492"
 
 [//]: # (DO NOT REMOVE)
 
+
+## <a name="version-1912-december-06"></a>版本 1912：12 月 06 日
+*版本 1912 (組建 12325.20012)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **進階群組電子郵件設定：** 此功能可協助使用者自訂要在收件匣中接收/追蹤哪些電子郵件或活動。
+
+- **群組命名原則：** 群組命名原則可讓 IT 系統管理員將組織中使用者所建立群組的名稱標準化及管理。 系統管理員可以要求在建立群組時，將特定首碼和尾碼新增至群組的名稱，而且可以封鎖使用特定字詞。 這有助於將群組名稱中使用不當字詞的情況最小化，以及 IT 管理其目錄中群組的表示方式。 命名原則也可協助部署小組網站的組織根據部門來分類。
+
+### <a name="office-suite"></a>Office 套件
+
+- **索引標籤式窗格：** 現在您可以使用應用程式右側的索引標籤 UI，在多個窗格之間切換。 只有當您開啟 2 個以上的窗格時，該 UI 才會顯示。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
+
+- 使用者在存取隱藏的命名範圍時可能會發生錯誤。
+
+- 停用使用 4K 解析度的硬體圖形加速的情況下，可能會在捲動時發生延遲儲存格呈現的問題。
+
+- 清除與儲存格界限重疊的長型公式，可能仍舊會跨儲存格界限顯示出來。
+
+- 解決了開啟內嵌活頁簿時，功能區自訂無法載入的問題。
+
+- 邊界下拉式功能表可能無法正確呈現。
+
+### <a name="onenote"></a>OneNote
+
+- OneNote 可能無法透過「會議記事」Outlook 增益集開啟。
+
+### <a name="outlook"></a>Outlook
+
+- 保留原則標籤可能會將保留時間顯示於括弧中。
+
+- 空格可能會顯示於日文語言套件的連絡人卡片中。
+
+- 內嵌插入至 Outlook 電子郵件訊息中的影像有時候會改變大小。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 如果使用者雲端檔案的投影片上有兩個 (或多個) 不同的影片，影片影像可正確呈現，但是當使用者按一下每一個檔案來播放時，影片內容會是相同的。
+
+- 在某些情況下，使用觸控裝置進行捲動將無法運作。
+
+- 邊界下拉式功能表可能無法正確呈現。
+
+- Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
+
+### <a name="project"></a>Project
+
+- 當您使用 [比較專案] 功能時，Project 可能會當機。
+
+- 如果您在 [深色] 模式中，當您移至含有過度分配資源之工作上的工作檢查面板時，將無法讀取資料表。
+
+- 將沒有作業的任務進行進位設定為 1 天。
+
+### <a name="word"></a>Word
+
+- 在特定條件下，完成合併列印之後儲存的檔案可能無法使用。
+
+- 建置組塊召集人可能會顯示不正確通知：&quot;您已修改過樣式、建置組塊&quot;。
+
+- 使用複製/貼上時，有時會重新載入註解窗格。
+
+- 註解有時不會以正確的順序貼上。
+
+- 將含有自訂樣式的多層級清單範本套用至現有的文件時，可能在特定條件下不會保留該樣式。
+
+- 調整分割螢幕邊界的大小可能會造成其他的分割螢幕。
+
+- 邊界下拉式功能表可能無法正確呈現
+
+- @提及註解卡中的使用者可能會顯示 JSON。
+
+- Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
+
+### <a name="office-suite"></a>Office 套件
+
+- 針對日文產品，帳戶使用者的姓名可能會以錯誤的順序出現。
+
+- 將滑鼠指標暫留於註解上方時，可能會在註解周圍顯示文字方塊外框的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-november-15"></a>版本 1912：11 月 15 日
 *版本1912 (組建 12307.20000)*
