@@ -3,19 +3,19 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289651"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961798"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -30,6 +30,25 @@ ms.locfileid: "38289651"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="december-2019-release"></a>2019 年 12 月版本
+
+**發行日期：** 2019 年 12 月 10 日
+
+*Microsoft Auto Update 4.18*
+
+ **功能更新：**
+
+- 每個應用程式的頻道：Mac 系統管理員現在可以訂閱不同頻道或每個應用程式的驗證頻道。 
+
+
+**MAU 更新連結：**
+
+[下載 Microsoft Auto Update 4.18 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
 
 ## <a name="november-2019-release"></a>2019 年 11 月發行
 

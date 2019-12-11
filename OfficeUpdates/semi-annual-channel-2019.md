@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
-ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
+ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2019
-ms.locfileid: "39254362"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961980"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -26,9 +26,47 @@ ms.locfileid: "39254362"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-december-10"></a>版本 1902：12 月 10 日
+*版本 1902 (組建 11328.20492)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 這項變更透過利用軟體轉譯避免特定 Intel 圖形驅動程式發生問題。
+
+### <a name="outlook"></a>Outlook
+
+- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](https://docs.microsoft.com/zh-TW/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+- 解決會導致客戶嘗試從「未接的交談」&quot;&quot;郵件建立規則時遇到當機的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正列印備忘稿 (部分案例有版面配置問題) 相關的問題。
+
+## <a name="version-1808-december-10"></a>版本 1808：12 月 10 日
+*版本 1808 (組建 10730.20426)*
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](https://docs.microsoft.com/zh-TW/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-1902-november-22"></a>版本 1902：11 月 22 日
 *版本 1902 (組建 11328.20480)*
-
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 

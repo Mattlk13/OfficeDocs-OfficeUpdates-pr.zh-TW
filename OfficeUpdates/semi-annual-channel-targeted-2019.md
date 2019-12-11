@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890447"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961970"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -23,6 +23,58 @@ ms.locfileid: "39890447"
 > [!NOTE]
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 從版本 1902 開始，Microsoft Teams 會包含在半年通道 (已設定目標) 的全新安裝中。 將 Teams 更新至版本 1908 或更新版本時，即會將 Teams 新增至半年通道 (已設定目標) 的現有安裝中。 如需詳細資訊，請參閱[使用 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+
+## <a name="version-1908-december-10"></a>版本 1908：12 月 10 日
+*版本 1908 (組建 11929.20516)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正包含參照遠端桌面 (例如 SQL Server 桌面) 的聯集查詢可能造成 Access 關閉並重新啟動的問題。
+
+- 已修正彙總 (例如 Sum) 可能會將結果截斷成整數值的問題。
+
+### <a name="excel"></a>Excel
+
+- 已解決捲動後選取儲存格時，可能導致選取錯誤儲存格的問題。
+
+- 我們已修正當 OLAP 樞紐分析表的篩選條件設定為已從 cube 移除的值時會發生的問題。
+
+- 這項變更透過利用軟體轉譯避免特定 Intel 圖形驅動程式發生問題。
+
+- 已解決 Lookup 函數可能會傳回錯誤的問題。
+
+- 已大幅改善刪除有合併儲存格之欄的效能。
+
+- 已解決造成執行階段錯誤啟動最小化視窗的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 已修正 SMIME 演算法選取的問題。
+
+- 解決會導致使用者在開啟 [規則] 對話方塊時看到「在這部電腦中建立的規則和 Microsoft Exchange 上的規則衝突」提示的問題。
+
+- 已解決造成網頁增益集在不該存取數位版權管理郵件時進行存取的問題。
+
+### <a name="word"></a>Word
+
+- 我們已修正追蹤修訂有時候會進入無限迴圈的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正 PowerPoint 中半形片假名字元在垂直文字方塊中無法正確旋轉的問題。
+
+- 解決 Office 更新可能會非預期地從 Office CDN 而不是預期使用的來源 (例如本機或網路共用或 Configuration Manager 提供的位置) 下載檔案的問題。
+
+- 為了保護 Office 客戶的安全性，我們現在專門使用 SHA-2 演算法來簽署 Microsoft Office 更新。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-november-22"></a>版本 1908：11 月 22 日
 *版本 1908 (組建 11929.20494)*

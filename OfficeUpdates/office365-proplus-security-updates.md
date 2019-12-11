@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: 76e51f729663364d3c1ff68ba0c9a4c1ad5bd20c
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289661"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961778"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
 
@@ -25,6 +25,29 @@ ms.locfileid: "38289661"
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。  
 
 [//]: # (無法移除以上這行，它用來做為間距)  
+
+## <a name="december-10-2019"></a>2019 年 12 月 10 日
+每月通道：版本 1911 (組建 12228.20364)  
+半年通道 (已設定目標)：版本 1908 (組建 11929.20516)  
+半年通道：版本 1902 (組建 11328.20492)  
+半年通道：版本 1808 (組建 10730.20426)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1464)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1462)
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1461)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2019-1400](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1400)
+-   [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1463)
 
 ## <a name="november-12-2019"></a>2019 年 11 月 12 日
 每月通道：版本 1910 (組建 12130.20344)  
