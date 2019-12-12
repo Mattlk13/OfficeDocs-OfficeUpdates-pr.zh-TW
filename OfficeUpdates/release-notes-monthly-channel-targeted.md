@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
-ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
+ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39668043"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961738"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -30,6 +30,52 @@ ms.locfileid: "39668043"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
+## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
+*版本 1911 (組建 12228.20364)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a>Outlook
+
+- **群組命名原則：** 群組命名原則可讓 IT 系統管理員將組織中使用者所建立群組的名稱標準化及管理。 系統管理員可以要求在建立群組時，將特定首碼和尾碼新增至群組的名稱，而且可以封鎖使用特定字詞。 這有助於將群組名稱中使用不當字詞的情況最小化，以及 IT 管理其目錄中群組的表示方式。 命名原則也可協助部署小組網站的組織根據部門來分類。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **筆跡立即重播：** 當您在投影片上進行手寫時，套用重播動畫可在投影片放映期間重播真實手繪的筆跡。 [深入了解](https://support.office.com/zh-TW/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。
+
+### <a name="word"></a>Word
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
+
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 這項變更透過利用軟體轉譯避免特定 Intel 圖形驅動程式發生問題。
+
+- 我們修正了樞紐分析圖的右鍵功能表，以啟用 [顯示詳細資料] 選項。
+
+### <a name="outlook"></a>Outlook
+
+- 解決造成網頁增益集存取數位版權管理郵件的問題。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-1911-november-20"></a>版本 1911：11 月 20 日
 *版本 1911 (組建 12228.20250)*
@@ -78,7 +124,6 @@ ms.locfileid: "39668043"
 ### <a name="office-suite"></a>Office 套件
 
 - **上傳中心將由需要注意的檔案體驗取代：**「上傳中心」將由會顯示在 Office 應用程式的 [檔案] > [開啟] 下的「需要注意的檔案」體驗取代。 相較於上傳中心，此新體驗更為現代化、整合且更不具侵入性。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
