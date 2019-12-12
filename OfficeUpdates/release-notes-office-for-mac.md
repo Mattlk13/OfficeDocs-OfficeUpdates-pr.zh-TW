@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: d8e5e009a3a51bdeb4c013daf7494307fc81abfd
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
+ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962280"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39982263"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -25,14 +25,12 @@ ms.locfileid: "39962280"
 
   
 > [!NOTE]
-> - 如需 Mac 版 Office 的完整版本清單、更新套件和其他下載連結，請參閱 [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)。 
 > - 如果您是 Office 測試人員，請參閱[測試人員快速組建的版本資訊](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
 > - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Office 365 訂閱時才可供使用。
-> - 16.16 版及較舊版本的版本資訊也適用於 Mac 版 Office 2016，後者也是 Mac 版 Office 的一個版本，可買斷取得。您可以使用 Mac 版 Office 2016 大量授權啟動 16.16 版以下 (包含16.16) 的舊版本。16.17 版或更新版本則無法透過 Mac 版 Office 2016 大量授權啟動。如需 9 月以後的 Mac 版 Office 2016 相關資訊，請參閱 [Mac 版 Office 2016 的版本資訊](release-notes-office-2016-mac.md)。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 我們有時候會發佈更新，其中包含一般品質和效能提升，但沒有新功能。 如果下列清單中沒有列出特定應用程式，則該應用程式更新僅包含品質和效能提升。
 
-**附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate)頁面。<br/>
+
 
 
 
