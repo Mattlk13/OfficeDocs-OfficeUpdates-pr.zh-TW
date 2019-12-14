@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 9f9a27eb9c6c4a5de6be6602171247154a249088
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6f6f8467fb94d5c753953702b72c1c36f8f2ce27
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961768"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023628"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -56,6 +56,6 @@ Outlook 與 Office 365 的相容性及內部部署環境取決於您的部署的
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/zh-TW/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 10 月 PU <br/>[KB4475604](https://support.microsoft.com/help/4475604) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2019 年 10 月 PU <br/>[KB4475604](https://support.microsoft.com/help/4475604) <br><br><br><br/>|
    
 

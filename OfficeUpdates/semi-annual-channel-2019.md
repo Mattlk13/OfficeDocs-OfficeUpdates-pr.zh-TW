@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: c014a790374d1b3143033774b4acd7e5e5f9aaa2
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: f991dfa99e668dc8cc06918c0d5e5c9a418f4ed7
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961980"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023724"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -35,7 +35,7 @@ ms.locfileid: "39961980"
 ## <a name="version-1902-december-10"></a>版本 1902：12 月 10 日
 *版本 1902 (組建 11328.20492)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -47,7 +47,7 @@ ms.locfileid: "39961980"
 
 ### <a name="outlook"></a>Outlook
 
-- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](https://docs.microsoft.com/zh-TW/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - 解決會導致客戶嘗試從「未接的交談」&quot;&quot;郵件建立規則時遇到當機的問題。
 
@@ -61,7 +61,7 @@ ms.locfileid: "39961980"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](https://docs.microsoft.com/zh-TW/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](https://docs.microsoft.com/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -249,7 +249,7 @@ ms.locfileid: "39961980"
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
-- 修正設定 API 在某些案例下無法在 Office JavaScript 程式庫運作的問題 [深入了解](https://support.microsoft.com/zh-TW/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- 修正設定 API 在某些案例下無法在 Office JavaScript 程式庫運作的問題 [深入了解](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1803-august-13"></a>版本 1803：8 月 13 日
@@ -258,7 +258,7 @@ ms.locfileid: "39961980"
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
-- 修正設定 API 在某些案例下無法在 Office JavaScript 程式庫運作的問題 [深入了解](https://support.microsoft.com/zh-TW/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- 修正設定 API 在某些案例下無法在 Office JavaScript 程式庫運作的問題 [深入了解](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日

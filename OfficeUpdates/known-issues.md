@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
-ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
+ms.openlocfilehash: 73cd91d43e09900d81418427dab1da01d89f227b
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38640822"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023548"
 ---
 # <a name="office-365-proplus-known-issues"></a>Office 365 專業增強版的已知問題
 
@@ -24,7 +24,7 @@ ms.locfileid: "38640822"
 
 > [!NOTE]
 >- 這個清單並不全面。
->- 如果您在顯示為已解決的通道以外的通道中遇到問題，您可以預期問題很快會解決。 [深入了解](https://docs.microsoft.com/zh-TW/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- 如果您在顯示為已解決的通道以外的通道中遇到問題，您可以預期問題很快會解決。 [深入了解](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- 解決的問題也會記載在其相關的通道頁面上。
 
 <br>

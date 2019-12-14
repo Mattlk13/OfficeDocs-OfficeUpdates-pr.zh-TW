@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員針對每月通道的版本資訊版本的 Office 365 專業增強版 2016
-ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438766"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023588"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016 中的每月通道版本的版本資訊
 
@@ -931,7 +931,7 @@ ms.locfileid: "32438766"
 -   修正此問題：使用 Application.OnKey() 來攔截按鍵動作時，Excel 會當機。
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
--   修正此問題：編輯文件時，Word 無法正常顯示文件的格式。 [此問題的相關資訊](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+-   修正此問題：編輯文件時，Word 無法正常顯示文件的格式。 [此問題的相關資訊](https://answers.microsoft.com/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
