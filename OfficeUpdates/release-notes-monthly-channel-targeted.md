@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961738"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023618"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -30,10 +30,129 @@ ms.locfileid: "39961738"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
+## <a name="version-1912-december-12"></a>版本 1912：12 月 12 日
+*版本 1912 (組建 12325.20172)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
+
+- 編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。
+
+- 某些當地語系化版本的 [文字到欄] 功能可能會失敗。
+
+- 解決了開啟內嵌活頁簿時，功能區自訂無法載入的問題。
+
+- 使用者在存取隱藏的命名範圍時可能會發生錯誤。
+
+- 邊界下拉式功能表可能無法正確呈現。
+
+- 停用使用 4K 解析度的硬體圖形加速的情況下，可能會在捲動時發生延遲儲存格呈現的問題。
+
+- 這項變更透過利用軟體轉譯避免特定 Intel 圖形驅動程式發生問題。
+
+### <a name="onenote"></a>OneNote
+
+- OneNote 可能無法透過「會議記事」Outlook 增益集開啟。
+
+### <a name="outlook"></a>Outlook
+
+- 與跨資料夾內容有關的間歇性損毀。
+
+- 內嵌插入至 Outlook 電子郵件訊息中的影像有時候會改變大小。
+
+- 新增透過群組原則強制執行 S/MIME預設登入設定的功能。
+
+- 內嵌影像可能會比預期小。
+
+- 保留原則標籤可能會將保留時間顯示於括弧中。
+
+- 解決使用其他寄件者時導致無法顯示原則提示的問題。
+
+- 空格可能會顯示於日文語言套件的連絡人卡片中。
+
+- 解決了導致會議位置在清除之後，又會不預期地重新加回會議的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 當您將焦點移出文字後，游標可能會消失。
+
+- Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
+
+- 在某些情況下，使用觸控裝置進行捲動將無法運作。
+
+- 如果使用者雲端檔案的投影片上有兩個 (或多個) 不同的影片，影片影像可正確呈現，但是當使用者按一下每一個檔案來播放時，影片內容會是相同的。
+
+- 邊界下拉式功能表可能無法正確呈現。
+
+### <a name="project"></a>Project
+
+- 如果您在 [深色] 模式中，當您移至含有過度分配資源之工作上的工作檢查面板時，將無法讀取資料表。
+
+- 使用者可能會遇到授權錯誤。
+
+- 日期選擇器中的 [今日] 按鈕有時候可能會設定不正確的日期。
+
+- 當您使用 [比較專案] 功能時，Project 可能會當機。
+
+- 將沒有作業的任務進行進位設定為 1 天。
+
+### <a name="word"></a>Word
+
+- 選取註解提示之後，在窗格切換器中隱藏時，現在會顯示新式註解窗格。
+
+- 以滑鼠右鍵按一下有時不會選取整個字詞。
+
+- Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
+
+- 建置組塊召集人可能會顯示不正確通知：&quot;您已修改過樣式、建置組塊&quot;。
+
+- 某些主題可能會導致難以判斷所選取的註解。
+
+- 轉換成建議格式之後，游標在物件內可能仍處於使用中狀態。
+
+- 訊息中的影像在某些情況下可能會不正確的縮放。
+
+- 使用複製/貼上時，有時會重新載入註解窗格。
+
+- 註解有時不會以正確的順序貼上。
+
+- @提及註解卡中的使用者可能會顯示 JSON。
+
+- 邊界下拉式功能表可能無法正確呈現。
+
+- 調整分割螢幕邊界的大小可能會造成其他的分割螢幕。
+
+- 將含有自訂樣式的多層級清單範本套用至現有的文件時，可能在特定條件下不會保留該樣式。
+
+- 在特定條件下，完成合併列印之後儲存的檔案可能無法使用。
+
+### <a name="office-suite"></a>Office 套件
+
+- 將圖表從 Excel 貼上至 PowerPoint 可能會造成圖表的大小縮小。
+
+- 回覆註解可能會導致文字方塊垂直延伸到窗格的邊緣以外。
+
+- 針對日文產品，帳戶使用者的姓名可能會以錯誤的順序出現。
+
+- 修正相對期限只有在第一次設定時才會有效的 ODT 和 GPO 更新期限設定中的錯誤 (bug)。此修正可啟用後續更新的相關期限。
+
+- 將滑鼠指標暫留於註解上方時，可能會在註解周圍顯示文字方塊外框的問題。
+
+- 解決 Office 更新可能會非預期地從 Office CDN 而不是預期使用的來源 (例如本機或網路共用或 Configuration Manager 提供的位置) 下載檔案的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911 (組建 12228.20364)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -42,7 +161,7 @@ ms.locfileid: "39961738"
 
 - **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
 
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ### <a name="outlook"></a>Outlook
 
@@ -50,7 +169,7 @@ ms.locfileid: "39961738"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **筆跡立即重播：** 當您在投影片上進行手寫時，套用重播動畫可在投影片放映期間重播真實手繪的筆跡。 [深入了解](https://support.office.com/zh-TW/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **筆跡立即重播：** 當您在投影片上進行手寫時，套用重播動畫可在投影片放映期間重播真實手繪的筆跡。 [深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
 
@@ -62,7 +181,7 @@ ms.locfileid: "39961738"
 
 - **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
 
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/zh-TW/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ## <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
@@ -103,7 +222,7 @@ ms.locfileid: "39961738"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -115,7 +234,7 @@ ms.locfileid: "39961738"
 
 ### <a name="visio"></a>Visio
 
-- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 

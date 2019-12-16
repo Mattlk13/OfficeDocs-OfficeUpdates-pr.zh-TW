@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: eec5c93ec1e6f5b35c9dd90f8114dfe42f3f7ad6
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 83aa929d5be14f8020f3f349e525c525da79b33a
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857861"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023764"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -31,6 +31,9 @@ ms.locfileid: "39857861"
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (DO NOT REMOVE)
+
+**2019 年 12 月 12 日**<br/>
+版本 2001 (組建 12410.20000)<br/>
 
 **2019 年 12 月 2 日**<br/>
 版本 1912 (組建 12325.20012)<br/>
@@ -177,8 +180,7 @@ ms.locfileid: "39857861"
 **Twitter 上的 Office 測試人員**<br/> 我們經常會在 @OfficeInsider 張貼有關測試人員版本的資訊，以及為測試人員舉辦特別活動。<br/> 
 [在 Twitter 上關注我們](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![影像顯示 Facebook 圖示。](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **搶先使用新功能**
