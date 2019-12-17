@@ -9,30 +9,77 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
+ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890457"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40019849"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
 本文包含 Windows 電腦版 Word、Excel、PowerPoint、Outlook、Access 和 Project 測試人員組建的版本資訊。 我們每週都強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們在一段時間內會經常推出新功能 (某些時候還有修正) 給測試人員。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
 
 > [!NOTE]
-> - 版本資訊會每週發佈，可能是多個組建的編譯
-> - 版本資訊發佈日期可能與實際組建發行日期不相符
-
- > [!NOTE]
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/zh-TW/deployoffice/teams-install)。
+> - 版本資訊會每週發佈，可能是多個組建的編譯。
+> - 版本資訊發佈日期可能與實際組建發行日期不相符。
+> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
 
+## <a name="version-2001-december-13"></a>版本 2001：12 月 13 日
+*版本 2001 (組建 12410.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+- 執行可參考連結之 ODBC 資料表且包含 Order By 子句的聯集查詢，會導致 64 位元 Access 當機。
+- Access (O365) 中由聯集查詢的資料匯合可能會導致小數資料的截斷。
+- ACE 的 COM 介面並未公開於 Office 應用程式的外部使用。
+
+### <a name="excel"></a>Excel
+- 無法執行插入3D 模型 (動態或靜態)，且嘗試 [另存成圖片]。
+- 從 Backstage 啟動意見反應的 Shortkey (Alt+Ctrl + 7/8) 與 AZERTY 鍵盤 (Alt-Gr + 7/8) 有衝突。 影響：使用者可能無法使用下列字元，例如：'\'。
+
+### <a name="outlook"></a>Outlook
+- 解決導致電子郵件傳送到收件者錯誤地址的問題。
+- 解決了導致 Outlook 不正確地允許使用者具有信箱的 &quot;[讀取]&quot; 存取權，而變更郵件之讀取/未讀取狀態的問題。
+- 網站上安全性憑證的撤銷無法由 [產品支援] 重新製造。 需要新增 [記錄] 以協助根本解決問題。
+- 解決導致使用者看到同步處理失敗的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+- 無法執行插入3D 模型 (動態或靜態)，且嘗試 [另存成圖片]。
+
+### <a name="project"></a>Project
+- [工作] 不會在 [手動排程的子工作] 彙總中計算。
+- 嘗試儲存伺服器架構專案時，從 [功能區] 按鈕叫用的 Project VBA 程式碼可能無法使用。
+- 除非 Project 已在執行，從 SharePoint 文件庫中開啟專案檔案會顯示錯誤，且檔案無法開啟。
+
+### <a name="word"></a>Word
+- 儲存現有檔案可能會無法執行。
+- 在 [拼字及文法檢查編輯器] 視窗中使用方向鍵可能會導致間歇性閃爍。
+- 解決待處理時，相關註解可能不會轉換成指向註解。
+- 無法執行插入3D 模型 (動態或靜態)，且嘗試 [另存成圖片]。
+
+### <a name="office-suite"></a>Office 套件
+- 修正了 Office 更新訊息不以預期語言顯示的問題。 自此以後，Office 更新訊息會正確符合 Windows 顯示語言。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-december-06"></a>版本 1912：12 月 06 日
 *版本 1912 (組建 12325.20012)*
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -47,7 +94,6 @@ ms.locfileid: "39890457"
 
 - **索引標籤式窗格：** 現在您可以使用應用程式右側的索引標籤 UI，在多個窗格之間切換。 只有當您開啟 2 個以上的窗格時，該 UI 才會顯示。
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
@@ -56,73 +102,45 @@ ms.locfileid: "39890457"
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
-
 - 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
-
 - 使用者在存取隱藏的命名範圍時可能會發生錯誤。
-
 - 停用使用 4K 解析度的硬體圖形加速的情況下，可能會在捲動時發生延遲儲存格呈現的問題。
-
 - 清除與儲存格界限重疊的長型公式，可能仍舊會跨儲存格界限顯示出來。
-
 - 解決了開啟內嵌活頁簿時，功能區自訂無法載入的問題。
-
 - 邊界下拉式功能表可能無法正確呈現。
 
 ### <a name="onenote"></a>OneNote
-
 - OneNote 可能無法透過「會議記事」Outlook 增益集開啟。
 
 ### <a name="outlook"></a>Outlook
-
 - 保留原則標籤可能會將保留時間顯示於括弧中。
-
 - 空格可能會顯示於日文語言套件的連絡人卡片中。
-
 - 內嵌插入至 Outlook 電子郵件訊息中的影像有時候會改變大小。
 
 ### <a name="powerpoint"></a>PowerPoint
-
 - 如果使用者雲端檔案的投影片上有兩個 (或多個) 不同的影片，影片影像可正確呈現，但是當使用者按一下每一個檔案來播放時，影片內容會是相同的。
-
 - 在某些情況下，使用觸控裝置進行捲動將無法運作。
-
 - 邊界下拉式功能表可能無法正確呈現。
-
 - Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
 
 ### <a name="project"></a>Project
-
 - 當您使用 [比較專案] 功能時，Project 可能會當機。
-
 - 如果您在 [深色] 模式中，當您移至含有過度分配資源之工作上的工作檢查面板時，將無法讀取資料表。
-
 - 將沒有作業的任務進行進位設定為 1 天。
 
 ### <a name="word"></a>Word
-
 - 在特定條件下，完成合併列印之後儲存的檔案可能無法使用。
-
 - 建置組塊召集人可能會顯示不正確通知：&quot;您已修改過樣式、建置組塊&quot;。
-
 - 使用複製/貼上時，有時會重新載入註解窗格。
-
 - 註解有時不會以正確的順序貼上。
-
 - 將含有自訂樣式的多層級清單範本套用至現有的文件時，可能在特定條件下不會保留該樣式。
-
 - 調整分割螢幕邊界的大小可能會造成其他的分割螢幕。
-
-- 邊界下拉式功能表可能無法正確呈現
-
+- 邊界下拉式功能表可能無法正確呈現。
 - @提及註解卡中的使用者可能會顯示 JSON。
-
 - Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
 
 ### <a name="office-suite"></a>Office 套件
-
 - 針對日文產品，帳戶使用者的姓名可能會以錯誤的順序出現。
-
 - 將滑鼠指標暫留於註解上方時，可能會在註解周圍顯示文字方塊外框的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -130,14 +148,11 @@ ms.locfileid: "39890457"
 ## <a name="version-1912-november-15"></a>版本 1912：11 月 15 日
 *版本1912 (組建 12307.20000)*
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="insights-services"></a>深入解析服務
-
-- **Excel 構想中的自然語言查詢：** Excel 構想的新功能，詢問關於您資料的自然語言問題
-
+- **Excel 構想中的自然語言查詢：** Excel 構想的新功能，詢問關於您資料的自然語言問題。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -147,74 +162,43 @@ ms.locfileid: "39890457"
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
-
-- <div><span>某些當地語系化版本的 [文字到欄] 功能可能會失敗</span></div>
-
-
-- <div>編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。</div>
-
+- 某些當地語系化版本的 [文字到欄] 功能可能會失敗。
+- 編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。
 
 ### <a name="outlook"></a>Outlook
-
-- <div>新增透過群組原則強制執行 S/MIME 設定的功能</div>
-
-
-- <div><span>內嵌影像可能會比預期小</span></div>
-
+- 新增透過群組原則強制執行 S/MIME 設定的功能。
+- 內嵌影像可能會比預期小。
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>當您將焦點移出文字後，游標可能會消失</span></div>
-
+- 當您將焦點移出文字後，游標可能會消失。
 
 ### <a name="project"></a>Project
-
-- <div><span>使用者可能會遇到授權錯誤</span></div>
-
-
-- <div><span>日期選擇器中的 [今日] 按鈕有時候可能會設定不正確的日期</span></div>
-
+- 使用者可能會遇到授權錯誤。
+- 日期選擇器中的 [今日] 按鈕有時候可能會設定不正確的日期。
 
 ### <a name="word"></a>Word
-
-- <div><span>以滑鼠右鍵按一下有時不會選取整個字詞</span></div>
-
-
-- <div>轉換成建議格式之後，游標在物件內可能仍處於使用中狀態</div>
-
-
-- <div>訊息中的影像在某些情況下可能會不正確的縮放</div>
-
-
-- <div>某些主題可能會導致難以判斷所選取的註解</div>
-
-
-- <div><span>選取註解提示之後，在窗格切換器中隱藏時，現在會顯示新式註解窗格</span></div>
-
+- 以滑鼠右鍵按一下有時不會選取整個字詞。
+- 轉換成建議格式之後，游標在物件內可能仍處於使用中狀態。
+- 訊息中的影像在某些情況下可能會不正確的縮放。
+- 某些主題可能會導致難以判斷所選取的註解。
+- 選取註解提示之後，在窗格切換器中隱藏時，現在會顯示新式註解窗格。
 
 ### <a name="office-suite"></a>Office 套件
-
-- <div><span>回覆註解可能會導致文字方塊垂直延伸到窗格的邊緣以外</span></div>
-
-
+- 回覆註解可能會導致文字方塊垂直延伸到窗格的邊緣以外。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-november-08"></a>版本 1912：11 月 8 日
 *版本 1912 (組建 12231.20000)*
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="user-lifecycle"></a>使用者生命週期
-
-- **AFO 啟用的經驗改進：** 對客戶啟用新電腦隨附的 Office 時，所會看到的畫面進行更新
+- **AFO 啟用的經驗改進：** 對客戶啟用新電腦隨附的 Office 時，所會看到的畫面進行更新。
 
 ### <a name="word"></a>Word
-
-- **Word 中的全新和改良的線上影片體驗：** 全新和更安全的線上影片體驗，可協助您在 Word 中插入新的影片並播放現有影片
-
+- **Word 中的全新和改良的線上影片體驗：** 全新和更安全的線上影片體驗，可協助您在 Word 中插入新的影片並播放現有影片。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -224,49 +208,38 @@ ms.locfileid: "39890457"
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
-
-- <div><span>與跨資料夾內容有關的間歇性損毀</span></div>
-
+- 與跨資料夾內容有關的間歇性損毀。
 
 ### <a name="office-suite"></a>Office 套件
-
-- <div><span>將圖表從 Excel 貼上至 PowerPoint 可能會造成圖表的大小縮小</span></div>
-
-
+- 將圖表從 Excel 貼上至 PowerPoint 可能會造成圖表的大小縮小。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-november-01"></a>版本 1911：11 月 1 日
 *版本 1911 (組建 12228.20020)*
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-
-- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字
+- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字。
 
 - **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字
+- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字。
 
 - **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
 
 ### <a name="visio"></a>Visio
-
-- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)。
 
 ### <a name="word"></a>Word
-
 - **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
 
 - **改善共同撰寫：** 改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
 
 - **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -276,95 +249,45 @@ ms.locfileid: "39890457"
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
-
-- <div><span>解決從不受信任的網路共用編輯受保護的檔案時，Excel 可能會當機的問題</span></div>
-
-
-- <div>解決在刪除含有的走勢圖參考另一個資料表中資料的資料表時，會導致重新開啟檔案時，將檔案識別為已損毀的問題。</div>
-
-
-- <div>解決當您將報表篩選隨著其餘的樞紐分析表一起轉換，以用於 SQL 表格式伺服器的查詢時，可能會遇到結果不正確的問題。</span></div>
-
-
-- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
-
-
-- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
-
+- 解決從不受信任的網路共用編輯受保護的檔案時，Excel 可能會當機的問題。
+- 解決在刪除含有的走勢圖參考另一個資料表中資料的資料表時，會導致重新開啟檔案時，將檔案識別為已損毀的問題。
+- 解決當您將報表篩選隨著其餘的樞紐分析表一起轉換，以用於 SQL 表格式伺服器的查詢時，可能會遇到結果不正確的問題。
+- 同時使用朗讀程式和放大鏡，可能會導致當機。
+- 同時使用朗讀程式和放大鏡，可能會導致當機。
 
 ### <a name="outlook"></a>Outlook
-
-- <div>轉寄的電子郵件可能會遺失內嵌的影像</div>
-
-
-- <div><span>會議室尋找工具可能會對可用的會議室顯示 [無]&quot;&quot;</span></div>
-
-
-- <div><span>使用者可能無法建立具有嚴格租用戶限制的 Outlook 設定檔</div></span>
-
+- 轉寄的電子郵件可能會遺失內嵌的影像。
+- 會議室尋找工具可能會對可用的會議室顯示 &quot;[無]&quot;。
+- 使用者可能無法建立具有嚴格租用戶限制的 Outlook 設定檔。
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
-
+- 同時使用朗讀程式和放大鏡，可能會導致當機。
 
 ### <a name="project"></a>Project
-
-- <div><span>使用者無法將工作標示為已完成，並將它設為 99%</span></div>
-
-
-- <div>資源撫平無法解決資源過度分派問題</div>
-
+- 使用者無法將工作標示為已完成，並將它設為 99%。
+- 資源撫平無法解決資源過度分派問題。
 
 ### <a name="word"></a>Word
-
-- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
-
-
-- <div><span>開啟舊版文件，然後移至 [資訊] 索引標籤會導致當機</span></div>
-
-
-- <div><span>內容功能表中未顯示校訂建議</span></div>
-
-
-- <div><span>對註解套用不正確的內容原則</span></div>
-
-
-- <div><span>以深色文字編寫的舊版註解在深色模式中不會顯示</span></div>
-
-
-- <div><span>使用韓文/英文自動校正時，可能出現不正確的字元</span></div>
-
-
-- <div><span>在應優先套用較高的原則標籤前，可能已套用了較低的原則標籤</div></span>
-
-
-- <div><span>來自 Outlook 郵件中的 cid: 影像連結&nbsp;現在能在要求時成功中斷。</div></span>
-
-
-- <div><span>同時使用朗讀程式和放大鏡，可能會導致當機</span></div>
-
-
-- <div><span>從瀏覽窗格搜尋可能會失敗</span></div>
-
+- 同時使用朗讀程式和放大鏡，可能會導致當機。
+- 開啟舊版文件，然後移至 [資訊] 索引標籤會導致當機。
+- 內容功能表中未顯示校訂建議。
+- 對註解套用不正確的內容原則。
+- 以深色文字編寫的舊版註解在深色模式中不會顯示。
+- 使用韓文/英文自動校正時，可能出現不正確的字元。
+- 在應優先套用較高的原則標籤前，可能已套用了較低的原則標籤。
+- 來自 Outlook 郵件中的 cid: 影像連結&nbsp;現在能在要求時成功中斷。
+- 同時使用朗讀程式和放大鏡，可能會導致當機。
+- 從瀏覽窗格搜尋可能會失敗。
 
 ### <a name="office-suite"></a>Office 套件
-
-- <div><span>某些繪圖可能不會在預覽或投影片放映中顯示</span></div>
-
-
-- <div><span>在垂直文字方塊中，部分片假名字元可能無法正確顯示</span></div>
-
-
-- <div>嘗試將檔案儲存到已中斷連線的網路共用時可能會導致當機</div>
-
-
+- 某些繪圖可能不會在預覽或投影片放映中顯示。
+- 在垂直文字方塊中，部分片假名字元可能無法正確顯示。
+- 嘗試將檔案儲存到已中斷連線的網路共用時可能會導致當機。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1911-october-25"></a>版本 1911：10 月 25 日
 *版本 1911 (組建 12215.20006)*
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
