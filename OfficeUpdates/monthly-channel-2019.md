@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023598"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302972"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -154,8 +154,6 @@ ms.locfileid: "40023598"
 - **將敏感度標籤套用至您的文件和電子郵件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合組織的資訊保護原則。 [深入了解](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **出現錯誤後，收到升級 Outlook 的提示：** 當 Outlook 遇到更新版本中已修正的錯誤時，Outlook 會提示客戶升級並接收此修正
 
 - **將敏感度標籤套用至您的文件和電子郵件**：將敏感度標籤套用至您的檔案和電子郵件，使其符合組織的資訊保護原則。 [深入了解](https://aka.ms/officemipdocs)
 
