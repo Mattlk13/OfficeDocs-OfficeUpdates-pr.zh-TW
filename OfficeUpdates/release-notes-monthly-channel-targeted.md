@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: c3fd98c4c475dff6a571b773948464dedf618cad
+ms.sourcegitcommit: f6921c3de1d0e6faaec5a6d2471791fdfa02528d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023618"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "40795737"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,31 @@ ms.locfileid: "40023618"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-1912-december-19"></a>版本 1912：12 月 19 日
+*版本 1912 (組建 12325.20214)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。 [深入了解](https://support.office.com/zh-TW/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決當使用者透過鍵盤快速鍵與信箱資料夾互動時會造成明顯延遲的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1912-december-12"></a>版本 1912：12 月 12 日
 *版本 1912 (組建 12325.20172)*
