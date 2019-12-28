@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 最新更新的相關資訊，包括套件下載連結與更新歷程記錄
-ms.openlocfilehash: 91ae5036b889a0113281cfd438eb5b19987940ec
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 5749572870fba13ba51ded6928a491d30d46c5a8
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962260"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889308"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新歷程記錄
   
@@ -23,7 +23,7 @@ ms.locfileid: "39962260"
 
 > [!NOTE]
 > - 從版本 16.21 開始，如果您使用的是 Office 安裝套件，則預設情況下將會為***新***安裝的版本安裝 Microsoft Teams。如需詳細資訊，請參閱[在 Mac 上的 Microsoft Teams 安裝](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
-> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](https://docs.microsoft.com/zh-TW/security-updates/SecurityAdvisories/2017/4010323)
+> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 從 2018 年 9 月的 16.17 版本開始，這項資訊也適用於 Mac 版 Office 2019，這是從零售商店或透過大量授權合約買斷的 Mac 版 Office。
 > - 16.16 版及較舊版本的更新歷史記錄資訊也適用於 Mac 版 Office 2016，後者也是 Mac 版 Office 的一個版本，可買斷取得。您可以使用 Mac 版 Office 2016 大量授權啟動 16.16 版以下 (包含16.16) 的舊版本。16.17 版或更新版本則無法透過 Mac 版 Office 2016 大量授權啟動。如需 9 月以後的 Mac 版 Office 2016 相關資訊，請參閱 [Mac 版 Office 2016 的版本資訊](release-notes-office-2016-mac.md)。
 > - 如需指定的 Mac 版 Office 版本中所含功能、安全性更新和非安全性更新的相關資訊，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。
@@ -54,7 +54,7 @@ ms.locfileid: "39962260"
 
 下表提供 IT 專業人員可能會感興趣的 Microsoft 其他 Mac 程式最新套件的相關資訊，包括下載連結。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。
 
-**附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/zh-TW/officeupdates/release-history-microsoft-autoupdate)頁面。<br/><br/>
+**附註：** Microsoft AutoUpdate (MAU) 的版本資訊已移至 [MAU 版本歷程記錄](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate)頁面。<br/><br/>
 
   
 |**程式**|**版本**|**套件**|**詳細資訊**|**SHA-1/ SHA-256 雜湊**|
