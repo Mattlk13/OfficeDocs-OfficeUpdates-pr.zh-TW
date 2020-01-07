@@ -4,31 +4,28 @@
 ## [更新歷程記錄 (根據日期)](update-history-office365-proplus-by-date.md)
 ## [更新大小](download-sizes-office365-proplus-updates.md)
 
-
 ## 每月通道
+### [2020](monthly-channel-2020.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
-### [2016](monthly-channel-2016.md)
-
 
 ## 半年通道
+### [2020](semi-annual-channel-2020.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
-### [2016](semi-annual-channel-2016.md)
 
 ## 半年通道 (已設定目標)
+### [2020](semi-annual-channel-targeted-2020.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
-### [2016](semi-annual-channel-targeted-2016.md)
-
 
 ## Office 測試人員計畫  
 ### [更新歷程記錄的測試人員通道](update-history-office-insider.md)
 ### [更新歷程記錄的每月通道 (已設定目標)](update-history-monthly-channel-targeted.md)
-###[版本資訊的測試人員通道](release-notes-office-insider.md)
+### [版本資訊的測試人員通道](release-notes-office-insider.md)
 ### [每月通道版本資訊 (已設定目標)](release-notes-monthly-channel-targeted.md)
 
 ## [ODT 版本歷程記錄](ODT-release-history.md)
