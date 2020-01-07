@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019849"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951091"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,41 @@ ms.locfileid: "40019849"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2001-january-03"></a>版本 2001：1 月 3 日
+*版本 2001 (組建 12425.20000)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="excel"></a>Excel
+- 有些框線在 A4 大小的紙張上可能無法如預期列印。
+- 使用 VBA 將影像新增到工作表圖表物件的頁首/頁尾可能會導致錯誤。
+- 設定圖表座標軸格式時，標籤之間的間隔限制為 255。
+- 已修正嘗試重新整理 XML 查詢 (資料來源 URL 遭截斷) 時發生錯誤的問題。
+- 活頁簿統計資料會報告所有開啟的活頁簿 (包括個人巨集活頁簿) 中的巨集計數。
+
+### <a name="outlook"></a>Outlook
+- 切換資料夾可能會導致郵件清單/郵件預覽中「快閃」短暫的空白。 此行為在深色模式中更明顯。
+
+### <a name="powerpoint"></a>PowerPoint
+- 已修正呼叫 Shape.Paste 方法會導致貼上的圖形置於焦點下的物件模型問題。&nbsp;
+- 已改善複製貼上案例：&nbsp;以程式設計方式從 PowerPoint 投影片複製圖形，並將其貼到循環播放中的另一張投影片會失敗並發生異常錯誤。&nbsp;
+- 折疊及展開節標頭後，投影片節標頭的動畫無法正確呈現。
+
+### <a name="project"></a>Project
+- 已修正文字換行在任務和資源使用狀況檢視中無法正常運作的問題。
+- 已修正如果某資源有多個成本比率，則工作分派的成本值可能不正確的問題。
+
+### <a name="word"></a>Word
+- 在方程式中插入控制項 (例如文字內容控制項)，然後儲存再開啟檔案，便會導致內容無法讀取的錯誤。
+- 共同撰寫時，Word 電腦版可能不會顯示使用 Word Online 新增註解的功能。
+
+### <a name="office-suite"></a>Office 套件
+- 嘗試在只有一個授權的情況下變更授權時，不再顯示有效授權的錯誤到期日。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-december-13"></a>版本 2001：12 月 13 日
 *版本 2001 (組建 12410.20000)*
@@ -232,7 +267,7 @@ ms.locfileid: "40019849"
 - **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
 
 ### <a name="visio"></a>Visio
-- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)。
+- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)。
 
 ### <a name="word"></a>Word
 - **拿起 Surface 手寫筆時查看手寫筆選項：** 當您在 Word、Excel 或 PowerPoint 中先拿起 Surface 手寫筆時，[繪圖] 索引標籤將會啟動，讓您輕鬆地選取畫筆色彩。
@@ -294,7 +329,7 @@ ms.locfileid: "40019849"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="visio"></a>Visio
 
-- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ ms.locfileid: "40019849"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/zh-TW/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -709,15 +744,15 @@ ms.locfileid: "40019849"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/zh-TW/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -768,7 +803,7 @@ ms.locfileid: "40019849"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。 [深入了解](https://support.office.com/zh-TW/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1240,7 +1275,7 @@ ms.locfileid: "40019849"
 - **更快速共用檔案**：不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 ### <a name="powerpoint"></a>PowerPoint
 
-- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 [深入了解](https://support.office.com/zh-TW/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **[在講義上列印投影片編號] 設定已移至 [列印] 功能表，以易於存取：** 選取講義版面配置時，可在 [列印] > [整頁模式] 下拉式清單中找到它。 這也會使得每個簡報的設定易於切換。 [深入了解](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 
@@ -1488,7 +1523,7 @@ ms.locfileid: "40019849"
 
 #### <a name="open-document-links-in-word"></a>在 Word 中開啟文件連結
 
-當您在 Office 中按一下文件連結時，您可以更新您的喜好設定，以預設在 Word App 中開啟該連結。  若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+當您在 Office 中按一下文件連結時，您可以更新您的喜好設定，以預設在 Word App 中開啟該連結。  若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>開始使用：
 
@@ -1509,7 +1544,7 @@ ms.locfileid: "40019849"
 
 #### <a name="open-presentation-links-in-powerpoint"></a>在 PowerPoint 中開啟簡報連結
 
-當您在 Office 中按一下連結連結時，您可以更新您的喜好設定，以預設在 PowerPoint App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+當您在 Office 中按一下連結連結時，您可以更新您的喜好設定，以預設在 PowerPoint App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>開始使用：
 
@@ -1530,7 +1565,7 @@ ms.locfileid: "40019849"
 
 #### <a name="open-workbook-links-in-excel"></a>在 Excel 中開啟活頁簿連結
 
-當您在 Office 中按一下活頁簿連結時，您可以更新您的喜好設定，以預設在 Excel App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+當您在 Office 中按一下活頁簿連結時，您可以更新您的喜好設定，以預設在 Excel App 中開啟該連結。 若要更新您的喜好設定，請移至 [檔案] -> [選項] -> [進階] -> [連結處理]。 深入了解：https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>開始使用：
 
