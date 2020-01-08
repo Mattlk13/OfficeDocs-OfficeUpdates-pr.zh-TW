@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
-ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
+ms.openlocfilehash: a2831cbc12f916c5678aab32f4cd6b6cd96c4008
+ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/31/2019
-ms.locfileid: "40918439"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40961640"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -27,6 +27,20 @@ ms.locfileid: "40918439"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-1912-january-06"></a>版本 1912：1 月 6 日
+*版本 1912 (組建 12325.20264)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/zh-TW/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
