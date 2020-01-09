@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ba072296a879cd98796fd3c9ca44059217e0566e
-ms.sourcegitcommit: 6c188ffae94a3d20e2b20007038b6484e18bae14
+ms.openlocfilehash: 6e0b9a578a8ed68c693ec254ddd304bfbcd9a85e
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987358"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995553"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,9 @@ ms.locfileid: "40987358"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
+*版本 1912 (組建 12325.20288)*
 
 ## <a name="version-1912-january-07"></a>版本 1912：1 月 7 日
 *版本 1912 (組建 12325.20280)*
