@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961778"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122012"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
 
@@ -25,6 +25,30 @@ ms.locfileid: "39961778"
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。  
 
 [//]: # (無法移除以上這行，它用來做為間距)  
+
+## <a name="january-14-2020"></a>2020 年 1 月 14 日
+每月通道：版本 1912 (組建 12325.20298)  
+半年通道 (已設定目標)：版本 1908 (組建 11929.20562)  
+半年通道：版本 1908 (組建 11929.20562)  
+半年通道：版本 1902 (組建 11328.20512)  
+半年通道：版本 1808 (組建 10730.20432)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0653)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0652)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="december-10-2019"></a>2019 年 12 月 10 日
 每月通道：版本 1911 (組建 12228.20364)  

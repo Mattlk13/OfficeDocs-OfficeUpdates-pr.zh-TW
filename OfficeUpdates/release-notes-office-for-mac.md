@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
-ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
+ms.openlocfilehash: 2f43ce3fa752bc749fcb39cf9e9a792133ced7e4
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39982263"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122292"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -33,6 +33,45 @@ ms.locfileid: "39982263"
 
 
 
+[//]: # (DO NOT REMOVE)
+
+
+## <a name="january-14-2020"></a>2020 年 1 月 14 日
+*版本 16.33 (組建 20011301)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **輸入會傳回多個值的公式：** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+
+- **在 Mac 上使用 VBA 建立及管理查詢：** 在 Mac 上使用 VBA 針對支援的來源建立及管理 Power Query 查詢。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
+
+### <a name="word"></a>Word
+
+- **直接內建協助工具：High Sierra 支援：** 我們新增了對 High Sierra 的支援，包括語言、轉輪中的連結和表格，以及改善尋找支援。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0651)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="december-10-2019"></a>2019 年 12 月 10 日
 *版本 16.32 (組建 19120802)*

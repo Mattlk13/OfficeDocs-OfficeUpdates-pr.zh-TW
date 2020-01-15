@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
-ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
+ms.openlocfilehash: 9499ba80668b7512888b27f32caef11454c0c1a3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41004321"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122122"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -30,13 +30,24 @@ ms.locfileid: "41004321"
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="january-9-2020"></a>2020 年 1 月 9 日
+## <a name="january-14-2020"></a>2020 年 1 月 14 日
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 14, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1912 (組建 12325.20298)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1912 (組建 12325.20288) <br/> |2020 年 1 月 8 日 <br/> |46<br/> |
+|版本 1911 (組建 12228.20364) <br/> |2019 年 12 月 10 日 <br/> |151<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-<i>預期的版本為版本 1908 (組建 11929.20562)。</i>
+最新的版本是版本 1908 (組建 11929.20562)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -44,9 +55,9 @@ ms.locfileid: "41004321"
 |版本 1902 (組建 11328.20480) <br/> |2019 年 11 月 22 日 <br/> |337<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
+### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
 
-<i>預期的版本為版本 1908 (組建 11929.20562)。</i>
+最新的版本是版本 1908 (組建 11929.20562)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -54,7 +65,8 @@ ms.locfileid: "41004321"
 |版本 1908 (組建 11929.20494) <br/> |2019 年 11 月 22 日 <br/> |64<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 14, 2020)
+
 
 ## <a name="january-8-2020"></a>2020 年 1 月 8 日
 
