@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
-ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
+ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/10/2020
-ms.locfileid: "41022048"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230081"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,37 @@ ms.locfileid: "41022048"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2002-january-17"></a>版本 2002：1 月 17 日
+*版本 2002 (組建 12508.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **提及和註解通知電子郵件目前包含預覽：** 提及和註解的電子郵件通知現在包含註解文字的預覽，以及該註解所參照的內容。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 在某些情況下，協助工具檢查程式不會顯示圖案​​建議的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 儲存在左側瀏覽窗格 [我的最愛] 的資料夾可能會間歇性消失。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正使用 PowerPoint 筆跡動畫時，無法完整轉譯或跳過的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-10"></a>版本 2001：1 月 10 日
 *版本 2001 (組建 12430.20000)*
