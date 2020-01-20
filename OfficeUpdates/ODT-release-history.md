@@ -9,25 +9,33 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: 65dbad6110d38fd98fb7b6df94c2a54df2f89459
-ms.sourcegitcommit: 6570d42ebb04c11b9aa40dac7825ae8da9694e10
+ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
+ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37902399"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41230061"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
 Office 部署工具 (ODT) 是一種命令列工具，可用來將像 Office 365 專業增強版這類的 Office 隨選即用版本下載並部署到用戶端電腦。 
 
 
-ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產品及語言、這些產品的更新方式，以及是否要讓使用者看到安裝過程。 如需有關如何使用 ODT 的詳細資訊，請參閱 [Office 部署工具概觀](https://docs.microsoft.com/zh-TW/deployoffice/overview-of-the-office-2016-deployment-tool)。
+ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產品及語言、這些產品的更新方式，以及是否要讓使用者看到安裝過程。 如需有關如何使用 ODT 的詳細資訊，請參閱 [Office 部署工具概觀](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。
 
  **支援的作業系統**：Windows 10、Windows 7、Windows 8、Windows 8.1、Windows Server 2008 R2、Windows Server 2012 和 Windows Server 2012 R2 
  
  **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+
+## <a name="january-16-2020"></a>2020 年 1 月 16 日
+
+版本 16.0.12325.20288
+- 修正在安裝多個語言時，Office 安裝 UI 可能會以不正確的語言顯示的問題
+- 修正在安裝某些校訂工具套件之後，Office 安裝可能會非預期地失敗的問題
+- 新增支援以選擇性地控制 [Bing 中的 Microsoft Search](https://go.microsoft.com/fwlink/p/?linkid=2109345) 的初始部署
 
 
 ## <a name="october-31-2019"></a>2019 年 10 月 31 日
