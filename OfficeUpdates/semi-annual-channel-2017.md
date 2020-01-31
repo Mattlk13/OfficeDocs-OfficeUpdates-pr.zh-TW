@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員針對半年通道的版本資訊版本的 Office 365 專業增強版 2017
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439228"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629260"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>在 2017年半年通道發行的版本資訊
 
@@ -388,7 +388,7 @@ ms.locfileid: "32439228"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：某些程式檔案簽章的方式發生問題，導致防毒程式標幟這些檔案，以及在 Windows 資訊保護 (WIP) 底下保護或存取資料的問題。
 -   修正此問題：「新增功能」對話方塊無法顯示。
--   修正此問題：在使用 System Center Configuration Manager 時，會導致 Office 2013到 Office 2016 的自動升級失敗。
+-   修正此問題： Office 2013 的自動的升級至 Office 2016 來使用 Configuration Manager 時失敗。
 -   修正此問題：透過公司目錄從市集部署的舊版增益集不會載入。
 
 
@@ -742,7 +742,7 @@ ms.locfileid: "32439228"
 -   修正此問題：在 Office 文件中插入 SVG 影像後，SVG 影像會在儲存和重新開啟文件時消失。
 -   修正此問題：非英文版使用者在啟動 Office 期間，顯示下列錯誤訊息：「產品金鑰的最大長度為 25 個字元。」
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 System Center Configuration Manager 觸發的更新會將登錄中的 UpdateChannel 設定變更成某個無效的更新通道。
+-   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
 
 
 
@@ -1064,7 +1064,7 @@ ms.locfileid: "32439228"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 System Center Configuration Manager 觸發的更新會將登錄中的 UpdateChannel 設定變更成某個無效的更新通道。
+-   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
 -   修正此問題：使用 OneDrive 同步處理用戶端將檔案從商務用 OneDrive 網站同步至本機電腦時，如果儲存從 URL 開啟並往回同步的檔案時，會造成 Word、Excel 或 PowerPoint 停止回應。
 -   修正此問題：嘗試開啟包含表單控制項的可啟用巨集檔案時，VBA 表單控制項可讓透明標籤控制項變成不透明、可讓現有表單不再出現或不再如預期運作，而且可讓 Office 應用程式停止回應。
 -   修正此問題：使用受管理的中繼資料屬性時，[顯示詳細資料] 按鈕出現在 [檔案] \> [資訊] 的 [屬性] 區段中，而不是設定的中繼資料值。

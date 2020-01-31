@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員針對每月通道的版本資訊版本的 Office 365 專業增強版 2017
-ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
-ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
+ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37375819"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629250"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>在 2017年中的每月通道版本的版本資訊
 
@@ -72,7 +72,7 @@ ms.locfileid: "37375819"
 -   **快速存取您的網站和群組︰** 您可以使用 [檔案] 功能表，使用儲存在您常用的網站和群組中的文件。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
--   當啟用 Office COM 物件，讓 Office 365 用戶端更新由 System Center Configuration Manager 管理，[立即更新] 選項會在 [檔案] \> [帳戶] \> [更新選項] 中隱藏。
+-   [立即更新] 選項會隱藏檔案從\>帳戶\>更新選項，讓 Office 365 用戶端更新管理由 Configuration Manager 啟用 Office COM 物件時。
 
 
 ## <a name="version-1710-november-27"></a>版本 1710年: 11 月 27 日

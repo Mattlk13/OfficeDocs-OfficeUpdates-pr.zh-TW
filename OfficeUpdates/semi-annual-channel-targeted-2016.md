@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT 專業人員提供與版本資訊半年通道 （已設定目標） 版本的 Office 365 專業增強版 2016
-ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438998"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629230"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016 中的半年通道 （已設定目標） 版本的版本資訊
 
@@ -52,7 +52,7 @@ ms.locfileid: "32438998"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 System Center Configuration Manager 觸發的更新會將登錄中的 UpdateChannel 設定變更成某個無效的更新通道。
+-   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
 -   修正此問題：使用 OneDrive 同步處理用戶端將檔案從商務用 OneDrive 網站同步至本機電腦時，如果儲存從 URL 開啟並往回同步的檔案時，會造成 Word、Excel 或 PowerPoint 停止回應。
 
 
@@ -167,7 +167,7 @@ ms.locfileid: "32438998"
 -   **差旅預定以及封裝的摘要卡片︰** 使用在 [收件匣] 和 [行事曆] 中自動建立的摘要卡片，確認並追蹤差旅預定及封裝傳遞。 [詳細資訊](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加相片的小型預覽**：如果將相片附加到電子郵件，Outlook 會在訊息中顯示相片的小型預覽。
 -   **復原刪除的郵件連結：** 在 [刪除的郵件] 資料夾中，已刪除的項目清單上方會出現「復原最近從此資料夾中移除的郵件」連結，選取連結時，[復原刪除的郵件] 對話方塊隨即出現。
--   **點選：** 尋找並重複使用您組織的相關文件內容。 [其他資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
+-   **點選：** 尋找並重複使用您組織的相關文件內容。 [詳細資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
@@ -418,7 +418,7 @@ ms.locfileid: "32438998"
 *版本 1605 (組建 6965.2058)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **取得 & 轉換增強功能：** 新的或改善資料轉換與 Power Query 的資料連線功能。 [其他資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **取得 & 轉換增強功能：** 新的或改善資料轉換與 Power Query 的資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **額外資料連線：** JSON 和 Azure SQL 資料倉儲來源的查詢資料。
 -   **Power Query 改善功能︰** 改善的新資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **大量位址提示 (Large Address Aware) 支援︰** 32 位元版本的 Excel 可以使用更多的記憶體 (若適用)。 [詳細資訊](https://support.microsoft.com/kb/3160741)

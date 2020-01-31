@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a3edffcc7a997e4dc2e512518a6a8050f60f7141
-ms.sourcegitcommit: 9b7d0cbf39e67f308c6c24821d3a736a43521e85
+ms.openlocfilehash: 2102838b298c0a0ef27ba36e7bfd101697b2651e
+ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41231856"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "41576573"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,45 @@ ms.locfileid: "41231856"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2001-january-27"></a>版本 2001：1 月 27 日
+*版本 2001 (組建 12430.20170)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **即時讀取與回覆：** 直接從電子郵件回覆註解和提及，而不需開啟活頁簿。
+
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **查詢編輯器中的資料分析：** 取得欄位資料的總覽分析、識別錯誤和空白值，查看分佈長條圖等。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">此更新修正可能會導致 Microsoft Access 無法識別連結 SQL Server 資料表中的身分識別資料行的問題，這可能會導致將資料列報告為刪除不正確</span></span></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-17"></a>版本 2001：1 月 17 日
 *版本 2001 (組建 12430.20120)*

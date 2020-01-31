@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 提供 IT 專業人員針對每月通道的版本資訊版本的 Office 365 專業增強版 2016
-ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023588"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629240"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016 中的每月通道版本的版本資訊
 
@@ -131,7 +131,7 @@ ms.locfileid: "40023588"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 System Center Configuration Manager 觸發的更新會將登錄中的 UpdateChannel 設定變更成某個無效的更新通道。
+-   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
 
 
 

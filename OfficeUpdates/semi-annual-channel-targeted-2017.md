@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: IT 專業人員提供與版本資訊半年通道 （已設定目標） 版本的 Office 365 專業增強版 2017
-ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439128"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629270"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>在 2017年半年通道 （已設定目標） 版本的版本資訊
 
@@ -375,7 +375,7 @@ ms.locfileid: "32439128"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 遠端程式碼執行弱點
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
--   修正此問題：在使用 System Center Configuration Manager 時，會導致 Office 2013到 Office 2016 的自動升級失敗。
+-   修正此問題： Office 2013 的自動的升級至 Office 2016 來使用 Configuration Manager 時失敗。
 -   修正此問題：透過公司目錄從市集部署的舊版增益集不會載入。
 
 
@@ -909,7 +909,7 @@ ms.locfileid: "32439128"
 -   修正此問題：在 Office 文件中插入 SVG 影像後，SVG 影像會在儲存和重新開啟文件時消失。
 -   修正此問題：非英文版使用者在啟動 Office 期間，顯示下列錯誤訊息：「產品金鑰的最大長度為 25 個字元。」
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 System Center Configuration Manager 觸發的更新會將登錄中的 UpdateChannel 設定變更成某個無效的更新通道。
+-   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
 
 
 
