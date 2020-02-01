@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2102838b298c0a0ef27ba36e7bfd101697b2651e
-ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
+ms.openlocfilehash: 9172c2b791b4dde78a7683174e13f3664d6c9bc1
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41576573"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629203"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,33 @@ ms.locfileid: "41576573"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2001-january-29"></a>版本 2001：1 月 29 日
+*版本 2001 (組建 12430.20184)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="outlook"></a>Outlook
+
+- 解決重新命名簽名時，使用者遇到當機的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-27"></a>版本 2001：1 月 27 日
 *版本 2001 (組建 12430.20170)*
