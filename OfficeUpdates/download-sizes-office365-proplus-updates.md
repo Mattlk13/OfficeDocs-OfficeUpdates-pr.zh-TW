@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: f16de46a5402e75b551898fc255eb5ff3ea5f1e5
-ms.sourcegitcommit: d13d7308e9454f121ea1a60a0f035d461e4016c3
+ms.openlocfilehash: 9bf11c4176ba72a31d1bd5ea1bfa46d6217a6805
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2020
-ms.locfileid: "41173389"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650801"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -29,6 +29,38 @@ ms.locfileid: "41173389"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="january-30-2020"></a>2020 年 1 月 30 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 30, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2001 (組建 12430.20184)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1912 (組建 12325.20344) <br/> |2020 年 1 月 22 日 <br/> |134<br/> |
+|版本 1912 (組建 12325.20298) <br/> |2020 年 1 月 14 日 <br/> |138<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 30, 2020)
+
+## <a name="january-22-2020"></a>2020 年 1 月 22 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 22, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 1912 (組建 12325.20344)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1912 (組建 12325.20298) <br/> |2020 年 1 月 14 日 <br/> |53<br/> |
+|版本 1912 (組建 12325.20288) <br/> |2020 年 1 月 8 日 <br/> |59<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 22, 2020)
 
 ## <a name="january-14-2020"></a>2020 年 1 月 14 日
 

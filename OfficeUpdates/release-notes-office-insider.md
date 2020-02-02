@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3889a3f93c8b83129928c95fd9880472de0be8eb
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: bd7a0012ea1f348df0c7f581ba06ef1bf05e3324
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230081"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650831"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,37 @@ ms.locfileid: "41230081"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2002-january-31"></a>版本 2002：1 月 31 日
+*版本 2002 (組建 12513.20010)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **即時讀取與回覆：** 直接從電子郵件回覆註解和提及，而不需開啟活頁簿。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 修正根據保留原則到期的電子郵件會顯示兩個標籤的問題。 其中一個顯示郵件將在一天內過期，另一個則顯示將在兩天內到期。
+
+### <a name="word"></a>Word
+
+- 修正在具有「反轉」頁面色彩的閱讀模式中，備註提示未顯示的問題。
+
+- 修正在編輯備註之後將文字設為斜體然後再張貼，斜體格式設定遺失的問題。
+
+- 修正備註內容功能表中的備註命令 (編輯備註、回覆備註、刪除備註、解決備註) 未顯示的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-january-17"></a>版本 2002：1 月 17 日
 *版本 2002 (組建 12508.20000)*
