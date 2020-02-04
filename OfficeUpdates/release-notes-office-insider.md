@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: bd7a0012ea1f348df0c7f581ba06ef1bf05e3324
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
+ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650831"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711301"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -36,6 +36,8 @@ ms.locfileid: "41650831"
 ### <a name="excel"></a>Excel
 
 - **即時讀取與回覆：** 直接從電子郵件回覆註解和提及，而不需開啟活頁簿。
+
+- **查詢編輯器中的資料分析：** 取得欄位資料的概覽分析、識別錯誤和空白值，查看分佈長條圖等。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
