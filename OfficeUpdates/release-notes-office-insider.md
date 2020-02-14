@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
-ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
+ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
+ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41711301"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931959"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,65 @@ ms.locfileid: "41711301"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2002-february-07"></a>版本 2002：2 月 7 日
+*版本 2002 (組建 12527.20040)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **在查詢設計工具、SQL 檢視和關聯視窗中工作時更具生產力：** 在資料表上按一下滑鼠右鍵即可開啟、設計、調整大小及隱藏它。 在 SQL 檢視中搜尋及取代文字。 在 [關聯圖] 視窗中選取多個資料表。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此更新會修正使用 ADODB 的問題。 VB 程式碼中的記錄器物件可能會不正確地報告錯誤。
+
+- 此更新修正可能會導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
+
+### <a name="excel"></a>Excel
+
+- 修正使用「資料剖析」搭配動態陣列時，Excel 會當機的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 修正以月檢視在行事曆中捲動時，無法顯示之前的行事曆活動的問題。
+
+- 解決在 Citrix 環境中檢視 30 個以上的行事曆時，導致使用者遇到當機的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正關閉檔案之後，如果有任何事件處理常式正在執行，PowerPoint 就不會立即將它從 [簡報] 集合中移除的問題。 因此，物件模型報告的開啟中簡報數目會不正確，且會防止關閉 PowerPoint。
+
+- 修正具有深色螢光筆色彩的白色文字，在灰階中會以黑色列印的螢光筆問題。
+
+### <a name="word"></a>Word
+
+- 更新和瀏覽目錄時，有時可能會在文件上顯示灰色區域的問題。
+
+- 修正共同撰寫文件時，可能不會保留根註解的草稿版本的問題。
+
+- 已修正在註解卡片之間來回切換時，有時會顯示一開始選取的註解，並將某選取範圍醒目提示的問題。
+
+- 修正在已撰寫註解但未張貼，且使用者嘗試儲存檔案的情況下，使用 [瀏覽] 來儲存檔案沒有作用的問題。
+
+- 將 SlideTrack 啟用且 [註解] 窗格關閉時，Ctrl+Alt+M 可能無法開啟 [註解] 窗格的問題。
+
+- 修正在表格中新增 @提及時可能發生錯誤訊息：「文件中的表格已經毀損」的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 解決可能導致挪威耐諾斯克 (nn-no) 校訂工具套件安裝不正確的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-january-31"></a>版本 2002：1 月 31 日
 *版本 2002 (組建 12513.20010)*
