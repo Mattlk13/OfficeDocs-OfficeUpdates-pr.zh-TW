@@ -3,19 +3,18 @@ title: Office 2016 產品的最新的.msp 檔案清單
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: IT 專業人員提供永久版本的 Office 2016，使用 Windows Installer (MSI) 的最新的.msp 檔案清單
-ms.openlocfilehash: 0768d4c864c6ef7140a1e867e71cad3e814721aa
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 507332be1206c851b1224484e9328a437c23e061
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122032"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978671"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品的最新的.msp 檔案清單
 
@@ -25,20 +24,14 @@ ms.locfileid: "41122032"
   
 ## <a name="most-recently-updated-msp-files"></a>最近已更新的.msp 檔案
 
-下表列出**年 1 月 2020年**中已更新的.msp 檔案。
+下表列出**年 2 月 2020年**中已更新的.msp 檔案。
   
 |非安全性更新 * * *|安全性更新 * * *|
 |:-----|:-----|
-|ace-x-無<br/>|excel-x-無  <br/>|
-|lync-x-無<br/>|圖表-x-無  <br/>|
-|msodll20-x-無<br/>|  <br/>|
-|msodll99l-x-無<br/>|  <br/>|
-|outlook-x-無<br/>| <br/>|
-|powerpoint-x-無<br/>| <br/>|
-|專案-x-無 <br/>| <br/>|
-|visio-x-無<br/>|<br/>|
-|vviewer-x-無<br/>|  <br/>|
-|word-x-無<br/>|  <br/>|
+|專案-x-無<br/>|excel-x-無  <br/>|
+|word-x-無<br/>|outlook-x-無  <br/>|
+
+
 
 
 
@@ -47,7 +40,7 @@ ms.locfileid: "41122032"
 
 ## <a name="list-of-all-msp-files"></a>所有的.msp 檔案的清單
 
-下表列出自 Office 2016 已於 2015 年 9 月發行已經發行的所有.msp 檔案。
+下表列出自 Office 2016 已於 2015 年 9 月發行已經發行的所有.msp 檔案。 其中沒有大於非安全性發行日期.msp 檔案證券發行日期，因為它已經由安全性發行取代，就不會需要非安全性版本。
   
 |.msp filename * * *|產品 * * *|非安全性發行日期 * * *|非安全性 KB 文章 * * *|安全性發行日期 * * *|安全性版本 KB 文章 * * *|安全性 KB 抑制 * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -60,7 +53,7 @@ ms.locfileid: "41122032"
 |csisyncclient-x-無  <br/> |Office 2016  <br/> |2016 年 10 月 4日日  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |dcf-x-無  <br/> |Office 2016  <br/> |2019 年 1 月 2 日  <br/> |[4461435](https://support.microsoft.com/help/4461435) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |eqnedt32-x-無  <br/> |Office 2016  <br/> |不適用  <br/> |不適用  <br/> |2018 年 1 月 9 日  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|excel-x-無  <br/> |Excel 2016  <br/> |2019 年 8 月 6 日  <br/> |[4475550](https://support.microsoft.com/help/4475550) <br/> |2020 年 1 月 14 日  <br/> |[4484217](https://support.microsoft.com/help/4484217) <br/> |[4484179](https://support.microsoft.com/help/4484179) <br/> |
+|excel-x-無  <br/> |Excel 2016  <br/> |2019 年 8 月 6 日  <br/> |[4475550](https://support.microsoft.com/help/4475550) <br/> |2020 年 2 月 11 日  <br/> |[4484256](https://support.microsoft.com/help/4484256) <br/> |[4484217](https://support.microsoft.com/help/4484217) <br/> |
 |excelpp-x-無  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[4011629](https://support.microsoft.com/help/4011629) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |exppdf-x-無  <br/> |Office 2016  <br/> |2016 年 4 月 5日日  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |filterpack-x-無  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[3114528](https://support.microsoft.com/help/3114528) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
@@ -94,11 +87,11 @@ ms.locfileid: "41122032"
 |otkruntimertl-x-無  <br/> |Office 2016  <br/> |不適用  <br/> |不適用  <br/> |2016 年 3 月 8日日  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |不適用  <br/> |
 |outexum-x-無  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |outlfltr-x-無  <br/> |Office 2016  <br/> |2016 年 8 月 2日日  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|outlook-x-無  <br/> |Outlook 2016  <br/> |2020 年 1 月 7 日  <br/> |[4484212](https://support.microsoft.com/help/4484212) <br/> |2019 年 8 月 13 日  <br/> |[4475553](https://support.microsoft.com/help/4475553) <br/> |[4475517](https://support.microsoft.com/help/4475517) <br/> |
+|outlook-x-無  <br/> |Outlook 2016  <br/> |2020 年 1 月 7 日  <br/> |[4484212](https://support.microsoft.com/help/4484212) <br/> |2020 年 2 月 11 日  <br/> |[4484250](https://support.microsoft.com/help/4484250) <br/> |[4475553](https://support.microsoft.com/help/4475553) <br/> |
 |policytips-x-無  <br/> |Office 2016  <br/> |2016 年 6 月 7日日  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |powerpoint-x-無  <br/> |PowerPoint 2016  <br/> |2020 年 1 月 7 日  <br/> |[4484216](https://support.microsoft.com/help/4484216) <br/> |2019 年 12 月 10 日  <br/> |[4484166](https://support.microsoft.com/help/4484166) <br/> |[4461532](https://support.microsoft.com/help/4461532) <br/> |
 |ppaddin-x-無  <br/> |Office 2016  <br/> |2017 年 12 月 5日日  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|專案-x-無  <br/> |Project 2016  <br/> |2020 年 1 月 7 日  <br/> |[4484140](https://support.microsoft.com/help/4484140) <br/> |2019 年 9 月 10 日  <br/> |[4475589](https://support.microsoft.com/help/4475589) <br/> |[4461478](https://support.microsoft.com/help/4461478)  <br/> |
+|專案-x-無  <br/> |Project 2016  <br/> |2020 年 2 月 4 日  <br/> |[4484253](https://support.microsoft.com/help/4484253) <br/> |2019 年 9 月 10 日  <br/> |[4475589](https://support.microsoft.com/help/4475589) <br/> |[4461478](https://support.microsoft.com/help/4461478)  <br/> |
 |證明-x-無  <br/> |Office 2016  <br/> |2019 年 5 月 7 日  <br/> |[4464538](https://support.microsoft.com/help/4464538) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |protocolhndlr-x-無  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[3114852](https://support.microsoft.com/help/3114852) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |publisher-x-無  <br/> |Publisher 2016  <br/> |2017 年 8 月 1日日  <br/> |[3178696](https://support.microsoft.com/help/3178696) <br/> |2015 年 11 月 10 日  <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |不適用  <br/> |
@@ -110,7 +103,7 @@ ms.locfileid: "41122032"
 |vbe7-x-無  <br/> |Office 2016  <br/> |2016 5 月 3日日  <br/> |[3114369](https://support.microsoft.com/help/3114369) <br/> |2016 年 11 月 8日日  <br/> |[3115135](https://support.microsoft.com/help/3115135) <br/> |不適用  <br/> |
 |visio-x-無  <br/> |Visio 2016  <br/> |2020 年 1 月 7 日  <br/> |[4464575](https://support.microsoft.com/help/4464575) <br/> |2016 年 6 月 14 日  <br/> |[3115041](https://support.microsoft.com/help/3115041) <br/> |[3114511](https://support.microsoft.com/help/3114511)  <br/> |
 |vviewer-x-無  <br/> |Office 2016  <br/> |2020 年 1 月 7 日  <br/> |[2920709](https://support.microsoft.com/help/2920709) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|word-x-無  <br/> |Word 2016  <br/> |2020 年 1 月 7 日  <br/> |[4484219](https://support.microsoft.com/help/4484219) <br/> |2019 年 12 月 10 日  <br/> |[4484169](https://support.microsoft.com/help/4484169) <br/> |[4475540](https://support.microsoft.com/help/4475540) <br/> |
+|word-x-無  <br/> |Word 2016  <br/> |2020 年 2 月 4 日  <br/> |[4484249](https://support.microsoft.com/help/4484249) <br/> |2019 年 12 月 10 日  <br/> |[4484169](https://support.microsoft.com/help/4484169) <br/> |[4475540](https://support.microsoft.com/help/4475540) <br/> |
 |wxpcore-x-無  <br/> |Office 2016  <br/> |2016 年 10 月 4日日  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |wxpnse-x-無  <br/> |Office 2016  <br/> |2016 年 10 月 4日日  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |xdext-x-無  <br/> |Office 2016  <br/> |2017 年 8 月 1日日  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
