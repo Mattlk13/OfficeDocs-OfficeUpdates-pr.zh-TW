@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9172c2b791b4dde78a7683174e13f3664d6c9bc1
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629203"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978701"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,130 @@ ms.locfileid: "41629203"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2002-february-11"></a>版本 2002：2 月 11 日
+*版本 2002 (組建 12527.20092)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。
+
+### <a name="word"></a>Word
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+### <a name="office-suite"></a>Office 套件
+
+- **更清楚的狀態列圖示：** 狀態列圖示現在更容易查看。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- Access 範本應不再導致資料庫中的附件欄出現故障。 個體化範本後，您現在應該可以將附件欄新增至資料庫。
+
+- 此更新會修正使用 ADODB 的問題。 VB 程式碼中的記錄器物件可能會不正確地報告錯誤。
+
+- 此更新修正可能會導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正未顯示操作功能表中的註解命令的問題。
+
+
+- 已修正以下問題：將文字轉換成具有溢出陣列之儲存格的欄時，某些使用者發生當機。
+
+
+- 修正使用「資料剖析」搭配動態陣列時，Excel 會當機的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 修正以月檢視在行事曆中捲動時，無法顯示之前的行事曆活動的問題。
+
+- 儲存在左側瀏覽窗格 [我的最愛] 的資料夾可能會間歇性消失。
+
+
+- 已解決導致使用者在指定無效寄件者地址時發生當機的問題。
+
+
+- 已解決導致在某些情況下無法使用相關選項來停用標幟項目醒目提示的問題。
+
+- 已解決導致使用者在取消帳戶設定時發生當機的問題。
+
+
+- 修正根據保留原則到期的電子郵件會顯示兩個標籤的問題。 其中一個顯示郵件將在一天內過期，另一個則顯示將在兩天內到期。
+
+
+- 已解決在 Citrix 環境中檢視 30 個以上的行事曆時，導致使用者遇到當機的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正使用 PowerPoint 筆跡動畫時，無法完整轉譯或跳過的問題。
+
+- 已修正關閉檔案之後，如果有任何事件處理常式正在執行，PowerPoint 就不會立即將它從 [簡報] 集合中移除的問題。 因此，物件模型報告的開啟中簡報數目會不正確，且會防止關閉 PowerPoint。
+
+
+- 修正具有深色螢光筆色彩的白色文字，在灰階中會以黑色列印的螢光筆問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正以下問題：固定工期類型的 100% 工作可能會誤將其完成百分比計算為小於 100% 完成。
+
+
+### <a name="word"></a>Word
+
+- 更新和瀏覽目錄時，有時可能會在文件上顯示灰色區域的問題。
+
+
+- 修正在已撰寫註解但未張貼，且使用者嘗試儲存檔案的情況下，使用 [瀏覽] 來儲存檔案沒有作用的問題。
+
+
+- 已修正在註解卡片之間來回切換時，有時會顯示一開始選取的註解，並將某選取範圍醒目提示的問題。
+
+
+- 已修正在編輯備註之後將文字設為斜體然後再張貼，斜體格式設定遺失的問題。
+
+
+- 已修正在具有「反轉」頁面色彩的閱讀模式中，備註提示未顯示的問題。
+
+
+- 已修正共同撰寫文件時，可能不會保留根註解的草稿版本的問題。
+
+
+- 將 SlideTrack 啟用且 [註解] 窗格關閉時，Ctrl+Alt+M 可能無法開啟 [註解] 窗格的問題。
+
+
+- 修正在表格中新增 @提及時可能發生錯誤訊息：「文件中的表格已經毀損」的問題。
+
+
+- 修正備註內容功能表中的備註命令 (編輯備註、回覆備註、刪除備註、解決備註) 未顯示的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 解決可能導致挪威耐諾斯克 (nn-no) 校訂工具套件安裝不正確的問題。
+
+
+- 此變更解決使用 Intel Integrated GPU 的圖形配接卡報告問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-january-29"></a>版本 2001：1 月 29 日
 *版本 2001 (組建 12430.20184)*

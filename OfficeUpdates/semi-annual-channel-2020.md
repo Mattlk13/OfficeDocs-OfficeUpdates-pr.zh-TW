@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 78d8cf069bd7e5a3dca76ca8a28262a278433237
-ms.sourcegitcommit: b27bfae6a18d6adc6e1498d019ff0064ee2308b6
+ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "41576586"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978581"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年半年通道版本的版本資訊
 
@@ -25,6 +25,103 @@ ms.locfileid: "41576586"
 >- 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
 
+
+## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
+*版本 1908 (組建 11929.20606)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 此更新已修正使用 VBA 將影像新增到圖表的頁首/頁尾時發生錯誤的問題。
+
+- 已修正在預覽列印或列印時群組方塊控制項的框線無法顯示的問題。
+
+- 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
+
+- 已修正圖表標題中影像檔案大小在儲存包含圖表的活頁簿時增加的問題。
+
+
+- 已修正以下問題：將選取範圍與交互參照的活頁簿保持同步時，導致交互參照的活頁簿中的 DBCS 字元損毀。
+
+- 已解決使用自動調整來調整列高時，核取方塊可能收縮的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已解決導致使用者在指定無效寄件者地址時發生當機的問題。
+
+- 已解決導致使用者處理衝突郵件時同步失敗的問題。
+
+- 已解決導致使用者在啟動 Outlook 時，「正在載入設定檔」畫面時停滯的問題。
+
+- 已解決導致使用者在變更檢視時發生當機的問題。
+
+
+- 已解決在 Citrix 環境中檢視 30 個以上的行事曆時，導致使用者遇到當機的問題。 [此處](https://support.microsoft.com/zh-TW/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)是記錄舊版問題的個別 KB。
+
+- 已解決以下問題：使用者將共用行事曆資料夾同步到 OST 時發生問題，這導致嘗試與這些資料夾互動時發生權限錯誤。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已改善複製貼上的案例，即將 PowerPoint 投影片中的圖形複製並貼到其他投影片可能會因為異常而失敗。
+
+
+- 已修正導致共同作業使用者之間效能較低的問題。
+
+- 已修正以下問題：當檔案以漸進式開啟時，若其中一個投影片包含多個內嵌媒體串流可能會發生問題。
+
+- 已修正以下問題：首次啟動 PowerPoint 時，不受信任的增益集可能不會顯示安全性警告訊息列。
+
+### <a name="project"></a>Project
+
+- 已修正以下問題：由於基準行事曆變更時未更新資源行事曆，而導致時程表和專案計劃之間的實際工作可能不同。
+
+### <a name="word"></a>Word
+
+- 已從遭取代的 API 移除，以修正 Word 的當機問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更解決開啟損毀的檔案時正確呈現影像的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
+*版本 1902 (組建 11328.20526)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決導致使用者在傳送加密電子郵件時遇到「不支援加密演算法」錯誤的問題。
+
+
+### <a name="word"></a>Word
+
+- 已從遭取代的 API 移除，以修正 Word 的當機問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+## <a name="version-1808-february-11"></a>版本 1808：2 月 11 日
+*版本 1808 (組建 10730.20438)*
+
+安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908 (組建 11929.20562)*
