@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: d35878ad780bad5659b9e12d6b5efe6b921cab44
-ms.sourcegitcommit: 8175a89ddb651d8118d1c0a4823622dd1d05cb57
+ms.openlocfilehash: ce7902418228e610097f76cc676870d132afa30c
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41830767"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978611"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -30,29 +30,45 @@ ms.locfileid: "41830767"
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="february-6-2020"></a>2020 年 2 月 6 日
+## <a name="february-11-2020"></a>2020 年 2 月 11 日
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+[//]: # (DO NOT REMOVE CONTENT STARTFebruary 11, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2001 (組建 12430.20264)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2001 (組建 12430.20184) <br/> |2020 年 1 月 30 日 <br/> |54<br/> |
+|版本 1912 (組建 12325.20344) <br/> |2020 年 1 月 22 日 <br/> |137<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-<i>預期的版本為版本 1908 (組建 11929.20592)。</i>
+最新的版本是版本 1908 (組建 11929.20606)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1908 (組建 11929.20562) <br/> |2020 年 1 月 14 日 <br/> |65<br/> |
 |版本 1902 (組建 11328.20492) <br/> |2019 年 12 月 10 日 <br/> |339<br/> |
 
-### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
-<i>預期的版本為版本 1908 (組建 11929.20606)。</i>
+### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+
+最新的版本是版本 1908 (組建 11929.20606)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 1908 (組建 11929.20562) <br/> |2020 年 1 月 14 日 <br/> |65<br/> |
 |版本 1908 (組建 11929.20516) <br/> |2019 年 12 月 10 日 <br/> |68<br/> |
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+
+[//]: # (DO NOT REMOVE CONTENT ENDFebruary 11, 2020)
+
+
+
 
 ## <a name="january-30-2020"></a>2020 年 1 月 30 日
 

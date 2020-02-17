@@ -3,19 +3,18 @@ title: Microsoft AutoUpdate (MAU) 的版本歷程記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 9d81237da3cb66bbfe2242e270ca416e709ec30e
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: ea4c4a71c501be72e744e53b9ac3681a9ef9e5bc
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122282"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978721"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -30,6 +29,26 @@ ms.locfileid: "41122282"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="february-2020-release"></a>2020 年 2 月版本
+
+**發行日期：** 2020 年 2 月 11 日
+
+*Microsoft AutoUpdate 4.20*
+
+ **功能更新：**
+
+- 只有在裝置上至少有 1 個應用程式使用 MAU 註冊時，才會啟動 Microsoft AutoUpdate UI
+- 錯誤修正及增強功能
+
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.20 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+397EAABFC230E801C571917BEED548A988C716F121077ED43669FF012FE9D7CE<br/><br/>
 
 ## <a name="january-2020-release"></a>2020 年 1 月發行
 
