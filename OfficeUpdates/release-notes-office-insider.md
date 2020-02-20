@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 8ffbc6900746ae11caf5b6e7d39a15b0d87a4a20
-ms.sourcegitcommit: e9b03ec15c386e14680ed6c6693483bd24b224c4
+ms.openlocfilehash: f403048ef51f48be9f4939e46e10324f110b3c80
+ms.sourcegitcommit: 38f19728803d3e3a20b16932a92cbb400dcdfb29
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931959"
+ms.lasthandoff: 02/19/2020
+ms.locfileid: "42155442"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,51 @@ ms.locfileid: "41931959"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2003-february-14"></a>版本 2003：2 月 14 日
+*版本 2003 (組建 12607.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+
+### <a name="word"></a>Word
+
+- **在繪圖工具箱中找到筆跡編輯器：** 選取 [繪圖]，然後選擇 [筆跡編輯器] 手寫筆以使用手指或數位筆編輯文件。 [深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+### <a name="office-suite"></a>Office 套件
+
+- **更清楚的狀態列圖示：** 狀態列圖示現在更容易查看
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 已解決導致使用者無法存取「空閒/忙碌選項」行事曆權限對話方塊的問題。
+
+- 修正了開啟某些從不同時區傳送的週期性會議執行個體時，可能會導致出現警示：「很抱歉，無法開啟這此項目」的問題。
+
+- 已解決從該郵件拖放附件後造成使用者無法重新開啟 .msg 檔案的問題。
+
+- 修正從 Outlook 上傳檔案附件到 OneDrive 後，造成包含括號之附件名稱的檔案名稱被變更。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正儲存包含 Excel 圖表的 PowerPoint 或 Word 文件會導致失敗的問題。
+
+### <a name="word"></a>Word
+
+- 修正文件中的圖片在匯出成 PDF 後，會失去透明度的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-february-07"></a>版本 2002：2 月 7 日
 *版本 2002 (組建 12527.20040)*
