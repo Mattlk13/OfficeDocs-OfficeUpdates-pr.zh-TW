@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 37292929bc5d1301d662a8ced97c7cabc6d273de
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 34ca75e8083c2386a7b779975b01579fda80d11b
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978701"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228373"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -30,10 +30,61 @@ ms.locfileid: "41978701"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
+## <a name="version-2002-february-21"></a>版本 2002：2 月 21 日
+*版本 2002 (組建 12527.20174)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **在查詢設計工具、SQL 檢視和關聯視窗中工作時更具生產力：** 在資料表上按一下滑鼠右鍵即可開啟、設計、調整大小及隱藏它。 在 SQL 檢視中搜尋及取代文字。 在 [關聯圖] 視窗中選取多個資料表。
+
+### <a name="outlook"></a>Outlook
+
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>解決導致會議的位置欄位中的逗號變成分號的問題。</div>
+
+
+- <div>解決在多個視窗中檢視相同項目時可能會導致當機的問題。</div>
+
+
+- <div>解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。&nbsp;</div>
+
+
+- <div>解決會導致使用黑色佈景主題的使用者看到 [從]&quot;&quot; 下拉式功能表在白色背景上顯示白色文字的問題。</div>
+
+
+- <div><span style="display:inline !important;">此變更會還原在郵件標頭中檢視多行主旨的功能。</span><br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-february-18"></a>版本 2002：2 月 18 日
+*版本 2002 (組建 12527.20138)*
+
 ## <a name="version-2002-february-11"></a>版本 2002：2 月 11 日
 *版本 2002 (組建 12527.20092)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)

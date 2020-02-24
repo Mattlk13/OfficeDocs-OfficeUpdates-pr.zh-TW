@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 35d4a8383dcfcb81a872901337cb5f36ed6166e6
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
+ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978601"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "42228362"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -24,6 +24,10 @@ ms.locfileid: "41978601"
 >
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2001-february-19"></a>版本 2001：2 月 19 日
+*版本 2001 (組建 12430.20288)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2001-february-11"></a>版本 2001：2 月 11 日
 *版本 2001 (組建 12430.20264)*
