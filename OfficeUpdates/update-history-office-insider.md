@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 06c71afbb14c9e6f76c905b58b73c0217e12f194
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: 775c924b73f6fcbb2da028fd371f42e6757ad47f
+ms.sourcegitcommit: 5b67d3d0509788c923442c71e48e17d397f94b09
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228412"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260774"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
@@ -31,6 +31,9 @@ ms.locfileid: "42228412"
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 2 月 24 日**<br/>
+版本 2003 (組建 12619.20002)<br/>
 
 **2020 年 2 月 18 日**<br/>
 版本 2003 (組建 12615.20000)<br/>
