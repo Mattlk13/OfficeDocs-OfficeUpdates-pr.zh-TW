@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: f7255ceead96026615d4e8a8c56826ebf53c41b3
-ms.sourcegitcommit: 220736aa7c6bf7466beba7f3291f068546c3c77e
+ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
+ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42228362"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42278584"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -24,6 +24,47 @@ ms.locfileid: "42228362"
 >
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2002-february-25"></a>版本 2002：2 月 25 日
+*版本 2002 (組建 12527.20194)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Outlook 資料夾窗格的更新：** 隨附於 Aesthetic v1 的新資料夾清單將會有更新外觀與風格，且 [群組] 將會提升至與 [資料夾] 和 [我的最愛] 相同的階層。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 CUBEVALUE 函數有時會傳回不正確結果的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 解決導致會議的位置欄位中的逗號變成分號的問題。
+
+- 解決在多個視窗中檢視相同項目時可能會導致當機的問題。
+
+- 已解決導致在某些情況下無法使用相關選項來停用標幟項目醒目提示的問題。
+
+- 解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。
+
+
+- 解決會導致使用黑色佈景主題的使用者看到 [寄件者]&quot;&quot; 下拉式功能表在白色背景上顯示白色文字的問題。
+
+
+- 此變更會還原在郵件標頭中檢視多行主旨的功能。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2001-february-19"></a>版本 2001：2 月 19 日
 *版本 2001 (組建 12430.20288)*
