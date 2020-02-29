@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
+ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282827"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322589"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -33,18 +33,15 @@ ms.locfileid: "42282827"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
- - **使用者現在可以在 Word 和 Excel 中將物件儲存為 SVG：** 使用者可以將圖表、圖案、筆跡、圖示、圖片等物件儲存為 SVG [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **使用者現在可以在 Word 和 Excel 中將物件儲存為 SVG：** 使用者可以將圖表、圖案、筆跡、圖示、圖片等物件儲存為 SVG。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **活頁簿統計資料：** 我們會計算儲存格、公式、圖表、表格，這樣您就不需要計算。
 
 - **查詢編輯器中的資料分析：** 取得欄位資料的總覽分析、識別錯誤和空白值，查看分佈長條圖等。
 
-### <a name="outlook"></a>Outlook
-- **Outlook 資料夾窗格的更新： **隨附於 Aesthetic v1 的新資料夾清單將會有更新外觀與風格，且 [群組] 將會提升至與 [資料夾] 和 [我的最愛] 相同的階層。
-
 ### <a name="word"></a>Word
 
-- **使用者現在可以在 Word 和 Excel 中將物件儲存為 SVG：** 使用者可以將圖表、圖案、筆跡、圖示、圖片等物件儲存為 SVG [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **使用者現在可以在 Word 和 Excel 中將物件儲存為 SVG：** 使用者可以將圖表、圖案、筆跡、圖示、圖片等物件儲存為 SVG。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +83,7 @@ ms.locfileid: "42282827"
 ## <a name="version-2001-february-11"></a>版本 2001：2 月 11 日
 *版本 2001 (組建 12430.20264)*
 
-安全性更新列於[此處](https://docs.microsoft.com/zh-TW/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
