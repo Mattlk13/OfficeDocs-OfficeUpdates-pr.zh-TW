@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: bbbd7106d1da3edb232ac5e8d1ea74280a0ff564
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: 075b651912f81195921e102d847c3ca61f484a7b
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278594"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345082"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
@@ -31,7 +31,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|2002<br/>|12527.20194<br/>|2020 年 2 月 25 日<br/>|版本 2003 已推出<br/>|
+|每月<br/>|2002<br/>|12527.20242<br/>|2020 年 3 月 1 日<br/>|版本 2003 已推出<br/>|
 |半年 (已設定目標)<br/>|1908<br/>|11929.20606<br/>|2020 年 2 月 11 日<br/>|2020 年 3 月 10 日<br/>|
 |半年<br/>|1908<br/>|11929.20606<br/>|2020 年 2 月 11 日<br/>|2021 年 3 月 9 日<br/>|
 |半年<br/>|1902<br/>|11328.20526<br/>|2020 年 2 月 11 日<br/>|2020 年 9 月 8 日<br/>|
@@ -47,6 +47,7 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|3 月 1 日|[版本 2002 (組建 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020|2 月 25 日|[版本 2002 (組建 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
 |2020|2 月 19 日|[版本 2001 (組建 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | |
 |2020|2 月 11 日|[版本 2001 (組建 12430.20264)](monthly-channel-2020.md#version-2001-february-11)|[版本 1908 (組建 11929.20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[版本 1908 (組建 11929.20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[版本 1902 (組建 11328.20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[版本 1808 (組建 10730.20438)](semi-annual-channel-2020.md#version-1808-february-11)|
