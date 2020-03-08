@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345132"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549174"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,31 @@ ms.locfileid: "42345132"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
+*版本 2002 (組建 12527.20278)*
+
+- 各種錯誤和效能修正。
+
+
+## <a name="version-2002-march-04"></a>版本 2002：3 月 4 日
+*版本 2002 (組建 12527.20264)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>已解決的問題
+
+### <a name="project"></a>Project
+- <div>修正無法正確計算摘要工作日期的問題。</div>
+
+
+### <a name="office-suite"></a>Office 套件
+- <div>修正在 Word/Excel/PowerPoint 中開啟來自相同 SharePoint 文件庫的多個文件時，僅掃描開啟的第一個文件是否符合原則的問題。</div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-01"></a>版本 2002：3 月 1 日
 *版本 2002 (組建 12527.20242)*
