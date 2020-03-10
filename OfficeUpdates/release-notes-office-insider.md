@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345142"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568859"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
-本文包含 Windows 電腦版 Word、Excel、PowerPoint、Outlook、Access 和 Project 測試人員組建的版本資訊。 我們每週都強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們在一段時間內會經常推出新功能 (某些時候還有修正) 給測試人員。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
+本文包含 Windows 電腦版 Word、Excel、PowerPoint、Outlook、Access 和 Project 測試人員組建的版本資訊。 我們每週都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們在一段時間內會經常推出新功能 (某些時候還有修正) 給測試人員。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
 
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯。
@@ -26,6 +26,36 @@ ms.locfileid: "42345142"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2003-march-06"></a>版本 2003：3 月 6 日
+*版本 2003 (組建 12624.20086)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 修正使用 Outlook Web Access 建立規則時不會保存到 Exchange 伺服器，並導致衝突的問題。
+- 修正 Outlook 在深色模式中不會在 [寄件者:] 欄位中顯示下拉式清單的問題。
+- 解決在其他應用程式中開啟某個檔案時，導致使用者無法透過檔案總管將該檔案附加至郵件訊息的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正將滑鼠移至縮圖上時，建議的縮圖閃動的問題。 在某些情況下，這可能會導致 PowerPoint 當機。
+
+### <a name="word"></a>Word
+
+- 修正受保護無法編輯之文件的比較功能問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正 Word/Excel/PowerPoint 中的使用者主體名稱 (UPN) 不再區分大小寫，導致在 SharePoint 上使用檔案時較少發生失敗的問題。
+
+- 修正 [檔案]\[選項] 對話方塊上的 [確定] 按鈕顯示為灰色停用狀態，但功能並未受影響的外觀問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ## <a name="version-2003-february-28"></a>版本 2003：2 月 28 日
 *版本 2003 (組建 12619.20002)*
@@ -2271,9 +2301,9 @@ Outlook 多年來在同步共用信箱時，其資料夾的數量限制最多為
 
 #### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>[學習工具] 模式額外支援更多頁面色彩
 
-Word 中的 [學習工具] 新增更多頁面佈景主題色彩的支援，讓您能夠變更頁面的背景色彩。  許多人在背景全白或全黑時閱讀會有困難，因此我們在 PC 和 Mac 的 Word 中增加了色彩選項。
+Word 中的 [學習工具] 新增更多頁面佈景主題色彩的支援，讓您能夠變更頁面的背景色彩。  許多人在背景全白或全黑時閱讀會有困難，因此我們在 PC 版和 Mac 版 Word 中擴大了色彩選項。
 
-#### <a name="getting-started"></a>開始使用：
+#### <a name="getting-started"></a>快速入門：
 
 若要試用，請移至 [檢視] 索引標籤，選擇 [學習工具]，然後選擇 [頁面色彩]。
 
@@ -2537,7 +2567,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 #### <a name="getting-started"></a>開始使用：
 
 - 若要使轉化將兩個物件視為同一個物件，使用者可以使用 [選取窗格] 重新命名圖形。
-- 名稱前面必須加上「!!」 (兩個半形驚嘆號)，例如「!!名稱」，轉化才能用來覆寫預設比對行為
+- 名稱前面必須加上「!!」 (兩個半形驚嘆號)，轉化才能用來覆寫預設比對行為，例如「!!名稱」
 - 使用者可以繼續將圖形重新命名為不是以「!!」為開頭的任何名稱 不必擔心會變更轉化的運作方式
 
 #### <a name="scenarios-to-try"></a>可嘗試使用的案例：
@@ -2668,7 +2698,7 @@ Office 現在支援動畫模型，這類模型能在編輯器中播放，讓您�
 
 ### <a name="powerpoint"></a>PowerPoint
 - 我們已修正使用者無法使用鍵盤快速鍵 ctrl+alt+7/ctrl+alt+8 輸入方括號的問題
-- 我們已修正將本機影片插入至 PPT 會減少 C 磁碟機磁碟空間的問題
+- 我們已修正將本機影片插入至 PPT 會減少 'C' 磁碟機磁碟空間的問題
 - 我們已修正 [發佈至 Microsoft Stream] 按鈕無法向某些使用者顯示的問題
 
 ### <a name="outlook"></a>Outlook
