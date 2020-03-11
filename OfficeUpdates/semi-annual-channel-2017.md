@@ -1,5 +1,5 @@
 ---
-title: 在 2017年半年通道發行的版本資訊
+title: 2017中半年通道版本的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 提供 IT 專業人員針對半年通道的版本資訊版本的 Office 365 專業增強版 2017
+description: 為 IT 專業人員提供 Office 365 ProPlus 的半年通道發行資訊，2017中的版本資訊
 ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629260"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549224"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>在 2017年半年通道發行的版本資訊
+# <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017中半年通道版本的版本資訊
 
-這些版本資訊會提供新功能、 安全性更新和非安全性更新，在 2017年的 Office 365 專業增強版的半年通道更新所含的資訊。 
+這些版本資訊會提供2017中的 Office 365 ProPlus 半年通道更新中所含之新功能、安全性更新和非安全性更新的相關資訊。 
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
 
 
-## <a name="version-1705-december-12"></a>版本 1705年: 12 月 12 日
+## <a name="version-1705-december-12"></a>版本1705：12月12日
 *版本 1705 (組建 8201.2213)*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
@@ -37,10 +37,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1701-december-12"></a>版本 1701年: 12 月 12 日
+## <a name="version-1701-december-12"></a>版本1701：12月12日
 *版本 1701 (組建 7766.2130)*
 
-*這是自從 2017 年 6 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 1 月為止。不過，目前已提供新的順延通道版本 — 版本 1705 (組建 8201.2213) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2017年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2018年1月為止。不過，目前已提供新的延期通道版本—版本1705（組建8201.2213）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934)：Microsoft PowerPoint 資訊洩漏弱點
@@ -50,7 +50,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1705-november-24"></a>版本 1705年: 11 月 24 日
+## <a name="version-1705-november-24"></a>版本1705：11月24日
 *版本 1705 (組建 8201.2209)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
@@ -58,7 +58,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1705-november-14"></a>版本 1705年: 11 月 14 日
+## <a name="version-1705-november-14"></a>版本1705：11月14日
 *版本 1705 (組建 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -74,10 +74,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1701-november-14"></a>版本 1701年: 11 月 14 日
+## <a name="version-1701-november-14"></a>版本1701：11月14日
 *版本 1701 (組建 7766.2122)*
 
-*這是自從 2017 年 6 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 1 月為止。不過，目前已提供新的順延通道版本 — 版本 1705 (組建 8201.2207) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2017年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2018年1月為止。不過，目前已提供新的延期通道版本—版本1705（組建8201.2207）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877)：Microsoft Excel 安全性功能略過的弱點
@@ -92,7 +92,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1705-october-10"></a>版本 1705年： 年 10 月 10 日
+## <a name="version-1705-october-10"></a>版本1705：10月10日
 *版本 1705 (組建 8201.2200)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -113,10 +113,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1701-october-10"></a>版本 1701年： 年 10 月 10 日
+## <a name="version-1701-october-10"></a>版本1701：10月10日
 *版本 1701 (組建 7766.2119)*
 
-*這是自從 2017 年 6 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 1 月為止。不過，目前已提供新的順延通道版本 — 版本 1705 (組建 8201.2200) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2017年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2018年1月為止。不過，目前已提供新的延期通道版本—版本1705（組建8201.2200）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774)：Microsoft Outlook 安全性功能略過的弱點
@@ -132,7 +132,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1705-september-12"></a>版本 1705年: 9 月 12 日
+## <a name="version-1705-september-12"></a>版本1705：9月12日
 *版本 1705 (組建 8201.2193)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -140,7 +140,7 @@ ms.locfileid: "41629260"
 -   **大型數字 (bigint) 支援︰** 使用 Access 表格中的大型數字資料類型來計算大型數字，並且連結至或從使用相同資料類型 (例如 SQL Server 中的 bigint) 的外部資料庫匯入。 [詳細資訊](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **Windows 資訊保護 (WIP) 支援：**    Excel 現在已應用程式，而且可以區別公司與個人資料，正確判斷要保護，根據設定的原則。  [更多資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護（WIP）支援：**    Excel 現在是 enlightened 應用程式，而且可根據設定的原則，正確判斷要保護的公司與個人資料。  [詳細資訊](https://aka.ms/wiptechnet)
 -   **「取得與轉換」功能的改善︰** 在查詢編輯器中，藉由提供範例值來建立新資料行。隨著您鍵入，Excel 會偵測所需的轉換並顯示新資料行的預覽。
 -   **插入最近的連結︰** 輕鬆地將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **個人化預設樞紐分析表版面配置︰** 依您喜好的方式設定樞紐分析表，並在每次建立新的樞紐分析表時，以該版面配置開始作業。 [詳細資訊](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -154,7 +154,7 @@ ms.locfileid: "41629260"
 -   **使用畫筆來選取及變更物件︰** 使用數位畫筆選取物件控點，來調整大小、旋轉、移動以及執行更多動作。
 -   **地圖圖表：** 比較數值及顯示跨地理區域的類別。 [詳細資訊](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 影像：** 插入並編輯活頁簿內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案的圖示，移至 [插入\>圖例\>圖示。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存活頁簿至最近使用的資料夾。
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯活頁簿的支援已獲改善。 [詳細資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -191,7 +191,7 @@ ms.locfileid: "41629260"
 -   修正此問題：當畫面中有許多段落時，OneNote 畫布會隱藏內容或更新。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **Windows 資訊保護 (WIP) 支援：**    Outlook 現在是已應用程式，而且可以區別公司與個人資料，正確判斷要保護，根據設定的原則。  [更多資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護（WIP）支援：**    Outlook 現在是 enlightened 應用程式，而且可根據設定的原則，正確判斷要保護的公司與個人資料。  [詳細資訊](https://aka.ms/wiptechnet)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
@@ -199,7 +199,7 @@ ms.locfileid: "41629260"
 -   **設定附件的權限：** 針對 OneDrive 或 SharePoint 的附件，使用者可以設定收件者不論在組織內部或外部，是否有讀取或編輯文件的權限。
 -   **可釘選的工作窗格：** 在信箱中切換郵件時，讓增益集工作窗格保持開啟。 [詳細資訊](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG 影像：** 插入並編輯電子郵件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案的圖示，移至 [插入\>圖例\>圖示。  [更多資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 遠端程式碼執行弱點
@@ -220,14 +220,14 @@ ms.locfileid: "41629260"
 -   修正此問題：從使用高 DPI 的電腦傳送時，訊息中的影像會遭到封鎖。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **Windows 資訊保護 (WIP) 支援：**    PowerPoint 現在是已應用程式，而且可以區別公司與個人資料，正確判斷要保護，根據設定的原則。  [更多資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護（WIP）支援：**   現在 PowerPoint 是 enlightened 應用程式，而且可以根據設定的原則，正確判斷要保護的公司與個人資料。  [詳細資訊](https://aka.ms/wiptechnet)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **增益集的集中式部署**：系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案的圖示，移至 [插入\>圖例\>圖示。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同撰寫時即時輸入：** 請參閱其中其他人正在中的呈現方式和檢視變更為使用者輸入。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **共同撰寫時的即時輸入：** 查看其他人在簡報中的運作方式，並在輸入時查看變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
 -   **使用畫筆來選取並操作物件︰** 使用數位畫筆來移動、調整大小或旋轉物件，使用它們的控點，或使用套索工具筆跡支援的畫筆按鈕。
@@ -245,7 +245,7 @@ ms.locfileid: "41629260"
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **設定前置任務的快速下拉式清單︰** 您可以使用甘特圖下拉式清單選擇您想要連結至任務的前置任務或後續任務。
--   **任務摘要名稱︰**  唯讀任務欄位，顯示任務的摘要任務的名稱。  
+-   **任務摘要名稱：**  唯讀任務欄位，顯示任務的摘要任務名稱。  
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正此問題：在圖表/資料表窗格中，看不到為圖表/資料表選取的值。
@@ -288,7 +288,7 @@ ms.locfileid: "41629260"
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **插入連結：** 將連結新增至 IM 與群組聊天中，並提供連結的易記文字而非完整的 URL。
 -   **共用畫面的通知：** 在 IM 交談中共用畫面時，或在您離開會議之後仍繼續共用畫面時，對話視窗中所顯示的通知。該通知會提醒您仍在共用畫面，並方便您藉由「停止共用」按鈕來停止共用。
--   **Windows 資訊保護 (WIP) 支援：** 現在已支援商務用 Skype 作為「僅適用於 WIP (WIP Work Only)」應用程式。透過在您允許的應用程式清單中加入 Skype，向 Windows 指示其不處理個人資料。Windows 會代表商務用 Skype 保護資料。  [更多資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** 現在已支援商務用 Skype 作為「僅適用於 WIP (WIP Work Only)」應用程式。透過在您允許的應用程式清單中加入 Skype，向 Windows 指示其不處理個人資料。Windows 會代表商務用 Skype 保護資料。  [詳細資訊](https://aka.ms/wiptechnet)
 -   **密碼重設選項：** 當使用者至少登入失敗一次時，登入視窗會顯示 [重設] 按鈕連結。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
@@ -343,15 +343,15 @@ ms.locfileid: "41629260"
 -   **投影片的程式碼片段︰** 擷取 Visio 繪圖的程式碼片段，並將其匯出為 PowerPoint 投影片。 [詳細資訊](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **Windows 資訊保護 (WIP) 支援：**    Word 現在是已應用程式，而且可以區別公司與個人資料，正確判斷要保護，根據設定的原則。  [更多資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護（WIP）支援：**    Word 現在是 enlightened 應用程式，而且可以區分公司與個人資料，並根據設定的原則，正確判斷要保護的專案。  [詳細資訊](https://aka.ms/wiptechnet)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **增益集的集中式部署**： 系統管理員可以從部署並更新增益集給使用者或群組在 Office 365 系統管理中心。  [更多資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **增益集的集中式部署**：系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。  [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **並排：** 在整頁模式檢視中，將頁面如同一疊紙張般並排滑動以進行導覽。 [詳細資訊](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **使用畫筆來選取及變更物件︰** 使用數位畫筆選取物件控點，來調整大小、旋轉、移動以及執行更多動作。
 -   **SVG 影像：** 插入並編輯文件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案的圖示，移至 [插入\>圖例\>圖示。  [更多資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存文件至最近使用的資料夾。
 -   **透過學習工具來改善閱讀：** 在閱讀模式中，透過調整字距、顯示音節之間的停頓，以及在大聲朗讀文件時，反白顯示每個字的新命令來提升閱讀技巧。 [詳細資訊](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **圖形辨識︰** 使用 [繪圖] \> [轉換為圖形] 自動將繪圖轉換成圖形。 [詳細資訊](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -388,15 +388,15 @@ ms.locfileid: "41629260"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：某些程式檔案簽章的方式發生問題，導致防毒程式標幟這些檔案，以及在 Windows 資訊保護 (WIP) 底下保護或存取資料的問題。
 -   修正此問題：「新增功能」對話方塊無法顯示。
--   修正此問題： Office 2013 的自動的升級至 Office 2016 來使用 Configuration Manager 時失敗。
+-   修正此問題：在使用 Configuration Manager 時，導致 Office 2013 至 Office 2016 的自動升級失敗。
 -   修正此問題：透過公司目錄從市集部署的舊版增益集不會載入。
 
 
 
-## <a name="version-1701-september-12"></a>版本 1701年: 9 月 12 日
+## <a name="version-1701-september-12"></a>版本1701：9月12日
 *版本 1701 (組建 7766.2116)*
 
-*這是自從 2017 年 6 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2018 年 1 月為止。不過，目前已提供新的順延通道版本 — 版本 1705 (組建 8201.2193) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2017年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2018年1月為止。不過，目前已提供新的延期通道版本—版本1705（組建8201.2193）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631)：Microsoft Office 記憶體損毀弱點
@@ -417,7 +417,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1701-july-27"></a>版本 1701年: 7 月 27 日
+## <a name="version-1701-july-27"></a>版本1701：7月27日
 *版本 1701 (組建 7766.2099)*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
@@ -427,10 +427,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1609-july-27"></a>版本 1609年: 7 月 27 日
+## <a name="version-1609-july-27"></a>版本1609：7月27日
 *版本 1609 (組建 7369.2154)*
 
-*這是自從 2017 年 2 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 9 月為止。不過，目前已提供新的順延通道版本 — 版本 1701 (組建 7766.2099) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2月2017以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年9月為止。不過，目前已提供新的延期通道版本—版本1701（組建7766.2099）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全性功能略過的弱點
@@ -439,7 +439,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1701-july-13"></a>版本 1701年: 7 月 13 日
+## <a name="version-1701-july-13"></a>版本1701：7月13日
 *版本 1701 (組建 7766.2096)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -451,10 +451,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1609-july-13"></a>版本 1609年: 7 月 13 日
+## <a name="version-1609-july-13"></a>版本1609：7月13日
 *版本 1609 (組建 7369.2151)*
 
-*這是自從 2017 年 2 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 9 月為止。不過，目前已提供新的順延通道版本 — 版本 1701 (組建 7766.2096) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2月2017以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年9月為止。不過，目前已提供新的延期通道版本—版本1701（組建7766.2096）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501)：Microsoft Office 記憶體損毀弱點
@@ -465,7 +465,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1701-june-13"></a>版本 1701年: 6 月 13 日
+## <a name="version-1701-june-13"></a>版本1701：6月13日
 *版本 1701 (組建 7766.2092)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -598,7 +598,7 @@ ms.locfileid: "41629260"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **Windows 通知樣式︰** 來電和交談的通知外觀變更。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **諮詢轉接：** 從通話時，請洽詢透過 IM 或來電之前呼叫轉接至該使用者的另一位使用者。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **顧問式轉接：** 從來電內，在轉接呼叫到該使用者之前，透過 IM 或來電與其他使用者聯繫。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麥克風通知︰** 當麥克風在作業系統中處於靜音狀態，或如果麥克風未挑選任何音訊，則在交談視窗中顯示通知。
 -   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
@@ -742,14 +742,14 @@ ms.locfileid: "41629260"
 -   修正此問題：在 Office 文件中插入 SVG 影像後，SVG 影像會在儲存和重新開啟文件時消失。
 -   修正此問題：非英文版使用者在啟動 Office 期間，顯示下列錯誤訊息：「產品金鑰的最大長度為 25 個字元。」
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
+-   修正此問題：由 Configuration Manager 的更新 trigged 將登錄中的 UpdateChannel 設定變更為不是有效更新通道的內容。
 
 
 
-## <a name="version-1609-june-13"></a>版本 1609年: 6 月 13 日
+## <a name="version-1609-june-13"></a>版本1609：6月13日
 *版本 1609 (組建 7369.2139)*
 
-*這是自從 2017 年 2 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 9 月為止。不過，目前已提供新的順延通道版本 — 版本 1701 (組建 7766.2092) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2月2017以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年9月為止。不過，目前已提供新的延期通道版本—版本1701（組建7766.2092）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-8506](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8506)：Microsoft Office 遠端程式碼執行
@@ -771,7 +771,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1609-may-9"></a>版本 1609年: 5 月 9 日
+## <a name="version-1609-may-9"></a>版本1609：9月9日
 *版本 1609 (組建 7369.2130)*
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
@@ -788,10 +788,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1605-may-9"></a>版本 1605年: 5 月 9 日
+## <a name="version-1605-may-9"></a>版本1605：9月9日
 *版本 1605 (組建 6965.2150)*
 
-*這是自從 2016 年 10 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 6 月為止。不過，目前已提供新的順延通道版本 — 版本 1609 (組建 7369.2130) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自10月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年6月為止。不過，目前已提供新的延期通道版本—版本1609（組建7369.2130）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 遠端程式碼執行弱點
@@ -807,7 +807,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1609-april-11"></a>版本 1609年: 4 月 11 日
+## <a name="version-1609-april-11"></a>版本1609：四月11
 *版本 1609 (組建 7369.2127)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -822,10 +822,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1605-april-11"></a>版本 1605年: 4 月 11 日
+## <a name="version-1605-april-11"></a>版本1605：四月11
 *版本 1605 (組建 6965.2145)*
 
-*這是自從 2016 年 10 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 6 月為止。不過，目前已提供新的順延通道版本 — 版本 1609 (組建 7369.2127) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自10月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年6月為止。不過，目前已提供新的延期通道版本—版本1609（組建7369.2127）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 遠端程式碼執行弱點
@@ -836,7 +836,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1609-march-14"></a>版本 1609年: 3 月 14 日
+## <a name="version-1609-march-14"></a>版本1609：3月14日
 *版本 1609 (組建 7369.2120)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -853,10 +853,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1605-march-14"></a>版本 1605年: 3 月 14 日
+## <a name="version-1605-march-14"></a>版本1605：3月14日
 *版本 1605 (組建 6965.2140)*
 
-*這是自從 2016 年 10 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 6 月為止。不過，目前已提供新的順延通道版本 — 版本 1609 (組建 7369.2120) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自10月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年6月為止。不過，目前已提供新的延期通道版本—版本1609（組建7369.2120）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
@@ -869,7 +869,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1609-february-22"></a>版本 1609年: 2 月 22
+## <a name="version-1609-february-22"></a>版本1609：2月22日
 *版本 1609 (組建 7369.2118)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -927,7 +927,7 @@ ms.locfileid: "41629260"
 -   修正此問題：刪除表格會造成 OneNote 當機。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **\@提及：** 請確認收件者知道他們正在要求輸入] 或 [巨集指令所包含 @ 符號後面的電子郵件或行事曆項目本文的人員名稱。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@提及：** 請確認收件者已要求他們輸入或採取動作，只要在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **差旅預定以及封裝的摘要卡片︰** 使用在 [收件匣] 和 [行事曆] 中自動建立的摘要卡片，確認並追蹤差旅預定及封裝傳遞。 [詳細資訊](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加相片的小型預覽**：如果將相片附加到電子郵件，Outlook 會在訊息中顯示相片的小型預覽。
 -   **復原刪除的郵件連結：** 在 [刪除的郵件] 資料夾中，已刪除的項目清單上方會出現「復原最近從此資料夾中移除的郵件」連結，選取連結時，[復原刪除的郵件] 對話方塊隨即出現。
@@ -974,7 +974,7 @@ ms.locfileid: "41629260"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **更新的視覺元素：** 變更圖示和色彩，改善協助工具的使用。 [詳細資訊](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **更新 「 共用 」 的 UI:** 變更 「 展示 」 為 「 共用 」 的 UI 項目，例如 「 展示桌面 」 變更為 「 共用您的桌面 」 和 「 展示程式 」 至 「 共用視窗 」。
+-   **將 ui 更新為「共用」：** 在 UI 專案中，將「展示」變更為「共用」，例如將「展示桌面」變更為「共用您的桌面」和「展示程式」，以「共用視窗」。
 -   **Citrix 支援**：支援 Citrix 類型的虛擬桌面基礎結構 (VDI) 環境，以及 Citrix HDX 即時最佳化組件 2.1。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
@@ -1019,7 +1019,7 @@ ms.locfileid: "41629260"
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **協助工具檢查程式：** 移至 [檔案] \> [資訊] \> [檢查問題] \> [檢查協助工具]，檢查您的圖表是否有協助工具問題。
--   **UML 範本：** 三個範本 —[元件](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074)、[通訊](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)和[部署](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)— 與整合模組化語言 (UML) 2.5 標準相容。
+-   **UML 範本：** 與整合模型語言（UML）2.5 標準相容的三個範本（[元件](https://support.office.com/article/aa924ecb-e4d2-4172-976e-a78fa157b074)、[通訊](https://support.office.com/article/911956f4-5f19-4a58-97a3-bb14110a5ed1)和[部署](https://support.office.com/article/ef282f3e-49a5-48f5-a6ae-69a6982a4543)）。
 
 ### <a name="visio-security-updates"></a>Visio：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
@@ -1064,7 +1064,7 @@ ms.locfileid: "41629260"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題： 更新 trigged Configuration Manager 變更不是有效的更新通道登錄，以某個項目中的 UpdateChannel 設定。
+-   修正此問題：由 Configuration Manager 的更新 trigged 將登錄中的 UpdateChannel 設定變更為不是有效更新通道的內容。
 -   修正此問題：使用 OneDrive 同步處理用戶端將檔案從商務用 OneDrive 網站同步至本機電腦時，如果儲存從 URL 開啟並往回同步的檔案時，會造成 Word、Excel 或 PowerPoint 停止回應。
 -   修正此問題：嘗試開啟包含表單控制項的可啟用巨集檔案時，VBA 表單控制項可讓透明標籤控制項變成不透明、可讓現有表單不再出現或不再如預期運作，而且可讓 Office 應用程式停止回應。
 -   修正此問題：使用受管理的中繼資料屬性時，[顯示詳細資料] 按鈕出現在 [檔案] \> [資訊] 的 [屬性] 區段中，而不是設定的中繼資料值。
@@ -1085,7 +1085,7 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1605-january-10"></a>版本 1605年: 1 月 10 日
+## <a name="version-1605-january-10"></a>版本1605：1月10日
 *版本 1605 (組建 6965.2117)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
@@ -1093,10 +1093,10 @@ ms.locfileid: "41629260"
 
 
 
-## <a name="version-1602-january-10"></a>版本 1602年: 1 月 10 日
+## <a name="version-1602-january-10"></a>版本1602：1月10日
 *版本 1602 (組建 6741.2105)*
 
-*這是自從 2016 年 6 月以來提供的順延通道版本。它會繼續受到支援並接收安全性更新，直到 2017 年 2 月為止。不過，目前已提供新的順延通道版本 — 版本 1605 (組建 6965.2117) — 其中包含了新功能、 安全性更新和非安全性更新。*
+*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本1605（組建6965.2117）—其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS17-002 ](https://technet.microsoft.com/library/security/ms17-002)：Microsoft Office 的安全性更新 (3214291)
