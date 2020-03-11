@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549174"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586570"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,114 @@ ms.locfileid: "42549174"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-10"></a>版本 2003：3 月 10 日
+*版本 2003 (組建 12624.20176)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 [檔案]\[選項] 對話方塊上的 [確定] 按鈕顯示為灰色停用狀態，但功能並未受影響的外觀問題。
+
+- 修正使用者在重新命名樞紐分析表度量值時可能遇到的問題。
+
+- 修正交叉分析篩選器中的文字在預覽列印中無法正確縮放的問題。
+
+- 已修正使用者在使用 VBA 巨集清除範圍內容時可能遇到的效能問題。
+
+- 已修正當使用者執行與功能區互動的巨集時，導致 UI 快閃的問題。
+
+- 已修正當檔案中的第一個字為 TABLE 時，CSV 檔案載入錯誤的問題。
+
+- 已修正當您在兩個具有不同縮放比例的活頁簿之間切換時，使用者可能遇到的當機問題。
+
+- 修正 CUBEVALUE 函數有時會傳回不正確結果的問題。
+
+- 此變更可解決物件模型中的執行階段錯誤，以及當增益集要求的文件/工作表上的主機項目包含具有 noSelect 鎖定的圖形時，應用程式 (Excel、Word) 的潛在當機。
+
+- 解決導致 Outlook 使用者在同步處理設定時發生當機的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 修正使用 Outlook Web Access 建立規則時不會保存到 Exchange 伺服器，並導致衝突的問題。
+
+- 解決導致 Outlook 使用者在同步處理設定時發生當機的問題。
+
+- 修正 Outlook 在深色模式中不會在 [寄件者:] 欄位中顯示下拉式清單的問題。
+
+- 解決即使已關閉記錄，在某些情況下仍導致 Outlook 異常產生記錄輸出的問題。
+
+- 已解決當持續整夜執行 Outlook 時，導致使用者無法開啟公用資料夾訊息的問題。
+
+- 已修正在新增 Gmail 帳戶的驗證工作流程中，[權限] 頁面上的 [允許] 和 [拒絕] 按鈕停用的爭用情況。
+
+- 解決導致使用者無法存取 [空閒/忙碌選項] 行事曆權限對話方塊的問題。
+
+- 修正開啟某些傳送自不同時區的週期性會議執行個體時，可能導致出現警示：「很抱歉，開啟此項目時發生問題」的問題。
+
+- 已解決從該郵件拖放附件後造成使用者無法重新開啟 .msg 檔案的問題。
+
+- 修正從 Outlook 上傳檔案附件到 OneDrive 後，造成包含括號之附件名稱的檔案名稱被變更。
+
+- 解決在其他應用程式中開啟某個檔案時，導致使用者無法透過檔案總管將該檔案附加至郵件訊息的問題。
+
+- 解決導致 Outlook 使用者在同步處理設定時發生當機的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正將滑鼠移至縮圖上時，建議的縮圖閃動的問題。 在某些情況下，這可能會導致 PowerPoint 當機。
+
+- 修正 [檔案]\[選項] 對話方塊上的 [確定] 按鈕顯示為灰色停用狀態，但功能並未受影響的外觀問題。
+
+- 修正儲存包含 Excel 圖表的 PowerPoint 或 Word 文件會導致失敗的問題。
+
+### <a name="project"></a>Project
+
+- 修正在將任務標示為完成之後，不正確地將任務完成百分比變更為低於 100% 的值的問題。
+
+- 修正不先執行 OpenUndoTransaction 方法就不能觸發 OnUndoOrRedo 事件的問題。
+
+- 修正無法正確計算摘要工作日期的問題。
+
+### <a name="visio"></a>Visio
+
+- [圖形資訊] 窗格的 [圖案資料] 區段下顯示的詳細資料，與在 Visio 桌面版中開啟該檔案時所顯示的不一致。 已修正此問題。
+
+- 在 2016 之前版本中匯入的點陣圖，由於某些安全性檢查而未呈現。 我們已在 Visio 訂閱中修正此問題。
+
+### <a name="word"></a>Word
+
+- 已修正當滑鼠指標暫留在註解卡片上方時，未醒目提示註解卡片的問題。
+
+- 修正按 Tab 鍵導覽註解卡片時，註解編輯方塊上的焦點無法顯示的問題。
+
+- 修正 [檔案]\[選項] 對話方塊上的 [確定] 按鈕顯示為灰色停用狀態，但功能並未受影響的外觀問題。
+
+- 在使用中的文件共同撰寫工作階段中，直接在註解卡片中新增影像可能會導致新增標籤。 我們已修正此問題。
+
+- 在方程式中插入控制項 (例如文字內容控制項)，然後儲存再開啟檔案，便會導致內容無法讀取的錯誤。
+
+- 修正將先前使用密碼保護的檔案儲存到雲端儲存空間無法運作的問題。
+
+- 修正受保護無法編輯之文件的比較功能問題。
+
+- 修正文件中的圖片在匯出成 PDF 後，會失去透明度的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 當您將 Multichoice/Lookup/Managed-metadata 屬性與 Word/Excel/PowerPoint 文件一起使用並儲存至 SharePoint 文件庫時，這些屬性之前限制為 255 個字元。 當這些屬性超過 255 個字元時，這類文件就無法儲存。 在此變更中，此限制已增加到 2048 個字元。
+
+- 修正 Word/Excel/PowerPoint 中的使用者主體名稱 (UPN) 不再區分大小寫，導致在 SharePoint 上使用檔案時較少發生失敗的問題。
+
+- 修正在 Word/Excel/PowerPoint 中開啟來自相同 SharePoint 文件庫的多個文件時，僅掃描開啟的第一個文件是否符合原則的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
 *版本 2002 (組建 12527.20278)*

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: d76beb68ed6a3e64b5ad8070566e2e864fd898e2
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: 8bd48123203d1cf061d595f8e8ff851cef309c45
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403802"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586390"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -38,12 +38,13 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 3 月 10 日   |版本 1808 (組建 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 2 月 11 日   |版本 1808 (組建 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |2020 年 1 月 14 日   |版本 1808 (組建 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |2019 年 12 月 10 日   |版本 1808 (組建 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1464) <br/> |
 |2019 年 11 月 12 日   |版本 1808 (組建 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |2019 年 10 月 8 日   |版本 1808 (組建 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1331) <br/> |
-|2019 年 9 月 10 日   |版本 1808 (組建 10350.20019)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1297) <br/>  |
+
 
 
 
@@ -58,6 +59,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 3 月 10 日   |版本 2002 (組建 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 3 月 1 日   |版本 2002 (組建 12527.20242)  |解決導致協力廠商應用程式無法從 Outlook 傳送電子郵件的問題。 <br/>  |
 |2020 年 2 月 25 日   |版本 2002 (組建 12527.20194)  |各種錯誤和效能修正。 <br/>  |
 |2020 年 2 月 11 日   |版本 2001 (組建 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0759) <br/>  |

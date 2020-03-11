@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978581"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586666"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年半年通道版本的版本資訊
 
@@ -25,6 +25,49 @@ ms.locfileid: "41978581"
 >- 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
 
+
+
+
+## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
+*版本 1908 (組建 11929.20648)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- <div><span>修正當活頁簿中有外部連結時，有些使用者可能會遇到多個彈出式視窗的問題。&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">[資料剖析] 功能對某些地區設定可能會失敗。</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">使用者在存取隱藏的命名範圍時可能會發生錯誤</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>我們已修正 Shape.Paste 方法的問題：當使用者使用 &nbsp;Shape.Paste 方法&nbsp;<span style="font-size:13.3333px;display:inline !important;">複製並貼上圖形時，它會將選取範圍變更為貼上的圖形</span>。</div>
+
+
+### <a name="word"></a>Word
+
+- <div>我們已修正在某些情況下，儲存現有檔案永遠會導致出現 [另存新檔] 對話方塊且檔案永遠不會儲存的問題<br></div>
+
+
+### <a name="office-suite"></a>Office 套件
+
+- <div><span>此變更可解決轉譯某些含有資料標記的散佈圖緩慢的問題。</span></div>
+
+## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
+*版本 1902 (組建 11328.20554)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908 (組建 11929.20606)*

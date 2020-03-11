@@ -1,7 +1,7 @@
 ---
 title: Office 365 專業增強版安全性更新的版本資訊
 ms.author: andrewmo
-author: ''
+author: TimDavenport
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 95dcbdcc49a9022fc0e07639b5311f3a4e481b48
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978621"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586648"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
 
@@ -25,6 +25,28 @@ ms.locfileid: "41978621"
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。  
 
 [//]: # (無法移除以上這行，它用來做為間距)  
+
+## <a name="march-10-2020"></a>2020 年 3 月 10 日
+每月通道：版本 2002 (組建 12527.20278)  
+半年通道 (已設定目標)：版本 2002 (組建 12527.20278)  
+半年通道：版本 1908 (組建 11929.20648)  
+半年通道：版本 1902 (組建 11328.20554)  
+Windows 7 上的 Office 365 專業增強版：版本 2002 (組建 12527.20278)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0892)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0851)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="february-11-2020"></a>2020 年 2 月 11 日
 每月通道：版本 2001 (組建 12430.20264)  

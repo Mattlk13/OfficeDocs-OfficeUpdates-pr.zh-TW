@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 044a7df52545af6adcc57d58cb8299f17b5c7244
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978741"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586590"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -37,6 +37,29 @@ ms.locfileid: "41978741"
 
 
 
+
+
+
+## <a name="march-10-2020"></a>2020 年 3 月 10 日
+*版本 16.35 (組建 20030802)*
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **可在簡報者模式中摺疊目前投影片視窗的功能：** 透過將行分隔線拖曳到畫面左側，即可以將目前的投影片檢視摺疊，使得您在簡報期間的檢視中只會看到 [下一張投影片]。
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0850](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0850)
+-   [CVE-2020-0851](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0851)
+-   [CVE-2020-0855](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0855)
+-   [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0892)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="february-11-2020"></a>2020 年 2 月 11 日
 *版本 16.34 (組建 20020900)*

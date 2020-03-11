@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568839"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586400"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -30,13 +30,23 @@ ms.locfileid: "42568839"
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="march-6-2020"></a>2020 年 3 月 6 日
+## <a name="march-10-2020"></a>2020 年 3 月 10 日
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2002 (組建 12527.20278)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2002 (組建 12527.20242) <br/> |2020 年 3 月 1 日 <br/> |40<br/> |
+|版本 2002 (組建 12527.20194) <br/> |2020 年 2 月 25 日 <br/> |266<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT STARTMarch 10, 2020)
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-<i>預期的版本為版本 1908 (組建 11929.20648)。</i>
+最新的版本是版本 1908 (組建 11929.20648)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -44,9 +54,9 @@ ms.locfileid: "42568839"
 |版本 1908 (組建 11929.20562) <br/> |2020 年 1 月 14 日 <br/> |73<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
+### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
 
-<i>預期的版本為版本 2002 (組建 12527.20278)。</i>
+最新的版本是版本 2002 (組建 12527.20278)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ ms.locfileid: "42568839"
 |版本 1908 (組建 11929.20562) <br/> |2020 年 1 月 14 日 <br/> |292<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDMarch 10, 2020)
+
+## <a name="march-6-2020"></a>2020 年 3 月 6 日
+
+
+
 
 ## <a name="march-1-2020"></a>2020 年 3 月 1 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 70eabceb2467ad78cb64bf9e45c617317c640cc0
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 37f124d8a99aeef470c6829e3e41a26eabc5a104
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345108"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586657"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -24,6 +24,23 @@ ms.locfileid: "42345108"
 >
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
+*版本 2002 (組建 12527.20278)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>已解決的問題
+### <a name="project"></a>Project
+
+- <div><span style="display:inline !important;">修正不先執行 OpenUndoTransaction 方法&nbsp;</span><span style="box-sizing:border-box;font-size:13.3333px;display:inline !important;">就不能觸發 OnUndoOrRedo 事件的問題</span>。<br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-01"></a>版本 2002：3 月 1 日
 *版本 2002 (組建 12527.20242)*
