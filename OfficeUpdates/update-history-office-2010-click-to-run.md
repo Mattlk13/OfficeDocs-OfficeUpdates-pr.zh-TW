@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: 4ecc1e055aba8dc2c9058a5fe014a6c9e414b321
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 823951736ba1e8919362b845e6339af94ef61010
+ms.sourcegitcommit: 09d01a3a12518056aec19131ab8b0f6eea9d5cc9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978771"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42603929"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
@@ -29,7 +29,7 @@ ms.locfileid: "41978771"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2010 是**14.0.7245.5000**，發行時間為 2020 年 2 月 11，其中。
+> 最新版本的 Office 2010 是**14.0.7247.5000**，也就是在2020年3月11日發行。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -53,7 +53,8 @@ ms.locfileid: "41978771"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020|2 月 11 日  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
+|2020|3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
+||2 月 11 日  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||1 月 14 日  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
 |2019|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
 ||11 月 12 日  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/help/4527848) <br/> |
@@ -132,7 +133,7 @@ ms.locfileid: "41978771"
 ||7 月 13 日  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> [KB 2078278](https://support.microsoft.com/kb/2078278) <br/> Office 2010 的定義更新  <br/> |
 ||4 月 15 日  <br/> |14.0.4763.1000  <br/> |這是 Office 2010 的「釋出以便製造」(RTM) 版本。  <br/> |
 ||2 月 11 日  <br/> |14.0.4545.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 980028](https://support.microsoft.com/kb/980028) <br/> |
-|將 [2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (搶鮮版 (Beta))  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
+|2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (搶鮮版 (Beta))  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||11 月 18 日  <br/> |14.0.4536.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> |
    
   
