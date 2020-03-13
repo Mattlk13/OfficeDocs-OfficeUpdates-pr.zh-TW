@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 ProPlus 于2016的半年通道（已設定目標）發行資訊
 ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549214"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614967"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年通道（已設定目標）版本的版本資訊
 
