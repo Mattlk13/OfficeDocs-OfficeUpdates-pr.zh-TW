@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Office 365 專業增強版更新歷程記錄的版本資訊
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586360"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612459"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 版 Office 365 專業增強版的更新歷程記錄 
 
@@ -34,8 +34,11 @@ ms.locfileid: "42586360"
 
 版本 2002 的擴充可用性漜適用於其他更新通道，例如每月和半年通道 (已設定目標)，但僅適用於執行 Windows 7 的裝置。
 
-##
+只要該早期版本仍然受到支援，您就可以繼續在執行 Windows 7 的裝置上部署版本 2002 之前的版本。 例如，您可以繼續在執行 Windows 7 的裝置上使用半年通道的版本 1908，直到 2021 年 3 月 (之後版本 1908 將不受半年通道支援)。
 
+在每個月的第 2 個星期二，我們會視需要發行具有安全性更新的新組建版本 2002。 每個架構 (x86 或 x64) 都只有一個組建，且可以搭配您部署的任何更新通道使用。 每個通道都不會有版本 2002 的個別組建。 例如，同一組建可用於更新執行 Windows 7 的裝置 (使用每月頻道)，或使用半年頻道的裝置。
+
+##
 
 [//]: # (DO NOT REMOVE)
 
