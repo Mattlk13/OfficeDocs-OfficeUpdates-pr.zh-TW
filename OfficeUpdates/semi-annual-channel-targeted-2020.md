@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 0c55b3885c6b5f68ac293d92f743ecfcde8c7ea5
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586658"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42614987"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -69,7 +69,7 @@ ms.locfileid: "42586658"
 
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中查看人們的 LinkedIn 詳細資料：** 現在，當您開啟連絡人的個人檔案卡片時，即可透過檢視 LinkedIn 個人檔案來深入了解連絡人。
+
 
 - **改善焦點收件匣的開啟和關閉體驗：** 對於沒有使用焦點收件匣的客戶，我們已在所有資料夾的郵件清單中恢復 [未讀取] 索引標籤。我們也新增了以旗標為依據的排序功能，讓您能更輕鬆地找到加上旗標的項目。最後，焦點收件匣有更好的互動搜尋模型：焦點收件匣會保留到使用者開始進行搜尋，然後我們在搜尋完成後顯示「結果」文字為止。
 
@@ -141,7 +141,7 @@ ms.locfileid: "42586658"
 
 - **搜尋並享受：** 我們對插入圖示新增了搜尋，讓您易於找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **當您可以重複使用時為什麼要重新打造？** 重複使用您所建立的投影片或其他人與您共用的投影片來以節省時間。
+- **當您可以重複使用時為什麼要重新打造？** 重複使用您所建立的投影片或其他人與您共用的投影片來以節省時間。 [深入了解](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **在 Office 365 的 PowerPoint 中將手寫筆跡變更為圖形、文字或數學：** 從任意格式的筆跡變成 Office 圖形、文字，或以幾個筆劃變成數學運算式。 [深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -198,8 +198,6 @@ ms.locfileid: "42586658"
 ### <a name="office-suite"></a>Office 套件
 
 - **新增功能窗格：**[新增功能] 體驗已移至 [說明] 窗格，讓您可以更輕鬆地存取最新更新，並掌握最新消息。
-
-- **功能區圖示有了嶄新的外觀：** 別擔心，功能一切如常。 此外，它們在各種尺寸的螢幕上看起來很棒。 [深入了解](https://support.office.com/article/your-ribbon-icons-have-a-new-look-c6bc4cd8-d151-41d3-8276-fc7c9975eb79?ui=en-US&rs=en-US&ad=US)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
