@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5fa1063319b61a278d9d68f7ed1f18b7535d9de9
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 110cdc2014c68ff69a8f244f92450404f1ba81cb
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586570"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622127"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -35,8 +35,17 @@ ms.locfileid: "42586570"
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
 
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="powerpoint"></a>PowerPoint
+- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+### <a name="word"></a>Word
+- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+</br>
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
@@ -60,6 +69,8 @@ ms.locfileid: "42586570"
 - 此變更可解決物件模型中的執行階段錯誤，以及當增益集要求的文件/工作表上的主機項目包含具有 noSelect 鎖定的圖形時，應用程式 (Excel、Word) 的潛在當機。
 
 - 解決導致 Outlook 使用者在同步處理設定時發生當機的問題。
+
+
 
 ### <a name="outlook"></a>Outlook
 
@@ -95,6 +106,8 @@ ms.locfileid: "42586570"
 
 - 修正儲存包含 Excel 圖表的 PowerPoint 或 Word 文件會導致失敗的問題。
 
+
+
 ### <a name="project"></a>Project
 
 - 修正在將任務標示為完成之後，不正確地將任務完成百分比變更為低於 100% 的值的問題。
@@ -125,7 +138,8 @@ ms.locfileid: "42586570"
 
 - 修正受保護無法編輯之文件的比較功能問題。
 
-- 修正文件中的圖片在匯出成 PDF 後，會失去透明度的問題。
+
+
 
 ### <a name="office-suite"></a>Office 套件
 

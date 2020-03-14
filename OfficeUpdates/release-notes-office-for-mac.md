@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Office 356 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: b8a86eca77d1a167f83fb985522d05a091085903
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
+ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586590"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42622137"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -45,9 +45,21 @@ ms.locfileid: "42586590"
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
 ### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **可在簡報者模式中摺疊目前投影片視窗的功能：** 透過將行分隔線拖曳到畫面左側，即可以將目前的投影片檢視摺疊，使得您在簡報期間的檢視中只會看到 [下一張投影片]。
+- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
+
+
+### <a name="word"></a>Word
+
+- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+
 
 ### <a name="security-updates"></a>安全性更新
 
