@@ -1,5 +1,5 @@
 ---
-title: Windows 7 版 Office 的更新歷程記錄
+title: 更新 Office Windows 7 歷程記錄
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Office 365 專業增強版更新歷程記錄的版本資訊
-ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 09bfdeddfdf7b2c09bbd5145c909b24b6da505e1
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612459"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890150"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Windows 7 版 Office 365 專業增強版的更新歷程記錄 
 

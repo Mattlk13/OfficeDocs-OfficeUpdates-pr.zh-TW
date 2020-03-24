@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a62e8d030c01685f6ab688666bccd15a7cf87cea
-ms.sourcegitcommit: 802bdce1e86a4da5ca91a537f208be94417d622e
+ms.openlocfilehash: d9c7ef29b0384bb2f3be769beb59c9f16d9ea711
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637421"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890130"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,75 @@ ms.locfileid: "42637421"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2004-march-20"></a>版本 2004：3 月 20 日
+*版本 2004 (組建 12711.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **行事曆新版視覺效果：** 去年，我們提供了全新的郵件體驗，而今年將為您帶來嶄新的行事曆！ 有幾項更新是新穎卻令人孰悉的，您是經驗豐富的 Outlook 使用者，可以立即使用並提高生產力。
+
+- **協助保護群組中的資料：** 建立群組時所選擇的「敏感度」標籤會套用到群組電子郵件、文件及小組網站
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在投影片放映期間更新投影片：** 在簡報期間，更新由其他作者變更的投影片。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 此變更解決了處理格式錯誤或無效通訊協定資訊影像時所導致的延遲問題。
+
+### <a name="outlook"></a>Outlook
+
+- 此變更解決了處理格式錯誤或無效通訊協定資訊影像時所導致的延遲問題。
+
+- 此變更修正了電子郵件草稿最新變更未更新的問題。
+
+- 已修正在檔案上按一下滑鼠右鍵並使用「傳送到」功能無法運作的問題。
+
+- 已修正如果使用者有自訂的 [通訊錄] 搜尋路徑，則 Outlook 的名稱解析範圍會限制為自訂路徑，而不是包括全域通訊清單 (GAL) 的問題。
+
+- 已修正在一組傳回的搜尋結果中，依類別結果排序不會顯示類別色彩的問題。
+
+### <a name="project"></a>Project
+
+- 已修正當使用者按一下 [排程群組] 內 [工作] 功能區中的 [停用] 按鈕時，不會觸發 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) 事件的問題。
+
+- 如果您在 [表單類型] 檢視中設定前置任務或後置任務詳細資訊，則 ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件不會一律擷取變更。 例如，如果刪除了某個相依性，並在表單上按一下 [確定]，則不會觸發該事件。 已修正此問題。
+
+- 已修正在進行變更 (例如日期變更) 之後，實際工作成本 (ACWP) 的最新值不會顯示的問題。
+
+- 已修正使用「最近使用」(MRU) 功能表開啟專案時，會使用 [讀取/寫入] 存取權開啟專案的問題。
+
+- 這項變更修正了如果您建立包含開始日期和時間 (但無工期) 的手動工作，則時間表上的時間顯示不正確的問題。
+
+- 已修正使用回曆列印時間表時，會導致列印檢視中略過或重複一個月的問題。
+
+- 這項變更解決了在團隊規劃中使用 GDI 物件時，可能導致 GDI 物件分配過多並產生記憶體不足的問題。
+
+### <a name="word"></a>Word
+
+- 已修正張貼留言功能停用的問題。
+
+- 此變更解決了處理格式錯誤或無效通訊協定資訊影像時所導致的延遲問題。
+
+- 這項變更解決了帳戶管理員不會分派訊息而導致協力廠商應用程式懸置的問題。
+
+- 這項變更修正了目錄會使用文件中未包含的標題樣式進行更新的問題。
+
+- 已修正在寄送文件時，儲存在 Word 文件中的數位簽章會被刪除的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-march-13"></a>版本 2004：3 月 13 日
 *版本 2004 (組建 12703.20010)*
