@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7c4ab50059d5c0a0700caab507d58035a4a2c9e7
-ms.sourcegitcommit: f4e194fab33de686fb38450c3fd73cbfa2b9d4f9
+ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
+ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42706953"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926300"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -27,6 +27,30 @@ ms.locfileid: "42706953"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-23"></a>版本 2003：3 月 23 日
+*版本 2003 (組建 12624.20296)*
+
+- 各種錯誤和效能修正。
+
+## <a name="version-2003-march-21"></a>版本 2003：3 月 21 日
+*版本 2003 (組建 12624.20276)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。
+
+- **行事曆新版視覺效果：** 去年，我們提供了全新的郵件體驗，而今年將為您帶來嶄新的行事曆！ 這些更新是全新但令人熟悉的，身為經驗豐富的 Outlook 使用者的您，可以立即上手並更具生產力。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在投影片放映期間更新投影片：** 在簡報期間，更新由其他作者變更的投影片。
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
