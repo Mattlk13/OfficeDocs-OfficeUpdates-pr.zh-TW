@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
+ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586400"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42953013"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -29,6 +29,22 @@ ms.locfileid: "42586400"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="march-25-2020"></a>2020 年 3 月 25 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTMarch 25, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2003 (組建 12624.20320)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2002 (組建 12527.20278) <br/> |2020 年 3 月 10 日 <br/> |171<br/> |
+|版本 2002 (組建 12527.20242) <br/> |2020 年 3 月 1 日 <br/> |172<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDMarch 25, 2020)
 
 ## <a name="march-10-2020"></a>2020 年 3 月 10 日
 
