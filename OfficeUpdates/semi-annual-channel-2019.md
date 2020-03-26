@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: de069e864ee597379553958a3b839261ce13d04a
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: d94ed6de9109afbea9f4be9abb8625fb2eedc735
+ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614968"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959381"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -180,6 +180,7 @@ ms.locfileid: "42614968"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1808-october-08"></a>版本 1808：10 月 8 日
+
 *版本 1808 (組建 10730.20386)*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
@@ -332,7 +333,7 @@ ms.locfileid: "42614968"
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 
-- **在工作面板卡片上查看詳細資訊：** 當標題本身無法陳述完整故事時，請自訂您的工作面板卡片，以顯示所有最重要的詳細資料。 [深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
+- **在任務面板卡片上查看詳細資訊：** 當標題本身無法陳述完整故事時，請自訂您的任務面板卡片，以顯示所有最重要的詳細資料。 [深入了解](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 - **Office 擁有新的外觀：** Office應用程式現在擁有更簡單、更方便使用的現代化圖示，而功能區也更新了視覺效果，能強調顯示 Office 應用程式中的豐富共同作業功能。
 
 ### <a name="publisher-feature-updates"></a>Publisher：功能更新
@@ -418,7 +419,7 @@ ms.locfileid: "42614968"
  - 此修正在「復原」動作後，VBA 報告不正確的圖案填滿狀態的錯誤。
  - 此修正程式可修正無法將檔案儲存到 Apache WebDAV 資料夾的問題。
  - 修正 Office 在客戶開啟某些雲端儲存檔案時會意外關閉的問題。
- - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+ - 已修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法表達的問題。
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
  - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。
  - 已修正與間歇性的空白登入提示相關的問題。
@@ -477,7 +478,7 @@ ms.locfileid: "42614968"
  - 已修正編輯 SharePoint 新增的相關人員可能會當機的問題。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+ - 已修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法表達的問題。
   
 ## <a name="version-1803-may-14"></a>版本 1803：5 月 14 日
 *版本 1803 (組建 9126.2387)*
@@ -486,7 +487,7 @@ ms.locfileid: "42614968"
  - 解決了造成客戶無法編輯所移轉項目上某些欄位的問題。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
- - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+ - 已修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法表達的問題。
 
 ## <a name="version-1808-april-9"></a>版本 1808：4 月 9 日
 *版本 1808 (組建 10730.20334)*
@@ -592,7 +593,7 @@ ms.locfileid: "42614968"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
  - **共同作業編輯：** 在您的活頁簿中與他人同時作業。[深入了解](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **現在已預設啟用雲端檔案的自動儲存：** 這項改變代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。變更將會自動儲存在雲端，使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。但使用者必須了解這項動作改變，以防意外變更文件。使用者可以用畫面頂端的 [自動儲存] 切換開關來停用自動儲存。建議您通知使用者這項近期改變，並提供有關這項 Office 365 全新功能的使用教學。[深入了解自動儲存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 以及[深入了解 IT 系統管理員須知的自動儲存相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **現在已預設啟用雲端檔案的自動儲存：** 這項改變代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。變更將會自動儲存在雲端，使用者再也不需要明確按下 Ctrl + S 鍵或 [儲存] 按鈕。但使用者必須了解此行為中的變更，以防意外變更文件。請注意，使用者可以用畫面頂端的 [自動儲存] 切換來關閉自動儲存。建議您通知使用者此即將到來的變更，並提供有關 Office 365 中此項新功能的使用教學。[深入了解自動儲存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)並[深入了解 IT 管理員對自動儲存所應注意的事項](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改善儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **改善協助工具檢查程式︰** 協助工具檢查程式已更新，現可支援國際標準並提供讓活頁簿更易於使用的建議。[深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **避免不想要的編輯：** 設定您的活頁簿開啟為唯讀，以避免意外變更。移至 [檔案 > 資訊 > 保護活頁簿 > 一律以唯讀開啟]
@@ -655,7 +656,7 @@ ms.locfileid: "42614968"
 - 修正了可能發生的穩定性問題，包括同步處理和瀏覽至刪除的部分。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新 
-- **現在已預設啟用雲端檔案的自動儲存：** 這項改變代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。變更將會自動儲存在雲端，使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。但使用者必須了解這項動作改變，以防意外變更簡報。使用者可以用畫面頂端的 [自動儲存] 切換開關來停用自動儲存。建議您通知使用者這項近期改變，並提供有關這項 Office 365 全新功能的使用教學。[深入了解自動儲存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 以及[深入了解 IT 系統管理員須知的自動儲存相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **現在已預設啟用雲端檔案的自動儲存：** 這項改變代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。變更將會自動儲存在雲端，使用者再也不需要明確按下 Ctrl + S 鍵或 [儲存] 按鈕。但使用者必須了解此行為中的變更，以防意外變更簡報。請注意，使用者可以用畫面頂端的 [自動儲存] 切換來關閉自動儲存。建議您通知使用者此即將到來的變更，並提供有關 Office 365 中此項新功能的使用教學。[深入了解自動儲存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)以及[深入了解 IT 管理員對自動儲存所應注意的事項](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改善儲存格和資料編輯列編輯：** 您現在可以使用 CTRL + A 來選取儲存格或資料編輯列中的文字。另外也改善了 Emoji 和其他複雜字元的支援。[深入了解](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **轉換筆跡：** 擷取草草寫下的筆記和繪圖，並將其轉換為可供閱讀的文字和簡潔的圖形，以建立精美的簡報。 [深入了解](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -695,7 +696,7 @@ ms.locfileid: "42614968"
 - 已修正此問題：當您透過主要專案使用子專案時，系統阻止您儲存子專案。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
-- **現在已預設啟用雲端檔案的自動儲存：** 這項改變代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。變更將會自動儲存在雲端，使用者再也不需要按下 Ctrl + S 鍵或 [儲存] 按鈕。但使用者必須了解這項動作改變，以防意外變更簡報。使用者可以用畫面頂端的 [自動儲存] 切換開關來停用自動儲存。建議您通知使用者這項近期改變，並提供有關這項 Office 365 全新功能的使用教學。[深入了解自動儲存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) 以及[深入了解 IT 系統管理員須知的自動儲存相關內容](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+- **現在已預設啟用雲端檔案的自動儲存：** 這項改變代表使用者再也無須擔心儲存在 OneDrive 或 SharePoint Online 上的文件變更會遺失。變更將會自動儲存在雲端，使用者再也不需要明確按下 Ctrl + S 鍵或 [儲存] 按鈕。但使用者必須了解此行為中的變更，以防意外變更簡報。請注意，使用者可以用畫面頂端的 [自動儲存] 切換來關閉自動儲存。建議您通知使用者此即將到來的變更，並提供有關 Office 365 中此項新功能的使用教學。[深入了解自動儲存](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)以及[深入了解 IT 管理員對自動儲存所應注意的事項](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **改善協助工具檢查程式︰** 協助工具檢查程式已更新對國際標準與建議的支援，以使您的文件更易於存取。[深入了解](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **改善 SVG 支援：** 您可以將已套用篩選的 SVG 插入。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 37f124d8a99aeef470c6829e3e41a26eabc5a104
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 1bd7a4503aff8e0d9e946f8878339189c2c9b644
+ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614947"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42953023"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -24,6 +24,65 @@ ms.locfileid: "42614947"
 >
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
+*版本 2003 (組建 12624.20320)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。
+
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+
+
+
+
+### <a name="word"></a>Word
+
+- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 重複開啟內嵌在 Word 或 PowerPoint 中的活頁簿時，在某些情況下，Excel 會當機。
+
+- 解決當來源活頁簿關閉時，外部連結無法在填入時更新的問題。
+
+- 解決從範本建立圖表時的效能問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已解決導致使用者在工作管理員中看到 Outlook 處理序延遲的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已改善複製貼上的案例：將 PowerPoint 投影片中的圖形複製並貼到迴圈中的其他投影片，可能會出現例外狀況而失敗。
+
+
+### <a name="project"></a>Project
+
+- 修正透過 [已停用] 按鈕停用/啟動工作時，ProjectBeforeTaskChange 事件無法偵測的問題。
+
+- 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
+
+- 修正在將任務標示為完成之後，不正確地將任務完成百分比變更為低於 100% 的值的問題。
+
+- 修正無法正確計算摘要任務日期的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002 (組建 12527.20278)*
@@ -204,12 +263,6 @@ ms.locfileid: "42614947"
 ### <a name="outlook"></a>Outlook
 
 - <div>解決重新命名簽名時，使用者遇到當機的問題。</div>
-
-
-### <a name="outlookexe"></a>outlook.exe
-
-- <div>解決重新命名簽名時，使用者遇到當機的問題。</div>
-
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9a3e95424b71d1c5511de436b2747b1777463dcb
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
+ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926300"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42951703"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,11 @@ ms.locfileid: "42926300"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
+*版本 2003 (組建 12624.20320)*
+
+- 各種錯誤 (Bug) 和效能修正。
 
 ## <a name="version-2003-march-23"></a>版本 2003：3 月 23 日
 *版本 2003 (組建 12624.20296)*
