@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 3390ed2aaf7be5b1676c3bb373ce51082b89b374
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 34802aa3e76bf9db7e0a44b8baa6844445598da8
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959361"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046128"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
 
-Office 365 專業增強版會定期以新功能、安全性更新與非安全性更新進行更新。這些更新會使用[更新通道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)來發行。每個更新通道中的每個版本都有指派的版本號碼和組建編號。 
+Office 365 專業增強版會定期以新功能、安全性更新與非安全性更新進行更新。這些更新會使用[更新通道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)來發行。每個更新通道中的每個版本都有指派的版本號碼和組建編號。
+
+
+> [!IMPORTANT]
+> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 這些版本號碼和組建編號也適用於 Office 365 商務版、Visio Pro for Office 365 與 Project Online 桌面用戶端。Office 365 商務版是隨附於部分 Office 365 方案的 Office 版本，例如商務進階版。

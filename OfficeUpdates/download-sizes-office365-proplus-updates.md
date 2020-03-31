@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953013"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046098"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -23,6 +23,14 @@ ms.locfileid: "42953013"
 下表顯示從舊版 Office 365 專業增強版更新至最新版本時，大約的下載大小。 實際下載大小可能有所不同，最多可達 50 MB。 如果您從舊版更新到最新版本時，下載大小可能會更大。
 
 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小可能會遠超過表格中所列的更新大小。 它可能需要完整下載，下載大小至少 1 GB。
+
+
+> [!IMPORTANT]
+> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 表格中所列的大約下載大小僅適用於 Office 365 專業增強版的 x64 英文 (美國) 版本。

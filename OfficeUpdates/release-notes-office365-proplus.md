@@ -10,14 +10,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 1377ec56666c3a713b8e64500b45a140b19273c0
-ms.sourcegitcommit: 42d66d834fd4c1a062535e27fc7eb4e579527d2e
+ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2020
-ms.locfileid: "41103814"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046118"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
+
+
+> [!IMPORTANT]
+> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 
 ## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 專業增強版的安全性更新發行

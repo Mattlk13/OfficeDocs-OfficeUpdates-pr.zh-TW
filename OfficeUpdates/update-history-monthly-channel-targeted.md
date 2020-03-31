@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 1e7adea823c50641eaeedab8169f54be70c730f6
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951713"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046138"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -23,6 +23,14 @@ ms.locfileid: "42951713"
 ## <a name="office-insider-versions-and-builds"></a>Office 測試人員的版本和組建
 
 如果您已經註冊先前稱為「測試人員 - 慢」的每月通道 (已設定目標) 層級，您約略每個月會取得一項新的 Office 功能更新，加上包含有重要修正或安全性更新的後續組建。以下清單顯示最近每月通道 (已設定目標) 的版本和組建，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。若要尋找版本資訊，請參閱 [Office 測試人員的新功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+
+
+> [!IMPORTANT]
+> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建

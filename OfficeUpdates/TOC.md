@@ -28,7 +28,7 @@
 ### [版本資訊的測試人員通道](release-notes-office-insider.md)
 ### [每月通道版本資訊 (已設定目標)](release-notes-monthly-channel-targeted.md)
 
-## [Windows 7 更新記錄](update-history-office-Win7.md)
+## [Windows 7 更新歷程記錄](update-history-office-Win7.md)
 
 ## [ODT 版本歷程記錄](ODT-release-history.md)
 

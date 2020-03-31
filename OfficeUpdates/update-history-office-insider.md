@@ -9,16 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 9ef0c0fb6b0a12562c3d529ed0c141c0dc701279
-ms.sourcegitcommit: e3e5b778e6f50c47cab7212bb53247e948592fba
+ms.openlocfilehash: 5ffb00f0901f621dbfd82fb46f0de21bc043b592
+ms.sourcegitcommit: 088650343fbff4054950593d3b42d216ae7414cb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42926284"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052068"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Office 測試人員通道的更新歷程記錄
 
 測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
+
+
+> [!IMPORTANT]
+> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
+>
+> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+
+
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
@@ -31,6 +39,9 @@ ms.locfileid: "42926284"
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 3 月 30 日**<br/>
+版本 2004 (組建 12725.20006)<br/>
 
 **2020 年 3 月 23 日**<br/>
 版本 2004 (組建 12718.20010)<br/>
