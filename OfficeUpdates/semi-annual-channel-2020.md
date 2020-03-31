@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983893"
+ms.locfileid: "43024525"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年半年通道版本的版本資訊
 
@@ -39,28 +39,28 @@ ms.locfileid: "42983893"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- <div><span>修正當活頁簿中有外部連結時，有些使用者可能會遇到多個彈出式視窗的問題。&nbsp;</span></div>
+- 修正當活頁簿中有外部連結時，有些使用者可能會遇到多個彈出式視窗的問題。
 
 
-- <div><span style="display:inline !important;">[資料剖析] 功能對某些地區設定可能會失敗。</span><br></div>
+- [資料剖析] 功能對某些地區設定可能會失敗。
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">使用者在存取隱藏的命名範圍時可能會發生錯誤</span></div>
+- 使用者在存取隱藏的命名範圍時可能會發生錯誤。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>我們已修正 Shape.Paste 方法的問題：當使用者使用 &nbsp;Shape.Paste 方法&nbsp;<span style="font-size:13.3333px;display:inline !important;">複製並貼上圖形時，它會將選取範圍變更為貼上的圖形</span>。</div>
+- 我們已修正 Shape.Paste 方法的問題：當使用者使用 Shape.Paste 方法複製並貼上圖形時，它會將選取範圍變更為貼上的圖形。
 
 
 ### <a name="word"></a>Word
 
-- <div>我們已修正在某些情況下，儲存現有檔案永遠會導致出現 [另存新檔] 對話方塊且檔案永遠不會儲存的問題<br></div>
+- 我們已修正在某些情況下，儲存現有檔案永遠會導致出現 [另存新檔] 對話方塊且檔案永遠不會儲存的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- <div><span>此變更可解決轉譯某些含有資料標記的散佈圖緩慢的問題。</span></div>
+- 此變更可解決轉譯某些含有資料標記的散佈圖緩慢的問題。
 
 ## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
 *版本 1902 (組建 11328.20554)*
