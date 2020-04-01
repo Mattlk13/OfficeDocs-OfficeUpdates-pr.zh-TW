@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030920"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081778"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -24,6 +24,28 @@ ms.locfileid: "43030920"
 >
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2003-march-31"></a>版本 2003: 3 月 31 日
+*版本 2003 (組建 12624.20382)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="onenote"></a>OneNote
+
+- 透過暫時停用將頁面移動至資源回收桶，來改善同步處理與伺服器的穩定性。 若使用者想要刪除頁面，則會改為顯示詢問是否要永久刪除頁面的對話方塊。
+
+- 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，可協助改善在高全球使用狀況時的同步處理與服務可用性。
+
+- 透過暫時變更建立頁面版本歷程記錄的頻率，可改善同步處理與服務的穩定性。
+
+### <a name="project"></a>專案
+
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
 *版本 2003 (組建 12624.20320)*
@@ -61,11 +83,17 @@ ms.locfileid: "43030920"
 
 - 解決從範本建立圖表時的效能問題。
 
+### <a name="onenote"></a>OneNote
+
+- 透過暫時減少新嵌入附件的最大允許尺寸至 50MB，來改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
+
+- 透過暫時停用 OneNote 2016 中的應用程式內視訊錄製，來改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
+
+- 透過暫時調整 OneNote 2016 中的同步處理頻率，來改善同步處理與服務的穩定性。
 
 ### <a name="outlook"></a>Outlook
 
 - 已解決導致使用者在工作管理員中看到 Outlook 處理序延遲的問題。
-
 
 ### <a name="powerpoint"></a>PowerPoint
 
