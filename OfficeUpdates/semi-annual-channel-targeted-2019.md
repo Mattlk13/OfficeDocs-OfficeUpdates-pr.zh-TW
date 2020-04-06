@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 6047a39a1db741ed60a8fc265fa7b9333339fe8a
-ms.sourcegitcommit: 2a7fa66d0cc399e8ae5d824dab7b84a460cc2c9f
+ms.openlocfilehash: d535c5748afb3dba80096509e48f1f32128c1790
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42982513"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076287"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -40,7 +40,7 @@ ms.locfileid: "42982513"
 
 ### <a name="excel"></a>Excel
 
-- 已解決捲動後選取儲存格時，可能導致選取錯誤儲存格的問題。
+- 解決捲動後選取儲存格時，可能導致選取錯誤儲存格的問題。
 
 - 我們已修正當 OLAP 樞紐分析表的篩選條件設定為已從 cube 移除的值時會發生的問題。
 
@@ -112,7 +112,7 @@ ms.locfileid: "42982513"
 
 ### <a name="word"></a>Word
 
-- 我們已修正了當列印到 Deskjet 印表機時，可能會導致縮放比例問題的問題。
+- 我們已修正當列印到 Deskjet 印表機時，可能會導致縮放比例問題的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -120,7 +120,7 @@ ms.locfileid: "42982513"
 
 - 改善有關登錄完整性的 Office 更新程序的可靠性。
 
-- 更正可能會在計量網路上意外封鎖更新的問題。
+- 已更正可能會在計量網路上意外封鎖更新的問題。
 
 - 修正 ODT 和 GPO 更新期限設定中的問題，在其中，相對期限只有在第一次設定時才會有效，此修正可啟用後續更新的相關期限。
 
@@ -148,12 +148,12 @@ ms.locfileid: "42982513"
 ### <a name="outlook"></a>Outlook
 
 - 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
-- 解決當使用者將項目從其主要行事曆複製到群組行事曆時，造成使用者遇到權限錯誤的問題。
-- 解決會導致非常長時間的 Outlook 工作階段記憶體流失的問題。
+- 已解決當使用者將項目從其主要行事曆複製到群組行事曆時，造成使用者遇到權限錯誤的問題。
+- 已解決導致非常長時間的 Outlook 工作階段記憶體流失的問題。
 - 解決會導致使用者在與特定安全連結互動時在 Outlook 中遇到失敗的問題。
 - 解決會導致使用者在處理某些自動探索回應時遇到失敗的問題。
-- 解決導致某些使用者在新增次要 Exchange 帳戶時看到建立了重複的特殊資料夾的問題。
-- 解決會導致在搜尋意見反應體驗中懸置的問題。
+- 已解決導致某些使用者在新增次要 Exchange 帳戶時看到建立了重複特殊資料夾的問題。
+- 已解決導致在搜尋意見反應體驗中懸置的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -169,11 +169,11 @@ ms.locfileid: "42982513"
 ### <a name="word"></a>Word
 
 - 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
-- 修正應用程式可能在關機時懸置的各種問題。 同時修正特定增益集相關失敗的問題。
+- 已修正應用程式可能在關機時懸置的各種問題。 同時修正特定增益集相關失敗的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 解決第三方外掛程式中與文字方塊/圖案自動調整屬性相關的問題。
+- 已解決第三方外掛程式中與文字方塊/圖案自動調整屬性相關的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -277,6 +277,8 @@ ms.locfileid: "42982513"
 
 - **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數。
 
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="outlook"></a>Outlook
 
 - **在移動郵件時繼續作業：** Outlook 現在會在背景中移動郵件，因此，在資料夾之間移動大量郵件時您可以繼續作業。
@@ -297,6 +299,8 @@ ms.locfileid: "42982513"
 
 - **不再受限於同步處理限制：** Outlook 的增強功能指出資料夾限制已不存在，因此您可以開始將您的共用信箱同步處理。
 
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **透過測驗或問卷詢問聽眾：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
@@ -314,6 +318,8 @@ ms.locfileid: "42982513"
 - **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
 - **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="project"></a>Project
 
@@ -355,6 +361,8 @@ ms.locfileid: "42982513"
 
 - **跟分心說再見：** Mac 中最受歡迎的功能來到 Windows。 切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 [深入了解](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+
 ### <a name="office-suite"></a>Office 套件
 
 - **安裝 Microsoft Teams：** 我們已將 Teams 新增至 Office 365 專業增強版的現有安裝。 [深入了解](https://docs.microsoft.com/DeployOffice/teams-install)
@@ -381,7 +389,7 @@ ms.locfileid: "42982513"
 
 - 修正在與其他使用者共同撰寫的工作階段中變更樞紐分析表排序的方式，然後重新整理它可能導致失敗的問題。
 
-- 修正插入或刪除儲存格時，瀑布圖和漏斗圖無法與表格同步處理的問題。
+- 已解決當插入或刪除儲存格時，瀑布圖和漏斗圖無法與表格同步處理的問題。
 
 - 修正 Excel 中合併衝突的問題，此問題會造成提示使用者重新開啟活頁簿以取得變更。
 
@@ -442,7 +450,7 @@ ms.locfileid: "42982513"
 
 - 修正大型樹狀檢視失敗的問題。
 
-- 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+- 已修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -520,7 +528,7 @@ ms.locfileid: "42982513"
  - 已解決將包含 XML 對應的檔案儲存為 PDF 時導致當機的問題。
  - 已解決在載入包含無效工作表名稱之活頁簿時，導致外部連結遭到刪除的問題。
  - 已修正在 Excel 中使用相機工具可能會造成試算表當機的問題。
- - 已解決以下問題：當插入或刪除儲存格時，瀑布圖和漏斗圖無法與表格同步處理。
+ - 已解決當插入或刪除儲存格時，瀑布圖和漏斗圖無法與表格同步處理的問題。
  - 已解決以下問題：在工作表計算期間使用依賴表格之另一個工作表上的陣列公式重新計算資料表格時，發生當機。 
  - 已解決以下問題：未先簽出檔案，無法從 SharePoint 開啟受密碼保護的活頁簿。
  - 已進行變更，確保在共用或切換自動儲存時，處理 BeforeSave 事件。
@@ -571,7 +579,7 @@ ms.locfileid: "42982513"
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
  - 此修正程式可修正無法將檔案儲存到 Apache WebDAV 資料夾的問題。
  - 修正 Office 在客戶開啟某些雲端儲存檔案時會意外關閉的問題。
- - 修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
+ - 已修正不正確地將平假名和漢字中的日本新年號 "Reiwa" (令和) 識別為拼字錯誤或不合文法的運算式的問題。
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
  - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。
  - 已修正與間歇性的空白登入提示相關的問題。

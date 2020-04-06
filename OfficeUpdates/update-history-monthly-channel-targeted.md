@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 8cf6f5299ffbe0afa3eada8a2e3f0929730dbba9
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: aadf3aee05278d85983b0f757f8cbb5362df3300
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046138"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076306"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -38,6 +38,9 @@ ms.locfileid: "43046138"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 3 月 31 日**<br/>
+版本 2003 (組建 12624.20382)<br/>
 
 **2020 年 3 月 25 日**<br/>
 版本 2003 (組建 12624.20320)<br/>
@@ -141,7 +144,7 @@ ms.locfileid: "43046138"
 **2019 年 10 月 14 日**<br/>
 版本：1910 (組建 12130.20178)<br/>
 
-**2019 年 10 月 08 日**<br/>
+**2019 年 10 月 8 日**<br/>
 版本 1909 (組建 12026.20320)<br/>
 
 **2019 年 9 月 28 日**<br/>

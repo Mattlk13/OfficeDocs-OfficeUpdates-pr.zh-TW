@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951703"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076269"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -30,10 +30,36 @@ ms.locfileid: "42951703"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
+## <a name="version-2003-march-31"></a>版本 2003：3 月 31 日
+*版本 2003 (組建 12624.20382)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **「新增資料表」工作窗格：** Access 的全新「新增資料表」工作窗格終於推出！ 這項功能可讓您輕鬆選取/多重選取要在查詢視窗中新增/移除的資料表，而不需要瀏覽至查詢和關聯視圖的「顯示資料表」對話方塊。 這也包含新的「連結」索引標籤，可顯示連結的資料表、可篩選目前清單的搜尋方塊、「拖放」行為及更多功能！
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- <div><span style="display:inline !important;">修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。</span><br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
 *版本 2003 (組建 12624.20320)*
 
-- 各種錯誤 (Bug) 和效能修正。
+- 各種錯誤和效能修正。
 
 ## <a name="version-2003-march-23"></a>版本 2003：3 月 23 日
 *版本 2003 (組建 12624.20296)*
@@ -240,7 +266,7 @@ ms.locfileid: "42951703"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 
 ### <a name="project"></a>Project
 - <div>修正無法正確計算摘要工作日期的問題。</div>
@@ -268,12 +294,12 @@ ms.locfileid: "42951703"
 ## <a name="version-2002-february-24"></a>版本 2002：2 月 24 日
 *版本 2002 (組建 12527.20194)*
 
-- 各種錯誤 (Bug) 和效能修正。
+- 各種錯誤和效能修正。
 
 ## <a name="version-2002-february-22"></a>版本 2002：2 月 22 日
 *版本 2002 (組建 12527.20186)*
 
-- 各種錯誤 (Bug) 和效能修正。
+- 各種錯誤和效能修正。
 
 ## <a name="version-2002-february-21"></a>版本 2002：2 月 21 日
 *版本 2002 (組建 12527.20174)*
@@ -618,7 +644,7 @@ ms.locfileid: "42951703"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 解決當使用者透過鍵盤快速鍵與信箱資料夾互動時會造成明顯延遲的問題。
+- 已解決當使用者透過鍵盤快速鍵與信箱資料夾互動時造成明顯延遲的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 

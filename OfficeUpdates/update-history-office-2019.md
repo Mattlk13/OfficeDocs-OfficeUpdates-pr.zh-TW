@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 9c206097e0e0a82b3caacbc464be0a1d761ce177
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959371"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081765"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -59,6 +59,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 3 月 31 日|版本 2003 (組建 12624.20382)  |各種錯誤和效能修正。 <br/>  |
 |2020 年 3 月 25 日|版本 2003 (組建 12624.20320)  |各種錯誤和效能修正。 <br/>  |
 |2020 年 3 月 10 日|版本 2002 (組建 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |2020 年 3 月 1 日   |版本 2002 (組建 12527.20242)  |解決導致協力廠商應用程式無法從 Outlook 傳送電子郵件的問題。 <br/>  |

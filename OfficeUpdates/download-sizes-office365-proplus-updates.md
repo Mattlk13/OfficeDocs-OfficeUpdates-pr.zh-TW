@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046098"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076246"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -37,6 +37,22 @@ ms.locfileid: "43046098"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="march-31-2020"></a>2020 年 3 月 31 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTMarch 31, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2003 (組建 12624.20382)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2003 (組建 12624.20320) <br/> |2020 年 3 月 25 日 <br/> |64<br/> |
+|版本 2002 (組建 12527.20278) <br/> |2020 年 3 月 10 日 <br/> |168<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDMarch 31, 2020)
 
 ## <a name="march-25-2020"></a>2020 年 3 月 25 日
 
@@ -78,7 +94,7 @@ ms.locfileid: "43046098"
 |版本 1908 (組建 11929.20562) <br/> |2020 年 1 月 14 日 <br/> |73<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
 最新的版本是版本 2002 (組建 12527.20278)。
 
@@ -168,7 +184,7 @@ ms.locfileid: "43046098"
 |版本 1902 (組建 11328.20492) <br/> |2019 年 12 月 10 日 <br/> |339<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
 最新的版本是版本 1908 (組建 11929.20606)。
 
@@ -240,7 +256,7 @@ ms.locfileid: "43046098"
 |版本 1902 (組建 11328.20480) <br/> |2019 年 11 月 22 日 <br/> |337<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
 最新的版本是版本 1908 (組建 11929.20562)。
 
@@ -291,7 +307,7 @@ ms.locfileid: "43046098"
 |版本 1902 (組建 11328.20480) <br/> |2019 年 11 月 22 日 <br/> |61<br/> |
 |版本 1902 (組建 11328.20468) <br/> |2019 年 11 月 12 日 <br/> |63<br/> |
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
 最新的版本是版本 1908 (組建 11929.20516)。
 
@@ -394,7 +410,7 @@ ms.locfileid: "43046098"
 
 [//]: # (DO NOT REMOVE CONTENT STARTNovember 12, 2019)
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
 最新的版本是版本 1908 (組建 11929.20436)。
 
@@ -501,7 +517,7 @@ ms.locfileid: "43046098"
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 8, 2019)
 
-### <a name="semi-annual-targeted-channel"></a>半年 (已設定目標) 通道
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
 最新的版本是版本 1908 (組建 11929.20388)。
 
