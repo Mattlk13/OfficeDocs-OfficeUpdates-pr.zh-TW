@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
+ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076269"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "43150971"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,32 @@ ms.locfileid: "43076269"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2003-april-03"></a>版本 2003：4 月 3 日
+*版本 2003 (組建 12624.20410)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 使用 VBA 應用程式的 Application.Evaluate 在某些情況下，對使用者定義的函數無法運作。
+
+### <a name="outlook"></a>Outlook
+
+- 解決使用滑鼠上的「X」按鈕時，導致使用者偶爾發生當機的問題。
+
+### <a name="project"></a>Project
+
+- 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChangeevent。
+
+### <a name="word"></a>Word
+
+- 解決使用滑鼠上的「X」按鈕時，導致使用者偶爾發生當機的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2003-march-31"></a>版本 2003：3 月 31 日
 *版本 2003 (組建 12624.20382)*
