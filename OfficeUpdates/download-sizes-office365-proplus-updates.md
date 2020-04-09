@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: e09cf62186fc223897d1c57ac4f54d7749712821
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076246"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170243"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
 
@@ -37,6 +37,32 @@ ms.locfileid: "43076246"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="april-7-2020"></a>2020 年 4 月 7 日
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+
+### <a name="semi-annual-channel"></a>半年通道
+
+<i>預期的版本為版本 1908 (組建 11929.20708)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1908 (組建 11929.20648) <br/> |2020 年 3 月 10 日 <br/> |72<br/> |
+|版本 1908 (組建 11929.20606) <br/> |2020 年 2 月 11 日 <br/> |82<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
+
+<i>預期的版本為版本 2002 (組建 12527.20442)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2002 (組建 12527.20278) <br/> |2020 年 3 月 10 日 <br/> |78<br/> |
+|版本 1908 (組建 11929.20606) <br/> |2020 年 2 月 11 日 <br/> |290<br/> |
+
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT END)
 
 ## <a name="march-31-2020"></a>2020 年 3 月 31 日
 

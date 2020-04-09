@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: cce53954fcf4d28f6f77f8d17966be69bf33ab94
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: 39c7da6800f60a66963a559177fe96b4cba43a22
+ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403822"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43170233"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -25,6 +25,16 @@ ms.locfileid: "42403822"
 > - 本文中的資訊不適用於 Office 365 版本的 Office，例如 Office 365 專業增強版。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="april-7-2020"></a>2020 年 4 月 7 日
+
+**Office 2016**<br/>
+Microsoft Office 2016 更新 ([KB4484101](https://support.microsoft.com/help/4484101))<br/>
+Microsoft Office 2016 更新 ([KB4484106](https://support.microsoft.com/help/4484106))<br/>
+Microsoft Office 2016 更新 ([KB4484248](https://support.microsoft.com/help/4484248))<br/>
+Microsoft OneNote 2016 更新 ([KB4475586](https://support.microsoft.com/help/4475586))<br/>
+商務用 Skype 2016 的更新 ([KB4484286](https://support.microsoft.com/help/4484286)) <br/>
+
 
 ## <a name="march-3-2020"></a>2020 年 3 月 3 日
 
@@ -76,21 +86,3 @@ Microsoft Office 2016 更新 ([KB4484145](https://support.microsoft.com/help/448
 Microsoft Outlook 2016 更新 ([KB4484139](https://support.microsoft.com/help/4484139)) <br/>
 Microsoft PowerPoint 2016 更新 ([KB4484134](https://support.microsoft.com/help/4484134)) <br/>
 Microsoft Word 2016 更新 ([KB4484135](https://support.microsoft.com/help/4484135)) <br/>
-
-## <a name="october-1-2019"></a>2019 年 10 月 1 日
-
-**Office 2016**<br/>
-Microsoft Office 2016 更新 ([KB4475585](https://support.microsoft.com/help/4475585)) <br/> Microsoft Office 2016 更新 ([KB4484114](https://support.microsoft.com/help/4484114)) <br/>
-Microsoft Office 2016 語言介面套件更新 ([KB4475582](https://support.microsoft.com/help/4475582))<br/>
-Microsoft Outlook 2016 更新 ([KB4484107](https://support.microsoft.com/help/4484107)) <br/>
-Microsoft PowerPoint 2016 更新 ([KB4475578](https://support.microsoft.com/help/4475578)) <br/>
-Microsoft Project 2016 更新 ([KB4484116](https://support.microsoft.com/help/4484116)) <br/>
-Microsoft Word 2016 更新 ([KB4484105](https://support.microsoft.com/help/4484105)) <br/>
-商務用 Skype 2016 更新 ([KB4484102](https://support.microsoft.com/help/4484102)) <br/>
-
-**Office 2013**<br/>
-Microsoft Outlook 2013 更新 ([KB4484096](https://support.microsoft.com/help/4484096))<br/>
-
-**Office 2010**<br/>
-Microsoft Outlook 2010 更新 ([KB4475604](https://support.microsoft.com/help/4475604))<br/><br/>
-
