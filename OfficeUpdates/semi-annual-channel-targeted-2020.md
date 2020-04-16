@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 85a1bba4afd5478275a1330cd4ad59f67ee6f99b
-ms.sourcegitcommit: cebd1b7ebdaa9ee8c7fcd4b23c84b6fe931f08d2
+ms.openlocfilehash: b6ead1e881f7cc860e65285efbc2a0326839bba0
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43159835"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521371"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -24,6 +24,75 @@ ms.locfileid: "43159835"
 >
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 從版本 1902 開始，Microsoft Teams 會包含在半年通道 (已設定目標) 的全新安裝中。 將 Teams 更新至版本 1908 或更新版本時，即會將 Teams 新增至半年通道 (已設定目標) 的現有安裝中。 如需詳細資訊，請參閱[使用 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
+## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日
+*版本 2002 (組建 12527.20442)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- 輸入會傳回多個值的公式: 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
+- 六個功能強大的函數: 我們新增了六個新的函數，讓您的試算表功能更強大: FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [深入了解](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
+- 向左看，向右看... XLOOKUP 在這裡!: 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。  [深入了解](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 重複開啟內嵌在 Word 或 PowerPoint 中的活頁簿時，在某些情況下，Excel 會當機。
+
+- 儲存為 CSV 檔案時，在某些情況下，Excel 會將所有欄合併成單一欄。
+
+- 在受保護工作表中的範圍使用 Range.ClearContents 可能會比預期花的時間更長。
+
+- 修正了在 [預覽列印] 中顯示表單控制項時的文字縮放比例問題。
+
+- 與功能區互動的 VBA 宏可能會意外以 ScreenUpdating 設定為 True 執行。
+
+- 解決了當來源活頁簿關閉時，外部連結無法在填滿時 (向下填滿、跨表填滿等) 更新的問題。
+
+- 在某些情況下，使用 VBA 的 Application.Evaluate 對使用者定義的函數無法運作。
+
+- 解決從範本建立圖表時的效能問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決了在某些情況下，[群組] 標題會意外展開的問題。
+
+- 解決了導致使用者在選取特定搜尋結果時發生當機的問題。
+
+- 解決了使用滑鼠上的 X 按鈕時，導致使用者偶爾發生當機的問題。
+
+- 解決了會讓 [附件工具] 中的 [儲存至雲端] 按鈕不見的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已改善複製貼上的案例：將 PowerPoint 投影片中的圖形複製並貼到迴圈中的其他投影片，可能會出現例外狀況而失敗。
+
+
+### <a name="project"></a>Project
+
+- 修正了儲存使用舊版 [專案] 建立的專案時，[專案] 可能當機的問題。
+
+- 修正了透過 [已停用] 按鈕停用/啟動工作時，ProjectBeforeTaskChange 事件無法偵測的問題。
+
+### <a name="word"></a>Word
+
+- 解決了使用滑鼠上的 X 按鈕時，導致使用者偶爾發生當機的問題。
+
+- 我們修正了表格中最適文字大小的問題。
+
+- 我們修正了插入水平線無法更短並置中的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002 (組建 12527.20278)*
@@ -177,8 +246,6 @@ ms.locfileid: "43159835"
 - **轉換檔案，以改善協助工具功能：** 將您的檔案升級為現代格式，讓所有人更容易存取。
 
 - **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。 [深入了解](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-- **誰正在與我合作？：** 輕鬆查看其他人與您一起工作，以及他們在 [文件/試算表/簡報] 中的位置。
 
 - **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
