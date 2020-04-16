@@ -9,14 +9,18 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: 823951736ba1e8919362b845e6339af94ef61010
-ms.sourcegitcommit: 09d01a3a12518056aec19131ab8b0f6eea9d5cc9
+ms.openlocfilehash: 36eb997635e01c6b9acd0ccc48aec4348c1e1dee
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42603929"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521001"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
+
+> [!IMPORTANT]
+Office 2010 的支援結束于2020年10月13日。 若尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。
+
 
 下列 Office 2010 產品會使用名為隨選即用的技術自動保持在最新狀態。
   
@@ -29,7 +33,7 @@ ms.locfileid: "42603929"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版本的 Office 2010 是**14.0.7247.5000**，也就是在2020年3月11日發行。
+> 最新版本的 Office 2010 是**14.0.7248.5000**，它已于2020年4月14日發行。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -53,7 +57,8 @@ ms.locfileid: "42603929"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020|3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
+|2020|4 月 14 日  <br/> |14.0.7248.5000  <br/> |[KB 4549670](https://support.microsoft.com/help/4549670 ) <br/> |
+||3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
 ||2 月 11 日  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||1 月 14 日  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
 |2019|12 月 10 日  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
