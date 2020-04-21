@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4bfa4d71cd6f4170f56df5b159c747b59e4da74d
-ms.sourcegitcommit: 48ebf0ac6da9e208ff6242200d07013ea3c12dad
+ms.openlocfilehash: 3ab0d2f47e3efb78f305e175b2ad8bc07f6fad98
+ms.sourcegitcommit: 33869248c8872c2d7dc27c265f5ba50bd1598d3f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43131101"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548160"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -26,6 +26,130 @@ ms.locfileid: "43131101"
 > - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-april-17"></a>版本 2005：4 月 17 日
+*版本 2005 (組建 12810.20002)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+- 已增加搭配圖表使用的 [自訂誤差線] 對話方塊上儲存格參照 [編輯] 控制項的大小。
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+- 修正列印時表單控制項的核取方塊縮放問題。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 此變更會修正設定格式化的條件 (CF) 資訊無法正確儲存到 XLSB 檔案的問題。
+
+### <a name="onenote"></a>OneNote
+- 修正將分行符號儲存為垂直 Tab 的問題。
+
+### <a name="outlook"></a>Outlook
+- 解決會導致使用者無法將個人連絡人群組新增為會議出席者的問題。
+- 解決會導致還有 2 個月時間的會議，無法在排程小幫手中顯示會議主題的問題。
+- 解決會導致使用者在轉寄大型 HTML 郵件時看到郵件內文截斷的問題。
+- 新增透過群組原則強制執行 S/MIME 預設登入設定的功能。
+- 解決會導致為使用者主要信箱以外的信箱所建立的刪除規則變得無效的問題。
+- 解決在轉寄加密郵件時導致捨棄附件的問題。
+
+### <a name="project"></a>Project
+- 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。
+- 修正變更連結至 SharePoint 工作清單之專案的面板狀態欄位時，Project 可能當機的問題。
+- 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2004-april-10"></a>版本 2004：4 月 10 日
+*版本 2004 (組建 12730.20024)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **略過 [顯示資料表] 對話方塊，直接移至工作窗格，以及將資料表新增至關係和查詢的程序簡化：** 只要按一下四個索引標籤、將名稱多重選取、依文字搜尋，並從在您工作時維持開啟的工作窗格拖曳，即可新增資料表和查詢。
+
+### <a name="excel"></a>Excel
+
+- **M365 進階版內容選擇器：** 讓您的文件栩栩如生！ 探索數千個免費圖庫影像、圖示和貼圖 [深入了解](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **M365 進階版內容選擇器：** 讓您的文件栩栩如生！ 探索數千個免費圖庫影像、圖示和貼圖 [深入了解](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **將圖片作為電子郵件的一部分傳送時，讓圖片保持高畫質：** 一個新 Outlook 設定，可讓您在隨著電子郵件內容傳送圖片時限制圖片壓縮
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 進階版內容選擇器：** 讓您的文件栩栩如生！ 探索數千個免費圖庫影像、圖示和貼圖 [深入了解](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。
+
+### <a name="word"></a>Word
+
+- **M365 進階版內容選擇器：** 讓您的文件栩栩如生！ 探索數千個免費圖庫影像、圖示和貼圖 [深入了解](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+- **標註私人複本：** 製作共用文件的私人複本，以建立只有您本人能夠看到的手寫筆記。 若要開始使用，請移至 [檢視] > [建立私人複本]。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 修正工作窗格中表格的重新調整及重新整理問題。
+
+### <a name="excel"></a>Excel
+
+- 修正在工作表上選取儲存格範圍會導致只選取單一儲存格的問題。
+
+- 修正在為含有 X 軸範圍的圖表縮減大小時，可能會導致 Excel 停止回應的問題。
+
+- 修正插入使用者定義的圖表範本來作為預設值會導致其儲存為直條圖的問題。
+
+- 修正當基礎資料儲存格沒有標題時，圖表上的資料標籤會以空白顯示的問題。
+
+- 修正已啟用 R1C1 儲存格參照且正在共同撰寫/共用的 Excel 工作表，在將游標移到 [使用者目前狀態] 圖示上方時不會以 R1C1 模式顯示作用中儲存格的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 解決會導致類別有時候會從電子郵件訊息中消失的問題。
+
+- 解決會導致代理人在不同機器上所看到的共用信箱有不同資料夾階層的問題。
+
+- 解決在嘗試檢視組織表單的屬性時，會導致使用者遇到當機的問題。
+
+- 解決在變更機器上的時區時，會導致某些提醒無法觸發的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更修正了在 PowerPoint 或 Word 中呈現內嵌為 OLE 物件的舊版 Excel 圖表時可能不會永遠顯示圖表標題的問題。
+
+- 我們已修正將文字從 Excel 複製到 PowerPoint 時可能會導致其格式設定發生變更的問題。
+
+- 此變更修正了使用 [全字拼寫須相符] 來尋找特殊字元時，不一定能正常運作的問題。
+
+### <a name="project"></a>Project
+
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+
+### <a name="word"></a>Word
+
+- 此變更修正了將游標暫留在提示上不會醒目提示其卡片的問題。
+
+- 此變更修正了使用套索選取工具時，群組圖形中的文字會暫時消失的問題。
+
+- 此變更修正了在 PowerPoint 或 Word 中呈現內嵌為 OLE 物件的舊版 Excel 圖表時可能不會永遠顯示圖表標題的問題。
+
+- 此變更修正了在雙頁檢視中建立註解時，註解錨點不一定會顯示的問題。
+
+- 修正如果段落的樣式是連結至清單的樣式上階，則該清單的編號可能會遺失的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
