@@ -9,16 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 從 2018 年 9 月開始為 IT 專業人員提供 Mac 版 Office 2016 的版本資訊
-ms.openlocfilehash: 4975c84b35b67cea4b8f6efbe5079774ba45c096
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: bb2f4f0e3253aa1e522c0dd032738ec26debecc3
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586580"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521311"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac 版 Office 2016 更新歷程記錄
 
 Mac 版 Office 2016 是 Office 的一個版本，可從零售商店或透過大量授權合約買斷。我們將視需要提供其安全性更新和錯誤修復直到 2020 年 10 月 13 日。Mac 支援 Mac 版 Office 2016 的最低 macOS 為 10.10 (Yosemite)。
+
+> [!IMPORTANT]
+> - Mac 版 Office 2016 的支援將於 2020 年 10 月 13 日終止。 如果您尚未開始升級至較新的版本，建議您立即開始。 如需詳細資訊，請參閱 [Mac 版 Office 2016 終止支援。](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)
 
 > [!NOTE]
 > - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
@@ -33,17 +36,34 @@ Mac 版 Office 2016 的更新可從 Microsoft AutoUpdate (MAU) 取得。若要�
 
 下表列出 Mac 版 Office 2016 和個別應用程式 (例如，Word 和 Excel) 的最新套件。所有套件都只提供 64 位元版本。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。如果您尚未安裝應用程式則會使用安裝套件，至於更新套件，則是用來更新現有安裝的。
 
-### <a name="march-10-2020"></a>2020 年 3 月 10 日
-版本 16.16.20 (20030700)
+### <a name="april-14-2020"></a>2020 年 4 月 14 日
+版本 16.16.20 (20041301)
 
 |**應用程式**|**下載連結**|**安裝套件的 SHA256 雜湊**|
 |:-----|:-----|:-----|:-----|
-|Office 套件 (所有應用程式)  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |  E6B38E17FECF5BF67CB08C5EF405BCEFE2079A079637D5800E1815B1FCB8E0B6<br/> |
-|Word  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20030700_Updater.pkg) <br/> | 1B60C30C16005DE9D88C93DF5371BEC856944F98B8337D5408DC96C90A808E86 <br/>|
-|Excel  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20030700_Updater.pkg) <br/> | 4634B23F41A57B02D27F71C37D87856786DEF3653A40FFFFCEDF43857E1D9754 <br/>  |
-|PowerPoint  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20030700_Updater.pkg) <br/> | B062BAD7FEE443EDA0F5804F4F7C6D90585F62D91B74BD47F9D1EDE29C13DFA8<br/> |
-|Outlook  <br/> |[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20030700_Updater.pkg) <br/> | 07E736079C55DC0EB6C355FF45A51A2987D5623F8D1F8F485F378EE721937980<br/> |
-|OneNote  <br/> |[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20030700_Updater.pkg) <br/> | 不適用 <br/> |
+|Office 套件 (所有應用程式)<br/>|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871743)<br/>|07A4168CDB3D7E0F2D3B3FC1528EED490E2A159437878963EF66D36E5F32220F<br/>|
+|Word<br/>|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871748)<br/><br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20041301_Updater.pkg) <br/> |4E96B50BCD901363507BF753D34B83C04F9322F0E0516D7A60D4EED3952E6B64<br/>|
+|Excel<br/>|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871750)<br/><br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20041301_Updater.pkg)<br/>|0653D89F4E6A6969B657A9B2C8941FFE6704C50C833BC710B83488F5F4154E6B<br/> |
+|PowerPoint<br/>|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871751)<br/><br/> [更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20041301_Updater.pkg) <br/>|0F583ACD6FC476D4EB2D3A49978492179F7A9C720510A728112D19043D47FCCE<br/>|
+|Outlook<br/>|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=871753)<br/><br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20041301_Updater.pkg)<br/> |B13509C501DFEE9E4013B952F1BFA5318887EC767D02E9C021AFD027D9C5BF36<br/>|
+|OneNote<br/>|[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.20041301_Updater.pkg) <br/> | 不適用<br/>|
+
+## <a name="april-2020-release"></a>2020 年 4 月版本
+
+ **發行日期：** 2020 年 4 月 14 日
+  
+ *版本 16.16.20 (20041301)* 
+  
+此版本提供下列更新。
+  
+|**應用程式**|**安全性更新**|**更新套件的下載連結**|
+|:-----|:-----|:-----|
+|Word  <br/> |[CVE-2020-0980](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0980) |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.20041301_Updater.pkg) <br/>|
+|Excel  <br/> | <br/>|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.20041301_Updater.pkg) <br/>|
+|PowerPoint  <br/> ||[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.20041301_Updater.pkg) <br/>|
+|Outlook  <br/> |<br/>|[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.20041301_Updater.pkg) <br/>|
+|OneNote <br/> ||[OneNote 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.2004130_Updater.pkg)|
+|Office 套件  <br/> | <br/>||
 
 ## <a name="march-2020-release"></a>2020 年 3 月發行
 
