@@ -8,25 +8,65 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
+ms.openlocfilehash: 1917bc762563b025f08f8d6e930072c1dc5b7b36
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076268"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714683"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年半年通道版本的版本資訊
 
-這些版本資訊可提供 2020 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道更新所含新功能和非安全性更新的相關資訊。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年通道更新。
 
 > [!NOTE]
 >
 >- 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 當使用半年通道的使用者透過 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
+>- 當使用半年通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
 
 
 
+## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
+*版本 1908 (組建 11929.20708)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正在刪除包含合併儲存格的資料行時，會導致效能變慢的問題。
+
+- 修正了在 [預覽列印] 中顯示表單控制項時的文字縮放比例問題。
+
+### <a name="skype"></a>Skype
+
+- 已修正有多個交談正在進行時的索引標籤式交談標題名稱。
+
+### <a name="outlook"></a>Outlook
+
+- 已解決會導致使用者在關閉 Outlook 時發生當機的問題。
+
+- 已解決會導致客戶在某些情況下看到空白會議室清單的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正具有深色螢光筆色彩的白色文字，在灰階中會以黑色列印的螢光筆問題。
+
+### <a name="word"></a>Word
+
+- 已修正「文字配合資料表」中的問題。
+
+
+## <a name="version-1902-april-14"></a>版本 1902：4 月 14 日
+*版本 1902 (組建 11328.20564)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908 (組建 11929.20648)*

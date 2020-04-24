@@ -1,5 +1,5 @@
 ---
-title: Office 365 專業增強版的更新歷程記錄 (依日期列出)
+title: Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,29 +8,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 專業增強版的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: f70e7b3f33d08b92cb748069df368b7d5211a1fc
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
+ms.openlocfilehash: f70db1039fa7931b5f8cf80834389e03e4a095bd
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081777"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715421"
 ---
-# <a name="update-history-for-office-365-proplus-listed-by-date"></a>Office 365 專業增強版的更新歷程記錄 (依日期列出)
+# <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
-Office 365 專業增強版會定期以新功能、安全性更新與非安全性更新進行更新。這些更新會使用[更新通道](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)來發行。每個更新通道中的每個版本都有指派的版本號碼和組建編號。
-
+這些版本和組建編號適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 的傳統型應用程式訂閱版本。
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
+> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
 > [!NOTE]
-> - 這些版本號碼和組建編號也適用於 Office 365 商務版、Visio Pro for Office 365 與 Project Online 桌面用戶端。Office 365 商務版是隨附於部分 Office 365 方案的 Office 版本，例如商務進階版。
 > - 資料表依發行日期排序，最新的發行日期列在最前面。
-> - 如需更新通道的詳細資訊，請參閱 [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
+> - 如需更新通道的詳細資訊，請參閱 [Microsoft 365 Apps 更新通道概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下列表格會列出每個更新通道的支援版本及最新組建編號。
 
@@ -38,21 +33,23 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|2003<br/>|12624.20382<br/>|2020 年 3 月 31 日<br/>|版本 2004 已推出<br/>|
-|半年 (已設定目標)<br/>|2002<br/>|12527.20278<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
-|半年<br/>|1908<br/>|11929.20648<br/>|2020 年 3 月 10 日<br/>|2021 年 3 月 9 日<br/>|
-|半年<br/>|1902<br/>|11328.20554<br/>|2020 年 3 月 10 日<br/>|2020 年 9 月 8 日<br/>|
+|每月<br/>|2003<br/>|12624.20466<br/>|2020 年 4 月 15 日<br/>|版本 2004 已推出<br/>|
+|半年 (已設定目標)<br/>|2002<br/>|12527.20442<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
+|半年<br/>|1908<br/>|11929.20708<br/>|2020 年 4 月 14 日<br/>|2021 年 3 月 9 日<br/>|
+|半年<br/>|1902<br/>|11328.20564<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
-若想了解從舊版的 Office 365 專業增強版更新至最新版本的約略下載大小，請參閱[更新至 Office 365 專業增強版的下載大小](download-sizes-office365-proplus-updates.md)。
+若想瞭解從舊版的 Microsoft 365 Apps 更新至最新版本的約略下載大小，請參閱[更新至 Microsoft 365 Apps 的下載大小](download-sizes-office365-proplus-updates.md)。
 
-下表提供在下列更新通道發行的每項 Office 365 專業增強版更新的版本號碼和組建編號清單：每個月、半年 (已設定目標) 和半年。表格中的每個項目都會直接連結至該版本的版本資訊。版本資訊會提供 Office 365 專業增強版的更新中所包含的功能、安全性更新和非安全性更新的相關資訊。  
+下表提供下列更新通道中發行的 Microsoft 365 Apps 每個更新的版本和組建編號清單：每月、半年度 (已設定目標) 和半年。 表格中的每個項目會直接連結到該版本的版本資訊。 這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。  
 
 [//]: # (HISTORYTABLESTART)
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|4 月 15 日|[版本 2003 (組建 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
+|2020|4 月 14 日|[版本 2003 (組建 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[版本 2002 (組建 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[版本 1908 (組建 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[版本 1902 (組建 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|3 月 31 日|[版本 2003 (組建 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
 |2020|3 月 25 日|[版本 2003 (組建 12624.20320)](monthly-channel-2020.md#version-2003-march-25)| | |
 |2020|3 月 10 日|[版本 2002 (組建 12527.20278)](monthly-channel-2020.md#version-2002-march-10)|[版本 2002 (組建 12527.20278)](semi-annual-channel-targeted-2020.md#version-2002-march-10)|[版本 1908 (組建 11929.20648)](semi-annual-channel-2020.md#version-1908-march-10)<br/>[版本 1902 (組建 11328.20554)](semi-annual-channel-2020.md#version-1902-march-10)|
@@ -225,9 +222,9 @@ Office 365 專業增強版會定期以新功能、安全性更新與非安全性
 
 ## <a name="related-topics"></a>相關主題
 
-- [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 365 專業增強版更新的版本資訊](release-notes-office365-proplus.md)
-- [Office 365 專業增強版更新的下載大小](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 更新的版本資訊](release-notes-office365-proplus.md)
+- [Microsoft 365 Apps 更新的下載大小](download-sizes-office365-proplus-updates.md)
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

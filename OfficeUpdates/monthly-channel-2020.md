@@ -8,24 +8,56 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
-ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
+description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
+ms.openlocfilehash: e7208b25c8b6f6b14fbd2511e570d02b32c8d396
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43081778"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714513"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
-這些版本資訊可提供 2020 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月通道更新所含新功能和非安全性更新的相關資訊。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的每月通道更新。
 
  > [!NOTE]
 >
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
-## <a name="version-2003-march-31"></a>版本 2003: 3 月 31 日
+
+## <a name="version-2003-april-15"></a>版本 2003：4 月 15 日
+*版本 2003 (組建 12624.20466)*
+* 各種錯誤和效能修正。
+
+## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
+*版本 2003 (組建 12624.20442)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+
+### <a name="outlook"></a>Outlook
+
+- 解決使用滑鼠上的「X」按鈕時，導致使用者偶爾發生當機的問題。
+
+### <a name="project"></a>Project
+
+- 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。
+
+### <a name="word"></a>Word
+
+- 解決使用滑鼠上的「X」按鈕時，導致使用者偶爾發生當機的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2003-march-31"></a>版本 2003：3 月 31 日
 *版本 2003 (組建 12624.20382)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -121,7 +153,7 @@ ms.locfileid: "43081778"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="project"></a>Project
 
 - <div><span style="display:inline !important;">修正不先執行 OpenUndoTransaction 方法&nbsp;</span><span style="box-sizing:border-box;font-size:13.3333px;display:inline !important;">就不能觸發 OnUndoOrRedo 事件的問題</span>。<br></div>

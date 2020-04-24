@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 0fc6e93f19abf0a8969879979b1e5aa5e7dc15ab
-ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
+ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "42890110"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714673"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,47 @@ ms.locfileid: "42890110"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="april-2020-release"></a>2020 年 4 月版本
+
+**發行日期：** 2020 年 4 月 21 日
+
+*Microsoft Auto Update 4.22*
+
+**錯誤修正及增強功能：**
+- Microsoft AutoUpdate UI 不會顯示在透過 Microsoft AutoUpdate 的 [自動] 模式更新其 Office 應用程式的裝置上，也不會顯示在當沒有新的更新時，在非自動模式中使用更新的裝置。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.22 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
+
+<br/><br/>
+
+**發行日期：** 2020 年 4 月 14 日
+
+*Microsoft Auto Update 4.22*
+
+ **功能更新：**
+
+- 安全性問題修正：Microsoft AutoUpdate 將禁止來自舊版的任何不安全連線。
+- 將 [自動更新] 設為 [關閉] 的使用者每週只會看到一次 Microsoft AutoUpdate UI。
+- 使用 SSD 的 MacOS 機器會體驗到更新速度變快，且因為更新而導致應用程式停機的時間變得可以忽略不計。
+
+
+請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0984)
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.22 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
+<br/><br/>
 
 ## <a name="march-2020-release"></a>2020 年 3 月發行
 

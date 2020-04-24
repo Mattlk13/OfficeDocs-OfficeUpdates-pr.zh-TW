@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cf477b7b6387eefc1959a1da4de6e73b264808da
-ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
+ms.openlocfilehash: 8c308b50fe0a9be3b7949f3d3a8d8f4488b62f2b
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43206470"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715021"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -22,11 +22,203 @@ ms.locfileid: "43206470"
 
 > [!NOTE]
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
 
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2004-april-21"></a>版本 2004：4 月 21 日
+版本 2004 (組建 12730.20182)**
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決導致資料夾窗格寬度意外變更的問題。
+
+- 解決導致使用者在退出 Outlook 時遇到掛斷的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2004-april-15"></a>版本 2004：4 月 15 日
+*版本 2004 (組建 12730.20150)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Facebook 連接器支援即將結束：** 於 2020 年 4 月起，Excel 就不再支援使用 Facebook 連接器的外部資料連線。
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及的選擇器很煩人，一點都不好用？ 現在您可以視需要將其關閉了。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。
+
+### <a name="word"></a>Word
+
+- **標註私人複本：** 製作共用文件的私人複本，以建立只有您本人能夠看到的手寫筆記。 若要開始使用，請移至 [檢視] > [建立私人複本]。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正工作窗格中表格的重新調整及重新整理問題。
+
+- 修正國際版 Access 在使用者介面中顯示英文字串的問題。
+
+### <a name="excel"></a>Excel
+
+- 已修正在工作表上選取儲存格範圍會導致只選取單一儲存格的問題。
+
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+
+- 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
+
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+
+- 修正使用者在以程式設計方式編輯大量儲存格範圍時可能遇到的效能問題。
+
+- 修正以日文環境開啟 CSV 檔案時發生的效能問題。
+
+- 已修正插入使用者定義的圖表範本來作為預設值會導致其儲存為直條圖的問題。
+
+- 已修正當基礎資料儲存格沒有標題時，圖表上的資料標籤會以空白顯示的問題。
+
+- 已修正在為含有 X 軸範圍的圖表縮減大小時，可能會導致 Excel 停止回應的問題。
+
+- 已修正已啟用 R1C1 儲存格參照且正在共同撰寫/共用的 Excel 工作表，在將游標移到 [使用者目前狀態] 圖示上方時不會以 R1C1 模式顯示作用中儲存格的問題。
+
+- 此變更解決了處理格式錯誤或無效通訊協定資訊影像時所導致的延遲問題。
+
+### <a name="outlook"></a>Outlook
+
+- 此變更解決了處理格式錯誤或無效通訊協定資訊影像時所導致的延遲問題。
+
+- 此變更修正了電子郵件草稿最新變更未更新的問題。
+
+- 已修正在檔案上按一下滑鼠右鍵並使用「傳送到」功能無法運作的問題。
+
+- 已解決會導致代理人在不同機器上所看到的共用信箱有不同資料夾階層的問題。
+
+- 已解決會導致類別有時候會從電子郵件訊息中消失的問題。
+
+- 已解決在變更機器上的時區時，會導致某些提醒無法觸發的問題。
+
+- 已解決在嘗試檢視組織表單的屬性時，會導致使用者遇到當機的問題。
+
+- 已修正如果使用者有自訂的 [通訊錄] 搜尋路徑，則 Outlook 的名稱解析範圍會限制為自訂路徑，而不是包括全域通訊清單 (GAL) 的問題。
+
+- 解決了會讓 [附件工具] 中的 [儲存至雲端] 按鈕不見的問題。
+
+- 解決了以下問題：當使用者從檢查程式視窗回覆受到數位版權管理的郵件，卻沒有所回覆郵件的擁有者權限時，使用者會無法新增簽名。
+
+- 解決了以下問題：使用者無法從網頁位置將其他附件新增到先前建立的會議。
+
+- 解決將附件新增至郵件或從郵件拖放 (與透過功能表相對) 來儲存附件時，導致檔案的「上次修改」日期更新的問題。
+
+- 解決會導致在展開的尋找窗格中按一下 Enter 時無法開始搜尋，而是會要求使用者按一下 [搜尋] 按鈕的問題。
+
+- 已修正在一組傳回的搜尋結果中，依類別結果排序不會顯示類別色彩的問題。
+
+- 修正將 [如果有，顯示使用者的照片] 選項停用時，搜尋不會顯示有關使用者的任何資訊的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更修正了會導致包含 emojis 的 PowerPoint 檔案在儲存時發生失敗的錯誤。
+
+- 此變更修正了在 PowerPoint 或 Word 中呈現內嵌為 OLE 物件的舊版 Excel 圖表時可能不會永遠顯示圖表標題的問題。
+
+- 我們已修正將文字從 Excel 複製到 PowerPoint 時可能會導致其格式設定發生變更的問題。
+
+- 此變更修正了使用 [全字拼寫須相符] 來尋找特殊字元時，不一定能正常運作的問題。
+
+### <a name="project"></a>Project
+
+- 修正無法正確計算摘要工作日期的問題。
+
+- 修正不先執行 OpenUndoTransaction 方法就不能觸發 OnUndoOrRedo 事件的問題。
+
+- 已修正當使用者按一下 [排程群組] 內 [工作] 功能區中的 [停用] 按鈕時，不會觸發 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) 事件的問題。
+
+- 如果您在 [表單類型] 檢視中設定前置任務或後置任務詳細資訊，則 ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件不會一律擷取變更。 例如，如果刪除了某個相依性，並在表單上按一下 [確定]，則不會觸發該事件。 已修正此問題。
+
+- 已修正在進行變更 (例如日期變更) 之後，實際工作成本 (ACWP) 的最新值不會顯示的問題。
+
+- 已修正使用「最近使用」(MRU) 功能表開啟專案時，會使用 [讀取/寫入] 存取權開啟專案的問題。
+
+- 這項變更修正了如果您建立包含開始日期和時間 (但無工期) 的手動工作，則時間表上的時間顯示不正確的問題。
+
+- 已修正使用回曆列印時間表時，會導致列印檢視中略過或重複一個月的問題。
+
+- 這項變更解決了在團隊規劃中使用 GDI 物件時，可能導致 GDI 物件分配過多並產生記憶體不足的問題。
+
+- 修正了以下問題：如果執行 'CustomFieldValueListGetItem' 且自訂欄位的查閱資料表不存在，系統會建立一個不應建立的空白查閱資料表。
+
+- 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件
+
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+
+### <a name="word"></a>Word
+
+- 此變更修正了將游標懸停在提示上並不會醒目提示其卡片的問題。
+
+- 此變更修正了以下問題：從 [檢視] 功能表選取多個頁面時，其中的 [註解] 窗格會顯示為空白。
+
+- 已修正張貼留言功能停用的問題。
+
+- 此變更修正了使用套索選取工具時，群組圖形中的文字會暫時消失的問題。
+
+- 此變更解決了處理格式錯誤或無效通訊協定資訊影像時所導致的延遲問題。
+
+- 此變更修正了在 PowerPoint 或 Word 中呈現內嵌為 OLE 物件的舊版 Excel 圖表時可能不會永遠顯示圖表標題的問題。
+
+- 這項變更解決了帳戶管理員不會分派訊息而導致協力廠商應用程式懸置的問題。
+
+- 此變更修正了在雙頁檢視中建立註解時，註解錨點不一定會顯示的問題。
+
+- 修正輸入或編輯備註然後使用 Ctrl+A 時，會導致選取畫布中的文字，而不只是選取備註卡片內文字的問題。
+
+- 已修正如果段落的樣式是連結至清單的樣式上階，則該清單的編號可能會遺失的問題。
+
+- 這項變更修正了目錄會使用文件中未包含的標題樣式進行更新的問題。
+
+- 我們已修正文件中的文字對齊，在使用 [快速列印] 進行列印之後嘗試進行編輯時變得混亂的問題。
+
+- 我們已修正將兩份文件合併成一份文件時的問題。
+
+- 已修正在寄送文件時，儲存在 Word 文件中的數位簽章會被刪除的問題。
+
+- 修正標示的修訂若與方程式有關，在儲存檔案時可能會導致失敗的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
+*版本 2003 (組建 12624.20466)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+- 各種錯誤和效能修正。
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 

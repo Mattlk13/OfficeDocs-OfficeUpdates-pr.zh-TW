@@ -1,5 +1,5 @@
 ---
-title: Office 365 專業增強版更新的版本資訊
+title: Microsoft 365 Apps 更新的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,43 +9,39 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 專業增強版在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
+ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046118"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714533"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的版本資訊
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
+> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
 
-
-
-## <a name="security-updates-for-office-365-proplus-releases"></a>Office 365 專業增強版的安全性更新發行
+## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的安全性更新
 
 如需安全性更新的完整清單，請參閱下列文章：
  - [Office 365 專業增強版的安全性更新](office365-proplus-security-updates.md)
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Office 365 專業增強版的更新歷程記錄發行
+## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的更新歷程記錄
 
 如需發行的完整清單和每個頻道支援的版本，請參閱下列文章：
  - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 
 
- ## <a name="update-sizes-for-office-365-proplus-releases"></a>Office 365 專業增強版的更新大小發行
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的更新大小
 
 如需更新版本大小的完整清單，請參閱下列文章：
  - [Office 365 專業增強版更新的下載大小](download-sizes-office365-proplus-updates.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Office 365 專業增強版的版本資訊發行
+## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的版本資訊
 
 如需依更新通道和年度列出的完整版本資訊，請參閱下列文章︰
  - 每月：[2020](monthly-channel-2020.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
@@ -58,7 +54,7 @@ ms.locfileid: "43046118"
 
 ## <a name="office-for-mac-release-information"></a>Mac 版 Office 版本資訊
 
-如需 Mac 版 Office (隨附於任何包含 Office 365 專業增強版的 Office 365 訂閱方案) 更新的相關資訊，請參閱下列文章：
+如需 Mac 版 Office (隨附於任何包含 Microsoft 365 Apps 的 Microsoft 365 訂閱) 更新的相關資訊，請參閱下列文章：
  - [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)
  - [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)
  - [MAU 版本歷程記錄](release-history-microsoft-autoupdate.md)
@@ -66,11 +62,11 @@ ms.locfileid: "43046118"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
-- [Office 365 的新功能？](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Office 365 藍圖](https://products.office.com/business/office-365-roadmap)
-- [Office 365 訊息中心概觀](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Microsoft 365 Apps 的新功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Microsoft 365 Apps 藍圖](https://products.office.com/business/office-365-roadmap)
+- [Microsoft 365 Apps 訊息中心概觀](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10 版本資訊](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Microsoft 安全性更新指南](https://portal.msrc.microsoft.com/)
 

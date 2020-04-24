@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: d478827354e86963b4ed4ba38491646b54d070aa
-ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
+ms.openlocfilehash: 6d0e2f0d76eaad219e6fb8652bba6a8794f45e48
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43206480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715293"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -26,18 +26,24 @@ ms.locfileid: "43206480"
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
 
-
+> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
 > - 版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。
-> - 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版的 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 4 月 21 日**<br/>
+版本 2004 (組建 12730.20182)<br/>
+
+**2020 年 4 月 15 日**<br/>
+版本 2004 (組建 12730.20150)<br/>
+
+**2020 年 4 月 14 日**<br/>
+版本 2003 (組建 12624.20466)<br/>
 
 **2020 年 4 月 9 日**<br/>
 版本 2003 (組建 12624.20442)<br/>

@@ -1,5 +1,5 @@
 ---
-title: Office 365 專業增強版更新的下載大小
+title: Microsoft 365 Apps 更新的下載大小
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -8,43 +8,66 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 專業增強版每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 7b84c3a897b1bc9e3ca3d2150d49b12fdeab4558
-ms.sourcegitcommit: 4e0b36a59f36fb89207483ba9fd811c6feeef0f1
+description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
+ms.openlocfilehash: c424e6b96022b145f2483b455bf4a49488b54eed
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43170243"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714663"
 ---
-# <a name="download-sizes-for-updates-to-office-365-proplus"></a>Office 365 專業增強版更新的下載大小
+# <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
 我們的目標是提供更新大小資訊，可能的話，協助企業客戶規劃網路頻寬使用量。
 
-下表顯示從舊版 Office 365 專業增強版更新至最新版本時，大約的下載大小。 實際下載大小可能有所不同，最多可達 50 MB。 如果您從舊版更新到最新版本時，下載大小可能會更大。
+下表顯示從舊版 Microsoft 365 Apps 更新至最新版本時，大約的下載大小。 實際下載大小可能有所不同，最多可達 50 MB。 如果您從舊版更新到最新版本時，下載大小可能會更大。
 
 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小可能會遠超過表格中所列的更新大小。 它可能需要完整下載，下載大小至少 1 GB。
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
-
+> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
 > [!NOTE]
-> - 表格中所列的大約下載大小僅適用於 Office 365 專業增強版的 x64 英文 (美國) 版本。
+> - 表格中所列的大約下載大小僅適用於 Microsoft 365 Apps 的 x64 英文 (美國) 版本。
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="april-7-2020"></a>2020 年 4 月 7 日
+## <a name="april-15-2020"></a>2020 年 4 月 15 日
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+[//]: # (DO NOT REMOVE CONTENT STARTApril 15, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2003 (組建 12624.20466)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2003 (組建 12624.20442) <br/> |2020 年 4 月 14 日 <br/> |52<br/> |
+|版本 2003 (組建 12624.20382) <br/> |2020 年 3 月 31 日 <br/> |69<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDApril 15, 2020)
+
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTApril 14, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2003 (組建 12624.20442)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2003 (組建 12624.20382) <br/> |2020 年 3 月 31 日 <br/> |69<br/> |
+|版本 2003 (組建 12624.20320) <br/> |2020 年 3 月 25 日 <br/> |334<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>半年通道
 
-<i>預期的版本為版本 1908 (組建 11929.20708)。</i>
+最新的版本是版本 1908 (組建 11929.20708)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -54,7 +77,7 @@ ms.locfileid: "43170243"
 
 ### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
 
-<i>預期的版本為版本 2002 (組建 12527.20442)。</i>
+最新的版本是版本 2002 (組建 12527.20442)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -62,7 +85,8 @@ ms.locfileid: "43170243"
 |版本 1908 (組建 11929.20606) <br/> |2020 年 2 月 11 日 <br/> |290<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDApril 14, 2020)
+
 
 ## <a name="march-31-2020"></a>2020 年 3 月 31 日
 
@@ -558,9 +582,9 @@ ms.locfileid: "43170243"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Office 365 專業增強版更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 
-- [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
+- [Microsoft 365 Apps 的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

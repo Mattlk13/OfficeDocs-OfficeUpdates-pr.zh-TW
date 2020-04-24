@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 2020 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 624c062c713de666ec9991d680f4c8cceb32150d
-ms.sourcegitcommit: 831c87e22a31a38be8b2aaeaedaea0cd093c26b0
+description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
+ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43535518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714688"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年半年通道 (已設定目標) 版本的版本資訊
 
-這些版本資訊可提供 2020 年 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的半年通道 (已設定目標) 更新所含新功能和非安全性更新的相關資訊。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年通道 (已設定目標) 更新。
 
 > [!NOTE]
 >
 > - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
-> - 從版本 1902 開始，Microsoft Teams 會包含在半年通道 (已設定目標) 的全新安裝中。 將 Teams 更新至版本 1908 或更新版本時，即會將 Teams 新增至半年通道 (已設定目標) 的現有安裝中。 如需詳細資訊，請參閱[使用 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
+
 
 ## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日
 *版本 2002 (組建 12527.20442)*

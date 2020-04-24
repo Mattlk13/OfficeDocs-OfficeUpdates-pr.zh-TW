@@ -1,5 +1,5 @@
 ---
-title: Office 365 專業增強版安全性更新的版本資訊
+title: Microsoft 365 Apps 安全性更新的版本資訊
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,38 +8,63 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 專業增強版安全性更新的版本資訊
-ms.openlocfilehash: 6233ae7f80c5a139b2f8de169f1293b1c05a19ad
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: 為 IT 專業人員提供 Microsoft 365 App 安全性更新的版本資訊
+ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046088"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715011"
 ---
-# <a name="release-notes-for-office-365-proplus-security-updates"></a>Office 365 專業增強版安全性更新的版本資訊
+# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps 安全性更新的版本資訊
 
-這些版本資訊會提供 Office 365 專業增強版更新中所含安全性修正程式的相關資訊。
+這些版本資訊會提供 Microsoft 365 Apps 更新中所含安全性修正程式的相關資訊。
+
+此資訊適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 的傳統型應用程式訂閱版本。
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為**企業用 Microsoft 365 Apps**。 若要深入了解此名稱變更，請[閱讀此部落格文章](https://go.microsoft.com/fwlink/p/?linkid=2120533)。 
->
-> 如需此變更何時生效的詳細資訊，以及系統管理員可能需要採取的動作，請[閱讀此文章](https://go.microsoft.com/fwlink/p/?linkid=2123420)。
-
+> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。 如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
  
-> [!NOTE]
-> - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端安全性更新的相關資訊。
-> - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。  
 
 [//]: # (無法移除以上這行，它用來做為間距)  
+
+## <a name="april-14-2020"></a>2020 年 4 月 14 日
+每月通道：版本 2003 (組建 12624.20442)  
+半年通道 (已設定目標)：版本 2002 (組建 12527.20442)  
+半年通道：版本 1908 (組建 11929.20708)  
+半年通道：版本 1902 (組建 11328.20564)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.20442)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0906](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0906)
+-   [CVE-2020-0979](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0979)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0980)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-0760](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0760)
+-   [CVE-2020-0991](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0991)
+-   [CVE-2020-0961](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0961)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="march-10-2020"></a>2020 年 3 月 10 日
 每月通道：版本 2002 (組建 12527.20278)  
 半年通道 (已設定目標)：版本 2002 (組建 12527.20278)  
 半年通道：版本 1908 (組建 11929.20648)  
 半年通道：版本 1902 (組建 11328.20554)  
-Windows 7 上的 Office 365 專業增強版：版本 2002 (組建 12527.20278)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.20278)  
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
 
