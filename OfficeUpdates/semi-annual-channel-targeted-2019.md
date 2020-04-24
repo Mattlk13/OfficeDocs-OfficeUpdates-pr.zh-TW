@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: d535c5748afb3dba80096509e48f1f32128c1790
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
+ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076287"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796119"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -359,7 +359,6 @@ ms.locfileid: "43076287"
 
 - **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **跟分心說再見：** Mac 中最受歡迎的功能來到 Windows。 切換到 [檢視] 功能表中的 [焦點] 以移除令人分心的事物，讓您更能專注於工作。 [深入了解](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
