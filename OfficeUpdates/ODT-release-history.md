@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: fb59993362c4c186518f8472cb0330fa1b1e8d58
-ms.sourcegitcommit: f042b25b15960fc4911a7e7d8500dcfd992ee95c
+ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41230061"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781566"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
-Office 部署工具 (ODT) 是一種命令列工具，可用來將像 Office 365 專業增強版這類的 Office 隨選即用版本下載並部署到用戶端電腦。 
+Office 部署工具 (ODT) 是一種命令列工具，可用來將像 Microsoft 365 應用程式這類的 Office 隨選即用版本下載並部署到用戶端電腦。 
 
 
 ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產品及語言、這些產品的更新方式，以及是否要讓使用者看到安裝過程。 如需有關如何使用 ODT 的詳細資訊，請參閱 [Office 部署工具概觀](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。
@@ -29,6 +29,13 @@ ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產�
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="april-15-2020"></a>2020 年 4 月 15 日
+
+版本 16.0.12624.20320 (setup.exe 版本 16.0.12624.20290)
+- 新增對於 Windows 7 特定生命週期結束 Office 版本的支援
+- 已修正可能無法如預期方式套用自訂設定的問題
+- 已修正可能會意外下載無關 .cat 檔案的問題
 
 ## <a name="january-16-2020"></a>2020 年 1 月 16 日
 
