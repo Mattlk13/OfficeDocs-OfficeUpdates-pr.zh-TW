@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: c025c0afd3428c3381aeac16821ddd0eb22904b0
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714533"
+ms.locfileid: "43781586"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
@@ -27,19 +27,19 @@ ms.locfileid: "43714533"
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的安全性更新
 
 如需安全性更新的完整清單，請參閱下列文章：
- - [Office 365 專業增強版的安全性更新](office365-proplus-security-updates.md)
+ - [Microsoft 365 Apps 的安全性更新](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的更新歷程記錄
 
 如需發行的完整清單和每個頻道支援的版本，請參閱下列文章：
- - [Office 365 專業增強版的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
+ - [Microsoft 365 Apps 的更新歷程記錄 (依日期列出)](update-history-office365-proplus-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的更新大小
 
 如需更新版本大小的完整清單，請參閱下列文章：
- - [Office 365 專業增強版更新的下載大小](download-sizes-office365-proplus-updates.md)
+ - [Microsoft 365 Apps 更新的下載大小](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的版本資訊
 
