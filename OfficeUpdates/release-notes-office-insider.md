@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e89f899f5a890b5db7b2ebaa0cc495f9b623f699
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
+ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714713"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43804904"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,6 +25,35 @@ ms.locfileid: "43714713"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-april-24"></a>版本 2005：4 月 24 日
+版本 2005 (組建 12816.20006)**
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+- 這項變更修正了即使 LINEST 函式傳回正確的值，圖表趨勢線的 R 平方值 (在強制 y 截距的情況下) 仍然不正確的問題。
+- 此變更修正了自訂圖表趨勢線格式不一定會儲存的問題。
+
+### <a name="outlook"></a>Outlook
+- 修正了 Office 功能區中群組行事曆分類按鈕已停用的問題。
+- 修正了企業客戶沒有執行或無法使用群組資料夾的問題，該問題會導致 Outlook 顯示「沒有回應」的訊息。
+
+### <a name="powerpoint"></a>PowerPoint
+- 修正了將滑鼠游標移到星號 (*) 符號，但不會顯示上一次更新文件的日期和使用者姓名。
+
+### <a name="word"></a>Word
+- 啟用「顯示書簽」選項卻不會顯示書簽。 已修正這個問題。
+- 此變更修正了下列問題：如果已啟用 [顯示功能變數代碼，而非其值] 選項，則含有超連結的文字可能不會顯示。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
