@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 9a2b66ad416ac01f335b70e1875c18bf6464b3d9
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 6361bc4ad78d7774956ffdac4d1e52cec4492fe0
+ms.sourcegitcommit: 47434ba402ec7a630ef06a91664a659bb7069dad
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907924"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947389"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,7 +33,7 @@ ms.locfileid: "43907924"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|每月<br/>|2003<br/>|12624.20466<br/>|2020 年 4 月 15 日<br/>|版本 2004 已推出<br/>|
+|每月<br/>|2004<br/>|12730.20236<br/>|2020 年 4 月 29 日<br/>|版本 2005 已推出<br/>|
 |半年 (已設定目標)<br/>|2002<br/>|12527.20442<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
 |半年<br/>|1908<br/>|11929.20708<br/>|2020 年 4 月 14 日<br/>|2021 年 3 月 9 日<br/>|
 |半年<br/>|1902<br/>|11328.20564<br/>|2020 年 4 月 14 日<br/>|2020 年 9 月 8 日<br/>|
@@ -48,7 +48,7 @@ ms.locfileid: "43907924"
 
 |**年**|**發行日期**|**每月通道**|**半年通道 (已設定目標)**|**半年通道**|
 |:-----|:-----|:-----|:-----|:-----|
-|
+|2020|4 月 29 日|[版本 2004 (組建 12730.20236)](monthly-channel-2020.md#version-2004-april-29)| | |
 |2020|4 月 15 日|[版本 2003 (組建 12624.20466)](monthly-channel-2020.md#version-2003-april-15)| | |
 |2020|4 月 14 日|[版本 2003 (組建 12624.20442)](monthly-channel-2020.md#version-2003-april-14)|[版本 2002 (組建 12527.20442)](semi-annual-channel-targeted-2020.md#version-2002-april-14)|[版本 1908 (組建 11929.20708)](semi-annual-channel-2020.md#version-1908-april-14)<br/>[版本 1902 (組建 11328.20564)](semi-annual-channel-2020.md#version-1902-april-14)|
 |2020|3 月 31 日|[版本 2003 (組建 12624.20382)](monthly-channel-2020.md#version-2003-march-31)| | |
