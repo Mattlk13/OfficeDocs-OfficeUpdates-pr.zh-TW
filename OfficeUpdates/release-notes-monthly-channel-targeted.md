@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f0ae7d9c965c4ffea21e31859760ebea550ac3e7
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 73bb6f13c3f196a7d99fafc951c831eafea33e41
+ms.sourcegitcommit: 6e3ff925f85e32db7dc701fc7a14aa8339365eee
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907887"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43937406"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -29,6 +29,32 @@ ms.locfileid: "43907887"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2004-april-29"></a>版本 2004：4 月 29 日
+*版本 2004 (組建 12730.20236)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **協助保護群組中的資料：** 建立群組時所選擇的「敏感度」標籤會套用到群組電子郵件、文件及小組網站。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決導致 Outlook 在某些 Windows 組建上當機的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-april-25"></a>版本 2004：4 月 25 日
 *版本 2004 (組建 12730.20206)*
