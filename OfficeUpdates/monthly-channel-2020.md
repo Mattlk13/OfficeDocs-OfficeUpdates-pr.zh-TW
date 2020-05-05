@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 5580335c0736379ad74b9487954d21d98824c2be
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907918"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997466"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -28,6 +28,98 @@ ms.locfileid: "43907918"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2004-april-29"></a>版本 2004：4 月 29 日
+*版本 2004 (組建 12730.20236)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **在查詢設計工具、SQL 檢視和關聯視窗中工作時更具生產力：** 在資料表上按一下滑鼠右鍵即可開啟、設計、調整大小及隱藏它。 在 SQL 檢視中搜尋及取代文字。 在 [關聯圖] 視窗中選取多個資料表。
+
+### <a name="excel"></a>Excel
+
+- **Facebook 連接器支援即將結束：** 於 2020 年 4 月起，Excel 就不再支援使用 Facebook 連接器的外部資料連線。
+
+- **更好的構想：** 現在 Excel 構想可讓您輸入有關您資料的問題，無需先花時間設定其格式。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **讓活頁簿更生動的新影像：** 您可以在活頁簿中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="outlook"></a>Outlook
+
+- **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。
+
+- **讓郵件更生動的新影像：** 您可以在電子郵件中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+- **週期性會議的位置建議支援：** 搜尋會議室，並排定週期性會議。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在投影片放映期間更新投影片：** 在簡報期間，更新由其他作者變更的投影片。
+
+- **讓投影片更生動的新影像：** 您可以在投影片中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+### <a name="teams"></a>Teams
+
+- **增強 Teams 行事曆功能：** 以滑鼠右鍵按一下行事曆中的項目，以展開 RSVP 選項，開始與會議參與者交談，或在會議開始時快速加入會議。 我們也改善了活動排程表單。
+
+- **抓到你了！：** 建立標籤並將人員指派至標籤，您就可以 @mention 群組、角色、部門等。小組擁有者可以自行嘗試。 移至某個小組，選取 [其他選項]、[管理標籤]。
+
+### <a name="word"></a>Word
+
+- **讓您的工具方便使用：** 在您的繪圖工具箱中，尋找智慧筆，以便在文字中加入筆跡筆勢。 [深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+
+- **讓文件更生動的新影像：** 您可以在文件中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+
+- 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
+
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+
+### <a name="outlook"></a>Outlook
+
+- 已解決導致資料夾窗格寬度意外變更的問題。
+
+
+- 已解決導致 Outlook 在某些 Windows 組建上當機的問題。
+
+
+- 已解決在 Windows 更新後，開啟儲存在本機的 msg 或 .oft 檔案會導致 Outlook 當機的問題。
+
+
+- 已解決導致 Outlook 在某些 Windows 組建上當機的問題。
+
+
+- 已解決導致使用者在退出 Outlook 時遇到掛斷的問題。
+
+
+### <a name="project"></a>Project
+
+- 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。
+
+
+- 已修正如果您使用的是連線至 Project Web App 的 Project，且小數分隔符號是逗號，當您嘗試將延遲新增至相依性時，TaskDependencies Add 方法會失敗的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 已解決同時防止限制存取和保護設有密碼之檔案的錯誤。
 
 
 
