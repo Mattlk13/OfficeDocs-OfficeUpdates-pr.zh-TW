@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 38f26f551be55a7817a993108f598c6a6a9ecdb5
-ms.sourcegitcommit: fdc89a96b2ab35af2f08654ef28117dec7657443
+ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
+ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43804904"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43997476"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,6 +25,59 @@ ms.locfileid: "43804904"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-may-01"></a>版本 2005：5 月 1 日
+*版本 2005 (組建 12827.20030)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **電子郵件中的改良連結：** 當您包含檔案的連結時，檔案名會取代 URL。 您可以變更權限，讓所有收件者都能存取。 [深入了解](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正圖表資料表無法正確呈現日期座標軸中的值的問題。
+- 修正使用 [頁面配置] 或 [分頁預覽] 之後無法停用分頁符號的問題。
+- 修正隱藏和取消隱藏具有系列資料的欄之後，圖表線條樣式可能會遺失的問題。
+- 在已篩選清單中插入欄的時間會比預期更長。
+- 當您使用舊版的「共用活頁簿」模式，嘗試為活頁簿的新工作表列出變更時，就會發生當機。
+- 修正啟用 [負值以補色顯示] 選項後，可能無法儲存樞紐分析表中的自訂格式設定的問題。
+- 修正如果選取 [負值以補色顯示] 選項，可能無法儲存樞紐分析表中單一資料點的自訂格式設定的問題。
+- 這項變更修正在 CSV 檔案中上傳 '@' 字元時，會導致將 '@' 字元之後的字串轉換成公式的問題。
+- 修正無法正確捨入 SEQUENCE 函數中十進位值的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 解決導致使用者在 Outlook 桌面用戶端中按一下非常長的安全連結時，由於截斷而無法載入的問題。
+- 修正當與伺服器同步處理時，名稱中包含 DBCS (雙位元組字元集) 字元的 Outlook 資料夾會間斷消失的問題。 為此，必須為 Outlook 設定 IMAP 帳戶，並在地區設定設定為日文的系統上執行。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正問題：如果使用者建立了註解，但未張貼就關閉 [註解] 窗格，然後開啟新視窗、瀏覽多張投影片並關閉視窗，最後再開啟原始簡報中的 [註解] 窗格，將導致無法使用草稿註解。
+
+### <a name="project"></a>Project
+
+- 修正問題：如果 Project 連線至 Project Web App，且小數分隔符號是逗號，當新增延遲時，TaskDependencies Add 方法會失敗的問題。
+
+### <a name="word"></a>Word
+
+- 修正在 [共同作業] 模式時，在文件中插入註解並不總是成功的問題。
+- 此變更修正在按一下 @ 提及時，[人員卡片] 會閃動的問題。
+- 修正問題：關閉具有草稿註解的文件時，會在不儲存草稿註解的情況下，提示使用者是否要關閉文件。 取消提示會關閉文件，而不是保持文件開啟。
+- 修正翻譯已張貼註解將導致「插入已翻譯的文字失敗」錯誤的問題。
+- 在 Web 檢視/沉浸式閱讀器中，如果已在檢視中，按一下提示會捲動到最上方。 已修正這個問題。
+- 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以.docx 副檔名和檔案名稱 WRO0004.docx 儲存，進而導致文件無法使用。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 

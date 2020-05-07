@@ -9,20 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 5c9535a000544238e1c68eee98817eb52d12449c
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: e4ab90ee506a9b9899a65e61de380323d347f961
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714688"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044596"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年半年通道 (已設定目標) 版本的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年通道 (已設定目標) 更新。
 
-> [!NOTE]
->
-> - 我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至半年通道 (已設定目標)。 如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
 ## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日

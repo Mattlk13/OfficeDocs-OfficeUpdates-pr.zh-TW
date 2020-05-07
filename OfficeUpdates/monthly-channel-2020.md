@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: f69d29bcfdd070f742fe0c4e8c518ee7b8100c69
+ms.sourcegitcommit: 47db4b680df64397a57f388e5d6f3c8b1bf374ee
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997466"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021955"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
@@ -42,6 +42,9 @@ ms.locfileid: "43997466"
 ### <a name="access"></a>Access
 
 - **在查詢設計工具、SQL 檢視和關聯視窗中工作時更具生產力：** 在資料表上按一下滑鼠右鍵即可開啟、設計、調整大小及隱藏它。 在 SQL 檢視中搜尋及取代文字。 在 [關聯圖] 視窗中選取多個資料表。
+
+- **按幾下就能新增資料表：** 使用 [新增資料表] 工作窗格，當您工作時，該窗格會保持開啟狀態，以便將資料表新增至關聯和查詢。 [深入了解](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
 
 ### <a name="excel"></a>Excel
 
