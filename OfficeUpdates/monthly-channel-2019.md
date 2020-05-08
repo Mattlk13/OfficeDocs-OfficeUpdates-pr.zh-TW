@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: df05a1a57bf165e62717f18b7704bb0e44b459dd
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614948"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163535"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -27,7 +27,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911 (組建 12228.20364)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -119,7 +119,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 1 2日
 *版本 1910 (組建 12130.20344)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -222,7 +222,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
 *版本 1909 (組建 12026.20320)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -334,7 +334,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908 (組建 11929.20300)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -371,7 +371,7 @@ ms.locfileid: "42614948"
 
 - **勾勒草圖：** 為活頁簿中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 - **專注在待辦事項上：** 選取 [解決] 來摺疊註解，使得開啟中的項目能夠突顯。
 
@@ -383,24 +383,24 @@ ms.locfileid: "42614948"
 
 - **取得位置建議：** 排程約會和會議時，請在 [位置] 中開始輸入，Outlook 會建議會議室、地址，以及其他最近使用的位置。 [深入了解](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
 - **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
 - **勾勒草圖：** 為文件中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)
 
-- **搜尋並享受：** 我們新增了 [搜尋以插入圖示]，讓您輕鬆找出您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907 (組建 11901.20218)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 
@@ -454,7 +454,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906 (組建 11727.20244)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
@@ -520,7 +520,7 @@ ms.locfileid: "42614948"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905 (組建 11629.20246)*
-<br/>安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+<br/>安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 
@@ -610,7 +610,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1904-may-14"></a>版本 1904：5 月 14 日 
 *版本 1904 (組建 11601.20204)*
 
-- 安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- 安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1904-may-8"></a>版本 1904：5 月 8 日
 *版本 1904 (組建 11601.20178)*
@@ -675,7 +675,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1903-april-9"></a>版本 1903：4 月 9 日
 *版本 1903 (組建 11425.20204)* 
 
-- 安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/office365-proplus-security-updates)
+- 安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 - 已修正 Lync (商務用 Skype) 中的問題，在其中，當任何線上會議具有 7 位以上參與者時，會議視窗可能會消失。
@@ -765,7 +765,7 @@ ms.locfileid: "42614948"
 ## <a name="version-1901-february-12"></a>版本 1901：2 月 12 日
 *版本 1901 (組建 11231.20174)* 
 
-安全性更新列於[此處](office365-proplus-security-updates.md)
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-1901-january-31"></a>版本 1901：1 月 31 日
 *版本 1901 (組建 11231.20130)* 

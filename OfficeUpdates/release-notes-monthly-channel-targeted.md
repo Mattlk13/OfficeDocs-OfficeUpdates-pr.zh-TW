@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ad71fff0a44c60626a4a6c1e1c834830ff1d0b88
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 7d3de2e4fe3d7d359542f6606ad08af1b5280fa0
+ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029933"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "44163615"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -289,7 +289,7 @@ ms.locfileid: "44029933"
 ## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
 *版本 2003 (組建 12624.20466)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -464,7 +464,7 @@ ms.locfileid: "44029933"
 ## <a name="version-2003-march-10"></a>版本 2003：3 月 10 日
 *版本 2003 (組建 12624.20176)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 ### <a name="feature-updates"></a>功能更新
@@ -684,7 +684,7 @@ ms.locfileid: "44029933"
 ## <a name="version-2002-february-11"></a>版本 2002：2 月 11 日
 *版本 2002 (組建 12527.20092)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -892,7 +892,7 @@ ms.locfileid: "44029933"
 ## <a name="version-2001-january-14"></a>版本 2001：1 月 14 日
 *版本 2001 (組建 12430.20050)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
 *版本 1912 (組建 12325.20288)*
@@ -1099,7 +1099,7 @@ ms.locfileid: "44029933"
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911 (組建 12228.20364)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -1162,7 +1162,7 @@ ms.locfileid: "44029933"
 ## <a name="version-1911-november-12"></a>版本 1911：11 月 12 日
 *版本 1911 (組建 12228.20120)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 

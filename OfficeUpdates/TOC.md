@@ -1,8 +1,8 @@
-# [版本資訊](release-notes-office365-proplus.md)
+# [版本資訊](release-notes-microsoft365-apps.md)
 # Microsoft 365 Apps
-## [安全性更新](office365-proplus-security-updates.md)
-## [更新歷程記錄 (根據日期)](update-history-office365-proplus-by-date.md)
-## [更新大小](download-sizes-office365-proplus-updates.md)
+## [安全性更新](microsoft365-apps-security-updates.md)
+## [更新歷程記錄 (根據日期)](update-history-microsoft365-apps-by-date.md)
+## [更新大小](download-sizes-microsoft365-apps-updates.md)
 
 ## 每月通道
 ### [2020](monthly-channel-2020.md)
