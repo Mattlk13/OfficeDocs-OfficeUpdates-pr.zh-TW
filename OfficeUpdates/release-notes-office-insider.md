@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997476"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170623"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -25,6 +25,43 @@ ms.locfileid: "43997476"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-may-08"></a>版本 2006：5 月 8 日
+*版本 2006 (組建 12829.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+### <a name="outlook"></a>Outlook
+
+- **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。 [深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="office-suite"></a>Office 套件
+
+- 我們已經研究並解決了在作業系統關閉後，透過 InTune 進行的 Office 365 專業增強版部署會暫停的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -81,14 +118,9 @@ ms.locfileid: "43997476"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
 ## <a name="version-2005-april-24"></a>版本 2005：4 月 24 日
 版本 2005 (組建 12816.20006)**
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -109,6 +141,7 @@ ms.locfileid: "43997476"
 - 此變更修正了下列問題：如果已啟用 [顯示功能變數代碼，而非其值] 選項，則含有超連結的文字可能不會顯示。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 
 ## <a name="version-2005-april-17"></a>版本 2005：4 月 17 日
 *版本 2005 (組建 12810.20002)*
@@ -139,9 +172,8 @@ ms.locfileid: "43997476"
 - 修正變更連結至 SharePoint 工作清單之專案的面板狀態欄位時，Project 可能當機的問題。
 - 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
 
-
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 
 ## <a name="version-2004-april-10"></a>版本 2004：4 月 10 日
 *版本 2004 (組建 12730.20024)*
