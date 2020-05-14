@@ -9,16 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 645e13aee4bbcf86541a0618c07be4811414c414
-ms.sourcegitcommit: edcf5678c775b3944a93e8d596d217a2c3e28367
+ms.openlocfilehash: 2764d01ea6acb7a8ee3bcedfe8a32c9ed3bf6934
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44029873"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211138"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>2020 年每月通道版本的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的每月通道更新。
+
+> [!IMPORTANT]
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
  > [!NOTE]
 >
@@ -28,6 +31,23 @@ ms.locfileid: "44029873"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2004-may-12"></a>版本 2004：5 月 12 日
+*版本 2004 (組建 12730.20270)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- <div>解決在顯示快顯通知時，使用者遇到當機的問題。&nbsp;</div>
 
 
 
@@ -149,7 +169,7 @@ ms.locfileid: "44029873"
 ## <a name="version-2003-april-14"></a>版本 2003：4 月 14 日
 *版本 2003 (組建 12624.20442)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -265,7 +285,7 @@ ms.locfileid: "44029873"
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002 (組建 12527.20278)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -351,7 +371,7 @@ ms.locfileid: "44029873"
 ## <a name="version-2001-february-11"></a>版本 2001：2 月 11 日
 *版本 2001 (組建 12430.20264)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -462,7 +482,7 @@ ms.locfileid: "44029873"
 ## <a name="version-1912-january-14"></a>版本 1912：1 月 14 日
 *版本 1912 (組建 12325.20298)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
 *版本 1912 (組建 12325.20288)*

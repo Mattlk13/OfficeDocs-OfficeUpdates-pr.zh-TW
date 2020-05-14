@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 77ecb79a3fbc6af85b16cd48aa375b698324b451
-ms.sourcegitcommit: d062befb07b0fae74b30bce2a10cdec248c252ad
+ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163515"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211713"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -26,13 +26,55 @@ ms.locfileid: "44163515"
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+
 
 > [!NOTE]
 > - 表格中所列的大約下載大小僅適用於 Microsoft 365 Apps 的 x64 英文 (美國) 版本。
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="may-12-2020"></a>2020 年 5 月 12 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTMay 12, 2020)
+
+### <a name="monthly-channel"></a>每月通道
+
+最新的版本是版本 2004 (組建 12730.20270)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2004 (組建 12730.20250) <br/> |2020 年 5 月 4 日 <br/> |188<br/> |
+|版本 2004 (組建 12730.20236) <br/> |2020 年 4 月 29 日 <br/> |172<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業頻道
+
+最新的版本是版本 2003 (組建 12624.20588)。
+
+### <a name="semi-annual-targeted-channel"></a>半年通道 (已設定目標)
+
+最新的版本是版本 2002 (組建 12527.20612)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2002 (組建 12527.20442) <br/> |2020 年 4 月 14 日 <br/> |67<br/> |
+|版本 2002 (組建 12527.20278) <br/> |2020 年 3 月 10 日 <br/> |79<br/> |
+
+
+### <a name="semi-annual-channel"></a>半年通道
+
+最新的版本是版本 1908 (組建 11929.20776)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 1908 (組建 11929.20708) <br/> |2020 年 4 月 14 日 <br/> |66<br/> |
+|版本 1908 (組建 11929.20648) <br/> |2020 年 3 月 10 日 <br/> |77<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDMay 12, 2020)
 
 
 ## <a name="may-4-2020"></a>2020 年 5 月 4 日

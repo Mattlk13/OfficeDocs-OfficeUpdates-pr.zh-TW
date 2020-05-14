@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 App 安全性更新的版本資訊
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138529"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211703"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps 安全性更新的版本資訊
 
@@ -24,11 +24,32 @@ ms.locfileid: "44138529"
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。 如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+
 
  
 
-[//]: # (無法移除以上這行，它用來做為間距)  
+[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="may-12-2020"></a>2020 年 5 月 12 日
+每月通道：版本 2004 (組建 12730.20270)  
+每月企業通道：版本 2003 (組建 12624.20588)  
+半年通道 (已設定目標)：版本 2002 (組建 12527.20612)  
+半年通道：版本 1908 (組建 11929.20776)  
+半年通道：版本 1902 (組建 11328.20586)  
+Windows 7 上的 Microsoft 365 應用程式：版本 2002 (組建 12527.20612)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="april-14-2020"></a>2020 年 4 月 14 日
 每月通道：版本 2003 (組建 12624.20442)  

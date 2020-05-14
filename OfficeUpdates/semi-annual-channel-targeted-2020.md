@@ -9,23 +9,117 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: e4ab90ee506a9b9899a65e61de380323d347f961
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 8cf9ae0e43417941ec588ff3c45835d7d613488a
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044596"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211228"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>2020 年半年通道 (已設定目標) 版本的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年通道 (已設定目標) 更新。
 
+> [!IMPORTANT]
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2002-may-12"></a>版本 2002：5 月 12 日
+*版本 2002 (組建 12527.20612)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="excel"></a>Excel
+
+- 開啟含有許多其他活頁簿 (尤其是含有隱藏視窗) 參照的活頁簿時，速度比預期慢。
+
+- 在某些情況下，開啟 CSV 檔案所花費的時間超過預期。
+
+- 在某些情況下，當您切換不同縮放比例的活頁簿時，Excel 可能會當機。
+
+- 已修正 VBA 將值寫入範圍時，速度比預期慢的問題。
+
+- 從有色彩篩選的欄複製的資料有時候無法正確貼上。
+
+- 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
+
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+
+- 已解決在儲存並重新開啟檔案時，圖表軸上的 "Value Crosses At" 屬性發生意外變更的問題。
+
+- 使用 Range.Value 和 Range.Value2 (VBA) 會導致公式以動態陣列的形式輸入。
+
+### <a name="onenote"></a>OneNote
+
+- 對通知進行本地化，讓使用者可以了解更多 OneNote 使用者體驗中正在採取的臨時措施的資訊，以改善同步處理和服務穩定性。
+
+- 顯示通知，讓使用者可以了解更多 OneNote 使用者體驗中正在採取的臨時措施的資訊，以改善同步處理和服務穩定性。
+
+- 在 OneNote 2016 中暫時降低版本歷程記錄頁面的數目和同步處理頻率，以改善同步處理與服務穩定性。
+
+- 透過暫時停用 OneNote 2016 中的資源回收筒，來改善同步處理與服務的穩定性。 當使用者嘗試刪除通常會傳送到 [資源回收筒] 的資料時，系統會詢問使用者是否希望保留或永久刪除資料。
+
+- 透過暫時調整 OneNote 2016 中的同步處理頻率，來改善同步處理與服務的穩定性。
+
+- 暫時延遲下載線上筆記本中內嵌的檔案和影像，直到使用者瀏覽至 OneNote 2016 中的頁面，以改善同步處理與服務的穩定性。
+
+- 透過暫時停用 OneNote 2016 中的應用程式內視訊錄製，來改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
+
+- 透過暫時將 OneNote 2016 中新嵌入附件的最大允許大小減少為 50MB，來改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
+
+### <a name="outlook"></a>Outlook
+
+- 已解決導致資料夾窗格寬度意外變更的問題。
+
+- 解決以下問題：Windows 更新之後，使用者開啟 .msg 和 .oft 檔案時遇到當機。
+
+- 解決會導致使用者在轉寄大型 HTML 郵件時，看到郵件內文截斷的問題。
+
+- 此更新修正在查看或撰寫郵件時，Microsoft Outlook 未顯示目前的敏感度標籤的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正以下問題：當開啟的檔案複本具有增強式註解時，為使用者轉送正確的訊息。
+
+### <a name="word"></a>Word
+
+- 解決了 Access 和 Publisher 因所安裝的語言而無法正常啟動的問題。
+
+- 修正受保護無法編輯之文件的比較功能問題。
+
+- 我們已修正將兩份文件合併成一份文件時的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 此修正解決了當檔案已在用戶端中進行快取時，Project 應用程式不應封鎖網路。
+
+- 我們已解決內部作業在失敗時擲出例外狀況，而不是記錄和繼續進行的問題。 受影響的使用者將不會再無法收到更新。
+
+- 這項變更可確保草繪大綱可在功能區中正常運作。
+
+- 已修正使用一些特定 proxy 設定時，從內部部署位置開啟檔案時發生的問題。
+
+- 此更新修正了 Microsoft Office 中 Visual Basic for Applications 中的問題，其中特定 VBA 專案參考了程式庫名稱或程式庫路徑中有 DBCS 字元的程式碼程式庫，因而在載入時被 Office 應用程式視為損毀。
+
+- 此更新解決了 Microsoft Office 中的一個問題：可能無法在執行時期正確找到 Visual Basic for Applications 專案，這些專案的參照預期透搜尋 PATH 環境變數指定的位置來找到，進而導致VBA 執行時期錯誤。
+
+- 此更新解決了 Microsoft Word 中的一個問題：如果標籤原則套用了頁首或頁尾或浮水印，那麼在套用敏感度標籤時，插入長度超過 255 個字元的文字後續將無法透過變更或刪除標籤來識別和刪除。
+
+- 修正問題，可在 Office 遞交工作階段期間消除當機，並改善使用者體驗中的可靠性。  
+
+- 這個錯誤會更新增強的設定服務 (ECS) url 端點。 呼叫這個較新的端點，可從 ECS 進行提取獲得更高的成功率。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日
 *版本 2002 (組建 12527.20442)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="feature-updates"></a>功能更新
@@ -67,7 +161,6 @@ ms.locfileid: "44044596"
 
 - 解決了會讓 [附件工具] 中的 [儲存至雲端] 按鈕不見的問題。
 
-
 ### <a name="powerpoint"></a>PowerPoint
 
 - 已改善複製貼上的案例：將 PowerPoint 投影片中的圖形複製並貼到迴圈中的其他投影片，可能會出現例外狀況而失敗。
@@ -94,7 +187,7 @@ ms.locfileid: "44044596"
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002 (組建 12527.20278)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -412,7 +505,7 @@ ms.locfileid: "44044596"
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908 (組建 11929.20606)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -480,7 +573,7 @@ ms.locfileid: "44044596"
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908 (組建 11929.20562)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)

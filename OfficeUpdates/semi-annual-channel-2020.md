@@ -9,24 +9,87 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
-ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
+ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044586"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210858"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年半年通道版本的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年通道更新。
+
+> [!IMPORTANT]
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 >
 >- 當使用半年通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
 
 
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-may-12"></a>版本 1908：5 月 12 日
+*版本 1908 (組建 11929.20776)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="excel"></a>Excel
+
+- 當您將有色彩篩選的資料複製到不同寬度的欄時，不會貼上值。
+
+- 已修正使用者在使用 VBA 巨集清除範圍內容時可能遇到的效能問題。
+
+- 已修正 VBA 將值寫入範圍時，速度比預期慢的問題。
+
+- 已解決在儲存並重新開啟檔案時，圖表軸上的 "Value Crosses At" 屬性發生意外變更的問題。
+
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+
+### <a name="onenote"></a>OneNote
+
+- 對通知進行本地化，讓使用者可以了解更多 OneNote 使用者體驗中正在採取的臨時措施的資訊，以改善同步處理和服務穩定性。
+
+### <a name="outlook"></a>Outlook
+
+- 解決以下問題：使用者在套用最新的 Windows 更新之後，開啟 .msg 和 .oft 檔案發生當機。
+
+- 已解決導致使用者在選取特定搜尋結果時遇到當機的問題。
+
+- 已解決導致 [附件工具] 中的 [儲存至雲端] 按鈕遺失的問題。
+
+- 根據預設，保留原則標籤會將保留時間顯示於括弧中。 此修正提供登錄機碼，讓系統管理員能夠指定只應顯示的原則名稱。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 預設值。  1 = 我們只會顯示保留原則文字的原則名稱。
+
+### <a name="word"></a>Word
+
+- 我們已修正將兩份文件合併成一份文件時的問題。
+
+- 修正受保護無法編輯之文件的比較功能問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1902-may-12"></a>版本 1902：5 月 12 日
+*版本 1902 (組建 11328.20586)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決以下問題：使用者在套用最新的 Windows 更新之後，開啟 .msg 和 .oft 檔案發生當機。
+
+- 根據預設，保留原則標籤會將保留時間顯示於括弧中。 此修正提供登錄機碼，讓系統管理員能夠指定只應顯示的原則名稱。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 預設值。  1 = 我們只會顯示保留原則文字的原則名稱。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -50,7 +113,7 @@ ms.locfileid: "44044586"
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 (組建 11929.20708)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -84,14 +147,14 @@ ms.locfileid: "44044586"
 ## <a name="version-1902-april-14"></a>版本 1902：4 月 14 日
 *版本 1902 (組建 11328.20564)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908 (組建 11929.20648)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -125,14 +188,14 @@ ms.locfileid: "44044586"
 ## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
 *版本 1902 (組建 11328.20554)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908 (組建 11929.20606)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -200,7 +263,7 @@ ms.locfileid: "44044586"
 ## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
 *版本 1902 (組建 11328.20526)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -222,14 +285,14 @@ ms.locfileid: "44044586"
 ## <a name="version-1808-february-11"></a>版本 1808：2 月 11 日
 *版本 1808 (組建 10730.20438)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908 (組建 11929.20562)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -591,7 +654,7 @@ ms.locfileid: "44044586"
 ## <a name="version-1902-january-14"></a>版本 1902：1 月 14 日
 *版本 1902 (組建 11328.20512)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -619,7 +682,7 @@ ms.locfileid: "44044586"
 ## <a name="version-1808-january-14"></a>版本 1808：1 月 14 日
 *版本 1808 (組建 10730.20432)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 

@@ -9,16 +9,19 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
-ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
+ms.openlocfilehash: a6f6e38e29357f0fe8ff009822a597e2627d779d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44170623"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210938"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
 本文包含 Windows 電腦版 Word、Excel、PowerPoint、Outlook、Access 和 Project 測試人員組建的版本資訊。 我們每週都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們在一段時間內會經常推出新功能 (某些時候還有修正) 給測試人員。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
+
+> [!IMPORTANT]
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯。

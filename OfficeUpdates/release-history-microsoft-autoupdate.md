@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714673"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211108"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,26 @@ ms.locfileid: "43714673"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2020-release"></a>2020 年 5 月發行
+
+**發行日期：** 2020 年 5 月 12 日
+
+*Microsoft Auto Update 4.23*
+
+**錯誤修正及增強功能：**
+- 針對使用 MacOS 10.13 或更新版本的裝置與 Office 2016 版，使用者將會看到 Office 2016 即將終止支援的通知。 
+- 如果 Word、Excel 和 Powerpoint 應用程式沒有開啟視窗，且裝置處於 Microsoft AutoUpdate 的自動更新模式中，使用者不需要關閉這些應用程式就可以套用更新。 3. Microsoft AutoUpdate 現在將使用 CDN 上的最新版本自動重新整理 [更新儀表板]，使用者不需要重新整理或啟動新的 AutoUpdate 工作階段。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.23 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>2020 年 4 月版本
 
