@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 6619411170491543c4853e6db56fa845a7adc6e3
+ms.sourcegitcommit: fb97680a81c7d96b0f0f539dc3e3c8c28ad654e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210858"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44222076"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>2020 年半年通道版本的版本資訊
 
@@ -65,6 +65,7 @@ ms.locfileid: "44210858"
 - 已解決導致 [附件工具] 中的 [儲存至雲端] 按鈕遺失的問題。
 
 - 根據預設，保留原則標籤會將保留時間顯示於括弧中。 此修正提供登錄機碼，讓系統管理員能夠指定只應顯示的原則名稱。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。 0 = 預設值。  1 = 我們只會顯示保留原則文字的原則名稱。
+
 
 ### <a name="word"></a>Word
 
