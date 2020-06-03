@@ -1,6 +1,6 @@
 ---
 title: Office 每月通道 (已設定目標) 的更新歷程記錄
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: beca8a71f03a301e83d696ecb5468b2e36748988
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 3d763d2c6d7c5028c0082dd2ef8f845eda487f6b
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211258"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429008"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Windows Office 每月 (已設定目標) 通道的更新歷程記錄
 
@@ -35,6 +35,15 @@ ms.locfileid: "44211258"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2020年5月29日**<br/>
+版本2005（組建12827.20268）<br/>
+
+**2020年5月21日**<br/>
+版本2005（組建12827.20210）<br/>
+
+**2020年5月14日**<br/>
+版本2005（組建12827.20160）<br/>
 
 **2020 年 5 月 11 日**<br/>
 版本 2004 (組建 12730.20270)<br/>

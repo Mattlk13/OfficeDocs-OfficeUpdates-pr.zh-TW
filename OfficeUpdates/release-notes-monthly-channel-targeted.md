@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e6eedc0e585da38dd65f367514255dca6916b22d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
-ms.translationtype: HT
+ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
+ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211008"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44428998"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -32,6 +32,223 @@ ms.locfileid: "44211008"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2005-may-29"></a>版本2005：5月29日
+*版本2005（組建12827.20268）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+
+### <a name="excel"></a>Excel
+
+- **工作表視圖：** 在 Excel desktop 中與其他人共同作業時排序/篩選。
+
+### <a name="outlook"></a>Outlook
+
+- **新增至 Outlook toast 通知的其他按鈕：** 快速動作按鈕現在會出現在 Windows 10 上執行 Outlook 的 Outlook toast 通知中。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決的問題導致 Windows 10 伺服器版本的使用者看到警告防毒程式狀態：無效。 此版本的 Windows 支援防病毒偵測，但即使已正確安裝防毒軟體，仍未找到防毒軟體。
+
+### <a name="office-suite"></a>Office 套件
+
+- Office 主應用程式在 windows 中已崩潰，當登錄機碼 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設定為0時，便會啟用增益集。 這種變更可修正此問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-may-21"></a>版本2005：5月21日
+*版本2005（組建12827.20210）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Excel 資料類型從 POWER BI 取得組織資料：** 您可以使用 Excel 資料類型插入組織中的資料。 轉換活頁簿中的儲存格並取得其他資訊，並隨時重新整理資料！
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正此問題：使用 Ctrl + Shift + 箭號鍵，在 Excel 視窗透過團隊共用時，Excel 可能會停止回應。
+
+
+- 在某些情況下，按一下相同活頁簿中某個位置的超連結，就會隱藏該活頁簿。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決 [回復/轉寄] 標籤的 clp 審核事件問題。
+
+
+- 解決了使用者從系統管理員通知提交意見反應時遇到損毀的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-may-14"></a>版本2005：5月14日
+*版本2005（組建12827.20160）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自動套用或建議敏感度標籤：** Office 可以建議或根據偵測到的敏感內容自動套用敏感度標籤。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **不需要簡報導覽裝置：您的 earbuds 包括：** 使用表面 Earbuds 來控制您的 PowerPoint 簡報。 重要：您必須在適用于 Windows 10 的「表面音訊」應用程式中搭配您的 Surface Earbuds，以便使用筆勢控制簡報。 在 Windows 10 上開始使用表面音訊應用程式的指示可于這裡取得。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **自動套用或建議敏感度標籤：** Office 可以建議或根據偵測到的敏感內容自動套用敏感度標籤。
+
+### <a name="word"></a>Word
+
+- **自動套用或建議敏感度標籤：** Office 可以建議或根據偵測到的敏感內容自動套用敏感度標籤。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+
+### <a name="excel"></a>Excel
+
+- 已增加搭配圖表使用的 [自訂誤差線] 對話方塊上儲存格參照 [編輯] 控制項的大小。
+
+- 修正圖表資料表無法正確呈現日期座標軸中的值的問題。
+
+- 修正使用 [頁面配置] 或 [分頁預覽] 之後無法停用分頁符號的問題。
+
+- 修正隱藏和取消隱藏具有系列資料的欄之後，圖表線條樣式可能會遺失的問題。
+
+- 已修正此問題：在篩選的清單中插入欄所需的時間會超出預期。
+
+- 修正列印時表單控制項的核取方塊縮放問題。
+
+- 已修正此問題：如果檔路徑過長，外部連結會在重新開啟檔案後停止運作。
+
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+
+- 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
+
+- 此變更會修正設定格式化的條件 (CF) 資訊無法正確儲存到 XLSB 檔案的問題。
+
+- 這項變更修正了即使 LINEST 函式傳回正確的值，圖表趨勢線的 R 平方值 (在強制 y 截距的情況下) 仍然不正確的問題。
+
+- 此變更修正了自訂圖表趨勢線格式不一定會儲存的問題。
+
+- 當您使用舊版的「共用活頁簿」模式嘗試為活頁簿的新工作表上列出變更時，就會發生損毀。
+
+- 修正啟用 [負值以補色顯示] 選項後，可能無法儲存樞紐分析表中的自訂格式設定的問題。
+
+- 修正如果選取 [負值以補色顯示] 選項，可能無法儲存樞紐分析表中單一資料點的自訂格式設定的問題。
+
+- 這項變更修正在 CSV 檔案中上傳 '@' 字元時，會導致將 '@' 字元之後的字串轉換成公式的問題。
+
+- 修正無法正確捨入 SEQUENCE 函數中十進位值的問題。
+
+### <a name="onenote"></a>OneNote
+
+- 修正將分行符號儲存為垂直 Tab 的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 解決會導致使用者無法將個人連絡人群組新增為會議出席者的問題。
+
+- 已修正此問題：已停用 Office 功能區中群組行事曆的 [分類] 按鈕。
+
+- 已解決在 Windows 更新後，開啟儲存在本機的 msg 或 .oft 檔案會導致 Outlook 當機的問題。
+
+- 修正了企業客戶沒有執行或無法使用群組資料夾的問題，該問題會導致 Outlook 顯示「沒有回應」的訊息。
+
+- 解決的問題導致很長的 safelinks，使用者在 Outlook 桌面用戶端中按下時無法載入，因為截斷。
+
+- 修正當與伺服器同步處理時，名稱中包含 DBCS (雙位元組字元集) 字元的 Outlook 資料夾會間斷消失的問題。 為此，必須為 Outlook 設定 IMAP 帳戶，並在地區設定設定為日文的系統上執行。
+
+- 解決此問題導致針對使用者主要信箱以外的信箱所建立的刪除規則失效。
+
+- 解決當轉寄加密的郵件時，導致附件被刪除的問題。
+
+- 解決了導致會議超過2個月以上的問題，使其無法在排程助理中顯示會議主旨。
+
+- 解決會導致使用者在轉寄大型 HTML 郵件時，看到郵件內文截斷的問題。
+
+- 新增透過群組原則強制執行 S/MIME預設登入設定的功能。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正問題：如果使用者建立了註解，但未張貼就關閉 [註解] 窗格，然後開啟新視窗、瀏覽多張投影片並關閉視窗，最後再開啟原始簡報中的 [註解] 窗格，將導致無法使用草稿註解。
+
+- 修正了將滑鼠游標移到星號 (*) 符號，但不會顯示上一次更新文件的日期和使用者姓名。
+
+### <a name="project"></a>Project
+
+- 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。
+
+- 修正變更連結至 SharePoint 工作清單之專案的面板狀態欄位時，Project 可能當機的問題。
+
+- 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
+
+- 已修正此問題：如果 Project 已連接至 Project Web App，而且小數點分隔符號是逗號，則新增 Lag 時 TaskDependencies Add 方法會失敗。
+
+
+### <a name="word"></a>Word
+
+- 修正在 [共同作業] 模式時，在文件中插入註解並不總是成功的問題。
+
+- 此變更修正在按一下 @ 提及時，[人員卡片] 會閃動的問題。
+
+- 啟用「顯示書簽」選項卻不會顯示書簽。 已修正這個問題。
+
+- 修正問題：關閉具有草稿註解的文件時，會在不儲存草稿註解的情況下，提示使用者是否要關閉文件。 取消提示會關閉文件，而不是保持文件開啟。
+
+- 我們已修正複製及貼上標題的問題。
+
+- 已修正此問題：翻譯已張貼的批註會導致「插入已轉譯的文字失敗」錯誤。
+
+- 此變更可修正此問題：如果啟用此選項，則不會顯示超連結的文字：「顯示欄位代碼而非其值」。
+
+- 在 Web 檢視/沉浸式閱讀器中，如果已在檢視中，按一下提示會捲動到最上方。 已修正這個問題。
+
+- 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以.docx 副檔名和檔案名稱 WRO0004.docx 儲存，進而導致文件無法使用。
+
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者獲得只將其移至小組的原則時，他們仍然可以使用商務用 Skype Outlook 增益集來排程會議。  在此更新之後，用戶端將無法再排程商務用 Skype 會議。用戶端讀取指出使用者只有小組的原則，並進入僅限會議加入模式。  此外，商務用 Skype Outlook 增益集會在啟動時不會自行啟用（如果它看到商務用 Skype 用戶端為會議僅限加入模式）。
+
+- 此更新解決了 Microsoft Office 中的一個問題：可能無法在執行時期正確找到 Visual Basic for Applications 專案，這些專案的參照預期透搜尋 PATH 環境變數指定的位置來找到，進而導致VBA 執行時期錯誤。
+
+- 此更新修正了 Microsoft Office 中 Visual Basic for Applications 中的問題，其中特定 VBA 專案參考了程式庫名稱或程式庫路徑中有 DBCS 字元的程式碼程式庫，因而在載入時被 Office 應用程式視為損毀。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-may-11"></a>版本 2004：5 月 11 日
 *版本 2004 (組建 12730.20270)*
@@ -419,7 +636,7 @@ ms.locfileid: "44211008"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="project"></a>Project
 
 - <div><span style="display:inline !important;">修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。</span><br></div>
@@ -491,7 +708,7 @@ ms.locfileid: "44211008"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="excel"></a>Excel
 
 - 已解決當來源活頁簿關閉時，外部連結無法在填滿時更新的問題。
@@ -638,7 +855,7 @@ ms.locfileid: "44211008"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 
 ### <a name="project"></a>Project
 - <div>修正無法正確計算摘要工作日期的問題。</div>
@@ -695,7 +912,7 @@ ms.locfileid: "44211008"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="excel"></a>Excel
 
 - <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
@@ -752,7 +969,7 @@ ms.locfileid: "44211008"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="access"></a>Access
 
 - Access 範本應不再導致資料庫中的附件欄出現故障。 個體化範本後，您現在應該可以將附件欄新增至資料庫。
@@ -843,483 +1060,6 @@ ms.locfileid: "44211008"
 
 
 - 此變更解決使用 Intel Integrated GPU 的圖形配接卡報告問題。
-
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-2001-january-29"></a>版本 2001：1 月 29 日
-*版本 2001 (組建 12430.20184)*
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="word"></a>Word
-
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-
-### <a name="outlook"></a>Outlook
-
-- 解決重新命名簽名時，使用者遇到當機的問題。
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-2001-january-27"></a>版本 2001：1 月 27 日
-*版本 2001 (組建 12430.20170)*
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **即時讀取與回覆：** 直接從電子郵件回覆註解和提及，而不需開啟活頁簿。
-
-- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-- **查詢編輯器中的資料分析：** 取得欄位資料的總覽分析、識別錯誤和空白值，查看分佈長條圖等。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-### <a name="word"></a>Word
-
-- **準備、設定、繪圖：** 抓取 Surface 手寫筆之後, 您就可以開始繪製。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
-
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;"><span style="background-color:rgba(255, 255, 255, 1);box-sizing:border-box;display:inline;">此更新修正可能會導致 Microsoft Access 無法識別連結 SQL Server 資料表中的身分識別資料行的問題，這可能會導致將資料列報告為刪除不正確</span></span></div>
-
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-2001-january-17"></a>版本 2001：1 月 17 日
-*版本 2001 (組建 12430.20120)*
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="word"></a>Word
-
-- **只要在 Word 中繪製圖形即可輕鬆選取筆跡：** [繪圖] 索引標籤上的 [套索] 工具可協助您選取使用筆跡繪製的物件。 選取個別筆劃或整個字。 當您有大量筆跡但只想要使用其中一部分時，這功能尤其方便。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="excel"></a>Excel
-
-- Excel 用戶端會對使用組建 12430.20050 與執行 32 位元版本 Excel 的使用者在非英文版本 2001 的多個狀況 (例如列印、巨集執行、縮放...) 中導致問題。 
-
-## <a name="version-2001-january-14"></a>版本 2001：1 月 14 日
-*版本 2001 (組建 12430.20050)*
-
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
-
-## <a name="version-1912-january-08"></a>版本 1912：1 月 8 日
-*版本 1912 (組建 12325.20288)*
-
-## <a name="version-1912-january-07"></a>版本 1912：1 月 7 日
-*版本 1912 (組建 12325.20280)*
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="outlook"></a>Outlook
-
-- 解決在某些情況下，導致使用者看到電子郵件傳送到與顯示的 SMTP 位址不相符之地址的問題。</div>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-1912-january-06"></a>版本 1912：1 月 6 日
-*版本 1912 (組建 12325.20264)*
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="powerpoint"></a>PowerPoint
-
-- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-## <a name="version-1912-december-30"></a>版本 1912：12 月 30 日
-*版本 1912 (組建 12325.20240)*
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **將內容與 SVG 物件一起顯示！：** 在 Office 中轉換地圖、圖表和其他 SVG 向量等物件時，現在您可以保留物件中的文字。
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="outlook"></a>Outlook
-
-- <div>解決在擷取雲端設定時，導致使用者在 Outlook 中遇到當機的問題。</div>
-
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-1912-december-19"></a>版本 1912：12 月 19 日
-*版本 1912 (組建 12325.20214)*
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="word"></a>Word
-
-- **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。 [深入了解](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="outlook"></a>Outlook
-
-- 已解決當使用者透過鍵盤快速鍵與信箱資料夾互動時造成明顯延遲的問題。
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-1912-december-12"></a>版本 1912：12 月 12 日
-*版本 1912 (組建 12325.20172)*
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="excel"></a>Excel
-
-- 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
-
-- 編輯儲存格中的動態陣列公式可能會導致文字在儲存格邊界以外對齊。
-
-- 某些當地語系化版本的 [文字到欄] 功能可能會失敗。
-
-- 解決了開啟內嵌活頁簿時，功能區自訂無法載入的問題。
-
-- 使用者在存取隱藏的命名範圍時可能會發生錯誤。
-
-- 邊界下拉式功能表可能無法正確呈現。
-
-- 停用使用 4K 解析度的硬體圖形加速的情況下，可能會在捲動時發生延遲儲存格呈現的問題。
-
-- 這項變更透過利用軟體轉譯避免特定 Intel 圖形驅動程式發生問題。
-
-### <a name="onenote"></a>OneNote
-
-- OneNote 可能無法透過「會議記事」Outlook 增益集開啟。
-
-### <a name="outlook"></a>Outlook
-
-- 與跨資料夾內容有關的間歇性損毀。
-
-- 內嵌插入至 Outlook 電子郵件訊息中的影像有時候會改變大小。
-
-- 新增透過群組原則強制執行 S/MIME預設登入設定的功能。
-
-- 內嵌影像可能會比預期小。
-
-- 保留原則標籤可能會將保留時間顯示於括弧中。
-
-- 解決使用其他寄件者時導致無法顯示原則提示的問題。
-
-- 空格可能會顯示於日文語言套件的連絡人卡片中。
-
-- 解決了導致會議位置在清除之後，又會不預期地重新加回會議的問題。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- 當您將焦點移出文字後，游標可能會消失。
-
-- Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
-
-- 在某些情況下，使用觸控裝置進行捲動將無法運作。
-
-- 如果使用者雲端檔案的投影片上有兩個 (或多個) 不同的影片，影片影像可正確呈現，但是當使用者按一下每一個檔案來播放時，影片內容會是相同的。
-
-- 邊界下拉式功能表可能無法正確呈現。
-
-### <a name="project"></a>Project
-
-- 如果您在 [深色] 模式中，當您移至含有過度分配資源之工作上的工作檢查面板時，將無法讀取資料表。
-
-- 使用者可能會遇到授權錯誤。
-
-- 日期選擇器中的 [今日] 按鈕有時候可能會設定不正確的日期。
-
-- 當您使用 [比較專案] 功能時，Project 可能會當機。
-
-- 將沒有作業的任務進行進位設定為 1 天。
-
-### <a name="word"></a>Word
-
-- 選取註解提示之後，在窗格切換器中隱藏時，現在會顯示新式註解窗格。
-
-- 以滑鼠右鍵按一下有時不會選取整個字詞。
-
-- Office 應用程式之間的安全性連結可能無法啟動連結的應用程式。
-
-- 建置組塊召集人可能會顯示不正確通知：&quot;您已修改過樣式、建置組塊&quot;。
-
-- 某些主題可能會導致難以判斷所選取的註解。
-
-- 轉換成建議格式之後，游標在物件內可能仍處於使用中狀態。
-
-- 訊息中的影像在某些情況下可能會不正確的縮放。
-
-- 使用複製/貼上時，有時會重新載入註解窗格。
-
-- 註解有時不會以正確的順序貼上。
-
-- @提及註解卡中的使用者可能會顯示 JSON。
-
-- 邊界下拉式功能表可能無法正確呈現。
-
-- 調整分割螢幕邊界的大小可能會造成其他的分割螢幕。
-
-- 將含有自訂樣式的多層級清單範本套用至現有的文件時，可能在特定條件下不會保留該樣式。
-
-- 在特定條件下，完成合併列印之後儲存的檔案可能無法使用。
-
-### <a name="office-suite"></a>Office 套件
-
-- 將圖表從 Excel 貼上至 PowerPoint 可能會造成圖表的大小縮小。
-
-- 回覆註解可能會導致文字方塊垂直延伸到窗格的邊緣以外。
-
-- 針對日文產品，帳戶使用者的姓名可能會以錯誤的順序出現。
-
-- 修正相對期限只有在第一次設定時才會有效的 ODT 和 GPO 更新期限設定中的錯誤 (bug)。此修正可啟用後續更新的相關期限。
-
-- 將滑鼠指標暫留於註解上方時，可能會在註解周圍顯示文字方塊外框的問題。
-
-- 解決 Office 更新可能會非預期地從 Office CDN 而不是預期使用的來源 (例如本機或網路共用或 Configuration Manager 提供的位置) 下載檔案的問題。
-
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
-*版本 1911 (組建 12228.20364)*
-
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
-
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-### <a name="outlook"></a>Outlook
-
-- **群組命名原則：** 群組命名原則可讓 IT 系統管理員將組織中使用者所建立群組的名稱標準化及管理。 系統管理員可以要求在建立群組時，將特定首碼和尾碼新增至群組的名稱，而且可以封鎖使用特定字詞。 這有助於將群組名稱中使用不當字詞的情況最小化，以及 IT 管理其目錄中群組的表示方式。 命名原則也可協助部署小組網站的組織根據部門來分類。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **筆跡立即重播：** 當您在投影片上進行手寫時，套用重播動畫可在投影片放映期間重播真實手繪的筆跡。 [深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
-
-- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
-
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。
-
-### <a name="word"></a>Word
-
-- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
-
-- **轉換檔案，以提升存取性：** 將您的檔案升級為現代格式，讓所有人更容易存取。
-
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
-
-## <a name="resolved-issues"></a>解決的問題
-### <a name="excel"></a>Excel
-
-- 這項變更透過利用軟體轉譯避免特定 Intel 圖形驅動程式發生問題。
-
-- 我們修正了樞紐分析圖的右鍵功能表，以啟用 [顯示詳細資料] 選項。
-
-### <a name="outlook"></a>Outlook
-
-- 解決造成網頁增益集存取數位版權管理郵件的問題。
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-## <a name="version-1911-november-20"></a>版本 1911：11 月 20 日
-*版本 1911 (組建 12228.20250)*
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="outlook"></a>Outlook
-
-- **進階群組電子郵件設定：** 此功能可協助使用者自訂要在收件匣中接收/追蹤哪些電子郵件或活動。
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-## <a name="version-1911-november-15"></a>版本 1911：11 月 15 日
-*版本 1911 (組建 12228.20206)*
-
-## <a name="version-1911-november-12"></a>版本 1911：11 月 12 日
-*版本 1911 (組建 12228.20120)*
-
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="outlook"></a>Outlook
-
-- **傳送可存取的郵件給最需要它的人員：** Outlook 會顯示郵件提示，協助確保將您的內容傳送給偏好可存取內容的使用者時可供其存取。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **最佳化您的簡報：** 協助工具檢查程式可協助您以螢幕閱讀器為中心，在投影片上排列物件。
-
-### <a name="visio"></a>Visio
-
-- **在 Excel 中製作精美的 Visio 圖表：** 在 Excel 中快速且輕鬆地將資料呈現為精美的 Visio 圖表。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
-
-### <a name="word"></a>Word
-
-- **改善共同撰寫：** 改善共同撰寫的體驗，盡可能讓其他人即時收到修改過的內容。
-
-### <a name="office-suite"></a>Office 套件
-
-- **上傳中心將由需要注意的檔案體驗取代：**「上傳中心」將由會顯示在 Office 應用程式的 [檔案] > [開啟] 下的「需要注意的檔案」體驗取代。 相較於上傳中心，此新體驗更為現代化、整合且更不具侵入性。
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
-
-- 記錄計數可能不正確。
-
-### <a name="excel"></a>Excel
-
-- 解決在刪除含有的走勢圖參考另一個資料表中資料的資料表時，會導致重新開啟檔案時，將檔案識別為已損毀的問題。
-- 無法儲存對圖表大小的變更。
-- 核取方塊無法正確呈現。
-- [選取資料來源] 對話方塊上的部分欄位並未區分大小寫。
-- 某些 VBA 函數會針對新的圖表類型傳回錯誤。
-- 可能已防止使用者以 Office 365 Excel 活頁簿格式儲存。
-- 解決使用自動調整來調整列高時，核取方塊控制項可能收縮的問題。
-- 解決當您將報表篩選隨著其餘的樞紐分析表一起轉換，以用於 SQL 表格式伺服器的查詢時，可能會遇到結果不正確的問題。
-- 解決從不受信任的網路共用編輯受保護的檔案時，Excel 可能會失敗的問題。
-- 同時使用朗讀程式和放大鏡，可能會導致失敗。
-- 解決捲動後選取儲存格時，可能導致選取錯誤儲存格的問題。
-- 我們已大幅改善刪除有合併儲存格之欄的效能。
-
-### <a name="onenote"></a>OneNote
-
-- 發現可能會影響從本機資源同步至雲端資源的問題。
-
-### <a name="outlook"></a>Outlook
-
-- 會議室尋找工具可能會對可用的會議室顯示 [無]&quot;&quot;。
-- 發現當功能區設定為自動隱藏時，搜尋方塊可能消失的問題。
-- 發現簽署具有數位簽署附件的電子郵件時，可能導致數位簽章遭到破壞的問題。
-- 轉寄的電子郵件可能會遺失內嵌的影像。
-- 使用者可能無法建立具有嚴格租用戶限制的 Outlook 設定檔。
-- 發現在將長檔名拖放至郵件內文時，長檔名遭到截斷的問題。
-
-### <a name="powerpoint"></a>PowerPoint
-
-- 無法儲存對圖表大小的變更。
-- 同時使用朗讀程式和放大鏡，可能會導致失敗。
-- 發現投影片預覽的長寬比未正確鎖定/解除鎖定的問題。
-
-### <a name="project"></a>Project
-
-- 發現在執行更新工作時，若輸入記事，可能不會保留記事的問題。
-- 使用者無法將工作標示為已完成，並將它設為 99%。
-- 資源撫平無法解決資源過度分派問題。
-- 發現在開啟唯讀專案時，使用者可能會收到數個訊息的問題。
-- 發現檔案可能遭某個使用者鎖定，但不會在錯誤訊息中顯示任何使用者名稱的問題。
-
-### <a name="publisher"></a>Publisher
-
-- 圖形可能會顯示在圖形框線以外。
-
-### <a name="word"></a>Word
-
-- 內容功能表中未顯示校訂建議。
-- 無法儲存對圖表大小的變更。
-- 圖形可能會顯示在圖形框線以外。
-- 發現使用螢幕閱讀器檢視註解時的問題。
-- 發現將某些評論錯誤地識別為拼寫或文法評論的問題。
-- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
-- 使用韓文/英文自動校正時，可能出現不正確的字元。
-- 從瀏覽窗格搜尋可能會失敗。
-- 同時使用朗讀程式和放大鏡，可能會導致失敗。
-- 對註解套用不正確的內容原則。
-- 在應優先套用較高的原則標籤前，可能已套用了較低的原則標籤。
-- 開啟舊版文件，然後移至 [資訊] 索引標籤會導致失敗。
-- 發現新留言對話方塊有時候未取得焦點的問題。
-- 將格式設定套用到 @ 提及之後，可能會防止開啟連絡人卡片。
-- 醒目提示文字可能很困難。
-- 解決使用者可能無法儲存 Word、Excel 和 PowerPoint 文件的問題。 此問題會影響建立新檔案並在按一下 [儲存] 圖示或按 Ctrl + S 之後帶出 [另存新檔] 選項的使用者。
-- 以深色文字編寫的舊版註解在深色模式中不會顯示。
-- 可能已防止使用者在編輯器中瀏覽個別項目。
-- 可能不會將文法或拼寫錯誤醒目提示。
-
-### <a name="office-suite"></a>Office 套件
-
-- 某些繪圖可能不會在預覽或投影片放映中顯示。
-- 我們已修正了「另一個安裝正在進行中」的不正確錯誤訊息可能導致無法升級的問題。
-- 在垂直文字方塊中，部分片假名字元可能無法正確顯示。
-- 嘗試將檔案儲存到已中斷連線的網路共用時可能會導致失敗。
-- 在 Windows 7 上使用圖形時的效能問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
