@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 60e81fd50e7a1ef35a4449fd4383982dee3338ec
-ms.sourcegitcommit: cbdd826a7d45f0a645cc7c664647f22bf2b9752a
+ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
+ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44428998"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563673"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -32,6 +32,45 @@ ms.locfileid: "44428998"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2005-june-04"></a>版本2005：04年6月
+*版本2005（組建12827.20320）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **請繼續進行時間！日期/時間擴充資料類型具有較佳的精確度。：** 引進新的和改進的資料類型。  若要增強與 SQL 的語法相容性，以及在包含日期和時間的記錄中提高精確度和詳細資料的詳細資料，我們會在 Access 中執行 DateTime2 資料類型。 這個額外的日期 & time 資料類型會包含較大的日期範圍（0001-01-01 到9999-12-31），具有較高指定的時間精度（毫微秒，而不是秒），您可以在此提供並執行計算。 若要啟用，請選取 [新增欄位 > 日期 & 時間擴充。 [深入了解](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **在 Excel 內從 POWER BI 建立資料集的 PivotTables：** 您可以在 Excel 中建立連接至儲存于 Power BI 之資料集的 PivotTables，只需按幾下滑鼠即可。這樣做可讓您最適合 PivotTables 和 Power BI。 使用您的安全 Power BI 資料集的 PivotTables，計算、匯總及分析您的資料。
+
+### <a name="outlook"></a>Outlook
+
+- **可立即重新開啟先前 Outlook 會話之專案的選項：** 我們新增了一個選項，可快速重新開啟先前 Outlook 會話中的專案。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 這會修正使用者在檔案中同時有新式和舊版批註時的損毀，因此會觸發對批註的升級。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已解決 ValidateInstall 失敗率問題，方法是將 Bing 載入項預設安裝驗證設定為 true，並考慮 MSI 傳回成功為安裝成功。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2005-may-29"></a>版本2005：5月29日
 *版本2005（組建12827.20268）*
@@ -598,7 +637,7 @@ ms.locfileid: "44428998"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="excel"></a>Excel
 
 - 使用 VBA 應用程式的 Application.Evaluate 在某些情況下，對使用者定義的函數無法運作。
@@ -653,7 +692,7 @@ ms.locfileid: "44428998"
 ## <a name="version-2003-march-23"></a>版本 2003：3 月 23 日
 *版本 2003 (組建 12624.20296)*
 
-- 各種錯誤和效能修正。
+- 不同的錯誤 (bug) 和效能修正。
 
 ## <a name="version-2003-march-21"></a>版本 2003：3 月 21 日
 *版本 2003 (組建 12624.20276)*
@@ -708,7 +747,7 @@ ms.locfileid: "44428998"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
 - 已解決當來源活頁簿關閉時，外部連結無法在填滿時更新的問題。
@@ -846,7 +885,7 @@ ms.locfileid: "44428998"
 ## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
 *版本 2002 (組建 12527.20278)*
 
-- 各種錯誤和效能修正。
+- 不同的錯誤 (bug) 和效能修正。
 
 
 ## <a name="version-2002-march-04"></a>版本 2002：3 月 4 日
@@ -883,7 +922,7 @@ ms.locfileid: "44428998"
 ## <a name="version-2002-february-24"></a>版本 2002：2 月 24 日
 *版本 2002 (組建 12527.20194)*
 
-- 各種錯誤和效能修正。
+- 不同的錯誤 (bug) 和效能修正。
 
 ## <a name="version-2002-february-22"></a>版本 2002：2 月 22 日
 *版本 2002 (組建 12527.20186)*
@@ -969,7 +1008,7 @@ ms.locfileid: "44428998"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
 - Access 範本應不再導致資料庫中的附件欄出現故障。 個體化範本後，您現在應該可以將附件欄新增至資料庫。
