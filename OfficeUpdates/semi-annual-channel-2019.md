@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163525"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565068"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -165,7 +165,7 @@ ms.locfileid: "44163525"
 
 ### <a name="project"></a>Project
 
-- 已修正無法在下列情況中建立 XPS 檔案的 PDF 的問題：</div><ul><li>開啟專案。</li><li>按一下 [檔案] 功能表、按一下 [匯出]、然後按一下 [建立 PDF/XPS] <b></b>按鈕。</li><li>在 [瀏覽] 對話方塊中、輸入檔案名稱、然後按一下 [確定]。</li></ul>
+- 已修正無法在下列情況中建立 XPS 檔案的 PDF 的問題：<ul><li>開啟專案。</li><li>按一下 [檔案] 功能表、按一下 [匯出]、然後按一下 [建立 PDF/XPS] <b></b>按鈕。</li><li>在 [瀏覽] 對話方塊中、輸入檔案名稱、然後按一下 [確定]。</li></ul>
 
 ### <a name="word"></a>Word
 

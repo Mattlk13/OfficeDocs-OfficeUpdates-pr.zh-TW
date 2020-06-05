@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
-ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
+ms.openlocfilehash: b0a39d61122691cd6a007866ec80444848e7389b
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43796119"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565048"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>2019 年半年通道 (已設定目標) 版本的版本資訊
 
@@ -27,7 +27,7 @@ ms.locfileid: "43796119"
 ## <a name="version-1908-december-10"></a>版本 1908：12 月 10 日
 *版本 1908 (組建 11929.20516)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -129,7 +129,7 @@ ms.locfileid: "43796119"
 ## <a name="version-1908-november-12"></a>版本 1908：11 月 12 日
 *版本 1908 (組建 11929.20436)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -157,7 +157,7 @@ ms.locfileid: "43796119"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。</div>
+- 來自 Outlook 郵件中的 cid: 影像連結現在能在要求時成功中斷。
 - 可靠性修正：修正第三方增益集可能會造成 PowerPoint 失敗的問題。
 
 ### <a name="project"></a>Project
@@ -206,7 +206,7 @@ ms.locfileid: "43796119"
 ## <a name="version-1908-october-08"></a>版本 1908：10 月 8 日
 *版本 1908 (組建 11929.20388)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -246,7 +246,7 @@ ms.locfileid: "43796119"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908 (組建 11929.20300)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -457,7 +457,7 @@ ms.locfileid: "43796119"
 ## <a name="version-1902-august-13"></a>版本 1902：8 月 13 日
 *版本 1902 (組建 11328.20392)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 - 修正清除篩選圖示同時對表格中已篩選和未篩選交叉分析篩選器顯示的問題。
@@ -479,7 +479,7 @@ ms.locfileid: "43796119"
 ## <a name="version-1902-july-09"></a>版本 1902：7 月 9 日
 *版本 1902 (組建 11328.20368)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -521,7 +521,7 @@ ms.locfileid: "43796119"
 
 ## <a name="version-1902-june-11"></a>版本 1902：6 月 11 日
 *版本 1902 (組建 11328.20318)*
-<br/>安全性更新列於[此處](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates)
+<br/>安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
  - 已解決將包含 XML 對應的檔案儲存為 PDF 時導致當機的問題。
