@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b803fe8ec20f102d2c8cf3e68cbddb042beffb6e
-ms.sourcegitcommit: be205676acfa15f0c2170593b0b5ad721bea4f2d
+ms.openlocfilehash: 0e58405ba80e3656e5e3d4b8aef45dbd1df272d3
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44424585"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581782"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -30,6 +30,66 @@ ms.locfileid: "44424585"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2006-june-05"></a>版本2006：5月5日
+*版本2006（組建13001.20002）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **在 Excel 中協同作業時排序/篩選：** 您現在可以在與其他人共同作業時，排序和篩選您的 Excel 檔案。 這項新功能可防止您在共同撰寫檔時，受到其他使用者的排序和篩選的影響。
+
+- **在 Excel 內從 POWER BI 建立資料集的 PivotTables：** 您可以在 Excel 中建立連接至儲存于 Power BI 之資料集的 PivotTables，只需按幾下滑鼠即可。這樣做可讓您最適合 PivotTables 和 Power BI。 使用您的安全 Power BI 資料集的 PivotTables，計算、匯總及分析您的資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+
+### <a name="outlook"></a>Outlook
+
+- **快速重新開啟先前會話中的專案：** 我們新增了一個選項，可快速重新開啟先前 Outlook 會話中的專案。 Outlook 是否會損毀或關閉它，您現在可以在重新開啟應用程式時快速重新開機專案。 此功能預設為開啟。 若要將它關閉，請移至 [選項] > 一般 > 啟動選項]。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正此問題：圖表座標軸上的自訂值將無法正確套用。
+- 我們已修復此問題：在儲存檔案時，包含具有定義名稱之多個公式的工作表會導致較長的時間。
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了輸入法（輸入法編輯器）視窗會在使用多個具有不同解析度的監視器時，與使用 IME 輸入的基準文字重迭的問題。
+- 我們已修復此問題：在撰寫新的電子郵件訊息時，查看範本會導致系統損毀。
+- 我們修正了使用者無法在 Outlook 版本1911之後 Exchange 2010 公用資料夾的問題。
+- 已修正此問題：已停用 Office 功能區中群組行事曆的分類按鈕。
+- 我們已修復此問題：會使發生衝突之連絡人的使用者在 Outlook 中經歷損毀。
+- 我們已修正此問題：在高 DPI 顯示器上，使用者已遺漏資料夾內容中的「線上封存」下拉式清單。
+- 我們已修正此問題：當使用者使用純文字電子郵件中的超連結時，使用者在 Outlook 中遇到了損毀問題。
+- 我們修正了導致 Outlook 無法剖析以 RFC2231 編碼的長檔名的問題。
+- 我們修正了導致 Outlook 使用者在使用螢幕閱讀器時遇到間歇性懸掛的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用以表單驗證的方式開啟伺服器設定檔案的問題。
+- 我們已修復此問題：具有內嵌圖表/活頁簿的 PowerPoint 檔案可能會導致儲存檔案失敗。
+- 我們已修復此問題：使用者已關閉的批註窗格會自動重新開啟。
+- 我們已修復此問題：一張投影片上的投影片編輯器會與下一張投影片交疊。
+
+### <a name="project"></a>Project
+
+- 已修正此問題：刪除其父項計畫後，無法刪除或重新指派孤立的工作。
+
+### <a name="word"></a>Word
+
+- 我們修正了批註窗格中的時間戳記不是以系統地區設定時間為基礎的問題。
+- 我們修正了 web 應用程式與桌面應用程式之間的批註未同步處理的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 
 ## <a name="version2006may29"></a>版本2006：5月29日
 *版本2006（組建12920.20000）*

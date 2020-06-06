@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: 為 IT 專業人員提供 office 版本內容的連結，以供 Office 365 ProPlus，Office for Mac，永久的 Office，以及 Office Server 產品
-ms.openlocfilehash: 9b70612a1296b764edd1f17357ef6f659bbcc701
-ms.sourcegitcommit: b1fcfac6d568a74e296ca2f874a8d33a8a81cc5e
+ms.openlocfilehash: 5f7f223ea6bac5b7af6dffd3c461e4071eeb12ac
+ms.sourcegitcommit: c32d5e03d3c8dbfaba32a8d5349edc3ce1577a38
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44163445"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44588387"
 ---
 # <a name="office-updates"></a>Office 更新
 
@@ -48,8 +48,8 @@ ms.locfileid: "44163445"
                 <div class="card">
                     <div class="cardText">
                         <h3>Mac 版 Office</h3>
-                        <p><a href="release-notes-office-for-mac.md">版本資訊 (Office 365, 2019)</a></p>
-                        <p><a href="update-history-office-for-mac.md">更新歷程記錄 (Office 365, 2019)</a></p>
+                        <p><a href="release-notes-office-for-mac.md">發行附注（Microsoft 365、2019）</a></p>
+                        <p><a href="update-history-office-for-mac.md">更新歷程記錄（Microsoft 365、2019）</a></p>
                         <p><a href="release-notes-office-2016-mac.md">版本資訊 (2016)</a></p>
                         <p><a href="release-history-microsoft-autoupdate.md">MAU 版本</a></p>
                      </div>
@@ -81,12 +81,11 @@ ms.locfileid: "44163445"
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office (永久)</h3>
+                        <h3>Office （永久授權）</h3>
                             <p><a href="update-history-office-2019.md">Office 2016 和2019（C2R）</a></p>
                             <p><a href="office-updates-msi.md">Office 2010、2013 和 2016 更新 (MSI)</a></p>
-                            <p><a href="outlook-updates-msi.md">Outlook 2010、2013 和 2016 更新 (MSI)</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">商務用 Skype 更新</a></p>
                             <p><a href="msp-files-office-2016.md">Office 2016 .msp 檔案</a></p>
+                            <p><a href="msp-files-office-2013.md">Office 2013 .msp 檔案</a></p>
                     </div>
                 </div>
             </div>
@@ -98,9 +97,9 @@ ms.locfileid: "44163445"
                 <div class="card">
                     <div class="cardText">
                         <h3>其他 Office 資源</h3>
-                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Office 365 的新功能？</a></p>
-                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Office 365 藍圖</a></p>
-                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">隨時掌握 Office 365 的變更</a></p>
+                            <p><a href="https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426">Microsoft 365 的新功能為何？</a></p>
+                            <p><a href="https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365">Microsoft 365 藍圖</a></p>
+                            <p><a href="https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd">保持最新的 Microsoft 365 變更</a></p>
                             <p><a href="https://www.microsoft.com/microsoft-365/blog/office/">Office 博客</a></p>
                     </div>
                 </div>
