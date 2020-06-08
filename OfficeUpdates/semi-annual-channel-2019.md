@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 4c996b8fb804c82f14e747910f5f9bac76f538ba
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565068"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581772"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>2019 年半年通道版本的版本資訊
 
@@ -25,9 +25,6 @@ ms.locfileid: "44565068"
 > - 當使用者在半年通道上，從 Office 入口網站下載並安裝 Office 365 到 Windows 10 上時，OneNote 2016 依預設不會包括在其中。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-
-
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
