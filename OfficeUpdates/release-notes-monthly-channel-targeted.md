@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 41dba1efa79735aafd74b318fd49c7c3211736e3
-ms.sourcegitcommit: e9b127c7dfd80f3beb3c9aa9dadfb9e7f442c58c
+ms.openlocfilehash: 2213653fbbc529ab849142e1bf5427952299ff2a
+ms.sourcegitcommit: 9d2fb1f431933f304b68891c07a3b4eed5fdb936
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563673"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618929"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Office 每月通道的版本資訊 (已設定目標)
 
@@ -32,6 +32,20 @@ ms.locfileid: "44563673"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2005-june-08"></a>版本2005：08年6月
+*版本2005（組建12827.20336）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修復 [取代字體] 對話方塊中的問題，[取代字體] 下拉式清單只會顯示簡報中的字型，而不會顯示系統上已安裝的字體。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2005-june-04"></a>版本2005：04年6月
 *版本2005（組建12827.20320）*
@@ -637,7 +651,7 @@ ms.locfileid: "44563673"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
 - 使用 VBA 應用程式的 Application.Evaluate 在某些情況下，對使用者定義的函數無法運作。
@@ -675,7 +689,7 @@ ms.locfileid: "44563673"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="project"></a>Project
 
 - <div><span style="display:inline !important;">修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。</span><br></div>
@@ -687,7 +701,7 @@ ms.locfileid: "44563673"
 ## <a name="version-2003-march-25"></a>版本 2003：3 月 25 日
 *版本 2003 (組建 12624.20320)*
 
-- 各種錯誤和效能修正。
+- 各種錯誤 (Bug) 和效能修正。
 
 ## <a name="version-2003-march-23"></a>版本 2003：3 月 23 日
 *版本 2003 (組建 12624.20296)*
@@ -951,7 +965,7 @@ ms.locfileid: "44563673"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
 - <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
