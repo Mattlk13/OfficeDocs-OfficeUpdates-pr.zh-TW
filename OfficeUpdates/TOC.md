@@ -4,32 +4,32 @@
 ## [更新歷程記錄 (根據日期)](update-history-microsoft365-apps-by-date.md)
 ## [更新大小](download-sizes-microsoft365-apps-updates.md)
 
-## 每月通道
-### [2020](monthly-channel-2020.md)
+## 目前通道
+### [2020](current-channel.md)
 ### [2019](monthly-channel-2019.md)
 ### [2018](monthly-channel-2018.md)
 ### [2017](monthly-channel-2017.md)
 
 ## 每月企業頻道
-### [2020](monthly-enterprise-channel-2020.md)
+### [2020](monthly-enterprise-channel.md)
 
-## 半年通道
-### [2020](semi-annual-channel-2020.md)
+## 半年企業通道
+### [2020](semi-annual-enterprise-channel.md)
 ### [2019](semi-annual-channel-2019.md)
 ### [2018](semi-annual-channel-2018.md)
 ### [2017](semi-annual-channel-2017.md)
 
-## 半年通道 (已設定目標)
-### [2020](semi-annual-channel-targeted-2020.md)
+## 半年企業通道 (預覽)
+### [2020](semi-annual-enterprise-channel-preview.md)
 ### [2019](semi-annual-channel-targeted-2019.md)
 ### [2018](semi-annual-channel-targeted-2018.md)
 ### [2017](semi-annual-channel-targeted-2017.md)
 
 ## Office 測試人員計畫  
-### [更新歷程記錄的測試人員通道](update-history-office-insider.md)
-### [更新歷程記錄的每月通道 (已設定目標)](update-history-monthly-channel-targeted.md)
-### [版本資訊的測試人員通道](release-notes-office-insider.md)
-### [每月通道版本資訊 (已設定目標)](release-notes-monthly-channel-targeted.md)
+### [更新歷史記錄 Beta 版通道](Update-history-beta-channel.md)
+### [更新記錄目前頻道 (預覽)](update-history-current-channel-preview.md)
+### [版本資訊 Beta 版通道](beta-channel.md)
+### [版本資訊目前頻道 (預覽)](current-channel-preview.md)
 
 ## [Windows 7 更新歷程記錄](update-history-office-Win7.md)
 
