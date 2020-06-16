@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: e82c61c32af89e0be6406a0680e83f6afef6864d
+ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211098"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44695555"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
@@ -45,10 +45,10 @@ ms.locfileid: "44211098"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的版本資訊
 
 如需依更新通道和年度列出的完整版本資訊，請參閱下列文章︰
- - 每月：[2020](monthly-channel-2020.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
- - 每月企業通道：[2020](monthly-enterprise-channel-2020.md)
- - 半年 (已設定目標)：[2020](semi-annual-channel-targeted-2020.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
- - 半年：[2020](semi-annual-channel-2020.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
+ - 目前：[2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
+ - 每月企業通道：[2020](monthly-enterprise-channel.md)
+ - 半年企業 (預覽)：[2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
+ - 半年企業：[2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
  如需完整 Office 部署工具的版本清單，請參閱下列文章：
