@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695564"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814292"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -47,11 +47,11 @@ ms.locfileid: "44695564"
 
 若想瞭解從舊版的 Microsoft 365 Apps 更新至最新版本的約略下載大小，請參閱[更新至 Microsoft 365 Apps 的下載大小](download-sizes-office365-proplus-updates.md)。
 
-下表提供下列更新通道中發行的 Microsoft 365 Apps 每個更新的版本和組建編號清單：每月、半年度 (已設定目標) 和半年。 表格中的每個項目會直接連結到該版本的版本資訊。 這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。  
+下表提供下列更新通道所發行之 Microsoft 365 應用程式的版本和組建編號清單： Current、月度企業、半年 Enterprise （預覽）和半年 Enterprise。 表格中的每個項目會直接連結到該版本的版本資訊。 這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。  
 
 [//]: # (HISTORYTABLESTART)
 
-|**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年 Enterprise 通道（預覽）**|**半年 Enterprise 通道**|
+|**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |2020|6月9日|[版本2005（組建12827.20336）](current-channel.md#version-2005-june-09)|[版本2004（組建12730.20430）](monthly-enterprise-channel.md#version-2004-june-09)<br/>[版本2003（組建12624.20708）](monthly-enterprise-channel.md#version-2003-june-09)|[版本2002（組建12527.20720）](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[版本1908（組建11929.20838）](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[版本1902（組建11328.20602）](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|02年6月|[版本2005（組建12827.20268）](current-channel.md#version-2005-june-02)| | | |

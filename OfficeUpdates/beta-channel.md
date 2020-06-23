@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668062"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814302"
 ---
 # <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
 
@@ -30,6 +30,81 @@ ms.locfileid: "44668062"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2007-june-19"></a>版本2007：6月19日
+*版本2007（組建13012.20000）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正此問題：將活頁簿儲存到 SharePoint/OneDrive 時，已移除自訂功能區索引標籤的 CustomUI XML。
+- 我們已修復此問題：當檔案只有建議唯讀時，活頁簿是唯讀的。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修復此問題：輸入法編輯器（IME）視窗會在使用多個具有不同解析度的監視器時，重迭透過 IME 輸入的基準文字。
+- 我們修正了導致使用者在關閉先前所儲存之約會時看到下列錯誤的問題：「無法儲存該專案，因為另一個使用者或另一個視窗已變更此專案。 您要在預設資料夾中為專案製作複本嗎？
+- 我們已修復此問題：迷你日曆中的日期無法以粗體顯示給日本的使用者。
+- 我們已修正問題，讓行事曆提醒無法顯示在一周內所到來會議的確切時間。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修復此問題：在即時共同撰寫會話期間，使用者的目前狀態指示器未在共同撰寫圖庫中重新整理。
+
+### <a name="project"></a>Project
+
+- 我們已修復此問題：固定工期工作100已完成，但未指定實際完成時間，任務% 完成會顯示為小於100%。
+
+### <a name="word"></a>Word
+
+- 我們已修復此問題： HTML 超連結色彩不會正確地呈現。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修復此問題：不是以 HTTP 或 HTTPs 為基礎的 URLs 未顯示于最近使用過的清單中。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-june-12"></a>版本2007：6月12日
+*版本2007（組建13006.20002）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用資料類型從 POWER BI 取得組織資料：** Power BI 的 Excel 資料類型現在，使用 Office 365 E5/A5 或 Microsoft 365 E5/A5，在組織中的內部部署。 取得所需的資訊並輕鬆重新整理，對許多日常工作流程來說都很重要。 我們為您提供公司或組織資訊從 Power BI 存取為 Excel 中的資料類型，其可擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了導致 Microsoft Access 無法在連結的 SQL Server 資料表中識別 Identity 資料行的問題，這可能會導致資料列的報告未正確地刪除。
+
+### <a name="excel"></a>Excel
+
+- 我們修正了雷達圖的主要格線無法正確格式化的問題。
+
+### <a name="project"></a>Project
+
+- 我們已修復此問題：當專案摘要任務（專案開始/任務欄位）變更時，不會觸發 ProjectBeforeTaskChange 事件。
+- 我們已修復此問題：基準重設或更新可能會變更時間分段預算成本/工時資源，而基線可能會反映不正確的預算值。
+
+### <a name="word"></a>Word
+
+- 我們已修復此問題：在 [批註] 窗格中透過 Office 功能區中的 [清除格式] 按鈕來清除格式設定的功能無法運作。
+- 我們已修復此問題：在未顯示尺規時變更表格的大小，造成其他應用程式在後臺執行的其他應用程式開始閃爍。
+- 我們已修復此問題：在共同撰寫模式中，批註回復有時候不會出現在 [批註] 窗格中，但會顯示在 [修訂] 窗格中。
+- 我們已修復此問題：如果 Word 列出超過50的熱門檔案，然後在儲存及開啟檔之後，即使尚未對該檔進行任何修訂，也會顯示歷程記錄。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-05"></a>版本2006：5月5日
 *版本2006（組建13001.20002）*
@@ -459,7 +534,7 @@ ms.locfileid: "44668062"
 
 - 此變更修正了使用 [全字拼寫須相符] 來尋找特殊字元時，不一定能正常運作的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
@@ -665,7 +740,7 @@ ms.locfileid: "44668062"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 

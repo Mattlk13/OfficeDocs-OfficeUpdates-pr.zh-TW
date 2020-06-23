@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 13bb14c00a9066c7437cde9a00f94a078788d5c5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
+ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668008"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44810865"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中目前通道版本的發行附注
 
@@ -354,13 +354,9 @@ ms.locfileid: "44668008"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="onenote"></a>OneNote
 
-- 透過暫時停用將頁面移動至資源回收桶，來改善同步處理與伺服器的穩定性。 若使用者想要刪除頁面，則會改為顯示詢問是否要永久刪除頁面的對話方塊。
-
 - 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，可協助改善在高全球使用狀況時的同步處理與服務可用性。
 
-- 透過暫時變更建立頁面版本歷程記錄的頻率，可改善同步處理與服務的穩定性。
-
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
@@ -407,8 +403,6 @@ ms.locfileid: "44668008"
 ### <a name="onenote"></a>OneNote
 
 - 透過暫時減少新嵌入附件的最大允許尺寸至 50MB，來改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
-
-- 透過暫時停用 OneNote 2016 中的應用程式內視訊錄製，來改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
 
 - 透過暫時調整 OneNote 2016 中的同步處理頻率，來改善同步處理與服務的穩定性。
 
@@ -473,16 +467,9 @@ ms.locfileid: "44668008"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **使用者現在可以在 Word 和 Excel 中將物件儲存為 SVG：** 使用者可以將圖表、圖案、筆跡、圖示、圖片等物件儲存為 SVG。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 - **活頁簿統計資料：** 我們會計算儲存格、公式、圖表、表格，這樣您就不需要計算。
 
 - **查詢編輯器中的資料分析：** 取得欄位資料的總覽分析、識別錯誤和空白值，查看分佈長條圖等。
-
-### <a name="word"></a>Word
-
-- **使用者現在可以在 Word 和 Excel 中將物件儲存為 SVG：** 使用者可以將圖表、圖案、筆跡、圖示、圖片等物件儲存為 SVG。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)

@@ -1,5 +1,5 @@
 ---
-title: 發行附注目前通道（預覽）
+title: 版本資訊目前頻道 (預覽)
 ms.author: anankani
 author: v-lislo
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 6a81894e1eca51356512bbd7181c3d7fa9f73760
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
+ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668065"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44796684"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的版本資訊目前通道（預覽）
 
@@ -32,6 +32,200 @@ ms.locfileid: "44668065"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2006-june-18"></a>版本2006：6月18日
+*版本2006（組建13001.20198）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+
+
+- **儲存至固定資料夾：** Pin 您的資料夾可讓您更輕鬆地儲存 Office 檔案，讓使用者在儲存新檔案時，能更進一步控制可使用的資料夾。 我們非常高興可為您提供新功能：在 [儲存] 對話方塊中固定您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 及 PowerPoint 檔案。 <br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **儲存至固定資料夾：** Pin 您的資料夾可讓您更輕鬆地儲存 Office 檔案，讓使用者在儲存新檔案時，能更進一步控制可使用的資料夾。 我們非常高興可為您提供新功能：在 [儲存] 對話方塊中固定您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 及 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **儲存至固定資料夾：** Pin 您的資料夾會使儲存的 Office 檔案 easierWe 收到意見反應，讓使用者在儲存新檔案時，能更進一步控制可使用的資料夾。 我們非常高興可為您提供新功能：在 [儲存] 對話方塊中固定您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 及 PowerPoint 檔案。 <br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正此問題，會在儲存至 SharePoint/OneDrive 時，將自訂功能區索引標籤的 CustomUI XML 所導致移除。
+
+### <a name="outlook"></a>Outlook
+
+- 解決當啟用 cloud 設定時，Ctrl + 按一下以停止運作的問題。
+
+### <a name="project"></a>Project
+
+- 已修正此問題：標示為100% 完成的任務誤變更為小於100% 完成。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-june-11"></a>版本2006：6月11日
+*版本2006（組建13001.20144）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **改進 PowerPoint 中的資料流程影片效能：** 我們已改進 Microsoft Stream 影片的播放效能，以盡可能縮短影片載入時間，並產生流暢的觀賞體驗。 使用 Microsoft Stream 的公司影片來建立更佳的簡報。
+
+### <a name="word"></a>Word
+
+- **以向量保留文字：** 現在，您可以在 Excel、Word 及 PowerPoint 中轉換這些物件時，保留地圖、圖表及其他 SVG 向量中的文字。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修復此問題：在使用 OneDrive 時，Excel 會不時關閉。
+
+- 我們已修正此問題：圖表座標軸上的自訂值將無法正確套用。
+
+- 我們已修復此問題：在儲存檔案時，包含具有定義名稱之多個公式的工作表會導致較長的時間。
+
+- 我們修正了導致印表機名稱重複出現在可用印表機清單中的問題。
+
+- 我們修正了在使用者刪除合併欄時，改善使用者效能的問題。
+
+- 我們已修復此問題：因為增益集是以字母順序載入，而不是以使用者指定的順序載入，所以會出現錯誤訊息「目前已由另一個使用者參照此活頁簿，所以無法關閉」。
+
+- 我們已修正此問題：在 Excel 與部分協力廠商的輔助技術應用程式之間管理字體時，記憶體遭到損毀。
+
+- 我們已修復此問題：按一下相同活頁簿中的已加書簽的超連結時，將會隱藏該活頁簿。
+
+- 已修正此問題：某些複本和貼上的圖表連結使用對應的磁片磁碟機位址，而不是通用位址。
+
+- 我們已修復此問題：在使用 Ctrl + Shift + 箭號鍵以在 Excel 視窗透過團隊共用時，Excel 可能會變得無回應。
+
+- 我們已修復此問題：當增益集要求包含具有 noSelect 鎖定之圖形的工作表上的主項目目時，Excel 會損毀。
+
+- 解決了嘗試將 PivotTables 插入圖表工作表時，Excel 可能會損毀的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了輸入法（輸入法編輯器）視窗會在使用多個具有不同解析度的監視器時，與使用 IME 輸入的基準文字重迭的問題。
+
+- 我們已修復此問題：在撰寫新的電子郵件訊息時，查看範本會導致系統損毀。
+
+- 我們修正了使用者無法在 Outlook 版本1911之後 Exchange 2010 公用資料夾的問題。
+
+- 已修正此問題：已停用 Office 功能區中群組行事曆的分類按鈕。
+
+- 解決了 Outlook 無法啟用資料遺失保護原則秘訣的問題。使用者已向其支付服務的使用者，M365 Business Plus 方案。
+
+- 解決了導致 Outlook 在某些 Windows 組建上損毀的問題。
+
+- 我們修正了使用者無法與來賓使用者共用行事曆的問題。
+
+- 我們已修復此問題：使用者看到跨越午夜臨界值的行事曆專案，視為全天事件。
+
+- 我們已修正此問題：在高 DPI 顯示器上，使用者已遺漏資料夾內容中的「線上封存」下拉式清單。
+
+- 已修正此問題：當使用者在資料夾之間移動專案時，未能正確地激發 BeforeItemMove 事件。
+
+- 我們已修復此問題：當兩個增益集將按鈕新增至功能區中的相同群組時，Outlook 會當機。
+
+- 我們已修正此問題：當使用者使用純文字電子郵件中的超連結時，使用者在 Outlook 中遇到了損毀問題。
+
+- 我們修正了導致 Outlook 無法剖析以 RFC2231 編碼的長檔名的問題。
+
+- 我們修正了導致 Outlook 使用者在使用螢幕閱讀器時遇到間歇性懸掛的問題。
+
+- 我們已修復此問題：會使發生衝突之連絡人的使用者在 Outlook 中經歷損毀。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用以表單驗證的方式開啟伺服器設定檔案的問題。
+
+- 我們已修復此問題：具有內嵌圖表/活頁簿的 PowerPoint 檔案可能會導致儲存檔案失敗。
+
+- 我們修正了簡報區域的放大和縮小導致縮放選取專案選取範圍與滑鼠指標之間的間隙。
+
+- 我們修正了在使用滑鼠滾輪縮放後，投影片未居中的問題。
+
+- 我們已修復此問題：使用英文（QWERTZ）鍵盤時，鍵盤快速鍵和拼寫檢查不會如預期的方式運作。
+
+- 我們已修復此問題：使用者已關閉的批註窗格會自動重新開啟。
+
+- 我們已修復此問題：一張投影片上的投影片編輯器會與下一張投影片交疊。
+
+### <a name="project"></a>Project
+
+- 已修正此問題：當專案摘要任務（專案開始/任務欄位）變更時，不會觸發 ProjectBeforeTaskChange 事件。
+
+- 已修正此問題：標示為100% 完成的任務誤變更為小於100% 完成。
+
+- 已修正此問題：在按一下 [選項] 後，Project 會損毀。
+
+- 已修正此問題：刪除其父項計畫後，無法刪除或重新指派孤立的工作。
+
+### <a name="visio"></a>Visio
+
+- 已修正的相依代碼中有回歸。 現在，影像會在 SharePoint Onprem 上執行的 Visio services 中呈現。
+
+### <a name="word"></a>Word
+
+- 我們修正了批註窗格中的時間戳記不是以系統地區設定時間為基礎的問題。
+
+- 已解決當 URL 包含查詢元件時，在自訂檔傳遞（aspx）中開啟 Word 檔的問題。
+
+- 我們已修復此問題：將文字複製並貼到批註窗格時，不會顯示。
+
+- 我們已修正問題：批註中的超連結無法運作。
+
+- 我們修正了簡報區域的放大和縮小導致縮放選取專案選取範圍與滑鼠指標之間的間隙。
+
+- 我們修正了 web 應用程式與桌面應用程式之間的批註未同步處理的問題。
+
+- 我們已修正此問題：批註提示氣泡在100% 縮放顯示時會出現模糊。
+
+- 我們已修復此問題：在空白檔上新增批註時，不會執行任何動作。
+
+- 我們已修正此問題：在行事曆 WordMail 中粘貼 HTML 時無法運作。
+
+- 我們已修復此問題：回復共同撰寫的會話中的批註有時會導致 Word 凍結。
+
+- 我們已修復此問題：在包含一百個專案的檔中插入或更新索引時，會導致應用程式當機。
+
+- 我們已修復此問題：啟用原則 Word 2007 和更新版本的二進位檔案和範本會導致一些共同撰寫案例失敗。
+
+- 我們已修復此問題：自訂 xml 值開啟的檔案非常緩慢。
+
+- 我們已修復此問題：不會開啟具有長路徑名稱（大於32K）的檔案，也不會顯示適當的錯誤訊息。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已經研究並解決了在作業系統關閉後，透過 InTune 進行的 Office 365 專業增強版部署會暫停的問題。
+
+- 我們已在 Visual Basic for Applications 中修正了 Microsoft Office 中的問題，在此情況下，Office 應用程式會在載入時，由 Office 應用程式查看包含對文件庫名稱或文件庫路徑中之 DBCS 字元的程式碼庫參考的某些 VBA 專案。
+
+- 此更新解決了 Microsoft Office 中的一個問題：可能無法在執行時期正確找到 Visual Basic for Applications 專案，這些專案的參照預期透搜尋 PATH 環境變數指定的位置來找到，進而導致VBA 執行時期錯誤。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2005-june-08"></a>版本2005：08年6月
 *版本2005（組建12827.20336）*
@@ -353,7 +547,7 @@ ms.locfileid: "44668065"
 
 - **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -761,7 +955,7 @@ ms.locfileid: "44668065"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="excel"></a>Excel
 
 - 已解決當來源活頁簿關閉時，外部連結無法在填滿時更新的問題。
@@ -899,7 +1093,7 @@ ms.locfileid: "44668065"
 ## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
 *版本 2002 (組建 12527.20278)*
 
-- 不同的錯誤 (bug) 和效能修正。
+- 各種錯誤和效能修正。
 
 
 ## <a name="version-2002-march-04"></a>版本 2002：3 月 4 日

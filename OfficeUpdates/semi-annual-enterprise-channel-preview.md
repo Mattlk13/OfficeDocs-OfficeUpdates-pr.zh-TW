@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 301194a89cdd6208a98bd0baa471c531e4d8c80e
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
+ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668093"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44724955"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>在2020中的半年 Enterprise 通道（預覽）版本的版本資訊
 
@@ -283,7 +283,7 @@ ms.locfileid: "44668093"
 
 - **將您的 LinkedIn 人際網路連接至 Outlook：** 安全地將您的 LinkedIn 帳戶與 Microsoft 帳戶連結，以直接在人員卡片中查看 LinkedIn 個人資料中的資訊。 [深入了解](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
-- **集中所有加密選項：** 只要前往 [選項] > [加密]，即可選擇要用來保護電子郵件訊息的方法。[深入了解](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
+- **All your encryption options in one place:** Just go to Options > Encrypt to choose how to secure your email message. [Learn more](https://support.office.com/article/373339cb-bf1a-4509-b296-802a39d801dc)
 
 - **Outlook 中的 [插入連結] 功能表會插入含有租用戶系統管理員所定義的權限的連結：** Outlook 中使用 [插入連結] 所插入的連結，只有具有連結權限的使用者可使用。 這常會造成使用者來回傳送電子郵件，要求對方授與文件的存取權。 我們已更新這項體驗，現在插入的連結將具有由租用戶系統管理員設定的預設權限。針對 MSIT，這是「組織可以編輯」，使得以此方式收到共用連結的所有內部使用者將可以存取它。
 
@@ -314,7 +314,7 @@ ms.locfileid: "44668093"
 
 - **即時的輔助字幕和翻譯字幕：** 簡報者的文字會自動顯示為畫面上的標題，或翻譯為所選語言的字幕。 [深入了解](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
-- **您來計算，格式設定交給我們**我們能將難懂的手寫數學運算式變更為標準字元。只要選擇 [筆跡轉換數學]，然後選取您的手寫筆記，即可開始使用。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等。 [深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
@@ -377,7 +377,7 @@ ms.locfileid: "44668093"
 
 - **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 
-- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
+- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。 [深入了解](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
 - **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
 

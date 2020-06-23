@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: b346aba65488adcd2d0c223e17fe71cc22c0b6b3
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
+ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695576"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735453"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -42,10 +42,6 @@ ms.locfileid: "44695576"
 
 ### <a name="excel"></a>Excel
 
-- **顯示圖片後面的內容：** 將圖片放在工作表中、挑選您的預設，並觀看透明度變更。就這麼簡單！[深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
-
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
 - **Facebook 連接器支援即將結束：** 於 2020 年 4 月起，Excel 就不再支援使用 Facebook 連接器的外部資料連線。
@@ -53,8 +49,6 @@ ms.locfileid: "44695576"
 - **讓活頁簿更生動的新影像：** 您可以在活頁簿中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[部落格文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
-
-- **更智慧的 [收件者:] 行：** 當您按一下 [收件者:] 行來撰寫郵件時，我們會建議您可能要選擇的收件者。 此外，您還可以查看其圖片，使您知道要傳送給正確的人員。 [深入了解](https://support.office.com/article/147208af-ca8e-4cdf-b71f-77ba81a54069)
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
@@ -66,10 +60,6 @@ ms.locfileid: "44695576"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **顯示圖片後面的內容：** 將圖片放在投影片中、挑選您的預設，並觀看透明度變更。就這麼簡單！[深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
-
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
 - **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。 [深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
@@ -78,12 +68,6 @@ ms.locfileid: "44695576"
 
 ### <a name="word"></a>Word
 
-- **尋找並修正相關的校對問題。：**[編輯器] 窗格現在會顯示檔中所找到之校對問題的概覽，所以焦點是修正對您最相關的問題。
-
-- **顯示圖片後面的內容：** 將圖片放在投影片中、挑選您的預設，並觀看透明度變更。就這麼簡單！[深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
-
 - **對筆跡使用套索：**[繪圖] 索引標籤上的 [套索] 工具，可協助您選取使用筆跡繪製的物件。 選取個別筆劃或整個字。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
@@ -91,8 +75,6 @@ ms.locfileid: "44695576"
 - **讓文件更生動的新影像：** 您可以在文件中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[部落格文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
-
-- **Office 圖示有新的外觀：** Office 圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。
 
 - **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。
 

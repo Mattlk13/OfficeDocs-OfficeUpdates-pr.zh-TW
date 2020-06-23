@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 13263186e115180da3b989267f23721b13790f93
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3a015030f5f82cfab54f50c45492a0069a85aac0
+ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668060"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44853951"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 通道的更新歷程記錄
 
-測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!IMPORTANT]
 > - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -29,13 +30,20 @@ ms.locfileid: "44668060"
 > - 此處的更新歷程記錄會列出發行的所有組建
 > - 版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。
 
-## <a name="office-beta-versions-and-builds"></a>Office Beta 版本與組建
+## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 通道版本和組建
 
-如果您已登入會員層級，您會經常更新新功能和增強功能。 下列清單顯示最近的 Beta 版本和內部版本的記錄，並**先列出最近發行的版本**。 新的組建包含舊版內部版本中包含的所有更新。
+如果您已登入會員層級，您會經常更新新功能和增強功能。 下列清單顯示最近 Beta 通道版本和內部版本的歷史記錄，並**先列出最近發行的版本**。 新的組建包含舊版內部版本中包含的所有更新。
 
-若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/release-notes-office-insider)。
+若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
+
 
 [//]: # (DO NOT REMOVE)
+
+**2020年6月23日**<br/>
+版本2007（組建13020.20004）<br/>
+
+**2020年6月15日**<br/>
+版本2007（組建13012.20000）<br/>
 
 **2020年6月9日**<br/>
 版本2007（組建13006.20002）<br/>
