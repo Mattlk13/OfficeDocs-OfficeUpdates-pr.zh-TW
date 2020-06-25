@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: b162030edbc15fd4d9dd5c7ce78b75853dc417da
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796694"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874829"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 的 Office Current 的更新歷程記錄（預覽）
 
@@ -24,7 +24,7 @@ ms.locfileid: "44796694"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office Current 通道（預覽）版本與組建
 
 如果您已登入目前通道（預覽）層級（先前稱為「內幕人員慢速」），則每月您會收到一次新的 Office 功能更新，再加上包含重要修正或安全性更新的後續組建。 下列清單顯示最近的目前通道（預覽）版本和內部版本，並**先列出最近發行的版本**。 新的組建包含舊版內部版本中包含的所有更新。
-若要尋找版本資訊，請參閱[Office 預覽體驗人員的新功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+若要尋找版本資訊，[請參閱](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)。 此外，您還可以查看[Office 預覽人員的新功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 
 > [!IMPORTANT]

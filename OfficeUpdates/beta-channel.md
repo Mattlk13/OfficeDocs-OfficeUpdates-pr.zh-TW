@@ -9,14 +9,14 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
-ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
+ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44814302"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874789"
 ---
-# <a name="release-notes-for-office-insiders"></a>Office 測試人員的版本資訊
+# <a name="release-notes-for-beta-channel"></a>Beta 通道的版本資訊
 
 本文包含適用于 Word、Excel、PowerPoint、Outlook、Access 和 Project for Windows desktop 的 Beta 通道組建的版本資訊。 我們每週都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常會在一段時間內針對 Beta 通道推出功能（甚至是修正）。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
 

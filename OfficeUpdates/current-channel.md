@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810865"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874779"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中目前通道版本的發行附注
 
@@ -31,6 +31,74 @@ ms.locfileid: "44810865"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-june-24"></a>版本2005：年6月24日
+*版本2005（組建12827.20470）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此 bug 現在已修復;您應該能夠將日期/時間擴充的資料類型呼叫至您的程式碼，而不會在您的應用程式中發生任何損毀。 請讓小組知道您是否會遇到其他問題。
+
+
+- 現在已修復此問題;您現在可以回復至最新的 Access 版本，並使用 DAO/VBA 來管理及編輯 decimal 資料類型。 請讓 Access 小組知道您在使用我們的資料類型時，是否會出現進一步的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正此問題，會在儲存至 SharePoint/OneDrive 時，將自訂功能區索引標籤的 CustomUI XML 所導致移除。
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決了 Outlook 無法啟用資料遺失保護原則秘訣的問題。使用者已向其支付服務的使用者，M365 Business Plus 方案。
+
+
+- 解決這項問題：讓使用者能夠透過拖放設定為4501年1月1日取得的附件，查看其複製到其檔案系統的建立日期。
+
+
+- 解決導致使用者在此電腦上看到規則的問題，在 &quot; &quot; 更新其 Outlook 中的規則時，與 Microsoft Exchange 郵件上的規則不相符。
+
+
+- 解決問題，導致使用者進行共用行事曆改進，以查看行事曆失敗。
+
+
+- 解決了導致使用者在某些案例中經歷間歇性懸掛和崩潰的問題。
+
+
+- 解決問題，導致使用者看到 Outlook 持續提示他們執行收件匣修復工具。
+
+
+- 解決此問題：搜尋功能的建議功能會傳回無結果，並讓使用者沒有任何選項可提交新的功能觀點。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修復 [建議] 窗格中的崩潰問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正此問題：標示為100% 完成的任務誤變更為小於100% 完成。
+
+### <a name="word"></a>Word
+
+- 解決此問題：從應用程式中拖曳部分內容時，可能會造成損毀。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更會解決載入和播放動畫內容（例如 Gif 或3D 模型）時可能會懸掛的情況。
+
 
 
 
@@ -329,7 +397,7 @@ ms.locfileid: "44810865"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
