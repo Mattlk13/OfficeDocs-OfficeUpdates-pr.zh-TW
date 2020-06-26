@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796684"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889059"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的版本資訊目前通道（預覽）
 
@@ -32,6 +32,46 @@ ms.locfileid: "44796684"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2006-june-25"></a>版本2006：6月25日
+*版本2006（組建13001.20266）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="visio"></a>Visio
+
+- **在 Excel 中製作精美的 Visio 圖表：** 根據工作表中的資料，建立流程圖或組織結構圖。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- <div>此問題現在已解決。 請讓小組知道您在此程式中是否遇到更多問題。</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">解決導致使用者看到 <span>&nbsp;</span> 的問題</span>以<span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;"> &nbsp; 拖放方式複製至其檔案系統的附件建立日期 &nbsp; ，會設定為4501年1月1日取得。</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解決導致使用者進行共用行事曆改進的問題，以查看行事曆失敗。</span><br></div>
+
+
+- <div><span style="display:inline !important;">解決導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。</span><br></div>
+
+
+- <div><span style="display:inline !important;">解決此問題：搜尋功能建議功能以傳回無結果，並讓使用者沒有任何選項可提交新的功能思路。</span><br></div>
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-18"></a>版本2006：6月18日
 *版本2006（組建13001.20198）*
@@ -955,7 +995,7 @@ ms.locfileid: "44796684"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
 - 已解決當來源活頁簿關閉時，外部連結無法在填滿時更新的問題。
@@ -1093,7 +1133,7 @@ ms.locfileid: "44796684"
 ## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
 *版本 2002 (組建 12527.20278)*
 
-- 各種錯誤和效能修正。
+- 不同的錯誤 (bug) 和效能修正。
 
 
 ## <a name="version-2002-march-04"></a>版本 2002：3 月 4 日
@@ -1159,7 +1199,7 @@ ms.locfileid: "44796684"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="excel"></a>Excel
 
 - <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
@@ -1216,7 +1256,7 @@ ms.locfileid: "44796684"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
+### <a name="resolved-issues"></a>已解決的問題
 ### <a name="access"></a>Access
 
 - Access 範本應不再導致資料庫中的附件欄出現故障。 個體化範本後，您現在應該可以將附件欄新增至資料庫。
