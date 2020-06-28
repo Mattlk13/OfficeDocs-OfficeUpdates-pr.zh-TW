@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874789"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906908"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 通道的版本資訊
 
@@ -30,6 +30,34 @@ ms.locfileid: "44874789"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2007-june-26"></a>版本2007：6月26日
+*版本2007（組建13020.20004）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修復此問題：連結的資料表管理員會在重新整理連結的 SQL 資料表時，提示輸入主鍵。
+- 我們已修復此問題：查詢編輯器中的查詢會滾出視圖。
+- 我們已修復此問題：執行查詢所花費的時間大約是預期完成時間的兩倍。
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了使用者無法「傳送為」或「代理傳送」之通訊群組清單的問題。
+- 我們已修復此問題：在郵件中插入影像，然後將郵件儲存為草稿，會導致重新調整圖像的大小。
+- 我們修正了導致 NDR 郵件的本文在編輯主旨之後從 Unicode 變更為 ASCII 的問題。
+
+### <a name="project"></a>Project
+
+- 我們已修正已停用政府社區雲端環境中的專案 Planner 連結的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正此問題：在 Word、Excel 或 PowerPoint 檔案中插入以可伸縮的向量圖形（SVG）中的文字時，在將其插入 Word、Excel 或檔案之後，請先將該檔儲存並關閉，然後再重新開啟檔案。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-june-19"></a>版本2007：6月19日
 *版本2007（組建13012.20000）*
