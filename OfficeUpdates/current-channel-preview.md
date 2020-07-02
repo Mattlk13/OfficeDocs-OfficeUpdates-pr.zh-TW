@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889059"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001177"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 的版本資訊目前通道（預覽）
 
@@ -362,10 +362,7 @@ ms.locfileid: "44889059"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
 
-- **使用 Excel 資料類型從 POWER BI 取得組織資料：** 您可以使用 Excel 資料類型插入組織中的資料。 轉換活頁簿中的儲存格並取得其他資訊，並隨時重新整理資料！
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1133,7 +1130,7 @@ ms.locfileid: "44889059"
 ## <a name="version-2002-march-05"></a>版本 2002：3 月 5 日
 *版本 2002 (組建 12527.20278)*
 
-- 不同的錯誤 (bug) 和效能修正。
+- 各種錯誤和效能修正。
 
 
 ## <a name="version-2002-march-04"></a>版本 2002：3 月 4 日

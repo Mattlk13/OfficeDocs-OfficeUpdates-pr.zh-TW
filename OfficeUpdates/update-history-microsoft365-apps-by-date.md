@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 7acd6650c3c084208358cc6cf72f2b4961ff9e6b
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 5307b0e58f5419c004594df7a21b3c9959c35711
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874809"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001160"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -36,7 +36,7 @@ ms.locfileid: "44874809"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2005<br/>|12827.20470<br/>|2020年6月24日<br/>|版本2006發行版本本<br/>|
+|目前通道<br/>|2006<br/>|13001.20266<br/>|2020年6月30日<br/>|版本2007發行版本本<br/>|
 |每月企業頻道<br/>|2004<br/>|12730.20430<br/>|2020年6月9日<br/>|2020月11日<br/>|
 |每月企業頻道<br/>|2003<br/>|12624.20708<br/>|2020年6月9日<br/>|2020 年 7 月 14 日<br/>|
 |半年企業通道 (預覽)<br/>|2002<br/>|12527.20720<br/>|2020年6月9日<br/>|2020 年 9 月 8 日<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "44874809"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|6 月 30 日|[版本2006（組建13001.20266）](current-channel.md#version-2006-june-30)| | | |
 |2020|6 月 24日|[版本2005（組建12827.20470）](current-channel.md#version-2005-june-24)| | | |
 |2020|6月9日|[版本2005（組建12827.20336）](current-channel.md#version-2005-june-09)|[版本2004（組建12730.20430）](monthly-enterprise-channel.md#version-2004-june-09)<br/>[版本2003（組建12624.20708）](monthly-enterprise-channel.md#version-2003-june-09)|[版本2002（組建12527.20720）](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[版本1908（組建11929.20838）](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[版本1902（組建11328.20602）](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|02年6月|[版本2005（組建12827.20268）](current-channel.md#version-2005-june-02)| | | |

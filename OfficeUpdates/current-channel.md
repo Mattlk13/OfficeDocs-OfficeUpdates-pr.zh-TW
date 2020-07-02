@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874779"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015625"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中目前通道版本的發行附注
 
@@ -31,6 +31,89 @@ ms.locfileid: "44874779"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-june-30"></a>版本2006：6月30日
+*版本2006（組建13001.20266）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **更長的檔案名：** Excel for Windows desktop 現在支援具有最多400個字元之名稱及路徑的 OneDrive/SharePoint 檔案。
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及的選擇器很煩人，一點都不好用？ 現在您可以視需要將其關閉了。<br />在[部落格文章](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)中查看詳細資料
+
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **新增至 Outlook toast 通知的其他按鈕：** 在 Windows 10 上執行 Outlook 時，[快速動作] 按鈕現在會出現在 Outlook toast 通知中。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **改進 PowerPoint 中的資料流程影片效能：** 我們已改進 Microsoft Stream 影片的播放效能，以盡可能縮短影片載入時間，並產生流暢的觀賞體驗。 使用 Microsoft Stream 的公司影片來建立更佳的簡報。
+
+### <a name="teams"></a>Teams
+
+- **PSTN 參與者電話號碼會從外部使用者遮罩：** 針對其團隊會議啟用音訊會議的客戶，我們會將 PSTN 參與者的電話號碼遮罩到從組織外部加入的使用者。
+
+- **簡化通道通知設定的簡化方法：** 透過「小組」和「頻道」清單或是來自通道標頭，使用者可以透過單一按一下或深入瞭解自訂設定其慣用的相片順序，快速管理其通知設定。
+
+- **Walkie Talkie：** 使用推入交談立即語音通訊。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修復此問題：執行查詢所花費的時間大約是預期完成時間的兩倍。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正此問題，會在儲存至 SharePoint/OneDrive 時，將自訂功能區索引標籤的 CustomUI XML 所導致移除。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決這項問題：讓使用者能夠透過拖放設定為4501年1月1日取得的附件，查看其複製到其檔案系統的建立日期。
+
+- 解決問題，導致使用者進行共用行事曆改進，以查看行事曆失敗。
+
+
+- 解決問題，導致使用者看到 Outlook 持續提示他們執行收件匣修復工具。
+
+
+- 解決當啟用 cloud 設定時，Ctrl + 按一下以停止運作的問題。
+
+
+- 解決此問題：搜尋功能的建議功能會傳回無結果，並讓使用者沒有任何選項可提交新的功能觀點。
+
+
+### <a name="project"></a>Project
+
+- 已修正此問題：如果 URL 以 .com 結尾，則無法從 Project Web App 開啟 Project 桌面用戶端中的專案。
+
+
+- 已修正此問題：當專案摘要任務（專案開始/任務欄位）變更時，不會觸發 ProjectBeforeTaskChange 事件。
+
+
+- 已修正此問題：標示為100% 完成的任務誤變更為小於100% 完成。
+
+
+### <a name="word"></a>Word
+
+- 已解決當 URL 包含查詢元件時，在自訂檔傳遞（aspx）中開啟 Word 檔的問題。
 
 
 
@@ -397,7 +480,7 @@ ms.locfileid: "44874779"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
