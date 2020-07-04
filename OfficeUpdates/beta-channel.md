@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906908"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037077"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 通道的版本資訊
 
@@ -30,6 +30,58 @@ ms.locfileid: "44906908"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2007-july-03"></a>版本2007：03年7月
+*版本2007（組建13029.20006）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用快速輪詢在 Outlook 中建立輪詢：** 在電子郵件中輕鬆建立投票、收集投票和查看結果[深入瞭解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **新聊天室查找程式：** 依不同的功能搜尋會議室。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了在某些版本的 Excel 中所建立的資料模型資料表無法在 [資料表預覽 ' 中看到的問題，即使與該表相關聯的查詢尚未編輯。
+- 我們已修復此問題：在 [定義名稱 \ 套用名稱] 對話方塊中停用「忽略相對/絕對」參考會導致公式無法運作。
+- 已修正此問題：清除高級資料篩選可能會遺失表格格式。
+- 我們已修復此問題：內嵌 PDF 檔的完整路徑會顯示在檔標題中，而不只是檔案名。
+- 我們已修復此問題：停用 Wolfram cloud connector，然後儲存並重新開啟 Excel 活頁簿後，可能會造成損毀。
+- 我們已修復此問題：在啟用求解增益集的情況下啟動 Excel 時，將會造成損毀。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修復此問題：如果在 ' To」行有超過130個收件者，則 Outlook 會懸掛，而且我們也會提升文字的呈現效能。
+- 我們已在「待辦事項列」中修正問題，其中會跨越超過兩天的事件，顯示所有後續天數的相同結束時間。
+- 我們已修正問題，導致 Outlook 使用者在使用共用行事曆後，可讓 Outlook 看到其郵寄清單停止更新的數分鐘。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正此問題：將 HTML 貼到投影片上的文字區時，會改為貼到在投影片頂端建立的文字方塊。
+- 我們已修正此問題：選取簡報者視圖中的所有投影片，然後使用 Alt + Tab 退出簡報者視圖，並回到投影片放映，然後按一下 [結束顯示] 會導致未處理的例外狀況。
+
+### <a name="project"></a>Project
+
+- 我們修正了開啟特定 XML 檔案時，專案可能會損毀的問題。
+- 我們已修復此問題：如果文件庫是新式模式，您無法從 SharePoint 文件庫開啟專案檔案。
+- 已修正此問題：如果 URL 以 ' .com ' 結尾，則無法從 Project Web App 開啟 Project 桌面用戶端中的專案。
+
+### <a name="word"></a>Word
+
+- 我們在共同撰寫模式期間修正問題當發生合併衝突，且使用者已選擇捨棄變更時，我們不再顯示可儲存或放棄變更的選項。
+- 我們已修正此問題：嘗試以新名稱儲存包含宏的檔案時，無論使用者輸入什麼內容，都不會以 .docx 副檔名及 filename ' WRO0004.docx ' 來儲存該檔。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-june-26"></a>版本2007：6月26日
 *版本2007（組建13020.20004）*
@@ -562,7 +614,7 @@ ms.locfileid: "44906908"
 
 - 此變更修正了使用 [全字拼寫須相符] 來尋找特殊字元時，不一定能正常運作的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
