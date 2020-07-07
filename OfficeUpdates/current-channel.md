@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015625"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049483"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中目前通道版本的發行附注
 
@@ -824,3 +823,7 @@ ms.locfileid: "45015625"
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
+
+[//]: # (不修改系統管理中心中繼資料內容的開始)
+[//]: # (|Win32 |抄送 |生產 | | 16.0.13001.20266 | 版本-2006-6 月-30 |)
+[//]: # (不要修改系統管理中心中繼資料內容的結尾)
