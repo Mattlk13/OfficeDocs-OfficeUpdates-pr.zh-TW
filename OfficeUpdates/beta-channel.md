@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037077"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052626"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 通道的版本資訊
 
@@ -997,3 +997,7 @@ ms.locfileid: "45037077"
 - 解決可能導致挪威耐諾斯克 (nn-no) 校訂工具套件安裝不正確的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+[//]: # (不修改系統管理中心中繼資料內容的開始)
+[//]: # (不要修改系統管理中心中繼資料內容的結尾)
