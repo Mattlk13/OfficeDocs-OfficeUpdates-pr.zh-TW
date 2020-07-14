@@ -1,5 +1,5 @@
 ---
-title: Beta 通道的版本資訊
+title: Beta 版通道的版本資訊
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
-ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
-ms.translationtype: MT
+ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
+ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45052626"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45098667"
 ---
-# <a name="release-notes-for-beta-channel"></a>Beta 通道的版本資訊
+# <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
-本文包含適用于 Word、Excel、PowerPoint、Outlook、Access 和 Project for Windows desktop 的 Beta 通道組建的版本資訊。 我們每週都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常會在一段時間內針對 Beta 通道推出功能（甚至是修正）。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
+本文包含 Word、Excel、PowerPoint、Outlook、Access 和適用於 Windows 電腦的 Project 的 Beta 版通道組建版本資訊。 每週，我們都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常每隔一段時間會推出 Beta 版通道新功能 (某些時候還有修正)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
 
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -31,17 +31,39 @@ ms.locfileid: "45052626"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2007-july-03"></a>版本2007：03年7月
-*版本2007（組建13029.20006）*
+## <a name="version-2008-july-10"></a>版本 2008：7 月 10 日
+*版本 2008 (組建 13102.20002)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正，如果未核取 [下載共用資料夾]，共用行事曆會議 [回覆選項] 中缺少 [允許轉寄] 選項的問題。
+- 我們已修正，即使使用者具有適當的列印權限也會在停用狀態下顯示列印按鈕的問題。
+
+### <a name="project"></a>Project
+
+- 我們已修正如果您嘗試從 Project 將 PDF/XPS 儲存至 SharePoint 文件庫，沒有發生任何動作的問題。
+
+### <a name="word"></a>Word
+
+- 我們已修正將某些文字及影像貼到 [註解] 方塊之後，Word 停止回應的問題。
+- 我們已修正刪除最後一個註解後，[新增批註] 按鈕停用的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-july-03"></a>版本 2007：7 月 3 日
+*版本 2007 (組建 13029.20006)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **使用快速輪詢在 Outlook 中建立輪詢：** 在電子郵件中輕鬆建立投票、收集投票和查看結果[深入瞭解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並查看電子郵件中的結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **新聊天室查找程式：** 依不同的功能搜尋會議室。
+- **新的會議室尋找工具：** 依不同功能搜尋會議室。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -52,110 +74,110 @@ ms.locfileid: "45052626"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 我們修正了在某些版本的 Excel 中所建立的資料模型資料表無法在 [資料表預覽 ' 中看到的問題，即使與該表相關聯的查詢尚未編輯。
-- 我們已修復此問題：在 [定義名稱 \ 套用名稱] 對話方塊中停用「忽略相對/絕對」參考會導致公式無法運作。
-- 已修正此問題：清除高級資料篩選可能會遺失表格格式。
-- 我們已修復此問題：內嵌 PDF 檔的完整路徑會顯示在檔標題中，而不只是檔案名。
-- 我們已修復此問題：停用 Wolfram cloud connector，然後儲存並重新開啟 Excel 活頁簿後，可能會造成損毀。
-- 我們已修復此問題：在啟用求解增益集的情況下啟動 Excel 時，將會造成損毀。
+- 我們修正以下問題：在特定版本 Excel 中建立的資料模型表格無法在 [表格預覽] 中看到，即使與該表相關聯的查詢尚未編輯。
+- 我們已修正在 [定義名稱\套用名稱] 對話方塊中停用 [忽略相對/絕對] 參照會導致公式無法使用的問題。
+- 我們已修正清除 [進階資料篩選] 可能會遺失表格格式設定的問題。
+- 我們已修正嵌入式 PDF 文件的完整路徑顯示在文件標題，而不只是檔案名稱的問題。
+- 我們已修正停用 Wolfram 雲端連接器之後，儲存並重新開啟 Excel 活頁簿可能會導致當機的問題。
+- 我們已修正啟動 Excel 時啟用 [規劃求解] 增益集將導致當機的問題。
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修復此問題：如果在 ' To」行有超過130個收件者，則 Outlook 會懸掛，而且我們也會提升文字的呈現效能。
-- 我們已在「待辦事項列」中修正問題，其中會跨越超過兩天的事件，顯示所有後續天數的相同結束時間。
-- 我們已修正問題，導致 Outlook 使用者在使用共用行事曆後，可讓 Outlook 看到其郵寄清單停止更新的數分鐘。
+- 我們已修正如果在 [收件者] 行上有超過 130 個收件者，Outlook 會當機的問題，且我們也改善了呈現文字的效能。
+- 我們已修正「待辦事項列」中跨越兩天以上的活動，在後續的所有日期中顯示相同結束時間的問題。
+- 我們已修正導致 Outlook 使用者在使用共用行事曆後，在幾分鐘內訊息清單停止更新的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們已修正此問題：將 HTML 貼到投影片上的文字區時，會改為貼到在投影片頂端建立的文字方塊。
-- 我們已修正此問題：選取簡報者視圖中的所有投影片，然後使用 Alt + Tab 退出簡報者視圖，並回到投影片放映，然後按一下 [結束顯示] 會導致未處理的例外狀況。
+- 我們已修正將 HTML 貼到投影片上的文字區域時，會改為貼上投影片最上方所建立的文字方塊中的問題。
+- 我們已修正在 [簡報者檢視畫面] 中選取所有投影片、使用 Alt+Tab 退出 [簡報者檢視畫面] 並返回投影片放映，然後按一下 [結束放映] 時，將導致未處理例外狀況的問題。
 
 ### <a name="project"></a>Project
 
-- 我們修正了開啟特定 XML 檔案時，專案可能會損毀的問題。
-- 我們已修復此問題：如果文件庫是新式模式，您無法從 SharePoint 文件庫開啟專案檔案。
-- 已修正此問題：如果 URL 以 ' .com ' 結尾，則無法從 Project Web App 開啟 Project 桌面用戶端中的專案。
+- 我們已修正 Project 在開啟特定 XML 檔案時可能當機的問題。
+- 我們已修正如果文件庫處於新式模式，您無法從 SharePoint 文件庫開啟 Project 檔案的問題。
+- 我們已修正 URL 以 '.com' 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
 
 ### <a name="word"></a>Word
 
-- 我們在共同撰寫模式期間修正問題當發生合併衝突，且使用者已選擇捨棄變更時，我們不再顯示可儲存或放棄變更的選項。
-- 我們已修正此問題：嘗試以新名稱儲存包含宏的檔案時，無論使用者輸入什麼內容，都不會以 .docx 副檔名及 filename ' WRO0004.docx ' 來儲存該檔。
+- 我們已修正在共同撰寫模式期間，當發生合併衝突且使用者已選取放棄變更時，我們不再顯示儲存或捨棄變更選項的問題。
+- 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以 .docx 副檔名和檔案名稱 'WRO0004.docx' 儲存，進而導致文件無法使用。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2007-june-26"></a>版本2007：6月26日
-*版本2007（組建13020.20004）*
+## <a name="version-2007-june-26"></a>版本 2007：6 月 26 日
+*版本 2007 (組建 13020.20004)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們已修復此問題：連結的資料表管理員會在重新整理連結的 SQL 資料表時，提示輸入主鍵。
-- 我們已修復此問題：查詢編輯器中的查詢會滾出視圖。
-- 我們已修復此問題：執行查詢所花費的時間大約是預期完成時間的兩倍。
+- 我們已修正在重新整理連結的 SQL 資料表時，連結資料表管理員會提示您輸入主要索引鍵的問題。
+- 我們已修正 [查詢編輯器] 中的查詢捲出畫面的問題。
+- 我們已修正執行查詢的時間大約比預期完成時間兩倍久的問題。
 
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了使用者無法「傳送為」或「代理傳送」之通訊群組清單的問題。
-- 我們已修復此問題：在郵件中插入影像，然後將郵件儲存為草稿，會導致重新調整圖像的大小。
-- 我們修正了導致 NDR 郵件的本文在編輯主旨之後從 Unicode 變更為 ASCII 的問題。
+- 我們已修正使用者無法使用通訊群組清單中的「傳送為」或「代理傳送者」的問題。
+- 我們已修正在郵件中插入影像內嵌，然後將郵件儲存為草稿將會重新調整影像大小的問題。
+- 我們已修正在編輯主旨之後，導致 NDR 郵件的本文從 Unicode 變更為 ASCII 的問題。
 
 ### <a name="project"></a>Project
 
-- 我們已修正已停用政府社區雲端環境中的專案 Planner 連結的問題。
+- 我們已修正政府社群雲端中的 Project Planner 連結已停用的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修正此問題：在 Word、Excel 或 PowerPoint 檔案中插入以可伸縮的向量圖形（SVG）中的文字時，在將其插入 Word、Excel 或檔案之後，請先將該檔儲存並關閉，然後再重新開啟檔案。
+- 我們已修正將插入可縮放向量圖形 (SVG) 中的文字插入到 Word、Excel 或 PowerPoint 檔案、儲存並關閉檔案，然後重新開啟檔案後，難以辨識的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2007-june-19"></a>版本2007：6月19日
-*版本2007（組建13012.20000）*
+## <a name="version-2007-june-19"></a>版本 2007：6 月 19 日
+*版本 2007 (組建 13012.20000)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正此問題：將活頁簿儲存到 SharePoint/OneDrive 時，已移除自訂功能區索引標籤的 CustomUI XML。
-- 我們已修復此問題：當檔案只有建議唯讀時，活頁簿是唯讀的。
+- 我們已修正將活頁簿儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 遭移除的問題。
+- 我們已修正當建議以唯讀方式使用檔案時，活頁簿處於唯讀狀態的問題。
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修復此問題：輸入法編輯器（IME）視窗會在使用多個具有不同解析度的監視器時，重迭透過 IME 輸入的基準文字。
-- 我們修正了導致使用者在關閉先前所儲存之約會時看到下列錯誤的問題：「無法儲存該專案，因為另一個使用者或另一個視窗已變更此專案。 您要在預設資料夾中為專案製作複本嗎？
-- 我們已修復此問題：迷你日曆中的日期無法以粗體顯示給日本的使用者。
-- 我們已修正問題，讓行事曆提醒無法顯示在一周內所到來會議的確切時間。
+- 我們已修正以下問題：當使用多個不同解析度的監視器時，輸入法編輯器 (IEM) 視窗會覆蓋透過 IME 輸入的文字。
+- 我們已修正導致使用者在關閉先前儲存的約會時看到下列錯誤的問題：「項目無法儲存，因為已被其他使用者或已在其他視窗中變更過。 您要在預設資料夾為這個項目建立複本?」
+- 我們已修正迷你行事曆中的日期無法針對日本使用者顯示粗體的問題。
+- 我們已修正行事曆提醒無法針對一週內即將到來的會議顯示確切時間的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們已修復此問題：在即時共同撰寫會話期間，使用者的目前狀態指示器未在共同撰寫圖庫中重新整理。
+- 我們已修正在即時共同撰寫工作階段期間，使用者的目前狀態色彩指示器無法在共同撰寫文件庫中重新整理的問題。
 
 ### <a name="project"></a>Project
 
-- 我們已修復此問題：固定工期工作100已完成，但未指定實際完成時間，任務% 完成會顯示為小於100%。
+- 我們已修正以下問題：如果固定工期的任務已 100% 完成，但未指定 [實際完成日期]，則任務的完成 % 將顯示為低於 100%。
 
 ### <a name="word"></a>Word
 
-- 我們已修復此問題： HTML 超連結色彩不會正確地呈現。
+- 我們已修正 HTML 超連結色彩無法正確呈現的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修復此問題：不是以 HTTP 或 HTTPs 為基礎的 URLs 未顯示于最近使用過的清單中。
+- 我們已修正非 HTTP 或 HTTPS 型 URL 未顯示在 [最近用過的] 清單中的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2007-june-12"></a>版本2007：6月12日
-*版本2007（組建13006.20002）*
+## <a name="version-2007-june-12"></a>版本 2007：6 月 12 日
+*版本 2007 (組建 13006.20002)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **使用資料類型從 POWER BI 取得組織資料：** Power BI 的 Excel 資料類型現在，使用 Office 365 E5/A5 或 Microsoft 365 E5/A5，在組織中的內部部署。 取得所需的資訊並輕鬆重新整理，對許多日常工作流程來說都很重要。 我們為您提供公司或組織資訊從 Power BI 存取為 Excel 中的資料類型，其可擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
+- **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 E5/A5 或 Microsoft 365 E5/A5 之組織的測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -166,41 +188,41 @@ ms.locfileid: "45052626"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了導致 Microsoft Access 無法在連結的 SQL Server 資料表中識別 Identity 資料行的問題，這可能會導致資料列的報告未正確地刪除。
+- 我們已修正導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
 
 ### <a name="excel"></a>Excel
 
-- 我們修正了雷達圖的主要格線無法正確格式化的問題。
+- 我們已修正雷達圖的主要格線無法正確設定格式的問題。
 
 ### <a name="project"></a>Project
 
-- 我們已修復此問題：當專案摘要任務（專案開始/任務欄位）變更時，不會觸發 ProjectBeforeTaskChange 事件。
-- 我們已修復此問題：基準重設或更新可能會變更時間分段預算成本/工時資源，而基線可能會反映不正確的預算值。
+- 我們已修正當專案摘要工作，或專案 [開始/工作] 欄位變更時，ProjectBeforeTaskChange 事件無法觸發的問題。
+- 我們已修正以下問題：比較基準重設或更新可能會變更時間分段預算成本/工時資源，且比較基準反映不正確的預算值。
 
 ### <a name="word"></a>Word
 
-- 我們已修復此問題：在 [批註] 窗格中透過 Office 功能區中的 [清除格式] 按鈕來清除格式設定的功能無法運作。
-- 我們已修復此問題：在未顯示尺規時變更表格的大小，造成其他應用程式在後臺執行的其他應用程式開始閃爍。
-- 我們已修復此問題：在共同撰寫模式中，批註回復有時候不會出現在 [批註] 窗格中，但會顯示在 [修訂] 窗格中。
-- 我們已修復此問題：如果 Word 列出超過50的熱門檔案，然後在儲存及開啟檔之後，即使尚未對該檔進行任何修訂，也會顯示歷程記錄。
+- 我們已修正使用 Office 功能區中的 [清除格式設定] 按鈕清除 [註解] 窗格中的格式設定時，無法運作的問題。
+- 我們已修正當尺規未顯示時變更表格大小，導致在背景中執行其他應用程式開始閃爍的問題。
+- 我們已修正在共同撰寫模式中，註解回覆有時候不會顯示在 [註解] 窗格中，而是顯示在 [修訂] 窗格中的問題。
+- 我們已修正以下問題：如果 Word 經常開啟的文件清單多於 50 個，然後儲存並開啟文件後，即使該文件沒有進行任何修訂，也會顯示歷程記錄。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2006-june-05"></a>版本2006：5月5日
-*版本2006（組建13001.20002）*
+## <a name="version-2006-june-05"></a>版本 2006：6 月 5 日
+*版本 2006 (組建 13001.20002)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中協同作業時排序/篩選：** 您現在可以在與其他人共同作業時，排序和篩選您的 Excel 檔案。 這項新功能可防止您在共同撰寫檔時，受到其他使用者的排序和篩選的影響。
+- **在 Excel 中進行共同作業時排序/篩選：** 您現在可以在與其他人共同作業時，同時排序和篩選您的 Excel 檔案。 這項新功能可防止您在共同撰寫文件時，受到其他使用者的排序和篩選的影響。
 
-- **在 Excel 內從 POWER BI 建立資料集的 PivotTables：** 您可以在 Excel 中建立連接至儲存于 Power BI 之資料集的 PivotTables，只需按幾下滑鼠即可。這樣做可讓您最適合 PivotTables 和 Power BI。 使用您的安全 Power BI 資料集的 PivotTables，計算、匯總及分析您的資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。 如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
-- **快速重新開啟先前會話中的專案：** 我們新增了一個選項，可快速重新開啟先前 Outlook 會話中的專案。 Outlook 是否會損毀或關閉它，您現在可以在重新開啟應用程式時快速重新開機專案。 此功能預設為開啟。 若要將它關閉，請移至 [選項] > 一般 > 啟動選項]。
+- **快速重新開啟上一個工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。 不管 Outlook 當機或您將其關閉，您現在可以在重新開啟應用程式時快速重新啟動項目。 這項功能預設為啟用。 若要將它關閉，請移至 [選項] > [一般] > [啟動選項]。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -212,98 +234,98 @@ ms.locfileid: "45052626"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 我們已修正此問題：圖表座標軸上的自訂值將無法正確套用。
-- 我們已修復此問題：在儲存檔案時，包含具有定義名稱之多個公式的工作表會導致較長的時間。
+- 我們已修正圖表座標軸上的自訂值無法正確套用的問題。
+- 我們已修正包含多個含有定義名稱的公式會導致儲存檔案時間加長的問題。
 
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了輸入法（輸入法編輯器）視窗會在使用多個具有不同解析度的監視器時，與使用 IME 輸入的基準文字重迭的問題。
-- 我們已修復此問題：在撰寫新的電子郵件訊息時，查看範本會導致系統損毀。
-- 我們修正了使用者無法在 Outlook 版本1911之後 Exchange 2010 公用資料夾的問題。
-- 已修正此問題：已停用 Office 功能區中群組行事曆的分類按鈕。
-- 我們已修復此問題：會使發生衝突之連絡人的使用者在 Outlook 中經歷損毀。
-- 我們已修正此問題：在高 DPI 顯示器上，使用者已遺漏資料夾內容中的「線上封存」下拉式清單。
-- 我們已修正此問題：當使用者使用純文字電子郵件中的超連結時，使用者在 Outlook 中遇到了損毀問題。
-- 我們修正了導致 Outlook 無法剖析以 RFC2231 編碼的長檔名的問題。
-- 我們修正了導致 Outlook 使用者在使用螢幕閱讀器時遇到間歇性懸掛的問題。
+- 我們已修正以下問題：當使用多個不同解析度的監視器時，輸入法編輯器 (IEM) 視窗會覆蓋透過 IME 輸入的文字。
+- 我們已修正在撰寫新電子郵件訊息時，檢視範本會導致當機的問題。
+- 我們已修正在 Outlook 版本 1911之後，使用者無法使用 Exchange 2010 公用資料夾的問題。
+- 我們已修正在 Office 功能區中，群組行事曆的 [分類] 按鈕已停用的問題。
+- 我們已修正具有衝突連絡人的使用者在 Outlook 中遇到當機的問題。
+- 我們已修正導致高 DPI 監視器上的使用者遺失資料夾屬性中的 [線上封存] 下拉式功能表的問題。
+- 我們已修正當處理純文字電子郵件中的超連結時，導致使用者遇到 Outlook 當機的問題。
+- 我們已修正導致 Outlook 無法剖析使用 RFC2231 編碼的長檔名的問題。
+- 我們已修正導致 Outlook 使用者在使用螢幕助讀程式時遇到間歇性當機的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們已修正使用以表單驗證的方式開啟伺服器設定檔案的問題。
-- 我們已修復此問題：具有內嵌圖表/活頁簿的 PowerPoint 檔案可能會導致儲存檔案失敗。
-- 我們已修復此問題：使用者已關閉的批註窗格會自動重新開啟。
-- 我們已修復此問題：一張投影片上的投影片編輯器會與下一張投影片交疊。
+- 我們已修正使用表單型驗證開啟伺服器設定的檔案時發生的問題。
+- 我們已修正具有內嵌圖表/活頁簿的 PowerPoint 檔案可能會導致儲存檔案失敗的問題。
+- 我們已修正使用者關閉的 [註解] 窗格會自動重新開啟的問題。
+- 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
 ### <a name="project"></a>Project
 
-- 已修正此問題：刪除其父項計畫後，無法刪除或重新指派孤立的工作。
+- 我們已修正在刪除孤立工作的父計畫之後，無法刪除或重新指派孤立工作的問題。
 
 ### <a name="word"></a>Word
 
-- 我們修正了批註窗格中的時間戳記不是以系統地區設定時間為基礎的問題。
-- 我們修正了 web 應用程式與桌面應用程式之間的批註未同步處理的問題。
+- 我們已修正 [註解] 窗格中的時間戳記不是根據系統地區設定時間的問題。
+- 我們已修正網頁應用程式與傳統型應用程式之間的註解未同步處理的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version2006may29"></a>版本2006：5月29日
-*版本2006（組建12920.20000）*
+## <a name="version2006may29"></a>版本 2006：5 月 29 日
+*版本 2006 (組建 12920.20000)*
 
 ### <a name="featureupdates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **新增至 Outlook toast 通知的其他按鈕：** 快速動作按鈕現在會出現在 Windows 10 上執行 Outlook 的 Outlook toast 通知中。
+- **新增至 Outlook 快顯通知的其他按鈕：**[快速動作] 按鈕現在會於在 Windows 10 上執行 Outlook 時顯示在 Outlook 快顯通知中。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改進 PowerPoint 中的資料流程影片效能：** 我們已改進 Microsoft Stream 影片的播放效能，以盡可能縮短影片載入時間，並產生流暢的觀賞體驗。  使用 Microsoft Stream 的公司影片來建立更佳的簡報。
+- **PowerPoint 中改善的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。  您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolvedissues"></a>解決的問題
 
 ### <a name="excel"></a>Excel
 
-- 我們已修復此問題：在使用 OneDrive 時，Excel 會不時關閉。
-- 我們已修復此問題：按一下相同活頁簿中的已加書簽的超連結時，將會隱藏該活頁簿。
-- 已修正此問題：某些複本和貼上的圖表連結使用對應的磁片磁碟機位址，而不是通用位址。
-- 我們已修復此問題：在使用 Ctrl + Shift + 箭號鍵以在 Excel 視窗透過團隊共用時，Excel 可能會變得無回應。
+- 我們已修正在使用 OneDrive 時，Excel 偶爾會關閉的問題。
+- 我們已修正在相同活頁簿中按一下加入書籤的超連結會導致活頁簿隱藏的問題。
+- 我們已修正某些複製和貼上的圖表連結使用的是映射磁碟機位址，而不是通用位址的問題。
+- 我們已修正當透過 Teams 共用 Excel 視窗時，使用 Ctrl+Shift+方向鍵捲動後，Excel 可能會無法回應的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們修正了在使用滑鼠滾輪縮放後，投影片未居中的問題。
+- 我們已修正使用滑鼠滾輪縮放後，投影片並未置中的問題。
 
 ### <a name="word"></a>Word
 
-- 我們已修復此問題：將文字複製並貼到批註窗格時，不會顯示。
-- 我們已修正此問題：批註提示氣泡在100% 縮放顯示時會出現模糊。
-- 我們已修復此問題：啟用原則 Word 2007 和更新版本的二進位檔案和範本會導致一些共同撰寫案例失敗。
-- 我們已修復此問題：不會開啟具有長路徑名稱（大於32K）的檔案，也不會顯示適當的錯誤訊息。
+- 我們已修正在 [註解] 窗格中複製及貼上文字無法顯示的問題。
+- 我們已修正註解提示泡泡在100% 縮放比例中顯示模糊的問題。
+- 我們已修正啟用原則 Word 2007 及更新版本的二進位檔案和範本會導致部分共同撰寫案例失敗的問題。
+- 我們已修正具長路徑名稱 (大於 32K) 的檔案無法開啟，且未顯示適當的錯誤訊息的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version-2006-may-22"></a>版本2006：5月22日
-*版本2006（組建12914.20000）*
+## <a name="version-2006-may-22"></a>版本 2006：5 月 22 日
+*版本 2006 (組建 12914.20000)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **儲存至固定資料夾：** 固定資料夾可讓您更輕鬆地儲存 Office 檔案。 我們收到意見反應，讓使用者在儲存新檔案時，更能控制可使用的資料夾。 我們非常高興可為您提供新功能：在 [儲存] 對話方塊中固定您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 及 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+- **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。 我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **儲存至固定資料夾：** 固定資料夾可讓您更輕鬆地儲存 Office 檔案。 我們收到意見反應，讓使用者在儲存新檔案時，更能控制可使用的資料夾。 我們非常高興可為您提供新功能：在 [儲存] 對話方塊中固定您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 及 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+- **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。 我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
 ### <a name="word"></a>Word
 
-- **儲存至固定資料夾：** 固定資料夾可讓您更輕鬆地儲存 Office 檔案。 我們收到意見反應，讓使用者在儲存新檔案時，更能控制可使用的資料夾。 我們非常高興可為您提供新功能：在 [儲存] 對話方塊中固定您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 及 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+- **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。 我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -314,35 +336,35 @@ ms.locfileid: "45052626"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 我們修正了錯誤訊息：「另一個使用者目前無法關閉此活頁簿」，因為增益集是以字母順序，而不是以使用者指定的順序載入，所以會出現此問題。
-- 我們已修正此問題：在 Excel 與部分協力廠商的輔助技術應用程式之間管理字體時，記憶體遭到損毀。
-- 我們已修復此問題：當增益集要求包含具有 noSelect 鎖定之圖形的工作表上的主項目目時，Excel 會損毀。
+- 我們已修正因為增益集是以字母順序載入，而不是以使用者指定的順序載入，而顯示 [這個活頁簿目前正由其他活頁簿所參考中，不可關閉] 錯誤訊息的問題。
+- 我們已修正管理 Excel 與部分協力廠商輔助技術應用程式之間的字型時發生記憶體損毀的問題。
+- 我們已修正當增益集要求工作表 (包含使用 noSelect 鎖定的圖形) 上的主機項目時，Excel 可能當機的問題。
 
 ### <a name="outlook"></a>Outlook
 
-- 已修正此問題：當使用者在資料夾之間移動專案時，未能正確地激發 BeforeItemMove 事件。
-- 我們已修復此問題：使用者看到跨越午夜臨界值的行事曆專案，視為全天事件。
-- 我們已修復此問題：當兩個增益集將按鈕新增至功能區中的相同群組時，Outlook 會當機。
-- 我們修正了使用者無法與來賓使用者共用行事曆的問題。
+- 我們已修正當使用者在資料夾之間移動項目時，Folder.BeforeItemMove 事件未正確觸發的問題。
+- 我們已修正使用者在橫跨午夜臨界值的行事曆項目中看到顯示為 [全天] 事件的問題。
+- 我們已修正當兩個增益集將按鈕新增到功能區中的相同群組時，Outlook 發生當機的問題。
+- 我們已修正使用者無法與來賓使用者共用行事曆的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們修正了簡報區域的放大和縮小導致縮放選取專案選取範圍與滑鼠指標之間的間隙。
+- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
 
 ### <a name="project"></a>Project
 
-- 已修正此問題：在按一下 [選項] 後，Project 會損毀。
+- 我們已修正在按一下 [選項] 之後 Project 會當機的問題。
 
 ### <a name="word"></a>Word
 
-- 我們已修正問題：批註中的超連結無法運作。
-- 我們修正了簡報區域的放大和縮小導致縮放選取專案選取範圍與滑鼠指標之間的間隙。
-- 我們已修正此問題：在行事曆 WordMail 中粘貼 HTML 時無法運作。
-- 我們已修復此問題：回復共同撰寫的會話中的批註有時會導致 Word 凍結。
+- 我們已修正註解中的超連結無法正常運作的問題。
+- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
+- 我們已修正無法將 HTML 貼入行事曆的 WordMail 的問題。
+- 我們已修正在共同撰寫工作階段中回覆註解有時會導致 Word 凍結的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2006-may-15"></a>版本2006：5月15日
+## <a name="version-2006-may-15"></a>版本 2006：5 月 15 日
 *版本 2006 (組建 12905.20000)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -350,19 +372,19 @@ ms.locfileid: "45052626"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **進行 PDF 連線：** 連接至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 ### <a name="outlook"></a>Outlook
 
-- **只尋找您需要**的專案：使用資料夾、寄件者、日期、附件資訊等選項來縮小搜尋範圍。
+- **找到您所需的資訊：** 使用資料夾、寄件者、日期、附件資訊等選項來縮小搜尋範圍。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **不需要簡報導覽裝置：您的 earbuds 包括：** 使用表面 Earbuds 來控制您的 PowerPoint 簡報。 重要：您必須在適用于 Windows 10 的「表面音訊」應用程式中搭配您的 Surface Earbuds，以便使用筆勢控制簡報。 在 Windows 10 上開始使用表面音訊應用程式的指示可于這裡取得。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **不需要簡報導覽裝置：有耳塞式耳機就夠了：** 使用您的 Surface Earbuds 控制 PowerPoint 簡報。 重要：您必須在 Windows 10 的 Surface 音訊應用程式中配對 Surface Earbuds，才能使用手勢來控制簡報。 在此取得 Windows 10 上 Surface 音訊應用程式入門的指示。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
-- **自動套用或建議敏感度標籤：** Office 可以建議或根據偵測到的敏感內容自動套用敏感度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -373,19 +395,19 @@ ms.locfileid: "45052626"
 ### <a name="resolved-issues"></a>解決的問題
 
 ### <a name="excel"></a>Excel
-- 我們修正了在使用者刪除合併欄時，改善使用者效能的問題。
-- <div>我們修正了導致印表機名稱重複出現在可用印表機清單中的問題。</div>
+- 我們已修正在使用者刪除合併的欄時，造成執行時間增加的問題。
+- <div>我們已修正導致印表機名稱在可用印表機清單中重複的問題。</div>
 
 ### <a name="powerpoint"></a>PowerPoint
-- 我們已修復此問題：使用英文（QWERTZ）鍵盤時，鍵盤快速鍵和拼寫檢查不會如預期的方式運作。
+- 我們已修正使用英文 (瑞士) (QWERTZ) 鍵盤時鍵盤快速鍵和拼字檢查無法正常運作的問題。
 
 ### <a name="word"></a>Word
-- 我們已修復此問題：在空白檔上新增批註時，不會執行任何動作。
-- 我們已修復此問題：在包含一百個專案的檔中插入或更新索引時，會導致應用程式當機。
-- 我們已修復此問題：自訂 xml 值開啟的檔案非常緩慢。
+- 我們已修正在空白文件中新增註解卻未執行任何動作的問題。
+- 我們已修正在含有一百個以上專案的檔中插入或更新索引的問題會導致應用程式當機。
+- 我們已修正具有自訂 xml 值的檔案在開啟時速度極度緩慢的問題。
 
 ### <a name="office-suite"></a>Office 套件
-- 我們已在 Visual Basic for Applications 中修正了 Microsoft Office 中的問題，在此情況下，Office 應用程式會在載入時，由 Office 應用程式查看包含對文件庫名稱或文件庫路徑中之 DBCS 字元的程式碼庫參考的某些 VBA 專案。
+- 我們已修正 Microsoft Office 中 Visual Basic for Applications 中的問題，其中特定 VBA 專案參考了程式庫名稱或程式庫路徑中有 DBCS 字元的程式碼程式庫，因而在載入時被 Office 應用程式視為損毀。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -614,7 +636,7 @@ ms.locfileid: "45052626"
 
 - 此變更修正了使用 [全字拼寫須相符] 來尋找特殊字元時，不一定能正常運作的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
@@ -999,5 +1021,6 @@ ms.locfileid: "45052626"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-[//]: # (不修改系統管理中心中繼資料內容的開始)
-[//]: # (不要修改系統管理中心中繼資料內容的結尾)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
