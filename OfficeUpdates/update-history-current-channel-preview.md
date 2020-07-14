@@ -1,5 +1,5 @@
 ---
-title: Office Current 通道的更新歷程記錄（預覽）
+title: Office 目前通道（預覽）更新歷程記錄
 ms.author: anankani
 author: anankani
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: f64aecd4727f710575d87312f00e4a65eb92ce72
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
-ms.translationtype: MT
+ms.openlocfilehash: cf1196ce142f481b62565cac610396c087e7c291
+ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889049"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "45094653"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 的 Office Current 的更新歷程記錄（預覽）
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道（預覽）更新歷程記錄
 
-你好，內部人員！ 如果您想要知道您是否已安裝最新的更新，或是要尋找最近的目前通道（預覽）組建的清單，您就在正確的位置。
-按一下[這裡](https://insider.office.com/)以取得預覽人員計畫的詳細資訊。
+測試人員，您好！ 如果您想知道是否已經安裝最新更新，或想尋找最新的目前通道 (預覽) 組建清單，那您來對地方了。
+若要深入瞭解測試人員計畫的詳細資訊，請按一下 [[這裡]](https://insider.office.com/)。
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Office Current 通道（預覽）版本與組建
+## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道（預覽）版本和組建
 
-如果您已登入目前通道（預覽）層級（先前稱為「內幕人員慢速」），則每月您會收到一次新的 Office 功能更新，再加上包含重要修正或安全性更新的後續組建。 下列清單顯示最近的目前通道（預覽）版本和內部版本，並**先列出最近發行的版本**。 新的組建包含舊版內部版本中包含的所有更新。
-若要尋找版本資訊，[請參閱](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview)。 此外，您還可以查看[Office 預覽人員的新功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
+如果您註冊的是目前通道 (預覽) 層級 (之前稱為 [測試人員 - 慢])，您大約每個月會收到一次 Office 功能更新，加上包含重要修正程式或安全性更新的後續組建。 下表顯示最新目前通道 (預覽) 版本和組建，當中會**優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
+若要尋找版本資訊，請 [參閱](https://docs.microsoft.com/zh-TW/OfficeUpdates/current-channel-preview)。 而且您也可以參閱 [Office 測試人員的新增功能](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24)。
 
 
 > [!IMPORTANT]
@@ -38,8 +38,11 @@ ms.locfileid: "44889049"
 
 [//]: # (DO NOT REMOVE)
 
+**2020年7月09日**<br/>
+版本2006（組建13001.20384）<br/>
+
 **2020年6月25日**<br/>
-版本2006（組建13001.20266）<br/>
+版本 2006 (組建 13001.20266)<br/>
 
 **2020年6月18日**<br/>
 版本2006（組建13001.20198）<br/>
@@ -47,14 +50,14 @@ ms.locfileid: "44889049"
 **2020年6月11日**<br/>
 版本2006（組建13001.20144）<br/>
 
-**2020年6月8日**<br/>
-版本2005（組建12827.20336）<br/>
+**2020年6月08日**<br/>
+版本 2005 (組建 12827.20336)<br/>
 
-**2020年6月4日**<br/>
+**2020年6月04日**<br/>
 版本2005（組建12827.20320）<br/>
 
 **2020年5月29日**<br/>
-版本2005（組建12827.20268）<br/>
+版本 2005 (組建 12827.20268)<br/>
 
 **2020年5月21日**<br/>
 版本2005（組建12827.20210）<br/>
