@@ -1,5 +1,5 @@
 ---
-title: 在2020中的半年 Enterprise 通道（預覽）版本的版本資訊
+title: 2020年的半年期企業通道（預覽版）發行記錄
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
-ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
-ms.translationtype: MT
+ms.openlocfilehash: 56aaac765769b1c132fb75d318baa1947ba90b4e
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44724955"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121763"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>在2020中的半年 Enterprise 通道（預覽）版本的版本資訊
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020年的半年期企業通道（預覽版）發行記錄
 
-這些版本資訊中提供的有關新功能和非安全性更新的資訊，在2020中的 Microsoft 365 應用程式適用于企業、Microsoft 365 應用程式，以及適用于 Project 和 Visio 的桌面應用程式訂閱版本，都包含在的半年 Enterprise 通道（預覽）更新中。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 
-## <a name="version-2002-june-09"></a>版本2002：6月9日
+## <a name="version-2002-june-09"></a>版本 2002: 6 月 09日
 *版本2002（組建12527.20720）*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -35,27 +35,27 @@ ms.locfileid: "44724955"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正此問題：如果檔路徑過長，外部連結會在重新開啟檔案後停止運作。
+- 已修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
 
-- 已修正此問題：使用 Ctrl + Shift + 箭號鍵，在 Excel 視窗透過團隊共用時，Excel 可能會停止回應。
+- 已修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
-- 修正列印時表單控制項的核取方塊縮放問題。
+- 已修正列印時表單控制項的核取方塊縮放的問題。
 
 - 當您使用舊版的「共用活頁簿」模式，嘗試為活頁簿的新工作表列出變更時，就會發生當機。
 
 - 在已篩選清單中插入欄的時間會比預期更長。
 
-- 已修正此問題： @ 符號開始公式會被視為隱含的交運算子。
+- 已修正開始公式的 @ 符號會被視為隱式交集運算子的問題。
 
 ### <a name="outlook"></a>Outlook
 
-- 啟用透過原小組用戶端直接加入小組會議。
+- 可透過原 Teams 客戶直接啟用加入 Teams 會議。
 
-- 解決了 Outlook 無法啟用資料遺失保護原則秘訣的問題。使用者已向其支付服務的使用者，M365 Business Plus 方案。
+- 解決了 Outlook 無法啟用 [資料遺失保護原則] 提示使用 M365 商務版進階方案並為此服務付款的的使用者之問題。
 
-- 解決問題，造成使用者無法完成 Gmail 的驗證提示時，瀏覽器模擬設定不正確。
+- 解決了導致瀏覽器模擬設置錯誤的用戶無法完成 Gmail 身分驗證提示的問題。
 
-- 解決問題，導致伺服器作業系統上的 Outlook 使用者看到錯誤 "防毒程式狀態：無效。 此版本的 Windows 支援防病毒偵測，但未找到任何防毒軟體，但未正確設定反病毒。
+- 解決了導致伺服器作業系統上的 Outlook 使用者看到「防病毒處理狀態：無效」的問題。 這個版本的 Windows 支援防毒軟體檢測，但即使已適當設定防毒軟體，也無法找到防毒軟體。
 
 ### <a name="word"></a>Word
 
@@ -63,13 +63,13 @@ ms.locfileid: "44724955"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們解決這項問題的方法是，將 backstage 中的通道名稱更新為2020年1月的新通道名稱。
+- 我們將後台中的頻道名稱更新為2020年1月 Fork 的新通道名稱，解決了此問題。
 
-- 我們已修復此問題，如果裝置受到原則管理，將不會呼叫 DMS 物件 API。
+- 我們已修正此問題，如果裝置受政策管理，將不會調用 DMS 聽眾 API。
 
-- 已解決此問題：在單一交易中新增及移除應用程式時，未完成移除。
+- 已解決在單一交易中新增和移除應用程式時，未完成移除的問題。
 
-- Office 主應用程式在 windows 中已崩潰，當登錄機碼 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設定為0時，便會啟用增益集。 這種變更可修正此問題。
+- 當您啟用增益集，而登錄金鑰 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 被設為零時，辦公主機視窗會當機。 這變更將修正此問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -132,7 +132,7 @@ ms.locfileid: "44724955"
 
 - 此更新修正在查看或撰寫郵件時，Microsoft Outlook 未顯示目前的敏感度標籤的問題。
 
-- 解決導致使用者無法將電子郵件地址傳送至個人通訊群組清單的問題。
+- 解決了導致使用者無法將電子郵件傳送到個人通訊群組清單的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -273,13 +273,9 @@ ms.locfileid: "44724955"
 
 - **在活頁簿上取得統計資料：** 活頁簿統計資料提供活頁簿內容的概觀，協助您更輕鬆地探索其內容。
 
-
-
-
+- **符合您情境的更多圖示：** 我們新增了超過 300 個新圖示。 其位置：[插入] > [圖示]。 [深入了解](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
-
-
 
 - **將您的 LinkedIn 人際網路連接至 Outlook：** 安全地將您的 LinkedIn 帳戶與 Microsoft 帳戶連結，以直接在人員卡片中查看 LinkedIn 個人資料中的資訊。 [深入了解](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -303,7 +299,7 @@ ms.locfileid: "44724955"
 
 - **在不同燈光下查看郵件：** 使用太陽/月亮按鈕以在讀取窗格中於淺色和深色背景之間切換。 [深入了解](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-
+- **符合您情境的更多圖示：** 我們新增了超過 300 個新圖示。 其位置：[插入] > [圖示]。 [深入了解](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -311,13 +307,11 @@ ms.locfileid: "44724955"
 
 - **新的校對工具：** 不著重您的文字。 PowerPoint 現在提供文法及書寫建議。 [深入了解](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-
 - **即時的輔助字幕和翻譯字幕：** 簡報者的文字會自動顯示為畫面上的標題，或翻譯為所選語言的字幕。 [深入了解](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **You compute, we format:** We change hand-drawn math expressions into standard characters. Just choose Ink to Math and select your handwritten notes to get started. [Learn more](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等。 [深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
-
 
 - **尋找並修正遺失的投影片標題：** 投影片標題可為您的企劃加分，並讓所有功能的使用者都能存取投影片。 協助工具檢查程式會顯示缺少標題的地方，這樣您就可以快速新增標題。 [深入了解](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -346,6 +340,8 @@ ms.locfileid: "44724955"
 - **在 Office 365 的 PowerPoint 中將手寫筆跡變更為圖形、文字或數學：** 從任意格式的筆跡變成 Office 圖形、文字，或以幾個筆劃變成數學運算式。 [深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **運用筆跡製作精彩的投影片：** 將筆跡轉換成標準圖形和文字，然後從 PowerPoint 設計工具吸取智慧的投影片設計概念。 [深入了解](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- **符合您情境的更多圖示：** 我們新增了超過 300 個新圖示。 其位置：[插入] > [圖示]。 [深入了解](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
@@ -378,8 +374,6 @@ ms.locfileid: "44724955"
 - **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。 [深入了解](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
-
-- **其他人更快速看到您的變更：** 共同撰寫增強功能表示，共同作業者可較以往更快速看到您的變更。
 
 - **共同撰寫的增強功能**：增強共同撰寫時的可靠性。
 
@@ -422,7 +416,7 @@ ms.locfileid: "44724955"
 
 - [資料剖析] 功能對某些地區設定可能會失敗。
 
-- 使用者在存取隱藏的命名範圍時可能會發生錯誤。
+- 使用者在存取隱藏的命名範圍時可能會遇到錯誤。
 
 - 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
 
@@ -472,7 +466,7 @@ ms.locfileid: "44724955"
 
 - 解決會導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定]&quot;&quot; 按鈕的空白訊息方塊的問題。
 
-- 已解決導致使用者在建立設定檔時遇到當機的問題。
+- 解決導致使用者在建立設定檔時遇到當機的問題。
 
 - 解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。
 
@@ -663,3 +657,7 @@ ms.locfileid: "44724955"
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
+
+
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

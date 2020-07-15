@@ -1,5 +1,5 @@
 ---
-title: 2020中半年 Enterprise 通道版本的版本資訊
+title: 2020 年的半年企業通道發行的版本資訊
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668099"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121753"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020中半年 Enterprise 通道版本的版本資訊
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年的半年企業通道發行的版本資訊
 
-這些版本資訊中提供的有關新功能和非安全性更新的資訊，在2020中的 Microsoft 365 應用程式適用于企業、Microsoft 365 應用程式，以及適用于 Project 和 Visio 的桌面應用程式訂閱版本，都包含在的半年 Enterprise 通道更新中。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道更新。
 
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 >
->- 在半年 Enterprise 通道上的使用者從 Office 入口網站下載並安裝 Windows 10 上的 Microsoft 365 應用程式時，預設會包含 OneNote 2016。
+>- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1908-june-09"></a>版本1908：6月9日
+## <a name="version-1908-june-09"></a>版本 1908: 6 月 09日
 *版本1908（組建11929.20838）*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -38,28 +38,28 @@ ms.locfileid: "44668099"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正此問題：使用 Ctrl + Shift + 箭號鍵，在 Excel 視窗透過團隊共用時，Excel 可能會停止回應。
+- 已修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
-- 修正列印時表單控制項的核取方塊縮放問題。
+- 已修正列印時表單控制項的核取方塊縮放的問題。
 
 - 當您使用舊版的「共用活頁簿」模式，嘗試為活頁簿的新工作表列出變更時，就會發生當機。
 
 ### <a name="outlook"></a>Outlook
 
-- 解決會導致使用者在轉寄大型 HTML 郵件時，看到郵件內文截斷的問題。
+- 已解決會導致使用者在轉寄大型 HTML 郵件時，看到郵件內文截斷的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已將一月份和7月2019叉的通道名稱更新為新通道名稱。
+- 我們已將 2019 年 1月和7月叉的通道名稱更新為新的通道名稱。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-1902-june-09"></a>版本1902：6月9日
-*版本1902（組建11328.20602）*
+## <a name="version-1902-june-09"></a>版本 1902: 6 月 09日
+*版本 1902 (組建 11328.20602)*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -69,9 +69,9 @@ ms.locfileid: "44668099"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已將一月份和7月2019叉的通道名稱更新為新通道名稱。
+- 我們已將 2019 年 1月和7月叉的通道名稱更新為新的通道名稱。
 
-- 我們從中斷 C2R 組建的基準檔案中移除已過時的參照。
+- 我們從中斷 C2R 組建的基線檔案中移除過時的參照。
 
 
 
@@ -85,18 +85,18 @@ ms.locfileid: "44668099"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
 - 當您將有色彩篩選的資料複製到不同寬度的欄時，不會貼上值。
 
 ### <a name="outlook"></a>Outlook
 
-- 解決了導致使用者在套用最近的 Windows 更新後開啟 msg 和 oft 檔案時遇到損毀的問題。
+- 解決以下問題：使用者在套用最新的 Windows 更新之後，開啟 .msg 和 .oft 檔案發生當機。
 
 ### <a name="word"></a>Word
 
-- 我們已修正將兩份文件合併成一份文件時的問題。
+- 我們已修正將2份文件合併成一份文件時的問題。
 
 - 修正受保護無法編輯之文件的比較功能問題。
 
@@ -110,7 +110,7 @@ ms.locfileid: "44668099"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
 - 解決以下問題：使用者在套用最新的 Windows 更新之後，開啟 .msg 和 .oft 檔案發生當機。
@@ -128,11 +128,11 @@ ms.locfileid: "44668099"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 已解決導致使用者在選取特定搜尋結果時遇到當機的問題。
+- 解決了導致使用者在選取特定搜尋結果時發生當機的問題。
 
-- 已解決導致 [附件工具] 中的 [儲存至雲端] 按鈕遺失的問題。
+- 解決了會讓 [附件工具] 中的 [儲存至雲端] 按鈕不見的問題。
 
-- 根據預設，保留原則標籤會將保留時間顯示於括弧中。此修正提供登錄機碼，讓系統管理員能夠指定只應顯示的原則名稱。HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。0 = 預設值 1 = 我們只會顯示保留原則文字的 PolicyName。
+- 根據預設，保留原則標籤會將保留時間顯示於括弧中。此修正提供登錄機碼，讓系統管理員能夠指定只應顯示的原則名稱。HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration。0 = 預設 1 = 我們只會顯示保留原則文字的原則名稱。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -146,10 +146,10 @@ ms.locfileid: "44668099"
 
 - 已修正 Microsoft Office 中 Visual Basic for Applications 中的問題，其中特定 VBA 專案參考了程式庫名稱或程式庫路徑中有 DBCS 字元的程式碼程式庫，因而在載入時被 Office 應用程式視為損毀。
 
-## <a name="version1908april-26"></a>版本1908：四月26
-*版本1908（組建11929.20736）*
+## <a name="version1908april-26"></a>版本 1908：4 月 26 日
+*版本 1908 (組建 11929.20736)*
 
- [這裡](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)列出的安全性更新
+安全性更新列於 [此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
@@ -165,7 +165,7 @@ ms.locfileid: "44668099"
 
 ### <a name="onenote"></a>OneNote
 
-- 當地語系化通知，讓使用者可以深入瞭解 OneNote 使用者體驗中所頒佈的臨時量值，以提升同步處理和服務穩定性。
+- 對通知進行本地化，讓使用者可以了解更多 OneNote 使用者體驗中正在採取的臨時措施的資訊，以改善同步處理和服務穩定性。
 
 
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
@@ -175,7 +175,7 @@ ms.locfileid: "44668099"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>已解決的問題
+### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
 - 已修正在刪除包含合併儲存格的資料行時，會導致效能變慢的問題。
@@ -372,7 +372,7 @@ ms.locfileid: "44668099"
 
 - **觀看工作表生動地呈現：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在工作表內橫衝直撞。 [深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
-- **更深入地探索您的資料：** 新的 [構想] 按鈕可尋找資料的模式，並使用模式建立更有智慧且個人化的建議。[深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Discover more about your data:** The new Ideas button looks for patterns in your data, and uses them to create intelligent, personalized suggestions. [Learn more](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **共同作業變得更容易：** 共同撰寫的增強功能代表的是使用條件式格式設定、儲存格樣式等等時，您的變更會與共同作業者的變更順暢地合併。
 
@@ -394,7 +394,7 @@ ms.locfileid: "44668099"
 
 - **挑選您的最愛動作：** 不使用 [標幟] 和 [刪除] 嗎？ 那麼 [封存] 或 [標示為已讀取] 呢？ 自訂快速動作功能表，加上您最常使用的命令。
 
-- **他們會看到您的 meme：** 如果使用文字或靜態影像還不足以清楚表達您的想法，您可以使用動畫 GIF。[深入了解](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
+- **They'll see what you meme:** When text or static images just won't do, use an animated GIF to make your point. [Learn more](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
 - **更快速新增帳戶的方式：** 由於帳戶設定已改善，您現在可以更輕鬆地將使用雙因素驗證的 Outlook.com 和 Gmail 帳戶新增到 Outlook。 [深入了解](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
@@ -416,9 +416,9 @@ ms.locfileid: "44668099"
 
 - **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
 
-- **透過測驗或問卷詢問聽眾：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
+- **Ask your audience with a quiz or survey:** Put a quiz or survey on a slide. Office collects and stores the responses for you. [Learn more](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-- **輕鬆插入內嵌影片：** 想要在您的投影片中放入 Vimeo 或 YouTube 影片嗎？只要有影片頁面連結即可。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Inserting an online video is easier than ever:** Want to put a video from Vimeo or YouTube on your slide? The video page link is all you need. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -434,7 +434,7 @@ ms.locfileid: "44668099"
 
 - **內建的 Azure 樣板：** 使用數十種 Azure 樣板來設計雲端應用程式或規劃架構。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
-- **告別錯誤的 Excel 連結：** 找不到與 Data Visualizer 圖表連結的 Excel 活頁簿嗎？重新連結，就可繼續使用了。[深入了解](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
+- **Say goodbye to broken Excel links:** Can't find the Excel workbook linked to your Data Visualizer diagram? Relink it, and you're back in business. [Learn more](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
@@ -444,9 +444,9 @@ ms.locfileid: "44668099"
 
 - **[學習工具] 模式額外支援更多頁面色彩：** Word 中的 [學習工具] 新增更多頁面佈景主題色彩的支援，讓您能夠變更頁面的背景色彩。 許多人在背景全白或全黑時閱讀會有困難，因此我們在 PC 和 Mac 的 Word 中增加了色彩選項。
 
-- **編輯當然是使用筆跡編輯：** 使用畫筆透過單一筆劃來分割或加入文字、新增新的一行，或插入文字。[深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **Editing comes naturally with Ink Editor:** With a single stroke, split or join words, add a new line, or insert words using your pen. [Learn more](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
-- **為靜態文件注入動人的生命力：** 將文件轉變為在任何裝置上，均具有完美外觀的可互動、易分享的網頁。[深入了解](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
+- **Take your doc from static to stunning:** Transform your document into an interactive, easy-to-share web page that looks great on any device. [Learn more](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 - **增加您內容的覆蓋面：** 想要讓您的文件更易於使用嗎？ 讓協助工具檢查程式來幫助您，您不需要自行處理。 按一下 [校閱] > [檢查協助工具] 試試看這個功能 – 我們會在狀態列上告訴您需要留意的部分。
 
@@ -454,7 +454,7 @@ ms.locfileid: "44668099"
 
 - **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **運用行聚焦，提高理解力：** 毫不費力地逐行瀏覽文件。調整焦點，在檢視畫面中一次放入一行、三行或五行。[深入了解](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
+- **Improve comprehension with Line Focus:** Move through a document line by line without distractions. Adjust the focus to put one, three, or five lines in view at a time. [Learn more](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
 - **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
 
@@ -745,3 +745,7 @@ ms.locfileid: "44668099"
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
+
+
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

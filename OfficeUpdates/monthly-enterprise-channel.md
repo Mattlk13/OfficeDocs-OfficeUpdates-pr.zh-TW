@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
-ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
-ms.translationtype: MT
+ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735453"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121743"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -27,7 +27,7 @@ ms.locfileid: "44735453"
 
 
 
-## <a name="version-2004-june-09"></a>版本2004：6月9日
+## <a name="version-2004-june-09"></a>版本 2004: 6 月 09 日
 *版本2004（組建12730.20430）*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -54,7 +54,7 @@ ms.locfileid: "44735453"
 
 - **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。<br />在[部落格文章](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)中查看詳細資料
 
-- 行事**曆取得 makeover：** 請參閱視覺更新，讓您的行事曆更容易掃描。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
+- **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
 
 - **讓郵件更生動的新影像：** 您可以在電子郵件中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[部落格文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看詳細資料
 
@@ -88,9 +88,9 @@ ms.locfileid: "44735453"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正此問題：如果檔路徑過長，外部連結會在重新開啟檔案後停止運作。
+- 已修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
@@ -98,7 +98,7 @@ ms.locfileid: "44735453"
 
 ### <a name="outlook"></a>Outlook
 
-- 解決了使用者從系統管理員通知提交意見反應時遇到損毀的問題。
+- 已解決在從系統管理人通知中提交意見反應時，使用者遇到當機的問題。
 
 - 已解決導致使用者在退出 Outlook 時遇到掛斷的問題。
 
@@ -118,9 +118,9 @@ ms.locfileid: "44735453"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正了嘗試硬連結符號連結時導致更新失敗的 Click-to-Run 問題。
+- 修正了當嘗試硬連結符號連結時，導致更新失敗的 [點擊運作] 問題。
 
-- Office 主應用程式在 windows 中已崩潰，當登錄機碼 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設定為0時，便會啟用增益集。 這種變更可修正此問題。
+- 當您啟用增益集，而登錄金鑰 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 被設為零時，辦公主機視窗會當機。 這變更將修正此問題。
 
 - 此修正可解決同時防止限制存取和保護設有密碼之檔案的錯誤。
 
@@ -132,7 +132,7 @@ ms.locfileid: "44735453"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2003-june-09"></a>版本2003：6月9日
+## <a name="version-2003-june-09"></a>版本 2003: 6 月 09日
 *版本2003（組建12624.20708）*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
@@ -164,7 +164,7 @@ ms.locfileid: "44735453"
 
 - **輸入會傳回多個值的公式**：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
 
-- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
+- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
 
 - **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [深入了解](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
@@ -188,7 +188,7 @@ ms.locfileid: "44735453"
 
 - **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或 App 中開啟。
+- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
 
 - **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[部落格文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看詳細資料
 
@@ -308,3 +308,7 @@ ms.locfileid: "44735453"
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
+
+
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

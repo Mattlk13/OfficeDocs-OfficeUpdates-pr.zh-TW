@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666586"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138789"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
@@ -33,7 +33,7 @@ ms.locfileid: "44666586"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版本的 Office 2010 是**14.0.7252.5000**，它已于2020年6月9日發行。
+> 最新版本的 Office 2010 是**14.0.7254.5000**，也就是在2020年7月14日發行。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -52,12 +52,13 @@ ms.locfileid: "44666586"
 新的版本會包含先前版本所包含的所有更新。
 
 > [!NOTE]
-> 下列 KB 文章僅供參考。「隨選即用」更新包含 KB 文章所列出的所有修正。您不需要個別下載 KB 文章中所列出的更新。
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020|6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020|7 月 14 日 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||5 月 12 日  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||4 月 14 日  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
