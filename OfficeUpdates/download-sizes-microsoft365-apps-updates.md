@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
-ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
+ms.openlocfilehash: 1fc2292361cd1a881393e130682755e9ade1c471
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45091049"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138569"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -36,14 +36,23 @@ ms.locfileid: "45091049"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
 
-## <a name="july-9-2020"></a>2020 年 7 月 9 日
+[//]: # (DO NOT REMOVE CONTENT STARTJuly 14, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2006 (組建 13001.20384)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2006 (組建 13001.20266) <br/> |2020 年 6 月 30 日 <br/> |61<br/> |
+|版本 2005 (組建 12827.20470) <br/> |2020 年 6 月 24 日 <br/> |350<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2005 (組建 12827.20550)。</i>
+最新的版本是版本 2005 (組建 12827.20538)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ ms.locfileid: "45091049"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2002 (組建 12527.20880)。</i>
+最新的版本是版本 2002 (組建 12527.20880)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ ms.locfileid: "45091049"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2002 (組建 12527.20880)。</i>
+最新的版本是版本 2002 (組建 12527.20880)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ ms.locfileid: "45091049"
 |版本 1908 (組建 11929.20776) <br/> |2020 年 5 月 12 日 <br/> |291<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDJuly 14, 2020)
+
+
+
 
 
 

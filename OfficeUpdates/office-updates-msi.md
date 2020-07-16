@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: f54cf14c4c93da7323aa839cee4d10143e98997a
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ecbff53bf619e72f2440e903f6c8825e38a3a323
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211238"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138769"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -31,13 +31,13 @@ ms.locfileid: "44211238"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2020 年 5 月 PU  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2020 年 7 月 PU  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020 年 5 月 PU  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020 年 7 月 PU  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 > [!IMPORTANT]
@@ -45,11 +45,15 @@ ms.locfileid: "44211238"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020 年 5 月 PU  <br/> [KB4549680](https://support.microsoft.com/help/4549680) <br/>|
+|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020 年 7 月 PU  <br/> [KB4559453](https://support.microsoft.com/help/4559453) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月所發行的更新
+
+[2020 年 7 月的安全性和非安全性更新：KB4559453](https://support.microsoft.com/help/4559453)
+
+[2020 年 6 月的安全性和非安全性更新：KB4559448](https://support.microsoft.com/help/4559448)
 
 [2020 年 5 月的安全性和非安全性更新：KB4549680](https://support.microsoft.com/help/4549680)
 
@@ -71,37 +75,5 @@ ms.locfileid: "44211238"
 
 [2019 年 8 月的安全性和非安全性更新：KB4514418](https://support.microsoft.com/help/4514418)
 
-[2019 年 7 月的安全性和非安全性更新：KB4509295](https://support.microsoft.com/help/4509295)
 
-[2019 年 6 月的安全性和非安全性更新：KB4505743](https://support.microsoft.com/help/4505743)
-
-
- 
-
-
-
-
-
-
-
-
-
-
- 
-
-   
-
-   
-
-  
-
-
-  
- 
-  
- 
-  
-
-  
-   
-  
+</br>

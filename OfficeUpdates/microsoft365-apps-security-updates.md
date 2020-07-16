@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 App 安全性更新的版本資訊
-ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211703"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138519"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Microsoft 365 Apps 安全性更新的版本資訊
 
@@ -31,6 +31,80 @@ ms.locfileid: "44211703"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
+目前通道：版本 2006 (組建 13001.20384)  
+每月企業通道：版本 2005 (組建 12827.20538)  
+每月企業通道：版本 2004 (組建 12730.20602)  
+半年企業通道 (預覽)：版本 2002 (組建 12527.20880)  
+半年企業通道：版本 2002 (組建 12527.20880)  
+半年企業通道：版本 1908 (組建 11929.20904)  
+半年企業通道：版本 1902 (組建 11328.20624)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.20880)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1240](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1240)
+
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1458)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
+
+## <a name="june-09-2020"></a>2020 年 6 月 9 日
+目前通道：版本 2005 (組建 12827.20336)  
+每月企業通道：版本 2004 (組建 12730.20430)  
+每月企業通道：版本 2003 (組建 12624.20708)  
+半年企業通道 (預覽)：版本 2002 (組建 12527.20720)  
+半年企業通道：版本 1908 (組建 11929.20838)  
+半年企業通道：版本 1902 (組建 11328.20602)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.20720)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1226)
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1225)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1229)
+
+### <a name="project"></a>Project
+
+-   [CVE-2020-1322](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1322)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="may-12-2020"></a>2020 年 5 月 12 日
 每月通道：版本 2004 (組建 12730.20270)  

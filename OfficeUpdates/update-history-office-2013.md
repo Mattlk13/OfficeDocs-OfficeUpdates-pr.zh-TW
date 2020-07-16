@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 587c06f30792a2f66104cb2fbf56af9a4f81af52
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 1b1dd6974f76fc1182edacaa3b82c66e54d84ded
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211198"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138779"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2013 是 **15.0.5241.1000**，發行時間為 2020 年 5 月 12 日。
+> 最新版的 Office 2013 是 **15.0.5259.1000**，發行時間為 2020 年 7 月 14 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -45,9 +45,11 @@ ms.locfileid: "44211198"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020|5 月 12 日   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680 )  |
-||4 月 14 日   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
-||3 月 13 日   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
+|2020|7 月 14 日    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
+||6 月 9 日   |15.0.5249.1001   |[KB 4559448 ](https://support.microsoft.com/help/4559448)|
+||5 月 12 日   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680)  |
+||4 月 14 日   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670)  |
+||3 月 13 日   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705)  |
 ||2 月 11 日   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||1 月 14 日   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
 |2019|12 月 10 日   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |
