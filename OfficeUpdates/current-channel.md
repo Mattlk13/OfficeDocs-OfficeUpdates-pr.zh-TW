@@ -1,5 +1,5 @@
 ---
-title: 2020中目前通道版本的發行附注
+title: 2020 年目前通道版本的版本資訊
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,22 +9,23 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
-ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
+ms.openlocfilehash: 1a0d7c630b57c37e32f693ade33b5cc6072249f0
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45049483"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138669"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>2020中目前通道版本的發行附注
+# <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
-這些版本資訊中提供的新功能和非安全性更新的相關資訊，在2020中的 Microsoft 365 應用程式適用于企業、Microsoft 365 商務用應用程式，以及適用于 Project 和 Visio 的桌面應用程式訂閱版本。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的目前通道更新。
 
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
  > [!NOTE]
 >
->- 我們通常會在一段時間內，將功能（甚至也是修正）推廣到目前。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- 我們通常會在一段時間對「目前」通道推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 
 
 
@@ -35,7 +36,44 @@ ms.locfileid: "45049483"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2006-june-30"></a>版本2006：6月30日
+## <a name="version-2006-july-14"></a>版本 2006：7 月 14 日
+*版本 2006 (組建 13001.20384)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 解決插入含有身分識別 (例如，自動編號) 欄位的連結 SQL 資料表的問題。
+
+### <a name="excel"></a>Excel
+
+- 自動文件分類可能已對處於唯讀模式的活頁簿發生。
+
+- 修正若您已從帳戶登出，嘗試建立資料連線時，可能會發生的當機問題。
+
+### <a name="onenote"></a>OneNote
+
+- 改善共同撰寫狀態的偵測，以降低資源利用率。
+
+### <a name="outlook"></a>Outlook
+
+- 解決了當選取安全性對話方塊上的 [儲存] 選項時，導致使用者無法將 OneDrive 外部的 OneDrive 附件儲存至他們的本機電腦的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們會將新的 AppV51 向後移，以修正先前 AppV51 中的回歸。
+
+- 解決在登錄 TabProcGrowth 值為 REG_SZ 類型的情況下啟用增益集時，Windows 中的 Office 主機會當機的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-june-30"></a>版本 2006：6 月 30 日
 *版本2006（組建13001.20266）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -43,7 +81,7 @@ ms.locfileid: "45049483"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **更長的檔案名：** Excel for Windows desktop 現在支援具有最多400個字元之名稱及路徑的 OneDrive/SharePoint 檔案。
+- **較長的檔案名稱：** Windows 桌面版專用 Excel 現在支援使用最多 400 個字元名稱和路徑的 OneDrive/SharePoint 檔案。
 
 ### <a name="outlook"></a>Outlook
 
@@ -51,19 +89,19 @@ ms.locfileid: "45049483"
 
 - **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **新增至 Outlook toast 通知的其他按鈕：** 在 Windows 10 上執行 Outlook 時，[快速動作] 按鈕現在會出現在 Outlook toast 通知中。
+- **新增至 Outlook 快顯通知的其他按鈕：**[快速動作] 按鈕現在會於在 Windows 10 上執行 Outlook 時顯示在 Outlook 快顯通知中
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改進 PowerPoint 中的資料流程影片效能：** 我們已改進 Microsoft Stream 影片的播放效能，以盡可能縮短影片載入時間，並產生流暢的觀賞體驗。 使用 Microsoft Stream 的公司影片來建立更佳的簡報。
+- **改善的 PowerPoint 中的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立出流暢的觀賞體驗。 您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
 ### <a name="teams"></a>Teams
 
-- **PSTN 參與者電話號碼會從外部使用者遮罩：** 針對其團隊會議啟用音訊會議的客戶，我們會將 PSTN 參與者的電話號碼遮罩到從組織外部加入的使用者。
+- **針對外部使用者遮罩 PSTN 參與者電話號碼：** 針對為其 Teams 會議啟用音訊會議的客戶，我們會對從組織外部加入的使用者，將 PSTN 參與者的電話號碼遮罩起來。
 
-- **簡化通道通知設定的簡化方法：** 透過「小組」和「頻道」清單或是來自通道標頭，使用者可以透過單一按一下或深入瞭解自訂設定其慣用的相片順序，快速管理其通知設定。
+- **管理您的頻道通知設定的簡化方式：** 透過團隊和頻道清單或從頻道標頭，使用者只要按一下即可將所有活動開啟或關閉就能快速管理其通知設定，或深入了解自訂以快速設定其偏好的通知排列組合。
 
-- **Walkie Talkie：** 使用推入交談立即語音通訊。
+- **Walkie Talkie：** 使用按著即可發言即時語音通訊。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -75,66 +113,66 @@ ms.locfileid: "45049483"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們已修復此問題：執行查詢所花費的時間大約是預期完成時間的兩倍。
+- 我們已修正執行查詢的時間大約比預期完成時間兩倍久的問題。
 
 
 ### <a name="excel"></a>Excel
 
-- 已修正此問題，會在儲存至 SharePoint/OneDrive 時，將自訂功能區索引標籤的 CustomUI XML 所導致移除。
+- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
 
 
 ### <a name="outlook"></a>Outlook
 
-- 解決這項問題：讓使用者能夠透過拖放設定為4501年1月1日取得的附件，查看其複製到其檔案系統的建立日期。
+- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。
 
-- 解決問題，導致使用者進行共用行事曆改進，以查看行事曆失敗。
-
-
-- 解決問題，導致使用者看到 Outlook 持續提示他們執行收件匣修復工具。
+- 解決會導致共用行事曆改善功能的使用者看到行事曆失敗的問題。
 
 
-- 解決當啟用 cloud 設定時，Ctrl + 按一下以停止運作的問題。
+- 解決會導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。
 
 
-- 解決此問題：搜尋功能的建議功能會傳回無結果，並讓使用者沒有任何選項可提交新的功能觀點。
+- 解決啟用雲端設定時，會造成 Ctrl + 按一下停止運作的問題。
+
+
+- 解決會導致在「建議功能」中尋找功能不會傳回結果，因而讓使用者無法選擇提交新功能想法的問題。
 
 
 ### <a name="project"></a>Project
 
-- 已修正此問題：如果 URL 以 .com 結尾，則無法從 Project Web App 開啟 Project 桌面用戶端中的專案。
+- 修正 URL 以 .com 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
 
 
-- 已修正此問題：當專案摘要任務（專案開始/任務欄位）變更時，不會觸發 ProjectBeforeTaskChange 事件。
+- 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
 
-- 已修正此問題：標示為100% 完成的任務誤變更為小於100% 完成。
+- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
 
 
 ### <a name="word"></a>Word
 
-- 已解決當 URL 包含查詢元件時，在自訂檔傳遞（aspx）中開啟 Word 檔的問題。
+- 解決 URL 包含查詢元件時，從自訂文件傳遞 (aspx) 開啟 Word 文件的問題。
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2005-june-24"></a>版本2005：年6月24日
-*版本2005（組建12827.20470）*
+## <a name="version-2005-june-24"></a>版本 2005：6 月 24 日
+*版本 2005 (組建 12827.20470)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 此 bug 現在已修復;您應該能夠將日期/時間擴充的資料類型呼叫至您的程式碼，而不會在您的應用程式中發生任何損毀。 請讓小組知道您是否會遇到其他問題。
+- 現已修正此錯誤；您應該可以呼叫日期/時間延伸資料類型至您的程式碼，而不會在您的應用程式中遇到任何當機。 請讓團隊知道您是否遇到其他問題。
 
 
-- 現在已修復此問題;您現在可以回復至最新的 Access 版本，並使用 DAO/VBA 來管理及編輯 decimal 資料類型。 請讓 Access 小組知道您在使用我們的資料類型時，是否會出現進一步的問題。
+- 現已修正此問題；您現在可以還原為最新的 Access 版本，並使用 DAO/VBA 來管理及編輯十進位資料類型。 如果您在使用我們的資料類型時遇到任何進一步問題，請讓 Access 團隊知道。
 
 
 ### <a name="excel"></a>Excel
 
-- 已修正此問題，會在儲存至 SharePoint/OneDrive 時，將自訂功能區索引標籤的 CustomUI XML 所導致移除。
+- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
 
 
 
@@ -142,52 +180,52 @@ ms.locfileid: "45049483"
 
 ### <a name="outlook"></a>Outlook
 
-- 解決了 Outlook 無法啟用資料遺失保護原則秘訣的問題。使用者已向其支付服務的使用者，M365 Business Plus 方案。
+- 解決了 Outlook 無法啟用 [資料遺失保護原則] 提示使用 M365 商務版進階方案並為此服務付款的的使用者之問題。
 
 
-- 解決這項問題：讓使用者能夠透過拖放設定為4501年1月1日取得的附件，查看其複製到其檔案系統的建立日期。
+- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。
 
 
-- 解決導致使用者在此電腦上看到規則的問題，在 &quot; &quot; 更新其 Outlook 中的規則時，與 Microsoft Exchange 郵件上的規則不相符。
+- 解決會導致使用者在 Outlook 中更新其規則時，看到&quot;此電腦上的規則與 Microsoft Exchange 上的規則不相符&quot;訊息的問題。
 
 
-- 解決問題，導致使用者進行共用行事曆改進，以查看行事曆失敗。
+- 解決會導致共用行事曆改善功能的使用者看到行事曆失敗的問題。
 
 
-- 解決了導致使用者在某些案例中經歷間歇性懸掛和崩潰的問題。
+- 解決會導致使用者在某些情況下遇到間歇性懸置和當機的問題。
 
 
-- 解決問題，導致使用者看到 Outlook 持續提示他們執行收件匣修復工具。
+- 解決會導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。
 
 
-- 解決此問題：搜尋功能的建議功能會傳回無結果，並讓使用者沒有任何選項可提交新的功能觀點。
+- 解決會導致在「建議功能」中尋找功能不會傳回結果，因而讓使用者無法選擇提交新功能想法的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們已修復 [建議] 窗格中的崩潰問題。
+- 我們已修正建議窗格的當機問題。
 
 
 ### <a name="project"></a>Project
 
-- 已修正此問題：標示為100% 完成的任務誤變更為小於100% 完成。
+- 修正當標示為 100% 完成之工作錯誤地變更為低於 100% 完成的問題。
 
 ### <a name="word"></a>Word
 
-- 解決此問題：從應用程式中拖曳部分內容時，可能會造成損毀。
+- 解決會導致從應用程式拖曳部分內容時遇到當機的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 此變更會解決載入和播放動畫內容（例如 Gif 或3D 模型）時可能會懸掛的情況。
+- 此變更會解決載入和播放動畫內容 (例如 Gif 或3D 模型) 時可能會發生的懸置。
 
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2005-june-09"></a>版本2005：6月9日
-*版本2005（組建12827.20336）*
+## <a name="version-2005-june-09"></a>版本 2005：6 月 9 日
+*版本 2005 (組建 12827.20336)*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
@@ -197,25 +235,25 @@ ms.locfileid: "45049483"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 解決在嘗試將 PivotTables 插入圖表工作表時，Excel 可能會損毀的問題。
+- 解決嘗試將樞紐分析表插入圖表時 Excel 可能會當機的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 這會修正使用者在檔案中同時有新式和舊版批註時的損毀，因此會觸發對批註的升級。
+- 這可修正使用者在同一檔案中同時有新版和舊版批註，因此觸發批註的升級而當機的問題。
 
 ### <a name="project"></a>Project
 
-- 已修正此問題：當專案摘要任務（專案開始/任務欄位）變更時，不會觸發 ProjectBeforeTaskChange 事件。
+- 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已解決 ValidateInstall 失敗率問題，方法是將 Bing 載入項預設安裝驗證設定為 true，並考慮 MSI 傳回成功為安裝成功。
+- 我們透過設定Bing附加預設安裝驗證設定為true默認，並將MSI返回成功視為安裝成功，而解決了 ValidateInstall 失敗率問題。
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2005-june-02"></a>版本2005：02年6月
+## <a name="version-2005-june-02"></a>版本 2005：6 月 2 日
 *版本2005（組建12827.20268）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -223,9 +261,9 @@ ms.locfileid: "45049483"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自動使用新的資料類型：** 當您輸入類似股票或地理位置的資料值時，Excel 會將其轉換為正確連接的資料類型-股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自動使用新的資料類型**：當您輸入的資料值類似股票或地理位置時，Excel 會將該值轉換為正確的連結資料類型 - 股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
-- **使用動畫 Gif 告訴您故事：** 動態 Gif 現在可在 Office 編輯器中支援-您的檔只是 snazzier
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
 ### <a name="outlook"></a>Outlook
 
@@ -233,45 +271,45 @@ ms.locfileid: "45049483"
 
 - **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **使用動畫 Gif 告訴您故事：** 動態 Gif 現在可在 Office 編輯器中支援-您的檔只是 snazzier
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
-- 行事**曆取得 makeover：** 請參閱視覺更新，讓您的行事曆更容易掃描。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
+- **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用動畫 Gif 告訴您故事：** 動態 Gif 現在可在 Office 編輯器中支援-您的檔已經 snazzier[深入瞭解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦 [深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 - **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。 [深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
 
-- **不需要簡報導覽裝置：您的 earbuds 包括：** 使用表面 Earbuds 來控制您的 PowerPoint 簡報。 其運作方式：配對後，您必須在 PowerPoint 啟用該功能。 按 F5 或選取 [投影片放映 > 從頭開始播放簡報。  在 [投影片放映] 中，以滑鼠右鍵按一下投影片，並在 [表面 Earbuds 設定] 下方，選擇 [使用勢來控制簡報]  所有未來的簡報都會記住此設定。 您現在可以向前及向後滑動左側 earbud，以在投影片放映模式中流覽您的簡報。  按兩下以播放或暫停內嵌影片。  重要：您必須在適用于 Windows 10 的「表面音訊」應用程式中搭配您的 Surface Earbuds，以便使用筆勢控制簡報。 在 Windows 10 上開始使用表面音訊應用程式的指示可于這裡取得。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **不需要簡報導覽裝置：有耳塞式耳機就夠了：** 使用您的 Surface Earbuds 控制 PowerPoint 簡報。 運作方式：配對之後，您必須在 PowerPoint 中啟用功能。 按 F5 或選取 [投影片放映] > [從開頭] 開始簡報。  在投影片放映中，以滑鼠右鍵按一下投影片，然後在 [Surface Earbuds 設定] 底下，選擇 [使用手勢來控制簡報]。  將記住此設定以用於所有未來的簡報。 現在，您可以在左耳機上向前後撥動，以在 [投影片放映] 模式中瀏覽簡報。  點兩下以播放或暫停內嵌的影片。  重要：您必須在 Windows 10 的 Surface 音訊應用程式中配對 Surface Earbuds，才能使用手勢來控制簡報。 在此取得 Windows 10 上 Surface 音訊應用程式入門的指示。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="teams"></a>Teams
 
-- **對小組會議中的影片版面配置所做的變更：** 不久，小組會議期間可同時查看的參與者人數會從4增加至9。
+- **對 Teams 會議中視訊版面配置所做的變更：** 在 Teams 會議期間可同時檢視的參與者人數，很快地將從 4 個增加到 9 個。
 
-- **在 live 事件中包含系統音訊：** 在即時事件期間共用桌面或視窗畫面時，live 事件中的簡報者和發生器現在可以包含系統音訊。 這可讓您的使用者聽到您共用內容的任何音訊部分。
+- **在即時活動中包含系統音訊：** 即時活動中的簡報者和製作人，現在可以在即時活動期間共用桌面或視窗螢幕時包含系統音訊。 這可讓您的使用者聽到您正在共用內容的任何音訊部分。
 
-- **讓召集人可以變更撥入參與者的前廳流覽設定：** 此設定會控制以電話撥號的使用者是否直接加入會議，或不論 [自動承認人員] 設定，是否等候會議廳。
+- **讓召集人可以變更撥入參與者的大廳設定：** 此設定會控制透過電話撥入的人員是否直接加入會議，或是在大廳中等候，而不論 [自動准許人員] 的設定為何。
 
-- **在會議中舉手：** 現在使用者可以在會議中提升虛擬手！ 其他參與者會在會議階段和您的名單中的名字旁，看到您的名字旁邊的凸起。
+- **在會議中舉手：** 使用者現在可以在會議中虛擬舉手！ 其他參與者會在會議舞台中您的名稱旁和名冊中您的名字旁看到您的舉手。
 
-- **自訂會議影片背景：** 當您使用影片會議時，您現在可以選擇要使用的不同靜態背景圖像。 這可讓您顯示此影像，而不是您坐在何處的實際背景。
+- **自訂會議視訊背景：** 使用視訊會議時，您現在可以選擇要使用的不同靜態背景影像。 這可讓您顯示此影像，而不是您所在位置的實際背景。
 
-- **新增更多人員進行聊天：** 我們現在可以將最多350人員新增至單一聊天線程。
+- **新增更多人員至聊天：** 我們現在可以將最多 350 個人新增至單一聊天對話。
 
-- **設定會齒輪您的活動摘要：** 使用者現在可以透過設定齒輪的方式，直接從摘要左軌存取活動摘要和通知設定。
+- **您的活動摘要上設定齒輪：** 使用者現在可以從摘要左側滑軌透過設定齒輪的方式，直接存取活動摘要和通知設定。
 
-- 在**進行中的團隊會議中輕鬆存取會議選項：** 當小組會議開始時，可直接在參與者窗格中提供輕鬆存取的連結，讓會議召集人快速且輕鬆地變更其簡報者和前廳設定。 這項新功能將會出現在排程和「立即開會」會議上。
+- **從 Teams 進行中的會議內輕鬆存取會議選項：** 我們讓會議召集人在 Teams 會議一開始，便能更快速且輕鬆地變更簡報者和大廳設定，方法是在參與者窗格中直接提供易於存取的連結。 此新功能將會同時對已排定和「立即開會」會議呈現。
 
-- **小組和通道分析：** 除了小組分析之外，現在您還可以查看通道層級的計量與深入瞭解。 我們也將時間週期提升為90天，讓您可分析較長時間的資料。 除此之外，此版本也包含有關小組或管道的文章總數、回復和會議的新度量和圖表。
+- **團隊與頻道分析**：除了團隊分析以外，您現在也可以檢視頻道層級指標和深入資訊。 我們也將時間週期增加到 90 天，使得您可以分析資料的時間較長。 除此以外，此版本還包含有關小組或頻道的文章、回覆和會議計數的新計量和圖表。
 
-- **進入/出口宣告：** 我們新增這項功能，讓會議召集人能夠開啟或關閉會議的進入及關閉宣告。
+- **進入/結束宣告：** 我們新增了此功能，讓會議召集人能夠開啟或關閉會議的進入和結束宣告。
 
 ### <a name="word"></a>Word
 
-- 在**不留下文字的情況下解碼縮寫：** 當您遇到縮寫時，Word 會嘗試根據其他人的使用方式來定義它。
+- **解碼縮寫，而不需離開 Word：** 當您遇到縮寫時，Word 會試著根據其他人的使用方式來給予定義。
 
-- **使用動畫 Gif 告訴您故事：** 動態 Gif 現在可在 Office 編輯器中支援-您的檔只是 snazzier
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -284,21 +322,21 @@ ms.locfileid: "45049483"
 
 ### <a name="excel"></a>Excel
 
-- 已修正此問題：使用 Ctrl + Shift + 箭號鍵，在 Excel 視窗透過團隊共用時，Excel 可能會停止回應。
+- 已修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
-- 在某些情況下，按一下相同活頁簿中某個位置的超連結，就會隱藏該活頁簿。
+- 在某些情況下，按一下同一個活頁簿中某個位置的超連結會導致活頁簿被隱藏。
 
 ### <a name="outlook"></a>Outlook
 
-- 解決 [回復/轉寄] 標籤的 clp 審核事件問題。
+- 已解決有回應/轉寄標註的clp審查活動的問題。
 
-- 解決導致 Windows 10 伺服器版本使用者無法看到警告「防毒程式狀態：無效」的問題。 此版本的 Windows 支援防病毒偵測，但即使已正確安裝防毒軟體，仍未找到防毒軟體。
+- 解決會導致 Windows 10 伺服器版本的使用者看到警告「防毒軟體狀態: 無效」的問題。 此版本的 Windows 支援防毒軟體偵測，但即使已正確安裝防毒軟體，也找不到防毒軟體。
 
-- 解決了使用者從系統管理員通知提交意見反應時遇到損毀的問題。
+- 解決從系統管理員通知提交意見反應時，會導致使用者遇到當機的問題。
 
 ### <a name="skype"></a>Skype
 
-- 當使用者獲得只將其移至小組的原則時，他們仍然可以使用商務用 Skype Outlook 增益集來排程會議。 在此更新之後，用戶端將無法再排程商務用 Skype 會議。用戶端讀取指出使用者只有小組的原則，並進入僅限會議加入模式。 此外，商務用 Skype Outlook 增益集會在啟動時不會自行啟用（如果它看到商務用 Skype 用戶端為會議僅限加入模式）。
+- 當使用者收到將他們移至 Teams Only 的原則時，他們仍然可以使用商務版 Skype Outlook 增益集來排程會議。 在此更新之後，當客戶端讀取指示用戶為 Teams Only 的策略並進入僅限會議加入模式後，您將不再能用商務版 Skype 安排會議。 此外，如果商務版 Skype Outlook 增益集發現商務版 Skype 用戶端處於 [僅限會議加入] 模式，就無法自行啟動。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -306,33 +344,33 @@ ms.locfileid: "45049483"
 
 - 此更新解決了 Microsoft Office 中的一個問題：可能無法在執行時期正確找到 Visual Basic for Applications 專案，這些專案的參照預期透搜尋 PATH 環境變數指定的位置來找到，進而導致VBA 執行時期錯誤。
 
-- Office 主應用程式在 windows 中已崩潰，當登錄機碼 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設定為0時，便會啟用增益集。 這種變更可修正此問題。
+- 當您啟用增益集，而登錄金鑰 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 被設為零時，辦公主機視窗會當機。 這變更將修正此問題。
 
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2004-may-21"></a>版本2004：5月21日
-*版本2004（組建12730.20352）*
+## <a name="version-2004-may-21"></a>版本 2004：5 月 21 日
+*版本 2004 (組建 12730.20352)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正此問題：如果檔路徑過長，外部連結會在重新開啟檔案後停止運作。
+- 已修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
 
 
 ### <a name="outlook"></a>Outlook
 
-- 解決了使用者從系統管理員通知提交意見反應時遇到損毀的問題。
+- 已解決在從系統管理人通知中提交意見反應時，使用者遇到當機的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正 Click-to-Run 問題，導致最新的組建偶然更新失敗。
+- 修正隨選即用會導致偶爾無法更新至最新組建的問題。
 
-- 修正此問題：在 Microsoft Office 中，您可能無法在執行時間找到透過搜尋路徑環境變數中所指定的位置來找到的 Visual Basic for Applications 專案，進而導致 VBA runtime 錯誤。
+- 解決 Microsoft Office 中的 Visual Basic for Applications 專案，其具有的參照預期應透過搜尋 PATH 環境變數指定的位置來找到，但在執行時期中可能無法正確找到，導致 VBA 執行時期錯誤的問題。
 
 
 
@@ -386,7 +424,7 @@ ms.locfileid: "45049483"
 
 - **Facebook 連接器支援即將結束：** 於 2020 年 4 月起，Excel 就不再支援使用 Facebook 連接器的外部資料連線。
 
-- **有問題嗎？請詢問 Excel：** 現在 Excel 創意可讓您提問有關資料的問題-不需要花時間寫入公式（僅提供英文版）。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **有問題嗎？詢問 Excel**：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **讓活頁簿更生動的新影像：** 您可以在活頁簿中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
@@ -430,7 +468,7 @@ ms.locfileid: "45049483"
 
 - 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -479,7 +517,7 @@ ms.locfileid: "45049483"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -504,7 +542,7 @@ ms.locfileid: "45049483"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="onenote"></a>OneNote
 
-- 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，可協助改善在高全球使用狀況時的同步處理與服務可用性。
+- 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，將協助改善在全球高使用量期間的同步處理與服務可用性。
 
 ### <a name="project"></a>Project
 
@@ -644,7 +682,7 @@ ms.locfileid: "45049483"
 - 解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。
 
 
-- 解決的問題導致使用黑色主題的使用者看到白色背景上的「寄件者」下拉式顯示白色文字。
+- 解決會導致使用黑色佈景主題的使用者，看到 [寄件者] 下拉式功能表在白色背景上顯示白色文字的問題。
 
 
 - 此變更會還原在郵件標頭中檢視多行主旨的功能。
@@ -788,7 +826,7 @@ ms.locfileid: "45049483"
 
 - **最佳化您的簡報：** 協助工具檢查程式可協助您以螢幕閱讀器為中心，在投影片上排列物件。
 
-- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/zh-TW/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -813,7 +851,7 @@ ms.locfileid: "45049483"
 
 ### <a name="word"></a>Word
 
-- 組建區塊召集人可能會顯示不正確警示：「您已修改樣式、組建區塊」。
+- 建置組塊組合管理可能會顯示無效的通知：「您已經修改樣式、建置組塊」。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -824,6 +862,7 @@ ms.locfileid: "45049483"
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
-[//]: # (不修改系統管理中心中繼資料內容的開始)
-[//]: # (|Win32 |抄送 |生產 | | 16.0.13001.20266 | 版本-2006-6 月-30 |)
-[//]: # (不要修改系統管理中心中繼資料內容的結尾)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
+[//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
+[//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
