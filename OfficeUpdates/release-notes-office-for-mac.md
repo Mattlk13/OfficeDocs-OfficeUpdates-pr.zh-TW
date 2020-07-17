@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: a626236899faeeef1708e22726fce7c28dcc4a8e
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210968"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138539"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
  
-隨附於 Microsoft 365 Apps 訂閱的 Mac 版 Office 會定期更新，以提供新功能、安全性更新和非安全性更新。
+隨附於 Microsoft 365 訂閱的 Mac 版 Office 會定期更新，以提供新功能、安全性更新和非安全性更新。
   
 更新可從 Microsoft AutoUpdate (MAU) 取得。若要使用 Microsoft AutoUpdate，請啟動 Office 應用程式 (如 Word)，然後選擇 [說明]**** > [檢查更新]****。如果您是系統管理員，且想要使用現有的軟體部署工具來更新組織中的電腦，您可以下載並部署每個應用程式的更新套件。
 
   
 > [!NOTE]
 > - 如果您是 Office 測試人員，請參閱[測試人員快速組建的版本資訊](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a)。
-> - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Microsoft 365 Apps 訂閱時才可供使用。
+> - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Microsoft 365 訂閱時才可供使用。
 > - 我們通常每隔一段時間會在「每月通道」上推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 我們有時候會發佈更新，其中包含一般品質和效能提升，但沒有新功能。 如果下列清單中沒有列出特定應用程式，則該應用程式更新僅包含品質和效能提升。
 
@@ -35,6 +35,101 @@ ms.locfileid: "44210968"
 
 [//]: # (DO NOT REMOVE)
 
+
+
+
+
+
+## <a name="july-14-2020"></a>2020 年 7 月 14 日
+*版本 16.39 (組建 20071300)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從儲存格值新增圖表標籤：** 使用儲存格的值做為圖表資料上的標籤。 [深入了解](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
+
+### <a name="outlook"></a>Outlook
+
+- **快速採取行動：** 可採取行動的郵件，可讓您在電子郵件中進行快速的動作，例如核准、填寫問卷。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
+
+### <a name="word"></a>Word
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445)
+-   [CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446)
+-   [CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1409](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1409)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+## <a name="june-16-2020"></a>2020 年 6 月 16 日
+*版本 16.38 (組建 20061401)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從相片提取資料：** 從 [插入] 索引標籤或直接從 iPhone，從相片新增表格資料。 [深入了解](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />在[部落格文章](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)中查看詳細資料
+
+### <a name="outlook"></a>Outlook
+
+- **Outlook 語音輸入：** 您有麥克風嗎？ 按一下 [聽寫] 並看看 Outlook 如何在您說話的同時輸入您說話的內容。 [深入了解](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1225](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1225)
+-   [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1226)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1229)
+
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1321)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="may-12-2020"></a>2020 年 5 月 12 日
 *版本 16.37 (組建 20051002)*
@@ -47,6 +142,8 @@ ms.locfileid: "44210968"
 - **真實的發問：** 您對資料有任何問題嗎？ 在 Excel 構想中，只要輸入問題，我們會為您提供解答。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等項目。 [深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
+
+- **新增儲存格的更快方式**：[啟用 [按一下以新增] 模式]****，然後輸入 =、選取部分儲存格以快速建立新增儲存格值的公式。 在 [功能表]****  >  [喜好設定]****  >  [編輯]**** 尋找選項。  [深入了解](https://support.office.com/zh-TW/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
