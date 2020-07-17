@@ -11,15 +11,14 @@ ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
 ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
 ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/08/2020
 ms.locfileid: "45080158"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office Beta 通道的更新歷程記錄
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
-Click [here](https://insider.office.com/) for more information on the Insiders Program.
+測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
 
 > [!IMPORTANT]
 > - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。

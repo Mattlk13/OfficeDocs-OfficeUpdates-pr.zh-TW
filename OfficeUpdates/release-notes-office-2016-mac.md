@@ -11,30 +11,30 @@ ms.collection: RelNotes_Mac
 description: 從 2018 年 9 月開始為 IT 專業人員提供 Mac 版 Office 2016 的版本資訊
 ms.openlocfilehash: 82b39ea10b77dc559d3a9066cd7d7b8825efa7eb
 ms.sourcegitcommit: 7e7bf8d99063c0b89a515bedfa2bd612d16270b2
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 06/16/2020
 ms.locfileid: "44761541"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac 版 Office 2016 更新歷程記錄
 
-Office 2016 for Mac is a version of Office that’s available as a one-time purchase from a retail store or through a volume licensing agreement. It will be supported with security updates and bug fixes, as needed, until October 13, 2020. The minimum supported macOS for Office 2016 for Mac is 10.10 (Yosemite).
+Mac 版 Office 2016 是 Office 的一個版本，可從零售商店或透過大量授權合約買斷。我們將視需要提供其安全性更新和錯誤修復直到 2020 年 10 月 13 日。Mac 支援 Mac 版 Office 2016 的最低 macOS 為 10.10 (Yosemite)。
 
 > [!IMPORTANT]
 > - Mac 版 Office 2016 的支援將於 2020 年 10 月 13 日終止。 如果您尚未開始升級至較新的版本，建議您立即開始。 如需詳細資訊，請參閱 [Mac 版 Office 2016 終止支援。](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)
 
 > [!NOTE]
-> - For security reason, Microsoft has deprecated the use of SHA-1. [Learn more](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - 如需 2018 年 9 月之前的 Mac 版 Office 2016 版本資訊，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。  
 > - 如需 Mac 版 Office (即隨附於 Office 365 的版本) 的版本資訊，請參閱 Mac 版 Offic 的[版本資訊](release-notes-office-for-mac.md)和[更新歷程記錄](update-history-office-for-mac.md)。
-> - Office 2019 for Mac is the most current version that’s available as a one-time purchase. For release information for Office 2019 for Mac, see the [release notes](release-notes-office-for-mac.md) and [update history](update-history-office-for-mac.md) for Office for Mac.
+> - Mac 版 Office 2019 是最新版本，可買斷取得。如需 Mac 版 Office 2019 的版本資訊，請參閱 Mac 版 Office 的[版本資訊](release-notes-office-for-mac.md)和[更新歷程記錄](update-history-office-for-mac.md)。
 
-Updates for Office 2016 for Mac are available from Microsoft AutoUpdate (MAU). To use Microsoft AutoUpdate, start an Office application, such as Word, and then choose **Help** > **Check for Updates**. If you're an admin and want to update the computers in your organization with your existing software deployment tools, you can download and deploy the update packages for each application.
+Mac 版 Office 2016 的更新可從 Microsoft AutoUpdate (MAU) 取得。若要使用 Microsoft AutoUpdate，請啟動 Office 應用程式 (如 Word)，然後選擇 [說明]****  >  [檢查更新]****。如果您是系統管理員，且想要使用現有的軟體部署工具來更新組織中的電腦，您可以下載並部署每個應用程式的更新套件。
 
 
 ## <a name="most-current-packages-for-office-2016-for-mac"></a>Mac 版 Office 2016 的最新套件
 
-The following table lists the most current packages for Office 2016 for Mac and for the individual applications, such as Word and Excel. All packages are 64-bit only. The build date is listed in parentheses, in a YYMMDD format, after the version number. The install package is used if you don't have the application already installed, while the update package is used to update an existing installation.
+下表列出 Mac 版 Office 2016 和個別應用程式 (例如，Word 和 Excel) 的最新套件。所有套件都只提供 64 位元版本。在版本號碼後面，會用括號以 YYMMDD 格式列出建置日期。如果您尚未安裝應用程式則會使用安裝套件，至於更新套件，則是用來更新現有安裝的。
 
 ### <a name="june-16-2020"></a>2020年6月16日
 版本16.16.23 （20061500）

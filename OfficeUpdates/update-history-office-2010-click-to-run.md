@@ -52,7 +52,7 @@ ms.locfileid: "45138789"
 新的版本會包含先前版本所包含的所有更新。
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> 下列 KB 文章僅供參考。「隨選即用」更新包含 KB 文章所列出的所有修正。您不需要個別下載 KB 文章中所列出的更新。
 
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
