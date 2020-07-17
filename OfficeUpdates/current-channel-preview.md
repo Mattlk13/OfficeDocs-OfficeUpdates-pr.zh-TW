@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 63ae6dbe28765efde1ddc6a440adeddd53b71338
-ms.sourcegitcommit: f7bb0455136794c38a7f934e391b17a9c98c9d52
+ms.openlocfilehash: 2ed4d263caf7471a37bf52e162d93ee7ebf03fd4
+ms.sourcegitcommit: e04ac83b98dee6ee37338f9eba361e4ae436f9f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45094643"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45147875"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,193 @@ ms.locfileid: "45094643"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2007-july-15"></a>版本 2007：7 月 15 日
+*版本 2007 (組建 13029.20200)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正在重新整理連結的 SQL 資料表時，連結資料表管理員會提示您輸入主要索引鍵的問題。
+
+- 我們已修正 [查詢編輯器] 中的查詢捲出畫面的問題。
+
+- 我們已修正執行查詢的時間大約比預期完成時間兩倍久的問題。
+
+- 我們已修正導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
+
+### <a name="excel"></a>Excel
+
+- 我們已修正非 HTTP 或 HTTPS 型 URL 未顯示在 [最近用過的] 清單中的問題。
+
+- 已修正在載入含有多張分頁預覽的活頁簿時，可能會發生錯誤或當機問題。
+
+- 我們修正以下問題：在特定版本 Excel 中建立的資料模型表格無法在 [表格預覽] 中看到，即使與該表相關聯的查詢尚未編輯。
+
+- 在 [定義名稱\套用名稱] 對話方塊中停用 [忽略相對/絕對] 參照會導致公式無法使用。
+
+- 我們已修正將活頁簿儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 遭移除的問題。
+
+- 我們已修正當建議以唯讀方式使用檔案時，活頁簿處於唯讀狀態的問題。
+
+- 已修正在載入含有多張分頁預覽的活頁簿時，可能會發生錯誤或當機問題。
+
+- 我們已修正雷達圖的主要格線無法正確設定格式的問題。
+
+
+- 我們已修正清除 [進階資料篩選] 可能會遺失表格格式設定的問題。
+
+
+- 我們已修正嵌入式 PDF 文件的完整路徑顯示在文件標題，而不只是檔案名稱的問題。
+
+
+- 我們已修正停用 Wolfram 雲端連接器之後，儲存並重新開啟 Excel 活頁簿可能會導致當機的問題。
+
+
+- 我們已修正啟動 Excel 時啟用 [規劃求解] 增益集將導致當機的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正如果在 [收件者] 行上有超過 130 個收件者，Outlook 會當機的問題，且我們也改善了呈現文字的效能。
+
+
+- 我們已修正以下問題：當使用多個不同解析度的監視器時，輸入法編輯器 (IEM) 視窗會覆蓋透過 IME 輸入的文字。
+
+
+- 我們已修正「待辦事項列」中跨越兩天以上的活動，在後續的所有日期中顯示相同結束時間的問題。
+
+
+- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。
+
+
+- 我們已修正使用者無法使用通訊群組清單中的「傳送為」或「代理傳送者」的問題。
+
+
+- 解決在編輯經理行事曆上的現有行事曆約會時，導致代理人收到錯誤的問題。
+
+
+- 我們已修正導致使用者在關閉先前儲存的約會時看到下列錯誤的問題：「項目無法儲存，因為已被其他使用者或已在其他視窗中變更過。 您要在預設資料夾為這個項目建立複本?」
+
+
+- 解決會導致若「未」核取 [下載共用資料夾]，共用行事曆會議的 [回應選項] 中會遺失 [允許轉寄] 選項的問題。
+
+
+- 解決選取安全性對話方塊上的 [儲存] 選項時，會導致使用者無法將來自其租用戶外部的 OneDrive 附件儲存至其本機電腦的問題。
+
+
+- 我們已修正導致 Outlook 使用者在使用共用行事曆後，在幾分鐘內訊息清單停止更新的問題。
+
+
+- 我們已修正行事曆提醒無法針對一週內即將到來的會議顯示確切時間的問題。 
+
+
+- 我們已修正在郵件中插入影像內嵌，然後將郵件儲存為草稿將會重新調整影像大小的問題。
+
+
+- 我們已修正在編輯主旨之後，導致 NDR 郵件的本文從 Unicode 變更為 ASCII 的問題。
+
+
+- 我們已修正迷你行事曆中的日期無法針對日本使用者顯示粗體的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在即時共同撰寫工作階段期間，使用者的目前狀態色彩指示器無法在共同撰寫文件庫中重新整理的問題。
+
+
+- 我們已修正將 HTML 貼到投影片上的文字區域時，會改為貼上投影片最上方所建立的文字方塊中的問題。
+
+
+- 我們已修正在 [簡報者檢視畫面] 中選取所有投影片、使用 Alt+Tab 退出 [簡報者檢視畫面] 並返回投影片放映，然後按一下 [結束放映] 時，將導致未處理例外狀況的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正無法將從 Project 將 PDF/XPS 儲存至 SharePoint 文件庫的問題。
+
+
+- 修正 URL 以 .com 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
+
+
+- 我們已修正 Project 在開啟特定 XML 檔案時可能當機的問題。
+
+
+- 我們已修正 URL 以 '.com' 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
+
+
+- 已修正問題：如果您貼上具有多個相關性的工作，並不會正確複製所有相關性。
+
+
+- 已修正 [指派資源] 對話方塊中選取的工作與工作面板檢視中所選工作不同的問題。
+
+
+- 我們已修正當專案摘要工作，或專案 [開始/工作] 欄位變更時，ProjectBeforeTaskChange 事件無法觸發的問題。
+
+
+- 我們已修正以下問題：如果固定工期的任務已 100% 完成，但未指定 [實際完成日期]，則任務的完成 % 將顯示為低於 100%。
+
+- 我們已修正以下問題：比較基準重設或更新可能會變更時間分段預算成本/工時資源，且比較基準反映不正確的預算值。
+
+
+- 我們已修正政府社群雲端中的 Project Planner 連結已停用的問題。
+
+
+- 我們已修正如果文件庫處於新式模式，您無法從 SharePoint 文件庫開啟 Project 檔案的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用 Office 功能區中的 [清除格式設定] 按鈕清除 [註解] 窗格中的格式設定時，無法運作的問題。
+
+
+- 我們已修正將插入可縮放向量圖形 (SVG) 中的文字插入到 Word、Excel 或 PowerPoint 檔案、儲存並關閉檔案，然後重新開啟檔案後，難以辨識的問題。
+
+
+- 我們已修正當尺規未顯示時變更表格大小，導致在背景中執行其他應用程式開始閃爍的問題。
+
+
+- 我們已修正在共同撰寫模式中，註解回覆有時候不會顯示在 [註解] 窗格中，而是顯示在 [修訂] 窗格中的問題。
+
+
+- 我們已修正在共同撰寫模式期間，當發生合併衝突且使用者已選取放棄變更時，我們不再顯示儲存或捨棄變更選項的問題。
+
+
+- 我們已修正 HTML 超連結色彩無法正確呈現的問題。
+
+
+- 我們已修正以下問題：如果 Word 經常開啟的文件清單多於 50 個，然後儲存並開啟文件後，即使該文件沒有進行任何修訂，也會顯示歷程記錄。
+
+
+- 我們已修正共同撰寫期間的自動儲存問題。
+
+
+- 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以 .docx 副檔名和檔案名稱 'WRO0004.docx' 儲存，進而導致文件無法使用。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 關閉 Office 檔案時，計時問題可能會導致當機
+
+- 此問題的修正程式是確保服務正確計算新增的產品。 我們已篩選出新增的產品 (確保它們同時存在於新的設定中)，並將它們新增到現有產品發行識別碼的結尾。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-july-09"></a>版本 2006：7 月 09 日
 *版本2006（組建13001.20384）*
@@ -97,21 +284,21 @@ ms.locfileid: "45094643"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- <div>這個問題已解決。 如果您在此流程中遇到更多問題，請告知小組。</div>
+- 這個問題已解決。 如果您在此流程中遇到更多問題，請告知小組。
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div><span style="display:inline !important;">解決一個問題，該問題導致使用者看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">附件的建立日期&nbsp; 他們透過托放方式將該附件複製到其檔案系統&nbsp; 該建立日期設於 4501年1月1日。</span><br></div>
+- <span style="display:inline !important;">解決一個問題，該問題導致使用者看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">附件的建立日期&nbsp; 他們透過托放方式將該附件複製到其檔案系統&nbsp; 該建立日期設於 4501年1月1日。</span><br>
 
 
-- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。</span><br></div>
+- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。</span><br>
 
 
-- <div><span style="display:inline !important;">解決導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。</span><br></div>
+- <span style="display:inline !important;">解決導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。</span><br>
 
 
-- <div><span style="display:inline !important;">解決導致在[建議功能]中尋找功能沒有結果並未留給使用者選項以提交新功能點子的問題。</span><br></div>
+- <span style="display:inline !important;">解決導致在[建議功能]中尋找功能沒有結果並未留給使用者選項以提交新功能點子的問題。</span><br>
 
 
 
@@ -201,7 +388,7 @@ ms.locfileid: "45094643"
 
 - 我們修正了在相同活頁簿中按一下加上書簽的超連結會導致活頁簿隱藏的問題。
 
-- 我們修正了某些複製和貼上的圖表連結使用的是映射磁碟機位址，而不是通用位址的問題。
+- 我們已修正某些複製和貼上的圖表連結使用的是映射磁碟機位址，而不是通用位址的問題。
 
 - 我們修正了當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
@@ -211,11 +398,11 @@ ms.locfileid: "45094643"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了當在不同解析度使用多個監視器時， IME （輸入法編輯器）會透過 IME 覆蓋所輸入的底下的文字。
+- 我們已修正以下問題：當使用多個不同解析度的監視器時，輸入法編輯器 (IEM) 視窗會覆蓋透過 IME 輸入的文字。
 
-- 我們修正了撰寫新電子郵件訊息時，查看範本會導致當機的問題。
+- 我們已修正在撰寫新電子郵件訊息時，檢視範本會導致當機的問題。
 
-- 我們修正了在 Outlook 版本1911之後，使用者無法交換2010公用資料夾的問題。
+- 我們已修正在 Outlook 版本 1911之後，使用者無法使用 Exchange 2010 公用資料夾的問題。
 
 - 我們修正了 Office 功能區中群組行事曆分類按鈕已停用的問題。
 
@@ -235,7 +422,7 @@ ms.locfileid: "45094643"
 
 - 我們修正了當處理純文字電子郵件中的超連結時，會導致使用者遇到 Outlook 當機的問題。
 
-- 我們修正了導致 Outlook 無法分析使用 RFC2231 編碼的長檔名的問題。
+- 我們已修正導致 Outlook 無法剖析使用 RFC2231 編碼的長檔名的問題。
 
 - 我們修正了導致 Outlook 使用者在使用螢幕閱讀器時遇到間歇性的問題。
 
@@ -243,7 +430,7 @@ ms.locfileid: "45094643"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們修正了使用以表單型驗證開啟伺服器設定的檔案時發生的問題。
+- 我們已修正使用表單型驗證開啟伺服器設定的檔案時發生的問題。
 
 - 我們修正了內嵌圖表/活頁簿的 PowerPoint 檔案可能會導致儲存檔案失敗的問題。
 
@@ -255,7 +442,7 @@ ms.locfileid: "45094643"
 
 - 我們修正了使用者已關閉的批註窗格會自動開啟的問題。
 
-- 我們修正了一張投影片的投影片編輯工具會在下一張投影片上重迭的問題。
+- 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
 ### <a name="project"></a>專案
 
@@ -967,7 +1154,7 @@ ms.locfileid: "45094643"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="project"></a>Project
 
-- <div><span style="display:inline !important;">修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。</span><br></div>
+- <span style="display:inline !important;">修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。</span><br>
 
 
 
@@ -1186,11 +1373,11 @@ ms.locfileid: "45094643"
 ### <a name="resolved-issues"></a>解決的問題
 
 ### <a name="project"></a>Project
-- <div>修正無法正確計算摘要工作日期的問題。</div>
+- 修正無法正確計算摘要工作日期的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
-- <div>修正在 Word/Excel/PowerPoint 中開啟來自相同 SharePoint 文件庫的多個文件時，僅掃描開啟的第一個文件是否符合原則的問題。</div>
+- 修正在 Word/Excel/PowerPoint 中開啟來自相同 SharePoint 文件庫的多個文件時，僅掃描開啟的第一個文件是否符合原則的問題。
 
 
 
@@ -1202,7 +1389,7 @@ ms.locfileid: "45094643"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- <div>解決導致協力廠商應用程式無法傳送電子郵件的問題。</div>
+- 解決導致協力廠商應用程式無法傳送電子郵件的問題。
 
 
 
@@ -1243,24 +1430,24 @@ ms.locfileid: "45094643"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;</div><div><span style="display:inline !important;"></span><br></div>
+- <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;<span style="display:inline !important;"></span><br>
 
 
 ### <a name="outlook"></a>Outlook
 
-- <div>解決導致會議的位置欄位中的逗號變成分號的問題。</div>
+- 解決導致會議的位置欄位中的逗號變成分號的問題。
 
 
-- <div>解決在多個視窗中檢視相同項目時可能會導致當機的問題。</div>
+- 解決在多個視窗中檢視相同項目時可能會導致當機的問題。
 
 
-- <div>解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。&nbsp;</div>
+- 解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。&nbsp;
 
 
-- <div>解決會導致使用黑色佈景主題的使用者看到 [從]&quot;&quot; 下拉式功能表在白色背景上顯示白色文字的問題。</div>
+- 解決會導致使用黑色佈景主題的使用者看到 [從]&quot;&quot; 下拉式功能表在白色背景上顯示白色文字的問題。
 
 
-- <div><span style="display:inline !important;">此變更會還原在郵件標頭中檢視多行主旨的功能。</span><br></div>
+- <span style="display:inline !important;">此變更會還原在郵件標頭中檢視多行主旨的功能。</span><br>
 
 
 

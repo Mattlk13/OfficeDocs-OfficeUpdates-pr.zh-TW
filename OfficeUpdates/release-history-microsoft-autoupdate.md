@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
+ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44211108"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45145110"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,49 @@ ms.locfileid: "44211108"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="july-2020-release"></a>2020 年 7 月版本
+
+**發行日期：** 2020 年 7 月 14 日
+
+*Microsoft Auto Update 4.25*
+
+**錯誤修正及增強功能：**
+- 偵測應用程式終止，並自動移除與「開啟的應用程式」相關的顯示對話方塊。
+- 恢復了 4 月版本中的功能，其中關閉了自動更新的使用者每週只能看到一次 Microsoft AutoUpdate UI。
+- 已修正下載更新之後，在安裝前更新小幫手終止的問題。
+- 已修正以下問題：在使用者通知擱置的情況下，更新小幫手長時間未終止。
+- 已修正安裝 MAU UI 後，重新開啟 (或未重新開啟) 的問題。 如果是從 MAU UI 本身啟動更新，或使用者明確地啟動更新 (透過 Finder、終端等)，UI 應會開啟。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.25 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
+
+<br/><br/>
+
+## <a name="june-2020-release"></a>2020 年 6 月版本
+
+**發行日期：** 2020 年 6 月 18 日
+
+*Microsoft Auto Update 4.24*
+
+**錯誤修正及增強功能：**
+- 客戶訊息活動：Mac 版 Office 2016 將於 2020 年 10 月終止支援。 
+- MAU 的 Helper 工具 XPC 連線的安全性修正程式。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.24 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
+
+<br/><br/>
 
 ## <a name="may-2020-release"></a>2020 年 5 月發行
 
