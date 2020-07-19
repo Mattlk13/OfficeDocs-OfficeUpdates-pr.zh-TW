@@ -1,5 +1,5 @@
 ---
-title: Office Beta 通道的更新歷程記錄
+title: Office 搶先版通道的更新歷程記錄
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
-ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
+ms.openlocfilehash: e4d242d5b7b9d9564cca3b3cbe7324101265f769
+ms.sourcegitcommit: 275efa6dec144dc7a6756d45086a0b3d3672f4b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45080158"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45153631"
 ---
-# <a name="update-history-for-office-beta-channel"></a>Office Beta 通道的更新歷程記錄
+# <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
 測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
 
@@ -29,20 +29,23 @@ ms.locfileid: "45080158"
 > - 此處的更新歷程記錄會列出發行的所有組建
 > - 版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。
 
-## <a name="office-beta-channel-versions-and-builds"></a>Office Beta 通道版本和組建
+## <a name="office-beta-channel-versions-and-builds"></a>Office 搶先版通道版本和組建
 
-如果您已登入會員層級，您會經常更新新功能和增強功能。 下列清單顯示最近 Beta 通道版本和內部版本的歷史記錄，並**先列出最近發行的版本**。 新的組建包含舊版內部版本中包含的所有更新。
+如果您註冊的是「測試人員 - 快」層級，您會經常收到包含新功能和改良功能的更新。 下表顯示最新的測試人員版本和組建歷程記錄，當中會**優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
 
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
 
 
 [//]: # (DO NOT REMOVE)
 
-**2020月7日**<br/>
+**2020年7月16日**<br/>
+版本2008（組建13115.20000）<br/>
+
+**2020年7月07日**<br/>
 版本2008（組建13102.20002）<br/>
 
-**2020年7月1日**<br/>
-版本2007（組建13029.20006）<br/>
+**2020年7月01日**<br/>
+版本 2007 (組建 13029.20006)<br/>
 
 **2020年6月29日**<br/>
 版本2007（組建13025.20000）<br/>
@@ -51,21 +54,21 @@ ms.locfileid: "45080158"
 版本2007（組建13020.20004）<br/>
 
 **2020年6月15日**<br/>
-版本2007（組建13012.20000）<br/>
+版本 2007 (組建 13012.20000)<br/>
 
-**2020年6月9日**<br/>
+**2020 年 6 月 09 日**<br/>
 版本2007（組建13006.20002）<br/>
 
-**2020年6月3日**<br/>
+**2020 年 6 月 03 日**<br/>
 版本2006（組建13001.20002）<br/>
 
-**2020年6月1日**<br/>
+**2020年6月01日**<br/>
 版本2006（組建12930.20014）<br/>
 
-**2020年5月25日**<br/>
+**5月25日2020**<br/>
 版本2006（組建12920.20000）<br/>
 
-**2020年5月18日**<br/>
+**2020年 5月 18日**<br/>
 版本2006（組建12914.20000）<br/>
 
 **2020 年 5 月 11 日**<br/>
