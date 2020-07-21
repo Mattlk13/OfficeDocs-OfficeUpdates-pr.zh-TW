@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
-ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
+ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45098667"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45166711"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,47 @@ ms.locfileid: "45098667"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2008-july-17"></a>版本2008：7月17日
+*版本2008（組建13115.20000）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了只要儲存並重新開啟含有隱藏前置字元的樞紐分析表，即會顯示前置字元的問題。
+
+- 我們修正了當透過 VBA 啟用活頁簿的 [ForceFullCalculation] 時，圖表不一會更新的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了從相同的電子郵件域在 Outlook 中建立多個設定檔會產生的問題。
+- 解決會導致在 S/MIME 加密郵件的頁首中無法顯示鎖定圖示的問題。
+- 解決當傳送未加密郵件時，會導致附件從 S/MIME 郵件中剝離出來的問題。
+- 解決當純文字 S/MIME 郵件在傳送時發生亂碼的問題。
+- 解決當傳送未加密的 S/MIME 電子郵件時，會導致附件損毀的問題。
+- 解決選取安全性對話方塊上的 [儲存] 選項時，會導致使用者無法將來自其租用戶外部的 OneDrive 附件儲存至其本機電腦的問題。
+- 解決當寄件者授與 [另存為] 許可權時，會導致收件者無法儲存許可權保護郵件的問題。
+- 解決某些 [進階搜尋] 選項標籤在某些語言中會被截斷的問題。
+
+### <a name="project"></a>Project
+
+- 我們修正了 [工作委員會] 畫面中列出的工作未與 [指派資源] 對話方塊中的任務同步處理的問題。
+- 我們修正了當您複製並貼上具有多個相關性的工作，並非所有相關性都能正確複製的問題。
+
+### <a name="word"></a>Word
+
+- 我們修正了當焦點位於註解文字方塊中時，[編輯器] 命令會被停用的問題。
+- 我們修正了當焦點位於註解文字方塊中時，[顯示標記] 命令會被停用的問題。
+- 我們修正了自訂 XML 中的註解狀態在開啟文件時可能會遺失的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了使用者從工作列開啟新應用程式視窗，並建立新的空白檔時，會造成額外檔案建立的問題。
+- 我們修正了當使用者在編輯文件，但是許可權遺失時，我們並未通知使用者必須重新驗證的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-july-10"></a>版本 2008：7 月 10 日
 *版本 2008 (組建 13102.20002)*
@@ -1022,5 +1063,6 @@ ms.locfileid: "45098667"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32 |DevMain |測試人員 | | 16.0.13115.20000 | 版本-2008-7月-17 |)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
