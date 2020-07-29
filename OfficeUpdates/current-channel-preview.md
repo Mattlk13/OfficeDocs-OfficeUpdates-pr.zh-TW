@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1a9ce7dee810cb11e7b77a0e97aa0f89fb64cb86
-ms.sourcegitcommit: 5f56314a735aa6d24dec23182dbd7f343e32f87f
+ms.openlocfilehash: ae8cbd43519543e425d9b21674e6541ba1631798
+ms.sourcegitcommit: 0329ec1911461878a2b0b594aa7cfde1f006ec4a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45189796"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45430690"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,10 @@ ms.locfileid: "45189796"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2007-july-27"></a>版本 2007：7 月 27 日
+*Version 2007 (組建 13029.20292)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2007-july-20"></a>版本 2007：7 月 20 日
 *版本2007 (組建 13029.20236)*
