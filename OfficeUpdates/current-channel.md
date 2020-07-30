@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 001bc31abe7d885133eac48c58c2c03ae67e6ac8
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187593"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506610"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -31,6 +31,35 @@ ms.locfileid: "45187593"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-july-28"></a>版本 2006：7 月 28 日
+*版本 2006 (組建 13001.20498)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正在分頁預覽中載入含有多個工作表的活頁簿時，可能會發生錯誤或當機的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正複製和貼上 SVG 影像的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正複製和貼上 SVG 影像的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 關閉 Office 檔案時，計時問題可能會導致當機。
 
 
 
@@ -863,6 +892,7 @@ ms.locfileid: "45187593"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
