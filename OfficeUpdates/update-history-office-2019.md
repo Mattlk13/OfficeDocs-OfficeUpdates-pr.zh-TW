@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: bb253c92976d420d74da61968dae95ce42313188
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
+ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138750"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522430"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -58,6 +58,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 7 月 28 日|版本 2006 (組建 13001.20498)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1458) <br/>|
 |2020 年 6 月 30 日|版本 2006 (組建 13001.20266)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 6 月 24 日|版本 2005 (組建 12827.20470)  |各種錯誤和效能修正。  <br/>  |
