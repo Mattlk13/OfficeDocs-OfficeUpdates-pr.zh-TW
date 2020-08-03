@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 9334d53945d72987154a3cd2e38f35d596aad7af
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: d96336b85347bf96fa9907938a6d15b3dc7b309e
+ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506590"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "46530332"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -35,6 +35,22 @@ ms.locfileid: "46506590"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="july-30-2020"></a>2020 年 7 月 30 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJuly 30, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2007 (組建 13029.20308)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2006 (組建 13001.20498) <br/> |2020 年 7 月 28 日 <br/> |374<br/> |
+|版本 2006 (組建 13001.20384) <br/> |2020 年 7 月 14 日 <br/> |158<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJuly 30, 2020)
 
 ## <a name="july-28-2020"></a>2020 年 7 月 28 日
 
