@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
-ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
+ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
+ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46525054"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46576795"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,36 @@ ms.locfileid: "46525054"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2007-august-05"></a>版本 2007：8 月 5 日
+*版本 2007 (組建 13029.20344)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決會導致 Outlook 無法擷取搜尋建議的問題。
+
+
+- 解決會導致使用者在擷取角色資訊時有時候會當機的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正無法開啟已進入錯誤狀態的專案的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-july-29"></a>版本 2007：7 月 29 日
 *版本 2007 (組建 13029.20308)*
