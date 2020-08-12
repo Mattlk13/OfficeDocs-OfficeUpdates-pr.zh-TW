@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e3ae5ac437c67270c7e8fdb561887249cff3ddf
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138789"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637673"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
 > [!IMPORTANT]
-我們將於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。
+> 我們將於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。 
 
 
 下列 Office 2010 產品會使用名為隨選即用的技術自動保持在最新狀態。
@@ -33,7 +33,7 @@ ms.locfileid: "45138789"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版本的 Office 2010 是**14.0.7254.5000**，也就是在2020年7月14日發行。
+> 最新版本的 Office 2010 是**14.0.7257.5000**，也就是在2020年8月11日發行。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -57,8 +57,9 @@ ms.locfileid: "45138789"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020|7 月 14 日 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
-||6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020| 8 月 11 日 <br/>|14.0.7257.5000 <br/>|[KB 4563408](https://support.microsoft.com/help/4563408) <br/>|
+||7 月 14 日 <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||6 月 9 日  <br/> |14.0.7252.5000  <br/> |[KB 4559448 ](https://support.microsoft.com/help/4559448 ) <br/> |
 ||5 月 12 日  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||4 月 14 日  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||3 月 11 日  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |

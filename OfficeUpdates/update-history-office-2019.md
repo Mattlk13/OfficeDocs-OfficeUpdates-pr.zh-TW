@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530342"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612335"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -36,6 +36,9 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 ## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019 大量授權版本
 下列資訊適用於大量授權版的 Office 2019，例如透過大量授權合約購買的 Office 專業增強版 2019。
 
+[//]: # (DO NOT REMOVE VL TABLE START)
+
+
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
 |2020 年 7 月 14 日   |版本 1808 (組建 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 |2020 年 2 月 11 日   |版本 1808 (組建 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (DO NOT REMOVE VL TABLE END)
+
+<details>
+<summary>較舊的版本</summary>
+ 
+[//]: # (DO NOT REMOVE VL OLD TABLE START)
 
 
+|**發行日期**|**版本號碼**|**詳細資訊**|
+|:-----|:-----|:-----|
 
+
+[//]: # (DO NOT REMOVE VL OLD TABLE END)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 零售版
 下列資訊適用於 Office 2016 C2R 和 Office 2019 零售版，這兩個版本共用相同的發行日期和版本號碼。
+
+[//]: # (DO NOT REMOVE RETAIL TABLE START)
+
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 |2020 年 6 月 30 日|版本 2006 (組建 13001.20266)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 6 月 24 日|版本 2005 (組建 12827.20470)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 6 月 9 日|版本 2005 (組建 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (DO NOT REMOVE RETAIL TABLE END)
+
+<details>
+<summary>較舊的版本</summary>
+ 
+[//]: # (DO NOT REMOVE RETAIL OLD TABLE START)
+
+
+|**發行日期**|**版本號碼**|**詳細資訊**|
+|:-----|:-----|:-----|
 |2020 年 6 月 2 日|版本 2005 (組建 12827.20268)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 5 月 21 日|版本 2004 (組建 12730.20352)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 5 月 12 日|版本 2004 (組建 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 |2020 年 2 月 11 日   |版本 2001 (組建 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (DO NOT REMOVE RETAIL OLD TABLE END)
 
+</details>
 
 
 
