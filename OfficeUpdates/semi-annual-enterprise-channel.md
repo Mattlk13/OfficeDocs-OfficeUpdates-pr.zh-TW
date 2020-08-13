@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 72b515d37a8529b17afec4e868df0b2171f83b09
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187603"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634599"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年的半年企業通道發行的版本資訊
 
@@ -26,6 +26,57 @@ ms.locfileid: "45187603"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-august-11"></a>版本 2002: 8月11日
+*版本2002（组建12527.20988）*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正了無法將以 [唯讀建議] 方式開啟的檔案切換至編輯功能的問題。
+
+### <a name="onenote"></a>OneNote
+
+- 移除了多餘的身分識別通話，以降低資源使用率
+
+- 改善了共同撰寫狀態的偵測，以降低資源利用率。
+
+- 改善了偵測錯誤的功能和同步處理經驗的品質。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在啟動某些租使用者的 Outlook 時，會導致嚴重效能問題的問題。
+
+### <a name="skype"></a>Skype
+
+- 修正了在執行數天後，會無法啟動 32位元 Skype 商務版客戶螢幕共享的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正了如果 [自動儲存] 已透過組織政策關閉的話，某些文件可能不會在開啟時顯示最新的伺服器內容，除非使用者點擊 [可用的更新] 才會顯現。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-august-11"></a>版本 1908: 8月11日
+*版本 1908 (組建 11929.20934)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+## <a name="version-1902-august-11"></a>版本 1902: 8月11日
+*版本 1902 (組建 11328.20644)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -1611,5 +1662,6 @@ ms.locfileid: "45187603"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production||16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
