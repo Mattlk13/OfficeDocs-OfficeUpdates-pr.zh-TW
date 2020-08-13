@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 28b78e3952867cb55b2b91e9e6d9d8d5f2e35063
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: e567d3139d7766b54d05e0ddf5272bc683c6f82a
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187583"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634869"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020年的半年期企業通道（預覽版）發行記錄
 
@@ -23,6 +23,43 @@ ms.locfileid: "45187583"
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2002-august-11"></a>版本 2002: 8月11日
+*版本2002（组建12527.20988）*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正了無法將以 [唯讀建議] 方式開啟的檔案切換至編輯功能的問題。
+
+### <a name="onenote"></a>OneNote
+
+- 移除了多餘的身分識別通話，以降低資源使用率
+
+- 改善了共同撰寫狀態的偵測，以降低資源利用率。
+
+- 改善了偵測錯誤的功能和同步處理經驗的品質。
+
+### <a name="outlook"></a>Outlook
+
+- 解决了在啟動某些租使用者的 Outlook 時，會導致嚴重效能問題的問題。
+
+### <a name="skype"></a>Skype
+
+- 修正了在執行數天後，會無法啟動 32位元 Skype 商務版客戶螢幕共享的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正了如果 [自動儲存] 已透過組織政策關閉的話，某些文件可能不會在開啟時顯示最新的伺服器內容，除非使用者點擊 [可用的更新] 才會顯現。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2002-july-14"></a>版本 2002：7 月 14 日
 *版本 2002 (組建 12527.20880)*
@@ -467,7 +504,7 @@ ms.locfileid: "45187583"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 此更新可修正 Microsoft Access 中的「更新查詢」執行時或在 SQL 中使用 UPDATE 陳述式時，可能導致發生錯誤「查詢已損壞」&quot;&quot;的問題。
+- 此更新可修正 Microsoft Access 中的「更新查詢」執行時或在 SQL 中使用 UPDATE 陳述式時，可能導致錯誤「查詢已損壞」的問題。
 
 - 此更新修正可能會導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
 
@@ -535,23 +572,23 @@ ms.locfileid: "45187583"
 
 - 解決導致協力廠商應用程式無法傳送電子郵件的問題。
 
-- 解決會導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定]&quot;&quot; 按鈕的空白訊息方塊的問題。
+- 已解決導致使用者在嘗試從 [帳戶建立] 內容連絡支援服務時，看到具有 [確定] 按鈕的空白訊息方塊的問題。
 
 - 解決導致使用者在建立設定檔時遇到當機的問題。
 
 - 解決即使將同步處理滑桿設定為較小的設定，也會導致 Outlook 非預期地同步處理所有郵件的問題。
 
-- 解決導致使用黑色佈景主題的使用者看到 [寄件者]&quot;&quot; 下拉式清單在白色背景上顯示白色文字的問題。
+- 解決導致使用黑色佈景主題的使用者看到 [寄件者] 下拉式清單在白色背景上顯示白色文字的問題。
 
-- 解決導致使用者在取消帳戶設定時發生當機的問題。
+- 已解決導致使用者在取消帳戶設定時發生當機的問題。
 
 - 解決重新命名簽名時，使用者遇到當機的問題。
 
-- 解決導致在某些情況下，用來停用標幟項目醒目提示的選項無法使用的問題。
+- 已解決導致在某些情況下無法使用相關選項來停用標幟項目醒目提示的問題。
 
-- 解決會導致使用者在開啟 [規則] 對話方塊時看到「在這部電腦中建立的規則和 Microsoft Exchange 上的規則衝突」提示的問題。
+- 已解決導致使用者在開啟 [規則] 對話方塊時看到「在這部電腦中建立的規則和 Microsoft Exchange 上的規則衝突」提示的問題。
 
-- 解決導致使用者在指定無效寄件者地址時發生當機的問題。
+- 已解決導致使用者在指定無效寄件者地址時發生當機的問題。
 
 - 解決導致非常長時間的 Outlook 工作階段記憶體流失的問題。
 
@@ -573,7 +610,7 @@ ms.locfileid: "45187583"
 
 - 解決與在巴西時區中設定的會議和約會相關的問題。
 
-- 解決當您關閉協助工具檢查程式窗格之後按 &quot;S&quot; 鍵時，導致使用者看到郵件意外傳送的問題。
+- 解決當您關閉協助工具檢查程式窗格之後按 [S] 鍵時，導致使用者看到郵件意外傳送的問題。
 
 - 這會更新 Outlook 中的附件封鎖邏輯，以同時封鎖 Python 附件。
 
@@ -603,7 +640,7 @@ ms.locfileid: "45187583"
 
 - 我們已修正在某些情況下，儲存現有檔案永遠會導致出現 [另存新檔] 對話方塊且檔案永遠不會儲存的問題。
 
-- 建置組塊召集人可能會顯示不正確通知：&quot;您已修改過樣式、建置組塊&quot;。
+- 建置組塊組合管理可能會顯示無效的通知：「您已經修改樣式、建置組塊」。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -731,5 +768,6 @@ ms.locfileid: "45187583"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|測試人員| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

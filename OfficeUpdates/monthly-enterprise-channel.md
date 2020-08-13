@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138679"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634799"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -26,6 +26,112 @@ ms.locfileid: "45138679"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2006-august-11"></a>版本 2006: 8月11日
+*版本2006（组建13001.20520）*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+- **篩選和排序而不干擾其他人：** 您現在可以排序和篩選您的 Excel 檔案，同時與其他人使用工作表檢視進行共同作業。 此新功能可防止您在共同撰寫文件時，受到其他使用者的排序和篩選的影響。 [深入了解](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **協助保護群組中的資料：** 建立群組時所選擇的「敏感度」標籤會套用到群組電子郵件、文件及小組網站。
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+- **在 Outlook 中撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及的選擇器很煩人，一點都不好用？ 現在您可以視需要將其關閉了。<br />在[部落格文章](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)中查看詳細資料
+
+- **將圖片作為電子郵件的一部分傳送時，讓圖片保持高畫質：** 一個新 Outlook 設定，可讓您在隨著電子郵件內容傳送圖片時限制圖片壓縮。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+- **改善的 PowerPoint 中的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立出流暢的觀賞體驗。 您可以使用 Microsoft Stream 上您的公司影片來建立更完善的簡報。
+
+### <a name="word"></a>Word
+
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正執行查詢的時間大約比預期完成時間兩倍久的問題。
+
+- 解決插入含有身分識別 (例如，自動編號) 欄位的連結 SQL 資料表的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
+
+- 已修正在載入含有多張分頁預覽的活頁簿時，可能會發生錯誤或當機問題。
+
+- 已修正當您從帳戶登出時，嘗試建立資料連線時，可能會發生的當機問題。
+
+- 自動文件分類可能已對處於唯讀模式的活頁簿發生。
+
+### <a name="onenote"></a>OneNote
+
+- 改善共同撰寫狀態的偵測，以降低資源利用率。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正複製和貼上 SVG 影像的問題。
+
+- 解決導致在[建議功能]中尋找功能沒有結果並未留給使用者選項以提交新功能點子的問題。
+
+- 解決啟用雲端設定時，按下 Ctrl + 按一下會造成運作停止的問題。
+
+- 解決選取安全性對話方塊上的 [儲存] 選項時，會導致使用者無法將來自其租用戶外部的 OneDrive 附件儲存至其本機電腦的問題。
+
+- 解決導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。
+
+- 解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。
+
+- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。
+
+### <a name="project"></a>Project
+
+- 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
+
+- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
+
+- 修正 URL 以 .com 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
+
+### <a name="word"></a>Word
+
+- 我們已修正複製和貼上 SVG 影像的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們會將新的 AppV51 向後移，以修正先前 AppV51 中的回歸。
+
+- 關閉 Office 檔案時，計時問題可能會導致當機
+
+- 解決在登錄 TabProcGrowth 值為 REG_SZ 類型的情況下啟用增益集時，Windows 中的 Office 主機會當機的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2005-august-11"></a>版本 2005: 8月11日
+*版本2005（组建12827.20656）*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2005-july-14"></a>版本 2005：7 月 14 日
 *版本 2005 (組建 12827.20538)*
@@ -82,9 +188,9 @@ ms.locfileid: "45138679"
 
 - 解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。
 
-- 解決會導致使用者在 Outlook 中更新其規則時，看到 [此電腦上的規則與 Microsoft Exchange 上的規則不相符] &quot;&quot;訊息的問題。
+- 解決會導致使用者在 Outlook 中更新其規則時，看到「此電腦上的規則與 Microsoft Exchange 上的規則不相符」訊息的問題。
 
-- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。&nbsp;
+- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。
 
 - 解決 Outlook 無法為已支付 M365 Business Plus 方案服務的使用者啟用「資料外洩防護」原則提示的問題。
 
@@ -416,5 +522,6 @@ ms.locfileid: "45138679"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32 |MEC |生產 |功能 | 16.0.13001.20520 | 版本-2006-11 |)
 [//]: # (|Win32|MEC|生產|功能|16.0.12827.20538|版本-2005-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

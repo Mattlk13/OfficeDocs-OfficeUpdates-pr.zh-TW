@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: ce80a830a0c18416cadc9c49c46ae12eea07998b
-ms.sourcegitcommit: 0c33b30b826a4bded208c4d4523d89b63d1c5c67
+ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580846"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634824"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -31,6 +31,31 @@ ms.locfileid: "46580846"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-august-11"></a>版本 2007: 8月11日
+*版本 2007 (組建 13029.20344)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決會導致 Outlook 無法擷取搜尋建議的問題。
+
+
+- 解決會導致使用者在擷取角色資訊時有時候會當機的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正無法開啟已進入錯誤狀態的專案的問題。
 
 
 
@@ -62,9 +87,7 @@ ms.locfileid: "46580846"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **自動套用或建議敏感度標籤：** Office 可以根據偵測到的敏感性內容來建議或自動套用敏感度標籤。
-
-- **改善的 PowerPoint 中的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立出流暢的觀賞體驗。 您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
 ### <a name="teams"></a>Teams
 
@@ -995,6 +1018,7 @@ ms.locfileid: "46580846"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32 |CC|生產||16.0.13029.20344|版本-2007-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
