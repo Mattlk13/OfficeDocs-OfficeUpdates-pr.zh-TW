@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
+ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634849"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46788953"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,29 @@ ms.locfileid: "46634849"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2008-august-17"></a>版本2008：8月17日
+*版本2008（組建13127.20208）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決了當代理人在某些情況下遭到拒絕而導致會議無法從經理的行事曆中移除的問題。
+
+
+- 解決了導致某些字元集的使用者在將 [智慧型連結] 新增至 SharePoint 檔案時，發現檔案名不正確的問題。
+
+
+- 解決了當您從 POP 帳戶刪除4或多個電子郵件時，已選取 [僅下載標題] 選項時，導致使用者遇到當機的問題。
+
+
+- 解決的問題導致在搜尋控制項中無法顯示滑鼠右鍵功能表。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2008-august-11"></a>版本 2008: 8月11日
 *版本2008（组建13127.20164）*
