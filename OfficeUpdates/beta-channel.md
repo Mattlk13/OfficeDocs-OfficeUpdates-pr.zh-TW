@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5dd3ce25eb04453e84bfd6aa69bf54d50be666e3
-ms.sourcegitcommit: b710cf05db7ca14c8ee959b8cbe284e794d7c980
+ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
+ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46695297"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852519"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,47 @@ ms.locfileid: "46695297"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2009-august-21"></a>版本 2009：8 月 21 日
+*版本 2009 (組建 13212.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Excel 中的動作手寫筆：** 手寫筆工具可協助您手寫並快速編輯資料
+
+### <a name="outlook"></a>Outlook
+
+- **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+
+- 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
+
+### <a name="excel"></a>Excel
+
+- 我們已修正使用巨集來設定某個範圍的 FormulaR1C1 屬性時，如果圖表工作表為作用中工作表，則儲存格參考會不正確的問題。
+- 我們已修正筆跡會導致 Excel 無法回應的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正一個問題，使用者現在可以停用 Outlook 的 IRM (資訊版權管理)，而不需要為其餘 Office 應用程式停用它。
+
+### <a name="word"></a>Word
+
+- 我們已修正刪除註解之後 Word 可能會當機的問題。
+- 我們已修正在某些情況下，項目符號無法在電子郵件中正確顯示的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-14"></a>2009 版本: 8月14日
 * 2009 版本 (組建 13205.20000)*
@@ -1190,6 +1231,7 @@ ms.locfileid: "46695297"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
