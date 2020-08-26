@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 44e8d793dc8a4a7757bb83320b1ccaf47066886a
-ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
+ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46788953"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895696"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,42 @@ ms.locfileid: "46788953"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2008-august-25"></a>版本 2008：8 月 25 日
+*版本 2008 (組建 13127.20268)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **依人員搜尋時，收到電子郵件的建議：** 當您在 Outlook 中輸入搜尋字詞時，您會在建議中看到出現最相關的電子郵件。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決會導致使用者在回覆或撰寫新電子郵件時收到下列錯誤的問題：「這個網頁中的某些檔案不存在預期的位置。 請問您一定要下載嗎?  如果您確定網頁來自信任的來源，請按 [是]」
+
+
+### <a name="project"></a>Project
+
+- 修正如果資源中定義了多個成本費率表，其餘成本並不一定都能正確地計算的問題。
+
+
+### <a name="word"></a>Word
+
+- 解決會導致使用者在回覆或撰寫新電子郵件時遇到當機的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-17"></a>版本2008：8月17日
 *版本2008（組建13127.20208）*
@@ -52,7 +88,7 @@ ms.locfileid: "46788953"
 [//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2008-august-11"></a>版本 2008: 8月11日
-*版本2008（组建13127.20164）*
+*版本2008（組建13127.20164）*
 
 安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
