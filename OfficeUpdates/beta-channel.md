@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 578be61a5df623c1d7e3d4584abd30df21933785
-ms.sourcegitcommit: a5f124e1687f2ac4b7c96c11da9d1317503558ad
+ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
+ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "46852519"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300307"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,33 @@ ms.locfileid: "46852519"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2009-august-28"></a>版本2009：8月28日
+*版本2009（組建13219.20004）*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解決一個問題, 該問題導致用戶在選擇多個訊息時, 能夠發送Microsoft OneNote所應用的“不轉發”策略的電子郵件內容。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們修正了插入影片的功能已停用的問題。
+
+### <a name="word"></a>Word
+
+- 我們修正了使用者在選擇註解時無法退出頁首/頁尾的問題。
+- 我們已修正一個問題，該問題使用者無法看到超邊界的註解，因為在 在邊界中無法下拉。
+- 我們修正了在邊界窗格中, 搜尋已解決的評論無法正常運作的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了Office Deployment Tool Office部署工具中的一個問題，該問題是, 此工具在使用帶有Microsoft Office 2007 [Microsoft應用程序錯誤報告] 的RemoveMSI功能時配置失敗。
+- 我們在 [壓縮圖片] 對話方塊中, 修正了某些使用者選取的 DPI 設定不會保留的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-21"></a>版本 2009：8 月 21 日
 *版本 2009 (組建 13212.20000)*
@@ -1231,6 +1258,7 @@ ms.locfileid: "46852519"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32 |DevMain |測試人員 | | 16.0.13219.20004 | 版本-2009-8 月-28 |)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)

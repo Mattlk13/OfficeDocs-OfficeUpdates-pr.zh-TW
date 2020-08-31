@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 580dfcb7a5360c3a9dabb2f1c3667b24b8b5f60a
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: b14aec3680a609752ae84dbd3d9c12732e01345f
+ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895696"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47294375"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,46 @@ ms.locfileid: "46895696"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2008-august-27"></a>版本2008：8月27日
+*版本2008（組建13127.20296）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **搜尋時收到附件建議：** 您在 Outlook 中輸入搜尋字詞時, 在建議中, 您會收到最相關的檔案顯現在最上方。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 修正導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
+
+- 修正了新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+
+- 修正了當與雲端附件互動時，導致使用者偶爾當機的問題。
+
+- 修正了編輯收件者時，導致使用者偶爾當機的問題。
+
+- 修正導致使用者在使用壓縮模式時發生異常的問題。
+
+### <a name="word"></a>Word
+
+- 此更改解決了一個問題，即在上一個協同合作的作業後，Microsoft Office 應用程式可能卡在未通知的儲存失敗狀態的問題。
+
+- 我們已修正整體的 AutoOpen 在 AutoExec 之前執行的問題
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-25"></a>版本 2008：8 月 25 日
 *版本 2008 (組建 13127.20268)*
@@ -48,7 +88,7 @@ ms.locfileid: "46895696"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 解決會導致使用者在回覆或撰寫新電子郵件時收到下列錯誤的問題：「這個網頁中的某些檔案不存在預期的位置。 請問您一定要下載嗎?  如果您確定網頁來自信任的來源，請按 [是]」
+- 解決會導致使用者在回覆或撰寫新電子郵件時收到下列錯誤的問題：「這個網頁中的某些檔案不存在預期的位置， 請問您一定要下載嗎? 如果您確定網頁來自信任的來源，請按 [是]」
 
 
 ### <a name="project"></a>Project
