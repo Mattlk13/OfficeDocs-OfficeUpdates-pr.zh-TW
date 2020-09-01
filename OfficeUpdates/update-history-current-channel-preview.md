@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 505899f09c8a0c0126ba8b8c5233040f92cfab2c
+ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895737"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47294365"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道（預覽）更新歷程記錄
 
@@ -34,6 +34,12 @@ ms.locfileid: "46895737"
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
 > - 版本資訊更新的頻率較慢，可能會彙集多個組建的更新，直到版本資訊發佈的組建編號為止。
+
+
+[//]: # (DO NOT REMOVE)
+
+**2020 年 8 月 27 日**<br/>
+版本 2008 (組建 13127.20296)<br/>
 
 
 
