@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
-ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
+ms.openlocfilehash: d63e475069ceab71e83b9b3b063a32c92d124771
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "47319000"
+ms.locfileid: "47320781"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -51,7 +51,7 @@ ms.locfileid: "47319000"
 
 - **電子郵件中的改良連結：** 當您包含檔案的連結時，檔案名會取代 URL。 您可以變更權限，讓所有收件者都能存取。 [深入了解](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[部落格文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看詳細資料
 
-- **搜尋中的自然語言支援: 透過在搜詢實施的自然語言支援** ，使用者不需記住特定的搜尋語法, 可以輕鬆篩選其搜尋結果。
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
