@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b14aec3680a609752ae84dbd3d9c12732e01345f
-ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
+ms.openlocfilehash: 73fc4756a5e6152fdbabdac3514e16b6937f5c9e
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47294375"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47320791"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -32,11 +32,6 @@ ms.locfileid: "47294375"
 *版本2008（組建13127.20296）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="outlook"></a>Outlook
-
-- **搜尋時收到附件建議：** 您在 Outlook 中輸入搜尋字詞時, 在建議中, 您會收到最相關的檔案顯現在最上方。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -740,7 +735,7 @@ ms.locfileid: "47294375"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
