@@ -31,15 +31,15 @@ ms.locfileid: "47300307"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2009-august-28"></a>版本2009：8月28日
-*版本2009（組建13219.20004）*
+## <a name="version-2009-august-28"></a>版本 2009：8 月 28 日
+*版本 2009 (組建 13219.20004)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 解決一個問題, 該問題導致用戶在選擇多個訊息時, 能夠發送Microsoft OneNote所應用的“不轉發”策略的電子郵件內容。
+- 解決一個問題，該問題導致使用者在選擇多個訊息時，能夠傳送 OneNote 所套用的「不可轉寄」原則的電子郵件內容。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -47,14 +47,14 @@ ms.locfileid: "47300307"
 
 ### <a name="word"></a>Word
 
-- 我們修正了使用者在選擇註解時無法退出頁首/頁尾的問題。
-- 我們已修正一個問題，該問題使用者無法看到超邊界的註解，因為在 在邊界中無法下拉。
-- 我們修正了在邊界窗格中, 搜尋已解決的評論無法正常運作的問題。
+- 我們修正了使用者在選取註解時無法退出頁首/頁尾的問題。
+- 我們已修正一個問題，該問題造成使用者無法看到超出邊界的註解，因為在邊界中無法下拉。
+- 我們修正了在邊界窗格中，搜尋已解決的註解無法正常運作的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們修正了Office Deployment Tool Office部署工具中的一個問題，該問題是, 此工具在使用帶有Microsoft Office 2007 [Microsoft應用程序錯誤報告] 的RemoveMSI功能時配置失敗。
-- 我們在 [壓縮圖片] 對話方塊中, 修正了某些使用者選取的 DPI 設定不會保留的問題。
+- 我們修正了 Office 部署工具中的一個問題，該問題是，在 Microsoft Office 2007 [Microsoft 應用程式錯誤回報工具] 產品存在的情況下使用 RemoveMSI 功能時設定失敗。
+- 我們在 [壓縮圖片] 對話方塊中，修正了某些使用者選取的 DPI 設定無法保留的問題。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -1258,7 +1258,7 @@ ms.locfileid: "47300307"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
-[//]: # (|Win32 |DevMain |測試人員 | | 16.0.13219.20004 | 版本-2009-8 月-28 |)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
