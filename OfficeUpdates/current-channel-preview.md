@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 73fc4756a5e6152fdbabdac3514e16b6937f5c9e
-ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
+ms.openlocfilehash: 8953376164e06da93d331a31a86d43b8d3bbf3ab
+ms.sourcegitcommit: 24a6f5290f2c3a86c9109d64ff0ed39b2de9337c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "47320791"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47341029"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,40 @@ ms.locfileid: "47320791"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2008-september-02"></a>版本 2008：9 月 2 日
+*版本2008（組建13127.20360）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **使用 Excel 手寫筆進行快速編輯：**[手寫筆工具] 可協助您手寫並快速編輯資料
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正使用 [複製格式] 時，某些情況下，Excel 可能會當機的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正基本樣式並未以 [內文樣式] 更新的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-27"></a>版本2008：8月27日
 *版本2008（組建13127.20296）*
@@ -735,7 +769,7 @@ ms.locfileid: "47320791"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
