@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ac7805c2d64654f7c2bb2589f0df964f696fd65e
-ms.sourcegitcommit: 01644a92de14661e9f84a777deb504226b9a2bcc
+ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
+ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300307"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47395422"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,79 @@ ms.locfileid: "47300307"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-september-04"></a>版本2010：9月04日
+*版本2010（組建13301.20004）*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 建立資料類型：** 使用任何資料來源中的 Power Query 建立豐富的資料類型
+
+- **Azure Synapse Analytics品牌調整：** Azure SQL 資料倉儲資料連線器已重新更名為 Azure Synapse Analytics
+
+### <a name="outlook"></a>Outlook
+
+- **釘選電子郵件**：這項功能可協助使用者追蹤所需的郵件，或是將郵件存放在郵寄清單頂端作為提醒。
+
+- **依人員搜尋時收到電子郵件的建議：** 當您在 Outlook 中輸入搜尋字詞時，您會收到建議中顯示的最相關的電子郵件。
+
+- **依人員搜尋時收到電子郵件的建議：** 當您在 Outlook 中輸入搜尋字詞時，您會收到建議中顯示的最相關的電子郵件。
+
+- **Microsoft Corporation 編輯器針對Word和Outlook桌面客戶端進行了升級: ** 我們正為編輯器的拼寫，文法和高級樣式建議引入一種新的點擊查看模型。。 此變更也包含用於審核建議的新的專用卡外觀。
+
+### <a name="word"></a>Word
+
+- **Microsoft Corporation 編輯器針對Word和Outlook桌面客戶端進行了升級: ** 我們正為編輯器的拼寫，文法和高級樣式建議引入一種新的點擊查看模型。。 此變更也包含用於審核建議的新的專用卡外觀。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了一個問題, 即如果您開啟包含LET 函數的檔案，它會顯示警示：”我們在您的檔案.xlsx 中發現內容有問題”。 您想要我們儘量嘗試復原嗎？ 如果您信任這個活頁簿的來源，請按一下 [是]。
+- 我們已修正與 XLAM 增益集參照和命名範圍相關的問題。
+- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+- 我們修正了一個問題: 如果使用者將自訂樣式套用至動態陣列, 他們則會收到錯誤提示：「您無法變更陣列的一部分」。 這是舊版限制，已移除。
+- 我們修正了 Excel 公式列與設備失去連線後無法完全呈現的問題，例如遠端會話的連線/斷線或監視器變更。
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了一個問題, 讓您可透過群組政策來啟用/停用預設的登入選項。
+- 我們修正了電子郵件草稿在助理和經理權限移動時, 寄件者的舊網域名稱仍被保留和顯示的問題。
+- 我們已修正一個問題，其導致某些使用者看到 Outlook 在離線狀態下啟動，直到他們手動選擇線上工作。
+- 我們已修正在啟用單行功能區（SLR）後，執行 VBA 程式碼 ActiveInspector （"ShowSchedulingPage"）會導致執行階段錯誤的問題。
+- 我們修正了一個問題, 即Automatic Replies自動回復對話方塊上的確定和取消按鈕以高解析度（例如 1750 x 1920）及較大文字（例如175%）顯示的系統上的錯誤。
+- 我們修正一個情況, 即將會議請求從空的聯繫人群組發送到另一個聯繫人組會導致當機。
+- 我們解決了導致使用者在打開某些很大的電子郵件時發生當機的問題。
+- 我們修正了一個問題, 它使的群組政策要求始終啟用增益集, 則 監視增益集的功能則無法使用，以防止使用者禁用增益集,。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正簡報無法自動播放影片的問題。
+- 我們已修正啟動 PowerPoint 之後，插入投影片並開啟和關閉批註窗格的問題，縮圖窗格中的投影片會顯示為重疊。
+
+### <a name="project"></a>Project
+
+- 我們修正了如果資源有多個成本費率表的問題，則剩餘成本可能無法被正確計算.
+- 我們已修正了與Microsoft SharePoint Online 專案相關的專案清單, 專案完成日期無法更新的問題。
+
+### <a name="word"></a>Word
+
+- 我們修正了一個問題, 即使用者點擊註解，註解卡將在註解文周圍顯示邊框。
+- 我們修正了一個問題, 即如將文件縮放到160％或更高, 且註解窗格不可見，焦點將不會移至註解窗格。
+- 我們修復了一個問題，即在多個打開的文件之間切換後，一個文件的註解會顯示在其他打開的文檔上。
+- 我們修復了一個問題，即如果使用者建立的評論草稿, 錨定在已包含提交的評論行上，則在SideTrack與提交評論相關的草案則以錯誤的順序排列。
+- 我們修正了將檔案儲存成 HTML 格式時, 無法包含入長的連結的問題。
+- 我們已修正 AutoOpen 在 AutoExec 之前會執行的許多問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-28"></a>版本 2009：8 月 28 日
 *版本 2009 (組建 13219.20004)*
@@ -1258,6 +1331,7 @@ ms.locfileid: "47300307"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
