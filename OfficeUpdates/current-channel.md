@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399650"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413051"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -376,6 +376,8 @@ ms.locfileid: "47399650"
 ### <a name="excel"></a>Excel
 
 - **較長的檔案名稱：** Windows 桌面版專用 Excel 現在支援使用最多 400 個字元名稱和路徑的 OneDrive/SharePoint 檔案。
+
+- **RealTimeData (RTD) 的改進：** 在 Office 365 版本 2002 的每月通道或更新版本中，Excel RealTimeData (RTD) 函數速度比在 Excel 2010 試算表中計算資料還快。 我們在其基礎記憶體和資料結構中移除了瓶頸，並使其成為安全執行緒，讓它可在多執行緒重新計算 (MTR) 的所有可用執行緒上計算。
 
 ### <a name="outlook"></a>Outlook
 
@@ -884,6 +886,10 @@ ms.locfileid: "47399650"
 - **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。
 
 - **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+
+###<a name="powerpoint"></a>PowerPoint
+
+- **註解：** PowerPoint 中新增的註解體驗可讓您快速輕鬆地探索文件並新增註解。 使用註解錨定、解決、工作、已改進的提及通知等新功能，現代化您的共同作業工作流程。
 
 ### <a name="word"></a>Word
 

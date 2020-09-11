@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 7a8ea9fc651d9fa889d7d494c264dd82de6bb554
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: b99154c661f1ac0a8f4f2efe71f10cdd2f7c986d
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634529"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413141"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2013 是 **15.0.5267.1000**，發行時間為 2020 年 8 月 11 日。
+> 最新版的 Office 2013 是 **15.0.5275.1000**，發行時間為 2020 年 9 月 8 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -45,7 +45,8 @@ ms.locfileid: "46634529"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020| 8 月 11 日 | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
+|2020| 9 月 8 日| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
+||8 月 11 日 | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||7 月 14 日    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
 ||6 月 9 日   |15.0.5249.1001   |[KB 4559448 ](https://support.microsoft.com/help/4559448)|
 ||5 月 12 日   |15.0.5241.1000   |[KB 4549680 ](https://support.microsoft.com/help/4549680)  |

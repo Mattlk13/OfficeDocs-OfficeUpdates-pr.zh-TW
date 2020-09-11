@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634599"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413071"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年的半年企業通道發行的版本資訊
 
@@ -29,6 +29,41 @@ ms.locfileid: "46634599"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-september-08"></a>版本 2002：9 月 8 日
+*版本 2002 (組建 12527.21104)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 這解决了舊版 Office 中 SQL 資料提供者建立的連結設定內部表格内容與 Office 365 不同的問題。 這導致在舊版 Office 中使用 Office 365 開啟文件時，這些檔案的 [表格預覽/查詢編輯器] 下拉清單被停用。
+
+
+- 已解決筆跡會導致 Excel 無法回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更解決 [壓縮圖片] 對話方塊無法保留特定使用者設定的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-september-08"></a>版本 1908：9 月 8 日
+*版本 1908 (組建 11929.20946)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2002-august-11"></a>版本 2002: 8月11日
 *版本2002（组建12527.20988）*
@@ -1662,6 +1697,7 @@ ms.locfileid: "46634599"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production||16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

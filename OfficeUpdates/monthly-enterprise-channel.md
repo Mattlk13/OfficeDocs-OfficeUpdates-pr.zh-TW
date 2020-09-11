@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
-ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
+ms.openlocfilehash: 9c44e177282a394deae512e9cb57da494189a5f1
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798369"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47412991"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -26,6 +26,120 @@ ms.locfileid: "46798369"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2007-september-08"></a>版本 2007：9 月 8 日
+*版本 2007 (組建 13029.20534)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **快速重新開啟上一個工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。 不管 Outlook 當機或您將其關閉，您現在可以在重新開啟應用程式時快速重新啟動項目。 這項功能預設為啟用。 若要將它關閉，請移至 [選項] > [一般] > [啟動選項]。
+
+### <a name="word"></a>Word
+
+- **以向量保留文字：** 現在當您在 Excel、Word 和 PowerPoint 中轉換地圖、圖表和其他 SVG 向量等物件時，您可以保留物件中的文字。
+
+### <a name="office-suite"></a>Office 套件
+
+- **索引標籤式窗格：** 現在您可以使用應用程式右側的索引標籤 UI，在多個窗格之間切換。 只有當您開啟 2 個以上的窗格時，該 UI 才會顯示。<br />在[部落格文章](https://blog-insider.office.com/2020/02/20/improved-pane-management/)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此修正會解決嘗試執行之前會產生「查詢太複雜」錯誤訊息的特定查詢的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 修正在分頁預覽中載入含有多個工作表的活頁簿時，可能會發生錯誤或當機的問題。
+
+
+- 嘗試使用 LET() 函數儲存含有公式的檔案時發生錯誤。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決事件通知警示中導致格式設定問題的問題。
+
+
+- 解決會導致 Outlook 使用者在精簡檢視中發現瀏覽問題的問題。
+
+
+- 解決會導致使用者在擷取角色資訊時有時候會當機的問題。
+
+
+- 解決導致 [排程助理員] 頁面無法顯示的問題。
+
+
+- 解決了當選取安全性對話方塊上的 [儲存] 選項時，導致使用者無法將 OneDrive 外部的 OneDrive 附件儲存至他們的本機電腦的問題。
+
+
+- 解決會導致若「未」核取 [下載共用資料夾]，共用行事曆會議的 [回應選項] 中會遺失 [允許轉寄] 選項的問題。
+
+
+- 解決會導致 Outlook 無法擷取搜尋建議的問題。
+
+
+- 解決了導致某些字元集的使用者在將 [智慧型連結] 新增至 SharePoint 檔案時，發現檔案名不正確的問題。
+
+
+- 解決會導致 CLP 使用者在回覆時的寄件者地址，從受保護的內容切換到未受保護的內容時會發生當機的問題。
+
+- 解決會導致使用者在回覆或撰寫新郵件時遇到當機的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 PowerPoint 應用程式的當機問題。
+
+
+### <a name="project"></a>Project
+
+- 修正無法將 PDF/XPS 從 Project 儲存至 SharePoint 文件庫的問題。
+
+
+- 修正當您貼上的工作具有多個依存性時，無法正確複製所有依存性的問題。
+
+
+- 已修正 [指派資源] 對話方塊中選取的工作與工作面板檢視中所選工作不同的問題。
+
+
+- 修正無法開啟已進入錯誤狀態的專案的問題。
+
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用者在特定情況下 (特別是進入或退出簡報者檢視畫面或使用多個監視器) 看到 UI 元素或內容未顯示的問題。
+
+
+- 修正即使完整產品的轉換已完成，也會導致執行階段訊息顯示的問題。 此問題的修正程式是確保服務正確計算新增的產品。 我們已篩選出新增的產品 (確保它們同時存在於新的設定中)，並將它們新增到現有產品發行識別碼的結尾。
+
+
+- 針對舊版非網頁服務的 [共用] 窗格，在開啟 [共用] 窗格下關閉文件時，可能會導致當機。 這個問題現在已經修正。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2006-september-08"></a>版本 2006：9 月 8 日
+*版本 2006 (組建 13001.20648)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2006-august-11"></a>版本 2006: 8月11日
 *版本2006（组建13001.20520）*
@@ -522,6 +636,7 @@ ms.locfileid: "46798369"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32 |MEC |生產 |功能 | 16.0.13001.20520 | 版本-2006-11 |)
 [//]: # (|Win32|MEC|生產|功能|16.0.12827.20538|版本-2005-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

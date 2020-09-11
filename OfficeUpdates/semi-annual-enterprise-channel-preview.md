@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: bdfd18bc1ff883f260b12009400bf9b62993d939
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: cb982a4bf75776aa41aa6f815925a0a20a397b25
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413161"
+ms.locfileid: "47420737"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020年的半年期企業通道（預覽版）發行記錄
 
@@ -71,7 +71,7 @@ ms.locfileid: "47413161"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用 @提及取得他人注意：** 在註解中使用 @提及功能，讓同事知道您需要他們提供建議。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **使用 \@提及取得他人注意：** 在註解中使用 @提及功能，讓同事知道您需要他們提供建議。 [深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
 - **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
