@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5f78997f33f73d23e4b8be0261b2f8a0e42618a5
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: a6407186bb113b209692db657f7a62c1e68839fa
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364164"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47420717"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -36,42 +36,59 @@ ms.locfileid: "47364164"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="september-9-2020"></a>2020 年 9 月 9 日
 
-## <a name="september-3-2020"></a>2020 年 9 月 3 日
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 9, 2020)
 
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2008 (組建 13127.20408)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2008 (組建 13127.20296) <br/> |2020 年 8 月 31 日 <br/> |51<br/> |
+|版本 2007 (組建 13029.20460) <br/> |2020 年 8 月 25 日 <br/> |510<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 9, 2020)
+
+## <a name="september-8-2020"></a>2020 年 9 月 8 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 8, 2020)
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2007 (組建 13029.20514)。</i>
+最新的版本是版本 2007 (組建 13029.20534)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2006 (組建 13001.20520) <br/> |2020 年 8 月 11 日 <br/> |157<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2008 (組建 13127.20360)。</i>
+最新的版本是版本 2008 (組建 13127.20408)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2002 (組建 12527.20988) <br/> |2020 年 8 月 11 日 <br/> |375<br/> |
+|版本 2002 (組建 12527.20988) <br/> |2020 年 8 月 11 日 <br/> |374<br/> |
 |版本 2002 (組建 12527.20880) <br/> |2020 年 7 月 14 日 <br/> |600<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2002 (組建 12527.21074)。</i>
+最新的版本是版本 2002 (組建 12527.21104)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2002 (組建 12527.20988) <br/> |2020 年 8 月 11 日 <br/> |67<br/> |
-|版本 2002 (組建 12527.20880) <br/> |2020 年 7 月 14 日 <br/> |72<br/> |
+|版本 2002 (組建 12527.20988) <br/> |2020 年 8 月 11 日 <br/> |59<br/> |
+|版本 2002 (組建 12527.20880) <br/> |2020 年 7 月 14 日 <br/> |74<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 8, 2020)
+
+
+
 
 ## <a name="august-31-2020"></a>2020 年 8 月 31 日
 
