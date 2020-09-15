@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: d3309f60d502cdcc50564028e8de5954a43af71f
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413051"
+ms.locfileid: "47420747"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -32,6 +32,38 @@ ms.locfileid: "47413051"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-september-09"></a>版本 2008：9月 9 日
+*版本 2008 (組建 13127.20408)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- Access 已修正這個最新的問題，但將調查我們的其他介面，以確保此問題不會持續。 團隊會通知您未來的更新；感謝您的耐心等候。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正使用 [複製格式] 時，某些情況下，Excel 可能會當機的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在調整圖案大小時，使用者可能會遺失內容的問題。
+
+
+- 我們已修正基本樣式未更新為「內文樣式」的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更解決 [壓縮圖片] 對話方塊無法保留特定使用者設定的問題。
 
 
 
@@ -861,7 +893,7 @@ ms.locfileid: "47413051"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="onenote"></a>OneNote
 
-- 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，將協助改善在全球高使用量期間的同步處理與服務可用性。
+- 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，可協助改善在高全球使用狀況時的同步處理與服務可用性。
 
 ### <a name="project"></a>Project
 
@@ -1201,6 +1233,7 @@ ms.locfileid: "47413051"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32 |CC|生產||16.0.13029.20344|版本-2007-11|)

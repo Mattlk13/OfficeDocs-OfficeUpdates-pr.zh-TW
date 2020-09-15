@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: abdca10264af989863f96f6470d75985cc2a0c62
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: acc9ad5e894e0405a35a8244c97d5f2a4a0f05a8
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413131"
+ms.locfileid: "47420689"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -46,7 +46,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
-|2020 年 9 月 8 日|版本 1808 (組建 10366.20016)| |
+|2020 年 9 月 8 日|版本 1808 (組建 10366.20016)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 8 月 11 日|版本 1808 (組建 10364.20059)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 7 月 14 日   |版本 1808 (組建 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449) <br/>|
 |2020 年 6 月 9 日   |版本 1808 (組建 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1322) <br/>|
@@ -84,12 +84,12 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 9 月 9 日|版本 2008 (組建 13127.20408)|請參閱[安全性更新頁面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 8 月 31 日|版本 2008 (組建 13127.20296)| |
 |2020 年 8 月 25 日|版本 2007 (組建 13029.20460)| |
 |2020 年 8 月 11 日|版本 2007 (組建 13029.20344)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 7 月 30 日|版本 2007 (組建 13029.20308)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 7 月 28 日|版本 2006 (組建 13001.20498)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1458) <br/>|
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -103,6 +103,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1458) <br/>|
 |2020 年 6 月 30 日|版本 2006 (組建 13001.20266)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 6 月 24 日|版本 2005 (組建 12827.20470)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 6 月 9 日|版本 2005 (組建 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1322)  <br/>|

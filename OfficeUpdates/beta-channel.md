@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431572"
+ms.locfileid: "47449556"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,69 @@ ms.locfileid: "47431572"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-september-11"></a>版本 2010：9 月 11 日
+*版本 2010 (組建 13304.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="excel"></a>Excel
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="onenote"></a>OneNote
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="outlook"></a>Outlook
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="project"></a>Project
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="publisher"></a>發行者
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="visio"></a>Visio
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+### <a name="word"></a>Word
+
+- **Office 可以遵循您的 Windows 10 深色模式設定：** 在深色模式中使用 Windows 10？ Office 現在可以切換佈景主題以自動相符，只要選擇 [使用系統設定] 做為您的 Office 佈景主題即可。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正在啟用「分頁預覽」時，在含有大量資料的工作表之間切換時，可能會發生明顯延遲的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正關閉 [焦點收件匣] 並執行排序之後，電子郵件遭隱藏的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 GIF 在編輯器和投影片放映中的動畫只會執行一次的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-september-04"></a>版本2010：9月04日
 *版本2010（組建13301.20004）*
@@ -1329,6 +1392,7 @@ ms.locfileid: "47431572"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)

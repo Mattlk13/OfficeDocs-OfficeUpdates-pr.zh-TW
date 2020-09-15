@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: f8fc5a41e72074071de05ced6857e2ba1f5e7e21
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413081"
+ms.locfileid: "47420690"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -33,12 +33,16 @@ ms.locfileid: "47413081"
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
 
 ## <a name="september-08-2020"></a>2020 年 9 月 8 日
+目前通道：版本 2008 (組建 13127.20408)  
 每月企業通道：版本 2007 (組建 13029.20534)  
 每月企業通道：版本 2006 (組建 13001.20648)  
 半年企業通道 (預覽)：版本 2008 (組建 13127.20408)  
 半年企業通道：版本 2002 (組建 12527.21104)  
 半年企業通道：版本 1908 (組建 11929.20946)  
-Office 2019 大量授權版：版本1808 (組建 10366.20016)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.21104)  
+Office 2019 零售版：版本 2008 (組建 13127.20408)  
+Office 2016 零售版：版本 2008 (組建 13127.20408)  
+Office 2019 大量授權版：版本 1808 (組建 10366.20016)  
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
 
@@ -54,11 +58,10 @@ Office 2019 大量授權版：版本1808 (組建 10366.20016)
 
 -   [CVE-2020-1338](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1338)
 -   [CVE-2020-1218](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1218)
--   [CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445)
+
 
 ### <a name="office-suite"></a>Office 套件
 
--   [CVE-2020-1458](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1458)
 -   [CVE-2020-1193](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1193)
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
