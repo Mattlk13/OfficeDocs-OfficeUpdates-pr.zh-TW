@@ -1,20 +1,20 @@
 ---
 title: Office 搶先版通道的更新歷程記錄
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: c5e4b6e3caa97357004b7d3ccafcbb5fd68af249
-ms.sourcegitcommit: 18b3341c6b8caebdcfa61a4d2b2a584e405178f4
+ms.openlocfilehash: 4955f2f844c4b52938626a9dc6dc071d88911c81
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/07/2020
-ms.locfileid: "47402821"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942810"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
@@ -37,6 +37,9 @@ ms.locfileid: "47402821"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 9 月 15 日**<br/>
+版本 2010 (組建 13312.20006)<br/>
 
 ** 2020 年 9 月 07 日**<br/>
 版本2010 (組建13304.20000)<br/>
