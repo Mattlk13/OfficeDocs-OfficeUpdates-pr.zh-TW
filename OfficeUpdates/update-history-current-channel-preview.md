@@ -2,19 +2,19 @@
 title: Office 目前通道（預覽）更新歷程記錄
 ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 54f60a987331ad4211b2f306ec267ce53bd3bc6c
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: c6fc1ef5e8b84d770e152fb6a4d84047bff7e465
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816604"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942820"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道（預覽）更新歷程記錄
 
@@ -24,7 +24,7 @@ ms.locfileid: "47816604"
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道（預覽）版本和組建
 
 如果您註冊的是目前通道 (預覽) 層級 (之前稱為 [測試人員 - 慢])，您大約每個月會收到一次 Office 功能更新，加上包含重要修正程式或安全性更新的後續組建。 下表顯示最新目前通道 (預覽) 版本和組建，當中會**優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
-若要尋找版本資訊，請 [參閱](https://docs.microsoft.com/zh-TW/OfficeUpdates/current-channel-preview)。 而且您也可以參閱 [Office 測試人員的新增功能](https://insider.office.com/zh-TW/releasenotes/windows/slow)。
+若要尋找版本資訊，請 [參閱](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 而且您也可以參閱 [Office 測試人員的新增功能](https://insider.office.com/en-us/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]

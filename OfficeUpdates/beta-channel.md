@@ -1,20 +1,20 @@
 ---
 title: Beta 版通道的版本資訊
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: be0f92656f096b888632bb73d10187305ab7be48
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: 4c3c30f66df886e67c9e5b669fd41d192a62b662
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816574"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942782"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
