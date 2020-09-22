@@ -2,19 +2,19 @@
 title: Office 2013 產品的最新 .msp 檔案清單
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的永久版本 Office 2013 的最新 .msp 檔案清單。
-ms.openlocfilehash: c46af9e7fb8b8022230b55485fc863a563d49f42
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 3b6bacd76cc7c947c415915ea22bad086f5473bb
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413101"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174612"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 產品的最新 .msp 檔案清單
 

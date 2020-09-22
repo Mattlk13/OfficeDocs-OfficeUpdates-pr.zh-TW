@@ -2,19 +2,19 @@
 title: Office 2016 產品的最新 .msp 檔案清單
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的永久版本 Office 2016 的最新 .msp 檔案清單。
-ms.openlocfilehash: cc9f7f97499e5e360d4df1210302f7025150b1c4
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 692a20b6c3e88fdfde6296ddadaa8180d1801c16
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413091"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174562"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品的最新 .msp 檔案清單
 
