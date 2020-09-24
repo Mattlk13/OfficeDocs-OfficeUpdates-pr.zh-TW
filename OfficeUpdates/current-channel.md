@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: 06a009030ac93c32e4085019e0daf70353c9f1b0
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100195"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222479"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -32,6 +32,51 @@ ms.locfileid: "48100195"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-september-22"></a>版本 2008: 9月 22日
+*版本 2008 (組建 13127.20508)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正了當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
+
+
+- 修正了當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決由於按一下角落中的 [X] 而導致使用者無法關閉共用行事曆的問題。
+
+
+- 解決附件上傳的效能問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們修正了在 PowerPoint 應用程式中導致當機的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 客戶回報文字對齊會在即時預覽時發生當機。 7 月分支所發生最多的當機情況。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了 [樣式圖庫] 對話方塊的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正使用 GIF/動畫 model3D 時導致高 CPU 使用狀況空閒
 
 
 
@@ -1233,6 +1278,7 @@ ms.locfileid: "48100195"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13127.20508|version-2008-september-22|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
