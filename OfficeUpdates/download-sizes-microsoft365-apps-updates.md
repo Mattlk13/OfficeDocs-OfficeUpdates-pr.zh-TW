@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5b3deb3916a978c4277b42d3abd47e762d6f2492
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 522f8cacbee425af065b6f34a6d2083119834f14
+ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942840"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48222459"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -35,6 +35,22 @@ ms.locfileid: "47942840"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="september-22-2020"></a>2020 年 9 月 22 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 22, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2008 (組建 13127.20508)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2008 (組建 13127.20408) <br/> |2020 年 9 月 8 日 <br/> |46<br/> |
+|版本 2008 (組建 13127.20296) <br/> |2020 年 8 月 31 日 <br/> |272<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 22, 2020)
 
 ## <a name="september-9-2020"></a>2020 年 9 月 9 日
 
