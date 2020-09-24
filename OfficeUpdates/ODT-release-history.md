@@ -1,20 +1,20 @@
 ---
 title: Office 部署工具 (ODT) 的發行記錄
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781566"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174642"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
@@ -23,12 +23,22 @@ Office 部署工具 (ODT) 是一種命令列工具，可用來將像 Microsoft 3
 
 ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產品及語言、這些產品的更新方式，以及是否要讓使用者看到安裝過程。 如需有關如何使用 ODT 的詳細資訊，請參閱 [Office 部署工具概觀](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。
 
- **支援的作業系統**：Windows 10、Windows 7、Windows 8、Windows 8.1、Windows Server 2008 R2、Windows Server 2012 和 Windows Server 2012 R2 
+ **支援作業系統**：Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
  **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
+
+## <a name="june-9-2020"></a>2020 年 6 月 9 日
+
+版本 16.0.12827.20268 (setup.exe 版本 16.0.12827.20258)
+- 在未指定頻道時，目前的通道即為預設的頻道。
+- 新增每月企業通道的支援
+- 新增新頻道名稱的支援
+- 即使在無法使用部分語言資源時，如可能，可持續安裝其他復原功能
+- MSIRemove 的功能已展開，可移除 Office 2007 產品
+- MSIRemove 的功能已展開，可移除 Access 資料庫引擎 
 
 ## <a name="april-15-2020"></a>2020 年 4 月 15 日
 
