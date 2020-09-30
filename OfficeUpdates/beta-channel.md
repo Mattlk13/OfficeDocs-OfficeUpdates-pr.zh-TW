@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c814f4877fe57ce57136626277f281fcbadc6b73
-ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
+ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
+ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "48100205"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276446"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,75 @@ ms.locfileid: "48100205"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-september-25"></a>版本 2010：9 月 25 日
+*版本 2010 (組建 13318.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 建立資料類型：** 使用任何資料來源中的 Power Query 建立豐富的資料類型
+
+### <a name="outlook"></a>Outlook
+
+- **工作的使用者體驗更新：** 工作項目的視覺效果更新
+
+- **撰寫郵件時節省時間：** Outlook 會顯示書寫建議，協助您快速撰寫郵件。 若要接受建議，只需使用 Tab 鍵。
+
+### <a name="word"></a>Word
+
+- **電腦版 Word 中的 Microsoft 編輯器窗格已更新：** 我們已將電腦版 Word 用戶端中編輯器窗格目前的體驗升級。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正載入儲存的查詢/關聯視窗在捲動時，捲軸位置未正確設定的問題。
+
+
+- 我們已修正 [新增表格] 工作窗格未正確顯示包含 '&' 名稱的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正多層次類別的手動間隔在圖表中無法運作的問題。
+
+
+- 我們已修正重新整理 OLAP 樞紐分析表時，可能會導致當機的問題。
+
+
+- 我們已修正新增至用於資料驗證之表格，並未更新活頁簿中所有工作表選項的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正 OneNote 在自訂主題的畫布中不會採用高對比色彩的問題。
+
+
+- 我們已修正當您將游標移至筆記本色彩選擇器的綠色色彩上方時，快顯會顯示「紅粉色」的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當使用者將來源路徑變更為本機 OneDrive 資料夾時，連結的 Excel 圖表不正確變更為 Excel 工作表的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們己修正已啟用工作流程檔案的連結無法如預期開啟的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-september-18"></a>版本 2010：9 月 18 日
 *版本 2010 (組建 13312.20006)*
@@ -1445,6 +1514,7 @@ ms.locfileid: "48100205"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
@@ -1454,5 +1524,4 @@ ms.locfileid: "48100205"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
-[//]: # (|Win32 |DevMain |測試人員 | | 16.0.13115.20000 | 版本-2008-7月-17 |)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

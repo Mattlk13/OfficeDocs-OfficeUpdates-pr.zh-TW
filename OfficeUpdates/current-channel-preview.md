@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a0750c2e3c087a0504f0b7d00b864cd2b203d522
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 6c935826b7492cd10ce1ced58f18b202a32730ae
+ms.sourcegitcommit: 99ac054b629a031233c9bad7b18896b84d2448ea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174582"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293195"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,25 @@ ms.locfileid: "48174582"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2009-september-26"></a>版本 2009：9 月 26 日
+*版本 2009 (組建 13231.20262)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 已解決當主旨行空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正若您的事件程式碼執行中，並嘗試透過工作表單檢視進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-september-21"></a>版本 2009：9 月 21 日
 *版本 2009 (組建 13231.20200)*
