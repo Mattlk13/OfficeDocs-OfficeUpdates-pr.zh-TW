@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供關鍵新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b28f6a4ec822d90c0b00ae1743d0f3a3dc84e7f4
-ms.sourcegitcommit: 7970c58850bdb43dbfd159b661467afad6ebca7e
+ms.openlocfilehash: fd80f9a2f901e69f8bc45d55add2c48aedb98860
+ms.sourcegitcommit: bd82ba6a5c6eaa151068e633cde0f7cdfc5877ea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276446"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48340728"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,78 @@ ms.locfileid: "48276446"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2010-october-02"></a>版本 2010: 10月 02日
+*版本 2010 (組建 13328.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 [進階對話方塊] 來 [建立資料類型]:** [進階對話方塊] 可讓您手動選取合併您正在建立的 [資料類型] 欄位。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="onenote"></a>OneNote
+
+- 我們修正了使用者無法從 [外部空間檔案] > [資訊] 的文字方塊中選取及複製筆記本 URL 的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已解決當主旨為空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
+
+
+- 我們修正了資料夾中快取錯誤資料夾 guid 的問題。
+
+
+- 當使用者將電子郵件地址複製貼上到顯示名稱的 [收件者] 欄位時，電子郵件地址不一定可被正確分析，並導致出現了一個顯示電子郵件地址無效的警告。  已修正此問題，可正確分析名稱和電子郵件地址，因此不會再顯示警告。
+
+
+- 我們修正了線上共用資料夾未傳回母資料夾名稱的問題。 它並非失敗，而是傳回了不正確地移至主要帳戶的空白路徑。
+
+
+- 我們修正了從唯讀預覽窗格中重新開啟 [草稿] 之後開啟 [追蹤修訂] 的問題。
+
+
+- 我們修正了傳統附件無法使用 [另存為] 選項的問題。
+
+
+- 我們修正了讓使用者能在覆寫原則時自訂調整文字的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們修正了 PowerPoint 在匯出為 PDF 時，無法匯出矩形專案符號的問題。
+
+
+- 我們修正了若您在最後一張投影片上，且您在按 [結束工作模式] 之後和顯示摘要之前，滑向下一張投影片，則會在 [摘要] 頁面上看到 [結束工作模式] 對話方塊。
+
+
+### <a name="project"></a>Project
+
+- 修正了如果您將群組套用到 [資源使用狀況] 或 [工作表] 視圖，然後插入欄位，Project 可能會當機的問題。
+
+
+- 修正了如果您的自訂欄位包含公式，且正在使用實獲值分析，您可能會發現效能延遲切換檢視並開啟專案/工作詳細資料的問題。
+
+
+- 修正了如果您嘗試多次新增同一專案，且將 AttachToSources 設定為 false 時，ConsolidateProjects VBA 方法可能會發生出錯的問題。
+
+
+- 已修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-september-25"></a>版本 2010：9 月 25 日
 *版本 2010 (組建 13318.20000)*
@@ -1514,6 +1586,7 @@ ms.locfileid: "48276446"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
@@ -1523,5 +1596,4 @@ ms.locfileid: "48276446"
 [//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13117.20000|version-2008-july-24|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
