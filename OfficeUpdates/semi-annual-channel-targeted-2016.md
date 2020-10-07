@@ -1,30 +1,30 @@
 ---
-title: 2016中的半年通道（已設定目標）版本的版本資訊
-ms.author: andrewmo
+title: 2016中的「半年通道」 (目標) 版本的版本資訊
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 ProPlus 于2016的半年通道（已設定目標）發行資訊
-ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+description: 為 IT 專業人員提供適用于 Office 365 的半年通道 (目標) 版本的版本資訊，ProPlus 2016
+ms.openlocfilehash: 2ae156c4e02e56aca8b9ccb562804ade1173ec17
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614967"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370081"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的半年通道（已設定目標）版本的版本資訊
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016中的「半年通道」 (目標) 版本的版本資訊
 
-這些版本資訊會提供在2016中的 Office 365 ProPlus 的半年通道（已設定目標）更新中所包含之新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供 ProPlus 2016 中的 (目標) 更新至 Office 365 的新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 半年通道（已設定目標）是在9月2017之前的延期通道第一次發行的名稱。
+> - 在2017年9月之前，已針對延期通道的「半年通道」 (目標) 命名為第一次發行。
 
 ## <a name="version-1609-december-13"></a>版本1609：12月13日
 *版本 1609 (組建 7369.2095)*
@@ -84,7 +84,7 @@ ms.locfileid: "42614967"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **更新的視覺元素：** 變更圖示和色彩，改善協助工具的使用。 [詳細資訊](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **將 ui 更新為「共用」：** 在 UI 專案中，將「展示」變更為「共用」，例如將「展示桌面」變更為「共用您的桌面」和「展示程式」，以「共用視窗」。
+-   **將 UI 更新為「共用」：**  在 UI 專案中，將「展示」變更為「共用」，例如將「展示桌面」變更為「共用您的桌面」和「展示程式」，以「共用視窗」。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正此問題：已將使用者移轉至 Exchange Online 之後，使用者無法連線到 Exchange 來取得交談記錄、連絡人或語音信箱資訊。
@@ -163,7 +163,7 @@ ms.locfileid: "42614967"
 -   修正此問題：刪除表格會造成 OneNote 當機。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   ** \@提及：** 請確認收件者已要求他們輸入或採取動作，只要在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ 提及：** 請確認收件者已要求使用者輸入或採取動作，方法是在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **差旅預定以及封裝的摘要卡片︰** 使用在 [收件匣] 和 [行事曆] 中自動建立的摘要卡片，確認並追蹤差旅預定及封裝傳遞。 [詳細資訊](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **附加相片的小型預覽**：如果將相片附加到電子郵件，Outlook 會在訊息中顯示相片的小型預覽。
 -   **復原刪除的郵件連結：** 在 [刪除的郵件] 資料夾中，已刪除的項目清單上方會出現「復原最近從此資料夾中移除的郵件」連結，選取連結時，[復原刪除的郵件] 對話方塊隨即出現。
@@ -611,7 +611,7 @@ ms.locfileid: "42614967"
 
 
 ## <a name="version-1602-april-12"></a>版本1602：4月12日
-*版本1602（組建6741.2026）*
+*版本 1602 (組建 6741.2026) *
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 的安全性更新 (3148775)
@@ -743,7 +743,7 @@ ms.locfileid: "42614967"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。 若要停用此功能，請[使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030)檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能，請 [使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030) 檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
@@ -834,7 +834,7 @@ ms.locfileid: "42614967"
 -   **[檔案 \> 開啟] 中的排序功能：** 使用 Outlook 以外的所有應用程式時，在 [檔案 \>; 開啟] 依名稱或修改日期排序。若是 Word、Excel 及 PowerPoint，在 [檔案 \> 另存新檔] 中也可使用排序。
 -   **[檔案 \> 另存新檔] 中的資料夾瀏覽功能：** 針對 OneDrive 資料夾、商務用 OneDrive 資料夾以及這台電腦，在 Word、Excel 和 PowerPoint 中的 [檔案 \> 另存新檔] 中使用完整的資料夾瀏覽。
 -   **傳送選項：** 從 Word 或 PowerPoint 中的 [共用] 窗格，以附件或以 PDF 格式的方式傳送文件。
--   **插入圖片 API：** 在 Word、Excel 或 PowerPoint 中使用通用的 office .js 程式庫中的[document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx)來插入圖像。 Word JavaScript API 提供名為 insertInlinePictureFromBase64() 的主應用程式特定方法，您可以在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 物件上使用此方法設定文字間圖片。
+-   **插入圖片 API：**  在 Word、Excel 或 PowerPoint 中使用通用 office.js 文件庫中的 [document.setSelectedDataAsync 方法](https://msdn.microsoft.com/library/office/fp142145.aspx) 插入影像。 Word JavaScript API 提供名為 insertInlinePictureFromBase64() 的主應用程式特定方法，您可以在 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、 [段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 物件上使用此方法設定文字間圖片。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)

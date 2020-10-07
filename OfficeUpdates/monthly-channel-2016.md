@@ -1,8 +1,8 @@
 ---
 title: 2016中每月通道版本的版本資訊
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 ProPlus 的每月通道版本的版本資訊，2016
-ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614932"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369921"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016中每月通道版本的版本資訊
 
@@ -42,7 +42,7 @@ ms.locfileid: "42614932"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **地圖圖表：** 比較數值及顯示跨地理區域的類別。 [詳細資訊](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 影像：** 插入並編輯活頁簿內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存活頁簿至最近使用的資料夾。
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯活頁簿的支援已獲改善。 [詳細資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,12 +54,12 @@ ms.locfileid: "42614932"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **SVG 影像：** 插入並編輯電子郵件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **點選：** 尋找並重複使用您組織的相關文件內容。 [詳細資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **共同撰寫時的即時輸入：** 查看其他人在簡報中的運作方式，並在輸入時查看變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
@@ -81,7 +81,7 @@ ms.locfileid: "42614932"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 
--   **將 ui 更新為「共用」：** 在 UI 專案中，將「展示」變更為「共用」，例如將「展示桌面」變更為「共用畫面」，並將「展示程式」變更為「共用視窗」。
+-   **將 UI 更新為「共用」：**  在 UI 專案中，將「展示」變更為「共用」，例如：將「展示桌面」變更為「共用畫面」，並將「展示程式」變更為「共用視窗」。
 -   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
@@ -119,7 +119,7 @@ ms.locfileid: "42614932"
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **SVG 影像：** 插入並編輯文件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  移至插入\>插圖\>圖示，使用來自可縮放向量圖形（SVG）檔案的標準文件庫中的圖示。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存文件至最近使用的資料夾。
 -   **透過學習工具來改善閱讀：** 在閱讀模式中，透過調整字距、顯示音節之間的停頓，以及在大聲朗讀文件時，反白顯示每個字的新命令來提升閱讀技巧。 [詳細資訊](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯文件的支援已獲改善。 [詳細資訊](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -279,7 +279,7 @@ ms.locfileid: "42614932"
 -   修正此問題：在搜尋標記時，[標記摘要] 面板只顯示文字行的多個標記中的第一個標記。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   ** \@提及：** 請確認收件者已要求他們輸入或採取動作，只要在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ 提及：** 請確認收件者已要求使用者輸入或採取動作，方法是在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：使用自訂信箋做為預設佈景主題時，有額外的分行符號新增至新的電子郵件訊息且字型設定為 Calibri。

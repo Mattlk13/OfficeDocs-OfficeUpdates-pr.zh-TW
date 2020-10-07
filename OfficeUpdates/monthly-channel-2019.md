@@ -1,20 +1,20 @@
 ---
 title: 2019 年每月通道版本的版本資訊
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2019 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 1a4652ad9d7b3ec8150bc8e0b07cf65cdbfca864
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 88dca91031e19422e076e50674d0ada3968af135
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565055"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369931"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>2019 年每月通道版本的版本資訊
 
@@ -22,12 +22,12 @@ ms.locfileid: "44565055"
 
  > [!NOTE]
 >- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/DeployOffice/teams-install)。
+>- 現有 Office 365 專業增強版安裝上的 Microsoft Teams - 從 7 月初開始，對 Office 365 專業增強版 (和 Office 365 商務版) 的更新將包含 Microsoft Teams。  新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱[隨著 Office 365 專業增強版部署 Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install)。
 
 ## <a name="version-1911-december-10"></a>版本 1911：12 月 10 日
 *版本 1911 (組建 12228.20364)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -119,7 +119,7 @@ ms.locfileid: "44565055"
 ## <a name="version-1910-november-12"></a>版本 1910：11 月 1 2日
 *版本 1910 (組建 12130.20344)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -179,7 +179,7 @@ ms.locfileid: "44565055"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **在現有的 Office 365 專業增強版上安裝 Microsoft Teams：** 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱隨著 Office 365 專業增強版部署 Microsoft Teams。 [深入了解](https://docs.microsoft.com/DeployOffice/teams-install)
+- **在現有的 Office 365 專業增強版上安裝 Microsoft Teams：** 從 6 月底開始，Microsoft Teams 將在更新這些安裝時，新增至 Office 365 專業增強版 (和 Office 365 商務版) 的現有安裝中。 新增 Teams 的日期取決於您使用的更新通道。 如需詳細資訊，請參閱隨著 Office 365 專業增強版部署 Microsoft Teams。 [深入了解](https://docs.microsoft.com/deployoffice/teams-install)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -222,7 +222,7 @@ ms.locfileid: "44565055"
 ## <a name="version-1909-october-08"></a>版本 1909：10 月 8 日
 *版本 1909 (組建 12026.20320)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -334,7 +334,7 @@ ms.locfileid: "44565055"
 ## <a name="version-1908-september-10"></a>版本 1908：9 月 10 日
 *版本 1908 (組建 11929.20300)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -400,7 +400,7 @@ ms.locfileid: "44565055"
 ## <a name="version-1907-august-13"></a>版本 1907：8 月 13 日
 *版本 1907 (組建 11901.20218)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 
@@ -454,7 +454,7 @@ ms.locfileid: "44565055"
 ## <a name="version-1906-july-09"></a>版本 1906：7 月 9 日
 *版本 1906 (組建 11727.20244)*
 
-安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 
@@ -520,7 +520,7 @@ ms.locfileid: "44565055"
 
 ## <a name="version-1905-june-11"></a>版本 1905：6 月 11 日
 *版本 1905 (組建 11629.20246)*
-<br/>安全性更新列於[此處](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates)
+<br/>安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 

@@ -1,8 +1,8 @@
 ---
 title: 2016中半年通道版本的版本資訊
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 ProPlus 的半年通道發行資訊，2016中的版本資訊
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614951"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370141"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016中半年通道版本的版本資訊
 
@@ -44,7 +44,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1602-december-13"></a>版本1602：12月13日
 *版本 1602 (組建 6741.2098)*
 
-*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本1605（組建6965.2115）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本 1605 (組建 6965.2115) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
@@ -71,7 +71,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1602-november-8"></a>版本1602：11月8日
 *版本 1602 (組建 6741.2088)*
 
-*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本1605（組建6965.2105）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本 1605 (組建 6965.2105) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 的安全性更新 (3199168)
@@ -242,7 +242,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1602-october-11"></a>版本1602：10月11日
 *版本 1602 (組建 6741.2081)*
 
-*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本1605（組建6965.2092）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本 1605 (組建 6965.2092) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-120](https://technet.microsoft.com/library/security/ms16-120)：Microsoft 圖形元件的安全性更新 (3192884)
@@ -275,7 +275,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1509-september-13"></a>版本1509：9月13日
 *版本 1509 (組建 6001.1090)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本1602（組建6741.2071）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2071) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
@@ -314,7 +314,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1509-august-9"></a>版本1509：8月9日
 *版本 1509 (組建 6001.1087)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本1602（組建6741.2063）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2063) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正由目前安全性更新造成的問題：從不受信任的位置開啟 HTML 檔時，不是允許使用者在受保護的檢視中開啟檔案，而是開啟畫面空白 (沒有內容) 的 Excel，且沒有顯示錯誤。
@@ -353,7 +353,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1509-july-12"></a>版本1509：7月12日
 *版本 1509 (組建 6001.1085)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本1602（組建6741.2056）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2056) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
@@ -465,7 +465,7 @@ ms.locfileid: "42614951"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。 若要停用此功能，請[使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030)檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能，請 [使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030) 檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
@@ -641,7 +641,7 @@ ms.locfileid: "42614951"
 ## <a name="version-1509-june-14"></a>版本1509：6月14日
 *版本 1509 (組建 6001.1082)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本1602（組建6741.2056）—其中包含了新功能、安全性更新和非安全性更新。*
+*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2056) —其中包含了新功能、安全性更新和非安全性更新。*
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正此問題：當使用者嘗試使用會議功能，例如白板或共用筆記時，收到錯誤訊息。 [此問題的相關資訊](https://support.microsoft.com/kb/3165438)

@@ -1,8 +1,8 @@
 ---
 title: 2017中每月通道版本的版本資訊
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 ProPlus 的每月通道版本的版本資訊，2017
-ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42614936"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369901"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中每月通道版本的版本資訊
 
@@ -139,7 +139,7 @@ ms.locfileid: "42614936"
 -   **LinkedIn 功能設定：** 移至 [檔案] \> [選項] \> [一般]，以控制 LinkedIn 功能是否要顯示在您的 Office 應用程式中。 [深入了解](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **數位鉛筆：** 使用新的鉛筆紋理手寫或繪製出您的創意。 只需傾斜即可使用支援的數位鉛筆進行陰影處理。
+-   **數位鉛筆：** 使用新的鉛筆紋理手寫或繪製出您的創意。只需傾斜即可使用支援的數位鉛筆進行陰影處理。
 -   **發佈至 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [詳細資訊](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
 -   **LinkedIn 功能設定：** 移至 [檔案] \> [選項] \> [一般]，以控制 LinkedIn 功能是否要顯示在您的 Office 應用程式中。 [深入了解](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
@@ -560,7 +560,7 @@ ms.locfileid: "42614936"
 -   修正此問題：在成功加入會議前，空白的對話視窗都不會出現。
 -   修正此問題：若職稱欄位空白，則搜尋結果中連絡人卡片上的部門欄位資訊也會空白。
 -   修正此問題：從內部部署移轉到線上的使用者，會因為防火牆規則而造成登入失敗。
--   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端，用戶端會將 OAuthUsed 登錄機碼重設為 False。若要修正此問題，請將 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> 下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 值設定為 1。
+-   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端，用戶端會將 OAuthUsed 登錄機碼重設為 False。 若要修正此問題，請將 HKEY \_ 目前 \_ 使用者 \\ 軟體 \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> 底下的值設為 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 1。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 - **畫筆自訂：** 針對筆跡選擇畫筆和螢光筆的個人集合。您的自訂集可在您所有的 Windows 電腦上使用。
@@ -601,7 +601,7 @@ ms.locfileid: "42614936"
 -   **共用查詢**：將任何查詢定義匯出至 Office 資料庫連線 (ODC) 檔，然後在活頁簿之間共用或與其他人共用。
 -   **載入資料：** 從查詢直接將資料載入到樞紐分析表或樞紐分析圖中，而不必將資料儲存到資料模型內。
 -   **「取得與轉換」功能的改善︰** 在查詢編輯器中，藉由提供範例值來建立新資料行。隨著您鍵入，Excel 會偵測所需的轉換並顯示新資料行的預覽。
--   **Windows 資訊保護（WIP）支援：**    Excel 現在是 enlightened 應用程式，而且可根據設定的原則，正確判斷要保護的公司與個人資料。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：**   現在，Excel 是 enlightened 應用程式，而且可根據設定的原則，視公司和個人資料而定，以正確判斷要保護的目標。  [詳細資訊](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：在群組工作表中無法使用 [跨欄置中] 功能。
@@ -616,7 +616,7 @@ ms.locfileid: "42614936"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **影片的隱藏式輔助字幕：** 可將隱藏式輔助字幕新增至影片，使其變得更無障礙。 [詳細資訊](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **設計工具的改進：** 設計工具現在會針對新增至投影片的圖表建議設計概念。
--   **Windows 資訊保護（WIP）支援：**   現在 PowerPoint 是 enlightened 應用程式，而且可以根據設定的原則，正確判斷要保護的公司與個人資料。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：**   PowerPoint 現在是 enlightened 應用程式，而且可以區分公司與個人資料，並根據設定的原則，正確決定要保護的功能。  [詳細資訊](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正了 [建立專案網站] 對話方塊，以顯示網站的正確位置；現在 Microsoft Project Online 中每個企業專案範本 (EPT) 都會有自己的專案網站 URL。
@@ -646,7 +646,7 @@ ms.locfileid: "42614936"
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **以 [編輯器] 窗格增強了撰寫協助：** 使用 [編輯器] 窗格可得到進階拼字檢查、文法和書寫樣式的建議。它內建無障礙功能，並已改善對輔助技術的支援。
 -   **Alt 文字建立︰** 雲端式服務會自動為文件中的圖片產生替代文字 (Alt 文字)。
--   **Windows 資訊保護（WIP）支援：**    Word 現在是 enlightened 應用程式，而且可以區分公司與個人資料，並根據設定的原則，正確判斷要保護的專案。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：**   Word 現在是 enlightened 應用程式，可根據設定的原則，視公司和個人資料而定，以正確決定要保護的功能。  [詳細資訊](https://aka.ms/wiptechnet)
 
 ## <a name="version-1704-june-1"></a>版本1704：6月1日
 *版本 1704 (組建 8067.2157)*
@@ -667,7 +667,7 @@ ms.locfileid: "42614936"
 -   **個人化預設樞紐分析表版面配置︰** 依您喜好的方式設定樞紐分析表，並在每次建立新的樞紐分析表時，以該版面配置開始作業。 [詳細資訊](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
 -   **增強的資料匯入功能︰** 輕鬆地從各種來源匯入圖形資料。使用 [查詢和連線] 側邊窗格來管理活頁簿查詢和連線，並透過 ODC 檔與他人共用查詢。 [詳細資訊](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
 -   **取得與轉換功能的改善︰** 使用者可以依範例建立新的欄，並將表格欄分割成列。指定 SAP HANA 參數以及分組資料現在簡單許多。
--   **增益集的集中式部署**系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **增益集的集中式部署**：系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **快速存取工具列自訂：** 下標和上標圖示可以新增至快速存取工具列。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
@@ -1043,7 +1043,7 @@ ms.locfileid: "42614936"
 -   修正此問題：使用 Polycom CX100 裝置通話時，未偵測到麥克風。
 -   修正此問題：在 IM 訊息中擇類似 \\\\servername 或 file:// 的連結時，會導致錯誤訊息而不會開啟位置。
 -   修正此問題：在使用位置型路由的虛擬桌面基礎結構 (VDI) 環境中，使用者無法進行或接收 PSTN 通話，因為伺服器認為使用者位置不是有效的 PSTN 通話位置。
--   使用者狀態設定為 [請勿打擾] 或 [正在進行簡報] 時，將針對未接訊息而傳送的電子郵件主旨列，從「來自 \<name\> 的未接交談」變更為「\<Name\> 已在商務用 Skype 中傳送訊息給您。」
+-   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向 \<Name\> 您傳送在商務用 Skype 中的郵件] 時，變更已錯過郵件之電子郵件的主旨行。
 -   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
@@ -1065,7 +1065,7 @@ ms.locfileid: "42614936"
 ## <a name="version-1611-january-4"></a>版本1611：年1月4日
 *版本 1611 (組建 7571.2109)*
 
-附注： Microsoft 安全佈告欄中所涵蓋的安全性更新[MS17-002](https://technet.microsoft.com/library/security/ms17-002)不適用於此通道版本中的 Word 版本。
+附注： Microsoft 安全佈告欄中所涵蓋的安全性更新 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 不適用於此通道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：儲存為 CSV 或 CSV UTF-8 格式時，無法正確匯出有文字的儲存格值和雙引號。
