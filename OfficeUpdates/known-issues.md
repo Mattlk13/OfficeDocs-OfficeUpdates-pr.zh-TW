@@ -1,6 +1,6 @@
 ---
 title: Office 365 專業增強版的已知問題
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
 manager: andrewmo
 ms.audience: ITPro
@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: 45464d14ecfbf849929daba122b0a57bc74d05c5
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715431"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369941"
 ---
-# <a name="office-365-proplus-known-issues"></a>Office 365 專業增強版的已知問題
+# <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 Apps 的已知問題
 
 這些已知問題提供非安全性更新的相關資訊，這些功能和非安全性更新包含在 2019 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的每月通道、半年通道 (已設定目標) 和半年通道更新。
 

@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Office 更新
-summary: 取得 Office 產品更新功能的相關資訊，包括 Microsoft 365 應用程式、Mac 版 Office、Office Server 產品及永久版本的 Office。
+summary: 取得有關 Office 產品 (包括 Microsoft 365 Apps、Mac 版 Office、Office Server 產品和 Office 永久版本) 的功能和更新資訊。
 metadata:
   title: Office 更新
-  description: 取得 Office 產品更新功能的相關資訊，包括 Microsoft 365 應用程式、Mac 版 Office、Office Server 產品及永久版本的 Office。
+  description: 取得有關 Office 產品 (包括 Microsoft 365 Apps、Mac 版 Office、Office Server 產品和 Office 永久版本) 的功能和更新資訊。
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854573"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369961"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
@@ -25,7 +25,7 @@ landingContent:
     links:
     - text: 版本資訊
       url: release-notes-microsoft365-apps.md
-    - text: 更新歷程記錄 (根據日期)
+    - text: 更新歷史記錄 (根據日期)
       url: update-history-microsoft365-apps-by-date.md
     - text: 更新大小
       url: download-sizes-microsoft365-apps-updates.md
@@ -51,15 +51,15 @@ landingContent:
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
     - text: Project Server 更新
       url: project-server-updates.md
-    - text: SharePoint 伺服器更新
+    - text: SharePoint Server 更新
       url: sharepoint-updates.md
     - text: 商務用 Skype Server 更新
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
-- title: Office （永久授權）
+- title: Office (永久使用權)
   linkLists:
   - linkListType: overview
     links:
-    - text: Office 2016 和2019（C2R）
+    - text: Office 2016 和 2019 (C2R)
       url: update-history-office-2019.md
     - text: Office 2010、2013 和 2016 更新 (MSI)
       url: office-updates-msi.md
@@ -71,13 +71,13 @@ landingContent:
   linkLists:
   - linkListType: whats-new
     links:
-    - text: Microsoft 365 的新功能為何？
+    - text: Microsoft 365 的新功能
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
     - text: Microsoft 365 藍圖
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: 保持最新的 Microsoft 365 變更
+    - text: 隨時掌握 Microsoft 365 變更
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
-    - text: Office 博客
+    - text: Office 部落格
       url: https://www.microsoft.com/microsoft-365/blog/office/
 - title: Microsoft 資源
   linkLists:
@@ -85,9 +85,9 @@ landingContent:
     links:
     - text: Windows 10 版本資訊
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Microsoft Lifecyle 原則
+    - text: Microsoft 生命週期原則
       url: https://support.microsoft.com/lifecycle
     - text: Microsoft 安全性更新指南
       url: https://portal.msrc.microsoft.com/
-    - text: Microsoft 技術社區
+    - text: Microsoft 技術社群
       url: https://techcommunity.microsoft.com/
