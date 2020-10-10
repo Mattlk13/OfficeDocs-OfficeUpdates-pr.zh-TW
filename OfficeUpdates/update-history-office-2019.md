@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: facdcf576b69d4736fd6d889b2df014e9959c0c7
-ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
+ms.openlocfilehash: c5e9ca77b340c5717b1d37e387e52b92ceb0056c
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48297136"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398378"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -23,8 +23,8 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。若要檢查 Office 版本，請執行下列步驟：
 
   1.    開啟任何 Office 應用程式，例如 Word 或 Excel。
-  2.    選擇 **[檔案] > [帳戶]**。
-  3.    在 **[產品資訊]** 下，記下 **[關於]** 區段下的版本號碼。
+  2.    選擇 [檔案] > [帳戶]****。
+  3.    在 [產品資訊]**** 下，記下 [關於]**** 區段下的版本號碼。
 
 如果該版本號碼符合最新版本，表示您所使用的是最新版本。如果不符，則可以手動更新以取得最新版的 Office。若要更新 Office，[請遵循這裡的步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
@@ -84,12 +84,12 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 10 月 8 日|版本 2009 (組建 13231.20368)| |
 |2020 年 9 月 28 日|版本 2009 (組建 13231.20262)| |
 |2020 年 9 月 22 日|版本 2008 (組建 13127.20508)| |
 |2020 年 9 月 9 日|版本 2008 (組建 13127.20408)|請參閱[安全性更新頁面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 8 月 31 日|版本 2008 (組建 13127.20296)| |
 |2020 年 8 月 25 日|版本 2007 (組建 13029.20460)| |
-|2020 年 8 月 11 日|版本 2007 (組建 13029.20344)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -103,6 +103,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|
+|2020 年 8 月 11 日|版本 2007 (組建 13029.20344)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |2020 年 7 月 30 日|版本 2007 (組建 13029.20308)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 7 月 28 日|版本 2006 (組建 13001.20498)  |各種錯誤和效能修正。  <br/>  |
 |2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1458) <br/>|

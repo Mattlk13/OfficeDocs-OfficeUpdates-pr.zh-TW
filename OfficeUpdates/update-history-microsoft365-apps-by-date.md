@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: e1c35c7ba1e829e3c035a2ab6ee80c83473cba26
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: adf26720387ee5d3bb1bc1abbf46999566302589
+ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369881"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48398388"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -36,7 +36,7 @@ ms.locfileid: "48369881"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2009<br/>|13231.20262<br/>|2020 年 9 月 28 日<br/>|版本 2010 已推出<br/>|
+|目前通道<br/>|2009<br/>|13231.20368<br/>|2020 年 10 月 8 日<br/>|版本 2010 已推出<br/>|
 |每月企業通道<br/>|2007<br/>|13029.20534<br/>|2020 年 9 月 8 日<br/>|2020 年 11 月 10 日<br/>|
 |每月企業通道<br/>|2006<br/>|13001.20648<br/>|2020 年 9 月 8 日<br/>|2020 年 10 月 13 日<br/>|
 |半年企業通道 (預覽)<br/>|2008<br/>|13127.20408<br/>|2020 年 9 月 8 日<br/>|2021 年 3 月 9 日<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "48369881"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|10 月 08 日|[版本 2009 (組建 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|9 月 28 日|[版本 2009 (組建 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|9 月 22 日|[版本 2008 (組建 13127.20508)](current-channel.md#version-2008-september-22)| | | |
 |2020|9 月 9 日|[版本 2008 (組建 13127.20408)](current-channel.md#version-2008-september-09)| | | |
@@ -115,7 +116,7 @@ ms.locfileid: "48369881"
 |2019 年|4 月 9 日 |[版本 1903 (組建 11425.20204)](monthly-channel-2019.md#version-1903-april-9)| |[版本 1902 (組建 11328.20230)](semi-annual-channel-targeted-2019.md#version-1902-april-9) |[版本 1808 (組建 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [版本 1803 (組建 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019 年|4 月 1 日 |[版本 1903 (組建 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | | |
 |2019|3 月 25 日 |[版本 1902 (組建 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | | |
-|2019 年|3 月 12 日 |[版本 1902 (組建 11328.20158)](monthly-channel-2019.md#version-1902-march-12)| |[版本 1902 (組建 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[版本 1808 (組建 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
+|2019 年|3 月 12 日 |[版本 1902 (組建 11328.20158)](monthly-channel-2019.md#version-1902-march-12)| |[版本 1902 (組建 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |版本 1808 (組建 10730.20304)[](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
 |2019|3 月 4 日  |[版本 1902 (組建 11328.20146)](monthly-channel-2019.md#version-1902-march-4)| | | |
 |2019|2 月 12 日 |[版本 1901 (組建 11231.20174)](monthly-channel-2019.md#version-1901-february-12)| |[版本 1808 (組建 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[版本 1808 (組建 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [版本 1803 (組建 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [版本 1708 (組建 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|1 月 31 日   |[版本 1901 (組建 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1bafe7aada2fc74fa57c2e5344deb6605db9cebe
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
+ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368706"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "48382720"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,52 @@ ms.locfileid: "48368706"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2009-october-07"></a>版本 2009：10 月 7 日
+*版本 2009 (組建 13231.20360)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 建立資料類型：** 使用任何資料來源中的 Power Query 建立豐富的資料類型
+
+### <a name="outlook"></a>Outlook
+
+- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 <br />在[部落格文章](https://insider.office.com/zh-TW/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 解决了搜尋未緩存共用行事曆時導致搜尋不傳回結果的問題。
+
+
+- 解決了導致某些使用者觀察到在離線狀態下意外啟動 Outlook 的問題。
+
+
+- 解決了導致代理人在開啟另一個信箱中的共用資料夾時出現錯誤的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 解决在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題的安全性問題修正。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-september-26"></a>版本 2009：9 月 26 日
 *版本 2009 (組建 13231.20262)*
@@ -42,7 +88,6 @@ ms.locfileid: "48368706"
 ### <a name="project"></a>Project
 
 - 已修正若您的事件程式碼執行中，並嘗試透過工作表單檢視進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
-
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
