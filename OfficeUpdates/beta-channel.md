@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 594acccf4870613399a10f74233fd5a1b3c68237
-ms.sourcegitcommit: a543668818e709f17019d13f7e094c8cae33433a
+ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
+ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48368696"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48409067"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,79 @@ ms.locfileid: "48368696"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2011-october-09"></a>版本 2011：10 月 9 日
+*版本 2011 (組建 13406.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從查詢建立 Power Platform 資料流程：** 您現在可以將查詢匯出至 Power Query 範本，以建立新的 Power Platform 資料流程
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **匯出範圍中的動畫 GIF：** 當匯出成動畫 GIF 時， 選取投影片的範圍
+
+- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正啟用 COM 增益集的 SaveAs 操作之後，未變更檔案名的問題。
+
+
+- 我們已修正當 Excel 資料模型中有錯誤的度量定義，自動儲存會失敗且顯示出錯/誤解的錯誤訊息。
+
+
+- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正快速列印影像附件導致錯誤的問題，「Windows 找不到此圖片。 請檢查位置，然後再試一次」。
+
+
+- 已修正會導致某些使用者看到 Outlook 在離線狀態中啟動，直到他們手動選擇線上工作為止的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正了如果工作表單類型視圖中的延隔時間變更，ProjectBeforeTaskChagne 事件中的 NewVal 會是不正確的值。
+
+
+- 已修正如果您在專案網站中有工作清單並將工作清單分組，您將無法快速編輯工作清單的問題。
+
+
+- 已修正如果您透過 CSOM 更新企業資源，可能會遺失資源最大單位。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 SSO API 互動式登入傳回錯誤碼的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-october-02"></a>版本 2010: 10月 02日
 *版本 2010 (組建 13328.20000)*
@@ -1586,6 +1659,7 @@ ms.locfileid: "48368696"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
@@ -1595,5 +1669,4 @@ ms.locfileid: "48368696"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13127.20002|version-2008-july-31|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
