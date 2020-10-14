@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e481bdbb11579efd8de903f1099038faf9a1c8e2
-ms.sourcegitcommit: 3e406a2082be4a9c922f3f7143b4ad3850a08181
+ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
+ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "48382720"
+ms.lasthandoff: 10/12/2020
+ms.locfileid: "48422552"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,168 @@ ms.locfileid: "48382720"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2010-october-11"></a>版本 2010: 10 月 11 日
+*版本 2010 (組建 13328.20154)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+### <a name="word"></a>Word
+
+- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正載入儲存的查詢/關聯視窗在捲動時，捲軸位置未正確設定的問題。
+
+
+- 我們已修正 [新增表格] 工作窗格未正確顯示包含 '&' 名稱的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正多層次類別的手動間隔在圖表中無法運作的問題。
+
+
+- 修正在使用 2D 地圖圖表時，無法使用 VBA 設定系列中最大值、中間值和最小值顏色的問題。
+
+
+- 修正可能會導致「嘗試計算一個或多個公式時，Excel 資源不足」的錯誤問題。
+
+
+- 修正當 Office 語言設定為西班牙文時，其中資料驗證清單可能無法顯示清單中所有項目的問題。
+
+
+- 修正在啟用「分頁預覽」時，在含有大量資料的工作表之間切換時，可能會發生明顯延遲的問題。
+
+
+- 我們已修正當新增至用於資料驗證的表格時，並未更新活頁簿中所有工作表選項的問題。
+
+
+- 我們已修正在重新整理 OLAP 樞紐分析表時，可能會導致當機的問題。
+
+
+- 已修正在使用資料編輯列輸入公式時，某些情況下 ChartSheet 出現當機的問題。
+
+
+- 我們修正了 Excel 公式列與設備失去連線後無法完全呈現的問題，例如遠端會話的連線/斷線或監視器變更。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們修正了使用者無法從 [外部空間檔案] > [資訊] 的文字方塊中選取及複製筆記本 URL 的問題。
+
+
+- 我們已修正當您將游標移至筆記本色彩選擇器的綠色上方時，快顯會顯示「紅粉色」的問題。
+
+
+- 我們已修正 OneNote 在自訂主題的畫布中不會採用高對比色彩的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已解決當主旨為空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
+
+
+- 我們修正了資料夾中快取錯誤資料夾 guid 的問題。
+
+
+- 當使用者將電子郵件地址複製貼上到顯示名稱的 [收件者] 欄位時，電子郵件地址不一定可被正確分析，並導致出現了一個顯示電子郵件地址無效的警告。  已修正此問題，可正確分析名稱和電子郵件地址，因此不會再顯示警告。
+
+
+- 我們修正了線上共用資料夾未傳回母資料夾名稱的問題。 它並非失敗，而是傳回了不正確地移至主要帳戶的空白路徑。
+
+
+- 我們修正了傳統附件無法使用 [另存為] 選項的問題。
+
+
+- 我們修正了讓使用者能在覆寫原則時自訂調整文字的問題。
+
+
+- 我們已修正從唯讀預覽窗格中重新開啟 [草稿] 之後會開啟 [追蹤修訂] 的問題。
+
+
+- 我們已修正關閉 [焦點收件匣] 並執行排序之後，電子郵件遭隱藏的問題。
+
+
+- 我們已修正導致 Outlook 為啟用雲端設定的使用者建立第二個空白簽名的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們修正了 PowerPoint 在匯出為 PDF 時，無法匯出矩形專案符號的問題。
+
+
+- 我們已修正 GIF 在編輯器和投影片放映中的動畫只會執行一次的問題。
+
+
+- 我們已修正當使用者將來源路徑變更為本機 OneDrive 資料夾時，連結的 Excel 圖表不正確變更為 Excel 工作表的問題。
+
+
+- 我們修正了若您在最後一張投影片上，且您在按 [結束工作模式] 之後和顯示摘要之前，滑向下一張投影片，則會在 [摘要] 頁面上看到 [結束工作模式] 對話方塊。
+
+
+### <a name="project"></a>Project
+
+- 修正了如果您嘗試多次新增同一專案，且將 AttachToSources 設定為 false 時，ConsolidateProjects VBA 方法可能會發生出錯的問題。
+
+
+- 已修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+
+
+- 修正了如果您嘗試多次新增同一專案，且將 AttachToSources 設定為 false 時，ConsolidateProjects VBA 方法可能會發生出錯的問題。
+
+
+- 修正了如果您的自訂欄位包含公式，且正在使用實獲值分析，您可能會發現效能延遲切換檢視並開啟專案/工作詳細資料的問題。
+
+
+- 修正了如果您將群組套用到 [資源使用狀況] 或 [工作表] 視圖，然後插入欄位，Project 可能會當機的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們己修正已啟用工作流程檔案的連結無法如預期開啟的問題。
+
+
+- 修正當使用者在點擊追蹤的變更（插入/刪除）時，會彈出註解的問題。
+
+
+- 我們已修正 Word 中刪除註解圖說文字的問題。
+
+
+- 我們已修正 Outlook 有關將郵件設定為 [不要轉寄] 的問題。
+
+
+- 我們已修正有關儲存含有引文和方程式的 Word 文件問題。
+
+
+- 我們修正了 [樣式圖庫] 對話方塊的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-october-07"></a>版本 2009：10 月 7 日
 *版本 2009 (組建 13231.20360)*
