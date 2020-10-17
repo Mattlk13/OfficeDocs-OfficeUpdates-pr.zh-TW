@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942800"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453311"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -26,6 +26,210 @@ ms.locfileid: "47942800"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
+*版本 2008 (組建 13127.20638)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **有問題嗎？詢問 Excel**：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並查看電子郵件中的結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Outlook 的新個人檔案卡片：** Outlook 的新個人檔案卡片，包括更完善的檢視，並符合 Outlook Web 的卡片樣式。 [深入了解](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+
+
+- 此變更可修正當啟動縮放控制方塊 (Shift + F2) 以編輯文字時，可能會導致 Access 當機的問題。
+
+
+- 此問題現在已解決，您不應該會再遇到當機。
+
+
+### <a name="excel"></a>Excel
+
+- 修正當活頁簿包含使用 IFNA () 的公式時，會導致活頁簿損毀警告的問題。
+
+
+- 修正在凍結工作表頂端列之後，使用「快速分析」時 Excel 可能會當機的問題。
+
+
+- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+
+
+- 修正使用「複製格式」時，在某些情況中 Excel 可能會當機的問題。
+
+
+- 修正 PivotDateFilter API 中的錯誤，其中的 'Before' 和 'After' 篩選條件是相反的。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決會導致使用者在回覆或撰寫新電子郵件時收到下列錯誤的問題：「這個網頁中的某些檔案不存在預期的位置， 請問您一定要下載嗎? 如果您確定網頁來自信任的來源，請按 [是]」
+
+
+- 解決會導致在搜尋控制項中滑鼠右鍵功能表無法顯示的問題。
+
+
+- 修正在使用精簡檢視時會導致使用者看到異常的問題。
+
+
+- 這可修正編輯收件者時，會導致使用者偶爾遇到當機的問題。
+
+
+- 解決會導致排程助理員頁面無法顯示的問題。
+
+
+- 解決附件上傳的效能問題。
+
+
+- 解決了當您從 POP 帳戶刪除4或多個電子郵件時，已選取 [僅下載標題] 選項時，導致使用者遇到當機的問題。
+
+
+- 解決使用者嘗試開啟雲端附件時，會導致使用者在 safelinks 頁面上看到錯誤，而非所嘗試開啟文件的問題。
+
+
+- 修正與雲端附件互動時，會導致使用者偶爾遇到當機的問題。
+
+
+- 解決會導致使用者無法按一下角落中的 "X" 來關閉共用行事曆的問題。
+
+
+- 修正了新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+
+
+- 解決了當代理人在某些情況下遭到拒絕而導致會議無法從經理的行事曆中移除的問題。
+
+
+- 解决了導致使用 [共用行事曆改善] 的某些使用者無法查看剛新增的共用行事曆的問題。
+
+
+- 解決會導致 [開啟共用行事曆改良] 設定有時候無法套用至現有共用行事曆的問題。
+
+
+- 修正導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們修正了在 PowerPoint 應用程式中導致當機的問題。
+
+
+- 安全性修正程式，可解決在受保護檢視中開啟 PowerPoint 檔案時會停用 IRM 保護的問題。
+
+
+- 此變更可解決「匯出為動畫 GIF」功能的問題，其中按一下 [匯出] 按鈕不會匯出。
+
+
+### <a name="project"></a>Project
+
+- 已修正「連結至 SharePoint 工作清單的專案的完成日期沒有更新」的問題。
+
+
+- 修正如果資源中定義了多個成本費率表，其餘成本並不一定都能正確地計算的問題。
+
+### <a name="skype"></a>Skype
+
+- 將跳舞表情符號膚色變更為中性色彩.
+
+
+### <a name="visio"></a>Visio
+
+- 客戶回報文字對齊會在即時預覽時發生當機。 7 月分支所發生最多的當機情況。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正巨集 AutoOpen 在 AutoExec 之前執行的問題
+
+
+- 我們已修正 [樣式圖庫] 對話方塊的問題。
+
+
+- 解決 Word 啟動時會導致當機的問題。
+
+
+- 我們已修正基本樣式未更新為「內文樣式」的問題。
+
+
+- 我們已修正使用者開啟文件時可能會遇到當機的問題。
+
+
+- 我們已修正在調整圖案大小時，使用者可能會遺失內容的問題。
+
+
+- 解決會導致使用者在開啟某些非常大型電子郵件時會遇到當機的問題。
+
+
+- 解決會導致使用者在回覆或撰寫新電子郵件時遇到當機的問題。
+
+
+- 此變更可解決於前一個共同撰寫之後，Microsoft Office 應用程式可能卡在無訊息的儲存失敗狀態的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更可解決啟動 Office 應用程式時由於無法載入 d2d1.dll 而產生的當機。
+
+
+- 修正使用 GIF/動畫 model3D 閒置時的高 CPU 使用量
+
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2007-october-13"></a>版本 2007：10 月 13 日
+*版本 2007 (組建 13029.20708)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 PivotDateFilter API 中的錯誤，其中的 'Before' 和 'After' 篩選條件是相反的。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2007-september-08"></a>版本 2007：9 月 8 日
 *版本 2007 (組建 13029.20534)*
@@ -636,6 +840,7 @@ ms.locfileid: "47942800"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32 |MEC |生產 |功能 | 16.0.13001.20520 | 版本-2006-11 |)
 [//]: # (|Win32|MEC|生產|功能|16.0.12827.20538|版本-2005-14|)

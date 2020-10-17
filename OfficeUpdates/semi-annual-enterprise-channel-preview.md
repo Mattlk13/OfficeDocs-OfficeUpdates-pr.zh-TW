@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 224c64a8f12489edd5050be683e477a05369f8c9
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942860"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466111"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>2020年的半年期企業通道（預覽版）發行記錄
 
@@ -23,6 +23,85 @@ ms.locfileid: "47942860"
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
+*版本 2008 (組建 13127.20638)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 PivotDateFilter API 中的錯誤，其中的 'Before' 和 'After' 篩選條件是相反的。
+
+
+- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+
+
+- 修正了當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
+
+
+- 修正了當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決由於按一下角落中的 [X] 而導致使用者無法關閉共用行事曆的問題。
+
+
+- 解決會導致 [開啟共用行事曆改良] 設定有時候無法套用至現有共用行事曆的問題。
+
+
+- 解決使用者嘗試開啟雲端附件時，會導致使用者在 safelinks 頁面上看到錯誤，而非所嘗試開啟文件的問題。
+
+
+- 解決附件上傳的效能問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更可解決「匯出為動畫 GIF」功能的問題，其中按一下 [匯出] 按鈕不會匯出。
+
+
+- 安全性修正程式可解決在 [受保護的檢視] 中開啟 PowerPoint 檔案時會停用 IRM 保護的問題。
+
+- 我們修正了在 PowerPoint 應用程式中 [動作設定] 對話方塊導致當機的問題。
+
+### <a name="visio"></a>Visio
+
+- 我們已修正導致即時預覽在文字對齊時發生當機的問題。
+
+
+### <a name="word"></a>Word
+
+- 解決會導致使用者在開啟某些非常大型電子郵件時會遇到當機的問題。
+
+
+- 我們已修正使用者開啟文件時可能會遇到當機的問題。
+
+
+- 解決 Word 啟動時會導致當機的問題。
+
+
+- 我們修正了 [樣式圖庫] 對話方塊的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+- 修正使用 GIF/動畫 model3D 閒置時的高 CPU 使用量
+
+
+- 此變更可解決啟動 Office 應用程式時由於無法載入 d2d1.dll 而產生的當機。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-september-08"></a>版本2008：9月 8 日
 *版本 2008 (組建 13127.20408)*
@@ -49,7 +128,7 @@ ms.locfileid: "47942860"
 
 - **您最愛的 Excel 函數計算速度提升了：** SUMIFS、AVERAGEIFS、COUNTIFS、MAXIFS 和 MINIFS 函數現在比以往更快了。 更快速地前往底線。 立即試用。
 
-- **RealTimeData (RTD) 的改進** 在 Office 365 版本 2002 的每月通道或更新版本中，Excel RealTimeData (RTD) 函數速度快于 Excel 2010 計算試算表中的資料。 我們在其基礎記憶體和資料結構中移除瓶頸，並使其成為執行緒安全的，讓它可在多執行緒重新計算 (MTR) 的所有可用執行緒上計算。
+- **RealTimeData (RTD) 的改進** 在 Office 365 版本 2002 的每月通道或更新版本中，Excel RealTimeData (RTD) 函數速度快于 Excel 2010 計算試算表中的資料。 我們在其基礎記憶體和資料結構中移除了瓶頸，並使其成為安全執行緒，讓它可在多執行緒重新計算 (MTR) 的所有可用執行緒上計算。
 
 ### <a name="outlook"></a>Outlook
 
@@ -65,7 +144,7 @@ ms.locfileid: "47942860"
 
 - **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 
 - **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1115,6 +1194,7 @@ ms.locfileid: "47942860"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.12527.20880|version-2002-july-14|)

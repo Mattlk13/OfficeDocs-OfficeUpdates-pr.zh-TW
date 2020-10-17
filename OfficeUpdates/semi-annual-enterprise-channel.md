@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 9e420ed8c7c6f5c329b3137f21b952f7a29af7e1
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f7f3b39521132fb11226bc512f782e0adec5aba8
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942770"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453411"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>2020 年的半年企業通道發行的版本資訊
 
@@ -26,6 +26,63 @@ ms.locfileid: "47942770"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-october-13"></a>版本 2002：10 月 13 日
+*版本 2002 (組建 12527.21236)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 只要您滿足 Access 資料庫指導方針和需求，則應該不會再於您的 64 位元版本 Access 中收到「查詢太複雜」或系統資源滿載錯誤。
+
+
+- 一旦您決定在我們的查詢設計工具之後使用篩選功能，您的資料庫應該就不會再當機。 請相應地檢查。
+
+
+### <a name="excel"></a>Excel
+
+- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 從範本建立的新簡報會繼承設定，使得您無法順利進行共同撰寫。 此修正程式可確保在此情況下會清除該設定。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在開啟含有分頁符號和欄的文件時，使用者可能會遇到錯誤訊息：「您已超過 Microsoft Word 所支援的頁數上限或此文件已損毀」
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-1908-october-13"></a>版本 1908：10 月 13 日
+*版本 1908 (組建 11929.20966)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -819,7 +876,7 @@ ms.locfileid: "47942770"
 
 - 已解決以下問題：使用者將共用行事曆資料夾同步到 OST 時發生問題，這導致嘗試與這些資料夾互動時發生權限錯誤。
 
-- 解決會導致使用者在 Citrix 環境中檢視 30 個以上的行事曆時遇到當機的問題。 此處是[記錄舊版問題的個別 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解決會導致使用者在 Citrix 環境中檢視 30 個以上的行事曆時遇到當機的問題。 此處是[記錄舊版問題的個別 KB](https://support.microsoft.com/zh-TW/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 修正 SMIME 演算法選取的問題。
 
@@ -1697,6 +1754,7 @@ ms.locfileid: "47942770"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production||16.0.12527.20988|version-2002-august-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
