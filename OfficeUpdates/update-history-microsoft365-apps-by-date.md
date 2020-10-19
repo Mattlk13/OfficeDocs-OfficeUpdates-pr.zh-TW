@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 3bf6c9882cb09a45b1e4dd1ac28f2643da11da73
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 31c289363017fd7511036d7a879542dd34a2a83c
+ms.sourcegitcommit: 3a03037114edb3662a0e076218e42be7c4c1ee89
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453101"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48464726"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -24,13 +24,11 @@ ms.locfileid: "48453101"
 > - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 > - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
-
 > [!NOTE]
 > - 資料表依發行日期排序，最新的發行日期列在最前面。
 > - 如需更新通道的詳細資訊，請參閱 [Microsoft 365 Apps 更新通道概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下列表格會列出每個更新通道的支援版本及最新組建編號。
-
 
 [//]: # (EOSTABLESTART)
 
@@ -53,7 +51,8 @@ ms.locfileid: "48453101"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|10 月 13 日|[版本 2009 (組建 13231.20390)](current-channel.md#version-2009-october-13)|[版本 2008 (組建 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)|[版本 2008 (組建 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[版本 2002 (組建 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[版本 1908 (組建 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
+|
+|2020|10 月 13 日|[版本 2009 (組建 13231.20390)](current-channel.md#version-2009-october-13)|[版本 2008 (組建 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[版本 2007 (組建 13029.20708)](monthly-enterprise-channel.md#version-2007-october-14)|[版本 2008 (組建 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[版本 2002 (組建 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[版本 1908 (組建 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|10 月 08 日|[版本 2009 (組建 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|9 月 28 日|[版本 2009 (組建 13231.20262)](current-channel.md#version-2009-september-28)| | | |
 |2020|9 月 22 日|[版本 2008 (組建 13127.20508)](current-channel.md#version-2008-september-22)| | | |
