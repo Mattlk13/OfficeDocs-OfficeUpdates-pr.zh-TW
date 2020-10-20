@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: b7f3df423a27f1760f12fef1b23c9f1b9b62dced
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453361"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597736"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
 測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
 
 > [!IMPORTANT]
-> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
 
 > [!NOTE]
@@ -37,6 +37,9 @@ ms.locfileid: "48453361"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 10 月19 日**<br/>
+版本 2011 (組建 13415.20002)<br/>
 
 **2020 年 10 月 12 日**<br/>
 版本 2011 (組建 13408.20000)<br/>
