@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 1058b8b2012d910f02e490fae0be580d036f974a
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597736"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773615"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
@@ -22,7 +22,7 @@ ms.locfileid: "48597736"
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 > [!NOTE]
 >
@@ -31,12 +31,15 @@ ms.locfileid: "48597736"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office 搶先版通道版本和組建
 
-如果您註冊的是「測試人員 - 快」層級，您會經常收到包含新功能和改良功能的更新。 下表顯示最新的測試人員版本和組建歷程記錄，當中會**優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
+如果您註冊的是「測試人員 - 快」層級，您會經常收到包含新功能和改良功能的更新。 下表顯示最新的測試人員版本和組建歷程記錄，當中會 **優先列出最新發行的組建** 。 新組建包含舊組建中的所有更新。
 
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
 
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 10 月 26 日**<br/>
+版本 2011 (組建 13422.20000)<br/>
 
 **2020 年 10 月19 日**<br/>
 版本 2011 (組建 13415.20002)<br/>
@@ -62,7 +65,7 @@ ms.locfileid: "48597736"
 **2020 年 9 月 15 日**<br/>
 版本 2010 (組建 13312.20006)<br/>
 
-** 2020 年 9 月 07 日**<br/>
+**2020 年 9 月 07 日**<br/>
 版本2010 (組建13304.20000)<br/>
 
 **2020 年 9 月 2 日**<br/>

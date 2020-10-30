@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 137c1141a987a60f00674ce7e4eb0ac104d5df15
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 09a5dc07d59e5b731f88fe334817b8327cf5cb57
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597756"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773595"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,63 @@ ms.locfileid: "48597756"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
+*版本 2010 (組建 13328.20292)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致預設不會為使用者開啟雲端設定的問題。
+
+
+- 我們已修正會導致對使用者簽章的變更無法儲存的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2010-october-24"></a>版本 2010：10 月 24 日
+*版本 2010 (組建 13328.20278)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在回覆或轉寄時，會導致中文郵件標題無法閱讀的問題。
+
+
+- 我們已修正在儲存為 OFT 檔案時，會導致中文字元變更為問號的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正當您將專案從 PWA 儲存到本機 mpp 檔案時，ProjectBeforeTaskChangeEvent 會對實際上未由使用者變更的資料觸發的問題。
+
+
+- 修正如果工作表單類型檢視內的延隔時間變更，ProjectBeforeTaskChange 事件中的 NewVal 不會有正確值的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-october-19"></a>版本 2010：10 月 19 日
 *版本 2010 (組建 13328.20210)*
@@ -76,15 +133,15 @@ ms.locfileid: "48597756"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** [應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** [應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="word"></a>Word
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** [應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -242,7 +299,7 @@ ms.locfileid: "48597756"
 
 ### <a name="outlook"></a>Outlook
 
-- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 <br />在[部落格文章](https://insider.office.com/zh-TW/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+- **語文法檢查鼎力相助** ：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 <br />在[部落格文章](https://insider.office.com/zh-TW/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -553,7 +610,7 @@ ms.locfileid: "48597756"
 
 - **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **使用 Excel 手寫筆進行快速編輯：**[手寫筆工具] 可協助您手寫並快速編輯資料
+- **使用 Excel 手寫筆進行快速編輯：** [手寫筆工具] 可協助您手寫並快速編輯資料
 
 
 
@@ -1364,7 +1421,7 @@ ms.locfileid: "48597756"
 
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。 如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。
+- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。  如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1723,7 +1780,7 @@ ms.locfileid: "48597756"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2004-april-21"></a>版本 2004：4 月 21 日
-版本 2004 (組建 12730.20182)**
+版本 2004 (組建 12730.20182) 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -2084,13 +2141,13 @@ ms.locfileid: "48597756"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 </br>
 
 ### <a name="resolved-issues"></a>解決的問題

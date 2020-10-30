@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657291"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782308"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -27,7 +27,7 @@ ms.locfileid: "48657291"
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 
 > [!NOTE]
@@ -35,6 +35,22 @@ ms.locfileid: "48657291"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="october-27-2020"></a>2020 年 10 月 27 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTOctober 27, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2010 (組建 13328.20292)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2009 (組建 13231.20418) <br/> |2020 年 10 月 21 日 <br/> |133<br/> |
+|版本 2009 (組建 13231.20390) <br/> |2020 年 10 月 13 日 <br/> |133<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDOctober 27, 2020)
 
 ## <a name="october-21-2020"></a>2020 年 10 月 21 日
 

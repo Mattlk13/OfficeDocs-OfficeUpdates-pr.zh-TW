@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 8856e1e2bf934bb51aba4c3614d62da3650ff4b1
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597766"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773605"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道（預覽）更新歷程記錄
 
@@ -23,13 +23,13 @@ ms.locfileid: "48597766"
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道（預覽）版本和組建
 
-如果您註冊的是目前通道 (預覽) 層級 (之前稱為 [測試人員 - 慢])，您大約每個月會收到一次 Office 功能更新，加上包含重要修正程式或安全性更新的後續組建。 下表顯示最新目前通道 (預覽) 版本和組建，當中會**優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
+如果您註冊的是目前通道 (預覽) 層級 (之前稱為 [測試人員 - 慢])，您大約每個月會收到一次 Office 功能更新，加上包含重要修正程式或安全性更新的後續組建。 下表顯示最新目前通道 (預覽) 版本和組建，當中會 **優先列出最新發行的組建** 。 新組建包含舊組建中的所有更新。
 若要尋找版本資訊，請 [參閱](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 而且您也可以參閱 [Office 測試人員的新增功能](https://insider.office.com/zh-TW/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
@@ -37,6 +37,12 @@ ms.locfileid: "48597766"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 10 月 27 日**<br/>
+版本 2010 (組建 13328.20292)<br/>
+
+**2020 年 10 月 24 日**<br/>
+版本 2010 (組建 13328.20278)<br/>
 
 **2020 年 10 月19 日**<br/>
 版本 2010 (組建 13328.20210)<br/>

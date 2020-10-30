@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 051e85e530d6b72821b46e12c67183d207035eb3
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657321"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782328"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -35,7 +35,105 @@ ms.locfileid: "48657321"
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (請勿移除 BUGDETAILS 內容尾)
+
+## <a name="version-2010-october-27"></a>版本 2010：10 月 27 日
+*版本 2010 (組建 13328.20292)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **隨時跟上改變！[日期/時間] 延伸資料類型具有更好的精確度。：** 引進新的和改良的資料類型。 為加強與 SQL 的語法相容性，並提高包含日期和時間之記錄的詳細資料和層級，我們正在將 DateTime2 資料類型實施到 Access 中。 這個額外的日期與時間資料類型，將會包含更大的日期範圍（0001-01-01 到9999-12-31），具有更高的指定時間精準度(以納秒取代秒為單位)，讓您可以提供和執行計算。 若要啟用，請選取 [新增欄位] > [日期與時間延長]。 [深入了解](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 建立資料類型：** 使用任何資料來源中的 Power Query 建立豐富的資料類型
+
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+
+- **使用動作手寫筆快速編輯：** 您可以使用動作手寫筆直接在儲存格中書寫，以會自動轉換成 Excel 資料的筆跡記下資料。
+
+### <a name="outlook"></a>Outlook
+
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+
+- **文法檢查是您的後盾** ：Outlook 會在您輸入時標記文法錯誤，這麼一來，您只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **Microsoft Teams 中的範本：** 使用 Teams 中的範本，使用者可在建立新的小組時從各種可自訂的範本中選擇，協助他們快速開始使用。 IT 專業人員也可以為其組織建立新的自訂範本，讓他們能標準化小組結構、讓相關應用程式浮現，以及擴大最佳做法。
+
+- **釘選文章：** 此功能可讓使用者將頻道中的任何訊息「釘選」到頻道資訊窗格，使得頻道中所有成員能夠看見。 擁有頻道存取權的任何成員都能查看釘選的訊息。 頻道的任何成員都能釘選任何訊息 (除非透過頻道仲裁設定關閉)。
+
+- **提交至應用程式目錄：** 您會在此畫面左下角看到 [提交至應用程式目錄] 連結。 除了 App Studio 和 Visual Studio，它是您可以提交應用程式進行核准的另一個位置。
+
+- **在彈出的會議體驗中，使用 Freehand by Invision 做為白板：** 您現在可以在彈出的會議體驗中，於您參與的任何會議中將 Freehand by Invision 應用程式用作白板。 從共用內容匣選取 Freehand 應用程式並安裝它，然後啟動與您的同事的白板工作階段，順暢地開始激發靈感！
+
+### <a name="word"></a>Word
+
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在回覆或轉寄時，會導致中文郵件標題無法閱讀的問題。
+
+
+- 我們已修正在儲存為 OFT 檔案時，會導致中文字元變更為問號的問題。
+
+
+- 我們已修正會導致 Outlook 為已啟用雲端設定的使用者建立第二個空白簽名的問題。
+
+
+- 我們已修正會導致預設不會為使用者開啟雲端設定的問題。
+
+
+- 我們已修正會導致對使用者簽章的變更無法儲存的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 這是此問題的修正：當有增益集在接聽 PresentationBeforeClose 事件並隨著事件處理常式檢查 Presentation.Saved 內容時若關閉文件，儲存提示會以迴圈顯示。
+
+
+### <a name="project"></a>Project
+
+- 修正當您將專案從 PWA 儲存到本機 mpp 檔案時，ProjectBeforeTaskChangeEvent 會對實際上未由使用者變更的資料觸發的問題。
+
+
+- 修正 Project 在開啟以特定方式指定資源分佈的檔案時可能會意外終止的問題。
+
+
+- 修正當您將專案從 PWA 儲存到本機 mpp 檔案時，ProjectBeforeTaskChangeEvent 會對實際上未由使用者變更的資料觸發的問題。
+
+
+- 修正如果工作表單類型檢視內的延隔時間變更，ProjectBeforeTaskChange 事件中的 NewVal 不會有正確值的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2009-october-21"></a>版本 2009：10 月 21 日
 *版本 2009 (組建 13231.20418)*
@@ -279,7 +377,7 @@ ms.locfileid: "48657321"
 
 - **增加群組交談：** Teams新增了群組聊天中可有250個參與者的功能.
 
-- **按 Shift 加上標籤:** 使用這項功能，系統會自動在小組中的[Shifts app](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) 應用程式中, 為人員指派符合其行程和班表的標籤。
+- **按 Shift 加上標籤:** 使用這項功能，系統會自動在小組中的 [Shifts app](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) 應用程式中, 為人員指派符合其行程和班表的標籤。
 
 ### <a name="word"></a>Word
 
@@ -597,7 +695,7 @@ ms.locfileid: "48657321"
 
 - **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **新增至 Outlook 快顯通知的其他按鈕：**[快速動作] 按鈕現在會於在 Windows 10 上執行 Outlook 時顯示在 Outlook 快顯通知中
+- **新增至 Outlook 快顯通知的其他按鈕：** [快速動作] 按鈕現在會於在 Windows 10 上執行 Outlook 時顯示在 Outlook 快顯通知中
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -792,7 +890,7 @@ ms.locfileid: "48657321"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自動使用新的資料類型**：當您輸入的資料值類似股票或地理位置時，Excel 會將該值轉換為正確的連結資料類型 - 股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自動使用新的資料類型** ：當您輸入的資料值類似股票或地理位置時，Excel 會將該值轉換為正確的連結資料類型 - 股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
@@ -832,7 +930,7 @@ ms.locfileid: "48657321"
 
 - **從 Teams 進行中的會議內輕鬆存取會議選項：** 我們讓會議召集人在 Teams 會議一開始，便能更快速且輕鬆地變更簡報者和大廳設定，方法是在參與者窗格中直接提供易於存取的連結。 此新功能將會同時對已排定和「立即開會」會議呈現。
 
-- **團隊與頻道分析**：除了團隊分析以外，您現在也可以檢視頻道層級指標和深入資訊。 我們也將時間週期增加到 90 天，使得您可以分析資料的時間較長。 除此以外，此版本還包含有關小組或頻道的文章、回覆和會議計數的新計量和圖表。
+- **團隊與頻道分析** ：除了團隊分析以外，您現在也可以檢視頻道層級指標和深入資訊。 我們也將時間週期增加到 90 天，使得您可以分析資料的時間較長。 除此以外，此版本還包含有關小組或頻道的文章、回覆和會議計數的新計量和圖表。
 
 - **進入/結束宣告：** 我們新增了此功能，讓會議召集人能夠開啟或關閉會議的進入和結束宣告。
 
@@ -955,7 +1053,7 @@ ms.locfileid: "48657321"
 
 - **Facebook 連接器支援即將結束：** 於 2020 年 4 月起，Excel 就不再支援使用 Facebook 連接器的外部資料連線。
 
-- **有問題嗎？詢問 Excel**：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **有問題嗎？詢問 Excel** ：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **讓活頁簿更生動的新影像：** 您可以在活頁簿中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
@@ -1109,7 +1207,7 @@ ms.locfileid: "48657321"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1308,7 +1406,7 @@ ms.locfileid: "48657321"
 
 - **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。 [深入了解](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **對筆跡使用套索：**[繪圖] 索引標籤上的 [套索] 工具，可協助您選取使用筆跡繪製的物件。 選取個別筆劃或整個字。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **對筆跡使用套索：** [繪圖] 索引標籤上的 [套索] 工具，可協助您選取使用筆跡繪製的物件。 選取個別筆劃或整個字。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 
@@ -1413,6 +1511,7 @@ ms.locfileid: "48657321"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
@@ -1422,5 +1521,4 @@ ms.locfileid: "48657321"
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32 |CC|生產||16.0.13029.20344|版本-2007-11|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
