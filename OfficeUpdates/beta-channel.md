@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495910"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815599"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,9 +31,139 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2011-october-30"></a>版本 2011：10 月 30 日
+*版本 2011 (組建 13426.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **改善條件式格式設定對話方塊：** [條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 修正 Power Pivot 使用 Oracle 資料庫連線時的問題。
+
+
+- 我們已修正觸發 MTR 計算和群組原則物件更新 (例如，透過遠端群組原則重新整理) 時，Excel 會異常終止的問題。
+
+
+- 此變更可修正會在嘗試載入 atomsvc 檔案時導致 Excel 發生錯誤的錯誤。
+
+
+- 我們已修正將 Excel 活頁簿插入 Word 文件時，Word 似乎停滯的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正信箱擁有者無法管理自己行事曆的共用權限的問題，因為該選項呈現灰色停用狀態。
+
+
+- 我們已修正將電子郵件範本儲存為 .OFT 時，會將中文字元變更為問號的問題。
+
+
+- 我們已修正 Outlook 無法使用受限制的權限建立郵件的問題。
+
+
+- 解決在新增或儲存附件時，會導致 Outlook 停止運作的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正關閉設計窗格時，投影片的格線移位的問題。
+
+
+- 我們已修正投影片在選取項目窗格開啟的情況下停止螢幕錄製後，投影片中的捲軸會自行開始調整的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正當您將專案從 PWA 儲存到本機 mpp 檔案時，ProjectBeforeTaskChangeEvent 會對實際上未由使用者變更的資料觸發的問題。
+
+
+- 修正資源預訂依名稱 (而不是 GUID) 搜尋資源時，如果有多個名稱相同的資源，會導致問題的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正按一下註解提示時，註解提示不會放大以在檢視中顯示註解卡片的問題。
+
+
+- 我們已修正欄位之間的線條可能已移位的版面配置問題。
+
+
+- 我們已修正將 Excel 活頁簿插入 Word 文件時，Word 似乎停滯的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了 Office 部署工具中的一個問題，該問題是，在 Microsoft Office 2007 [Microsoft 應用程式錯誤回報工具] 產品存在的情況下使用 RemoveMSI 功能時設定失敗。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2011-october-23"></a>版本 2011：10 月 23 日
+*版本 2011 (組建 13415.20002)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **利用簡報者教練排練簡報：** 取得有助於維持對象參與的項目方面的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
+
+- 我們已修正表單視窗之間的「自動」切換，發生切換到另一個表單的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正將從會議位置複製的 URL 貼上到其他位置 (例如瀏覽器) 時，URL 的結尾會包含分號的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正將投影片放映複製到次要監視器時，投影片可能會隱藏在其他視窗後面的問題。
+
+### <a name="project"></a>Project
+
+- 我們已修正在開啟以特定方式指定資源分佈的檔案時，Project 可能會意外終止的問題。
+
+### <a name="word"></a>Word
+
+- 我們已修正有時開啟 Word 文件可能會顯示錯誤對話方塊的追蹤修訂問題。
+
+- 我們已修正套用具有浮水印的敏感度標籤時的列印問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2011-october-16"></a>版本 2011：10 月 16 日
 *版本 2011 (組建 13408.20000)*
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -423,17 +553,17 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **釘選電子郵件**：這項功能可協助使用者追蹤所需的郵件，或是將郵件存放在郵寄清單頂端作為提醒。
+- **釘選電子郵件** ：這項功能可協助使用者追蹤所需的郵件，或是將郵件存放在郵寄清單頂端作為提醒。
 
 - **依人員搜尋時收到電子郵件的建議：** 當您在 Outlook 中輸入搜尋字詞時，您會收到建議中顯示的最相關的電子郵件。
 
 - **依人員搜尋時收到電子郵件的建議：** 當您在 Outlook 中輸入搜尋字詞時，您會收到建議中顯示的最相關的電子郵件。
 
-- **Microsoft Corporation 編輯器針對Word和Outlook桌面客戶端進行了升級: ** 我們正為編輯器的拼寫，文法和高級樣式建議引入一種新的點擊查看模型。。 此變更也包含用於審核建議的新的專用卡外觀。
+- **Microsoft Corporation 編輯器針對Word和Outlook桌面客戶端進行了升級:** 我們正為編輯器的拼寫，文法和高級樣式建議引入一種新的點擊查看模型。。 此變更也包含用於審核建議的新的專用卡外觀。
 
 ### <a name="word"></a>Word
 
-- **Microsoft Corporation 編輯器針對Word和Outlook桌面客戶端進行了升級: ** 我們正為編輯器的拼寫，文法和高級樣式建議引入一種新的點擊查看模型。。 此變更也包含用於審核建議的新的專用卡外觀。
+- **Microsoft Corporation 編輯器針對Word和Outlook桌面客戶端進行了升級:** 我們正為編輯器的拼寫，文法和高級樣式建議引入一種新的點擊查看模型。。 此變更也包含用於審核建議的新的專用卡外觀。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -551,7 +681,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-august-14"></a>2009 版本: 8月14日
-* 2009 版本 (組建 13205.20000)*
+*2009 版本 (組建 13205.20000)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -905,7 +1035,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **在 Excel 中進行共同作業時排序/篩選：** 您現在可以在與其他人共同作業時，同時排序和篩選您的 Excel 檔案。 這項新功能可防止您在共同撰寫文件時，受到其他使用者的排序和篩選的影響。
 
-- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。 如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。  如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -955,25 +1085,25 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version2006may29"></a>版本 2006：5 月 29 日
+## <a name="version-2006-may-29"></a>版本 2006：5 月 29 日
 *版本 2006 (組建 12920.20000)*
 
-### <a name="featureupdates"></a>功能更新
+### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **新增至 Outlook 快顯通知的其他按鈕：**[快速動作] 按鈕現在會於在 Windows 10 上執行 Outlook 時顯示在 Outlook 快顯通知中。
+- **新增至 Outlook 快顯通知的其他按鈕：** [快速動作] 按鈕，現在會於在 Windows 10 上執行 Outlook 時顯示在 Outlook 快顯通知中。
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **PowerPoint 中改善的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。  您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolvedissues"></a>解決的問題
+### <a name="resolved-issues"></a>解決的問題
 
 ### <a name="excel"></a>Excel
 
@@ -993,7 +1123,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 我們已修正啟用原則 Word 2007 及更新版本的二進位檔案和範本會導致部分共同撰寫案例失敗的問題。
 - 我們已修正具長路徑名稱 (大於 32K) 的檔案無法開啟，且未顯示適當的錯誤訊息的問題。
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2006-may-22"></a>版本 2006：5 月 22 日
@@ -1195,7 +1325,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 ## <a name="version-2005-april-24"></a>版本 2005：4 月 24 日
-版本 2005 (組建 12816.20006)**
+版本 2005 (組建 12816.20006) 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -1451,13 +1581,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>功能更新
 
 ### <a name="excel"></a>Excel
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1533,7 +1663,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改善筆跡轉換圖形圖表製作體驗：** 繪製更完善的圖表，並將它轉換成您可處理的 Office 物件。[深入了解](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+- **改善筆跡轉換圖形圖表製作體驗：** 繪製更完善的圖表，並將它轉換成您可處理的 Office 物件。 [深入了解](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1709,6 +1839,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1717,6 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|測試人員| |16.0.13205.20000|版本-2009-8月-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
