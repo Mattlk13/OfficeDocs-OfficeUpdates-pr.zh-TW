@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 171bf1f59e7e1568512c1d1a0e2cd4e3ef8ef83d
-ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
+ms.openlocfilehash: 82e056874fbe4e95247e6b5ccb09accdfcc98816
+ms.sourcegitcommit: 8b12ed0c94df66ae0220e8c6e2e4c957d4c64e75
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815609"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830324"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
 
@@ -49,21 +49,21 @@ ms.locfileid: "48815609"
 
 ### <a name="excel"></a>Excel
 
-- **使用 Power Query 建立資料類型：** 使用 Power Query 從任何資料來源建立豐富的資料類型。<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
+- **使用 Power Query 建立資料類型：** 使用 Power Query 從任何資料來源建立豐富的資料類型。 [深入了解](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **使用動作手寫筆快速編輯：** 您可以使用動作手寫筆直接在儲存格中書寫，以會自動轉換成 Excel 資料的筆跡記下資料。
 
 ### <a name="outlook"></a>Outlook
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
-- **文法檢查是您的後盾** ：Outlook 會在您輸入時標記文法錯誤，這麼一來，您只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+- **文法檢查是您的後盾** ：Outlook 會在您輸入時標記文法錯誤，這麼一來，您只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="teams"></a>Teams
 
@@ -77,7 +77,7 @@ ms.locfileid: "48815609"
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -133,7 +133,7 @@ ms.locfileid: "48815609"
 - 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
 
 
-[//]: # (請勿移除 BUGDETAILS 內容尾)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2009-october-21"></a>版本 2009：10 月 21 日
 *版本 2009 (組建 13231.20418)*
@@ -1146,7 +1146,7 @@ ms.locfileid: "48815609"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1474,7 +1474,7 @@ ms.locfileid: "48815609"
 
 - **最佳化您的簡報：** 協助工具檢查程式可協助您以螢幕閱讀器為中心，在投影片上排列物件。
 
-- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/zh-TW/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
