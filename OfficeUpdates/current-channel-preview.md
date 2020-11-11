@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944137"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950002"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -27,6 +27,158 @@ ms.locfileid: "48944137"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2011-november-09"></a>版本 2011：11 月 9 日
+*版本 2011 (組建 13426.20184)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從查詢建立 Power Platform 資料流程：** 您現在可以將查詢匯出至 Power Query 範本，以建立新的 Power Platform 資料流程
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
+
+
+- 我們已修正表單視窗之間發生「自動」切換而切換到另一個表單的問題。
+
+
+- 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正啟用 SaveAs 作業與 COM 增益集之後，檔案名稱未變更的問題。
+
+
+- 修正 Power Pivot 使用 Oracle 資料庫連線時的問題。
+
+
+- 我們已修正當 Excel 資料模型中有錯誤的度量定義時，自動儲存會失敗且顯示錯誤/令人誤解的錯誤訊息的問題。
+
+
+- 我們已修正觸發 MTR 計算和群組原則物件更新 (例如，透過遠端群組原則重新整理) 的處理序時，Excel 異常終止的問題。
+
+
+- 我們已修正使用者無法直接從 SharePoint 開啟 atomsvc (UTF8+BOM) 檔案的問題。
+
+
+- 我們已修正放大和縮小簡報區域會造成縮放的選取跑馬燈和滑鼠指標之間產生間隙的問題。
+
+
+- 我們已修正將 Excel 活頁簿插入 Word 文件時，Word 似乎停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決在新增或儲存附件時，會導致 Outlook 偶爾停止運作的問題。
+
+
+- 我們已修正快速列印影像附件導致錯誤的問題，錯誤為：「Windows 找不到此圖片。 請檢查位置，然後再試一次」。
+
+
+- 我們已修正導致某些使用者看到 Outlook 在離線狀態下啟動，直到他們手動選擇線上工作的問題。
+
+
+- 我們已修正將從會議位置複製的 URL 貼上到其他位置 (例如瀏覽器) 時，URL 的結尾會包含分號的問題。
+
+
+- 我們已修正使用者無法在 [基本驗證] 中刪除 Microsoft 365 群組行事曆約會的問題。
+
+
+- 我們已修正載入暱稱快取時啟動 Outlook 失敗的問題。
+
+
+- 我們已修正信箱擁有者無法管理自己行事曆的共用權限的問題，因為該選項呈現灰色停用狀態。
+
+
+- 我們已修正 Outlook 無法使用受限制的權限建立郵件的問題。
+
+
+- 我們已修正將電子郵件範本儲存為 .OFT 時，會將中文字元變更為問號的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正放大和縮小簡報區域會造成縮放的選取跑馬燈和滑鼠指標之間產生間隙的問題。
+
+
+- 我們已修正 [圖片] 旁的內容預留位置圖示沒有工具提示的問題。
+
+
+- 我們已修正 pptsx 檔案所顯示的投影片放映之受保護檢視，允許受 IRM 保護的文件螢幕擷取的問題。
+
+
+- 我們已修正關閉設計窗格時，投影片的格線移位的問題。
+
+
+- 我們已修正將投影片放映複製到次要監視器時，投影片可能會隱藏在其他視窗後面的問題。
+
+
+- 我們已修正投影片在選取項目窗格開啟的情況下停止螢幕錄製後，投影片中的捲軸會自行開始調整的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正如果 [工作表單] 類型檢視中的延遲變更，ProjectBeforeTaskChagne 事件中的 NewVal 值不正確的問題。
+
+
+- 我們已修正在開啟以特定方式指定資源分佈的檔案時，Project 可能會意外終止的問題。
+
+
+- 已修正當您將專案從 PWA 儲存到本機 mpp 檔案時，會針對實際上使用者未變更的資料觸發 ProjectBeforeTaskChangeEvent 的問題。
+
+
+- 已修正資源預訂依名稱 (而不是 GUID) 搜尋資源時，如果有多個名稱相同的資源，會導致問題的問題。
+
+
+- 已修正如果您在專案網站中有工作清單並將工作清單分組，您將無法快速編輯工作清單的問題。
+
+
+- 已修正如果您透過 CSOM 更新企業資源，可能會遺失資源最大單位。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正放大和縮小簡報區域會造成縮放的選取跑馬燈和滑鼠指標之間產生間隙的問題。
+
+
+- 我們已修正按一下註解提示時，註解提示不會放大以在檢視中顯示註解卡片的問題。
+
+
+- 我們已修正欄位之間的線條可能已移位的版面配置問題。
+
+
+- 我們已修正有時開啟 Word 文件可能會顯示錯誤對話方塊的追蹤修訂問題。
+
+
+- 我們已修正將 Excel 活頁簿插入 Word 文件時，Word 似乎停止回應的問題。
+
+
+- 我們已修正套用具有浮水印的敏感度標籤時的列印問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Office 部署工具中的問題，即在 Microsoft Office 2007 [Microsoft 應用程式錯誤回報工具] 產品存在的情況下使用 RemoveMSI 功能時，設定失敗。
+
+
+- 我們已修正 SSO API 互動式登入傳回錯誤碼的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-november-06"></a>版本 2010：11 月 6 日
 *版本 2010 (組建 13328.20356)*
@@ -1884,7 +2036,7 @@ ms.locfileid: "48944137"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 已修正工作窗格中表格的重新調整及重新整理問題。
+- 修正工作窗格中表格的重新調整及重新整理問題。
 
 - 修正國際版 Access 在使用者介面中顯示英文字串的問題。
 
