@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
-ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
+ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48927136"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990132"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -36,14 +36,23 @@ ms.locfileid: "48927136"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="november-10-2020"></a>2020 年 11 月 10 日
 
-## <a name="november-5-2020"></a>2020 年 11 月 5 日
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 10, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2010 (組建 13328.20356)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2010 (組建 13328.20292) <br/> |2020 年 10 月 27 日 <br/> |57<br/> |
+|版本 2009 (組建 13231.20418) <br/> |2020 年 10 月 21 日 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2009 (組建 13231.20492)。</i>
+最新的版本是版本 2009 (組建 13231.20514)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ ms.locfileid: "48927136"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2008 (組建 13127.20760)。</i>
+最新的版本是版本 2008 (組建 13127.20760)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -63,15 +72,18 @@ ms.locfileid: "48927136"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2002 (組建 12527.21316)。</i>
+最新的版本是版本 2002 (組建 12527.21330)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2002 (組建 12527.21236) <br/> |2020 年 10 月 13 日 <br/> |63<br/> |
-|版本 2002 (組建 12527.21104) <br/> |2020 年 9 月 8 日 <br/> |77<br/> |
+|版本 2002 (組建 12527.21104) <br/> |2020 年 9 月 8 日 <br/> |76<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 10, 2020)
+
+
+
 
 ## <a name="october-27-2020"></a>2020 年 10 月 27 日
 

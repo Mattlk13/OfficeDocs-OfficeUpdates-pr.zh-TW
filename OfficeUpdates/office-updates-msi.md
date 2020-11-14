@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: bf76b6eb4a9d985184114454a4fe329fd18ff7f0
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 9e58e7a277f222c7566a59dc6ce237bdd1b9419e
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453221"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989812"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -31,25 +31,27 @@ ms.locfileid: "48453221"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2020 年 10 月 PU  <br/> [KB4583495](https://support.microsoft.com/help/4583495) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2020 年 11 月 PU  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020 年 10 月 PU  <br/> [KB4583495](https://support.microsoft.com/help/4583495) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2020 年 11 月 PU  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 > [!IMPORTANT]
-> 我們將於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。 
+> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。 
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020 年 10 月 PU  <br/> [KB4583495](https://support.microsoft.com/help/4583495) <br/>|
+|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2020 年 11 月 PU  <br/> [KB4583503](https://support.microsoft.com/help/4583503) <br/> |
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月所發行的更新
+[2020 年 11 月的安全性和非安全性更新：KB4583503](https://support.microsoft.com/help/4583503)
+
 [2020 年 10 月的安全性和非安全性更新：KB4583495](https://support.microsoft.com/help/4583495)
 
 [2020 年 9 月的安全性和非安全性更新：KB4576653](https://support.microsoft.com/help/4576653)
@@ -71,9 +73,6 @@ ms.locfileid: "48453221"
 [2020 年 1 月的安全性和非安全性更新：KB4536554](https://support.microsoft.com/help/4536554)
 
 [2019 年 12 月的安全性和非安全性更新：KB4532624](https://support.microsoft.com/help/4532624)
-
-[2019 年 11 月的安全性和非安全性更新：KB4527848](https://support.microsoft.com/help/4527848)
-
  
 
 

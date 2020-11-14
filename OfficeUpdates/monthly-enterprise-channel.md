@@ -9,23 +9,188 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 924c774b56a1b39fdaaf6a55ea2cfcff65e128fb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453311"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990152"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的每月企業通道更新。
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我們正在對 Microsoft 365 Apps 的更新通道進行一些變更，包括新增新的更新通道 (每月企業通道) 和變更現有更新通道的名稱。如需深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2009-november-10"></a>版本 2009：11 月 10 日
+*版本 2009 (組建 13231.20514)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **自動套用或建議敏感度標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+
+### <a name="word"></a>Word
+
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在回覆或轉寄時，會導致中文郵件標題無法閱讀的問題。
+
+
+- 已解決導致代理人在開啟另一個信箱中的共用資料夾時出現錯誤的問題。
+
+
+- 已解決當主旨行空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
+
+
+- 解決了導致某些使用者觀察到在離線狀態下意外啟動 Outlook 的問題。
+
+
+- 已解决搜尋未快取共用行事曆時導致搜尋未傳回結果的問題。
+
+
+- 我們已修正導致使用者在選取搜尋結果時遇到意外終止的問題。
+
+
+- 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
+
+
+- 已解决在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題。
+
+
+- 我們已修正 Forms 內容增益集在插入之後不會呈現，除非使用者按一下另一張投影片讓它顯示才會呈現的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正若您的事件程式碼執行中，並嘗試透過 [工作表單] 檢視進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+
+
+- 已修正 Project 在開啟以特定方式指定資源分佈的檔案時可能會意外終止的問題。
+
+
+- 已修正當您將專案從 PWA 儲存到本機 mpp 檔案時，會針對實際上使用者未變更的資料觸發 ProjectBeforeTaskChangeEvent 的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了 [樣式圖庫] 對話方塊的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 [壓縮圖片] 對話方塊無法保留某些使用者設定的問題。
+
+
+- 已修正 Microsoft 365 端點資料外洩防護無法在磁碟上分類 Office 文件的問題。
+
+
+- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
+*版本 2008 (組建 13127.20760)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正使用巨集來設定某個範圍的 FormulaR1C1 屬性時，如果圖表工作表為作用中工作表，則儲存格參考會不正確的問題。
+
+
+- 修正可能會導致「嘗試計算一個或多個公式時，Excel 資源不足」錯誤的問題。
+
+
+- 修正當 Office 語言設定為西班牙文時，其中資料驗證清單可能無法顯示清單中所有項目的問題。
+
+
+- 我們已修正在重新整理 OLAP 樞紐分析表時，可能會導致當機的問題。
+
+
+- 我們已修正載入活頁簿之後特定功能可能會發生錯誤結果的問題。
+
+
+- 我們已修正應用程式意外終止 (與 XLAM 增益集參照和命名範圍相關的問題) 的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在回覆或轉寄時，導致中文郵件標題出現亂碼的問題。
+
+
+- 已解決當主旨行空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
+
+
+- 已解決導致代理人在開啟另一個信箱中的共用資料夾時出現錯誤的問題。
+
+
+- 我們已修正導致群組行事曆中的搜尋無法傳回任何結果的問題。
+
+
+- 我們已修正導致使用者在選取搜尋結果時遇到意外終止的問題。
+
+
+- 我們已修正使用者現在可以停用 Outlook 的 IRM (資訊版權管理)，而不需要針對其他 Office 應用程式停用的問題。
+
+
+- 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
+
+
+- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。<br />在[部落格文章](https://developer.microsoft.com/zh-TW/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 這是此問題的修正：當有增益集在接聽 PresentationBeforeClose 事件並隨著事件處理常式檢查 Presentation.Saved 內容時若關閉文件，儲存提示會以迴圈顯示。
+
+
+- 我們已修正 Forms 內容增益集在插入之後不會呈現，除非使用者按一下另一張投影片讓它顯示才會呈現的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已解決針對使用 System Center Configuration Manager 或其他管理工具來使用 Microsoft 365 Endpoint 資料外洩防護進行 Office Update 的商業客戶的問題。
+
+- 修正 Office 增益集的傳訊 API 無法正常運作的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008 (組建 13127.20638)*
@@ -38,7 +203,7 @@ ms.locfileid: "48453311"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **有問題嗎？詢問 Excel**：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **有問題嗎？詢問 Excel** ：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
@@ -597,7 +762,7 @@ ms.locfileid: "48453311"
 
 ### <a name="word"></a>Word
 
-- **對筆跡使用套索：**[繪圖] 索引標籤上的 [套索] 工具，可協助您選取使用筆跡繪製的物件。 選取個別筆劃或整個字。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **對筆跡使用套索：** [繪圖] 索引標籤上的 [套索] 工具，可協助您選取使用筆跡繪製的物件。 選取個別筆劃或整個字。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
@@ -605,7 +770,7 @@ ms.locfileid: "48453311"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。
+- **敏感度標籤** ：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -691,7 +856,7 @@ ms.locfileid: "48453311"
 
 ### <a name="excel"></a>Excel
 
-- **輸入會傳回多個值的公式**：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
+- **輸入會傳回多個值的公式** ：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
 
@@ -776,7 +941,7 @@ ms.locfileid: "48453311"
 - 已解決導致使用者在工作管理員中看到 Outlook 處理序延遲的問題。
 
 
-- 解決使用滑鼠上的按鈕時，導致使用者偶爾發生當機的問題。
+- 已解決使用滑鼠上的按鈕時，導致使用者偶爾遇到當機的問題。
 
 
 - 解決使用者在第三方 MAPI 應用程式中遇到當機的問題。
@@ -840,6 +1005,7 @@ ms.locfileid: "48453311"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32 |MEC |生產 |功能 | 16.0.13001.20520 | 版本-2006-11 |)

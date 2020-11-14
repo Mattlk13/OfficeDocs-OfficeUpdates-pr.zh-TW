@@ -9,28 +9,62 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: c9a4d3af52431016160bc8aa9e5f37200b90966d
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 47c4bc082265b63106f3293fbad1b830d012b504
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453291"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992688"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
 這些版本資訊會提供 Microsoft Office 更新中所含安全性修正程式的相關資訊。
 
-此資訊適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版、Office 2016 零售版（C2R）和 Office 2019。
+此資訊適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版、Office 2016 零售版 (C2R) 和 Office 2019。
 
 
 > [!IMPORTANT]
-> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+> - 我們正在對 Microsoft 365 Apps 的更新通道進行一些變更，包括新增新的更新通道 (每月企業通道) 和變更現有更新通道的名稱。如需深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="november-10-2020"></a>2020 年 11 月 10 日
+目前通道：版本 2010 (組建 13328.20356)  
+每月企業通道：版本 2009 (組建 13231.20514)  
+每月企業通道：版本 2008 (組建 13127.20760)  
+半年企業通道 (預覽)：版本 2008 (組建 13127.20760)  
+半年企業通道：版本 2002 (組建 12527.21330)  
+半年企業通道：版本 1908 (組建 11929.20974)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.21330)  
+Office 2019 零售版：版本 2010 (組建 13328.20356)  
+Office 2016 零售版：版本 2010 (組建 13328.20356)  
+Office 2019 大量授權版：版本 1808 (組建10368.20035)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17064](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-17064)
+-   [CVE-2020-17065](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-17065)
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-17067)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-17020](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-17020)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2020-17062](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-17062)
+-   [CVE-2020-17063](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-17063)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="october-13-2020"></a>2020 年 10 月 13 日
 目前通道：版本 2009 (組建 13231.20390)  

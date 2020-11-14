@@ -9,27 +9,27 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 768a146b2be4bccae92489e665c4e9ac9738dac5
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 13d1a91f39169c073ffa8732b22051d95a512e2a
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453341"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989952"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
-特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
+某些 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2013 是 **15.0.5285.1000**，發行時間為 2020 年 10 月 13 日。
+> 最新版的 Office 2013 是 **15.0.5293.1000** ，發行日期為 2020 年 11 月 10 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
 1. 開啟任何 Office 2013 應用程式，例如 Word 或 Excel。
     
-2. 選擇 [檔案]**** > [帳戶]****。
+2. 選擇 [檔案] > [帳戶]。
     
-3. 在 [產品資訊]**** 下，記下 [Office 更新]**** 下面的版本號碼。
+3. 在 [產品資訊] 下，記下 [Office 更新] 下面的版本號碼。
     
     如果該版本號碼符合最新版本，表示您所使用的是最新版本。如果不符，則可以手動更新以取得最新版的 Office 2013。若要更新 Office，[請遵循下列步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013)。
     
@@ -45,7 +45,8 @@ ms.locfileid: "48453341"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2020| 10 月 13 日| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
+|2020| 11 月 10 日|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
+||10 月 13 日| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||9 月 8 日| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
 ||8 月 11 日 | 15.0.5267.1000  | [KB 4563408](https://support.microsoft.com/help/4563408)|
 ||7 月 14 日    | 15.0.5259.1000    |[KB 4559453](https://support.microsoft.com/help/4559453)|
