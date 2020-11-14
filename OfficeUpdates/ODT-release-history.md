@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
-ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
+ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
+ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48992678"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "48999538"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
@@ -25,7 +25,7 @@ ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產�
 
  **支援作業系統** ：Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
- **安裝指示** ：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
+ **安裝指示** ：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setupodt.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
 
