@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: b5b7bdea32117e9147861133dd37c0c7035589a1
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990132"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387441"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
 我們的目標是提供更新大小資訊，可能的話，協助企業客戶規劃網路頻寬使用量。
 
-下表顯示從舊版 Microsoft 365 Apps 更新至最新版本時，大約的下載大小。 實際下載大小可能有所不同，最多可達 50 MB。 如果您從舊版更新到最新版本時，下載大小可能會更大。
+The following tables show the approximate download size when updating from the previous release of Microsoft 365 Apps to the most current release. Actual download sizes might vary, by as much as 50 mb. If you are updating from an older release to the current release, your download size could be larger.
 
-如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小可能會遠超過表格中所列的更新大小。 它可能需要完整下載，下載大小至少 1 GB。
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,38 @@ ms.locfileid: "48990132"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="november-23-2020"></a>2020 年 11 月 23 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 23, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2011 (組建 13426.20274)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2010 (組建 13328.20408) <br/> |2020 年 11 月 17 日 <br/> |143<br/> |
+|版本 2010 (組建 13328.20356) <br/> |2020 年 11 月 10 日 <br/> |148<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 23, 2020)
+
+## <a name="november-17-2020"></a>2020 年 11 月 17 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 17, 2020)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2010 (組建 13328.20408)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2010 (組建 13328.20356) <br/> |2020 年 11 月 10 日 <br/> |51<br/> |
+|版本 2010 (組建 13328.20292) <br/> |2020 年 10 月 27 日 <br/> |60<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 17, 2020)
 
 ## <a name="november-10-2020"></a>2020 年 11 月 10 日
 
