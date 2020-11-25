@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989942"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387440"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -34,7 +34,7 @@ ms.locfileid: "48989942"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2010<br/>|13328.20356<br/>|2020 年 11 月 10 日<br/>|版本 2011 已推出<br/>|
+|目前通道<br/>|2011<br/>|13426.20274<br/>|2020 年 11 月 23 日<br/>|版本 2012 已推出<br/>|
 |每月企業通道<br/>|2009<br/>|13231.20514<br/>|2020 年 11 月 10 日<br/>|2021 年 1 月 12 日<br/>|
 |每月企業通道<br/>|2008<br/>|13127.20760<br/>|2020 年 11 月 10 日<br/>|2020 年 12 月 8 日<br/>|
 |半年企業通道 (預覽)<br/>|2008<br/>|13127.20760<br/>|2020 年 11 月 10 日<br/>|2021 年 3 月 9 日<br/>|
@@ -51,7 +51,9 @@ The following table provides a list of the version and build numbers for each up
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2020|11 月 10 日|[版本 2010 (組建 13328.20356)](current-channel.md#version-2010-november-10)|[版本 2009 (組建 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[版本 2008 (組建 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[版本 2008 (組建 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[版本 2002 (組建 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[版本 1908 (組建 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
+|2020|11 月 23 日|[版本 2011 (組建 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020 年|11 月 17 日|[版本 2010 (組建 13328.20408)](current-channel.md#version-2010-november-17)| | | |
+|2020 年|11 月 10 日|[版本 2010 (組建 13328.20356)](current-channel.md#version-2010-november-10)|[版本 2009 (組建 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[版本 2008 (組建 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[版本 2008 (組建 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[版本 2002 (組建 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[版本 1908 (組建 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|10 月 27 日|[版本 2010 (組建 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|10 月 21 日|[版本 2009 (組建 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|10 月 13 日|[版本 2009 (組建 13231.20390)](current-channel.md#version-2009-october-13)|[版本 2008 (組建 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[版本 2007 (組建 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[版本 2008 (組建 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[版本 2002 (組建 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[版本 1908 (組建 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
@@ -62,7 +64,7 @@ The following table provides a list of the version and build numbers for each up
 |2020|9 月 8 日| |[版本 2007 (組建 13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[版本 2006 (組建 13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[版本 2008 (組建 13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[版本 2002 (組建 12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[版本 1908 (組建 11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
 |2020|8 月 31 日|[版本 2008 (組建 13127.20296)](current-channel.md#version-2008-august-31)| | | |
 |2020|8 月 25 日|[版本 2007 (組建 13029.20460)](current-channel.md#version-2007-august-25)| | | |
-|2020|8 月 11 日|[版本 2007 (組建 13029.20344)](current-channel.md#version-2007-august-11)|[版本2006（組建13001.20520）](monthly-enterprise-channel.md#version-2006-august-11)<br/>[版本2005（組建12827.20656）](monthly-enterprise-channel.md#version-2005-august-11)|[版本2002（組建12527.20988）](semi-annual-enterprise-channel-preview.md#version-2002-august-11)|[版本2002（組建12527.20988）](semi-annual-enterprise-channel.md#version-2002-august-11)<br/>[版本 1908 (組建 11929.20934)](semi-annual-enterprise-channel.md#version-1908-august-11)<br/>[版本 1902 (組建 11328.20644)](semi-annual-enterprise-channel.md#version-1902-august-11)|
+|2020|8 月 11 日|[版本 2007 (組建 13029.20344)](current-channel.md#version-2007-august-11)|[版本2006（组建13001.20520）](monthly-enterprise-channel.md#version-2006-august-11)<br/>[版本2005（组建12827.20656）](monthly-enterprise-channel.md#version-2005-august-11)|[版本2002（组建12527.20988）](semi-annual-enterprise-channel-preview.md#version-2002-august-11)|[版本2002（组建12527.20988）](semi-annual-enterprise-channel.md#version-2002-august-11)<br/>[版本 1908 (組建 11929.20934)](semi-annual-enterprise-channel.md#version-1908-august-11)<br/>[版本 1902 (組建 11328.20644)](semi-annual-enterprise-channel.md#version-1902-august-11)|
 |2020|7 月 30 日|[版本 2007 (組建 13029.20308)](current-channel.md#version-2007-july-30)| | | |
 |2020|7 月 28 日|[版本 2006 (組建 13001.20498)](current-channel.md#version-2006-july-28)| | | |
 |2020|7 月 14 日|[版本 2006 (組建 13001.20384)](current-channel.md#version-2006-july-14)|[版本 2005 (組建 12827.20538)](monthly-enterprise-channel.md#version-2005-july-14)<br/>[版本 2004 (組建 12730.20602)](monthly-enterprise-channel.md#version-2004-july-14)|[版本 2002 (組建 12527.20880)](semi-annual-enterprise-channel-preview.md#version-2002-july-14)|[版本 2002 (組建 12527.20880)](semi-annual-enterprise-channel.md#version-2002-july-14)<br/>[版本 1908 (組建 11929.20904)](semi-annual-enterprise-channel.md#version-1908-july-14)<br/>[版本 1902 (組建 11328.20624)](semi-annual-enterprise-channel.md#version-1902-july-14)|

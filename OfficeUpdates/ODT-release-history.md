@@ -9,25 +9,33 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999538"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385479"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
 Office 部署工具 (ODT) 是一種命令列工具，可用來將像 Microsoft 365 應用程式這類的 Office 隨選即用版本下載並部署到用戶端電腦。 
 
 
-ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產品及語言、這些產品的更新方式，以及是否要讓使用者看到安裝過程。 如需有關如何使用 ODT 的詳細資訊，請參閱 [Office 部署工具概觀](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool)。
+The ODT gives you more control over an Office installation. You can define which products and languages are installed, how those products should be updated, and whether or not to display the install experience to your users. For information on how to use the ODT, see the [Overview of the Office Deployment Tool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **支援作業系統** ：Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
+ **支援作業系統**：Windows 10、Windows 8.1、Windows Server 2019、Windows Server 2016 
  
- **安裝指示** ：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setupodt.exe) 及範例組態檔 (configuration.xml)。 
+ **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="november-23-2020"></a>2020 年 11 月 23 日
+版本 16.0.13328.20420 (setup.exe 版本 16.0.13328.20420)
+- 已修正 /download 模式未下載校訂工具的問題
+- 已修正在停權使用者內容中執行時，/download 模式失敗的問題
+- 已修正在組態 XML 中指定 Version 屬性時，導致 /download 模式中下載不完全的問題
+- 已修正在解壓縮時，Office 部署工具未命名為 “setup.exe” 的問題
+- 已修正在組態 XML 中提供 Channel 屬性時，安裝來源優先順序的問題
 
 ## <a name="november-10-2020"></a>2020 年 11 月 10 日
 版本 16.0.13328.20356 (setupODT.exe 版本 16.0.13328.20336)

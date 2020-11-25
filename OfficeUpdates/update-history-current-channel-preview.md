@@ -9,22 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 499bf2eca1a90149c3fe1806e855be82058af2c5
-ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
+ms.openlocfilehash: c06c335656746e5eff7c05baa3966348a7ffba5e
+ms.sourcegitcommit: 4b5ee25e335d9585dfe5660faac747600c9e3e69
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949972"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49382653"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道（預覽）更新歷程記錄
 
-測試人員，您好！ 如果您想知道是否已經安裝最新更新，或想尋找最新的目前通道 (預覽) 組建清單，那您來對地方了。
-若要深入瞭解測試人員計畫的詳細資訊，請按一下 [[這裡]](https://insider.office.com/)。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place. Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道（預覽）版本和組建
 
-如果您註冊的是目前通道 (預覽) 層級 (之前稱為 [測試人員 - 慢])，您大約每個月會收到一次 Office 功能更新，加上包含重要修正程式或安全性更新的後續組建。 下表顯示最新目前通道 (預覽) 版本和組建，當中會 **優先列出最新發行的組建** 。 新組建包含舊組建中的所有更新。
-若要尋找版本資訊，請 [參閱](https://docs.microsoft.com/OfficeUpdates/current-channel-preview)。 而且您也可以參閱 [Office 測試人員的新增功能](https://insider.office.com/zh-TW/releasenotes/windows/slow)。
+If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds. To find release notes, [see](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +35,15 @@ ms.locfileid: "48949972"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2020 年 11 月 21 日**<br/>
+版本 2011 (組建 13426.20274)<br/>
+
+**2020 年 11 月 18 日**<br/>
+版本 2011 (組建 13426.20250)<br/>
+
+**2020 年 11 月 16 日**<br/>
+版本 2011 (組建 13426.20234)<br/>
 
 **2020 年 11 月 9 日**<br/>
 版本 2011 (組建 13426.20184)<br/>

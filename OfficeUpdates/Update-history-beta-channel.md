@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 58f4904dec4b1ef76682713e5e3cbd40b9206f2f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: f5e93a54dfc4745e1b7c412d1dbd02037d6cef3b
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999548"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385489"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
@@ -31,12 +31,18 @@ ms.locfileid: "48999548"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office 搶先版通道版本和組建
 
-如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近搶先版通道和組建的歷程記錄， **最近發行的組建會優先列出** 。新組建會包含有先前組建內含的所有更新。
+如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近搶先版通道和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。
 
 若要尋找版本資訊，請參閱 [Windows 電腦版 Office 測試人員版本資訊](https://docs.microsoft.com/OfficeUpdates/beta-channel)。
 
 
 [//]: # (請勿移除)
+
+**2020 年 11 月 23 日**<br/>
+版本 2012 (組建 13519.20000)<br/>
+
+**2020 年 11 月 16 日**<br/>
+版本 2012 (組建 13512.20000)<br/>
 
 **2020 年 11 月 11 日**<br/>
 版本 2012 (組建 13510.20004)<br/>
