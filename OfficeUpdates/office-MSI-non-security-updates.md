@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: 63e5a6f5335d3f7f0f08d673dae6ba5ad2e6ae75
-ms.sourcegitcommit: 058e54ff0668a2497ace28ef1f3dc8651ddec58e
+ms.openlocfilehash: 7482d963f594c772d5102d0ec9cd146f74edd8c8
+ms.sourcegitcommit: 4382f6248aba344455e891c4cfa32e3600a38c0d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48876694"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49527230"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -23,8 +23,17 @@ ms.locfileid: "48876694"
 > [!NOTE]
 > - 本文中的資訊僅適用於使用 Windows Installer (MSI) 安裝技術的 Office 永久版本。 例如，Office 專業增強版 2016。
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
-> - 如需安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
+> - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+
+## <a name="december-1-2020"></a>2020 年 12 月 1 日
+**Office 2016**<br/>
+商務用 Skype 2016 的更新 ([KB4486745](https://support.microsoft.com/help/4486745)) <br/>
+Microsoft Office 2016 的更新（[KB4486746](https://support.microsoft.com/help/4486746)） <br/> Microsoft Office 2016 的更新（[KB4486747](https://support.microsoft.com/help/4486747)） <br/> Microsoft Office 2016 的更新（[KB4486668](https://support.microsoft.com/help/4486668)） <br/>
+Microsoft Project 2016 的更新 ([KB4486749](https://support.microsoft.com/help/4486749)) <br/> Microsoft Publisher 2016 更新 ([KB4484334](https://support.microsoft.com/help/4484334)) <br/> Microsoft Office 2016 的更新（[KB4486716](https://support.microsoft.com/help/4486716)） <br/> Microsoft Visio 2016 的更新 ([KB4486709](https://support.microsoft.com/help/4486709)) <br/>
+Microsoft Word 2016 的更新 ([KB4486756](https://support.microsoft.com/help/4486756)) <br/> 
+
 
 ## <a name="november-3-2020"></a>2020 年 11 月 3 日
 **Office 2016**<br/>
