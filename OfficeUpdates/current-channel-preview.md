@@ -9,24 +9,221 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408339"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613535"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+本文包含 Windows 電腦版之 Word、Excel、PowerPoint、Outlook、Access、Project 與 Teams 目前通道 (預覽) 組建的版本資訊。 我們每週都強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至目前通道 (預覽)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
+> - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
-[//]: # (DO NOT REMOVE)
+[//]: # (請勿移除)
+
+## <a name="version-2012-december-07"></a>版本2012：12 月 7 日
+*版本 2012 (組建 13530.20064)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+
+### <a name="teams"></a>Teams
+
+- **Teams 現在支援 Windows 原生通知：** 使用者現在可以選取其偏好的通知傳送方式，即透過 Teams 內建橫幅或 Windows 原生橫幅。
+
+
+- **Citrix 與 VMWare VDI 的 Teams 會議 2X2 圖庫檢視：** Teams 用戶端在 VDI 最佳化模式中時，Teams 的 VDI 2x2 圖庫檢視功能會啟用，可讓您在 2x2 圖庫中檢視 Citrix、VMWare 之 VDI 用戶端的最多四個出席者影片。
+
+
+- **會議反應：**  會議反應是在會議中互動的新方式。 參與者可以傳送以時間列表顯示的反應，其出現的地點為正在共用的內容上，以及有在會議階段上顯示之傳送反應的個人上。 
+
+
+- **Web 會議的共聚模式和大型圖庫** 大型圖庫可讓您一次看到最多 49 個其他人員的影片。 當至少 10 人開啟相機時，即可使用此選項。 共聚模式可讓您感覺與會議中每個人處於相同的共用空間。 當會議中至少有五個人時，即可使用共聚模式。 
+
+
+- **通話合併** 通話合併可讓使用者將其撥打的新通話，或新來電合併到其 1 對 1 或群組通話中。 這適用於Teams VOIP 通話和 PSTN 通話。 
+
+
+### <a name="visio"></a>Visio
+
+- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正部分功能區元素未以簡體中文進行當地語系化的問題。
+
+
+- 我們已修正更新時 Excel 意外終止的問題。
+
+
+- 我們已修正從 OneDrive 本機同步處理資料夾插入檔案時，[插入物件] 命令沒有顯示正確圖示的問題。
+
+
+- 修正了在覆寫模式下編輯時，使用需要使用 IME 的語言進行編輯時表現不佳的問題。
+
+
+- 已修正此問題：一些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列。
+
+
+- 修正了在公式檢視中複製和貼上資料時 Excel 意外關閉的問題。
+
+
+- 修正了在自動儲存被停用時通知中説明文章的斷開連結。
+
+
+- 我們修正了以下問題：當 Excel 以某些語言執行時輸入資料可能導致 Excel 停止運作。
+
+
+- 此變更解决了在方程式中正確顯示字型的問題。
+
+
+- 這修正了Power Pivot 無法正確導入定位字元分隔的文字檔的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致「收件者:」欄位在工作狀態報告中空白的問題。
+
+
+- 我們已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
+
+
+- 我們修正了導致使用者在從 Outlook 以外的應用程式傳送 Outlook 郵件時遇到一些問題的問題。
+
+
+- 我們修正了導致 SmartLinks 在儲存至草稿時丟失其格式的問題。
+
+
+- 我們已修正將附件新增到從 zip 檔案開啟的郵件時會失敗的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正從 Word 到 PowerPoint 複製/貼上方程式時發生的問題。
+
+
+- 此變更解決筆跡分析期間發生的超時問題。
+
+
+- 此變更解決建立動畫 GIF 使用者介面中的語法錯誤。
+
+
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+
+
+- 此變更解决了在方程式中正確顯示字型的問題。
+
+
+- 此變更解決了處理載入影片期間可能發生錯誤的問題。
+
+
+- 我們已修正 Slide.Shapes.AddMediaObject2 會對舊版影片格式 (MPG-1、Mpeg-2) 發生當機的 VBA 問題。
+
+
+- 我們修正了一個問題，即未知的共同作者的狀態指示器在有關於共同作者的更多資訊可用時沒有完全重新整理。
+
+
+- 修正了當投影片檢視的大小在尺規開啟時被解除引用的 null 指標。
+
+
+- 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正預期使用者開啟的專案應已儲存更新的資訊，但發現遺漏更新的問題。
+
+
+- 我們已修正若交付項目相關聯的 SharePoint 網站已不再存在時，無法刪除交付項目的相依性的問題。
+
+
+- 已修正開啟具有大量資源的專案時所花費的時間很長的問題。
+
+
+- 已修正使用者可能會看到多個未指派工作分派與任務相關聯的問題。
+
+
+- 已修正在大型專案中，輸入任務名稱的速度可能非常緩慢的問題。
+
+
+- 已修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
+
+
+### <a name="word"></a>Word
+
+- 貼上為純文字通常優於貼上為 RTF 文字。 此快顯功能表修正功能可讓使用者貼上純文字格式。 否則，使用者必須複製至純文字編輯器 (如 [記事本])，然後從 [記事本] 複製到所要的目標應用程式
+
+
+- 已修正從 Word 到 PowerPoint 複製/貼上方程式時發生的問題。
+
+
+- 此變更解決編輯檔時游標的問題。
+
+
+- 我們已修正在縮放圖片時，圖片變得模糊的相關問題。
+
+
+- 我們已修正長超連結被截斷的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- Office 套件已修復此問題：在某些較舊的版本上安裝較新版的 Office 時，可能會造成功能受損 (例如由於遺失登錄專案而無法使用 Power Query)。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容尾)
+
+## <a name="version-2011-december-01"></a>版本2011：12 月1 日
+*版本 2011 (組建 13426.20306)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **每個線上會議：** 使用新設定將所有會議預設設定為線上，讓您輕鬆安排線上會議。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+
+
+- 我們修正了導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2011-november-24"></a>版本 2011：11 月 24 日
 *版本 2011 (組建 13426.20294)*
@@ -40,7 +237,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2011-november-21"></a>版本 2011：11 月 21 日
 *版本 2011 (組建 13426.20274)*
@@ -62,17 +259,17 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
+- 已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
 
 
-- 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = 不包含 filetimes。 1 = (預設) 包含 filetimes
+- 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含內容。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = 不包含 filetimes。 1 = (預設) 包含 filetimes
 
 
 - 我們修正了當回復含有「Azure 資訊保護」保護標籤的郵件時，會導致內嵌影像消失的問題。
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2011-november-18"></a>版本 2011：11 月 18 日
 *版本 2011 (組建 13426.20250)*
@@ -107,7 +304,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2011-november-09"></a>版本 2011：11 月 9 日
 *版本 2011 (組建 13426.20184)*
@@ -127,7 +324,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -155,7 +352,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - 我們已修正使用者無法直接從 SharePoint 開啟 atomsvc (UTF8+BOM) 檔案的問題。
 
 
-- 我們已修正放大和縮小簡報區域會造成縮放的選取跑馬燈和滑鼠指標之間產生間隙的問題。
+- 我們修正了放大和縮小簡報區域會造成縮放選取選框和滑鼠指標之間的間隙的問題。
 
 
 - 我們已修正將 Excel 活頁簿插入 Word 文件時，Word 似乎停止回應的問題。
@@ -192,7 +389,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們已修正放大和縮小簡報區域會造成縮放的選取跑馬燈和滑鼠指標之間產生間隙的問題。
+- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
 
 
 - 我們已修正 [圖片] 旁的內容預留位置圖示沒有工具提示的問題。
@@ -232,7 +429,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="word"></a>Word
 
-- 我們已修正放大和縮小簡報區域會造成縮放的選取跑馬燈和滑鼠指標之間產生間隙的問題。
+- 我們修正了放大和縮小簡報區域會造成縮放選取選框和滑鼠指標之間的間隙的問題。
 
 
 - 我們已修正按一下註解提示時，註解提示不會放大以在檢視中顯示註解卡片的問題。
@@ -252,7 +449,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修正 Office 部署工具中的問題，即在 Microsoft Office 2007 [Microsoft 應用程式錯誤回報工具] 產品存在的情況下使用 RemoveMSI 功能時，設定失敗。
+- 我們修正了 Office 部署工具中的一個問題，該問題是，在 Microsoft Office 2007 [Microsoft 應用程式錯誤回報工具] 產品存在的情況下使用 RemoveMSI 功能時設定失敗。
 
 
 - 我們已修正 SSO API 互動式登入傳回錯誤碼的問題。
@@ -2117,7 +2314,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 修正工作窗格中表格的重新調整及重新整理問題。
+- 已修正工作窗格中表格的重新調整及重新整理問題。
 
 - 修正國際版 Access 在使用者介面中顯示英文字串的問題。
 
