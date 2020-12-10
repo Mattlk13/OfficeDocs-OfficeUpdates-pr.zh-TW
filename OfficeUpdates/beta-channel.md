@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372267"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575017"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+本文包含 Word、Excel、PowerPoint、Outlook、Access 和適用於 Windows 電腦的 Project 的 Beta 版通道組建版本資訊。 每週，我們都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常每隔一段時間會推出 Beta 版通道新功能 (某些時候還有修正)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯。
@@ -30,6 +30,100 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2012-december-04"></a>版本 2012：12 月 4 日
+*版本 2012 (組建 13530.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正在覆寫模式下編輯時，使用需要使用 IME 的語言進行編輯時表現不佳的問題。
+
+
+- 已修正在自動儲存被停用時通知中的說明文章的超連結錯誤。
+
+
+- 已修正在公式檢視中複製和貼上資料時 Excel 意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致 SmartLinks 在儲存至草稿時格式遺失的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正開啟具有大量資源的專案時，花費時間很長的問題。
+
+
+- 已修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
+
+
+### <a name="word"></a>Word
+
+- 以純文字貼上通常比以 RTF 文字貼上更常用。 此快顯功能表修正程式可讓使用者以純文字格式貼上。 否則，使用者必須複製至純文字編輯器 (如 [記事本])，然後從 [記事本] 複製到所要的目標應用程式
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-november-27"></a>版本 2012：11 月 27 日
+*版本 2012 (組建 13519.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 Power Pivot 無法正確匯入定位字元分隔的文字檔案的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致使用者在從 Outlook 以外的應用程式傳送 Outlook 郵件時遇到一些問題的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更解決筆跡分析期間發生的逾時問題。
+
+
+- 此變更解決 [建立動畫 GIF 使用者介面] 中的文法錯誤。
+
+
+- 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正使用者可能會看到與任務關聯的多個未指派作業的問題。
+
+
+- 已修正在大型專案中，輸入任務名稱的速度可能非常緩慢的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-november-20"></a>版本 2012：11 月 20 日
 *版本 2012 (組建 13512.20000)*
@@ -166,7 +260,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -251,7 +345,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -360,7 +454,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - 我們已修正當 Excel 資料模型中有錯誤的度量定義，自動儲存會失敗且顯示出錯/誤解的錯誤訊息。
 
 
-- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
+- 我們修正了放大和縮小簡報區域會造成縮放選取選框和滑鼠指標之間的間隙的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -389,7 +483,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="word"></a>Word
 
-- 我們已修正放大和縮小簡報會造成縮放選取跑馬燈和滑鼠指標之間間隙的問題。
+- 我們修正了放大和縮小簡報區域會造成縮放選取選框和滑鼠指標之間的間隙的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1955,6 +2049,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
@@ -1963,6 +2059,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

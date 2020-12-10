@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 290d3547584560c60ec98caf2ad4aa9b50b03e7a
-ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
+ms.openlocfilehash: 8b638836cbe616b09f931730b097721e3bec8734
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49387468"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601308"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -23,8 +23,8 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。若要檢查 Office 版本，請執行下列步驟：
 
   1.    開啟任何 Office 應用程式，例如 Word 或 Excel。
-  2.    選擇 [檔案] > [帳戶]。
-  3.    在 [產品資訊] 下，記下 [關於] 區段下的版本號碼。
+  2.    選擇 **[檔案] > [帳戶]**。
+  3.    在 **[產品資訊]** 下，記下 **[關於]** 區段下的版本號碼。
 
 如果該版本號碼符合最新版本，表示您所使用的是最新版本。如果不符，則可以手動更新以取得最新版的 Office。若要更新 Office，[請遵循這裡的步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 
@@ -35,7 +35,8 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 
  > [!NOTE]
-> 自 2020年8月11日起，Office 2016 和 2019 的安全性更新（CVE 文章）會列在 [[安全性更新]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 頁面上，而不列在此頁面。 
+> - 自 2020年8月11日起，Office 2016 和 2019 的安全性更新（CVE 文章）會列在 [[安全性更新]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 頁面上，而不列在此頁面。 
+> - [固定生命週期原則](https://docs.microsoft.com/lifecycle/policies/fixed)支援 Office 2016 和 2019。 僅支援以下列出的最新批量許可和零售版本。
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019 大量授權版本
@@ -44,14 +45,14 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 [//]: # (DO NOT REMOVE VL TABLE START)
 
 
-|**發行日期**|**版本號碼**|**詳細資訊**|
-|:-----|:-----|:-----|
-|2020 年 11 月 10 日|版本 1808 (組建 10368.20035)| 請參閱[安全性更新頁面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 10 月 13 日|版本 1808 (組建 10367.20048)|請參閱[安全性更新頁面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
-|2020 年 9 月 8 日|版本 1808 (組建 10366.20016)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 8 月 11 日|版本 1808 (組建 10364.20059)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 7 月 14 日   |版本 1808 (組建 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449) <br/>|
-|2020 年 6 月 9 日   |版本 1808 (組建 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1322) <br/>|
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2020 年 12 月 8 日|版本 1808 (組建 10369.20032) |
+|2020 年 11 月 10 日|版本 1808 (組建 10368.20035)|
+|2020 年 10 月 13 日|版本 1808 (組建 10367.20048)|
+|2020 年 9 月 8 日|版本 1808 (組建 10366.20016)|
+|2020 年 8 月 11 日|版本 1808 (組建 10364.20059)|
+|2020 年 7 月 14 日   |版本 1808 (組建 10363.20015)  |
 
 
 [//]: # (DO NOT REMOVE VL TABLE END)
@@ -63,12 +64,13 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 [//]: # (DO NOT REMOVE VL OLD TABLE START)
 
 
-|**發行日期**|**版本號碼**|**詳細資訊**|
-|:-----|:-----|:-----|
-|2020 年 5 月 12 日   |版本 1808 (組建 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0901) <br/> |
-|2020 年 4 月 14 日   |版本 1808 (組建 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0991) <br/> |
-|2020 年 3 月 10 日   |版本 1808 (組建 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0892) <br/>  |
-|2020 年 2 月 11 日   |版本 1808 (組建 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0759) <br/>  |
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2020 年 6 月 9 日   |版本 1808 (組建 10361.20002)  |
+|2020 年 5 月 12 日   |版本 1808 (組建 10359.20023)  |
+|2020 年 4 月 14 日   |版本 1808 (組建 10358.20061)  |
+|2020 年 3 月 10 日   |版本 1808 (組建 10357.20081)  |
+|2020 年 2 月 11 日   |版本 1808 (組建 10356.20006)  |
 
 
 [//]: # (DO NOT REMOVE VL OLD TABLE END)
@@ -84,14 +86,14 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 [//]: # (DO NOT REMOVE RETAIL TABLE START)
 
 
-|**發行日期**|**版本號碼**|**詳細資訊**|
-|:-----|:-----|:-----|
-|2020 年 11 月 23 日|版本 2011 (組建 13426.20274)| |
-|2020 年 11 月 17 日|版本 2010 (組建 13328.20408)| |
-|2020 年 11 月 10 日|版本 2010 (組建 13328.20356)| |
-|2020 年 10 月 27 日|版本 2010 (組建 13328.20292)| |
-|2020 年 10 月 21 日|版本 2009 (組建 13231.20418)| |
-|2020 年 10 月 13 日|版本 2009 (組建 13231.20390)|請參閱[安全性更新頁面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2020 年 12 月 8 日|版本 2011 (組建 13426.20332) |
+|2020 年 12 月 2 日|版本 2011 (組建 13426.20308)|
+|2020 年 11 月 30 日|版本 2011 (組建 13426.20294)|
+|2020 年 11 月 23 日|版本 2011 (組建 13426.20274)|
+|2020 年 11 月 17 日|版本 2010 (組建 13328.20408)|
+|2020 年 11 月 10 日|版本 2010 (組建 13328.20356)|
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -103,32 +105,35 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 [//]: # (DO NOT REMOVE RETAIL OLD TABLE START)
 
 
-|**發行日期**|**版本號碼**|**詳細資訊**|
-|:-----|:-----|:-----|
-|2020 年 10 月 8 日|版本 2009 (組建 13231.20368)| |
-|2020 年 9 月 28 日|版本 2009 (組建 13231.20262)| |
-|2020 年 9 月 22 日|版本 2008 (組建 13127.20508)| |
-|2020 年 9 月 9 日|版本 2008 (組建 13127.20408)|請參閱[安全性更新頁面](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 8 月 31 日|版本 2008 (組建 13127.20296)| |
-|2020 年 8 月 25 日|版本 2007 (組建 13029.20460)| |
-|2020 年 8 月 11 日|版本 2007 (組建 13029.20344)|請參閱 [[安全性更新頁面]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|2020 年 7 月 30 日|版本 2007 (組建 13029.20308)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 7 月 28 日|版本 2006 (組建 13001.20498)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1458) <br/>|
-|2020 年 6 月 30 日|版本 2006 (組建 13001.20266)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 6 月 24 日|版本 2005 (組建 12827.20470)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 6 月 9 日|版本 2005 (組建 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1322)  <br/>|
-|2020 年 6 月 2 日|版本 2005 (組建 12827.20268)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 5 月 21 日|版本 2004 (組建 12730.20352)  |各種錯誤和效能修正。  <br/>  |
-|2020 年 5 月 12 日|版本 2004 (組建 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0901)  <br/>  |
-|2020 年 5 月 4 日|版本 2004 (組建 12730.20250)  |[連結](https://support.microsoft.com/office/excel-word-powerpoint-file-becomes-corrupt-when-opening-a-file-that-contains-a-vba-project-or-after-enabling-a-macro-in-an-open-file-ad6ee6ca-db23-4614-a403-282821eb99f6?ui=en-us&rs=en-us&ad=us)<br/>  |
-|2020 年 4 月 29 日|版本 2004 (組建 12730.20236)  |各種錯誤和效能修正。 <br/>  |
-|2020 年 4 月 15 日|版本 2003 (組建 12624.20466)  |各種錯誤和效能修正。 <br/>  |
-|2020 年 4 月 14 日|版本 2003 (組建 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0991) <br/> |
-|2020 年 3 月 31 日|版本 2003 (組建 12624.20382)  |各種錯誤和效能修正。 <br/>  |
-|2020 年 3 月 25 日|版本 2003 (組建 12624.20320)  |各種錯誤和效能修正。 <br/>  |
-|2020 年 3 月 10 日|版本 2002 (組建 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0892) <br/>  |
-|2020 年 3 月 1 日   |版本 2002 (組建 12527.20242)  |解決導致協力廠商應用程式無法從 Outlook 傳送電子郵件的問題。 <br/>  |
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2020 年 10 月 27 日|版本 2010 (組建 13328.20292)|
+|2020 年 10 月 21 日|版本 2009 (組建 13231.20418)|
+|2020 年 10 月 13 日|版本 2009 (組建 13231.20390)|
+|2020 年 10 月 8 日|版本 2009 (組建 13231.20368)|
+|2020 年 9 月 28 日|版本 2009 (組建 13231.20262)|
+|2020 年 9 月 22 日|版本 2008 (組建 13127.20508)|
+|2020 年 9 月 9 日|版本 2008 (組建 13127.20408)|
+|2020 年 8 月 31 日|版本 2008 (組建 13127.20296)|
+|2020 年 8 月 25 日|版本 2007 (組建 13029.20460)|
+|2020 年 8 月 11 日|版本 2007 (組建 13029.20344)|
+|2020 年 7 月 30 日|版本 2007 (組建 13029.20308)  |
+|2020 年 7 月 28 日|版本 2006 (組建 13001.20498)  |
+|2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |
+|2020 年 6 月 30 日|版本 2006 (組建 13001.20266)  |
+|2020 年 6 月 24 日|版本 2005 (組建 12827.20470)  |
+|2020 年 6 月 9 日|版本 2005 (組建 12827.20336)  |
+|2020 年 6 月 2 日|版本 2005 (組建 12827.20268)  |
+|2020 年 5 月 21 日|版本 2004 (組建 12730.20352)  |
+|2020 年 5 月 12 日|版本 2004 (組建 12730.20270)  |
+|2020 年 5 月 4 日|版本 2004 (組建 12730.20250)  |
+|2020 年 4 月 29 日|版本 2004 (組建 12730.20236)  |
+|2020 年 4 月 15 日|版本 2003 (組建 12624.20466)  |
+|2020 年 4 月 14 日|版本 2003 (組建 12624.20442)  |
+|2020 年 3 月 31 日|版本 2003 (組建 12624.20382)  |
+|2020 年 3 月 25 日|版本 2003 (組建 12624.20320)  |
+|2020 年 3 月 10 日|版本 2002 (組建 12527.20278)  |
+|2020 年 3 月 1 日   |版本 2002 (組建 12527.20242)  |
 
 
 [//]: # (DO NOT REMOVE RETAIL OLD TABLE END)
