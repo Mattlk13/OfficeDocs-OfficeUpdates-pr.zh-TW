@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
-ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
+ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "48994962"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684075"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -30,12 +30,31 @@ ms.locfileid: "48994962"
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="december-2020-release"></a>2020 年 12 月版本
+
+**發行日期：** 2020 年 12 月 15 日
+
+*Microsoft AutoUpdate 4.30*
+
+**錯誤修正及增強功能：**
+- 為使用 M1 的 Mac 新增通用應用程式支援。
+
+**MAU 更新連結：**
+
+[下載 Microsoft AutoUpdate 4.30 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
+
+<br/><br/>
+
 
 ## <a name="november-2020-release"></a>2020 年 11 月版本
 
 **發行日期：** 2020 年 11 月 10 日
 
-*Microsoft Auto Update 4.29*
+*Microsoft AutoUpdate 4.29*
 
 **錯誤修正及增強功能：**
 -   已更新 Microsoft 365 的通道名稱。
@@ -43,7 +62,7 @@ ms.locfileid: "48994962"
 
 **MAU 更新連結：**
 
-[下載 Microsoft Auto Update 4.29 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[下載 Microsoft AutoUpdate 4.29 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **SHA-256 雜湊：**
 
@@ -72,7 +91,7 @@ ms.locfileid: "48994962"
 
 <br/><br/>
 
-## <a name="september-2020-release"></a>2020 年 9 月發行
+## <a name="september-2020-release"></a>2020 年 9 月版本
 
 **發行日期：** 2020 年 9 月 16 日
 
@@ -91,7 +110,7 @@ ms.locfileid: "48994962"
 
 <br/><br/>
 
-## <a name="august-2020-release"></a>2020 年 8 月發行
+## <a name="august-2020-release"></a>2020 年 8 月版本
 
 **發行日期：** 2020 年 8 月 11 日
 
@@ -119,7 +138,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **發行日期：** 2020 年 7 月 14 日
 
-*Microsoft Auto Update 4.25*
+*Microsoft AutoUpdate 4.25*
 
 **錯誤修正及增強功能：**
 - 偵測應用程式終止，並自動移除與「開啟的應用程式」相關的顯示對話方塊。
@@ -142,7 +161,7 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 
 **發行日期：** 2020 年 6 月 18 日
 
-*Microsoft Auto Update 4.24*
+*Microsoft AutoUpdate 4.24*
 
 **錯誤修正及增強功能：**
 - 客戶訊息活動：Mac 版 Office 2016 將於 2020 年 10 月終止支援。 
@@ -158,11 +177,11 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 <br/><br/>
 
-## <a name="may-2020-release"></a>2020 年 5 月發行
+## <a name="may-2020-release"></a>2020 年 5 月版本
 
 **發行日期：** 2020 年 5 月 12 日
 
-*Microsoft Auto Update 4.23*
+*Microsoft AutoUpdate 4.23*
 
 **錯誤修正及增強功能：**
 - 針對使用 MacOS 10.13 或更新版本的裝置與 Office 2016 版，使用者將會看到 Office 2016 即將終止支援的通知。 
@@ -182,7 +201,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **發行日期：** 2020 年 4 月 21 日
 
-*Microsoft Auto Update 4.22*
+*Microsoft AutoUpdate 4.22*
 
 **錯誤修正及增強功能：**
 - Microsoft AutoUpdate UI 不會顯示在透過 Microsoft AutoUpdate 的 [自動] 模式更新其 Office 應用程式的裝置上，也不會顯示在當沒有新的更新時，在非自動模式中使用更新的裝置。
@@ -199,7 +218,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **發行日期：** 2020 年 4 月 14 日
 
-*Microsoft Auto Update 4.22*
+*Microsoft AutoUpdate 4.22*
 
  **功能更新：**
 
@@ -219,7 +238,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
 <br/><br/>
 
-## <a name="march-2020-release"></a>2020 年 3 月發行
+## <a name="march-2020-release"></a>2020 年 3 月版本
 
 **發行日期：** 2020 年 3 月 10 日
 
@@ -259,7 +278,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 80DD0637AA60007310FB7B68C01926F6CA0F2771DBB42166C191626607D89B56<br/><br/>
 
-## <a name="january-2020-release"></a>2020 年 1 月發行
+## <a name="january-2020-release"></a>2020 年 1 月版本
 
 **發行日期：** 2020 年 1 月 14 日
 
@@ -282,7 +301,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **發行日期：** 2019 年 12 月 10 日
 
-*Microsoft Auto Update 4.18*
+*Microsoft AutoUpdate 4.18*
 
  **功能更新：**
 
@@ -291,13 +310,13 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 **MAU 更新連結：**
 
-[下載 Microsoft Auto Update 4.18 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[下載 Microsoft AutoUpdate 4.18 套件](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
 **SHA-256 雜湊：**
 
 11D051503067DB9819C84C8D1EBE29435A781D29C6B1FE3173DB03DC88F1B4C3<br/><br/>
 
-## <a name="november-2019-release"></a>2019 年 11 月發行
+## <a name="november-2019-release"></a>2019 年 11 月版本
 
 **發行日期：** 2019 年 11 月 12 日
 
@@ -317,11 +336,11 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
-## <a name="october-2019-release"></a>2019 年 10 月發行
+## <a name="october-2019-release"></a>2019 年 10 月版本
 
 **發行日期：** 2019 年 10 月 15 日
 
-*Microsoft Auto Update 4.16*
+*Microsoft AutoUpdate 4.16*
 
  **功能更新：**
 
@@ -335,7 +354,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 **SHA-256 雜湊：**
 
 5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
-## <a name="september-2019-release"></a>2019 年 9 月發行
+## <a name="september-2019-release"></a>2019 年 9 月版本
 
 **發行日期：** 2019 年 9 月 10 日
 
@@ -355,7 +374,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 **SHA-256 雜湊：**
 
 E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
-## <a name="august-2019-release"></a>2019 年 8 月發行
+## <a name="august-2019-release"></a>2019 年 8 月版本
 
 **發行日期：** 2019 年 8 月 13 日
 
@@ -374,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 **SHA-256 雜湊：**
 
 76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
-## <a name="july-2019-release"></a>2019 年 7 月發行
+## <a name="july-2019-release"></a>2019 年 7 月版本
 
 **發行日期：** 2019 年 7 月 18 日
 
@@ -394,11 +413,11 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
-## <a name="june-2019-release"></a>2019 年 6 月發行
+## <a name="june-2019-release"></a>2019 年 6 月版本
 
 **發行日期：** 2019 年 6 月 27 日
 
-*Microsoft Auto Update 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **功能更新：**
 
@@ -415,7 +434,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 **發行日期：** 2019 年 6 月 9 日
 
-*Microsoft Auto Update 4.12*
+*Microsoft AutoUpdate 4.12*
 
  **功能更新：**
 
@@ -433,7 +452,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 <br/><br/>
 
 
-## <a name="may-2019-release"></a>2019 年 5 月發行
+## <a name="may-2019-release"></a>2019 年 5 月版本
 
 **發行日期：** 2019 年 5 月 14 日
 
@@ -454,7 +473,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 <br/><br/>
 
-## <a name="april-2019-release"></a>2019 年 4 月發行
+## <a name="april-2019-release"></a>2019 年 4 月版本
 
 **發行日期：** 2019 年 4 月 16 日
 
