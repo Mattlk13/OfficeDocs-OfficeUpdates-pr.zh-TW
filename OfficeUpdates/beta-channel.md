@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5c7201236c3974e0b0001d7a17d4d945d359947e
-ms.sourcegitcommit: 0de1e313cbab2fcb6c3216e71f90312249bb4396
+ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
+ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49655303"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "49716943"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,66 @@ ms.locfileid: "49655303"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2101-december-18"></a>版本 2101：12 月 18 日
+*版本 2101 (組建 13610.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+### <a name="outlook"></a>Outlook
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+### <a name="word"></a>Word
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 在樞紐分析表中套用格式設定樣式時，進行效能改進。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正造成使用者無法選取多個類別進行搜尋的問題。
+
+
+- 我們已修正當活動是從另一個約會複製而來時，造成部分行事曆項目的開始時間發生意外變更的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正預期使用者開啟的專案應已儲存更新的資訊，但發現遺漏更新的問題。
+
+
+### <a name="word"></a>Word
+
+- 當您在註解卡片底部輸入文字時，請修正動畫。
+
+
+- 我們已修正將文件儲存為含有隱藏文字的 PDF 時，Word 停滯的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-december-11"></a>版本 2101：12 月 11 日
 *版本 2101 (組建 13604.20000)*
@@ -1453,6 +1513,8 @@ ms.locfileid: "49655303"
 
 - **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+
 ### <a name="outlook"></a>Outlook
 
 - **找到您所需的資訊：** 使用資料夾、寄件者、日期、附件資訊等選項來縮小搜尋範圍。
@@ -1460,6 +1522,8 @@ ms.locfileid: "49655303"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **不需要簡報導覽裝置：有耳塞式耳機就夠了：** 使用您的 Surface Earbuds 控制 PowerPoint 簡報。 重要：您必須在 Windows 10 的 Surface 音訊應用程式中配對 Surface Earbuds，才能使用手勢來控制簡報。 在此取得 Windows 10 上 Surface 音訊應用程式入門的指示。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
 ### <a name="word"></a>Word
 
@@ -2101,6 +2165,7 @@ ms.locfileid: "49655303"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
@@ -2110,5 +2175,4 @@ ms.locfileid: "49655303"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
