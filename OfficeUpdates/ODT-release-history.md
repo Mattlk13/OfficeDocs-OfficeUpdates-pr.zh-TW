@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
+ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601408"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725068"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
@@ -28,6 +28,12 @@ ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產�
  **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="december-21-2020"></a>2020 年 12 月 21 日
+版本 16.0.13426.20370 (setup.exe 版本 16.0.13426.20352)
+- 已修正從 PerpetualVL2019 通道 ProofingTools 的本機來源安裝失敗的問題
+- 已修正當您在現有安裝中新增非完整 Office 語言中的其他產品時，隨選即用用戶端嘗試自我更新的問題
+
 
 ## <a name="december-8-2020"></a>2020 年 12 月 8 日
 版本 16.0.13426.20308 (setup.exe 版本 16.0.13426.20308) 
