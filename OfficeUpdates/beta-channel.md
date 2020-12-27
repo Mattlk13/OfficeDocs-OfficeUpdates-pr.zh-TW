@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ade0bd6ee25f8a5cce262f1c2428adeeef9a2b5d
-ms.sourcegitcommit: 481be0fc1d299537985563e5b29249f0fdc873a1
+ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
+ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49716943"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "49733206"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,48 @@ ms.locfileid: "49716943"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2101-december-25"></a>版本 2101：12 月 25 日
+*版本 2101 (组建 13617.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 更新以便在從 Excel 複製圖表並貼上到 Word 中時保留小數點和千位分隔符號設定
+
+
+- 修正了當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
+
+
+- 此變更解决了與變更 SVG 影像的外框顏色有關的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了以下問題：導致使用者無法指定在從 Word 啟動合併列印時允許存取時長，從而導致他們取得過多提示的問題。
+
+
+- 我們修復了導致基於兌換的增益集的使用者意外關閉 Outlook 的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更解决了與變更 SVG 影像的外框顏色有關的問題。
+
+
+### <a name="word"></a>Word
+
+- 此變更解决了與變更 SVG 影像的外框顏色有關的問題。
+
+
+- 修正了註解卡片上的回覆方塊不在螢幕上的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2101-december-18"></a>版本 2101：12 月 18 日
 *版本 2101 (組建 13610.20002)*
@@ -2165,6 +2207,7 @@ ms.locfileid: "49716943"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
@@ -2174,5 +2217,4 @@ ms.locfileid: "49716943"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
