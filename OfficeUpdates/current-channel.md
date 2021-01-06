@@ -9,16 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 05b0f1f990c33ae7e3e7f76971eac447c66382f2
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: 5f7a0c255d98678baf5b868b5fd41e213e2901bc
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725792"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760677"
 ---
-# <a name="release-notes-for-current-channel-releases-in-2020"></a>2020 年目前通道版本的版本資訊
+# <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
-這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的目前通道更新。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的目前通道更新。
 
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
@@ -32,6 +32,69 @@ ms.locfileid: "49725792"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-january-05"></a>版本 2012：1 月 05 日
+*版本 2012 (組建 13530.20316)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **雲端中的 Outlook 設定：** 選擇您的 Windows 版 Outlook 設定，例如自動回復、焦點收件匣和隱私權，並在任何電腦上使用這些功能。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **利用簡報者教練排練簡報：** 取得有助於維持對象參與的項目方面的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
+
+
+- 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
+
+
+- 已修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
+
+
+- 此變更解决了在方程式中正確顯示字型的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+
+
+- 此變更解决了在方程式中正確顯示字型的問題。
+
+
+- 我們修正了在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 優化的二進位大小。
+
+
+- Anaheim WebView 目前尚不支援 Windows 資訊保護(WIP)。 有了此修正程式，Office addin 平臺便會回到處於 WIP 啟用環境中的低層級 WebView。 根據客戶的電腦環境，這可以是 Edge Spartan WebView 或 Trident WebView。 兩個低層級 WebViews 皆支援 WIP。
 
 
 
@@ -253,7 +316,7 @@ ms.locfileid: "49725792"
 
 
 
-[//]: # (請勿移除 BUGDETAILS 內容尾)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-november-10"></a>版本 2010：11 月 10 日
 *版本 2010 (組建 13328.20356)*
@@ -1339,7 +1402,7 @@ ms.locfileid: "49725792"
 
 - 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1388,7 +1451,7 @@ ms.locfileid: "49725792"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1753,6 +1816,7 @@ ms.locfileid: "49725792"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
@@ -1762,5 +1826,4 @@ ms.locfileid: "49725792"
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
