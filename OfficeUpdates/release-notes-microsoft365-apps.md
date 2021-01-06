@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: da1785c6d08afec30753b97d633f3baa9fbd209b
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370131"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748231"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將重新命名為 Microsoft 365 Apps 企業版，從版本 2004 開始。如需深入瞭解， [請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。在我們的文件中，我們通常會稱之為 Microsoft 365 Apps。
+> Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的安全性更新
@@ -45,10 +45,10 @@ ms.locfileid: "48370131"
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的版本資訊
 
 如需依更新通道和年度列出的完整版本資訊，請參閱下列文章︰
- - 目前：[2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)、[2017](monthly-channel-2017.md)、[2016](monthly-channel-2016.md)
- - 每月企業通道：[2020](monthly-enterprise-channel.md)
- - 半年企業 (預覽)：[2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)、[2017](semi-annual-channel-targeted-2017.md)、[2016](semi-annual-channel-targeted-2016.md)
- - 半年企業：[2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)、[2017](semi-annual-channel-2017.md)、[2016](semi-annual-channel-2016.md)
+ - 目前通道：[2021-2020](current-channel.md)、[2019](monthly-channel-2019.md)、[2018](monthly-channel-2018.md)
+ - 每月企業通道：[2021-2020](monthly-enterprise-channel.md)
+ - 半年企業 (預覽)：[2021-2020](semi-annual-enterprise-channel-preview.md)、[2019](semi-annual-channel-targeted-2019.md)、[2018](semi-annual-channel-targeted-2018.md)
+ - 半年企業：[2021-2020](semi-annual-enterprise-channel.md)、[2019](semi-annual-channel-2019.md)、[2018](semi-annual-channel-2018.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
  如需完整 Office 部署工具的版本清單，請參閱下列文章：
@@ -64,7 +64,7 @@ ms.locfileid: "48370131"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 Apps 的新功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 Apps 藍圖](https://products.office.com/business/office-365-roadmap)
