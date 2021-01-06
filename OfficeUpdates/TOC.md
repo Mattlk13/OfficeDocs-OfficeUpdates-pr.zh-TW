@@ -5,23 +5,22 @@
 ## [更新大小](download-sizes-microsoft365-apps-updates.md)
 
 ## 目前通道
-### [2021-2020](current-channel.md)
-### [2019](monthly-channel-2019.md)
-### [2018](monthly-channel-2018.md)
+### [版本資訊](current-channel.md)
+### [已存檔的版本資訊](monthly-channel-2019.md)
 
 ## 每月企業通道
-### [2021-2020](monthly-enterprise-channel.md)
+### [版本資訊](monthly-enterprise-channel.md)
 
 ## 半年企業通道
-### [2021-2020](semi-annual-enterprise-channel.md)
-### [2019](semi-annual-channel-2019.md)
-### [2018](semi-annual-channel-2018.md)
+### [版本資訊](semi-annual-enterprise-channel.md)
+### [已存檔的版本資訊](semi-annual-channel-2019.md)
+
 
 
 ## 半年企業通道 (預覽)
-### [2021-2020](semi-annual-enterprise-channel-preview.md)
-### [2019](semi-annual-channel-targeted-2019.md)
-### [2018](semi-annual-channel-targeted-2018.md)
+### [版本資訊](semi-annual-enterprise-channel-preview.md)
+### [已存檔的版本資訊](semi-annual-channel-targeted-2019.md)
+
 
 
 ## Office 測試人員計畫  
