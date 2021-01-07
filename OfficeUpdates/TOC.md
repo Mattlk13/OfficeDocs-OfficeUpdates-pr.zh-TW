@@ -6,20 +6,20 @@
 
 ## 目前通道
 ### [版本資訊](current-channel.md)
-### [已存檔的版本資訊](monthly-channel-2019.md)
+### [已存檔的版本資訊](monthly-channel-archived.md)
 
 ## 每月企業通道
 ### [版本資訊](monthly-enterprise-channel.md)
 
 ## 半年企業通道
 ### [版本資訊](semi-annual-enterprise-channel.md)
-### [已存檔的版本資訊](semi-annual-channel-2019.md)
+### [已存檔的版本資訊](semi-annual-enterprise-channel-archived.md)
 
 
 
 ## 半年企業通道 (預覽)
 ### [版本資訊](semi-annual-enterprise-channel-preview.md)
-### [已存檔的版本資訊](semi-annual-channel-targeted-2019.md)
+### [已存檔的版本資訊](semi-annual-enterprise-channel-preview-archived.md)
 
 
 
