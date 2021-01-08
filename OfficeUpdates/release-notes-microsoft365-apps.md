@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760637"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780671"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
@@ -64,12 +64,12 @@ ms.locfileid: "49760637"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
 - [Office 部署](https://docs.microsoft.com/deployoffice/)
 - [Microsoft 365 Apps 的新功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 Apps 藍圖](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 Apps 訊息中心概觀](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 版本資訊](https://www.microsoft.com/itpro/windows-10/release-information)
+- [Windows 10 版本資訊](https://aka.ms/windows/releaseinfo)
 - [Microsoft 安全性更新指南](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
