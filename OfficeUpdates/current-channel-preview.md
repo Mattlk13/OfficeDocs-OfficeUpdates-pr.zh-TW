@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750624"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780679"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,151 @@ ms.locfileid: "49750624"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2101-january-07"></a>版本 2101：1 月 7 日
+*版本 2101 (組建 13628.20030)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **改善條件式格式設定對話方塊：**[條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+
+
+- 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
+
+
+- 對將格式設定樣式套用至樞紐分析表時的效能進行改善。
+
+
+- 修正在開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會停用巨集而不提示的問題。
+
+
+- 更新以便在從 Excel 複製圖表並貼上到 Word 中時保留小數點和千位分隔符號設定
+
+
+- 修正了當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
+
+
+- 修正在使用 STOCKHISTORY 函數時，可能會導致「資源不足」警示的問題。
+
+
+- 將 FuzzyClustering DLL 新增至 PQ DLL 清單。
+
+
+- 此變更可解決與變更 SVG 影像的外框顏色相關的問題。
+
+
+- 我們已修正 PowerPoint 中內嵌的 Excel 範圍預覽會顯示不正確大小的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 此變更可解決影響 OneNote 的呈現問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正以下問題：導致使用者無法指定在從 Word 啟動合併列印時允許存取時長，從而導致他們取得過多提示的問題。
+
+
+- 此變更使得 Outlook 可以利用能夠向使用者隱藏 Exchange Online 封存信箱顯示的 Exchange Server 設定。
+
+
+- 我們已修正會導致 Outlook 對基於兌換增益集的使用者意外關閉的問題。
+
+
+- 我們已修正造成使用者無法選取多個類別進行搜尋的問題。
+
+
+- 我們已修正當活動是從另一個約會複製而來時，造成部分行事曆項目的開始時間發生意外變更的問題。
+
+
+- 解決了當純文字 S/MIME 郵件在傳送時發生亂碼的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此變更可解決合併圖案處理文字時的問題。
+
+
+- 此變更可解決與變更 SVG 影像的外框顏色相關的問題。
+
+
+- 此變更解决了在投影片放映中迴圈播放背景影片的問題。
+
+
+- 我們已修正在 QAT 中新增的字型大小命令在更新時自動完成到最近定義的字型大小的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正資源的最大可用量不一定會反映對最大可用量的最新更新的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 此問題是由於最近的迴歸而造成。 我們已解決此問題。 [另存成網頁] 對話方塊現在會根據使用者的輸入正確填入欄位，且使用者可以將其檔案順暢地儲存為網頁。
+
+
+- 已修正此問題。 您現在可以在其他 Office 應用程式 (例如 PowerPoint 和 Word) 中將 Visio 檔案內嵌為物件，並順暢地透過這些應用程式存取檔案。
+
+
+### <a name="word"></a>Word
+
+- 修正使用自訂雜湊設定的電腦，在進入使用 sha512 以外雜湊設定的共同作業工作階段時會發生問題的問題。
+
+
+- 此變更可解決與變更 SVG 影像的外框顏色相關的問題。
+
+
+- 修正使用 @提及編輯註解文章時的問題。
+
+
+- 修正問題以讓新式註解更穩定。
+
+
+- 我們已修正有關删除標記為不可編輯的內容控制項中的新式註解的問題。
+
+
+- 修正在註解卡片底部輸入文字時的動畫。
+
+
+- 修正註解卡片上的回覆方塊不在畫面上的問題。
+
+
+- 修正頁面頂端顯示的註解卡片問題。
+
+
+- 修正註解中文字可能不在畫面上的錯誤。
+
+
+- 修正註解窗格中巢狀捲軸的問題。
+
+
+- 建立新的 Word 執行個體時註解草稿會消失。
+
+
+- 我們已修正將文件儲存為含有隱藏文字的 PDF 時，Word 停滯的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2012-january-04"></a>版本 2012：1 月 4 日
 *版本 2012 (組建 13530.20316)*
@@ -371,7 +516,7 @@ ms.locfileid: "49750624"
 - 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含內容。 HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = 不包含 filetimes。 1 = (預設) 包含 filetimes
 
 
-- 我們已修正當回復含有「Azure 資訊保護」保護標籤的郵件時，會導致內嵌影像消失的問題。
+- 我們修正了當回復含有「Azure 資訊保護」保護標籤的郵件時，會導致內嵌影像消失的問題。
 
 
 
@@ -870,7 +1015,7 @@ ms.locfileid: "49750624"
 - 我們已修正有關儲存含有引文和方程式的 Word 文件問題。
 
 
-- 我們已修正 [樣式圖庫] 對話方塊的問題。
+- 我們修正了 [樣式圖庫] 對話方塊的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1048,7 +1193,7 @@ ms.locfileid: "49750624"
 - 我們已修正使用巨集來設定某個範圍的 FormulaR1C1 屬性時，如果圖表工作表為作用中工作表，則儲存格參考會不正確的問題。
 
 
-- 我們已修正使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
 
 
 - 修正與 XLAM 增益集參照和具名範圍相關的損毀。
@@ -1247,7 +1392,7 @@ ms.locfileid: "49750624"
 
 - 已修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
 
-- 修正當與雲端附件互動時，導致使用者偶爾當機的問題。
+- 修正了當與雲端附件互動時，導致使用者偶爾當機的問題。
 
 - 修正了編輯收件者時，導致使用者偶爾當機的問題。
 
@@ -2160,7 +2305,7 @@ ms.locfileid: "49750624"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
