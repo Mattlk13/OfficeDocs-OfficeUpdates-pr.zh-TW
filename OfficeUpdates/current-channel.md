@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 3b79261feff06820428a77b05fb778b577b0f046
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: 90e66226abfe32aeb4097ccdfff3ec3665437c05
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780751"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837504"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,28 @@ ms.locfileid: "49780751"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-january-12"></a>版本 2012：1 月 12 日
+*版本 2012 (組建 13530.20376)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致在提示使用者儲存已編輯的簽名後，該動作會無法執行的問題。
 
 
 
@@ -148,10 +170,10 @@ ms.locfileid: "49780751"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+- 我們已修正導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
 
 
-- 我們修正了導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
+- 我們已修正導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
 
 
 ### <a name="project"></a>Project
@@ -1129,7 +1151,7 @@ ms.locfileid: "49780751"
 
 ### <a name="project"></a>Project
 
-- 修正當標示為 100% 完成之工作錯誤地變更為低於 100% 完成的問題。
+- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
 
 ### <a name="word"></a>Word
 
@@ -1822,6 +1844,7 @@ ms.locfileid: "49780751"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
@@ -1831,5 +1854,4 @@ ms.locfileid: "49780751"
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
-[//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
