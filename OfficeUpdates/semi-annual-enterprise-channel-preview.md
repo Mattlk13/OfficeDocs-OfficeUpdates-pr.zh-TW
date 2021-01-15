@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760647"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837624"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -23,6 +23,78 @@ ms.locfileid: "49760647"
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
+*版本 2008 (組建 13127.21064)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正了唯讀書籍在開啟時無法再重新整理樞紐分析表資料的問題。
+
+
+- 這項變更提供下列問題的修正程式：從 OneDrive 本機同步處理資料夾插入檔案時，Excel 的 [插入物件] 不會顯示正確的圖示。
+
+
+- 修正了客戶在共同撰寫時會錯誤地得到有關文件新版本通知的問題。
+
+
+- 修正了即使用 IME 和覆寫模式將錯誤地推進額外的字元的編輯問題。
+
+
+- 修復了將即時資料與多執行緒 recalc 功能結合使用時出現的問題。
+
+
+- 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致 SmartLinks 在儲存至草稿時格式遺失的問題。
+
+
+- 我們已修正讓使用者能在覆寫原則時自訂調整文字的問題。
+
+
+- 我們已修正導致中文字元在儲存為 OFT 檔案時變更為問號的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 Slide.Shapes.AddMediaObject2 會對舊版影片格式 (MPG-1、Mpeg-2) 發生意外關閉的 VBA 問題。
+
+
+- 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正在開啟以特定方式指定資源分佈的檔案時，Project 可能會意外終止的問題。
+
+
+### <a name="skype"></a>Skype
+
+- 修正了使用者的 TLS-DSK 憑證不會在預期時間續訂，而只在有效期剩餘不到 12 小時才續訂的問題。
+
+
+- 修正了當 Office 尚未獲得授權時，商務用 Skype UI 在登入後顯示為空白的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更解决了與開啟包含舊圖表之檔案相關的問題。
+
+
+- 此變更解决了 SVG 回復 Proxy 導致存取衝突的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-december-08"></a>版本2008：12 月 8 日
 *版本 2008 (組建 13127.20910)*
@@ -123,7 +195,7 @@ ms.locfileid: "49760647"
 
 
 
-[//]: # (請勿移除 BUGDETAILS 內容尾)
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008 (組建 13127.20760)*
@@ -1364,6 +1436,7 @@ ms.locfileid: "49760647"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)

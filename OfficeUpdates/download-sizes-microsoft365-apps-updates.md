@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 8c3c42b5eb9ee1583736bc0e9df002b407ae71a5
-ms.sourcegitcommit: f42b5b75d8599f1876094ae2ceb5411519b69a31
+ms.openlocfilehash: a2463c58b44cb868e93ade384ea95f92a24bb22c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778874"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837484"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -36,34 +36,42 @@ ms.locfileid: "49778874"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="january-12-2021"></a>2021 年 1 月 12 日
 
-## <a name="january-7-2021"></a>2021 年 1 月 7 日
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 12, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2012 (組建 13530.20376)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2012 (組建 13530.20316) <br/> |2021 年 1 月 4 日 <br/> |56<br/> |
+|版本 2011 (組建 13426.20404) <br/> |2020 年 12 月 21 日 <br/> |151<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2011 (組建 13426.20504)。</i>
+最新的版本是版本 2011 (組建 13426.20526)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2010 (組建 13328.20478) <br/> |2020 年 12 月 8 日 <br/> |146<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2008 (組建 13127.21032)。</i>
+最新的版本是版本 2008 (組建 13127.21064)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2008 (組建 13127.20910) <br/> |2020 年 12 月 8 日 <br/> |56<br/> |
-|版本 2008 (組建 13127.20760)  <br/> |2020 年 11 月 10 日 <br/> |71<br/> |
+|版本 2008 (組建 13127.20910) <br/> |2020 年 12 月 8 日 <br/> |48<br/> |
+|版本 2008 (組建 13127.20760)  <br/> |2020 年 11 月 10 日 <br/> |72<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2102 (組建 13127.21032)。</i>
+最新的版本是版本 2008 (組建 13127.21064)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -71,7 +79,11 @@ ms.locfileid: "49778874"
 |版本 2002 (組建 12527.21330) <br/> |2020 年 11 月 10 日 <br/> |373<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 12, 2021)
+
+
+
 
 ## <a name="january-5-2021"></a>2021 年 1 月 5 日
 
