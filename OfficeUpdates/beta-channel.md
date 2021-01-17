@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f2eb63f0f9724ab4f5927df9696f7007917fe82e
-ms.sourcegitcommit: 75e30d61054abf480f9344b5a54370db93198d11
+ms.openlocfilehash: 6c96bdecd5cfc8fcfdebe4d851d29ac57e66ef72
+ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49785745"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49878736"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,42 @@ ms.locfileid: "49785745"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2102-january-15"></a>版本 2102：1 月 15 日
+*版本 2102 (組建 13707.20008)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **共用至 Teams：** 將 Outlook 中的電子郵件或交談共用至 Teams 中的某個人員或頻道。
+
+### <a name="visio"></a>Visio
+
+- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正了執行 VBA 巨集 ExportAsFixedFormat2 失敗，錯誤為「Presentation (未知成員) 不合法值」的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-january-08"></a>版本 2102：1 月 8 日
 *版本 2102 (組建 13704.20000)*
@@ -2297,6 +2333,7 @@ ms.locfileid: "49785745"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
@@ -2306,5 +2343,4 @@ ms.locfileid: "49785745"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
