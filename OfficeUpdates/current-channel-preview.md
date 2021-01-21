@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 318bdeb50f56102977ba51282e0bcb14458f62e7
-ms.sourcegitcommit: 73f90b5a0c22dc87f8b8d88fe23f849209f5c849
+ms.openlocfilehash: ddd84106439eace1f0566ed336a4ecc83d4d897f
+ms.sourcegitcommit: 7261f86f16c400b51d14f6fd03e81552c78a8326
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49793881"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49903846"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,31 @@ ms.locfileid: "49793881"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2101-january-18"></a>版本 2101：1 月 18 日
+*版本 2101 (組建 13628.20158)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 修正了在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
+
+
+- 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2101-january-09"></a>版本 2101：1 月 9 日
 *版本 2101 (組建 13628.20118)*
@@ -488,7 +513,7 @@ ms.locfileid: "49793881"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+- 我們修正了導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
 
 
 - 我們已修正導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
