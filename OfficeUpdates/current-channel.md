@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 90e66226abfe32aeb4097ccdfff3ec3665437c05
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
+ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837504"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "49934411"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,28 @@ ms.locfileid: "49837504"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-january-21"></a>版本 2012：1 月 21 日
+*版本 2012 (組建 13530.20440)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+
+
+- 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正了檔案關閉順序，使所有相互依存的元件都能正常關閉。
 
 
 
@@ -170,7 +192,7 @@ ms.locfileid: "49837504"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+- 我們修正了導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
 
 
 - 我們已修正導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
@@ -1430,7 +1452,7 @@ ms.locfileid: "49837504"
 
 - 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1479,7 +1501,7 @@ ms.locfileid: "49837504"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1844,6 +1866,7 @@ ms.locfileid: "49837504"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
@@ -1853,5 +1876,4 @@ ms.locfileid: "49837504"
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
