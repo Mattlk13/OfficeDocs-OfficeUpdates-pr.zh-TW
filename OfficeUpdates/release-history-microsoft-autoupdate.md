@@ -9,14 +9,14 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
-ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
+ms.openlocfilehash: 74388a251d2c568322e13cca34d973f3d790e023
+ms.sourcegitcommit: e47d22b7b3ad48ad20ca184c30824480e1701c35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49849488"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "49943273"
 ---
-# <a name="release-history-for-microsoft-auto-update-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
+# <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
 建議您一律更新至最新版本的 Microsoft AutoUpdate (MAU)。
 
@@ -26,7 +26,7 @@ ms.locfileid: "49849488"
 > [!NOTE]
 > 
 > - 僅提供最新版的 Microsoft AutoUpdate 下載連結
-> - Microsoft AutoUpdate 針對 Microsoft 推出的各種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也可能會收到更新 Microsoft AutoUpdate 的通知。
+> - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
@@ -37,7 +37,7 @@ ms.locfileid: "49849488"
 *Microsoft AutoUpdate 4.31*
 
 **錯誤修正及增強功能：**
-- 如果您的裝置未採用自動更新，Microsoft AutoUpdate 現在將透過通知 (而不是開啟 MAU UI) 來通知相關的新更新。
+- 針對未採用自動更新的裝置，Microsoft AutoUpdate 現在將透過通知 (而不是開啟 MAU UI) 來通知相關的新更新。
 
 [下載 Microsoft AutoUpdate 4.31 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
 <br/>
@@ -95,7 +95,7 @@ ms.locfileid: "49849488"
 
 **錯誤修正及增強功能：**
 -   MAU UI：[摘要視圖] 現在會顯示使用者需要注意的錯誤
--   MAU UI 和 [更新小幫手] 現在若在72小時內不執行任何動作的話，會自動終止。
+-   MAU UI 和更新小幫手現在會於 72 小時內未不執行任何動作的時候自行終止。
 -   MAU UI：現在隨附 Windows 功能表
 
 **MAU 更新連結：**
@@ -115,7 +115,7 @@ ms.locfileid: "49849488"
 *Microsoft AutoUpdate 4.27*
 
 **錯誤修正及增強功能：**
--   即使未達到一般檢查週期，MAU 更新小幫手現在會在鎖定螢幕背後起始更新。
+-   即使未達到一般檢查週期，MAU 更新小幫手現在會在鎖定螢幕背後開始更新。
 
 **MAU 更新連結：**
 
@@ -159,10 +159,10 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **錯誤修正及增強功能：**
 - 偵測應用程式終止，並自動移除與「開啟的應用程式」相關的顯示對話方塊。
-- 恢復了 4 月版本中推出的功能，其中關閉了自動更新的使用者，每週只會看到 Microsoft AutoUpdate UI 一次。
+- 還原 4 月版本中所推出，關閉了自動更新的使用者，只會每週看到 Microsoft AutoUpdate UI 一次的功能。
 - 已修正下載更新之後，在安裝前更新小幫手終止的問題。
 - 已修正以下問題：在使用者通知擱置的情況下，更新小幫手長時間未終止。
-- 已修正安裝 MAU UI 後，重新開啟 (或未重新開啟) 的問題。 如果是從 MAU UI 本身啟動更新，或使用者明確地啟動更新 (透過 Finder、終端等)，UI 應會開啟。
+- 修正安裝後，MAU UI 重新開啟 (或未重新開啟) 的問題。 如果更新是從 MAU UI 本身啟動，或如果更新是由使用者明確啟動 (透過 Finder、終端機等)，安裝後 UI 應會開啟。
 
 **SHA-256 雜湊：**
 
@@ -193,8 +193,8 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 *Microsoft AutoUpdate 4.23*
 
 **錯誤修正及增強功能：**
-- 針對使用 MacOS 10.13 或更新版本的裝置與 Office 2016 版，使用者將會看到 Office 2016 即將終止支援的通知。 
-- 如果 Word、Excel 和 PowerPoint 應用程式沒有開啟視窗，且裝置採用 Microsoft AutoUpdate 的自動更新模式，則使用者不需退出這些應用程式就可以套用更新。 3. Microsoft AutoUpdate 現在將自動重新整理其更新儀表板，加上 CDN 上的最新版本，而不需使用者重新整理它或啟動新的 AutoUpdate 工作階段。 
+- 針對使用 macOS 10.13 或更新版本的裝置與 Office 2016 版本，使用者將會看到 Office 2016 即將終止支援的通知。 
+- 如果 Word、Excel 和 PowerPoint 應用程式沒有開啟中的視窗，且裝置處於 Microsoft AutoUpdate 的自動更新模式，使用者不需要關閉這些應用程式就可以套用更新。 Microsoft AutoUpdate 現在將使用 CDN 上的最新版本自動重新整理 [更新儀表板]，使用者不需要重新整理或啟動新的 AutoUpdate 工作階段。 
 
 **SHA-256 雜湊：**
 
@@ -209,7 +209,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 *Microsoft AutoUpdate 4.22*
 
 **錯誤修正及增強功能：**
-- 當沒有新的可用更新時，Microsoft AutoUpdate UI 不會在採用「自動」模式、透過 Microsoft AutoUpdate 更新其 Office 應用程式的裝置上顯示，也不會在採用非自動模式取得更新的裝置上顯示。
+- Microsoft AutoUpdate UI 不會在透過 Microsoft AutoUpdate 的 [自動] 模式更新其 Office 應用程式的裝置上顯示，也不會在沒有新的更新可用時，在使用非自動模式取得更新的裝置中顯示。
 
 **SHA-256 雜湊：**
 
@@ -223,9 +223,9 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
  **功能更新：**
 
-- 安全性修正：Microsoft AutoUpdate 將防止來自舊版的任何不安全連線。
-- 關閉自動更新的使用者，每週只會看到 Microsoft AutoUpdate UI 一次。
-- 使用 SSD 的 MacOS 機器會體驗到更新速度變快，且因為更新而導致應用程式停機的時間變得可以忽略不計。
+- 安全性問題修正：Microsoft AutoUpdate 將禁止來自舊版的任何不安全連線。
+- 將 [自動更新] 設為 [關閉] 的使用者每週只會看到一次 Microsoft AutoUpdate UI。
+- 使用 SSD 的 macOS 機器會體驗到更快速的更新，且因為更新而導致應用程式停機的時間變得微不足道。
 
 
 請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0984)
@@ -243,7 +243,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
  **功能更新：**
 
-- 為 Word、Excel 和 PowerPoint 啟用「狀態還原」，執行時不需開啟任何視窗，或是在 Microsoft AutoUpdate 的自動更新模式中執行 Docstage 狀態。 現在更新將會對使用 [自動更新] 模式的使用者更為安靜，因為他們不需要結束其符合「透過狀態還原更新」資格的應用程式。
+- 為 Word、Excel 和 PowerPoint 啟用「狀態還原」，執行時不開啟任何視窗，或是在 Microsoft AutoUpdate 的自動更新模式中執行 Docstage 狀態。 現在更新將會對使用 [自動更新] 模式的使用者更為安靜，因為他們不需要結束其符合「透過狀態還原更新」資格的應用程式。
 
 **SHA-256 雜湊：**
 
@@ -258,7 +258,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
  **功能更新：**
 
-- 只有在裝置上至少有 1 個應用程式向 MAU 註冊時，Microsoft AutoUpdate UI 才會啟動
+- 只有在裝置上至少有 1 個應用程式使用 MAU 註冊時，才會啟動 Microsoft AutoUpdate UI
 - 錯誤修正及增強功能
 
 **SHA-256 雜湊：**
@@ -302,7 +302,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **功能更新：**
 
 - 您現在可以在 Microsoft AutoUpdate 儀表板上檢視每個主要更新中的新功能。
-- Office 2019 更新的最低作業系統需求隨著 Catalina 發行變更為 macOS 10.13，而我們會通知使用者進行升級，以取得最新的 Office 更新。
+- Office 2019 更新的最低作業系統需求在 Catalina 發行時已變更為 macOS 10.13。 系統會通知使用者升級至最新的 Office 更新。
 
 **SHA-256 雜湊：**
 
@@ -316,7 +316,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **功能更新：**
 
-- 從 Microsoft AutoUpdate 4.16 之後，現在所有客戶都能享用全新改善的使用者體驗。
+- 從 Microsoft AutoUpdate 4.16 之後，所有客戶都能享用全新改善的使用者體驗。
 
 **SHA-256 雜湊：**
 
@@ -387,9 +387,9 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **功能更新：**
 
-- 二進位差異更新：針對 SSD 裝置推出較小的更新，以減少由於更新造成的頻寬使用量。
+- 二進位差異更新：針對 SSD 裝置推出較少量的更新，進而減少由於更新造成的頻寬使用量。
 - 支援附屬應用程式：MAU 現在支援附屬應用程式，例如 Microsoft OneDrive。
-- 「複製時安裝功能」的增強功能：更新複製已更強固且不會發生故障。
+- 「複製時安裝」增強功能：更新複製現在更為穩健。
 
 **SHA-256 雜湊：**
 
@@ -422,8 +422,8 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
  **功能更新：**
 
-- 複製時安裝功能增強功能：針對 SSD 裝置，針對使用中的應用程式推出複製時更新，因此可減少由於更新造成的應用程式停機時間。
-- 安裝最佳化：更新程序會使用平行化複製，這樣就會減少因更新造成的應用程式停機時間。
+- 「複製時安裝」增強功能：針對 SSD 裝置，對使用中的應用程式推出複製時更新，因此可減少由於更新造成的應用程式停機時間。
+- 安裝最佳化：由於更新程序會使用平行化複製，將可減少應用程式停機時間。
 
 **SHA-256 雜湊：**
 
@@ -475,7 +475,7 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |2016 年 1 月 5日  <br/> |3.4.0  <br/> |[KB 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
 
 
-## <a name="related-topics"></a>相關主題
+## <a name="related-articles"></a>相關文章
 
 - [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)
 - [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md) 
