@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: fb018221e9a2024823d0426b390dc19180a653d2
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: daa3193272c05afbcfab5296ba2fd17952667d51
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934421"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013274"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -36,7 +36,7 @@ ms.locfileid: "49934421"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2012<br/>|13530.20440<br/>|2021 年 1 月 21 日<br/>|版本 2101 已推出<br/>|
+|目前通道<br/>|2101<br/>|13628.20274<br/>|2021 年 1 月 26 日<br/>|版本 2102 已推出<br/>|
 |每月企業通道<br/>|2011<br/>|13426.20526<br/>|2021 年 1 月 12 日<br/>|2021 年 3 月 9 日<br/>|
 |每月企業通道<br/>|2010<br/>|13328.20550<br/>|2021 年 1 月 12 日<br/>|2021 年 2 月 9 日<br/>|
 |半年企業通道 (預覽)<br/>|2008<br/>|13127.21064<br/>|2021 年 1 月 12 日<br/>|2021 年 3 月 9 日<br/>|
@@ -56,7 +56,8 @@ ms.locfileid: "49934421"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021|1 月 21 日|[版本 2012 (組建 13530.20440)](current-channel.md#version-2012-january-21)| | | |
+|2021|1 月 26 日|[版本 2101 (組建 13628.20274)](current-channel.md#version-2101-january-26)| | | |
+|2021 年|1 月 21 日|[版本 2012 (組建 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021 年|1 月 12 日|[版本 2012 (組建 13530.20376)](current-channel.md#version-2012-january-12)|[版本 2011 (組建 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[版本 2010 (組建 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[版本 2008 (組建 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[版本 2008 (組建 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[版本 2002 (組建 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[版本 1908 (組建 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
 |2021|1 月 5 日|[版本 2012 (組建 13530.20316)](current-channel.md#version-2012-january-05)| | | |
 |2020|12 月 21 日|[版本 2011 (組建 13426.20404)](current-channel.md#version-2011-december-21)| | | |
@@ -124,7 +125,7 @@ ms.locfileid: "49934421"
 |2019|5 月 29 日 |[版本 1905 (組建 11629.20196)](monthly-channel-archived.md#version-1905-may-29)| | | |
 |2019|5 月 22 日 |[版本 1904 (組建 11601.20230)](monthly-channel-archived.md#version-1904-may-22)| | | |
 |2019|5 月 14 日 |[版本 1904 (組建 11601.20204)](monthly-channel-archived.md#version-1904-may-14)| |[版本 1902 (組建 11328.20286)](semi-annual-enterprise-channel-preview-archived.md#version-1902-may-14) |[版本 1808 (組建 10730.20344)](semi-annual-enterprise-channel-archived.md#version-1808-may-14)  <br/>  [版本 1803 (組建 9126.2387)](semi-annual-enterprise-channel-archived.md#version-1803-may-14) |
-|2019|5 月 8 日 |[版本 1904 (組建 11601.20178)](monthly-channel-archived.md#version-1904-may-8)| | | |
+|2019 年|5 月 8 日 |[版本 1904 (組建 11601.20178)](monthly-channel-archived.md#version-1904-may-8)| | | |
 |2019 年|4 月 29 日 |[版本 1904 (組建 11601.20144)](monthly-channel-archived.md#version-1904-april-29)| | | |
 |2019 年|4 月 23 日 |[版本 1903 (組建 11425.20244)](monthly-channel-archived.md#version-1903-april-23)| | | |
 |2019 年|4 月 17 日 |[版本 1903 (組建 11425.20228)](monthly-channel-archived.md#version-1903-april-17)| | | |
