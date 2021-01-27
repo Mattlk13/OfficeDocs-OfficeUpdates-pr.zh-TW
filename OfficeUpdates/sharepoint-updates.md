@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 2016、SharePoint 2013 及 SharePoint 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: f94b64d28c61d5d98c64daebd4cc406439bafcf4
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b3d51cbd5990de8cf0c36f018881278b6f5989d4
+ms.sourcegitcommit: e9067730e4a7e0bd546c59642362b5f01f1aae64
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837569"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "49980417"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -26,9 +26,13 @@ ms.locfileid: "49837569"
 
 如需最新的 SharePoint Online 及 Microsoft 365 更新，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/p/?linkid=529454)。
 
+
+
 <a name="BKMK_2016"> </a>
   
 ## <a name="sharepoint-2019-update-history"></a>SharePoint 2019 更新歷程記錄
+> [!NOTE]
+>針對每個發行日期列出的第一個更新/KB 是與語言無關的 STS 修補程式。 第二個更新是語言相關的 WSSLOC 修補程式，涵蓋所有語言套件，包括英文版安裝。 儘管可能不會每個月都要發行語言相關的 WSSLOC 修補程式，但這兩個更新都是完全更新伺服器陣列所必需的。
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
@@ -60,6 +64,9 @@ ms.locfileid: "49837569"
 |SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||2018 年 12 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||2018 年 11 月  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 更新歷程記錄
+
+> [!NOTE]
+>針對每個發行日期列出的第一個更新/KB 是與語言無關的 STS 修補程式。 第二個更新是語言相關的 WSSLOC 修補程式，涵蓋所有語言套件，包括英文版安裝。 儘管可能不會每個月都要發行語言相關的 WSSLOC 修補程式，但這兩個更新都是完全更新伺服器陣列所必需的。
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
