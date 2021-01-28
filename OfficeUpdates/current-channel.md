@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 2a724fbea64b9e0cc76637fbe438f94379a390eb
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 1947dcee128684821afb91cec6bb16f015015ed5
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934411"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013284"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,86 @@ ms.locfileid: "49934411"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2101-january-26"></a>版本 2101：1 月 26 日
+*版本 2101 (組建 13628.20274)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+- 
+  **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。(深入了解 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="outlook"></a>Outlook
+
+- **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
+
+- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+- 
+  **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。(深入了解 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+- 
+  **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。(深入了解 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+### <a name="word"></a>Word
+
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+- 
+  **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。(深入了解 - https://docs.microsoft.com/en-us/microsoft-365/compliance/sensitivity-labels)。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題
+
+
+### <a name="excelexe"></a>excel.exe
+
+- 我們修正了破壞了一些舊的 Excel 4.0和 Excel 5.0 巨集以及一些至 dialogsheets.show 的 VBA 呼叫。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
+
+
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正了在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
+
+
+- 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+
+
+- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -1452,7 +1532,7 @@ ms.locfileid: "49934411"
 
 - 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1501,7 +1581,7 @@ ms.locfileid: "49934411"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1866,6 +1946,7 @@ ms.locfileid: "49934411"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
@@ -1875,5 +1956,4 @@ ms.locfileid: "49934411"
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
