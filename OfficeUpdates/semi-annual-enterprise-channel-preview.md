@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837624"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032296"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -384,7 +384,7 @@ ms.locfileid: "49837624"
 
 - **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
 
-- **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。
+- **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。 [深入了解](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
 - **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 

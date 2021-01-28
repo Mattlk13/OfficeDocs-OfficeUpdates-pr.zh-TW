@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: bd303034c8cd32292ad57e173dc7e9a11b1c2693
-ms.sourcegitcommit: 4ba886bf4644bc78de9d15e25c2b338c002643e9
+ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
+ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878746"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50032314"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -67,9 +67,9 @@ ms.locfileid: "49878746"
 
 - **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。<br />在[部落格文章](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)中查看詳細資料
 
-- **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。
+- **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。 [深入了解](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 
 - **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1688,7 +1688,7 @@ ms.locfileid: "49878746"
 
 - 已解決以下問題：使用者將共用行事曆資料夾同步到 OST 時發生問題，這導致嘗試與這些資料夾互動時發生權限錯誤。
 
-- 解決會導致使用者在 Citrix 環境中檢視 30 個以上的行事曆時遇到當機的問題。 此處是[記錄舊版問題的個別 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解決會導致使用者在 Citrix 環境中檢視 30 個以上的行事曆時遇到當機的問題。 此處是[記錄舊版問題的個別 KB](https://support.microsoft.com/zh-TW/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 修正 SMIME 演算法選取的問題。
 
