@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: dfc33d79d7746d60b88b2c58fc7511e00cfe4fed
-ms.sourcegitcommit: d321589264b07388b317099e86baf327358c060e
+ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
+ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49937068"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50054505"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,29 @@ ms.locfileid: "49937068"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2102-january-29"></a>版本 2102：1 月 29 日
+*版本 2102 (組建 13721.20008)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當您在 [定義名稱] 對話方塊中新增名稱時，Excel 會意外結束的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致加密圖示無法對使用 [僅加密] 選項傳送的電子郵件顯示的問題。
+
+### <a name="project"></a>Project
+
+- 修正含有長斯拉夫文名稱的專案，無法透過專案中心開啟的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-january-22"></a>版本 2102：1 月 22 日
 *版本 2102 (組建 13714.20000)*
@@ -2389,6 +2412,7 @@ ms.locfileid: "49937068"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
@@ -2398,5 +2422,4 @@ ms.locfileid: "49937068"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
