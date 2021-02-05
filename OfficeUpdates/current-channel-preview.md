@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101361"
+ms.locfileid: "50105215"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -78,16 +78,11 @@ ms.locfileid: "50101361"
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)。
 
+
 ### <a name="word"></a>Word
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-<br/>
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ ms.locfileid: "50101361"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
 
 ## <a name="version-2101-january-18"></a>版本 2101：1 月 18 日
 *版本 2101 (組建 13628.20158)*
@@ -122,6 +119,19 @@ ms.locfileid: "50101361"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2101-january-13"></a>版本 2101：1 月 13 日
+*版本 2101 (組建 13628.20118)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+- **更多主題：** 桌面和網頁用戶端可使用新的主題。
+
+- **PPT 共用：** Teams 中的簡報者檢視畫面：當您從 Teams 共用區選取 PowerPoint 檔案之後，系統會自動開啟 [簡報者檢視畫面]。 您可以查看目前的投影片、投影片附註，以及投影片組中所有投影片的縮圖條，以輕鬆進行臨時的投影片瀏覽。 此檢視完全位於幕後，且由掌控螢幕的簡報者所專有。 您的觀眾只能看見您目前的投影片 (以大型紅色方塊醒目提示)，或他們所選擇要瀏覽的投影片 (如果您未鎖定觀眾瀏覽版面)。 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+<br/>
 
 ## <a name="version-2101-january-09"></a>版本 2101：1 月 9 日
 *版本 2101 (組建 13628.20118)*
