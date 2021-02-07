@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d76a29f3c54500e86fe833b6ac7e9de91c5e9b9d
-ms.sourcegitcommit: 71b7d573a7e32ab27a597330017ea60f7b094f5d
+ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50054505"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118383"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,65 @@ ms.locfileid: "50054505"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2102-february-05"></a>版本 2102：2 月 5 日
+*版本 2102 (組建 13801.20004)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+
+- 您現在會在 Access 中看到已選取的索引標籤。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在圖表中選取資料數列之後，Excel 停止回應的問題。
+
+
+- 我們已修正當您在 Android 上使用特定鍵盤按下 Enter 鍵時，會新增一行而不是移至下一個儲存格的問題。
+
+
+- 已修正在裁剪作業期間，保持圖片長寬比的相關問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正在裁剪作業期間，保持圖片長寬比的相關問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正在裁剪作業期間，保持圖片長寬比的相關問題。
+
+
+- 我們已修正註解可能會因連結而被截斷的問題。
+
+
+- 我們已修正共同撰寫時衝突模式的問題。
+
+
+- 我們已修正儲存至 SharePoint Online 的問題
+
+
+- 我們已修正將 Word 文件匯出為 PDF 的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正 Office 在某些情況下在應該呈現某個已登入帳戶的敏感度標籤時，卻呈現不同已登入帳戶的敏感度標籤的問題。
+
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2102-january-29"></a>版本 2102：1 月 29 日
 *版本 2102 (組建 13721.20008)*
@@ -2412,6 +2471,7 @@ ms.locfileid: "50054505"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
@@ -2421,5 +2481,4 @@ ms.locfileid: "50054505"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

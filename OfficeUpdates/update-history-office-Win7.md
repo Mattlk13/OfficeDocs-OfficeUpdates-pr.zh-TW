@@ -9,36 +9,33 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Microsoft 365 應用程式更新歷程記錄的版本資訊
-ms.openlocfilehash: 555cb8bd9ddeaa53e209655a9c744ed6b6eb3ddf
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 26aac794e5dec7f92afff1dd020528520ce98662
+ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837565"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "50118393"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 上 Microsoft 365 應用程式的更新歷程記錄 
 
  > [!NOTE]
 >
->- Windows 7 的支援服務已於 2020 年 1 月 14 日終止。 [深入了解](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- Windows 7 不再支援 Microsoft 365 應用程式，但是在 2023 年 1 月前可持續取得安全性更新。 [深入了解](https://docs.microsoft.com/DeployOffice/windows-7-support)
->- 如果您是在 Windows 7 上執行 Office 的家用版使用者，請參閱 [Windows 7 終止支援和 Office](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US)。
-版本 2002 是在 2020 年 1 月 Windows 7 終止支援後，可供執行 Windows 7 的裝置使用的最後一個 Microsoft 365 應用程式版本。  
+>- Windows 7 的支援服務已於 2020 年 1 月 14 日終止。 [深入了解](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
+>- Windows 7 不再支援 Microsoft 365 應用程式，但是在 2023 年 1 月前可持續取得安全性更新。 如需詳細資訊，請參閱 [ Windows 7 終止支援服務與 Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support)。
+>- 如果您是在 Windows 7 上執行 Office 的家用版使用者，請參閱 [Windows 7 終止支援和 Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)。
 
-版本 2002 預期會在下列通道提供：
-- 2020 年 2 月底的每月通道
-- 2020 年 3 月的半年通道 (已設定目標)
-- 2020 年 7 月的半年通道
+版本 2002 是最新版本的 Microsoft 365 Apps，適用於執行 Windows 7 的裝置。 版本 2002 可以在 Microsoft 365 Apps 的所有更新通道取得。
 
-半年通道的版本通常只能使用 14 個月，但版本 2002 除外，以符合 Windows 7 版擴充安全性更新 (ESU) 的時間。
+半年通道的版本通常只能使用 14 個月。 但是版本 2002 除外，以符合 Windows 7 版擴充安全性更新 (ESU) 的時間。
 
-版本 2002 的擴充可用性漜適用於其他更新通道，例如每月和半年通道 (已設定目標)，但僅適用於執行 Windows 7 的裝置。
+版本 2002 的擴充可用性也適用於其他更新通道，例如目前通道，但僅適用於執行 Windows 7 的裝置。
 
-只要該早期版本仍然受到支援，您就可以繼續在執行 Windows 7 的裝置上部署版本 2002 之前的版本。 例如，您可以繼續在執行 Windows 7 的裝置上使用半年通道的版本 1908，直到 2021 年 3 月 (之後版本 1908 將不受半年通道支援)。
+在每個月的第二個星期二，我們會視需要發行具有安全性更新的新組建版本 2002。 如需版本 2002 的安全性更新清單，請參閱 [Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
-在每個月的第 2 個星期二，我們會視需要發行具有安全性更新的新組建版本 2002。 每個架構 (x86 或 x64) 都只有一個組建，且可以搭配您部署的任何更新通道使用。 每個通道都不會有版本 2002 的個別組建。 例如，同一組建可用於更新執行 Windows 7 的裝置 (使用每月頻道)，或使用半年頻道的裝置。
+如果您是藉由使用 Microsoft Endpoint Configuration Manager 來管理更新，請參閱[使用 Configuration Manager 進行更新的指導方針](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)。
 
-##
+
+## <a name="update-history"></a>更新歷程記錄
 
 [//]: # (DO NOT REMOVE)
 
