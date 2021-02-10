@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
-ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
+ms.openlocfilehash: c5e674a4de1d99939daf5d42266071aa4eddfdcf
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50151961"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173632"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -47,7 +47,7 @@ ms.locfileid: "50151961"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -117,6 +117,8 @@ ms.locfileid: "50151961"
 
 
 - 我們已修正自動回復的問題。
+
+- 我們已修正當與受 DRM 保護的檔案共同撰寫會發生的問題
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -449,21 +451,21 @@ ms.locfileid: "50151961"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="outlook"></a>Outlook
 
 - **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2496,17 +2498,17 @@ ms.locfileid: "50151961"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用敏感度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **不需要簡報導覽裝置：有耳塞式耳機就夠了：** 使用您的 Surface Earbuds 控制 PowerPoint 簡報。 重要：您必須在 Windows 10 的 Surface 音訊應用程式中配對 Surface Earbuds，才能使用手勢來控制簡報。 在此取得 Windows 10 上 Surface 音訊應用程式入門的指示。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用敏感度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
 ### <a name="word"></a>Word
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用敏感度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2565,7 +2567,7 @@ ms.locfileid: "50151961"
 
 - 已修正 Office 功能區中群組行事曆分類按鈕已停用的問題。
 
-- 已解決在 Windows 更新後，開啟儲存在本機的 .msg 或 .oft 檔案會導致 Outlook 當機的問題。
+- 已解決在 Windows 更新後，開啟儲存在本機的 msg 或 .oft 檔案會導致 Outlook 當機的問題。
 
 - 已修正企業客戶沒有執行或無法使用群組資料夾的問題，該問題會導致 Outlook 顯示「沒有回應」的訊息。
 
@@ -2733,7 +2735,7 @@ ms.locfileid: "50151961"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 已解決在 Windows 更新後，開啟儲存在本機的 .msg 或 .oft 檔案會導致 Outlook 當機的問題。
+- 已解決在 Windows 更新後，開啟儲存在本機的 msg 或 .oft 檔案會導致 Outlook 當機的問題。
 
 ### <a name="project"></a>Project
 
