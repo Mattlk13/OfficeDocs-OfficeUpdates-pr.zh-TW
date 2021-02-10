@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 7f5cefd77c4639d4e06bd3974f56e070710bd2e8
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837674"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173712"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -31,6 +31,29 @@ ms.locfileid: "49837674"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="february-09-2021"></a>2021 年 2 月 9 日
+每月企業通道：版本 2012 (組建 13530.20528)  
+每月企業通道：版本 2011 (組建 13426.20658)  
+半年企業通道 (預覽)：版本 2008 (組建 13127.21216)  
+半年企業通道：版本 2008 (組建 13127.21216)  
+半年企業通道：版本 2002 (組建 12527.21594)  
+半年企業通道：版本 1908 (組建 11929.21008)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.21594)  
+Office 2019 大量授權版：版本 1808 (組建 10371.20060)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-24069)
+-   [CVE-2021-24070](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-24070)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-24067)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="january-12-2021"></a>2021 年 1 月 12 日
 目前通道：版本 2012 (組建 13530.20376)  

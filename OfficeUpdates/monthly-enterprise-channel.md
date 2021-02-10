@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: e4c46d64476cab52b9f4d78480dc4d4b652aae6f
-ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
+ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "49837534"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173671"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -26,6 +26,125 @@ ms.locfileid: "49837534"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2012-february-09"></a>版本 2012：2 月 9 日
+*版本 2012 (組建 13530.20528)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="outlook"></a>Outlook
+
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+
+- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+- **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+- **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/svg-content-office-third-party-apps)中查看詳細資料
+
+- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="word"></a>Word
+
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 此變更解决了在方程式中正確顯示字型的問題。
+
+
+- 已修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
+
+
+- 修正在開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會停用巨集而不提示的問題。
+
+
+- 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題。
+
+
+- 已修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
+
+
+- 我們修正了破壞了一些舊的 Excel 4.0和 Excel 5.0 巨集以及一些至 dialogsheets.show 的 VBA 呼叫。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致在提示使用者儲存已編輯的簽名後，該動作會無法執行的問題。
+
+
+- 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
+
+
+- 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
+
+
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
+
+
+- 此變更解决了在方程式中正確顯示字型的問題。
+
+
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- Anaheim WebView 目前尚不支援 Windows 資訊保護(WIP)。 有了此修正程式，Office addin 平臺便會回到處於 WIP 啟用環境中的低層級 WebView。 根據客戶的電腦環境，這可以是 Edge Spartan WebView 或 Trident WebView。 兩個低層級 WebViews 皆支援 WIP。
+
+
+- 優化的二進位大小。
+
+
+- 修正了檔案關閉順序，使所有相互依存的元件都能正常關閉。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2011-february-09"></a>版本 2011：2 月 9 日
+*版本 2011 (組建 13426.20658)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2011-january-12"></a>版本 2011：1 月 12 日
 *版本 2011 (組建 13426.20526)*
@@ -1268,6 +1387,7 @@ ms.locfileid: "49837534"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
