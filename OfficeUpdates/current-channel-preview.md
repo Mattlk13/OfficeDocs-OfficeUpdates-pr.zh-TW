@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
-ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
+ms.openlocfilehash: a225ff4079216b634a0bc113e077b4925dab158e
+ms.sourcegitcommit: 7c433a6b5cd2736a9e2ddf7a6c3bd0ea6814ac6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "50105215"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50151961"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,106 @@ ms.locfileid: "50105215"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2102-february-08"></a>版本 2102：2 月 8 日
+*版本 2102 (組建 13801.20084)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 您現在會在 Access 中看到已選取的索引標籤。
+
+
+### <a name="excel"></a>Excel
+
+- 修正重新開啟檔案時，使用非連續儲存格範圍的特定圖表無法載入的問題。
+
+
+- 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題。
+
+
+- 我們已修正選取圖表的資料數列之後，Excel 會停止回應的問題。
+
+
+- 我們已修正當您在 [定義名稱] 對話方塊中新增名稱時，Excel 會意外結束的問題。
+
+
+- 已修正在裁剪作業期間，保持圖片長寬比的相關問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
+
+
+- 我們已修正會導致加密圖示無法對使用 [僅加密] 選項傳送的電子郵件顯示的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正與顯示有色彩的表情符號相關的問題。
+
+
+- 修正在裁剪作業期間，與保持圖片的長寬比相關的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 現已修正從 CAD 樣板呈現圖形的相關問題。 使用者將在最新組建中看到問題已解決。
+
+
+### <a name="word"></a>Word
+
+- 這會修正在失去網際網路連線一段時間後，會防止即時輸入和目前狀態還原的問題。
+
+
+- 當使用者在註解中選取文字，Word 現在會取消選取在其他註解中選取的文字。
+
+
+- Word 現在可讓您將註解文字複製到 Excel。
+
+
+- 我們已修正執行 VBA 巨集 ExportAsFixedFormat2 失敗，出現說明「簡報 (未知的成員) 不合法值」錯誤的問題。
+
+
+- 已修正在裁剪作業期間，保持圖片長寬比的相關問題。
+
+
+- 我們已修正註解可能會因連結而被截斷的問題。
+
+
+- 我們已修正儲存至 SharePoint Online 的問題
+
+
+- 我們已修正將 Word 文件匯出為 PDF 的問題。
+
+
+- 我們已修正自動回復的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正在 PowerPoint 中以影像形式插入項目符號時，會導致項目符號消失的錯誤。 此修正可讓影像更可靠地呈現。
+
+- 已修正 Office 在某些情況下在應該呈現某個已登入帳戶的敏感度標籤時，卻呈現不同已登入帳戶的敏感度標籤的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2101-february-03"></a>版本 2101: 2 月 03 日
 *版本 2101 (組建 13628.20330)*
@@ -349,21 +449,21 @@ ms.locfileid: "50105215"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="outlook"></a>Outlook
 
 - **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的敏感度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2396,17 +2496,17 @@ ms.locfileid: "50105215"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用敏感度標籤。
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **不需要簡報導覽裝置：有耳塞式耳機就夠了：** 使用您的 Surface Earbuds 控制 PowerPoint 簡報。 重要：您必須在 Windows 10 的 Surface 音訊應用程式中配對 Surface Earbuds，才能使用手勢來控制簡報。 在此取得 Windows 10 上 Surface 音訊應用程式入門的指示。 [深入了解](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用敏感度標籤。
 
 ### <a name="word"></a>Word
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用敏感度標籤。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2435,7 +2535,7 @@ ms.locfileid: "50105215"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
@@ -2465,7 +2565,7 @@ ms.locfileid: "50105215"
 
 - 已修正 Office 功能區中群組行事曆分類按鈕已停用的問題。
 
-- 已解決在 Windows 更新後，開啟儲存在本機的 msg 或 .oft 檔案會導致 Outlook 當機的問題。
+- 已解決在 Windows 更新後，開啟儲存在本機的 .msg 或 .oft 檔案會導致 Outlook 當機的問題。
 
 - 已修正企業客戶沒有執行或無法使用群組資料夾的問題，該問題會導致 Outlook 顯示「沒有回應」的訊息。
 
@@ -2633,7 +2733,7 @@ ms.locfileid: "50105215"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 已解決在 Windows 更新後，開啟儲存在本機的 msg 或 .oft 檔案會導致 Outlook 當機的問題。
+- 已解決在 Windows 更新後，開啟儲存在本機的 .msg 或 .oft 檔案會導致 Outlook 當機的問題。
 
 ### <a name="project"></a>Project
 
