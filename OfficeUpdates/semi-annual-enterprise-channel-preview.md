@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032296"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173832"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -23,6 +23,67 @@ ms.locfileid: "50032296"
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
 
+
+## <a name="version-2008-february-09"></a>版本 2008：2 月 9 日
+*版本 2008 (組建 13127.21216)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正了當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
+
+
+- 我們修正了將圖表從 Excel 複製並貼到 Word 或 PowerPoint 時，小數位和千分位分隔符號設定不會執行的問題。
+
+
+- 我們修正了執行涉及樞紐分析表範圍格式設定的巨集，在每次執行巨集時效能都會變差的問題。
+
+
+- 我們修正了將工作表複製或移動到另一個活頁簿時，設定格式化的條件規則的問題。
+
+
+- 我們修正了當應用程式啟動時停用開始頁面，使用者無法將敏感度標籤套用至 Excel 檔案的問題。
+
+
+- 我們修正了從 OneDrive 同步處理資料夾開啟雲端檔案的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 解決在新增或儲存附件時，會導致 Outlook 停止運作的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
+
+
+- 修正了使用保留來源格式設定選項複製及貼上投影片時，有時會將此設定意外地複製到新的投影片母片的問題
+
+
+### <a name="word"></a>Word
+
+- 我們已修正有時開啟 Word 文件可能會顯示錯誤對話方塊的追蹤修訂問題。
+
+
+- 我們修正了從 OneDrive 同步處理資料夾開啟雲端檔案的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正了無法在 Office 中成功開啟檔案的問題。
+
+
+- 修正了使用複製格式將包含草繪外框的文件套用至連接器可能會損毀的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
 *版本 2008 (組建 13127.21064)*
@@ -1436,6 +1497,7 @@ ms.locfileid: "50032296"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)

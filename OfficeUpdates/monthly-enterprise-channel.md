@@ -40,7 +40,7 @@ ms.locfileid: "50173671"
 
 - **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
@@ -50,7 +50,7 @@ ms.locfileid: "50173671"
 
 - **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
 
-- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
@@ -62,7 +62,7 @@ ms.locfileid: "50173671"
 
 - **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/svg-content-office-third-party-apps)中查看詳細資料
 
-- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
@@ -70,7 +70,7 @@ ms.locfileid: "50173671"
 
 - **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **敏感度標籤稽核記錄**：當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
@@ -96,10 +96,10 @@ ms.locfileid: "50173671"
 - 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題。
 
 
-- 已修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
+- 已修正使用樞紐分析表的 [值的顯示方式] 功能表時，Excel 可能會意外關閉的問題。
 
 
-- 我們修正了破壞了一些舊的 Excel 4.0和 Excel 5.0 巨集以及一些至 dialogsheets.show 的 VBA 呼叫。
+- 我們修正了破壞了一些舊的 Excel 4.0 和 Excel 5.0 巨集以及一些對 dialogsheets.show 的 VBA 呼叫的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -110,7 +110,7 @@ ms.locfileid: "50173671"
 - 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
+- 我們已修正導致某些客戶在載入行事曆時遇到停滯的問題。
 
 
 - 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
@@ -124,7 +124,7 @@ ms.locfileid: "50173671"
 - 此變更解决了在方程式中正確顯示字型的問題。
 
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填滿的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -132,7 +132,7 @@ ms.locfileid: "50173671"
 - Anaheim WebView 目前尚不支援 Windows 資訊保護(WIP)。 有了此修正程式，Office addin 平臺便會回到處於 WIP 啟用環境中的低層級 WebView。 根據客戶的電腦環境，這可以是 Edge Spartan WebView 或 Trident WebView。 兩個低層級 WebViews 皆支援 WIP。
 
 
-- 優化的二進位大小。
+- 最佳化的二進位大小。
 
 
 - 修正了檔案關閉順序，使所有相互依存的元件都能正常關閉。

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032297"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177947"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,29 @@ ms.locfileid: "50032297"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2101-february-09"></a>版本 2101：2 月 9 日
+*版本 2101 (組建 13628.20380)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致雲端設定使用者在更新設定時遇到停止回應的問題。
+
+
+- 我們已修正在 OWA 中顯示正確預設簽名的問題。
+
+
+- 我們已修正會導致加密圖示無法對使用 [僅加密] 選項傳送的電子郵件顯示的問題。
 
 
 
@@ -1247,7 +1270,7 @@ ms.locfileid: "50032297"
 
 ### <a name="project"></a>Project
 
-- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
+- 修正當標示為 100% 完成之工作錯誤地變更為低於 100% 完成的問題。
 
 ### <a name="word"></a>Word
 
@@ -1940,6 +1963,7 @@ ms.locfileid: "50032297"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
@@ -1949,5 +1973,4 @@ ms.locfileid: "50032297"
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
