@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
-ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
+ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
+ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "49863200"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "50263931"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -51,6 +51,66 @@ ms.locfileid: "49863200"
 
 
 
+
+
+
+## <a name="february-16-2021"></a>2021 年 2 月 16 日
+*版本 16.46 (組建 21021202)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/zh-TW/microsoft-365/compliance/sensitivity-labels)
+
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+### <a name="outlook"></a>Outlook
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/zh-TW/microsoft-365/compliance/sensitivity-labels)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **匯出範圍中的動畫 GIF：** 當匯出成動畫 GIF 時， 選取投影片的範圍
+
+- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。
+
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/zh-TW/microsoft-365/compliance/sensitivity-labels)
+
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+### <a name="word"></a>Word
+
+- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
+
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/zh-TW/microsoft-365/compliance/sensitivity-labels)
+
+- **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="january-13-2021"></a>2021 年 1 月 13 日
 *版本 16.45 (組建 21011103)*
@@ -228,17 +288,17 @@ ms.locfileid: "49863200"
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2020-1224](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1224) (英文)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1224)
 
 ### <a name="word"></a>Word
 
--   [CVE-2020-1218](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1218) (英文)
--   [CVE-2020-1338](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1338) (英文)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1338)
 
 ### <a name="office-suite"></a>Office 套件
 
 -   [CVE-2020-1193](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-1193)
--   [CVE-2020-16855](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-16855) (英文)
+-   [CVE-2020-16855](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-16855)
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
@@ -935,12 +995,12 @@ ms.locfileid: "49863200"
 |Microsoft 自動更新 4.7 <br/>| AutoUpdate 精靈現在啟動作為安裝程序的一部分。這樣可以排除先前對使用者顯示，會令人混淆的安全性對話方塊。 <br/><br/> 已增強 Microsoft AutoUpdate 的安全性功能以支援 SHA256 憑證。 <br/>|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> 從版本 16.21 開始，預設情況下將會為**_新_* _安裝的版本安裝 Microsoft Teams。 如需詳細資訊，請參閱 [Mac 上的 Microsoft Teams 安裝](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
+> 從版本 16.21 開始，預設情況下將會為 ***新*** 安裝的版本安裝 Microsoft Teams。如需詳細資訊，請參閱 [在 Mac 上的 Microsoft Teams 安裝](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
 
 
 ## <a name="december-2018-release"></a>2018 年 12 月版本
 
- _ *發行日期：** 2018 年 12 月 11 日 
+ **發行日期：** 2018 年 12 月 11 日 
   
  版本 16.20.0 (組建 18120801) 
   
