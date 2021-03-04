@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271786"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418048"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,104 @@ ms.locfileid: "50271786"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-01"></a>版本 2102：3 月 1 日
+*版本 2102 (組建 13801.20266)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **改善條件式格式設定對話方塊：**[條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
+
+### <a name="outlook"></a>Outlook
+
+- **更新的連絡人清單檢視：** 連絡人清單現在會顯示電子郵件地址，以及更新的相片和文字大小。
+
+- **使用內建翻譯工具打破語言障礙：** 不再需要翻譯的增益集！ 在電子郵件中，按一下滑鼠右鍵以翻譯特定的文字、片語或整個郵件。 [深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
+
+### <a name="teams"></a>Teams
+
+- **共用 PowerPoint 檔案時的簡報者檢視畫面**：在會議中共用 PowerPoint 檔案時，簡報者現在會有投影片組中所有投影片的縮圖區域檢視，以便輕鬆進行臨機操作的投影片瀏覽。
+
+- **佈景主題和圖示更新：** 我們對預設和深色佈景主題色彩和圖示進行了更新。
+
+- **iPad 上的即時活動簡報者支援：** 您可以透過支援的 iPad 裝置在即時活動中進行簡報。
+
+- **使用 Microsoft Forms 讓會議參與者投票：** Teams 會議的投票是可輕鬆探索且順暢的體驗，可協助您進行更吸引人且更具生產力的會議。 利用由 Microsoft Forms 提供支援的「投票」功能，會議簡報者可以分別在會議之前、期間和之後準備、啟動及評估投票，這一切都可以在 Teams 會議的一個索引標籤下進行。 身為會議簡報者，您可以將 Forms 應用程式新增為 Teams 會議中的索引標籤，然後從一個位置建立、啟動及評估您的投票。 建立投票以在會議期間啟動，甚至在會議開始之前啟動。 然後，在會議之後，您可以選擇在索引標籤中、在匯出的 Excel 活頁簿或在 Forms 應用程式的網頁上評估回應。 簡報者有各種不同的控制項，例如啟用匿名回應、關閉投票，以及將結果匯出至 Excel。 來自任何端點 (行動裝置、網頁、桌面) 的出席者可以在投票出現在會議畫面或會議聊天中時檢視和回答投票，以及即時查看非匿名的投票結果。
+
+- **會議反應：** 會議反應是在會議中互動的新方式。 參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
+
+- **桌面用戶端的歷程記錄功能表：** Teams 桌面用戶端中的歷程記錄功能表，可讓您輕鬆回到最近瀏覽過的位置。 只要將游標停留在桌面用戶端的下一頁或上一頁瀏覽選項上，然後選取位置即可。 也可使用鍵盤快速鍵來開啟功能表。
+
+- **適用於美國的 Microsoft Teams 會議室中的 Cortana：** Microsoft Teams 會議室中的 Cortana 語音協助可讓您有不需觸控，即可從會議室撥打號碼、加入或結束會議或新增號碼至會議的體驗。
+
+- **遮罩電話號碼：** 我們發佈了新的系統管理員設定，用於在撥入參與者加入會議時遮罩其電話號碼。 系統管理員可以選擇為來自會議中的每個人 (會議召集人除外)、僅來自外部的人員遮罩電話號碼，或是將遮罩功能停用。 如果系統管理員選擇停用此設定，將會在會議中完整顯示電話號碼。  (10 月底之前屬於私人發行)
+
+- **行事曆共用：** 我們新增了將頻道新增到行事曆索引標籤的功能。
+
+- **為在一起模式增加更多場景：** Teams 現已推出可讓會議召集者或簡報者變更在一起模式場景的功能，讓出席者可以一起以不同的體驗顯示。
+
+### <a name="word"></a>Word
+
+- **單鍵書寫建議：** 只要按一下，就能套用書寫建議。 更新的 [編輯器] 窗格讓您輕鬆在建議之間瀏覽。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
+
+- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正使用者收到「資料指標狀態無效」錯誤對話方塊的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正會導致使用者無法將 Excel 活頁簿匯出至 PDF 的問題。
+
+
+- 我們已修正使用 [貼上連結圖片] 選項時，會導致影像小於預期的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致共用行事曆改良功能的使用者無法將行事曆的色彩設定為黃色或褐色的問題。
+
+
+- 我們已修正會導致使用者在建立新群組後看到重複的行事曆群組的問題。
+
+
+- 我們已修正會導致某些使用者在關閉訊息視窗時遇到應用程式關閉的問題。
+
+
+- 我們已修正會導致使用者看到包含 Unicode 內容的簽章損毀的問題。
+
+
+- 我們已修正會導致內嵌翻譯的使用者無法提交意見反應的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正共同撰寫時衝突的問題。
 
 
 
@@ -1295,7 +1393,7 @@ ms.locfileid: "50271786"
 
 ### <a name="project"></a>Project
 
-- 修正當標示為 100% 完成之工作錯誤地變更為低於 100% 完成的問題。
+- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
 
 ### <a name="word"></a>Word
 
@@ -1574,7 +1672,7 @@ ms.locfileid: "50271786"
 
 - 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1623,7 +1721,7 @@ ms.locfileid: "50271786"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1988,6 +2086,7 @@ ms.locfileid: "50271786"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ ms.locfileid: "50271786"
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
