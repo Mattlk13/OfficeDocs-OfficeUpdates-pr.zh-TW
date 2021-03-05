@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: 1046a62a8440402e64bb25cb5ccf3dfbd84c894d
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: 9425577c975122e0ebeffcefed1734a9e024fa8c
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177948"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421403"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
@@ -28,6 +28,14 @@ ODT 能讓您進一步控制 Office 安裝。 您可以定義要安裝哪些產�
  **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+
+## <a name="february-25-2021"></a>2021 年 2 月 25 日
+版本 16.0.13628.20476 (setup.exe 版本 16.0.13628.20462)
+- 修正 configuration.xml 檔案指定數十種無法驗證的語言的問題
+- 修正 MigrateArch 案例未遵守 FORCEAPPSHUTDOWN 屬性的問題
+- 修正在 configuration.xml 中指定 2 個或多個 PIDKEY 屬性而無法安裝 PIDKey 的問題
+
+
 
 ## <a name="february-9-2021"></a>2021 年 2 月 9 日
 版本 16.0.13628.20274 (setup.exe 版本 16.0.13628.20246)

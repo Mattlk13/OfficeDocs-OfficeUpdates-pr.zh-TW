@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242041"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418038"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,84 @@ ms.locfileid: "50242041"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2103-february-26"></a>版本 2103：2 月 26 日
+*版本 2103 (組建 13819.20006)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正會導致使用者無法將 Excel 活頁簿匯出至 PDF 的問題。
+
+
+- 我們已修正在共同撰寫的同時複製工作表時，某些格式可能會遺失的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在移除 DRM 保護時看到附件重複的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正從 Project Web App 將專案存到本機檔案時，可能會錯誤建立任務分割的問題。 如果使用非標準工作時間的任務行事曆，就會發生此情況。
+
+
+- 修正此問題：如果指標欄不在第一欄位置，當您剪下摘要任務時，系統不會警告您也會移除子任務。
+
+
+- 修正以下問題：如果使用者在時程表上選取 [將您本身加入至任務] 功能，則建立的工作指派可能不會使用正確的資源可用性單位。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正多個註解的對齊問題。
+
+
+- 我們已修正 [大聲朗讀] 工作窗格鍵盤快速鍵的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 系統現在會按照群組原則設定適當篩選出 OneDrive 位置。
+
+
+- 修正載入 EMF 影像時可能會發生的無回應問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-february-19"></a>版本 2103：2 月 19 日
+*版本 2103 (組建 13811.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在移除 DRM 保護時看到附件重複的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正此問題：如果指標欄不在第一欄位置，當您剪下摘要任務時，系統不會警告您也會移除子任務。
+
+
+- 修正以下問題：如果使用者在時程表上選取 [將您本身加入至任務] 功能，則建立的工作指派可能不會使用正確的資源可用性單位。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 [大聲朗讀] 工作窗格鍵盤快速鍵的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-february-12"></a>版本 2103：2 月 12 日
 *版本 2103 (組建 13806.20000)*
@@ -2522,6 +2600,8 @@ ms.locfileid: "50242041"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ ms.locfileid: "50242041"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

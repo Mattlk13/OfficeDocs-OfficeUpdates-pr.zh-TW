@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263951"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421399"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,88 @@ ms.locfileid: "50263951"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2102-march-03"></a>版本 2102：3 月 3 日
+*版本 2102 (組建 13801.20274)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="word"></a>Word
+
+- 修正佈景主題資訊套用到圖示和 SVG 圖形的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-01"></a>版本 2102：3 月 1 日
+*版本 2102 (組建 13801.20266)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **共用至 Teams：** 將 Outlook 的郵件與 Teams 中的某個人員或頻道共用。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在建立新群組後看到重複的行事曆群組的問題。
+
+
+- 我們已修正會導致共用行事曆改良功能的使用者無法將行事曆的色彩設定為黃色或褐色的問題。
+
+
+- 我們已修正會導致某些使用者在關閉訊息視窗時遇到應用程式關閉的問題。
+
+
+- 我們已修正會導致使用者看到包含 Unicode 內容的簽章損毀的問題。
+
+
+- 我們已修正會導致內嵌翻譯的使用者無法提交意見反應的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-february-21"></a>版本 2102：2 月 21 日
+*版本 2102 (組建 13801.20182)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。
+
+### <a name="word"></a>Word
+
+- **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正使用 [貼上連結圖片] 選項時，會導致影像小於預期的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-february-16"></a>版本 2102：2 月 16 日
 *版本 2102 (組建 13801.20160)*
@@ -67,6 +149,22 @@ ms.locfileid: "50263951"
 
 
 [//]: # (請勿移除 BUGDETAILS 內容結尾)
+
+
+## <a name="version-2102-february-11"></a>版本 2102：2 月 11 日
+*版本 2102 (組建 13801.20158)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器上的 2x2 影片** 使用者可以在 Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器中的 Teams 會議中查看最多 4 個參與者的影片。 [深入了解](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>版本 2102：2 月 8 日
 *版本 2102 (組建 13801.20084)*
@@ -270,6 +368,8 @@ ms.locfileid: "50263951"
 - **更多主題：** 桌面和網頁用戶端可使用新的主題。
 
 - **PPT 共用：** Teams 中的簡報者檢視畫面：當您從 Teams 共用區選取 PowerPoint 檔案之後，系統會自動開啟 [簡報者檢視畫面]。 您可以查看目前的投影片、投影片附註，以及投影片組中所有投影片的縮圖條，以輕鬆進行臨時的投影片瀏覽。 此檢視完全位於幕後，且由掌控螢幕的簡報者所專有。 您的觀眾只能看見您目前的投影片 (以大型紅色方塊醒目提示)，或他們所選擇要瀏覽的投影片 (如果您未鎖定觀眾瀏覽版面)。 
+
+- **在 Mac 上共用桌面或視窗時包含電腦音效** 當您從 Mac 版 Teams 共用桌面或視窗時，現在可以包含電腦的聲音，讓已加入會議的人可以聽到從您的電腦播放的音訊。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 <br/>
@@ -2576,7 +2676,7 @@ ms.locfileid: "50263951"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
