@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的永久版本 Office 2016 的最新 .msp 檔案清單。
-ms.openlocfilehash: 5f5b8641396990834f791b2e713e3659e619a407
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 58fb4c28c04f165f451a333c0f592923aa563c86
+ms.sourcegitcommit: 879f2edeb724cc4d2b838953df44bc776e252972
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173812"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468357"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品的最新 .msp 檔案清單
 
@@ -24,8 +24,14 @@ ms.locfileid: "50173812"
   
 ## <a name="most-recently-updated-msp-files"></a>最近更新的 .msp 檔案
 
+[//]: # (DO NOT REMOVE CONTENT START)
+
 下表列出在 **2021 年2月** 更新的 .msp 檔案。
-  
+
+[//]: # (DO NOT REMOVE CONTENT END)
+
+[//]: # (不移除 MSP 內容啟動)
+
 |非安全性更新 * * * *|安全性更新 * * * *|
 |:-----|:-----|
 |mso-x-無<br/>|excel-x-無<br/>|
@@ -35,9 +41,13 @@ ms.locfileid: "50173812"
 
 <br/>
 
+[//]: # (請勿移除 MSP 內容結尾)
+
 ## <a name="list-of-all-msp-files"></a>所有 .msp 檔案的清單
 
 下表列出自9月2015發行後發行的所有 .msp 檔案（從 Office 2016 發行）。 當 .msp 檔案的安全性發行日期大於非安全性發行日期時，不需要非安全性發行，因為它已被安全性發行取代。。
+
+[//]: # (DO NOT REMOVE HISTORY CONTENT START)
   
 |.msp 檔案名 * * * *|產品 * * * *|非安全性發行日期 * * * *|非安全性 KB 專案 * * * *|安全性發行日期 * * * *|安全性版本 KB 文章 * * * *|被取代的安全性 KB * * * *|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -104,6 +114,8 @@ ms.locfileid: "50173812"
 |wxpcore-x-無  <br/> |Office 2016  <br/> |2016年10月4日  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |wxpnse-x-無  <br/> |Office 2016  <br/> |2016年10月4日  <br/> |[3118262](https://support.microsoft.com/help/3118262) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |xdext-x-無  <br/> |Office 2016  <br/> |2017年8月1日  <br/> |[3213650](https://support.microsoft.com/help/3213650) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-   
+
+[//]: # (DO NOT REMOVE HISTORY CONTENT END)
+
 <sup>1</sup> *個 ll*  代表適當的語言，例如歐盟或 gl。 
   
