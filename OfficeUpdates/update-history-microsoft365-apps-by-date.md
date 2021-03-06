@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: ea386ed41e693146e6e13ffc1c6cd1ea711deba6
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: cccd1af67f32ebcd94de4532b7f8f553b2336218
+ms.sourcegitcommit: a602c02ef920a2f7566232f5045ace1c9dd44b8b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418068"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "50515324"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -28,7 +28,7 @@ ms.locfileid: "50418068"
 > - 資料表依發行日期排序，最新的發行日期列在最前面。
 > - 如需更新通道的詳細資訊，請參閱 [Microsoft 365 Apps 更新通道概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
-下列表格會列出每個更新通道的支援版本及最新組建編號。
+下列表格會列出每個更新通道的支援版本及最新組建編號。 發行日期指出最新組建的發行時間。
 
 ### <a name="supported-versions"></a>**支援的版本**
 
