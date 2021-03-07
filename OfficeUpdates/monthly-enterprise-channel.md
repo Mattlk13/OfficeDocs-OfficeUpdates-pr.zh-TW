@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 6a5127c9b361c394196674910eabdc26cff39572
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
+ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173671"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50455779"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -96,7 +96,7 @@ ms.locfileid: "50173671"
 - 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題。
 
 
-- 已修正使用樞紐分析表的 [值的顯示方式] 功能表時，Excel 可能會意外關閉的問題。
+- 已修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
 
 
 - 我們修正了破壞了一些舊的 Excel 4.0 和 Excel 5.0 巨集以及一些對 dialogsheets.show 的 VBA 呼叫的問題。
@@ -110,7 +110,7 @@ ms.locfileid: "50173671"
 - 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們已修正導致某些客戶在載入行事曆時遇到停滯的問題。
+- 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
 
 
 - 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
@@ -124,7 +124,7 @@ ms.locfileid: "50173671"
 - 此變更解决了在方程式中正確顯示字型的問題。
 
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填滿的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -132,7 +132,7 @@ ms.locfileid: "50173671"
 - Anaheim WebView 目前尚不支援 Windows 資訊保護(WIP)。 有了此修正程式，Office addin 平臺便會回到處於 WIP 啟用環境中的低層級 WebView。 根據客戶的電腦環境，這可以是 Edge Spartan WebView 或 Trident WebView。 兩個低層級 WebViews 皆支援 WIP。
 
 
-- 最佳化的二進位大小。
+- 優化的二進位大小。
 
 
 - 修正了檔案關閉順序，使所有相互依存的元件都能正常關閉。
@@ -296,7 +296,7 @@ ms.locfileid: "50173671"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 E5/A5 或 Microsoft 365 E5/A5 之組織的測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。
+- **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
