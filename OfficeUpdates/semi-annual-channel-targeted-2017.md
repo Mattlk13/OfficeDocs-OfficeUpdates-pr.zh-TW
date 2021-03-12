@@ -1,5 +1,5 @@
 ---
-title: 2017中的「半年通道」 (目標) 版本的版本資訊
+title: 2017中 Semi-Annual 通道 () 目標的發行附注
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,22 +9,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供適用于 Office 365 的半年通道 (目標) 版本的版本資訊，ProPlus 2017
-ms.openlocfilehash: 44f6c4b86f88419f97bee4e89b99b5a4a46133c9
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: 為 IT 專業人員提供 Semi-Annual 通道的發行資訊， (針對 Office 365 的目標) 版本 ProPlus 2017
+ms.openlocfilehash: 51a272f29ba9e68682285cb1de05e3964340d0f2
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370091"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735168"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中的「半年通道」 (目標) 版本的版本資訊
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中 Semi-Annual 通道 () 目標的發行附注
 
-這些版本資訊會提供 ProPlus 2017 中的 (目標) 更新至 Office 365 的新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供 Semi-Annual 通道 (目標) 更新365至2017中 ProPlus 的新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 在2017年9月之前，已針對延期通道的「半年通道」 (目標) 命名為第一次發行。
+> - 在2017年9月之前，Semi-Annual (目標) 為延期通道的第一版。
 
 ## <a name="version-1708-december-12"></a>版本1708：12月12日
 *版本 1708 (組建 8431.2131)*
@@ -194,7 +194,7 @@ ms.locfileid: "48370091"
 -   **新帳戶設定：** 使用新的精靈設定新帳戶，所需的手動步驟更少。
 -   **附加連結的對話方塊：** 在功能區使用「附加檔案」附加連結時，您可以選擇要將其新增為連結或作為附件傳送。如果您不希望每次都看到此對話方塊，請移至 [檔案] \> [選項] \> [一般]，並指定想要在 [附件選項] 下附加連結的方式。
 -   **內部部署附件的支援：** 內部部署 SharePoint 伺服器上的檔案會在 [訊息] \> [附加檔案] 下顯示為最近使用的檔案，而內部部署商務用 OneDrive 和 SharePoint 團隊網站會顯示在 [附加檔案] \> [瀏覽網頁位置]，此外本機檔案可以上傳至內部部署商務用 OneDrive 網站。
--   **群組的業務分類︰** 租用戶系統管理員定義的業務分類層級 (如機密)，可在建立或編輯群組時指派，且該分類會顯示在群組標題中。
+-   **群組的業務分類︰**  租用戶系統管理員定義的業務分類層級 (如機密)，可在建立或編輯群組時指派，且該分類會顯示在群組標題中。
 -   **來賓存取 Office 365 群組︰** 透過授予存取組織對話、檔案、行事曆邀請和群組筆記本的存取權限，與組織外部的人員協同合作。 [詳細資訊](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **可採取動作的訊息︰** 開發人員可以建立訊息，讓使用者可以從 Outlook 輕鬆採取簡單或快速的動作，而不需要切換至外部網站或個別的應用程式。[詳細資訊](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -248,7 +248,7 @@ ms.locfileid: "48370091"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696)：Microsoft 圖形元件遠端程式碼執行
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
--   新增對話方塊，說明特定連接埠被封鎖或 IP 未列入白名單時，使用者為何無法加入會議。
+-   新增對話方塊說明當某些埠遭到封鎖或不允許 IPs 時，使用者無法加入會議的原因。
 -   修正此問題：當您按一下 IM 交談分頁時，常設聊天室中的未讀訊息會標示成已讀。
 -   修正此問題：傳入的 IM 快顯通知會發生幾秒延遲。
 -   修正此問題：停用 Exchange 同步處理時，AD 連絡人會顯示為電話號碼，而不是連絡人名稱。
@@ -273,7 +273,7 @@ ms.locfileid: "48370091"
 -   修正此問題：在成功加入會議前，空白的對話視窗都不會出現。
 -   修正此問題：若職稱欄位空白，則搜尋結果中連絡人卡片上的部門欄位資訊也會空白。
 -   修正此問題：從內部部署移轉到線上的使用者，會因為防火牆規則而造成登入失敗。
--   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端，用戶端會將 OAuthUsed 登錄機碼重設為 False。 若要修正此問題，請將 HKEY \_ 目前 \_ 使用者 \\ 軟體 \\ Microsoft \\ Office \\ 16.0 \\ Lync \\ \<SipID\> 底下的值設為 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 1。
+-   新增新的 DWORD 登錄機碼來修正此問題：當使用者從執行 LyncAutoD 的外部網路登入用戶端，用戶端會將 OAuthUsed 登錄機碼重設為 False。 若要修正此問題，請將 HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\>下的 EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket 值設定為 1。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
 -   **從 Excel 資料製作圖表︰** 使用新的「資料視覺化工具」範本，從 Excel 資料自動建立「基本流程圖」或「交互功能流程圖」。 [詳細資訊](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
@@ -388,7 +388,7 @@ ms.locfileid: "48370091"
 -   **大型數字 (bigint) 支援︰** 使用 Access 表格中的大型數字資料類型來計算大型數字，並且連結至或從使用相同資料類型 (例如 SQL Server 中的 bigint) 的外部資料庫匯入。 [詳細資訊](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **Windows 資訊保護 (WIP) 支援：**   現在，Excel 是 enlightened 應用程式，而且可根據設定的原則，視公司和個人資料而定，以正確判斷要保護的目標。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** Excel 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
 -   **「取得與轉換」功能的改善︰** 在查詢編輯器中，藉由提供範例值來建立新資料行。隨著您鍵入，Excel 會偵測所需的轉換並顯示新資料行的預覽。
 -   **插入最近的連結︰** 輕鬆地將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **個人化預設樞紐分析表版面配置︰** 依您喜好的方式設定樞紐分析表，並在每次建立新的樞紐分析表時，以該版面配置開始作業。 [詳細資訊](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -402,7 +402,7 @@ ms.locfileid: "48370091"
 -   **使用畫筆來選取及變更物件︰** 使用數位畫筆選取物件控點，來調整大小、旋轉、移動以及執行更多動作。
 -   **地圖圖表：** 比較數值及顯示跨地理區域的類別。 [詳細資訊](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 影像：** 插入並編輯活頁簿內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存活頁簿至最近使用的資料夾。
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯活頁簿的支援已獲改善。 [詳細資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -429,7 +429,7 @@ ms.locfileid: "48370091"
 -   修正此問題：當畫面中有許多段落時，OneNote 畫布會隱藏內容或更新。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **Windows 資訊保護 (WIP) 支援：**   Outlook 現在是 enlightened 應用程式，而且可以根據設定的原則，視公司和個人資料而定，以正確判斷要保護的目標。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** Outlook 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
@@ -437,7 +437,7 @@ ms.locfileid: "48370091"
 -   **設定附件的權限：** 針對 OneDrive 或 SharePoint 的附件，使用者可以設定收件者不論在組織內部或外部，是否有讀取或編輯文件的權限。
 -   **可釘選的工作窗格：** 在信箱中切換郵件時，讓增益集工作窗格保持開啟。 [詳細資訊](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG 影像：** 插入並編輯電子郵件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106)：Microsoft Outlook 遠端程式碼執行弱點
@@ -454,13 +454,13 @@ ms.locfileid: "48370091"
 -   修正此問題：從使用高 DPI 的電腦傳送時，訊息中的影像會遭到封鎖。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **Windows 資訊保護 (WIP) 支援：**   PowerPoint 現在是 enlightened 應用程式，而且可以區分公司與個人資料，並根據設定的原則，正確決定要保護的功能。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** PowerPoint 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **增益集的集中式部署**：系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **共同撰寫時的即時輸入：** 查看其他人在簡報中的運作方式，並在輸入時查看變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
@@ -473,7 +473,7 @@ ms.locfileid: "48370091"
 
 ### <a name="project-feature-updates"></a>Project：功能更新
 -   **設定前置任務的快速下拉式清單︰** 您可以使用甘特圖下拉式清單選擇您想要連結至任務的前置任務或後續任務。
--   **任務摘要名稱：**  唯讀任務欄位，顯示任務的摘要任務名稱。  
+-   **任務摘要名稱︰**  顯示任務摘要任務名稱的唯讀任務欄位。  
 
 ### <a name="project-non-security-updates"></a>Project：非安全性更新
 -   修正了 [建立專案網站] 對話方塊，以顯示網站的正確位置；現在 Microsoft Project Online 中每個企業專案範本 (EPT) 都會有自己的專案網站 URL。
@@ -515,7 +515,7 @@ ms.locfileid: "48370091"
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **插入連結：** 將連結新增至 IM 與群組聊天中，並提供連結的易記文字而非完整的 URL。
 -   **共用畫面的通知：** 在 IM 交談中共用畫面時，或在您離開會議之後仍繼續共用畫面時，對話視窗中所顯示的通知。該通知會提醒您仍在共用畫面，並方便您藉由「停止共用」按鈕來停止共用。
--   **Windows 資訊保護 (WIP) 支援：** 現在已支援商務用 Skype 作為「僅適用於 WIP (WIP Work Only)」應用程式。透過在您允許的應用程式清單中加入 Skype，向 Windows 指示其不處理個人資料。Windows 會代表商務用 Skype 保護資料。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** 現在已支援商務用 Skype 作為「僅適用於 WIP (WIP Work Only)」應用程式。透過在您允許的應用程式清單中加入 Skype，向 Windows 指示其不處理個人資料。Windows 會代表商務用 Skype保護資料。 [詳細資訊](https://aka.ms/wiptechnet)
 -   **密碼重設選項：** 當使用者至少登入失敗一次時，登入視窗會顯示 [重設] 按鈕連結。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
@@ -564,15 +564,15 @@ ms.locfileid: "48370091"
 -   **投影片的程式碼片段︰** 擷取 Visio 繪圖的程式碼片段，並將其匯出為 PowerPoint 投影片。 [詳細資訊](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **Windows 資訊保護 (WIP) 支援：**   Word 現在是 enlightened 應用程式，可根據設定的原則，視公司和個人資料而定，以正確決定要保護的功能。  [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** Word 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
--   **增益集的集中式部署**：系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。  [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **增益集的集中式部署** 系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **並排：** 在整頁模式檢視中，將頁面如同一疊紙張般並排滑動以進行導覽。 [詳細資訊](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **使用畫筆來選取及變更物件︰** 使用數位畫筆選取物件控點，來調整大小、旋轉、移動以及執行更多動作。
 -   **SVG 影像：** 插入並編輯文件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存文件至最近使用的資料夾。
 -   **透過學習工具來改善閱讀：** 在閱讀模式中，透過調整字距、顯示音節之間的停頓，以及在大聲朗讀文件時，反白顯示每個字的新命令來提升閱讀技巧。 [詳細資訊](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **圖形辨識︰** 使用 [繪圖] \> [轉換為圖形] 自動將繪圖轉換成圖形。 [詳細資訊](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -581,8 +581,8 @@ ms.locfileid: "48370091"
 -   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 記憶體損毀弱點
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 遠端程式碼執行弱點
--   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 遠端程式碼執行弱點 
--   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 遠端程式碼執行弱點  
+-   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 遠端程式碼執行弱點 
+-   [CVE-2017-8509](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8509)：Microsoft Office 遠端程式碼執行弱點  
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：使用者無法搜尋 PST 檔案。

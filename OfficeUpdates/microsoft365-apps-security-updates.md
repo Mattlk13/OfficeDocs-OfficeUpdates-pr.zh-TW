@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
-ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
+ms.openlocfilehash: f260cdf331ad730f8fade30fc64e76fa79a5df58
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50177935"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595557"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -31,6 +31,44 @@ ms.locfileid: "50177935"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="march-09-2021"></a>2021 年 3 月 9 日
+目前通道：版本 2102 (組建 13801.20294)  
+每月企業通道：版本 2101 (組建 13628.20528)  
+每月企業通道：版本 2012 (組建 13530.20628)  
+半年企業通道 (預覽)：版本 2102 (組建 13801.20294)  
+半年企業通道：版本 2008 (組建 13127.21348)  
+半年企業通道：版本 2002 (組建 12527.21686)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.21686)  
+Office 2019 零售版：版本 2102 (組建 13801.20294)  
+Office 2016 零售版：版本 2102 (組建 13801.20294)  
+Office 2019 大量授權版：版本 1808 (組建 10372.20060)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27057)
+-   [CVE-2021-27053](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27053)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2021-27056](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27056)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-27055](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27055)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-27058](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27058)
+-   [CVE-2021-24108](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-24108)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="february-09-2021"></a>2021 年 2 月 9 日
 目前通道：版本 2101 (組建 13628.20380)  

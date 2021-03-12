@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 60461742e857889e5249688f53c385e649cd7ff0
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 5ffdf62947e83412588e8b1ea8eb2c419672b59c
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455759"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595577"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -36,42 +36,53 @@ ms.locfileid: "50455759"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="march-9-2021"></a>2021 年 3 月 9 日
 
-## <a name="march-4-2021"></a>2021 年 3 月 4 日
+[//]: # (DO NOT REMOVE CONTENT STARTMarch 9, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2102 (組建 13801.20294)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.20266) <br/> |2021 年 3 月 1 日 <br/> |56<br/> |
+|版本 2101 (組建 13628.20448) <br/> |2021 年 2 月 16 日 <br/> |193<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2101 (組建 13628.20526)。</i>
+最新的版本是版本 2101 (組建 13628.20528)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2012 (組建 13530.20528) <br/> |2021 年 2 月 9 日 <br/> |203<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2102 (組建 13801.20274)。</i>
+最新的版本是版本 2102 (組建 13801.20294)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2008 (組建 13127.21216) <br/> |2021 年 2 月 9 日 <br/> |280<br/> |
-|版本 2008 (組建 13127.21064) <br/> |2021 年 1 月 12 日 <br/> |533<br/> |
+|版本 2008 (組建 13127.21064) <br/> |2021 年 1 月 12 日 <br/> |534<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2008 (組建 13127.21322)。</i>
+最新的版本是版本 2008 (組建 13127.21348)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2008 (組建 13127.21216) <br/> |2021 年 2 月 9 日 <br/> |382<br/> |
+|版本 2008 (組建 13127.21216) <br/> |2021 年 2 月 9 日 <br/> |43<br/> |
 |版本 2008 (組建 13127.21064) <br/> |2021 年 1 月 12 日 <br/> |61<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDMarch 9, 2021)
+
+
+
 
 ## <a name="march-1-2021"></a>2021 年 3 月 1 日
 

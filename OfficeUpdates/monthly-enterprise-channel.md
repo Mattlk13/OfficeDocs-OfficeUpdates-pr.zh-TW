@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 98d9d851ca126b816185e4eb2f1b9d5237ac1ec9
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: e3ad3bb5d2265b8aa56346e87c1a835d52c6e579
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455779"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595567"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
@@ -26,6 +26,70 @@ ms.locfileid: "50455779"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2101-march-09"></a>版本 2101：3 月 9 日
+*版本 2101 (組建 13628.20528)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致加密圖示無法對使用僅加密選項傳送的電子郵件顯示的問題。
+
+
+- 我們已修正會導致在使用者取消選取數位簽章選項之後，仍以數位簽章方式傳送郵件的問題。
+
+
+- 我們已修正會導致在 OWA 中顯示正確的預設簽章時發生問題的問題。
+
+
+- 我們已修正會導致雲端設定使用者在更新設定時遇到懸置的問題。
+
+
+- 我們已修正使用者在 Outlook 中進行搜尋時，有時候會導致應用程式未預期關閉的問題。
+
+
+- 我們已修正會導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到懸置的問題。
+
+
+- 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 未預期關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+
+
+- 已修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
+
+
+- 已修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正與媒體控制器事件通知相關的問題。
+
+
+- 修正與媒體播放程式引擎時間相關的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2012-march-09"></a>版本 2012：3 月 9 日
+*版本 2012 (組建 13530.20628)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2012-february-09"></a>版本 2012：2 月 9 日
 *版本 2012 (組建 13530.20528)*
@@ -84,7 +148,7 @@ ms.locfileid: "50455779"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 已修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
@@ -99,7 +163,7 @@ ms.locfileid: "50455779"
 - 已修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
 
 
-- 我們修正了破壞了一些舊的 Excel 4.0 和 Excel 5.0 巨集以及一些對 dialogsheets.show 的 VBA 呼叫的問題。
+- 我們已修正破壞了一些舊的 Excel 4.0 和 Excel 5.0 巨集以及一些對 dialogsheets.show 的 VBA 呼叫的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -113,7 +177,7 @@ ms.locfileid: "50455779"
 - 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
 
 
-- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -121,10 +185,10 @@ ms.locfileid: "50455779"
 - 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -135,7 +199,7 @@ ms.locfileid: "50455779"
 - 優化的二進位大小。
 
 
-- 修正了檔案關閉順序，使所有相互依存的元件都能正常關閉。
+- 已修正檔案關閉順序，使所有相互依存的元件都能正常關閉。
 
 
 
@@ -209,7 +273,7 @@ ms.locfileid: "50455779"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 已修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
@@ -226,7 +290,7 @@ ms.locfileid: "50455779"
 - 已修正當回覆含有「Azure 資訊保護」保護標籤的郵件時，導致內嵌影像消失的問題。
 
 
-- 我們已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
+- 我們已修正會導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
 
 
 - 我們已修正傳送任務中的狀態報表時，導致 [收件者] 欄位為空白的問題。
@@ -279,7 +343,7 @@ ms.locfileid: "50455779"
 - 已修正當快取中的 URL 與 OneDrive 中的 URL 不相符時，檔案將被開啟為 NOT SyncBacked 的問題。
 
 
-- 我們修正了 SaveRequestManagerCam 導致應用程式會關閉，而非回傳錯誤的問題。
+- 我們已修正 SaveRequestManagerCam 導致應用程式會關閉，而非回傳錯誤的問題。
 
 
 
@@ -343,10 +407,10 @@ ms.locfileid: "50455779"
 - 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。  REG_DWORD IncludeFileTimesInDataObject。  0 = 不包含 filetimes。  1 = (預設) 包含 filetimes。
 
 
-- 我們已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
+- 我們已修正會導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
 
 
-- 我們修正了導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+- 我們已修正導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
 
 
 - 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
@@ -392,7 +456,7 @@ ms.locfileid: "50455779"
 - 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
 
 
-- 修正了將註解中的文字複製/貼上到 Excel 時出錯的問題。
+- 已修正將註解中的文字複製/貼上到 Excel 時出錯的問題。
 
 
 - 已修正在某些情況下，嘗試執行另存新檔失敗的問題。
@@ -452,7 +516,7 @@ ms.locfileid: "50455779"
 - 解決了導致某些使用者觀察到在離線狀態下意外啟動 Outlook 的問題。
 
 
-- 已解决搜尋未快取共用行事曆時導致搜尋未傳回結果的問題。
+- 已解決搜尋未快取共用行事曆時導致搜尋未傳回結果的問題。
 
 
 - 我們已修正導致使用者在選取搜尋結果時遇到意外終止的問題。
@@ -463,10 +527,10 @@ ms.locfileid: "50455779"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正了在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
+- 已修正在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
 
 
-- 已解决在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題。
+- 已解決在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題。
 
 
 - 我們已修正 Forms 內容增益集在插入之後不會呈現，除非使用者按一下另一張投影片讓它顯示才會呈現的問題。
@@ -485,7 +549,7 @@ ms.locfileid: "50455779"
 
 ### <a name="word"></a>Word
 
-- 我們修正了 [樣式圖庫] 對話方塊的問題。
+- 我們已修正 [樣式圖庫] 對話方塊的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -617,7 +681,7 @@ ms.locfileid: "50455779"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+- 已解決此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
 
 
 - 此變更可修正當啟動縮放控制方塊 (Shift + F2) 以編輯文字時，可能會導致 Access 當機的問題。
@@ -634,7 +698,7 @@ ms.locfileid: "50455779"
 - 修正在凍結工作表頂端列之後，使用「快速分析」時 Excel 可能會當機的問題。
 
 
-- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+- 我們已修正使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
 
 
 - 修正使用「複製格式」時，在某些情況中 Excel 可能會當機的問題。
@@ -675,13 +739,13 @@ ms.locfileid: "50455779"
 - 解決會導致使用者無法按一下角落中的 "X" 來關閉共用行事曆的問題。
 
 
-- 修正了新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+- 已修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
 
 
 - 解決了當代理人在某些情況下遭到拒絕而導致會議無法從經理的行事曆中移除的問題。
 
 
-- 解决了導致使用 Shared Calendar Improvements 的某些使用者無法查看剛新增的共用行事曆的問題。
+- 解決了導致使用 Shared Calendar Improvements 的某些使用者無法查看剛新增的共用行事曆的問題。
 
 
 - 解決會導致 [開啟共用行事曆改良] 設定有時候無法套用至現有共用行事曆的問題。
@@ -692,7 +756,7 @@ ms.locfileid: "50455779"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們修正了在 PowerPoint 應用程式中導致當機的問題。
+- 我們已修正在 PowerPoint 應用程式中導致當機的問題。
 
 
 - 安全性修正程式，可解決在受保護檢視中開啟 PowerPoint 檔案時會停用 IRM 保護的問題。
@@ -1194,7 +1258,7 @@ ms.locfileid: "50455779"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正了當嘗試硬連結符號連結時，導致更新失敗的 [點擊運作] 問題。
+- 已修正當嘗試硬連結符號連結時，導致更新失敗的 [點擊運作] 問題。
 
 - 當您啟用增益集，而登錄金鑰 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 被設為零時，辦公主機視窗會當機。 這變更將修正此問題。
 
@@ -1358,7 +1422,7 @@ ms.locfileid: "50455779"
 - 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
 
 
-- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+- 已修正當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 
 - 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。
@@ -1387,6 +1451,7 @@ ms.locfileid: "50455779"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)

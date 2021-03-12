@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: ae1c321ef15541e632da9e7e9d84c364f57c6858
-ms.sourcegitcommit: f67e9486398c358b4572720dc700aa98e3c0414f
+ms.openlocfilehash: 95b197a91dda728899ddebc6825fcd042180e805
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50455769"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595647"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,39 @@ ms.locfileid: "50455769"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
+*版本 2102 (組建 13801.20294)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在 Outlook 重新啟動之前，在功能窗格中看不到新增的行事曆顯示的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正對具有 3D 效果的圖示和 SVG 圖形套用色彩的問題。
+
+
+- 我們已修正可能會略過段落的朗讀程式問題。
+
+
+- 我們已修正 RTF 內容控制項的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -232,7 +265,7 @@ ms.locfileid: "50455769"
 - 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題
 
 
-- 我們修正了破壞了一些舊的 Excel 4.0和 Excel 5.0 巨集以及一些至 dialogsheets.show 的 VBA 呼叫。
+- 我們已修正破壞了一些舊的 Excel 4.0和 Excel 5.0 巨集以及一些至 dialogsheets.show 的 VBA 呼叫。
 
 
 ### <a name="outlook"></a>Outlook
@@ -240,18 +273,18 @@ ms.locfileid: "50455769"
 - 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="project"></a>Project
 
-- 修正了在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
+- 已修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
 
 
-- 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+- 已修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 已修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -265,7 +298,7 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 - 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
@@ -273,7 +306,7 @@ ms.locfileid: "50455769"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正了檔案關閉順序，使所有相互依存的元件都能正常關閉。
+- 已修正檔案關閉順序，使所有相互依存的元件都能正常關閉。
 
 
 
@@ -334,7 +367,7 @@ ms.locfileid: "50455769"
 - 已修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -344,13 +377,13 @@ ms.locfileid: "50455769"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
-- 我們修正了在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
+- 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -372,7 +405,7 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 已修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
@@ -397,7 +430,7 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="office-suite"></a>Office 套件
 
-- 我們修正了 SaveRequestManagerCam 導致應用程式會關閉，而非回傳錯誤的問題。 
+- 我們已修正 SaveRequestManagerCam 導致應用程式會關閉，而非回傳錯誤的問題。 
 
 
 
@@ -412,7 +445,7 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+- 我們已修正導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
 
 
 - 我們已修正導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
@@ -525,16 +558,16 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 已修正在傳送工作的狀態報告時，造成 [收件者] 欄位為空白的問題。
+- 我們已修正在傳送工作的狀態報告時，造成 [收件者] 欄位為空白的問題。
 
 
-- 已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
+- 我們已修正會導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
 
 
 - 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含內容。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。 REG_DWORD IncludeFileTimesInDataObject。 0 = 不包含 filetimes。 1 = (預設) 包含 filetimes。
 
 
-- 已修正當回覆含有「Azure 資訊保護」保護標籤的郵件時，導致內嵌影像消失的問題。
+- 我們已修正當回覆含有「Azure 資訊保護」保護標籤的郵件時，導致內嵌影像消失的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -542,7 +575,7 @@ ms.locfileid: "50455769"
 - 已修正 Slide.Shapes.AddMediaObject2 會對舊版影片格式 (MPG-1、Mpeg-2) 發生當機的 VBA 問題。
 
 
-- 已修正在複製含有新錄製音訊的投影片後，儲存檔案時發生錯誤的問題。
+- 我們已修正在複製含有新錄製音訊的投影片後，儲存檔案時發生錯誤的問題。
 
 
 - 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
@@ -564,7 +597,7 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
+- 我們已修正會導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
 
 
 - 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含內容。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。  REG_DWORD IncludeFileTimesInDataObject。  0 = 不包含 filetimes。  1 = (預設) 包含 filetimes。
@@ -577,7 +610,7 @@ ms.locfileid: "50455769"
 
 ### <a name="visio"></a>Visio
 
-- 已修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
+- 我們已修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -760,7 +793,7 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 解决了搜尋未緩存共用行事曆時導致搜尋不傳回結果的問題。
+- 解決了搜尋未緩存共用行事曆時導致搜尋不傳回結果的問題。
 
 
 - 解決了導致某些使用者觀察到在離線狀態下意外啟動 Outlook 的問題。
@@ -771,7 +804,7 @@ ms.locfileid: "50455769"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 解决在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題的安全性問題修正。
+- 解決在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題的安全性問題修正。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -821,7 +854,7 @@ ms.locfileid: "50455769"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正了在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
+- 已修正在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
 
 
 ### <a name="project"></a>Project
@@ -831,7 +864,7 @@ ms.locfileid: "50455769"
 
 ### <a name="word"></a>Word
 
-- 我們修正了 [樣式圖庫] 對話方塊的問題。
+- 我們已修正 [樣式圖庫] 對話方塊的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -853,10 +886,10 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
+- 已修正當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
 
 
-- 修正了當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
+- 已修正當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -869,7 +902,7 @@ ms.locfileid: "50455769"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們修正了在 PowerPoint 應用程式中導致當機的問題。
+- 我們已修正在 PowerPoint 應用程式中導致當機的問題。
 
 
 ### <a name="visio"></a>Visio
@@ -879,7 +912,7 @@ ms.locfileid: "50455769"
 
 ### <a name="word"></a>Word
 
-- 我們修正了 [樣式圖庫] 對話方塊的問題。
+- 我們已修正 [樣式圖庫] 對話方塊的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -972,20 +1005,20 @@ ms.locfileid: "50455769"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+- 已解決此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
 
 
 ### <a name="outlook"></a>Outlook
 
 - 修正導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
 
-- 修正了新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+- 已修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
 
 - 解決了當代理人在某些情況下遭到拒絕而導致會議無法從經理的行事曆中移除的問題。
 
-- 解决了導致使用 Shared Calendar Improvements 的某些使用者無法查看剛新增的共用行事曆的問題。
+- 解決了導致使用 Shared Calendar Improvements 的某些使用者無法查看剛新增的共用行事曆的問題。
 
-- 修正了當與雲端附件互動時，導致使用者偶爾當機的問題。
+- 已修正當與雲端附件互動時，導致使用者偶爾當機的問題。
 
 - 解決了導致某些字元集的使用者在將 [智慧型連結] 新增至 SharePoint 檔案時，發現檔案名不正確的問題。
 
@@ -995,7 +1028,7 @@ ms.locfileid: "50455769"
 
 - 解決導致 [排程助理員] 頁面無法顯示的問題。
 
-- 修正了編輯收件者時，導致使用者偶爾當機的問題。
+- 已修正編輯收件者時，導致使用者偶爾當機的問題。
 
 - 修正導致使用者在使用壓縮模式時發生異常的問題。
 
@@ -1750,7 +1783,7 @@ ms.locfileid: "50455769"
 
 ### <a name="project"></a>Project
 
-- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+- 已修正當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 
 
@@ -2086,6 +2119,7 @@ ms.locfileid: "50455769"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
@@ -2095,5 +2129,4 @@ ms.locfileid: "50455769"
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
