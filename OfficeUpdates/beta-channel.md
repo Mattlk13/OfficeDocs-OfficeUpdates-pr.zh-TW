@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
-ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
+ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
+ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50505665"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50756259"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,38 @@ ms.locfileid: "50505665"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2104-march-12"></a>版本 2104：3 月 12 日
+*版本 2104 (組建 13906.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **在 PowerPoint 中插入 Flipgrid 影片：** PowerPoint 現在支援在投影片中插入 Flipgrid 影片。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當檔案儲存為 PDF 文件時，使用 [超連結] 函數所建立的超連結無法運作的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正共同撰寫時的註解問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-march-05"></a>版本 2103：3 月 5 日
 *版本 2103 (組建 13901.20036)*
@@ -1407,7 +1439,7 @@ ms.locfileid: "50505665"
 
 - 我們已修正一個問題, 即如果您開啟包含LET 函數的檔案，它會顯示警示：”我們在您的檔案.xlsx 中發現內容有問題”。 您想要我們儘量嘗試復原嗎？ 如果您信任這個活頁簿的來源，請按一下 [是]。
 - 我們已修正與 XLAM 增益集參照和命名範圍相關的問題。
-- 我們修正了使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
+- 我們已修正使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
 - 我們已修正一個問題: 如果使用者將自訂樣式套用至動態陣列, 他們則會收到錯誤提示：「您無法變更陣列的一部分」。 這是舊版限制，已移除。
 - 我們已修正 Excel 公式列與設備失去連線後無法完全呈現的問題，例如遠端會話的連線/斷線或監視器變更。
 
@@ -2674,6 +2706,7 @@ ms.locfileid: "50505665"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
@@ -2683,5 +2716,4 @@ ms.locfileid: "50505665"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
