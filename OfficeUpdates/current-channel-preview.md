@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: f2b162d7f9195efb4ad58d37ce15642307b5696b
+ms.sourcegitcommit: f17a5deca413fadd5cd18bca76e9d4e740715a07
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741636"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50829227"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,38 @@ ms.locfileid: "50741636"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2103-march-15"></a>版本 2103：3 月 15 日
+*版本 2103 (組建 13901.20170)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 已修正 Visio 在關閉期間可能會停止運作的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 已修正 Visio 在關閉期間可能會停止運作的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-march-12"></a>版本 2103：3 月 12 日
+*版本 2103 (組建 13901.20148)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **不在辦公室狀態** 設定訊息，讓其他人知道您不在工作狀態或是休假中，因此當他們傳送聊天訊息給您時，您無法回覆。 您的不在辦公室狀態也會與您 Outlook 日曆中的自動回覆同步。
+
+[//]: # (DO NOT REMOVE)
+
 
 ## <a name="version-2103-march-11"></a>版本 2103：3 月 11 日
 *版本 2103 (組建 13901.20148)*
@@ -2908,7 +2940,7 @@ ms.locfileid: "50741636"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
