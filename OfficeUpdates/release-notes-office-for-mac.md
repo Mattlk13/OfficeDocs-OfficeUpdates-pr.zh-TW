@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
-ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
+ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50425741"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837521"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -53,6 +53,45 @@ ms.locfileid: "50425741"
 
 
 
+
+
+
+## <a name="march-16-2021"></a>2021 年 3 月 16 日
+*版本 16.47 (組建 21031401)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **使用 Excel 資料類型從 Power BI 取得組織資料：** 您可以使用 Excel 資料類型插入貴組織的資料。 轉換您活頁簿中的儲存格、取得其他資訊，並在您需要時，重新更新資料！
+
+### <a name="powerpoint-mac"></a>PowerPoint Mac
+
+- **使用全新改良的錄製投影片放映錄製簡報：** 錄製投影片放映現在支援簡報者視訊錄製、筆跡錄製和雷射筆錄製。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/record-slide-show-updates-powerpoint-mac)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **使用語音命令聽寫您的文件：** 新的聽寫工具列、語音命令和自動標點符號，讓使用語音建立內容變得快速且簡單。 [深入了解](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-27057)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="february-16-2021"></a>2021 年 2 月 16 日
 *版本 16.46 (組建 21021202)*
