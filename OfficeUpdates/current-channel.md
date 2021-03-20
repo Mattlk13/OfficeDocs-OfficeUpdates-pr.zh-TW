@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735158"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902168"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,42 @@ ms.locfileid: "50735158"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-18"></a>版本 2102：3 月 18 日
+*版本 2102 (組建 13801.20360)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此變更可修正在某些情況下，執行 SQL Server 傳遞查詢時，可能會導致錯誤訊息指出「無效的 Cursor 狀態」的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致雲端設定功能的使用者在新裝置上設定 Outlook 之後，會看到自訂設定遭到預設設定覆寫的問題。
+
+
+- 我們已修正會導致使用者看到較預期更多的簽章的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在隱藏段落結尾輸入可能會導致應用程式懸置的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- 已修正使用者在開啟先前開啟的檔案具有未儲存的編輯但現在檔案已遭到刪除時，無法儲存檔案的問題。 修正之後，使用者將會收到一則友善的訊息，通知他們已刪除該檔案，因此使用者可以選擇捨棄變更，或將檔案另存為新檔。
+
+
+- 我們已修正與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
 
 
 
@@ -274,7 +310,7 @@ ms.locfileid: "50735158"
 - 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="project"></a>Project
@@ -282,10 +318,10 @@ ms.locfileid: "50735158"
 - 已修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
 
 
-- 已修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+- 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 已修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -299,7 +335,7 @@ ms.locfileid: "50735158"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 - 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
@@ -384,7 +420,7 @@ ms.locfileid: "50735158"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 - 此變更解決了在方程式中正確顯示字型的問題。
@@ -412,7 +448,7 @@ ms.locfileid: "50735158"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
@@ -861,7 +897,7 @@ ms.locfileid: "50735158"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
+- 修正了在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
 
 
 ### <a name="project"></a>Project
@@ -1014,7 +1050,7 @@ ms.locfileid: "50735158"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 已解決此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
 
 
 ### <a name="outlook"></a>Outlook
@@ -1027,7 +1063,7 @@ ms.locfileid: "50735158"
 
 - 解決了導致使用 Shared Calendar Improvements 的某些使用者無法查看剛新增的共用行事曆的問題。
 
-- 已修正當與雲端附件互動時，導致使用者偶爾當機的問題。
+- 修正了當與雲端附件互動時，導致使用者偶爾當機的問題。
 
 - 解決了導致某些字元集的使用者在將 [智慧型連結] 新增至 SharePoint 檔案時，發現檔案名不正確的問題。
 
@@ -1037,7 +1073,7 @@ ms.locfileid: "50735158"
 
 - 解決導致 [排程助理員] 頁面無法顯示的問題。
 
-- 已修正編輯收件者時，導致使用者偶爾當機的問題。
+- 修正了編輯收件者時，導致使用者偶爾當機的問題。
 
 - 修正導致使用者在使用壓縮模式時發生異常的問題。
 
@@ -1792,7 +1828,7 @@ ms.locfileid: "50735158"
 
 ### <a name="project"></a>Project
 
-- 已修正當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 
 
@@ -2128,6 +2164,7 @@ ms.locfileid: "50735158"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
@@ -2137,5 +2174,4 @@ ms.locfileid: "50735158"
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

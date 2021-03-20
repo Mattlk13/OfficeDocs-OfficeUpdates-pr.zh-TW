@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
-ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
+ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50756259"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902138"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,36 @@ ms.locfileid: "50756259"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2104-march-19"></a>版本 2104：3 月 19 日
+*版本 2104 (組建 13913.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此變更可修正在某些情況下，執行 SQL Server 傳遞查詢時，可能會導致錯誤訊息指出「無效的 Cursor 狀態」的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正如果日期格式為 W4/4，日期選擇器可能會顯示錯誤的日期和年份的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正在 Office 中支援 GDI+ LineJoinMiterClipped 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2104-march-12"></a>版本 2104：3 月 12 日
 *版本 2104 (組建 13906.20000)*
@@ -2706,6 +2736,7 @@ ms.locfileid: "50756259"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
@@ -2715,5 +2746,4 @@ ms.locfileid: "50756259"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
