@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 3ce9f8f366510103d47ae34dad4dffa060d5dccd
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421368"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902192"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,22 @@ ms.locfileid: "50421368"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2021-release"></a>2021 年 3 月版本
+
+**發行日期：** 2021 年 3 月 17 日
+
+*Microsoft AutoUpdate 4.33*
+
+**錯誤修正及增強功能：**
+- MAU 檢查更新時，現在會停用 MAU GUI 上的 [檢查中...] 按鈕。
+- 「更新已在進行中」提示現在會提供其他資訊。
+- MAU UI 會在下載更新時顯示正確的更新大小。
+- MAU 現在可在不含 Rosetta 的 M1 macOS 裝置上安裝。
+
+[下載 Microsoft AutoUpdate 4.33 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
 
 ## <a name="february-2021-release"></a>2021 年 2 月版本
 
@@ -178,8 +194,8 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 **錯誤修正及增強功能：**
 - 偵測應用程式終止，並自動移除與「開啟的應用程式」相關的顯示對話方塊。
 - 還原 4 月版本中所推出，關閉了自動更新的使用者，只會每週看到 Microsoft AutoUpdate UI 一次的功能。
-- 已修正下載更新之後，在安裝前更新小幫手終止的問題。
-- 已修正以下問題：在使用者通知擱置的情況下，更新小幫手長時間未終止。
+- 已修正更新小幫手於下載更新之後、安裝開始前未預期關閉的問題。
+- 已修正更新小幫手在拖延的擱置中使用者通知期間後未關閉的問題。
 - 修正安裝後，MAU UI 重新開啟 (或未重新開啟) 的問題。 如果更新是從 MAU UI 本身啟動，或如果更新是由使用者明確啟動 (透過 Finder、終端機等)，安裝後 UI 應會開啟。
 
 **SHA-256 雜湊：**
@@ -405,7 +421,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **功能更新：**
 
-- 二進位差異更新：針對 SSD 裝置推出較少量的更新，進而減少由於更新造成的頻寬使用量。
+- 二進位差異更新：針對 SSD 裝置推出較少量的更新，這麼做可減少由於更新造成的頻寬使用量。
 - 支援附屬應用程式：MAU 現在支援附屬應用程式，例如 Microsoft OneDrive。
 - 「複製時安裝」增強功能：更新複製現在更為穩健。
 
@@ -440,7 +456,7 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 
  **功能更新：**
 
-- 「複製時安裝」增強功能：針對 SSD 裝置，對使用中的應用程式推出複製時更新，因此可減少由於更新造成的應用程式停機時間。
+- 「複製時安裝」增強功能：針對 SSD 裝置，對使用中的應用程式推出複製時更新，這麼做可減少由於更新造成的應用程式停機時間。
 - 安裝最佳化：由於更新程序會使用平行化複製，將可減少應用程式停機時間。
 
 **SHA-256 雜湊：**

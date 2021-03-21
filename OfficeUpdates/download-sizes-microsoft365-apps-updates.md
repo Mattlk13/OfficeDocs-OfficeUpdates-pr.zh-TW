@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5ffdf62947e83412588e8b1ea8eb2c419672b59c
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 3bb4ff52e0a13b05b6e698ae87e59576fb7bfdc9
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595577"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902158"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -35,6 +35,22 @@ ms.locfileid: "50595577"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="march-18-2021"></a>2021 年 3 月 18 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTMarch 18, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2102 (組建 13801.20360)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.20294) <br/> |2021 年 3 月 9 日 <br/> |51<br/> |
+|版本 2102 (組建 13801.20266) <br/> |2021 年 3 月 1 日 <br/> |57<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDMarch 18, 2021)
 
 ## <a name="march-9-2021"></a>2021 年 3 月 9 日
 

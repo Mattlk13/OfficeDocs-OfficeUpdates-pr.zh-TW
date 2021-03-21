@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 5da2b7c6add96801fb1548a68ae0ba0378cf6c21
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603003"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902148"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -36,7 +36,7 @@ ms.locfileid: "50603003"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2102<br/>|13801.20294<br/>|2021 年 3 月 9 日<br/>|版本 2103 已推出<br/>|
+|目前通道<br/>|2102<br/>|13801.20360<br/>|2021 年 3 月 18 日<br/>|版本 2103 已推出<br/>|
 |每月企業通道<br/>|2101<br/>|13628.20528<br/>|2021 年 3 月 9 日<br/>|2021 年 5 月 11 日<br/>|
 |每月企業通道<br/>|2012<br/>|13530.20628<br/>|2021 年 3 月 9 日<br/>|2021 年 4 月 13 日<br/>|
 |半年企業通道 (預覽)<br/>|2102<br/>|13801.20294<br/>|2021 年 3 月 9 日<br/>|2021 年 9 月 14 日<br/>|
@@ -55,7 +55,8 @@ ms.locfileid: "50603003"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021 年|3 月 9 日|[版本 2102 (組建 13801.20294)](current-channel.md#version-2102-march-09)|[版本 2101 (組建 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[版本 2012 (組建 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[版本 2102 (組建 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[版本 2008 (組建 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[版本 2002 (組建 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
+|2021|3 月 18 日|[版本 2102 (組建 13801.20360)](current-channel.md#version-2102-march-18)| | | |
+|2021|3 月 9 日|[版本 2102 (組建 13801.20294)](current-channel.md#version-2102-march-09)|[版本 2101 (組建 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[版本 2012 (組建 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[版本 2102 (組建 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[版本 2008 (組建 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[版本 2002 (組建 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
 |2021 年|3 月 1 日|[版本 2102 (組建 13801.20266)](current-channel.md#version-2102-march-01)| | | |
 |2021 年|2 月 16 日|[版本 2101 (組建 13628.20448)](current-channel.md#version-2101-february-16)| | | |
 |2021 年|2 月 9 日|[版本 2101 (組建 13628.20380)](current-channel.md#version-2101-february-09)|[版本 2012 (組建 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[版本 2011 (組建 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[版本 2008 (組建 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[版本 2008 (組建 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[版本 2002 (組建 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[版本 1908 (組建 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|

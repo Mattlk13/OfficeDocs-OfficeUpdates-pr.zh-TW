@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837521"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902189"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -68,7 +68,7 @@ ms.locfileid: "50837521"
 
 - **使用 Excel 資料類型從 Power BI 取得組織資料：** 您可以使用 Excel 資料類型插入貴組織的資料。 轉換您活頁簿中的儲存格、取得其他資訊，並在您需要時，重新更新資料！
 
-### <a name="powerpoint-mac"></a>PowerPoint Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **使用全新改良的錄製投影片放映錄製簡報：** 錄製投影片放映現在支援簡報者視訊錄製、筆跡錄製和雷射筆錄製。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/record-slide-show-updates-powerpoint-mac)中查看詳細資料
 
