@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902178"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169482"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -35,8 +35,8 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 
  > [!NOTE]
-> - 自 2020年8月11日起，Office 2016 和 2019 的安全性更新（CVE 文章）會列在 [[安全性更新]](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) 頁面上，而不列在此頁面。 
-> - [固定生命週期原則](https://docs.microsoft.com/lifecycle/policies/fixed)支援 Office 2016 和 2019。 僅支援以下列出的最新批量許可和零售版本。
+> - 自 2020年8月11日起，Office 2016 和 2019 的安全性更新（CVE 文章）會列在 [[安全性更新]](./microsoft365-apps-security-updates.md) 頁面上，而不列在此頁面。 
+> - [固定生命週期原則](/lifecycle/policies/fixed)支援 Office 2016 和 2019。 僅支援以下列出的最新批量許可和零售版本。
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019 大量授權版本
@@ -153,9 +153,3 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 
 </details>
-
-
-
-
-
-

@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989932"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170192"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
 > [!IMPORTANT]
-> Office 2010 的支援已于2020年10月13日結束。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap)。 
+> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。 
 
 
 下列 Office 2010 產品會使用名為隨選即用的技術自動保持在最新狀態。
@@ -33,7 +33,7 @@ ms.locfileid: "48989932"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版本的 Office 2010 是 **14.0.7261.5000** ，也就是在 2020 10 月13日發行。
+> 最新版本的 Office 2010 是 **14.0.7261.5000**，也就是在 2020 10 月13日發行。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -132,9 +132,9 @@ ms.locfileid: "48989932"
 ||4 月 8 日  <br/> |14.0.7122.5000  <br/> |[KB 2955382](https://support.microsoft.com/kb/2955382) <br/> |
 ||2 月 12 日  <br/> |14.0.7113.5007  <br/> |[KB 2553378](https://support.microsoft.com/kb/2553378) <br/> |
 |2013  <br/> |5 月 14 日  <br/> |14.0.6137.5006  <br/> |[KB 2847265](https://support.microsoft.com/kb/2847265) <br/> |
-|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 資訊安全佈告欄 MS12-064](https://technet.microsoft.com/library/security/ms12-064) <br/> [Microsoft 資訊安全佈告欄 MS12-066](https://technet.microsoft.com/library/security/ms12-066) <br/> Office 2010 的定義更新  <br/> |
+|2012  <br/> |10 月 9 日  <br/> |14.0.6126.5003  <br/> |[Microsoft 資訊安全佈告欄 MS12-064](/security-updates/SecurityBulletins/2012/ms12-064) <br/> [Microsoft 資訊安全佈告欄 MS12-066](/security-updates/SecurityBulletins/2012/ms12-066) <br/> Office 2010 的定義更新  <br/> |
 ||3 月 13 日  <br/> |14.0.6117.5002  <br/> |Office 2010 的定義更新  <br/> |
-|2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 資訊安全佈告欄 MS11-089](https://technet.microsoft.com/library/security/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 垃圾郵件篩選的更新  <br/> |
+|2011  <br/> |12 月 13 日  <br/> |14.0.6114.5002  <br/> |[Microsoft 資訊安全佈告欄 MS11-089](/security-updates/SecurityBulletins/2011/ms11-089) <br/> [KB 2553439](https://support.microsoft.com/kb/2553439) <br/> Outlook 2010 垃圾郵件篩選的更新  <br/> |
 ||4 月 12 日  <br/> |14.0.5138.5002  <br/> |[KB 2466146](https://support.microsoft.com/kb/2466146) <br/> [KB 2519975](https://support.microsoft.com/kb/2519975) <br/> [KB 2519984](https://support.microsoft.com/kb/2519984) <br/> Office 2010 的定義更新  <br/> |
 ||2 月 9 日  <br/> |14.0.5130.5004  <br/> |Office 2010 的定義更新  <br/> |
 |2010  <br/> |12 月 14 日  <br/> |14.0.5130.5001  <br/> |[KB 2413186](https://support.microsoft.com/kb/2413186) <br/> [KB 2289078](https://support.microsoft.com/kb/2289078) <br/> [KB 2433299](https://support.microsoft.com/kb/2433299) <br/> Office 2010 的定義更新  <br/> |
@@ -147,5 +147,3 @@ ms.locfileid: "48989932"
 |2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (搶鮮版 (Beta))  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
 ||11 月 18 日  <br/> |14.0.4536.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> |
    
-  
-
