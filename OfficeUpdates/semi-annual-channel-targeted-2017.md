@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Semi-Annual 通道的發行資訊， (針對 Office 365 的目標) 版本 ProPlus 2017
-ms.openlocfilehash: 51a272f29ba9e68682285cb1de05e3964340d0f2
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 8a96d33a02d9e45bc107eff0e8461716d67796b1
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735168"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170002"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中 Semi-Annual 通道 () 目標的發行附注
 
@@ -248,7 +248,7 @@ ms.locfileid: "50735168"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696)：Microsoft 圖形元件遠端程式碼執行
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
--   新增對話方塊說明當某些埠遭到封鎖或不允許 IPs 時，使用者無法加入會議的原因。
+-   新增對話方塊，說明特定連接埠遭封鎖或 IP 不被允許時，使用者為何無法加入會議。
 -   修正此問題：當您按一下 IM 交談分頁時，常設聊天室中的未讀訊息會標示成已讀。
 -   修正此問題：傳入的 IM 快顯通知會發生幾秒延遲。
 -   修正此問題：停用 Exchange 同步處理時，AD 連絡人會顯示為電話號碼，而不是連絡人名稱。
@@ -388,7 +388,7 @@ ms.locfileid: "50735168"
 -   **大型數字 (bigint) 支援︰** 使用 Access 表格中的大型數字資料類型來計算大型數字，並且連結至或從使用相同資料類型 (例如 SQL Server 中的 bigint) 的外部資料庫匯入。 [詳細資訊](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **Windows 資訊保護 (WIP) 支援：** Excel 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** Excel 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **「取得與轉換」功能的改善︰** 在查詢編輯器中，藉由提供範例值來建立新資料行。隨著您鍵入，Excel 會偵測所需的轉換並顯示新資料行的預覽。
 -   **插入最近的連結︰** 輕鬆地將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **個人化預設樞紐分析表版面配置︰** 依您喜好的方式設定樞紐分析表，並在每次建立新的樞紐分析表時，以該版面配置開始作業。 [詳細資訊](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
@@ -407,7 +407,7 @@ ms.locfileid: "50735168"
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯活頁簿的支援已獲改善。 [詳細資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
+-   Microsoft 資訊安全佈告欄 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 的安全性更新 (3217868)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：以程式設計方式套用建立於 Excel 2010 或更早版本中的活頁簿時，Excel 不會設定工作表保護密碼。
@@ -423,19 +423,19 @@ ms.locfileid: "50735168"
 -   修正此問題：在圖表工作表上選擇表單控制項下拉式方塊時，Excel 會發生當機。
 
 ### <a name="onenote-feature-updates"></a>OneNote：功能更新
--   **Windows 資訊保護 (WIP) 支援：** OneNote 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** OneNote 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
 -   修正此問題：當畫面中有許多段落時，OneNote 畫布會隱藏內容或更新。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **Windows 資訊保護 (WIP) 支援：** Outlook 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** Outlook 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **檢查共用檔案的存取權︰** Outlook 會事先告訴使用者，收件者可能無法存取附加的 OneDrive 或 SharePoint 檔案，並建議如何修正這個問題。
 -   **設定附件的權限：** 針對 OneDrive 或 SharePoint 的附件，使用者可以設定收件者不論在組織內部或外部，是否有讀取或編輯文件的權限。
--   **可釘選的工作窗格：** 在信箱中切換郵件時，讓增益集工作窗格保持開啟。 [詳細資訊](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **可釘選的工作窗格：** 在信箱中切換郵件時，讓增益集工作窗格保持開啟。 [詳細資訊](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 -   **SVG 影像：** 插入並編輯電子郵件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
@@ -454,7 +454,7 @@ ms.locfileid: "50735168"
 -   修正此問題：從使用高 DPI 的電腦傳送時，訊息中的影像會遭到封鎖。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
--   **Windows 資訊保護 (WIP) 支援：** PowerPoint 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** PowerPoint 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **增益集的集中式部署**：系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -515,11 +515,11 @@ ms.locfileid: "50735168"
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **插入連結：** 將連結新增至 IM 與群組聊天中，並提供連結的易記文字而非完整的 URL。
 -   **共用畫面的通知：** 在 IM 交談中共用畫面時，或在您離開會議之後仍繼續共用畫面時，對話視窗中所顯示的通知。該通知會提醒您仍在共用畫面，並方便您藉由「停止共用」按鈕來停止共用。
--   **Windows 資訊保護 (WIP) 支援：** 現在已支援商務用 Skype 作為「僅適用於 WIP (WIP Work Only)」應用程式。透過在您允許的應用程式清單中加入 Skype，向 Windows 指示其不處理個人資料。Windows 會代表商務用 Skype保護資料。 [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** 現在已支援商務用 Skype 作為「僅適用於 WIP (WIP Work Only)」應用程式。透過在您允許的應用程式清單中加入 Skype，向 Windows 指示其不處理個人資料。Windows 會代表商務用 Skype保護資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **密碼重設選項：** 當使用者至少登入失敗一次時，登入視窗會顯示 [重設] 按鈕連結。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 圖形元件 (3148522) 的安全性更新 (4013075)
+-   Microsoft 資訊安全佈告欄 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 圖形元件 (3148522) 的安全性更新 (4013075)
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 遠端程式碼執行弱點
 -   [CVE-2017-0283](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0283)：Windows Uniscribe 遠端程式碼執行弱點
 -   [CVE-2017-8550](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8550)：商務用 Skype 遠端程式碼執行弱點
@@ -564,7 +564,7 @@ ms.locfileid: "50735168"
 -   **投影片的程式碼片段︰** 擷取 Visio 繪圖的程式碼片段，並將其匯出為 PowerPoint 投影片。 [詳細資訊](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word：功能更新
--   **Windows 資訊保護 (WIP) 支援：** Word 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](https://aka.ms/wiptechnet)
+-   **Windows 資訊保護 (WIP) 支援：** Word 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **插入最近的連結︰** 將超連結附加到最近使用的雲端型檔案或網站，並使用螢幕助讀程式為使用者建立有意義的顯示名稱。 [詳細資訊](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **增益集的集中式部署** 系統管理員可以從 Office 365 系統管理中心部署並更新使用者或群組的增益集。 [詳細資訊](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **杜拜字型：** 支援西歐語系以及使用阿拉伯文字集為主要語言的字型系列。 [詳細資訊](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -578,7 +578,7 @@ ms.locfileid: "50735168"
 -   **圖形辨識︰** 使用 [繪圖] \> [轉換為圖形] 自動將繪圖轉換成圖形。 [詳細資訊](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
+-   Microsoft 資訊安全佈告欄 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 的安全性更新 (3217868)
 -   [CVE-2017-0254](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0254)：Microsoft Office 記憶體損毀弱點
 -   [CVE-2017-0281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0281)：Microsoft Office 遠端程式碼執行弱點
 -   [CVE-2017-0292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0292)：Windows PDF 遠端程式碼執行弱點 
@@ -656,7 +656,7 @@ ms.locfileid: "50735168"
 -   修正此問題：無法關閉飛出視窗功能表。
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
+-   Microsoft 資訊安全佈告欄 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 的安全性更新 (3217868)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：插入超連結時，Excel 可能會當機。
@@ -677,10 +677,10 @@ ms.locfileid: "50735168"
 -   修正此問題：Publisher 不會顯示 CMYK TIF 影像。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS17-013](https://technet.microsoft.com/library/security/ms17-013)：Microsoft 圖形元件 (3148522) 的安全性更新 (4013075)
+-   Microsoft 資訊安全佈告欄 [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013)：Microsoft 圖形元件 (3148522) 的安全性更新 (4013075)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS17-014](https://technet.microsoft.com/library/security/ms17-014)：Microsoft Office 的安全性更新 (3217868)
+-   Microsoft 資訊安全佈告欄 [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014)：Microsoft Office 的安全性更新 (3217868)
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：使用特定的監視器設定時會耗用記憶體。
@@ -702,7 +702,7 @@ ms.locfileid: "50735168"
 -   **變更色彩：** 請使用 [操作說明搜尋] 來設定字型、醒目提示、圖形填滿等等。 [詳細資訊](https://support.office.com/article/5bab7082-b772-427c-a106-14ae46f8687f)
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
+-   Microsoft 資訊安全佈告欄 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：Office 佈景主題設定為黑色時，若在 [活頁簿查詢] 窗格中，以滑鼠右鍵按一下查詢時，會出現「未預期的錯誤」錯誤訊息。
@@ -821,7 +821,7 @@ ms.locfileid: "50735168"
 -   修正此問題：在 IM 訊息中擇類似 \\\\servername 或 file:// 的連結時，會導致錯誤訊息而不會開啟位置。
 -   修正此問題：在使用位置型路由的虛擬桌面基礎結構 (VDI) 環境中，使用者無法進行或接收 PSTN 通話，因為伺服器認為使用者位置不是有效的 PSTN 通話位置。
 -   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向 \<Name\> 您傳送在商務用 Skype 中的郵件] 時，變更已錯過郵件之電子郵件的主旨行。
--   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
+-   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
 -   修正此問題：在 Window 10 版本 1607 (也稱為「年度更新版」) 上，共用次要監視器的選項沒有在特定監視器設定中出現。
 -   修正此問題：當共用者使用 RDP 的協力廠商實作並聚焦至共用內容時，商務用 Skype 發生當機。
 -   修正此問題：在虛擬桌面基礎結構 (VDI) 環境內，當使用者在進行語音通話時按一下 [音訊控制項]面板但並未出現。
@@ -900,7 +900,7 @@ ms.locfileid: "50735168"
 -   **提供意見反應：** 前往 [檔案] \> [意見反應]，提供新功能建議或告訴 Microsoft 您喜歡的功能或無法使用的功能
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
+-   Microsoft 資訊安全佈告欄 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：在德文鍵盤上使用 CTRL + ALT + 7 或 CTRL + ALT + 8 時，會開啟使用者意見反應工具，而非插入適當的字元。
@@ -916,7 +916,7 @@ ms.locfileid: "50735168"
 ## <a name="version-1609-january-10"></a>版本1609：1月10日
 *版本 1609 (組建 7369.2102)*
 
-附注： Microsoft 安全佈告欄中所涵蓋的安全性更新 [MS17-002](https://technet.microsoft.com/library/security/ms17-002) 不適用於此通道版本中的 Word 版本。
+附注： Microsoft 安全佈告欄中所涵蓋的安全性更新 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) 不適用於此通道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：使用 [編輯量值] 對話方塊會造成 Excel 當機。
@@ -931,4 +931,3 @@ ms.locfileid: "50735168"
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：使用 InsertXML 方法時，顯示的是中斷的圖片連結預留位置，而非實際影像。
-

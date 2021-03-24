@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: d993a73632974765870844af68ecb0d0591e9f36
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c1e99728c8928e7f014f46fc5598102f8f92f72d
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902148"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170202"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
 這些版本和組建編號適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 的傳統型應用程式訂閱版本。
 
 > [!IMPORTANT]
-> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
-> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
+> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](/deployoffice/name-change)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 > [!NOTE]
 > - 資料表依發行日期排序，最新的發行日期列在最前面。
-> - 如需更新通道的詳細資訊，請參閱 [Microsoft 365 Apps 更新通道概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
+> - 如需更新通道的詳細資訊，請參閱 [Microsoft 365 Apps 更新通道概觀](/DeployOffice/overview-of-update-channels-for-office-365-proplus)。
 
 下列表格會列出每個更新通道的支援版本及最新組建編號。 發行日期指出最新組建的發行時間。
 
@@ -45,7 +45,7 @@ ms.locfileid: "50902148"
 
 [//]: # (EOSTABLEEND)
 
-若想瞭解從舊版的 Microsoft 365 Apps 更新至最新版本的約略下載大小，請參閱[更新至 Microsoft 365 Apps 的下載大小](download-sizes-office365-proplus-updates.md)。
+若想瞭解從舊版的 Microsoft 365 Apps 更新至最新版本的約略下載大小，請參閱[更新至 Microsoft 365 Apps 的下載大小](./download-sizes-microsoft365-apps-updates.md)。
 
 下表提供下列更新通道中發行的 Microsoft 365 Apps 每個更新的版本和組建編號清單：目前、每月企業、半年企業 (預覽) 和半年企業。 表格中的每個項目會直接連結到該版本的版本資訊。 這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。
 
@@ -139,10 +139,10 @@ ms.locfileid: "50902148"
 |2019|3 月 25 日 |[版本 1902 (組建 11328.20222)](monthly-channel-archived.md#version-1902-march-25)| | | |
 |2019|3 月 12 日 |[版本 1902 (組建 11328.20158)](monthly-channel-archived.md#version-1902-march-12)| |[版本 1902 (組建 11328.20158)](semi-annual-enterprise-channel-preview-archived.md#version-1902-march-12) |版本 1808 (組建 10730.20304)[](semi-annual-enterprise-channel-archived.md#version-1808-march-12)  <br/> | |
 |2019|3 月 4 日  |[版本 1902 (組建 11328.20146)](monthly-channel-archived.md#version-1902-march-4)| | | |
-|2019|2 月 12 日 |[版本 1901 (組建 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[版本 1808 (組建 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[版本 1808 (組建 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [版本 1803 (組建 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [版本 1708 (組建 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
+|2019|2 月 12 日 |[版本 1901 (組建 11231.20174)](monthly-channel-archived.md#version-1901-february-12)| |[版本 1808 (組建 10730.20280)](semi-annual-enterprise-channel-preview-archived.md#version-1808-february-12) |[版本 1808 (組建 10730.20280)](semi-annual-enterprise-channel-archived.md#version-1808-february-12)  <br/>  [版本 1803 (組建 9126.2356)](semi-annual-enterprise-channel-archived.md#version-1803-february-12)  <br/> [版本 1708 (組建 8431.2372)](./microsoft365-apps-security-updates.md#february-12-2019) |
 |2019|1 月 31 日   |[版本 1901 (組建 11231.20130)](monthly-channel-archived.md#version-1901-january-31)| | | |
 |2019|1 月 14 日   |[版本 1812 (組建 11126.20266)](monthly-channel-archived.md#version-1812-january-14)| | | |
-|2019|1 月 8 日 |[版本 1812 (組建 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[版本 1808 (組建 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[版本 1808 (組建 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [版本 1803 (組建 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [版本 1708 (組建 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|1 月 8 日 |[版本 1812 (組建 11126.20196)](monthly-channel-archived.md#version-1812-january-8)| |[版本 1808 (組建 10730.20264)](semi-annual-enterprise-channel-preview-archived.md#version-1808-january-8) |[版本 1808 (組建 10730.20264)](semi-annual-enterprise-channel-archived.md#version-1808-january-8)  <br/>  [版本 1803 (組建 9126.2351)](semi-annual-enterprise-channel-archived.md#version-1803-january-8)  <br/> [版本 1708 (組建 8431.2366)](./microsoft365-apps-security-updates.md#january-8-2019) |
 |2019|1 月 3 日   |[版本 1812 (組建 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|12 月 11 日 |[版本 1811 (組建 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[版本 1808 (組建 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[版本 1803 (組建 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [版本 1708 (組建 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|11 月 27 日   |[版本 1811 (組建 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
@@ -225,9 +225,9 @@ ms.locfileid: "50902148"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Microsoft 365 Apps 更新的版本資訊](release-notes-office365-proplus.md)
-- [Microsoft 365 Apps 更新的下載大小](download-sizes-office365-proplus-updates.md)
+- [Microsoft 365 Apps 更新通道的概觀](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Microsoft 365 Apps 更新的版本資訊](./release-notes-microsoft365-apps.md)
+- [Microsoft 365 Apps 更新的下載大小](./download-sizes-microsoft365-apps-updates.md)
 
 > [!NOTE]
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。

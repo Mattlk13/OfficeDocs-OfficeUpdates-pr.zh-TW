@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 最新更新的相關資訊，包括套件下載連結與更新歷程記錄
-ms.openlocfilehash: dcb932bcb6a15b27b8340c6451f24812418807cf
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d9ec4db6eb877e99ee3c7758f4050512b51bb669
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837491"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170172"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新歷程記錄
   
 隨附於 Microsoft 365 訂閱的 Mac 版 Office 會定期更新，以提供新功能、安全性更新和非安全性更新。下列資訊的主要適用對象為，要針對組織中的使用者部署 Mac 版 Office 的 IT 專業人員。
 
 > [!NOTE]
-> - 從版本 16.21 開始，如果您使用的是 Office 安裝套件，則預設情況下將會為 ***新*** 安裝的版本安裝 Microsoft Teams。如需詳細資訊，請參閱 [在 Mac 上的 Microsoft Teams 安裝](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
-> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - 從版本 16.21 開始，如果您使用的是 Office 安裝套件，則預設情況下將會為 ***新*** 安裝的版本安裝 Microsoft Teams。如需詳細資訊，請參閱 [在 Mac 上的 Microsoft Teams 安裝](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac)。  
+> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](/security-updates/SecurityAdvisories/2017/4010323)
 > - 從 2018 年 9 月的 16.17 版本開始，這項資訊也適用於 Mac 版 Office 2019，這是從零售商店或透過大量授權合約買斷的 Mac 版 Office。
 > - 如需指定的 Mac 版 Office 版本中所含功能、安全性更新和非安全性更新的相關資訊，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。
 > - 若想要搶先取得新的版本，請加入 [Office 測試人員](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)計劃。

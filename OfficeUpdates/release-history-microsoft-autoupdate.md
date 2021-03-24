@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902192"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169712"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - 使用 SSD 的 macOS 機器會體驗到更快速的更新，且因為更新而導致應用程式停機的時間變得微不足道。
 
 
-請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0984)
+請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 雜湊：**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **SHA-256 雜湊：**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **SHA-256 雜湊：**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>相關文章
 
 - [Mac 版 Office 的更新歷程記錄](update-history-office-for-mac.md)
-- [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md) 
+- [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)

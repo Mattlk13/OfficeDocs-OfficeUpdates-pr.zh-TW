@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 從 2018 年 9 月開始為 IT 專業人員提供 Mac 版 Office 2016 的版本資訊
-ms.openlocfilehash: 91fc351da222e00c442e82c1de3284680db4f76c
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: e6552bcebfbc2247c91ef8fb5fb023c597060aaa
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944177"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169672"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Mac 版 Office 2016 更新歷程記錄
 
@@ -24,7 +24,7 @@ Mac 版 Office 2016 是 Office 的一個版本，可從零售商店或透過大�
 > - Mac 版 Office 2016 的支援已於 2020 年 10 月 13 日終止。 如果您尚未開始升級至較新的版本，建議您立即開始。 如需詳細資訊，請參閱 [Mac 版 Office 2016 終止支援。](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsupport.office.com%2Farticle%2Fe944a907-bbc8-4be5-918d-a514068d0056%3F&data=02%7C01%7Cv-lislo%40microsoft.com%7C6d81b3b1d6144587d18f08d7dfdff720%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637224025336277242&sdata=RkN3lJa%2BWIbzIk1PC08EhXOuI1RvYuyGYJfaVlYxU2U%3D&reserved=0)
 
 > [!NOTE]
-> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - 基於安全原因，Microsoft 棄用 SHA-1。[深入了解](/security-updates/SecurityAdvisories/2017/4010323)
 > - 如需 2018 年 9 月之前的 Mac 版 Office 2016 版本資訊，請參閱 [Mac 版 Office 的版本資訊](release-notes-office-for-mac.md)。  
 > - 如需 Mac 版 Office (即隨附於 Office 365 的版本) 的版本資訊，請參閱 Mac 版 Offic 的[版本資訊](release-notes-office-for-mac.md)和[更新歷程記錄](update-history-office-for-mac.md)。
 > - Mac 版 Office 2019 是最新版本，可買斷取得。如需 Mac 版 Office 2019 的版本資訊，請參閱 Mac 版 Office 的[版本資訊](release-notes-office-for-mac.md)和[更新歷程記錄](update-history-office-for-mac.md)。

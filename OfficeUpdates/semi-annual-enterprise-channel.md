@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741646"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169611"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道更新。
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ ms.locfileid: "50741646"
 ## <a name="version-2008-march-09"></a>版本 2008：3 月 9 日
 *版本 2008 (組建 13127.21348)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -68,12 +68,12 @@ ms.locfileid: "50741646"
 ## <a name="version-2002-march-09"></a>版本 2002：3 月 9 日
 *版本 2002 (組建 12527.21686)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 9 日
 *版本 2008 (組建 13127.21216)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -81,7 +81,7 @@ ms.locfileid: "50741646"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
+- 修正了當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
 
 
 - 我們已修正將圖表從 Excel 複製並貼到 Word 或 PowerPoint 時，小數位和千分位分隔符號設定不會執行的問題。
@@ -134,7 +134,7 @@ ms.locfileid: "50741646"
 ## <a name="version-2002-february-09"></a>版本 2002：2 月 9 日
 *版本 2002 (組建 12527.21594)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -151,12 +151,12 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-february-09"></a>版本 1908：2 月 9 日
 *版本 1908 (組建 11929.21008)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
 *版本 2008 (組建 13127.21064)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -192,7 +192,7 @@ ms.locfileid: "50741646"
 
 - **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選至 To-Do 窗格之後，託管於 Exchange Server 2019 或 Exchange Online 上的使用者帳戶，只要按一下即可加入任何會議。 [深入了解](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 
 - **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -266,7 +266,7 @@ ms.locfileid: "50741646"
 - 我們已修正嘗試使用 ODBC DSN 建立器時的錯誤問題
 
 
-- 已解決此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
 
 
 ### <a name="excel"></a>Excel
@@ -675,7 +675,7 @@ ms.locfileid: "50741646"
 - 修正儲存使用舊版 Project 建立的專案時，Project 可能意外關閉的問題。
 
 
-- 已修正當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 
 - 修正無法將 PDF/XPS 從 Project 儲存至 SharePoint 文件庫的問題。
@@ -839,7 +839,7 @@ ms.locfileid: "50741646"
 ## <a name="version-2002-january-12"></a>版本 2002：1 月 12 日
 *版本 2002 (組建 12527.21504)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -864,7 +864,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-january-12"></a>版本 1908：1 月 12 日
 *版本 1908 (組建 11929.20994)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -881,7 +881,7 @@ ms.locfileid: "50741646"
 ## <a name="version-2002-december-08"></a>版本 2002：12 月 8 日
 *版本 2002 (組建 12527.21416)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -925,12 +925,12 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-december-08"></a>版本 1908：12 月 8 日
 *版本 1908 (組建 11929.20984)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-november-10"></a>版本 2002：11 月 10 日
 *版本 2002 (組建 12527.21330)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -967,12 +967,12 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-november-10"></a>版本 1908：11 月 10 日
 *版本 1908 (組建 11929.20974)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-october-13"></a>版本 2002：10 月 13 日
 *版本 2002 (組建 12527.21236)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1012,7 +1012,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-october-13"></a>版本 1908：10 月 13 日
 *版本 1908 (組建 11929.20966)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1029,7 +1029,7 @@ ms.locfileid: "50741646"
 ## <a name="version-2002-september-08"></a>版本 2002：9 月 8 日
 *版本 2002 (組建 12527.21104)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1059,12 +1059,12 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-september-08"></a>版本 1908：9 月 8 日
 *版本 1908 (組建 11929.20946)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2002-august-11"></a>版本 2002: 8月11日
 *版本2002（组建12527.20988）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1099,12 +1099,12 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-august-11"></a>版本 1908: 8月11日
 *版本 1908 (組建 11929.20934)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1902-august-11"></a>版本 1902: 8月11日
 *版本 1902 (組建 11328.20644)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1115,7 +1115,7 @@ ms.locfileid: "50741646"
 ## <a name="version-2002-july-14"></a>版本 2002：7 月 14 日
 *版本 2002 (組建 12527.20880)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1631,7 +1631,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-july-14"></a>版本 1908：7 月 14 日
 *版本 1908 (組建 11929.20904)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1811,7 +1811,7 @@ ms.locfileid: "50741646"
 
 - 已解決以下問題：使用者將共用行事曆資料夾同步到 OST 時發生問題，這導致嘗試與這些資料夾互動時發生權限錯誤。
 
-- 解決會導致使用者在 Citrix 環境中檢視 30 個以上的行事曆時遇到當機的問題。 此處是[記錄舊版問題的個別 KB](https://support.microsoft.com/zh-TW/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- 解決會導致使用者在 Citrix 環境中檢視 30 個以上的行事曆時遇到當機的問題。 此處是[記錄舊版問題的個別 KB](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - 修正 SMIME 演算法選取的問題。
 
@@ -1969,12 +1969,12 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-july-14"></a>版本 1902：7 月 14 日
 *版本 1902 (組建 11328.20624)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-1908-june-09"></a>版本 1908: 6 月 09日
 *版本1908（組建11929.20838）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2002,7 +2002,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-june-09"></a>版本 1902: 6 月 09日
 *版本 1902 (組建 11328.20602)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2021,7 +2021,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-may-12"></a>版本 1908：5 月 12 日
 *版本 1908 (組建 11929.20776)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2046,7 +2046,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-may-12"></a>版本 1902：5 月 12 日
 *版本 1902 (組建 11328.20586)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2064,7 +2064,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-may-04"></a>版本 1908：5 月 4 日
 *版本 1908 (組建 11929.20752)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-april-26"></a>版本 1908：4 月 26 日
 *版本 1908 (組建 11929.20736)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1908-april-14"></a>版本 1908：4 月 14 日
 *版本 1908 (組建 11929.20708)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -2145,14 +2145,14 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-april-14"></a>版本 1902：4 月 14 日
 *版本 1902 (組建 11328.20564)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-march-10"></a>版本 1908：3 月 10 日
 *版本 1908 (組建 11929.20648)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2186,14 +2186,14 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-march-10"></a>版本 1902：3 月 10 日
 *版本 1902 (組建 11328.20554)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908 (組建 11929.20606)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2261,7 +2261,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-february-11"></a>版本 1902：2 月 11 日
 *版本 1902 (組建 11328.20526)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2283,14 +2283,14 @@ ms.locfileid: "50741646"
 ## <a name="version-1808-february-11"></a>版本 1808：2 月 11 日
 *版本 1808 (組建 10730.20438)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908 (組建 11929.20562)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -2409,11 +2409,11 @@ ms.locfileid: "50741646"
 
 - **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
 
-- **隱私權控制：** 用於診斷資料和連線體驗的新增、更新及改良的控制項。 [深入了解](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **隱私權控制：** 用於診斷資料和連線體驗的新增、更新及改良的控制項。 [深入了解](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Office 圖示有新的外觀：** Office 圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。
 
-- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的現有安裝中，預設會安裝 Microsoft Teams。 [深入了解](https://docs.microsoft.com/DeployOffice/teams-install)
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的現有安裝中，預設會安裝 Microsoft Teams。 [深入了解](/DeployOffice/teams-install)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -2652,7 +2652,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1902-january-14"></a>版本 1902：1 月 14 日
 *版本 1902 (組建 11328.20512)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2680,7 +2680,7 @@ ms.locfileid: "50741646"
 ## <a name="version-1808-january-14"></a>版本 1808：1 月 14 日
 *版本 1808 (組建 10730.20432)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 

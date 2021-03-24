@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735188"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169722"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>2020 年每月企業通道版本的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 2020 年 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的每月企業通道更新。
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
 
 [//]: # (DO NOT REMOVE)
 
@@ -30,7 +30,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2101-march-09"></a>版本 2101：3 月 9 日
 *版本 2101 (組建 13628.20528)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -89,12 +89,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2012-march-09"></a>版本 2012：3 月 9 日
 *版本 2012 (組建 13530.20628)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2012-february-09"></a>版本 2012：2 月 9 日
 *版本 2012 (組建 13530.20528)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -106,7 +106,7 @@ ms.locfileid: "50735188"
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ ms.locfileid: "50735188"
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
@@ -126,11 +126,11 @@ ms.locfileid: "50735188"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ ms.locfileid: "50735188"
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -183,7 +183,7 @@ ms.locfileid: "50735188"
 - 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
 
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -194,7 +194,7 @@ ms.locfileid: "50735188"
 - 此變更解決了在方程式中正確顯示字型的問題。
 
 
-- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -214,12 +214,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2011-february-09"></a>版本 2011：2 月 9 日
 *版本 2011 (組建 13426.20658)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2011-january-12"></a>版本 2011：1 月 12 日
 *版本 2011 (組建 13426.20526)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -280,7 +280,7 @@ ms.locfileid: "50735188"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
@@ -359,12 +359,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2010-january-12"></a>版本 2010：1 月 12 日
 *版本 2010 (組建 13328.20550)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2010-december-08"></a>版本 2010: 12 月 8 日
 *版本 2010 (組建 13328.20478)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -384,7 +384,7 @@ ms.locfileid: "50735188"
 
 - **匯出範圍中的動畫 GIF：** 當匯出成動畫 GIF 時， 選取投影片的範圍
 
-- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
+- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -483,12 +483,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2009-december-08"></a>版本 2009：12 月 8 日
 *版本 2009 (組建 13231.20620)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2009-november-10"></a>版本 2009：11 月 10 日
 *版本 2009 (組建 13231.20514)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -539,7 +539,7 @@ ms.locfileid: "50735188"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
+- 修正了在包含大量特定資料物件類型 (E2o) 的檔案上導致共同撰寫變慢的問題。
 
 
 - 已解決在受保護的檢視中開啟 PowerPoint 檔案時停用 IRM 保護的問題。
@@ -581,7 +581,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008 (組建 13127.20760)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -629,7 +629,7 @@ ms.locfileid: "50735188"
 - 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
 
 
-- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。<br />在[部落格文章](https://developer.microsoft.com/zh-TW/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
+- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。<br />在[部落格文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -653,7 +653,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008 (組建 13127.20638)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -695,7 +695,7 @@ ms.locfileid: "50735188"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 已解決此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
 
 
 - 此變更可修正當啟動縮放控制方塊 (Shift + F2) 以編輯文字時，可能會導致 Access 當機的問題。
@@ -842,7 +842,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2007-october-13"></a>版本 2007：10 月 13 日
 *版本 2007 (組建 13029.20708)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -859,7 +859,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2007-september-08"></a>版本 2007：9 月 8 日
 *版本 2007 (組建 13029.20534)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -968,12 +968,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2006-september-08"></a>版本 2006：9 月 8 日
 *版本 2006 (組建 13001.20648)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2006-august-11"></a>版本 2006: 8月11日
 *版本2006（组建13001.20520）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -1076,12 +1076,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2005-august-11"></a>版本 2005: 8月11日
 *版本2005（组建12827.20656）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2005-july-14"></a>版本 2005：7 月 14 日
 *版本 2005 (組建 12827.20538)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1179,12 +1179,12 @@ ms.locfileid: "50735188"
 ## <a name="version-2004-july-14"></a>版本 2004：7 月 14 日
 *版本 2004 (組建 12730.20602)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 ## <a name="version-2004-june-09"></a>版本 2004: 6 月 09 日
 *版本2004（組建12730.20430）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1289,7 +1289,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2003-june-09"></a>版本 2003: 6 月 09日
 *版本2003（組建12624.20708）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1304,7 +1304,7 @@ ms.locfileid: "50735188"
 ## <a name="version-2003-may-12"></a>版本 2003：5 月 12 日
 *版本 2003 (組建 12624.20588)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1436,7 +1436,7 @@ ms.locfileid: "50735188"
 - 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
 
 
-- 已修正當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 
 - 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Microsoft 365 應用程式更新歷程記錄的版本資訊
-ms.openlocfilehash: a2815cc08784277532f16a1e5d4f81aa491edfb4
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: 06a5467d0ea72650d5696f56ba637e385d6be4f2
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595457"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170162"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 上 Microsoft 365 應用程式的更新歷程記錄 
 
  > [!NOTE]
 >
 >- Windows 7 的支援服務已於 2020 年 1 月 14 日終止。 [深入了解](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
->- Windows 7 不再支援 Microsoft 365 應用程式，但是在 2023 年 1 月前可持續取得安全性更新。 如需詳細資訊，請參閱 [ Windows 7 終止支援服務與 Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/endofsupport/windows-7-support)。
+>- Windows 7 不再支援 Microsoft 365 應用程式，但是在 2023 年 1 月前可持續取得安全性更新。 如需詳細資訊，請參閱 [ Windows 7 終止支援服務與 Microsoft 365 Apps](/DeployOffice/endofsupport/windows-7-support)。
 >- 如果您是在 Windows 7 上執行 Office 的家用版使用者，請參閱 [Windows 7 終止支援和 Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)。
 
 版本 2002 是最新版本的 Microsoft 365 Apps，適用於執行 Windows 7 的裝置。 版本 2002 可以在 Microsoft 365 Apps 的所有更新通道取得。
@@ -32,7 +32,7 @@ ms.locfileid: "50595457"
 
 在每個月的第二個星期二，我們會視需要發行具有安全性更新的新組建版本 2002。 如需版本 2002 的安全性更新清單，請參閱 [Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
-如果您是藉由使用 Microsoft Endpoint Configuration Manager 來管理更新，請參閱[使用 Configuration Manager 進行更新的指導方針](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)。
+如果您是藉由使用 Microsoft Endpoint Configuration Manager 來管理更新，請參閱[使用 Configuration Manager 進行更新的指導方針](/deployoffice/endofsupport/windows-7-support#guidance-when-using-configuration-manager-for-updates)。
 
 
 ## <a name="update-history"></a>更新歷程記錄

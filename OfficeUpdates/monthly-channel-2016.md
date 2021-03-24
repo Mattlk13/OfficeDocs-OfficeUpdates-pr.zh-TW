@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 ProPlus 的每月通道版本的版本資訊，2016
-ms.openlocfilehash: 11e672280c3a41e9d73782b13c43d286171de7b1
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 9d51cecc870d48f0e6659dde1c6714d2c49c0e43
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369921"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169872"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016中每月通道版本的版本資訊
 
@@ -30,10 +30,10 @@ ms.locfileid: "48369921"
 *版本 1611 (組建 7571.2075)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
+-   Microsoft 資訊安全佈告欄 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-148](https://technet.microsoft.com/library/security/ms16-148)：Microsoft Office 的安全性更新 (3204068)
+-   Microsoft 資訊安全佈告欄 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
 
 ## <a name="version-1611-december-6"></a>版本1611：12月6日
@@ -42,7 +42,7 @@ ms.locfileid: "48369921"
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **地圖圖表：** 比較數值及顯示跨地理區域的類別。 [詳細資訊](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG 影像：** 插入並編輯活頁簿內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存活頁簿至最近使用的資料夾。
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯活頁簿的支援已獲改善。 [詳細資訊](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,12 +54,12 @@ ms.locfileid: "48369921"
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **SVG 影像：** 插入並編輯電子郵件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **點選：** 尋找並重複使用您組織的相關文件內容。 [詳細資訊](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **共同撰寫時的即時輸入：** 查看其他人在簡報中的運作方式，並在輸入時查看變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
@@ -81,7 +81,7 @@ ms.locfileid: "48369921"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 
--   **將 UI 更新為「共用」：**  在 UI 專案中，將「展示」變更為「共用」，例如：將「展示桌面」變更為「共用畫面」，並將「展示程式」變更為「共用視窗」。
+-   **更新「共用」的 UI：** 在 UI 項目中，將「展示」變更為「共用」，例如：將「展示桌面」變更為「共用畫面」，以及將「展示程式」變更為「共用視窗」。
 -   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
@@ -119,7 +119,7 @@ ms.locfileid: "48369921"
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 -   **SVG 影像：** 插入並編輯文件內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **插入圖示：**  透過插入插圖圖示 (SVG) 檔案，使用來自可縮放之向量圖形的標準文件庫中的圖示 \> \> 。  [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存文件至最近使用的資料夾。
 -   **透過學習工具來改善閱讀：** 在閱讀模式中，透過調整字距、顯示音節之間的停頓，以及在大聲朗讀文件時，反白顯示每個字的新命令來提升閱讀技巧。 [詳細資訊](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **協助工具的改善：** 針對使用鍵盤、朗讀程式，以及其他輔助技術來讀取及編輯文件的支援已獲改善。 [詳細資訊](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -202,10 +202,10 @@ ms.locfileid: "48369921"
 *版本 1609 (組建 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 的安全性更新 (3199168)
+-   Microsoft 資訊安全佈告欄 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133)：Microsoft Office 的安全性更新 (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-133](https://technet.microsoft.com/library/security/ms16-133)：Microsoft Office 的安全性更新 (3199168)
+-   Microsoft 資訊安全佈告欄 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133)：Microsoft Office 的安全性更新 (3199168)
 
 
 
@@ -255,10 +255,10 @@ ms.locfileid: "48369921"
 -   修正此問題：對具有附件的電子郵件訊息進行數位簽章或加密，導致附件的內容遺失。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-120](https://technet.microsoft.com/library/security/ms16-120)：Microsoft 圖形元件的安全性更新 (3192884)
+-   Microsoft 資訊安全佈告欄 [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120)：Microsoft 圖形元件的安全性更新 (3192884)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-121](https://technet.microsoft.com/library/security/ms16-121)：Microsoft Office 的安全性更新 (3194063)
+-   Microsoft 資訊安全佈告欄 [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121)：Microsoft Office 的安全性更新 (3194063)
 
 
 
@@ -279,7 +279,7 @@ ms.locfileid: "48369921"
 -   修正此問題：在搜尋標記時，[標記摘要] 面板只顯示文字行的多個標記中的第一個標記。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   ** \@ 提及：** 請確認收件者已要求使用者輸入或採取動作，方法是在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@ 提及：** 請確認收件者已要求使用者輸入或採取動作，方法是在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：使用自訂信箋做為預設佈景主題時，有額外的分行符號新增至新的電子郵件訊息且字型設定為 Calibri。
@@ -393,16 +393,16 @@ ms.locfileid: "48369921"
 *版本 1607 (組建 7167.2060)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
+-   Microsoft 資訊安全佈告欄 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
+-   Microsoft 資訊安全佈告欄 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
 ### <a name="visio-security-updates"></a>Visio：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
+-   Microsoft 資訊安全佈告欄 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-107](https://technet.microsoft.com/library/security/ms16-107)：Microsoft Office 的安全性更新 (3185852)
+-   Microsoft 資訊安全佈告欄 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 的安全性更新 (3185852)
 
 
 
@@ -472,22 +472,22 @@ ms.locfileid: "48369921"
 -   修正由目前安全性更新造成的問題：從不受信任的位置開啟 HTML 檔時，不是允許使用者在受保護的檢視中開啟檔案，而是開啟畫面空白 (沒有內容) 的 Excel，且沒有顯示錯誤。
 
 ### <a name="onenote-security-updates"></a>OneNote：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
+-   Microsoft 資訊安全佈告欄 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
+-   Microsoft 資訊安全佈告欄 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-097](https://technet.microsoft.com/library/security/ms16-097)：Microsoft 圖形元件的安全性更新 (3177393)
+-   Microsoft 資訊安全佈告欄 [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097)：Microsoft 圖形元件的安全性更新 (3177393)
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全性更新
 -   移動 [功能區] 上 [繪圖] 索引標籤的位置，並移動 [繪圖] 索引標籤上 [使用觸控繪圖] 選項的位置。
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
+-   Microsoft 資訊安全佈告欄 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-099](https://technet.microsoft.com/library/security/ms16-099)：Microsoft Office 的安全性更新 (3177451)
+-   Microsoft 資訊安全佈告欄 [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099)：Microsoft Office 的安全性更新 (3177451)
 
 
 
@@ -529,16 +529,16 @@ ms.locfileid: "48369921"
 *版本 1606 (組建 7070.2026)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
+-   Microsoft 資訊安全佈告欄 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 的安全性更新 (3170008)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：在某些情況下，Excel 不會通知朗讀程式有關儲存格值的變更。
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
+-   Microsoft 資訊安全佈告欄 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 的安全性更新 (3170008)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-088](https://technet.microsoft.com/library/security/ms16-088)：Microsoft Office 的安全性更新 (3170008)
+-   Microsoft 資訊安全佈告欄 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 的安全性更新 (3170008)
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：開啟在伺服器上要求表單型驗證的文件，導致 Word 當機。
@@ -615,16 +615,16 @@ ms.locfileid: "48369921"
 -   修正此問題：當使用者嘗試使用會議功能，例如白板或共用筆記時，收到錯誤訊息。 [此問題的相關資訊](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-070](https://technet.microsoft.com/library/security/ms16-070)：Microsoft Office 的安全性更新 (3163610)
+-   Microsoft 資訊安全佈告欄 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070)：Microsoft Office 的安全性更新 (3163610)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-070](https://technet.microsoft.com/library/security/ms16-070)：Microsoft Office 的安全性更新 (3163610)
+-   Microsoft 資訊安全佈告欄 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070)：Microsoft Office 的安全性更新 (3163610)
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：當使用者選擇 [保留來源格式設定] 選項貼上 SmartArt 圖形時 Word 會當機。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-070](https://technet.microsoft.com/library/security/ms16-070)：Microsoft Office 的安全性更新 (3163610)
+-   Microsoft 資訊安全佈告欄 [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070)：Microsoft Office 的安全性更新 (3163610)
 
 
 
@@ -706,10 +706,10 @@ ms.locfileid: "48369921"
 *版本 1604 (組建 6868.2062)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-054](https://technet.microsoft.com/library/security/ms16-054)：Microsoft Office 的安全性更新 (3155544)
+-   Microsoft 資訊安全佈告欄 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054)：Microsoft Office 的安全性更新 (3155544)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-054](https://technet.microsoft.com/library/security/ms16-054)：Microsoft Office 的安全性更新 (3155544)
+-   Microsoft 資訊安全佈告欄 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054)：Microsoft Office 的安全性更新 (3155544)
 
 
 
@@ -750,10 +750,10 @@ ms.locfileid: "48369921"
 *版本 1603 (組建 6769.2017)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-042](https://technet.microsoft.com/library/security/ms16-042)：Microsoft Office 的安全性更新 (3148775)
+-   Microsoft 資訊安全佈告欄 [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042)：Microsoft Office 的安全性更新 (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-039](https://technet.microsoft.com/library/security/ms16-039)：Microsoft 圖形元件的安全性更新 (3148522)
+-   Microsoft 資訊安全佈告欄 [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039)：Microsoft 圖形元件的安全性更新 (3148522)
 
 
 
@@ -847,10 +847,10 @@ ms.locfileid: "48369921"
 *版本 1601 (組建 6568.2034)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-029](https://technet.microsoft.com/library/security/ms16-029)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3141806)
+-   Microsoft 資訊安全佈告欄 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3141806)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-029](https://technet.microsoft.com/library/security/ms16-029)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3141806)
+-   Microsoft 資訊安全佈告欄 [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3141806)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：使用者嘗試使用 Adobe Acrobat PDFMaker 將檔案轉換成 PDF 時造成應用程式當機。
@@ -917,10 +917,10 @@ ms.locfileid: "48369921"
 *版本 1511 (組建 6366.2068)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3134226)
+-   Microsoft 資訊安全佈告欄 MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3134226)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3134226)
+-   Microsoft 資訊安全佈告欄 MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3134226)
 
 
 
@@ -939,16 +939,16 @@ ms.locfileid: "48369921"
 *版本 1511 (組建 6366.2056)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
+-   Microsoft 資訊安全佈告欄 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
+-   Microsoft 資訊安全佈告欄 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
 ### <a name="visio-security-updates"></a>Visio：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
+-   Microsoft 資訊安全佈告欄 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
+-   Microsoft 資訊安全佈告欄 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)
+-   Microsoft 資訊安全佈告欄 [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3124585)

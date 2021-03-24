@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603013"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170212"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2127441)。
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
 
 
 ## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
 *版本 2102 (組建 13801.20294)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -45,7 +45,7 @@ ms.locfileid: "50603013"
 
 - **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +57,13 @@ ms.locfileid: "50603013"
 
 - **在 Outlook 中使用快速投票建立投票：** 輕鬆建立投票、收集投票，並在電子郵件中檢視結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **新的會議室尋找工具：** 依不同功能搜尋會議室。
 
 - **以您說話的方式搜尋：** 使用日常語言如「上週獸醫的預約」來篩選和縮小搜尋範圍。
 
-- **快速重新開啟上一個 Outlook 工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/automatically-restore-windows-in-outlook)中查看詳細資料
+- **快速重新開啟上一個 Outlook 工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。<br />在[部落格文章](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +71,7 @@ ms.locfileid: "50603013"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
@@ -85,7 +85,7 @@ ms.locfileid: "50603013"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -310,7 +310,7 @@ ms.locfileid: "50603013"
 - 已修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
 
 
-- 已修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+- 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
 - 已修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
@@ -409,7 +409,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 9 日
 *版本 2008 (組建 13127.21216)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -417,7 +417,7 @@ ms.locfileid: "50603013"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
+- 修正了當開啟具有無效檔案内容 (建立時間、修改時間等) 的 UNC 檔案時，Excel 會意外關閉的問題
 
 
 - 我們已修正將圖表從 Excel 複製並貼到 Word 或 PowerPoint 時，小數位和千分位分隔符號設定不會執行的問題。
@@ -470,7 +470,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
 *版本 2008 (組建 13127.21064)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -542,7 +542,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2008-december-08"></a>版本2008：12 月 8 日
 *版本 2008 (組建 13127.20910)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -643,7 +643,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2008-november-10"></a>版本 2008：11 月 10 日
 *版本 2008 (組建 13127.20760)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -691,7 +691,7 @@ ms.locfileid: "50603013"
 
 - 我們已修正在回覆或轉寄時，導致中文郵件標題出現亂碼的問題。
 
-- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。  <br />在[部落格文章](https://developer.microsoft.com/zh-TW/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
+- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。  <br />在[部落格文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -712,7 +712,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2008-october-13"></a>版本 2008：10 月 13 日
 *版本 2008 (組建 13127.20638)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -791,7 +791,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2008-september-08"></a>版本2008：9月 8 日
 *版本 2008 (組建 13127.20408)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -829,7 +829,7 @@ ms.locfileid: "50603013"
 
 - **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。 [深入了解](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 
 - **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -890,7 +890,7 @@ ms.locfileid: "50603013"
 
 - 存取已經修正了目前的問題，但將調查我們的其他介面，以確保這個問題不會持續存在。 小組會通知您未來的更新；我們感謝您的耐心等待。
 
-- 已解決此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
+- 已解决此問題 - 您現在可以使用 Office 的隨選即用應用程式外的 ODBC 驅動程式。
 
 ### <a name="excel"></a>Excel
 
@@ -950,7 +950,7 @@ ms.locfileid: "50603013"
 
 - 解決了導致使用 Shared Calendar Improvements 的某些使用者無法查看剛新增的共用行事曆的問題。
 
-- 已修正當與雲端附件互動時，導致使用者偶爾當機的問題。
+- 修正了當與雲端附件互動時，導致使用者偶爾當機的問題。
 
 - 解決會導致 CLP 使用者在回覆時的寄件者地址，從受保護的內容切換到未受保護的內容時會發生當機的問題。
 
@@ -1002,7 +1002,7 @@ ms.locfileid: "50603013"
 
 - 解決會導致使用者在擷取角色資訊時有時候會當機的問題。
 
-- 已修正編輯收件者時，導致使用者偶爾當機的問題。
+- 修正了編輯收件者時，導致使用者偶爾當機的問題。
 
 - 修正導致使用者在使用壓縮模式時發生異常的問題。
 
@@ -1041,7 +1041,7 @@ ms.locfileid: "50603013"
 
 - 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
 
-- 已修正當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 - 修正在將任務標示為完成之後，不正確地將任務完成百分比變更為低於 100% 的值的問題。
 
@@ -1137,7 +1137,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2002-august-11"></a>版本 2002: 8月11日
 *版本2002（组建12527.20988）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1174,7 +1174,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2002-july-14"></a>版本 2002：7 月 14 日
 *版本 2002 (組建 12527.20880)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1245,7 +1245,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2002-june-09"></a>版本 2002: 6 月 09日
 *版本2002（組建12527.20720）*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1295,7 +1295,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2002-may-12"></a>版本 2002：5 月 12 日
 *版本 2002 (組建 12527.20612)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1389,7 +1389,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2002-april-14"></a>版本 2002：4 月 14 日
 *版本 2002 (組建 12527.20442)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 ### <a name="feature-updates"></a>功能更新
@@ -1397,8 +1397,7 @@ ms.locfileid: "50603013"
 
 - **輸入會傳回多個值的公式**：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [深入了解](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。  
-  [深入了解](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。  [深入了解](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -1458,7 +1457,7 @@ ms.locfileid: "50603013"
 ## <a name="version-2002-march-10"></a>版本 2002：3 月 10 日
 *版本 2002 (組建 12527.20278)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -1770,7 +1769,7 @@ ms.locfileid: "50603013"
 ## <a name="version-1908-february-11"></a>版本 1908：2 月 11 日
 *版本 1908 (組建 11929.20606)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1838,7 +1837,7 @@ ms.locfileid: "50603013"
 ## <a name="version-1908-january-14"></a>版本 1908：1 月 14 日
 *版本 1908 (組建 11929.20562)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)

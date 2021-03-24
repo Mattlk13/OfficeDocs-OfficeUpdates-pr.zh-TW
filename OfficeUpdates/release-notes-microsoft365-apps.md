@@ -10,18 +10,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
-ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
+ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780671"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170142"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
 
 > [!IMPORTANT]
-> Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](https://go.microsoft.com/fwlink/p/?linkid=2123420)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
+> Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](/deployoffice/name-change)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Microsoft 365 Apps 版本的安全性更新
@@ -64,12 +64,12 @@ ms.locfileid: "49780671"
 
 ## <a name="related-topics"></a>相關主題
 
-- [Microsoft 365 Apps 更新通道的概觀](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Office 部署](https://docs.microsoft.com/deployoffice/)
+- [Microsoft 365 Apps 更新通道的概觀](/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Office 部署](/deployoffice/)
 - [Microsoft 365 Apps 的新功能](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Microsoft 365 Apps 藍圖](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 365 Apps 訊息中心概觀](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [Windows 10 版本資訊](https://aka.ms/windows/releaseinfo)
+- [Windows 10 版本資訊](/windows/release-health/release-information)
 - [Microsoft 安全性更新指南](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
