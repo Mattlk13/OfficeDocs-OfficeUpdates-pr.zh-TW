@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: eb771e0584a76f4ab4d506987a6b2379cc7087ee
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: f93d43233c448cdc1100fe82e255acbb1fd344f3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369941"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169842"
 ---
 # <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 Apps 的已知問題
 
@@ -23,7 +23,7 @@ ms.locfileid: "48369941"
 
 > [!NOTE]
 >- 這個清單並不全面。
->- 如果您在顯示為已解決的通道以外的通道中遇到問題，您可以預期問題很快會解決。 [深入了解](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- 如果您在顯示為已解決的通道以外的通道中遇到問題，您可以預期問題很快會解決。 [深入了解](/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
 >- 解決的問題也會記載在其相關的通道頁面上。
 
 <br>
