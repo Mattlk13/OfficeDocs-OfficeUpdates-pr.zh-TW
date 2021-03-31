@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9034604f61ae18eaa07a1467814fdf160b4f46f6
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169982"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408046"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,23 @@ ms.locfileid: "51169982"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2103-march-28"></a>版本 2103：3 月 28 日
+*版本 2103 (組建 13901.20306)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+
+
+- 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-march-22"></a>版本 2103：3 月 22 日
 *版本 2103 (組建 13901.20230)*
@@ -462,7 +479,7 @@ ms.locfileid: "51169982"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
