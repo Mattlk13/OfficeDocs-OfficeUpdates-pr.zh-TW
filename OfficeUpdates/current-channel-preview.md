@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
-ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
+ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
+ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51408046"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440708"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,10 @@ ms.locfileid: "51408046"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
+*版本 2103 (組建 13901.20312)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2103-march-28"></a>版本 2103：3 月 28 日
 *版本 2103 (組建 13901.20306)*
