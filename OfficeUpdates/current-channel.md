@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
+ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169942"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51487247"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,126 @@ ms.locfileid: "51169942"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
+*版本 2103 (組建 13901.20312)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **撰寫郵件時節省時間：** Outlook 會顯示書寫建議，協助您快速撰寫郵件。 若要接受建議，只需使用 Tab 鍵。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/text-predictions-in-word-outlook)中查看詳細資料
+
+- **新的會議室和工作區預約體驗：** 會議室預約體驗已更新，透過它我們新增了功能，以讓您也能夠排程個別工作區
+
+- **挑選搜尋的位置：** 新的搜尋範圍下拉式清單，可讓您更輕鬆地修改搜尋，並在目前資料夾和目前信箱之間切換。 感謝每個在 [即將推出] 為 [頂極體驗] 的 新 [搜尋] 提供意見反應的人。 因為有這份意見反應，才有這項設計與更新！
+
+- **搜尋人員時取得會議建議：** 當您在搜尋方塊中輸入人員的名稱時，包含行事曆邀請的最相關電子郵件訊息會包括在您的搜尋建議中。
+
+- **共用至 Teams：** 將 Outlook 的郵件與 Teams 中的某個人員或頻道共用。
+
+- **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。
+
+### <a name="teams"></a>Teams
+
+- **會議反應：** 會議反應是在會議中互動的新方式。 參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
+
+- **在 Teams 會議中管理出席者音訊權限的改進：** 即使在出席者沒有舉手的情況下，會議簡報者和召集人現在可以允許出席者取消靜音。 以前，被禁止取消靜音 (停用麥克風) 的出席者必須舉手才能取消靜音。
+
+- **在 Teams 會議中管理出席者音訊權限的改進：** 以前，會議簡報者或召集人無法停用會議中單一出席者的麥克風。 召集人或簡報者只能將「允許出席者取消靜音」設定為關閉，從而停用每個出席者的麥克風。 有了這項變更，會議簡報者和召集人可以臨時禁止單一出席者在 Teams 會議期間取消靜音。
+
+- **改進了會議參與者名冊中的體驗：** 我們現在正在變更 Teams 會議中大廳、會議、簡報者和出席者區段顯示參與者清單的方式。 在初始檢視中，每個區段最多可顯示 20 名參與者，並可選擇在該區段中深入和檢視更多參與者。 對於大廳，您可以在允許所有人參加會議之前檢閱 完整清單。 名册將按字母順序顯示最活躍與會者的詳細資訊。 參與者動作功能表沒有變更。
+
+- **從名冊中搜尋會議參與者：** 使用者現在可以從名冊中的搜尋方塊中搜尋目前會議參與者，以瞭解特定人員是否已加入會議。 他們可以繼續在會議之外搜尋參與者，並要求他們加入會議。
+
+- **從 Outlook 共用至 Teams：** 從 Outlook 共用至 Teams 可讓您將電子郵件或交談 (包括附件) 的複本傳送至 Teams 聊天和頻道。 在 Outlook 功能區或電子郵件的動作功能表中找到 [共用至 Teams] 選項。 [共用至 Teams] 支援 Outlook 網頁版、Windows 版 Outlook 和新 Mac 版 Outlook Preview。
+
+- **分組討論區計時器和會議室指派保留：** 召集人現在可以從分組討論區設定中為分組討論區設定計時器。 計時器過期後，會議室將自動關閉，與會者將返回主會議。 會議室指派保留提供了在多個工作階段上持久保留會議室設定和指派的功能。有了與參與者重新指派功能，召集人現在可以在會議室和主會議室開啟時移動已加入的參與者。
+
+- **離線存取檔案：** 即使沒有網際網路連線，使用者現在也可以存取以前開啟的檔案。
+
+- **共用 PowerPoint 檔案時的方格檢視：** 在會議中共用 PowerPoint 檔案時，使用者現在可以使用方格檢視查看投影片組中的所有投影片，以便進行臨時投影片導覽。
+
+### <a name="word"></a>Word
+
+- **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此變更可修正在某些情況下，執行 SQL Server 傳遞查詢時，可能會導致錯誤訊息指出「無效的 Cursor 狀態」的問題。
+
+- 我們已修正當外部應用程式要求協助工具介面時，它會防止我們關機，直到它們釋出其參考為止的問題。
+
+### <a name="project"></a>Project
+
+- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+
+### <a name="excel"></a>Excel
+
+- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+
+
+- 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
+
+
+- 我們已修正會導致使用者看到較預期更多的簽章的問題。
+
+
+- 我們已修正會導致部分使用者無法存取與次要郵件帳戶相關聯的簽章的問題。
+
+
+- 我們已修正會導致雲端設定功能的使用者在新裝置上設定 Outlook 之後，會看到自訂設定遭到預設設定覆寫的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+
+
+### <a name="visio"></a>Visio
+
+- 已修正 Visio 在關閉期間可能會停止運作的問題。
+
+
+### <a name="word"></a>Word
+
+- 共同撰寫文件時，若註解順序變更，不會清除作用中草稿。
+
+
+- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+
+
+- 我們已修正有關複製和貼上的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正了停用 GCC 使用者聽寫功能的錯誤
+
+
+- 修正了有時可能導致文字在 Outlook 變得透明，從而無法辨認的錯誤。
+
+
+- 修正了與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
 
 
 
@@ -155,7 +275,7 @@ ms.locfileid: "51169942"
 
 ### <a name="word"></a>Word
 
-- **單鍵書寫建議：** 只要按一下，就能套用書寫建議。 更新的 [編輯器] 窗格讓您輕鬆在建議之間瀏覽。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
+- **單鍵書寫建議：** 只要按一下，就能套用書寫建議。 更新的 [編輯器] 窗格讓您輕鬆在建議之間瀏覽。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
@@ -563,9 +683,9 @@ ms.locfileid: "51169942"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/svg-content-office-third-party-apps)中查看詳細資料
 
-- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
+- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [帳戶]，然後在 [Office 佈景主題] 下拉式清單底下，選擇 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -700,19 +820,19 @@ ms.locfileid: "51169942"
 
 - **使用 Power Query 建立資料類型：** 使用 Power Query 從任何資料來源建立豐富的資料類型。 [深入了解](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **使用動作手寫筆快速編輯：** 您可以使用動作手寫筆直接在儲存格中書寫，以會自動轉換成 Excel 資料的筆跡記下資料。
 
 ### <a name="outlook"></a>Outlook
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
-- **文法檢查是您的後盾**：Outlook 會在您輸入時標記文法錯誤，這麼一來，您只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+- **文法檢查是您的後盾**：Outlook 會在您輸入時標記文法錯誤，這麼一來，您只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +846,7 @@ ms.locfileid: "51169942"
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1750,7 +1870,7 @@ ms.locfileid: "51169942"
 
 - 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1799,7 +1919,7 @@ ms.locfileid: "51169942"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -2127,7 +2247,7 @@ ms.locfileid: "51169942"
 
 - **最佳化您的簡報：** 協助工具檢查程式可協助您以螢幕閱讀器為中心，在投影片上排列物件。
 
-- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/zh-TW/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -2164,6 +2284,7 @@ ms.locfileid: "51169942"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
@@ -2173,5 +2294,4 @@ ms.locfileid: "51169942"
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
