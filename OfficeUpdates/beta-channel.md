@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1ee65ac506208e6c4005b40ad50fdeebf044d917
-ms.sourcegitcommit: 856b82b3d51fd4bcee3ecf516dc30e05d5ba0921
+ms.openlocfilehash: 78d200b4d33693aa0092fe9a7c768fef67e6721e
+ms.sourcegitcommit: 5863f79973406ef27d5904509c0aef059e25c17b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51383773"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51506780"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,46 @@ ms.locfileid: "51383773"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2104-april-02"></a>版本 2104：4 月 2 日
+*版本 2104 (組建 13929.20016)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Windows 的 Outlook 中的建議回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。
+
+- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當外部應用程式要求協助工具介面時，它會防止我們關機，直到它們釋出其參考為止的問題。
+
+
+### <a name="word"></a>Word
+
+- 在這個錯誤中，Office 未遵守特定原則 (當應該停用範本時，已在首頁上顯示一組範本)。 有了這個修正程式，系統即會遵守這些原則。
+
+
+- 我們已修正 [自動儲存] 中的問題。
+
+
+- 我們在 Application.OnTime 中修正了可能無法正確觸發的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2104-march-26"></a>版本 2104：3 月 26 日
 *版本 2104 (組建 13919.20002)*
@@ -2761,6 +2801,7 @@ ms.locfileid: "51383773"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
@@ -2770,5 +2811,4 @@ ms.locfileid: "51383773"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
