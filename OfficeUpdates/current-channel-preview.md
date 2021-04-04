@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440708"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582079"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,22 @@ ms.locfileid: "51440708"
 > - Microsoft Teams 功能可能會與最新的目前通道預覽中發行的功能不同，因為它們的發行頻率較高。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2103-april-02"></a>版本 2103：4 月 2 日
+*版本 2103 (組建 13901.20336)*
+* 各種錯誤和效能修正。
+
+## <a name="version-2103-april-1"></a>版本 2103：4 月 1 日
+*版本 2103 (組建 13901.20148)*
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **日期/時間格式** 利用此更新，Teams 中的日期/時間格式將會與 Mac 和 Windows 作業系統地區設定相符。 之前，Teams 只會以與應用程式語言對應的格式顯示日期/時間。 務必注意，無論作業系統的行事曆設定為何，都只支援西曆。 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
 *版本 2103 (組建 13901.20312)*
@@ -79,27 +95,11 @@ ms.locfileid: "51440708"
 
 - 已修正 Visio 在關閉期間可能會停止運作的問題。
 
-
-
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2103-march-12"></a>版本 2103：3 月 12 日
-*版本 2103 (組建 13901.20148)*
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="teams"></a>Teams
-
-- **不在辦公室狀態** 設定訊息，讓其他人知道您不在工作狀態或是休假中，因此當他們傳送聊天訊息給您時，您無法回覆。 您的不在辦公室狀態也會與您 Outlook 日曆中的自動回覆同步。
-
-[//]: # (DO NOT REMOVE)
-
-
 ## <a name="version-2103-march-11"></a>版本 2103：3 月 11 日
 *版本 2103 (組建 13901.20148)*
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ ms.locfileid: "51440708"
 
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
+### <a name="teams"></a>Teams
+
+- **不在辦公室狀態** 設定訊息，讓其他人知道您不在工作狀態或是休假中，因此當他們傳送聊天訊息給您時，您無法回覆。 您的不在辦公室狀態也會與您 Outlook 日曆中的自動回覆同步。
+
 ### <a name="visio"></a>Visio
 
 - **Office 圖示有新的外觀：** 產品圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。 [深入了解](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ ms.locfileid: "51440708"
 - **Word 文件的深色模式：** 深色模式有助於減輕眼睛疲勞，並可在處理文件時適應對光線的敏感度。
 
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
-
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2975,7 +2978,7 @@ ms.locfileid: "51440708"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
