@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: f59693161d58d2e29362214feca8d0f255f84246
-ms.sourcegitcommit: a4a8fb0a7e5be677ac473b3a8dea15cbada5914a
+ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
+ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "51487247"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51589885"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -36,6 +36,15 @@ ms.locfileid: "51487247"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-april-02"></a>版本 2103：4 月 2 日
+*版本 2103 (組建 13901.20336)*
+* 各種錯誤和效能修正。
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正啟用 MAPI 的應用程式在具有 ARM 處理器的電腦上使用 Outlook 元件的問題。 此問題會導致搜尋失敗，或因為背景應用程式重複重新啟動而造成電腦額外負載。
 
 ## <a name="version-2103-march-30"></a>版本 2103：3 月 30 日
 *版本 2103 (組建 13901.20312)*
@@ -2284,6 +2293,7 @@ ms.locfileid: "51487247"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
@@ -2293,5 +2303,4 @@ ms.locfileid: "51487247"
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
