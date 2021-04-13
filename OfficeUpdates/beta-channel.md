@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 78d200b4d33693aa0092fe9a7c768fef67e6721e
-ms.sourcegitcommit: 5863f79973406ef27d5904509c0aef059e25c17b
+ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
+ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51506780"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51662327"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,24 @@ ms.locfileid: "51506780"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-april-09"></a>版本 2105：4 月 9 日
+*版本 2105 (組建 14002.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **[協助工具] 功能區：** 在一個地方找到建立無障礙內容所需的所有工具 - [協助工具] 功能區！
+
+### <a name="word"></a>Word
+
+- **校訂現在可用於文件中的已選取文字：** 有了這些變更，您現在可以僅檢閲已選取文字的拼字、文法和其他智慧型撰寫建議。 此外，您還可以檢閲對整個文件的建議。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2104-april-02"></a>版本 2104：4 月 2 日
 *版本 2104 (組建 13929.20016)*
@@ -2801,6 +2819,7 @@ ms.locfileid: "51506780"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
@@ -2810,5 +2829,4 @@ ms.locfileid: "51506780"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
