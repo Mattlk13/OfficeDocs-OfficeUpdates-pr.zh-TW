@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: e7f673d8a3fdee500c117e695103d27f6b3799e9
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: 6ee106d57832dbe2584c771f3b8eebc82f79aa97
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589885"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749081"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -32,6 +32,51 @@ ms.locfileid: "51589885"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-april-13"></a>版本 2103：4 月 13 日
+*版本 2103 (組建 13901.20400)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正繪製影像時，Word 中的潛在資源爭用問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在新增行事曆時，錯誤地看到「這可能需要一些時間」訊息的問題。
+
+- 我們已修正會導致代理人在新增的行事曆上所建立的會議中顯示為召集人的問題。  處於此狀態的會議不會出現在主體的行事曆上。
+
+- 修正繪製影像時，Word 中的潛在資源爭用問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正繪製影像時，Word 中的潛在資源爭用問題。
+
+
+### <a name="word"></a>Word
+
+- 修正繪製影像時，Word 中的潛在資源爭用問題。
+
+- 修正在預覽列印時沒有回應的問題。
+
+- 更新在本機儲存的檔案自動儲存圖說文字上的文字。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正離線開啟 SyncBacked 檔案，然後於儲存檔案之前，在應用程式中重新命名檔案時重新命名失敗的問題。
 
 
 
@@ -116,7 +161,7 @@ ms.locfileid: "51589885"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -138,7 +183,7 @@ ms.locfileid: "51589885"
 
 ### <a name="visio"></a>Visio
 
-- 已修正 Visio 在關閉期間可能會停止運作的問題。
+- 修正 Visio 在關閉期間可能會停止運作的問題。
 
 
 ### <a name="word"></a>Word
@@ -193,7 +238,7 @@ ms.locfileid: "51589885"
 ### <a name="office-suite"></a>Office 套件
 
 
-- 已修正使用者在開啟先前開啟的檔案具有未儲存的編輯但現在檔案已遭到刪除時，無法儲存檔案的問題。 修正之後，使用者將會收到一則友善的訊息，通知他們已刪除該檔案，因此使用者可以選擇捨棄變更，或將檔案另存為新檔。
+- 修正使用者在開啟先前開啟的檔案具有未儲存的編輯但現在檔案已遭到刪除時，無法儲存檔案的問題。 修正之後，使用者將會收到一則友善的訊息，通知他們已刪除該檔案，因此使用者可以選擇捨棄變更，或將檔案另存為新檔。
 
 
 - 我們已修正與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
@@ -229,7 +274,7 @@ ms.locfileid: "51589885"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -370,7 +415,7 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致雲端設定使用者在更新設定時遇到停止回應的問題。
+- 我們已修正會導致雲端設定使用者在更新設定時遇到停止回應的問題。
 
 
 - 我們已修正在 OWA 中顯示正確預設簽名的問題。
@@ -436,7 +481,7 @@ ms.locfileid: "51589885"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
+- 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
 - 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
@@ -444,7 +489,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
+- 修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
 
 
 - 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
@@ -467,12 +512,12 @@ ms.locfileid: "51589885"
 - 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
-- 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
+- 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正檔案關閉順序，使所有相互依存的元件都能正常關閉。
+- 修正檔案關閉順序，使所有相互依存的元件都能正常關閉。
 
 
 
@@ -530,13 +575,13 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
+- 修正使用樞紐分析表的「將值顯示為」功能表時，Excel 可能會意外關閉的問題。
 
 
-- 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
+- 修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
 
 
-- 已修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
+- 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
 - 此變更解決了在方程式中正確顯示字型的問題。
@@ -544,7 +589,7 @@ ms.locfileid: "51589885"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些客戶在載入行事歷時遇到停滯的問題。
+- 我們已修正會導致某些客戶在載入行事歷時遇到停滯的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -580,12 +625,12 @@ ms.locfileid: "51589885"
 - 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
-- 已修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
+- 修正當開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會在不提示的情況下停用巨集的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正當快取中的 URL 與 OneDrive 中的 URL 不相符時，檔案將被開啟為 NOT SyncBacked 的問題。
+- 修正當快取中的 URL 與 OneDrive 中的 URL 不相符時，檔案將被開啟為 NOT SyncBacked 的問題。
 
 
 
@@ -617,15 +662,15 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
+- 我們已修正會導致某些會議的原始出席者在另一個出席者轉寄會議時收到取消通知的問題。
 
 
-- 我們已修正導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
+- 我們已修正會導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
 
 
 ### <a name="project"></a>Project
 
-- 已修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
+- 修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -644,12 +689,12 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正從 Word 到 PowerPoint 複製/貼上方程式時發生的問題。
+- 修正從 Word 到 PowerPoint 複製/貼上方程式時發生的問題。
 
 
 ### <a name="word"></a>Word
 
-- 已修正從 Word 到 PowerPoint 複製/貼上方程式時發生的問題。
+- 修正從 Word 到 PowerPoint 複製/貼上方程式時發生的問題。
 
 
 - 我們已修正文件樣式會以範本中的其他樣式取代的問題。
@@ -744,13 +789,13 @@ ms.locfileid: "51589885"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正 Slide.Shapes.AddMediaObject2 會對舊版影片格式 (MPG-1、Mpeg-2) 發生當機的 VBA 問題。
+- 修正 Slide.Shapes.AddMediaObject2 會對舊版影片格式 (MPG-1、Mpeg-2) 發生當機的 VBA 問題。
 
 
 - 我們已修正在複製含有新錄製音訊的投影片後，儲存檔案時發生錯誤的問題。
 
 
-- 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
+- 修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
 
 
 ### <a name="word"></a>Word
@@ -782,12 +827,12 @@ ms.locfileid: "51589885"
 
 ### <a name="visio"></a>Visio
 
-- 已修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
+- 修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正在某些情況下，嘗試執行另存新檔失敗的問題。
+- 修正在某些情況下，嘗試執行另存新檔失敗的問題。
 
 
 
@@ -804,7 +849,7 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
+- 我們已修正會導致使用者無法將 [編輯器] 權限授與代理人的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -910,7 +955,7 @@ ms.locfileid: "51589885"
 
 - 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示 [碳粉/墨水不足] 和 [沒有碳粉/墨水]。
 
-- 已修正 Microsoft 365 端點資料外洩防護無法在磁碟上分類 Office 文件的問題。
+- 修正 Microsoft 365 端點資料外洩防護無法在磁碟上分類 Office 文件的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -923,10 +968,10 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
+- 我們已修正會導致使用者無法將 [編輯器] 權限授與代理人的問題。
 
 
-- 我們已修正導致使用者在選取搜尋結果時遇到意外終止的問題。
+- 我們已修正會導致使用者在選取搜尋結果時遇到意外終止的問題。
 
 
 - 我們已修正當回覆或轉寄郵件時，會導致中文郵件標題無法閱讀的問題。
@@ -1031,7 +1076,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+- 修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
 
 
 ### <a name="word"></a>Word
@@ -1058,10 +1103,10 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
+- 修正當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
 
 
-- 已修正當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
+- 修正當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -1108,7 +1153,7 @@ ms.locfileid: "51589885"
 
 ### <a name="excel"></a>Excel
 
-- 已修正使用 [複製格式] 時，某些情況下，Excel 可能會當機的問題。
+- 修正使用 [複製格式] 時，某些情況下，Excel 可能會當機的問題。
 
 
 ### <a name="word"></a>Word
@@ -1184,9 +1229,9 @@ ms.locfileid: "51589885"
 
 ### <a name="outlook"></a>Outlook
 
-- 修正導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
+- 修正會導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
 
-- 已修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+- 修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
 
 - 解決了當代理人在某些情況下遭到拒絕而導致會議無法從經理的行事曆中移除的問題。
 
@@ -1204,7 +1249,7 @@ ms.locfileid: "51589885"
 
 - 修正了編輯收件者時，導致使用者偶爾當機的問題。
 
-- 修正導致使用者在使用壓縮模式時發生異常的問題。
+- 修正會導致使用者在使用壓縮模式時發生異常的問題。
 
 - 解決的問題導致在搜尋控制項中無法顯示滑鼠右鍵功能表。
 
@@ -1213,7 +1258,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正「連結至 SharePoint 工作清單的專案的完成日期沒有更新」的問題。
+- 修正「連結至 SharePoint 工作清單的專案的完成日期沒有更新」的問題。
 
 - 修正如果資源中定義了多個成本費率表，其餘成本並不一定都能正確地計算的問題。
 
@@ -1378,7 +1423,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正 [指派資源] 對話方塊中選取的工作與工作面板檢視中所選工作不同的問題。
+- 修正 [指派資源] 對話方塊中選取的工作與工作面板檢視中所選工作不同的問題。
 
 - 修正當您貼上的工作具有多個依存性時，無法正確複製所有依存性的問題。
 
@@ -1510,7 +1555,7 @@ ms.locfileid: "51589885"
 
 ### <a name="excel"></a>Excel
 
-- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
+- 修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -1534,10 +1579,10 @@ ms.locfileid: "51589885"
 - 修正 URL 以 .com 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
 
 
-- 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
+- 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
 
-- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
+- 修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
 
 
 ### <a name="word"></a>Word
@@ -1564,7 +1609,7 @@ ms.locfileid: "51589885"
 
 ### <a name="excel"></a>Excel
 
-- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
+- 修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
 
 
 
@@ -1600,7 +1645,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
+- 修正當標示為100% 完成之工作錯誤地變更為完成度低於100% 的問題。
 
 ### <a name="word"></a>Word
 
@@ -1654,7 +1699,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
+- 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1733,7 +1778,7 @@ ms.locfileid: "51589885"
 
 ### <a name="excel"></a>Excel
 
-- 已修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
+- 修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
 - 在某些情況下，按一下同一個活頁簿中某個位置的超連結會導致活頁簿被隱藏。
 
@@ -1769,7 +1814,7 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
+- 修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -1877,9 +1922,9 @@ ms.locfileid: "51589885"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
+- 修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1903,7 +1948,7 @@ ms.locfileid: "51589885"
 - 在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件。
 
 
-- 已修正如果您使用的是連線至 Project Web App 的 Project，且小數分隔符號是逗號，當您嘗試將延遲新增至相依性時，TaskDependencies Add 方法會失敗的問題。
+- 修正如果您使用的是連線至 Project Web App 的 Project，且小數分隔符號是逗號，當您嘗試將延遲新增至相依性時，TaskDependencies Add 方法會失敗的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1928,7 +1973,7 @@ ms.locfileid: "51589885"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 ### <a name="outlook"></a>Outlook
 
@@ -2140,9 +2185,9 @@ ms.locfileid: "51589885"
 
 ### <a name="excel"></a>Excel
 
-- 已修正未顯示操作功能表中的註解命令的問題。
+- 修正未顯示操作功能表中的註解命令的問題。
 
-- 已修正以下問題：將文字轉換成具有溢出陣列之儲存格的欄時，某些使用者發生當機。
+- 修正以下問題：將文字轉換成具有溢出陣列之儲存格的欄時，某些使用者發生當機。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2155,7 +2200,7 @@ ms.locfileid: "51589885"
 
 ### <a name="project"></a>Project
 
-- 已修正以下問題：固定工期類型的 100% 工作可能會誤將其完成百分比計算為小於 100% 完成。
+- 修正以下問題：固定工期類型的 100% 工作可能會誤將其完成百分比計算為小於 100% 完成。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -2293,6 +2338,7 @@ ms.locfileid: "51589885"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
@@ -2302,5 +2348,4 @@ ms.locfileid: "51589885"
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
-[//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

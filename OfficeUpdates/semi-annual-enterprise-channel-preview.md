@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2020 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 6fdea7518be03546ba6bd761c88634da3b29d071
-ms.sourcegitcommit: 63637fc22e4a2df0000612e8b4d51a29af7fb6e5
+ms.openlocfilehash: d6c48db35445d15503c246506bc7d03da3ca0548
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51196732"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748961"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -23,6 +23,74 @@ ms.locfileid: "51196732"
 > [!IMPORTANT]
 > 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
 
+
+## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
+*版本 2102 (組建 13801.20506)*
+
+安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 修正在某些情況下，執行 SQL Server 傳遞查詢時，可能會導致錯誤訊息指出「無效的 Cursor 狀態」的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 修正 Office 功能區中已停用的命令，在深灰色 Office 佈景主題中只會使圖示而非文字呈現灰色的錯誤。
+
+
+- 我們已修正將資料列新增至另一個工作表上的表格後，可能會非預期地對儲存格套用資料驗證的問題。
+
+
+- 我們已修正 DialogSheets show 函數在 32 位元版本的 Excel 上無法運作的問題
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致 Outlook 在閒置時當機的問題。
+
+
+- 我們已修正會導致雲端設定功能的使用者在新裝置上設定 Outlook 之後，會看到自訂設定遭到預設設定覆寫的問題。
+
+
+- 我們已修正會導致使用者看到較預期更多的簽章的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正 Office 功能區中已停用的命令，在深灰色 Office 佈景主題中只會使圖示而非文字呈現灰色的錯誤。
+
+
+### <a name="word"></a>Word
+
+- 修正 Office 功能區中已停用的命令，在深灰色 Office 佈景主題中只會使圖示而非文字呈現灰色的錯誤。
+
+
+- 我們已修正有關複製和貼上的問題。
+
+
+- 我們已修正在隱藏段落結尾輸入可能會導致應用程式懸置的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正使用者在開啟先前開啟的檔案具有未儲存的編輯但現在檔案已遭到刪除時，無法儲存檔案的問題。 修正之後，使用者將會收到一則友善的訊息，通知他們已刪除該檔案，因此使用者可以選擇捨棄變更，或將檔案另存為新檔。
+
+
+- 修正離線開啟 SyncBacked 檔案，然後於儲存檔案之前，在應用程式中重新命名檔案時重新命名失敗的問題。
+
+
+- 修正針對使用者停用 GCC 聽寫的問題
+
+
+- 修正有時可能會導致 Outlook 中的文字變得透明，因而無法辨認的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
 *版本 2102 (組建 13801.20294)*
@@ -45,7 +113,7 @@ ms.locfileid: "51196732"
 
 - **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +125,13 @@ ms.locfileid: "51196732"
 
 - **在 Outlook 中使用快速投票建立投票：** 輕鬆建立投票、收集投票，並在電子郵件中檢視結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **新的會議室尋找工具：** 依不同功能搜尋會議室。
 
 - **以您說話的方式搜尋：** 使用日常語言如「上週獸醫的預約」來篩選和縮小搜尋範圍。
 
-- **快速重新開啟上一個 Outlook 工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。<br />在[部落格文章](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)中查看詳細資料
+- **快速重新開啟上一個 Outlook 工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/automatically-restore-windows-in-outlook)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +139,7 @@ ms.locfileid: "51196732"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
@@ -83,7 +151,7 @@ ms.locfileid: "51196732"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -110,7 +178,7 @@ ms.locfileid: "51196732"
 - 我們已修正會破壞一些舊版 Excel 4.0 和 Excel 5.0 巨集以及對 dialogsheets.show 的一些 VBA 呼叫的問題。
 
 
-- 已修正使用樞紐分析表的 [值的顯示方式] 功能表時，Excel 可能會意外關閉的問題。
+- 修正使用樞紐分析表的 [值的顯示方式] 功能表時，Excel 可能會意外關閉的問題。
 
 
 - 我們已修正會導致使用者無法將 Excel 活頁簿匯出至 PDF 的問題。
@@ -122,13 +190,13 @@ ms.locfileid: "51196732"
 - 我們已修正在儲存為 .xls 或 .xlt 格式時，會導致某些樞紐分析表格式損壞活頁簿的問題。
 
 
-- 已修正在開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會將巨集停用而不提示的問題。
+- 修正在開啟含有 Excel 4.0 巨集的 Excel 增益集檔案時，Excel 可能會將巨集停用而不提示的問題。
 
 
-- 已修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
-- 已修正當某些使用者在共同撰寫時會不正確地在訊息列中看到通知他們檔案有新版本的問題。
+- 修正當某些使用者在共同撰寫時會不正確地在訊息列中看到通知他們檔案有新版本的問題。
 
 
 - 修正當使用特定 Windows 安全性漏洞防護設定(SimExec、CallerCheck) 時，Excel 無法正常啟動或關閉的問題。
@@ -142,13 +210,13 @@ ms.locfileid: "51196732"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
+- 我們已修正會導致使用者無法將 [編輯器] 權限授與代理人的問題。
 
 
-- 我們已修正導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
+- 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正會導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 - 已解決當主旨行空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
@@ -184,7 +252,7 @@ ms.locfileid: "51196732"
 - 我們已修正會導致某些使用者在關閉訊息視窗時遇到應用程式關閉的問題。
 
 
-- 已修正在傳送工作的狀態報告時，造成 [收件者] 欄位為空白的問題。
+- 修正在傳送工作的狀態報告時，造成 [收件者] 欄位為空白的問題。
 
 
 - 我們已修正會導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
@@ -202,7 +270,7 @@ ms.locfileid: "51196732"
 - 我們已修正在提示使用者儲存已編輯的簽章後，會導致該動作無法執行的問題。
 
 
-- 我們已修正導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
+- 我們已修正會導致某些使用者未設定一或多個簽章時，在 [簽名] 下拉式清單中看不到任何簽名的問題。
 
 
 - 我們已修正會導致預設不會為使用者開啟雲端設定的問題。
@@ -232,21 +300,21 @@ ms.locfileid: "51196732"
 - 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments。  REG_DWORD IncludeFileTimesInDataObject。  0 = 不包含 filetimes。  1 = (預設) 包含 filetimes。
 
 
-- 已修正當回覆含有「Azure 資訊保護」保護標籤的郵件時，導致內嵌影像消失的問題。
+- 修正當回覆含有「Azure 資訊保護」保護標籤的郵件時，導致內嵌影像消失的問題。
 
 
 - 我們已修正會導致加密圖示無法對使用僅加密選項傳送的電子郵件顯示的問題。
 
 
-- 我們已修正導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
+- 我們已修正會導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
-- 已修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
+- 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
 
 
 - 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
@@ -273,7 +341,7 @@ ms.locfileid: "51196732"
 - 我們已修正在受保護的檢視中開啟 PowerPoint 檔案時，會停用 IRM 保護的問題。
 
 
-- 已修正會導致共同撰寫在包含大量特定資料物件類型 (E2o) 的檔案上變慢的問題。
+- 修正會導致共同撰寫在包含大量特定資料物件類型 (E2o) 的檔案上變慢的問題。
 
 
 - 修正以解決在合併錯誤期間使用 IRM/受保護文件的問題。
@@ -282,7 +350,7 @@ ms.locfileid: "51196732"
 - 這是此問題的修正：當有增益集在接聽 PresentationBeforeClose 事件並隨著事件處理常式檢查 Presentation.Saved 內容時若關閉文件，儲存提示會以迴圈顯示。
 
 
-- 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
+- 修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題。
@@ -296,35 +364,35 @@ ms.locfileid: "51196732"
 - 修正如果工作表單類型檢視內的延隔時間變更，ProjectBeforeTaskChange 事件中的 NewVal 不會有正確值的問題。
 
 
-- 已修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+- 修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
 
 
-- 已修正 Project 在開啟以特定方式指定資源分佈的檔案時可能會意外終止的問題。
+- 修正 Project 在開啟以特定方式指定資源分佈的檔案時可能會意外終止的問題。
 
 
-- 已修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
+- 修正如果特定專案在負載的特定部分發生問題，可能會開啟特定專案的問題。
 
 
-- 已修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
+- 修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
 
 
 - 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 已修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 ### <a name="visio"></a>Visio
 
-- 已修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
+- 修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
 
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
-- 已修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
+- 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
 
 
 - 此變更可解決編輯文件時游標的問題。
@@ -356,22 +424,22 @@ ms.locfileid: "51196732"
 - 我們已修正在嘗試儲存已從 syncbacked 檔案轉換為僅限伺服器的檔案時，導致失敗的問題。
 
 
-- 已修正在某些情況下，嘗試執行另存新檔會失敗的問題。
+- 修正在某些情況下，嘗試執行另存新檔會失敗的問題。
 
 
 - 我們已修正 SaveRequestManagerCam 會導致應用程式關閉，而非傳回錯誤的問題。
 
 
-- 已修正檔案關閉順序，使得所有相互依賴的元件都能正常關閉。
+- 修正檔案關閉順序，使得所有相互依賴的元件都能正常關閉。
 
 
-- 已修正當來自快取的 URL 與來自 OneDrive 的 URL 不相符時，檔案將被開啟為 NOT SyncBacked 的問題。
+- 修正當來自快取的 URL 與來自 OneDrive 的 URL 不相符時，檔案將被開啟為 NOT SyncBacked 的問題。
 
 
 - 修正在商務用 Skype 訊息中複製/貼上時，會導致出現對話方塊顯示「貼上您的內容時發生問題」的錯誤。
 
 
-- 已修正將註解中的文字複製/貼上到 Excel 時會發生錯誤的問題。
+- 修正將註解中的文字複製/貼上到 Excel 時會發生錯誤的問題。
 
 
 - 修正在包含數學方程式的文字內使用朗讀程式時可能發生的損毀。
@@ -383,7 +451,7 @@ ms.locfileid: "51196732"
 - 已修復在某些較舊的版本上安裝較新版的 Office 時，可能會造成功能受損 (例如由於遺失登錄專案而無法使用 Power Query) 的問題。
 
 
-- 已修正 Microsoft 365 端點資料外洩防護無法分類磁碟上 Office 文件的問題。
+- 修正 Microsoft 365 端點資料外洩防護無法分類磁碟上 Office 文件的問題。
 
 
 - 我們已修正 [壓縮圖片] 對話方塊未保留某些使用者設定的問題。
@@ -443,7 +511,7 @@ ms.locfileid: "51196732"
 - 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
 
 
-- 已修正使用保留來源格式設定選項複製及貼上投影片時，有時會將此設定意外地複製到新的投影片母片的問題
+- 修正使用保留來源格式設定選項複製及貼上投影片時，有時會將此設定意外地複製到新的投影片母片的問題
 
 
 ### <a name="word"></a>Word
@@ -456,10 +524,10 @@ ms.locfileid: "51196732"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正無法在 Office 中成功開啟檔案的問題。
+- 修正無法在 Office 中成功開啟檔案的問題。
 
 
-- 已修正使用複製格式將包含草繪外框的文件套用至連接器可能會損毀的問題。
+- 修正使用複製格式將包含草繪外框的文件套用至連接器可能會損毀的問題。
 
 
 
@@ -476,16 +544,16 @@ ms.locfileid: "51196732"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正唯讀書籍在開啟時無法再重新整理樞紐分析表資料的問題。
+- 修正唯讀書籍在開啟時無法再重新整理樞紐分析表資料的問題。
 
 
 - 這項變更提供下列問題的修正程式：從 OneDrive 本機同步處理資料夾插入檔案時，Excel 的 [插入物件] 不會顯示正確的圖示。
 
 
-- 已修正客戶在共同撰寫時會錯誤地得到有關文件新版本通知的問題。
+- 修正客戶在共同撰寫時會錯誤地得到有關文件新版本通知的問題。
 
 
-- 已修正即使用 IME 和覆寫模式將錯誤地推進額外的字元的編輯問題。
+- 修正即使用 IME 和覆寫模式將錯誤地推進額外的字元的編輯問題。
 
 
 - 修復了將即時資料與多執行緒 recalc 功能結合使用時出現的問題。
@@ -496,13 +564,13 @@ ms.locfileid: "51196732"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致 SmartLinks 在儲存至草稿時格式遺失的問題。
+- 我們已修正會導致 SmartLinks 在儲存至草稿時格式遺失的問題。
 
 
 - 我們已修正讓使用者能在覆寫原則時自訂調整文字的問題。
 
 
-- 我們已修正導致中文字元在儲存為 OFT 檔案時變更為問號的問題。
+- 我們已修正會導致中文字元在儲存為 OFT 檔案時變更為問號的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -510,7 +578,7 @@ ms.locfileid: "51196732"
 - 我們已修正 Slide.Shapes.AddMediaObject2 會對舊版影片格式 (MPG-1、Mpeg-2) 發生意外關閉的 VBA 問題。
 
 
-- 已修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
+- 修正無法正確開啟部分損壞的 PowerPoint 檔案 (即使在文件修復之後) 的問題。
 
 
 ### <a name="project"></a>Project
@@ -520,10 +588,10 @@ ms.locfileid: "51196732"
 
 ### <a name="skype"></a>Skype
 
-- 已修正使用者的 TLS-DSK 憑證不會在預期時間續訂，而只在有效期剩餘不到 12 小時才續訂的問題。
+- 修正使用者的 TLS-DSK 憑證不會在預期時間續訂，而只在有效期剩餘不到 12 小時才續訂的問題。
 
 
-- 已修正當 Office 尚未獲得授權時，商務用 Skype UI 在登入後顯示為空白的問題。
+- 修正當 Office 尚未獲得授權時，商務用 Skype UI 在登入後顯示為空白的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -553,7 +621,7 @@ ms.locfileid: "51196732"
 
 ### <a name="excel"></a>Excel
 
-- 已修正從 Project 計劃匯出時無法編輯樞紐分析表和無法儲存活頁簿的問題。
+- 修正從 Project 計劃匯出時無法編輯樞紐分析表和無法儲存活頁簿的問題。
 
 
 - 我們已修正在某些情况下，以唯讀模式開啟文件時會出現多個訊息列。
@@ -571,7 +639,7 @@ ms.locfileid: "51196732"
 - 當內容從 Excel 複製並使用 [内嵌] 選項貼上到 PowerPoint 中時，改進了 PowerPoint 中的文字字元間距調整。
 
 
-- 已修正在 PowerPivot 中封鎖從 [資料表預覽] 和 [査詢編輯器] 切換的問題。
+- 修正在 PowerPivot 中封鎖從 [資料表預覽] 和 [査詢編輯器] 切換的問題。
 
 
 - 我們已修正使用者無法直接從 SharePoint 開啟 atomsvc (UTF8+BOM) 檔案的問題。
@@ -591,7 +659,7 @@ ms.locfileid: "51196732"
 - 我們已修正一些問題，導致某些使用者在從 Outlook 以外的應用程式傳送 Outlook 郵件時，遇到應用程式意外關閉的問題。
 
 
-- 我們已修正導致使用者在線上模式下在資料夾之間移動多個郵件項時效能下降的問題。
+- 我們已修正會導致使用者在線上模式下在資料夾之間移動多個郵件項時效能下降的問題。
 
 
 - 我們新增了一個 RegKey，可讓客戶停用 IDataObject 操作 (例如，拖曳拖放、剪貼簿) 中附件的 FileTime 包含。  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes 被排除  1 = (預設) 事件時間包含在内
@@ -600,7 +668,7 @@ ms.locfileid: "51196732"
 - 我們已修正當回復含有「Azure 資訊保護」保護標籤的郵件時，會導致內嵌影像消失的問題。
 
 
-- 我們已修正導致在傳送受 Azure 保護的語音信箱時用戶名顯示為電話號碼，從而導致傳統型 Outlook 使用者無法開啟來自外部使用者的語音信箱。
+- 我們已修正會導致在傳送受 Azure 保護的語音信箱時用戶名顯示為電話號碼，從而導致傳統型 Outlook 使用者無法開啟來自外部使用者的語音信箱。
 
 
 - 我們已修正一個問題，即設定 OME 設定時在郵件項目上新增無關的附件，這會迫使 Outlook 加密郵件，即使在服務端設定了DecryptAttachmentsFontryptOnly 選項。
@@ -611,12 +679,12 @@ ms.locfileid: "51196732"
 - 我們已修正當使用者將來源路徑變更為本機 OneDrive 資料夾時，連結的 Excel 圖表不正確變更為 Excel 工作表的問題。
 
 
-- 我們已修正導致「歡迎回來」的問題！ 「從先前離開的地方開始」在 PowerPoint 裏不起作用。
+- 我們已修正會導致「歡迎回來」的問題！ 「從先前離開的地方開始」在 PowerPoint 裏不起作用。
 
 
 ### <a name="visio"></a>Visio
 
-- 已修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
+- 修正使用者將可在自訂 Visio 樣板和內建範本中使用適用於 Office 365 的 Visio 連接器建立直線的問題。
 
 
 ### <a name="word"></a>Word
@@ -672,13 +740,13 @@ ms.locfileid: "51196732"
 - 我們已修正一個問題，使用者現在可以停用 Outlook 的 IRM (資訊版權管理)，而不需要為其餘 Office 應用程式停用它。
 
 
-- 我們已修正導致使用者無法將 [編輯器] 權限授與代理人的問題。
+- 我們已修正會導致使用者無法將 [編輯器] 權限授與代理人的問題。
 
 
-- 我們已修正導致使用者在選取搜尋結果時遇到意外終止的問題。
+- 我們已修正會導致使用者在選取搜尋結果時遇到意外終止的問題。
 
 
-- 我們已修正導致群組行事曆中的搜尋無法傳回任何結果的問題。
+- 我們已修正會導致群組行事曆中的搜尋無法傳回任何結果的問題。
 
 
 - 已解決導致代理人在開啟另一個信箱中的共用資料夾時出現錯誤的問題。
@@ -689,7 +757,7 @@ ms.locfileid: "51196732"
 
 - 我們已修正在回覆或轉寄時，導致中文郵件標題出現亂碼的問題。
 
-- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。  <br />在[部落格文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
+- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。  <br />在[部落格文章](https://developer.microsoft.com/zh-TW/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -724,10 +792,10 @@ ms.locfileid: "51196732"
 - 我們已修正使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
 
 
-- 已修正當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
+- 修正當凍結工作表頂端列之後，Excel 可能會在使用 [快速分析] 時當機的問題。
 
 
-- 已修正當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
+- 修正當活頁簿包含使用 IFNA () 的公式時，可能會造成錯誤活頁簿的警告之問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -755,7 +823,7 @@ ms.locfileid: "51196732"
 
 ### <a name="visio"></a>Visio
 
-- 我們已修正導致即時預覽在文字對齊時發生當機的問題。
+- 我們已修正會導致即時預覽在文字對齊時發生當機的問題。
 
 
 ### <a name="word"></a>Word
@@ -827,7 +895,7 @@ ms.locfileid: "51196732"
 
 - **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。 [深入了解](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
+- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 
 - **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -843,7 +911,7 @@ ms.locfileid: "51196732"
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
-- **[註解]：** PowerPoint 中新增的註解體驗可讓您快速輕鬆地探索文件並新增註解。 使用註解錨定、解析、任務、已改進的提及通知等新功能使您的共同作業工作流程現代化。 [深入了解](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
+- **註解：** PowerPoint 中新增的註解體驗可讓您快速輕鬆地探索文件並新增註解。 使用註解錨定、解析、任務、已改進的提及通知等新功能使您的共同作業工作流程現代化。 [深入了解](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
 
 - **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。 [深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
 
@@ -880,9 +948,9 @@ ms.locfileid: "51196732"
 
 - 我們已修正執行查詢的時間大約比預期完成時間兩倍久的問題。
 
-- 已修正問題；您應該可以呼叫日期/時間延伸資料類型至您的程式碼，而不會在您的應用程式中遇到任何當機。
+- 修正問題；您應該可以呼叫日期/時間延伸資料類型至您的程式碼，而不會在您的應用程式中遇到任何當機。
 
-- 已修正問題；您現在可以還原為最新的 Access 版本，並使用 DAO/VBA 來管理及編輯十進位資料類型。
+- 修正問題；您現在可以還原為最新的 Access 版本，並使用 DAO/VBA 來管理及編輯十進位資料類型。
 
 - 此修正會解決嘗試執行之前會產生「查詢太複雜」錯誤訊息的特定查詢的問題。
 
@@ -900,27 +968,27 @@ ms.locfileid: "51196732"
 
 - 嘗試使用 LET() 函數儲存含有公式的檔案時發生錯誤。
 
-- 已修正使用 [複製格式] 時，某些情況下，Excel 可能會當機的問題。
+- 修正使用 [複製格式] 時，某些情況下，Excel 可能會當機的問題。
 
-- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
+- 修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
 
-- 已修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
+- 修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
-- 已修正在某些情況下，按一下同一個活頁簿中某個位置的超連結會導致活頁簿被隱藏的問題。
+- 修正在某些情況下，按一下同一個活頁簿中某個位置的超連結會導致活頁簿被隱藏的問題。
 
-- 已修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
+- 修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
 
 - 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
+- 修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
 - 這解決了舊版 Office 中 SQL 資料提供者建立的連結設定內部表格内容與 Office 365 不同的問題。 這導致在舊版 Office 中使用 Office 365 開啟文件時，這些檔案的 [表格預覽/查詢編輯器] 下拉清單被停用。
 
 - 解決當來源活頁簿關閉時，外部連結無法在填入時更新的問題。
 
-- 已修正筆跡會導致 Excel 無法回應的問題。
+- 修正筆跡會導致 Excel 無法回應的問題。
 
 ### <a name="onenote"></a>OneNote
 
@@ -940,9 +1008,9 @@ ms.locfileid: "51196732"
 
 ### <a name="outlook"></a>Outlook
 
-- 修正導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
+- 修正會導致使用者嘗試從次要帳戶建立會議邀請的問題，讓帳戶新增至他們的個人檔案，而不會看到空白的表格: 是欄位而不是其電子郵件地址。
 
-- 已修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
+- 修正新增共用信箱之後，導致使用者無法連線至公用資料夾的問題。
 
 - 解決了當代理人在某些情況下遭到拒絕而導致會議無法從經理的行事曆中移除的問題。
 
@@ -1002,7 +1070,7 @@ ms.locfileid: "51196732"
 
 - 修正了編輯收件者時，導致使用者偶爾當機的問題。
 
-- 修正導致使用者在使用壓縮模式時發生異常的問題。
+- 修正會導致使用者在使用壓縮模式時發生異常的問題。
 
 - 解決會導致 Outlook 使用者在精簡檢視中看到瀏覽問題的問題。
 
@@ -1020,14 +1088,14 @@ ms.locfileid: "51196732"
 
 - 我們已修正複製和貼上 SVG 影像的問題。
 
-- 已修正編輯收件者時，導致使用者偶爾當機的問題。
+- 修正編輯收件者時，導致使用者偶爾當機的問題。
 
 - 我們已修正複製和貼上 SVG 影像的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正使用者在同一檔案中同時有新版和舊版批註，因此觸發批註的升級而當機的問題。
+- 修正使用者在同一檔案中同時有新版和舊版批註，因此觸發批註的升級而當機的問題。
 
 - 我們已修正 PowerPoint 應用程式的當機問題。
 
@@ -1035,7 +1103,7 @@ ms.locfileid: "51196732"
 
 ### <a name="project"></a>Project
 
-- 已修正在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件的問題。
+- 修正在表單檢視中編輯前置/後續任務資料時，會觸發額外的 ProjectBeforeTaskChange 事件的問題。
 
 - 修正儲存使用舊版 Project 建立的專案時，Project 可能當機的問題。
 
@@ -1049,7 +1117,7 @@ ms.locfileid: "51196732"
 
 - 修正透過 [已停用] 按鈕停用/啟動工作時，ProjectBeforeTaskChange 事件無法偵測的問題。
 
-- 已修正如果您使用的是連線至 Project Web App 的 Project，且小數分隔符號是逗號，當您嘗試將延遲新增至相依性時，TaskDependencies Add 方法會失敗的問題。
+- 修正如果您使用的是連線至 Project Web App 的 Project，且小數分隔符號是逗號，當您嘗試將延遲新增至相依性時，TaskDependencies Add 方法會失敗的問題。
 
 - 修正 URL 以 .com 結尾時，無法從 Project Web App 在 Project 傳統型用戶端開啟專案的問題。
 
@@ -1059,15 +1127,15 @@ ms.locfileid: "51196732"
 
 - 修正當標示為 100% 完成之工作錯誤地變更為低於 100% 完成的問題。
 
-- 已修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
+- 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
-- 已修正如果資源中定義了多個成本費率表，其餘成本並不一定都能正確地計算的問題。
+- 修正如果資源中定義了多個成本費率表，其餘成本並不一定都能正確地計算的問題。
 
-- 已修正「連結至 SharePoint 工作清單的專案的完成日期沒有更新」的問題。
+- 修正「連結至 SharePoint 工作清單的專案的完成日期沒有更新」的問題。
 
-- 已修正 [指派資源] 對話方塊中選取的工作與工作面板檢視中所選工作不同的問題。
+- 修正 [指派資源] 對話方塊中選取的工作與工作面板檢視中所選工作不同的問題。
 
-- 已修正無法開啟已進入錯誤狀態的專案的問題。
+- 修正無法開啟已進入錯誤狀態的專案的問題。
 
 ### <a name="skype"></a>Skype
 
@@ -1102,13 +1170,13 @@ ms.locfileid: "51196732"
 
 - 針對舊版非網頁服務的 [共用] 窗格，在開啟 [共用] 窗格下關閉文件時，可能會導致當機。 這個問題現在已經修正。
 
-- 已修正關閉 Office 檔案時，計時問題可能會導致當機的問題。
+- 修正關閉 Office 檔案時，計時問題可能會導致當機的問題。
 
 - 我們透過設定Bing附加預設安裝驗證設定為true默認，並將MSI返回成功視為安裝成功，而解決了 ValidateInstall 失敗率問題。
 
 - 我們會將新的 AppV51 向後移，以修正先前 AppV51 中的回歸。
 
-- 已修正當嘗試硬連結符號連結時，導致更新失敗的 [點擊運作] 問題。
+- 修正當嘗試硬連結符號連結時，導致更新失敗的 [點擊運作] 問題。
 
 - 修正即使完整產品的轉換已完成，也會導致執行階段訊息顯示的問題。 此問題的修正程式是確保服務正確計算新增的產品。 我們已篩選出新增的產品 (確保它們同時存在於新的設定中)，並將它們新增到現有產品發行識別碼的結尾。
 
@@ -1143,7 +1211,7 @@ ms.locfileid: "51196732"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正無法將以 [唯讀建議] 方式開啟的檔案切換至編輯功能的問題。
+- 修正無法將以 [唯讀建議] 方式開啟的檔案切換至編輯功能的問題。
 
 ### <a name="onenote"></a>OneNote
 
@@ -1159,11 +1227,11 @@ ms.locfileid: "51196732"
 
 ### <a name="skype"></a>Skype
 
-- 已修正在執行數天後，會無法啟動 32位元 Skype 商務版客戶螢幕共享的問題。
+- 修正在執行數天後，會無法啟動 32位元 Skype 商務版客戶螢幕共享的問題。
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正如果 [自動儲存] 已透過組織政策關閉的話，某些文件可能不會在開啟時顯示最新的伺服器內容，除非使用者點擊 [可用的更新] 才會顯現。
+- 修正如果 [自動儲存] 已透過組織政策關閉的話，某些文件可能不會在開啟時顯示最新的伺服器內容，除非使用者點擊 [可用的更新] 才會顯現。
 
 
 
@@ -1182,7 +1250,7 @@ ms.locfileid: "51196732"
 
 - 加速載入本機 OneDrive 資料夾中的檔案。
 
-- 已修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
+- 修正當儲存至 SharePoint/OneDrive 時，會導致自訂功能區索引標籤 CustomUI XML 的問題。
 
 - 修正因為增益集是以字母順序載入，而不是以使用者指定的順序載入，而顯示 [這個活頁簿目前正由其他活頁簿所參考中，不可關閉] 錯誤訊息的問題。
 
@@ -1251,17 +1319,17 @@ ms.locfileid: "51196732"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
+- 修正當檔案路徑太長時，在檔案重新開啟之後外部連結會停止運作的問題。
 
-- 已修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
+- 修正當 Excel 視窗透過 Teams 共用時，使用 Ctrl + Shift + 方向鍵滑動後，Excel 可能會無法回應的問題。
 
-- 已修正列印時表單控制項的核取方塊縮放的問題。
+- 修正列印時表單控制項的核取方塊縮放的問題。
 
 - 當您使用舊版的「共用活頁簿」模式，嘗試為活頁簿的新工作表列出變更時，就會發生當機。
 
 - 在已篩選清單中插入欄的時間會比預期更長。
 
-- 已修正開始公式的 @ 符號會被視為隱式交集運算子的問題。
+- 修正開始公式的 @ 符號會被視為隱式交集運算子的問題。
 
 ### <a name="outlook"></a>Outlook
 
@@ -1308,11 +1376,11 @@ ms.locfileid: "51196732"
 
 - 在某些情況下，當您切換不同縮放比例的活頁簿時，Excel 可能會當機。
 
-- 已修正 VBA 將值寫入範圍時，速度比預期慢的問題。
+- 修正 VBA 將值寫入範圍時，速度比預期慢的問題。
 
 - 從有色彩篩選的欄複製的資料有時候無法正確貼上。
 
-- 已修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
+- 修正在複製含有樞紐分析表的工作表後，會於某些情況下導致 Excel 當機的問題。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
@@ -1352,7 +1420,7 @@ ms.locfileid: "51196732"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正以下問題：當開啟的檔案複本具有增強式註解時，為使用者轉送正確的訊息。
+- 修正以下問題：當開啟的檔案複本具有增強式註解時，為使用者轉送正確的訊息。
 
 ### <a name="word"></a>Word
 
@@ -1370,7 +1438,7 @@ ms.locfileid: "51196732"
 
 - 這項變更可確保草繪大綱可在功能區中正常運作。
 
-- 已修正使用一些特定 proxy 設定時，從內部部署位置開啟檔案時發生的問題。
+- 修正使用一些特定 proxy 設定時，從內部部署位置開啟檔案時發生的問題。
 
 - 此更新修正了 Microsoft Office 中 Visual Basic for Applications 中的問題，其中特定 VBA 專案參考了程式庫名稱或程式庫路徑中有 DBCS 字元的程式碼程式庫，因而在載入時被 Office 應用程式視為損毀。
 
@@ -1395,7 +1463,8 @@ ms.locfileid: "51196732"
 
 - **輸入會傳回多個值的公式**：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。  [深入了解](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。  [深入了解](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。  
+  [深入了解](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -1408,7 +1477,7 @@ ms.locfileid: "51196732"
 
 - 在受保護工作表中的範圍使用 Range.ClearContents 可能會比預期花的時間更長。
 
-- 已修正在 [預覽列印] 中顯示表單控制項時的文字縮放比例問題。
+- 修正在 [預覽列印] 中顯示表單控制項時的文字縮放比例問題。
 
 - 與功能區互動的 VBA 宏可能會意外以 ScreenUpdating 設定為 True 執行。
 
@@ -1436,9 +1505,9 @@ ms.locfileid: "51196732"
 
 ### <a name="project"></a>Project
 
-- 已修正儲存使用舊版 [專案] 建立的專案時，[專案] 可能當機的問題。
+- 修正儲存使用舊版 [專案] 建立的專案時，[專案] 可能當機的問題。
 
-- 已修正透過 [已停用] 按鈕停用/啟動工作時，ProjectBeforeTaskChange 事件無法偵測的問題。
+- 修正透過 [已停用] 按鈕停用/啟動工作時，ProjectBeforeTaskChange 事件無法偵測的問題。
 
 ### <a name="word"></a>Word
 
@@ -1777,14 +1846,14 @@ ms.locfileid: "51196732"
 
 - 此更新已修正使用 VBA 將影像新增到圖表的頁首/頁尾時發生錯誤的問題。
 
-- 已修正在預覽列印或列印時群組方塊控制項的框線無法顯示的問題。
+- 修正在預覽列印或列印時群組方塊控制項的框線無法顯示的問題。
 
 - 使用者在使用某些非英文字元集的情況下，儲存變更時可能會遇到錯誤的問題。
 
-- 已修正圖表標題中影像檔案大小在儲存包含圖表的活頁簿時增加的問題。
+- 修正圖表標題中影像檔案大小在儲存包含圖表的活頁簿時增加的問題。
 
 
-- 已修正以下問題：將選取範圍與交互參照的活頁簿保持同步時，導致交互參照的活頁簿中的 DBCS 字元損毀。
+- 修正以下問題：將選取範圍與交互參照的活頁簿保持同步時，導致交互參照的活頁簿中的 DBCS 字元損毀。
 
 - 已解決使用自動調整來調整列高時，核取方塊可能收縮的問題。
 
@@ -1810,15 +1879,15 @@ ms.locfileid: "51196732"
 - 已改善複製貼上的案例，即將 PowerPoint 投影片中的圖形複製並貼到其他投影片可能會因為異常而失敗。
 
 
-- 已修正導致共同作業使用者之間效能較低的問題。
+- 修正導致共同作業使用者之間效能較低的問題。
 
-- 已修正以下問題：當檔案以漸進式開啟時，若其中一個投影片包含多個內嵌媒體串流可能會發生問題。
+- 修正以下問題：當檔案以漸進式開啟時，若其中一個投影片包含多個內嵌媒體串流可能會發生問題。
 
-- 已修正以下問題：首次啟動 PowerPoint 時，不受信任的增益集可能不會顯示安全性警告訊息列。
+- 修正以下問題：首次啟動 PowerPoint 時，不受信任的增益集可能不會顯示安全性警告訊息列。
 
 ### <a name="project"></a>Project
 
-- 已修正以下問題：由於基準行事曆變更時未更新資源行事曆，而導致時程表和專案計劃之間的實際工作可能不同。
+- 修正以下問題：由於基準行事曆變更時未更新資源行事曆，而導致時程表和專案計劃之間的實際工作可能不同。
 
 ### <a name="word"></a>Word
 
@@ -1864,7 +1933,7 @@ ms.locfileid: "51196732"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正 Office 更新訊息不以預期語言顯示的問題。 自此以後，Office 更新訊息會正確符合 Windows 顯示語言。
+- 修正 Office 更新訊息不以預期語言顯示的問題。 自此以後，Office 更新訊息會正確符合 Windows 顯示語言。
 
 - 解決在某些情況下，如果使用者不是系統管理員且系統帳戶沒有網路連線，將無法套用更新的問題。
 
@@ -1876,6 +1945,7 @@ ms.locfileid: "51196732"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
