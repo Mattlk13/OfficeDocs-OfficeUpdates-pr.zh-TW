@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 370d3235a8c02d98c5ae038d13c1ed1c2f7d625e
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169732"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749201"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -43,13 +43,13 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|不適用  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2021 年 3 月 PU <br/>[KB4493226](https://support.microsoft.com/help/4493226) 
+|不適用  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2021 年 4 月 PU <br/>[KB4504712](https://support.microsoft.com/help/4504712) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2021 年 3 月 PU <br/>[KB4493174 ](https://support.microsoft.com/help/4493174 )  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2021 年 4 月 PU <br/>[KB4504733](https://support.microsoft.com/help/4504733)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 > [!IMPORTANT]
@@ -57,4 +57,4 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2020 年 12 月 PU <br/>[KB4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2021 年 4 月 PU <br/>[KB4493185](https://support.microsoft.com/help/4493185) <br><br><br><br/>|

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
+ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169712"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755405"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -30,6 +30,23 @@ ms.locfileid: "51169712"
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="april-2021-release"></a>2021 年 4 月發行
+
+**發行日期：** 2021 年 4 月 13 日
+
+*Microsoft AutoUpdate 4.34*
+
+**錯誤修正及增強功能：**
+- 對於使用手動更新模式的使用者，微小的 'Badging Notifications' 現在會指出更新的可用性，而不是傳統的作業系統通知提示。
+
+[下載 Microsoft AutoUpdate 4.34 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.34.21041102_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+98C6821D939A3FA78BE21B11919625A48EAE2A3CC87CB104BF06637D9B850D9C
+
+<br/><br/>
+
 ## <a name="march-2021-release"></a>2021 年 3 月版本
 
 **發行日期：** 2021 年 3 月 17 日
@@ -44,7 +61,11 @@ ms.locfileid: "51169712"
 
 [下載 Microsoft AutoUpdate 4.33 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
 <br/>
-**SHA-256 雜湊：** 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+**SHA-256 雜湊：**
+
+ 8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
+
+<br/><br/>
 
 ## <a name="february-2021-release"></a>2021 年 2 月版本
 
@@ -63,6 +84,8 @@ ms.locfileid: "51169712"
 **SHA-256 雜湊：**
 
 CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
+
+<br/><br/>
 
 ## <a name="january-2021-release"></a>2021 年 1 月版本
 
@@ -161,7 +184,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 <br/><br/>
 
-## <a name="august-2020-release"></a>2020 年 8 月版本
+## <a name="august-2020-release"></a>2020 年 8 月發行
 
 **發行日期：** 2020 年 8 月 11 日
 
@@ -220,7 +243,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 <br/><br/>
 
-## <a name="may-2020-release"></a>2020 年 5 月版本
+## <a name="may-2020-release"></a>2020 年 5 月發行
 
 **發行日期：** 2020 年 5 月 12 日
 
@@ -262,14 +285,14 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - 使用 SSD 的 macOS 機器會體驗到更快速的更新，且因為更新而導致應用程式停機的時間變得微不足道。
 
 
-請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 雜湊：**
 
 2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
 <br/><br/>
 
-## <a name="march-2020-release"></a>2020 年 3 月版本
+## <a name="march-2020-release"></a>2020 年 3 月發行
 
 **發行日期：** 2020 年 3 月 10 日
 
@@ -299,7 +322,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 80DD0637AA60007310FB7B68C01926F6CA0F2771DBB42166C191626607D89B56<br/><br/>
 
-## <a name="january-2020-release"></a>2020 年 1 月版本
+## <a name="january-2020-release"></a>2020 年 1 月發行
 
 **發行日期：** 2020 年 1 月 14 日
 
@@ -327,7 +350,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 11D051503067DB9819C84C8D1EBE29435A781D29C6B1FE3173DB03DC88F1B4C3<br/><br/>
 
-## <a name="november-2019-release"></a>2019 年 11 月版本
+## <a name="november-2019-release"></a>2019 年 11 月發行
 
 **發行日期：** 2019 年 11 月 12 日
 
@@ -342,7 +365,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
-## <a name="october-2019-release"></a>2019 年 10 月版本
+## <a name="october-2019-release"></a>2019 年 10 月發行
 
 **發行日期：** 2019 年 10 月 15 日
 
@@ -355,7 +378,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 **SHA-256 雜湊：**
 
 5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
-## <a name="september-2019-release"></a>2019 年 9 月版本
+## <a name="september-2019-release"></a>2019 年 9 月發行
 
 **發行日期：** 2019 年 9 月 10 日
 
@@ -370,7 +393,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 **SHA-256 雜湊：**
 
 E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
-## <a name="august-2019-release"></a>2019 年 8 月版本
+## <a name="august-2019-release"></a>2019 年 8 月發行
 
 **發行日期：** 2019 年 8 月 13 日
 
@@ -384,7 +407,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 **SHA-256 雜湊：**
 
 76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
-## <a name="july-2019-release"></a>2019 年 7 月版本
+## <a name="july-2019-release"></a>2019 年 7 月發行
 
 **發行日期：** 2019 年 7 月 18 日
 
@@ -400,7 +423,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
-## <a name="june-2019-release"></a>2019 年 6 月版本
+## <a name="june-2019-release"></a>2019 年 6 月發行
 
 **發行日期：** 2019 年 6 月 27 日
 
