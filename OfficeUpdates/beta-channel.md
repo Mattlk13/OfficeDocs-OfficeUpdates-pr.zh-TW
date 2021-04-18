@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: faa58be6a03ca68e8ee7bfe625b47c52befab241
-ms.sourcegitcommit: c98d5985df2d2a3079a995b4226f19145430898f
+ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
+ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51662327"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "51875724"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,29 @@ ms.locfileid: "51662327"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-april-16"></a>版本 2105：4 月 16 日
+*版本 2105 (組建 14007.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了在 64 字元 Windows 上使用 32 字元 Office 時導致 Excel 當機的問題。
+
+
+- 我們已修正導致 [朗讀程式] 錯誤讀取 [版面設定] 對話方塊中 [頁首/頁尾] 索引標籤上兩個按鈕的内容之問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與連結圖片相關的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2105-april-09"></a>版本 2105：4 月 9 日
 *版本 2105 (組建 14002.20000)*
@@ -404,7 +427,7 @@ ms.locfileid: "51662327"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
+- 我們已修正會導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1244,7 +1267,7 @@ ms.locfileid: "51662327"
 - 已修正如果您在專案網站中有工作清單並將工作清單分組，您將無法快速編輯工作清單的問題。
 
 
-- 已修正如果您透過 CSOM 更新企業資源，可能會遺失資源最大單位。
+- 修正如果您透過 CSOM 更新企業資源，可能會遺失資源最大單位。
 
 
 ### <a name="word"></a>Word
@@ -1292,7 +1315,7 @@ ms.locfileid: "51662327"
 - 我們已修正資料夾中快取錯誤資料夾 guid 的問題。
 
 
-- 當使用者將電子郵件地址複製貼上到顯示名稱的 [收件者] 欄位時，電子郵件地址不一定可被正確分析，並導致出現了一個顯示電子郵件地址無效的警告。  已修正此問題，可正確分析名稱和電子郵件地址，因此不會再顯示警告。
+- 當使用者將電子郵件地址複製貼上到顯示名稱的 [收件者] 欄位時，電子郵件地址不一定可被正確分析，並導致出現了一個顯示電子郵件地址無效的警告。  修正此問題，可正確分析名稱和電子郵件地址，因此不會再顯示警告。
 
 
 - 我們已修正線上共用資料夾未傳回母資料夾名稱的問題。 它並非失敗，而是傳回了不正確地移至主要帳戶的空白路徑。
@@ -1326,7 +1349,7 @@ ms.locfileid: "51662327"
 - 修正了如果您嘗試多次新增同一專案，且將 AttachToSources 設定為 false 時，ConsolidateProjects VBA 方法可能會發生出錯的問題。
 
 
-- 已修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
+- 修正若您的事件程式碼執行中，並嘗試透過工作 [表單檢視] 進行變更，按一下 [確定] 按鈕可能不會提交變更的問題。
 
 
 
@@ -2039,7 +2062,7 @@ ms.locfileid: "51662327"
 - 我們已修正具有衝突連絡人的使用者在 Outlook 中遇到當機的問題。
 - 我們已修正導致高 DPI 監視器上的使用者遺失資料夾屬性中的 [線上封存] 下拉式功能表的問題。
 - 我們已修正當處理純文字電子郵件中的超連結時，導致使用者遇到 Outlook 當機的問題。
-- 我們已修正導致 Outlook 無法剖析使用 RFC2231 編碼的長檔名的問題。
+- 我們已修正會導致 Outlook 無法剖析使用 RFC2231 編碼的長檔名的問題。
 - 我們已修正導致 Outlook 使用者在使用螢幕助讀程式時遇到間歇性當機的問題。
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -2298,7 +2321,7 @@ ms.locfileid: "51662327"
 - 此變更修正在按一下 @ 提及時，[人員卡片] 會閃動的問題。
 - 修正問題：關閉具有草稿註解的文件時，會在不儲存草稿註解的情況下，提示使用者是否要關閉文件。 取消提示會關閉文件，而不是保持文件開啟。
 - 修正翻譯已張貼註解將導致「插入已翻譯的文字失敗」錯誤的問題。
-- 在 Web 檢視/沉浸式閱讀器中，如果已在檢視中，按一下提示會捲動到最上方。 已修正這個問題。
+- 在 Web 檢視/沉浸式閱讀器中，如果已在檢視中，按一下提示會捲動到最上方。 修正這個問題。
 - 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以.docx 副檔名和檔案名稱 WRO0004.docx 儲存，進而導致文件無法使用。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -2527,11 +2550,11 @@ ms.locfileid: "51662327"
 
 - 已修正當使用者按一下 [排程群組] 內 [工作] 功能區中的 [停用] 按鈕時，不會觸發 'ProjectBeforeTaskChange' Visual Basic Applications (VBA) 事件的問題。
 
-- 如果您在 [表單類型] 檢視中設定前置任務或後置任務詳細資訊，則 ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件不會一律擷取變更。 例如，如果刪除了某個相依性，並在表單上按一下 [確定]，則不會觸發該事件。 已修正此問題。
+- 如果您在 [表單類型] 檢視中設定前置任務或後置任務詳細資訊，則 ProjectBeforeTaskChange Visual Basic Applications (VBA) 事件不會一律擷取變更。 例如，如果刪除了某個相依性，並在表單上按一下 [確定]，則不會觸發該事件。 修正此問題。
 
-- 已修正在進行變更 (例如日期變更) 之後，實際工作成本 (ACWP) 的最新值不會顯示的問題。
+- 修正在進行變更 (例如日期變更) 之後，實際工作成本 (ACWP) 的最新值不會顯示的問題。
 
-- 已修正使用「最近使用」(MRU) 功能表開啟專案時，會使用 [讀取/寫入] 存取權開啟專案的問題。
+- 修正使用「最近使用」(MRU) 功能表開啟專案時，會使用 [讀取/寫入] 存取權開啟專案的問題。
 
 - 這項變更修正了如果您建立包含開始日期和時間 (但無工期) 的手動工作，則時間表上的時間顯示不正確的問題。
 
@@ -2695,8 +2718,8 @@ ms.locfileid: "51662327"
 ### <a name="excel"></a>Excel
 - 已修正使用者在重新命名樞紐分析表度量值時可能遇到的問題。
 - 已修正使用者在使用 VBA 巨集清除範圍內容時可能遇到的效能問題。
-- 已修正當使用者執行與功能區互動的巨集時，導致 UI 快閃的問題。
-- 已修正當檔案中的第一個字為 TABLE 時，CSV 檔案載入錯誤的問題。
+- 修正當使用者執行與功能區互動的巨集時，導致 UI 快閃的問題。
+- 修正當檔案中的第一個字為 TABLE 時，CSV 檔案載入錯誤的問題。
 - 已修正當您在兩個具有不同縮放比例的活頁簿之間切換時，使用者可能遇到的當機問題。
 
 ### <a name="outlook"></a>Outlook
@@ -2819,6 +2842,7 @@ ms.locfileid: "51662327"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
@@ -2828,5 +2852,4 @@ ms.locfileid: "51662327"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
