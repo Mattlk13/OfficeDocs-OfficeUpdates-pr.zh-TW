@@ -1,7 +1,7 @@
 ---
 title: 版本資訊目前通道 (預覽)
 ms.author: anankani
-author: v-lislo
+author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
+ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875734"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51887316"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -30,6 +30,154 @@ ms.locfileid: "51875734"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2104-april-19"></a>版本 2104：4 月 19 日
+*版本 2104 (組建 13929.20216)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從動態陣列匯入資料**：您現在可以從目前活頁簿中的動態陣列中，匯出、連結及重新整理資料。 [深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+### <a name="outlook"></a>Outlook
+
+- **改良的行事曆搜尋：** 已改善日曆搜尋功能，其中最大的改良處是更輕鬆地在搜尋結果中尋找下一個系料數列。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此變更可修正在某些情況下，執行 SQL Server 傳遞查詢時，可能會導致錯誤訊息指出「無效的 Cursor 狀態」的問題。
+
+
+- 我們已修正當外部應用程式要求協助工具介面時，它會防止我們關機，直到它們釋出其參考為止的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+
+- 我們已修正當檔案儲存為 PDF 文件時，使用 [超連結] 函數所建立的超連結無法運作的問題。
+
+
+- 我們已修正在公式中使用參照空白範圍加入隱含運算子 (@) 符號，並可能提供不正確結果的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+
+
+- 我們已修正會導致使用者在新增行事曆時，錯誤地看到「這可能需要一些時間」訊息的問題。
+
+
+- 我們已修正會導致代理人在新增的行事曆上所建立的會議中顯示為召集人的問題。  處於此狀態的會議不會出現在主體的行事曆上。
+
+
+- 我們已修正會導致使用者在搜尋時遇到當機的問題。
+
+
+- 我們已修正與搜尋相關的當機問題。
+
+
+- 我們已修正會導致使用者看到簽名意外消失的問題。
+
+
+- 我們已修正可能造成使用者看到正在撰寫的郵件失去 UI 焦點的問題。
+
+
+- 我們已修正會導致 Outlook 覆寫 OWA 中已設定的焦點收件匣喜好設定問題。
+
+
+- 我們已修正會導致雲端設定功能的使用者在新裝置上設定 Outlook 之後，會看到自訂設定遭到預設設定覆寫的問題。
+
+
+- 我們已修正會導致部分使用者無法存取與次要郵件帳戶相關聯的簽章問題。
+
+
+- 我們已修正在代表另一個使用者進行傳送，並且針對非全域通訊清單的通訊錄進行解析時，造成名稱解析失敗的問題。
+
+
+- 我們已修正在代表另一個使用者進行傳送，並且針對非全域通訊清單的通訊錄進行解析時，造成名稱解析失敗的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正如果日期格式為 W4/4，日期選擇器可能會顯示錯誤的日期和年份的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 修正 Visio 在關閉期間可能會停止運作的問題。
+
+
+- 已修正「搜尋圖形」功能以顯示所有結果
+
+
+
+### <a name="word"></a>Word
+
+- 在這個錯誤中，Office 未遵守特定原則 (當應該停用範本時，已在首頁上顯示一組範本)。 有了這個修正程式，系統即會遵守這些原則。
+
+
+- 共同撰寫文件時，若註解順序變更，不會清除作用中草稿。
+
+
+- 已修正新式註解中的錯誤，其中標點符號和數字的顯示方式對於某些國際語言是錯誤的。
+
+
+- 已修正 'B' 和 ')' 的組合會自動轉變成戴著墨鏡的表情圖示，且現在仍保留為個別字元的問題
+
+
+- 更新在本機儲存的檔案自動儲存圖說文字上的文字。
+
+
+- 我們已修正在共同撰寫期間的註解問題。
+
+
+- 我們已修正與註解圖示相關的問題。
+
+
+- 我們已修正貼上文字中的樣式與複製和貼上的樣式可能不同的問題。
+
+
+- 最佳化提供文字預測的條件。
+
+
+- 我們已修正與超連結相關的問題。
+
+
+- 在閱讀模式中使用深色模式主題時，有些選取的文字無法顯示。
+
+
+- 我們已修正 [自動儲存] 中的問題。
+
+
+- 我們在 Application.OnTime 中修正了可能無法正確觸發的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正與文字反覆項目相關的效能問題。
+
+
+- 已修正在 Office 中支援 GDI+ LineJoinMiterClipped 的問題。
+
+
+- 此發行版本改善當關鍵字位於文件的第一行時，跨行敏感內容的處理。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-april-13"></a>版本 2103：4 月 13 日
 *版本 2103 (組建 13901.20400)*
