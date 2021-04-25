@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 41de7aa0968dedc82cf1dc9a3e1ebb2421ac53c0
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
+ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875724"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "51995730"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,57 @@ ms.locfileid: "51875724"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-april-23"></a>版本 2105：4 月 23 日
+*版本 2105 (組建 14014.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從動態陣列匯入資料**：您現在可以從目前活頁簿中的動態陣列中，匯出、連結及重新整理資料。 [深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正支援舊版 Excel 的回溯相容性的問題。 此問題可能會導致儲存於較新版 Excel 的檔案無法正確載入舊版 Excel，因為自 Office 2007 之後已將 IFERROR 和 XLOOKUP 等函數新增至 Excel。
+
+
+- 我們已修正某些檔案偶爾無法以受保護的檢視開啟的問題。
+
+
+- 我們已修正導致狀態列未針對某些使用者指出就緒狀態的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在代表另一個使用者進行傳送，並且針對非全域通訊清單的通訊錄進行解析時，造成名稱解析失敗的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用從右至左語言時，在註解中裁剪預留位置文字的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Outlook 中以從右至左語言撰寫郵件時，包括數字的超連結會中斷的問題。
+
+
+- 我們已修正某些可縮放向量圖形 (SVG) 無法正確轉譯的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2105-april-16"></a>版本 2105：4 月 16 日
 *版本 2105 (組建 14007.20002)*
@@ -409,7 +460,7 @@ ms.locfileid: "51875724"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -2842,6 +2893,7 @@ ms.locfileid: "51875724"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
@@ -2851,5 +2903,4 @@ ms.locfileid: "51875724"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
