@@ -10,6 +10,7 @@
 
 ## 每月企業通道
 ### [版本資訊](monthly-enterprise-channel.md)
+### [已存檔的版本資訊](monthly-enterprise-channel-archived.md)
 
 ## 半年企業通道
 ### [版本資訊](semi-annual-enterprise-channel.md)
