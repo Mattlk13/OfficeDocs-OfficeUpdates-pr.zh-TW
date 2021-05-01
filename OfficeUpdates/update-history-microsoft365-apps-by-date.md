@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995710"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091822"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -36,7 +36,7 @@ ms.locfileid: "51995710"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2103<br/>|13901.20462<br/>|2021 年 4 月 23 日<br/>|版本 2104 已推出<br/>|
+|目前通道<br/>|2104<br/>|13929.20296<br/>|2021 年 4 月 29 日<br/>|版本 2105 已推出<br/>|
 |每月企業通道<br/>|2102<br/>|13801.20506<br/>|2021 年 4 月 13 日<br/>|2021 年 6 月 8 日<br/>|
 |每月企業通道<br/>|2101<br/>|13628.20664<br/>|2021 年 4 月 13 日<br/>|2021 年 5 月 11 日<br/>|
 |半年企業通道 (預覽)<br/>|2102<br/>|13801.20506<br/>|2021 年 4 月 13 日<br/>|2021 年 9 月 14 日<br/>|
@@ -47,7 +47,7 @@ ms.locfileid: "51995710"
 
 若想瞭解從舊版的 Microsoft 365 Apps 更新至最新版本的約略下載大小，請參閱[更新至 Microsoft 365 Apps 的下載大小](./download-sizes-microsoft365-apps-updates.md)。
 
-下表提供下列更新通道中發行的 Microsoft 365 Apps 每個更新的版本和組建編號清單：目前、每月企業、半年企業 (預覽) 和半年企業。 表格中的每個項目會直接連結到該版本的版本資訊。 這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。
+下表提供下列更新通道中發行的 Microsoft 365 Apps: 每個更新的版本和組建編號清單：目前、每月企業、半年企業 (預覽) 和半年企業。表格中的每個項目會直接連結到該版本的版本資訊。這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。
 
 ### <a name="version-history"></a>**版本歷程記錄**
 
@@ -55,6 +55,7 @@ ms.locfileid: "51995710"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|4 月 29 日|[版本 2104 (組建 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|4 月 23 日|[版本 2103 (組建 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|4 月 13 日|[版本 2103 (組建 13901.20400)](current-channel.md#version-2103-april-13)|[版本 2102 (組建 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[版本 2101 (組建 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[版本 2102 (組建 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[版本 2008 (組建 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[版本 2002 (組建 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|4 月 2 日|[版本 2103 (組建 13901.20336)](current-channel.md#version-2103-april-02)| | | |
