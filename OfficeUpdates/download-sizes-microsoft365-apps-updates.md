@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995744"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091851"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -22,7 +22,7 @@ ms.locfileid: "51995744"
 
 下表顯示從舊版 Microsoft 365 Apps 更新至最新版本時，大約的下載大小。 實際下載大小可能有所不同，最多可達 50 MB。 如果您從舊版更新到最新版本時，下載大小可能會更大。
 
-如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小可能會遠超過表格中所列的更新大小。 它可能需要完整下載，下載大小至少 1 GB。
+如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小會遠超過表格中所列的大小。它可能需要完整下載，其可能為至少 1 GB。
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ ms.locfileid: "51995744"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="april-29-2021"></a>2021 年 4 月 29 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTApril 29, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 Version 2104 (組建 13929.20296)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2103 (組建 13901.20462) <br/> |2021 年 4 月 23 日 <br/> |167<br/> |
+|版本 2103 (組建 13901.20400) <br/> |2021 年 4 月 13 日 <br/> |167<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDApril 29, 2021)
 
 ## <a name="april-23-2021"></a>2021 年 4 月 23 日
 

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 392523dca2dd2f0c0078747e1d25a93b9d0a85b2
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026268"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079297"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的目前通道更新。
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，請[閱讀本文](/DeployOffice/update-channels-changes)。
 
  > [!NOTE]
 >
@@ -45,7 +45,7 @@ ms.locfileid: "52026268"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 已修正 Excel 某些自動化增益集無法載入的問題。
+- 安裝 2021 年 4 月安全性更新之後，Excel 的自動化增益集無法載入。 請針對未使用目前通道的使用者使用所提供的因應措施。[深入了解](https://support.microsoft.com/zh-TW/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
 
 
 ### <a name="outlook"></a>Outlook
@@ -577,7 +577,7 @@ ms.locfileid: "52026268"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2012-january-05"></a>版本 2012：1 月 05 日
+## <a name="version-2012-january-05"></a>版本 2012：1 月 5 日
 *版本 2012 (組建 13530.20316)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)

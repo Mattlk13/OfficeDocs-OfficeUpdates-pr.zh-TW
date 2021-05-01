@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749191"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079287"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -67,6 +67,13 @@ ms.locfileid: "51749191"
 ### <a name="excel"></a>Excel
 
 - **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="msteams"></a>MSTeams
+
+- **動態檢視：** 動態檢視會自動將 Teams 會議中的共用內容和影片參與者最佳化。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者。
+
+- **不在辦公室狀態：** 設定訊息，讓其他人知道您不在工作狀態或是休假中，因此當他們傳送聊天訊息給您時，您無法回覆。 您的不在辦公室狀態也會與可在您 Outlook 行事曆中找仙的「自動回覆」同步。
 
 ### <a name="powerpoint"></a>PowerPoint
 

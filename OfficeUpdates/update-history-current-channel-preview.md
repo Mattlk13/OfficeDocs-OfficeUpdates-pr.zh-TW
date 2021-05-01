@@ -1,5 +1,5 @@
 ---
-title: Office 目前通道（預覽）更新歷程記錄
+title: Office 目前通道 (預覽) 更新歷程記錄
 ms.author: anankani
 author: anankani
 manager: anankani
@@ -9,26 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 1e09ae86978e5c0c9fa5ab54a560b51773ff2995
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: c64b0ec90f075b979d9af44e3be044c1b1874caa
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058757"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081236"
 ---
-# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道（預覽）更新歷程記錄
+# <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道 (預覽) 更新歷程記錄
 
-測試人員，您好！ 如果您想知道是否已經安裝最新更新，或想尋找最新的目前通道 (預覽) 組建清單，那您來對地方了。
-若要深入瞭解測試人員計畫的詳細資訊，請按一下 [[這裡]](https://insider.office.com/)。
+測試人員，您好！如果想知道您是否已安裝最新的更新，或是正尋找最新目前通道 (預覽) 組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以取得有關測試人員計畫的詳細資訊。
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道（預覽）版本和組建
+## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道 (預覽) 版本和組建
 
-如果您註冊的是目前通道 (預覽) 層級 (之前稱為 [測試人員 - 慢])，您大約每個月會收到一次 Office 功能更新，加上包含重要修正程式或安全性更新的後續組建。 下表顯示最新目前通道 (預覽) 版本和組建，當中會 **優先列出最新發行的組建**。 新組建包含舊組建中的所有更新。
-若要尋找版本資訊，請 [參閱](./current-channel-preview.md)。 而且您也可以參閱 [Office 測試人員的新增功能](https://insider.office.com/zh-TW/releasenotes/windows/slow)。
+如果您已經註冊先前稱為「測試人員 - 慢」的目前通道 (預覽) 層級，您大約每個月會取得一次新的 Office 功能更新，加上包含重要修正或安全性更新的後續組建。以下清單顯示最新的目前通道 (預覽) 版本和組建，並將 **最新發行的組建優先列出**。新組建會包含先前組建內含的所有更新。若要尋找版本資訊，[請參閱此處](./current-channel-preview.md)。同時，您可以查看 [Office 測試人員的新功能](https://insider.office.com/zh-TW/releasenotes/windows/slow)。
 
 
 > [!IMPORTANT]
-> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
+> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，請[閱讀本文](/DeployOffice/update-channels-changes)。
 > - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](/deployoffice/name-change)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 > [!NOTE]
@@ -38,6 +36,9 @@ ms.locfileid: "52058757"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2021 年 4 月 28 日**<br/>
+版本 2104 (組建 13929.20296)<br/>
 
 **2021 年 4 月 26 日**<br/>
 版本 2104 (組建 13929.20254)<br/>
@@ -169,10 +170,10 @@ ms.locfileid: "52058757"
 版本 2009 (組建 13231.20126)<br/>
 
 **2020 年 9 月 4 日**<br/>
-版本2008（組建13127.20378）<br/>
+版本 2008 (組建 13127.20378)<br/>
 
 **2020 年 9 月 2 日**<br/>
-版本2008（組建13127.20360）<br/>
+版本 2008 (組建 13127.20360)<br/>
 
 **2020 年 8 月 27 日**<br/>
 版本 2008 (組建 13127.20296)<br/>
@@ -181,10 +182,10 @@ ms.locfileid: "52058757"
 版本 2008 (組建 13127.20268)<br/>
 
 **2020年8月17日**<br/>
-版本2008（組建13127.20208）<br/>
+版本 2008 (組建 13127.20208)<br/>
 
 **2020年8月11日**<br/>
-版本2008（組建13127.20164）<br/>
+版本 2008 (組建 13127.20164)<br/>
 
 **2020 年 8 月 5 日**<br/>
 版本 2007 (組建 13029.20344)<br/>
@@ -193,7 +194,7 @@ ms.locfileid: "52058757"
 版本 2007 (組建 13029.20308)<br/>
 
 **2020 年 7 月 27 日**<br/>
-Version 2007 (組建 13029.20292)<br/>
+版本 2007 (組建 13029.20292)<br/>
 
 **2020 年 7 月 20 日**<br/>
 版本2007 (組建 13029.20236)<br/>
@@ -202,31 +203,31 @@ Version 2007 (組建 13029.20292)<br/>
 版本 2007 (組建 13029.20200)<br/>
 
 **2020年7月09日**<br/>
-版本2006（組建13001.20384）<br/>
+版本 2006 (組建 13001.20384)<br/>
 
 **2020年6月25日**<br/>
 版本 2006 (組建 13001.20266)<br/>
 
 **2020年6月18日**<br/>
-版本2006（組建13001.20198）<br/>
+版本 2006 (組建 13001.20198)<br/>
 
 **2020年6月11日**<br/>
-版本2006（組建13001.20144）<br/>
+版本 2006 (組建 13001.20144)<br/>
 
 **2020年6月08日**<br/>
 版本 2005 (組建 12827.20336)<br/>
 
 **2020年6月04日**<br/>
-版本2005（組建12827.20320）<br/>
+版本 2005 (組建 12827.20320)<br/>
 
 **2020年5月29日**<br/>
 版本 2005 (組建 12827.20268)<br/>
 
 **2020年5月21日**<br/>
-版本2005（組建12827.20210）<br/>
+版本 2005 (組建 12827.20210)<br/>
 
 **2020年5月14日**<br/>
-版本2005（組建12827.20160）<br/>
+版本 2005 (組建 12827.20160)<br/>
 
 **2020 年 5 月 11 日**<br/>
 版本 2004 (組建 12730.20270)<br/>
