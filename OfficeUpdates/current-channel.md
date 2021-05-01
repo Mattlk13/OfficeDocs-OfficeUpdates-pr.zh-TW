@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079297"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091792"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的目前通道更新。
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，請[閱讀本文](/DeployOffice/update-channels-changes)。
+> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
 
  > [!NOTE]
 >
@@ -37,6 +37,92 @@ ms.locfileid: "52079297"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+## <a name="version-2104-april-29"></a>版本 2104：4 月 29 日
+*版本 2104 (組建 13929.20296)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。
+
+### <a name="teams"></a>Teams
+
+- **動態檢視：** 動態檢視會自動將 Teams 會議中的共用內容和影片參與者最佳化。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者。
+
+- **不在辦公室狀態：** 設定訊息，讓其他人知道您不在工作狀態或是休假中，因此當他們傳送聊天訊息給您時，您無法回覆。 您的不在辦公室狀態也會與可在您 Outlook 行事曆中找到的「自動回覆」同步。
+
+### <a name="visio"></a>Visio
+
+- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/access-illustrations-icons-in-visio)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/modern-commenting-in-word)中查看詳細資料
+
+- **Word 文件的深色模式：** 深色模式有助於減輕眼睛疲勞，並可在處理文件時適應對光線的敏感度。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/try-dark-mode-in-word)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正某些 Excel 自動化增益集無法載入的問題。
+
+
+- 我們已修正某些檔案偶爾無法在受保護的檢視中開啟的問題
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在搜尋時遇到預期關閉的問題。
+
+
+- 我們已修正會導致使用者看到簽名意外消失的問題。
+
+
+- 我們已修正可能造成使用者看到正在撰寫的郵件失去 UI 焦點的問題。
+
+
+- 我們已修正會導致 Outlook 覆寫 OWA 中已設定的焦點收件匣喜好設定問題。
+
+
+- 我們已修正會導致漫遊設定的使用者遇到沒有回應的問題。
+
+
+- 我們已修正在代表另一個使用者進行傳送，並且針對非全域通訊清單的通訊錄進行解析時，會造成名稱解析停用的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與連結圖片相關的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正使用者無法從資源資料庫移除專案的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正更新儲存在本機檔案上的自動儲存圖說文字的問題。
+
+
+- 修正在閱讀模式中使用深色模式主題時，某些選取的文字無法顯示的問題。
+
+
+- 我們對編輯 OLE 物件進行了變更。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2103-april-23"></a>版本 2103：4 月 23 日
 *版本 2103 (組建 13901.20462)*
 
@@ -45,7 +131,7 @@ ms.locfileid: "52079297"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 安裝 2021 年 4 月安全性更新之後，Excel 的自動化增益集無法載入。 請針對未使用目前通道的使用者使用所提供的因應措施。[深入了解](https://support.microsoft.com/zh-TW/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
+- 修正安裝 2021 年 4 月安全性更新之後，Excel 的自動化增益集無法載入的問題。 請針對未使用目前通道的使用者使用所提供的因應措施。[深入了解](https://support.microsoft.com/zh-TW/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
 
 
 ### <a name="outlook"></a>Outlook
@@ -184,11 +270,11 @@ ms.locfileid: "52079297"
 
 ### <a name="project"></a>Project
 
-- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+- 修正 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
 
 ### <a name="excel"></a>Excel
 
-- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+- 修正 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
 
 
 ### <a name="outlook"></a>Outlook
@@ -210,7 +296,7 @@ ms.locfileid: "52079297"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+- 修正 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
 
 
 ### <a name="visio"></a>Visio
@@ -223,7 +309,7 @@ ms.locfileid: "52079297"
 - 共同撰寫文件時，若註解順序變更，不會清除作用中草稿。
 
 
-- 修正了 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
+- 修正 Office 功能區中停用的命令只會使圖示變灰，而不會使文字變為深灰色 Office 佈景主題的錯誤。
 
 
 - 我們已修正有關複製和貼上的問題。
@@ -231,13 +317,13 @@ ms.locfileid: "52079297"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正了停用 GCC 使用者聽寫功能的錯誤
+- 修正停用 GCC 使用者聽寫功能的錯誤
 
 
-- 修正了有時可能導致文字在 Outlook 變得透明，從而無法辨認的錯誤。
+- 修正有時可能導致文字在 Outlook 變得透明，從而無法辨認的錯誤。
 
 
-- 修正了與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
+- 修正與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
 
 
 
@@ -524,10 +610,10 @@ ms.locfileid: "52079297"
 - 修正在 [團隊規劃] 檢視中工作沒有顯示邊框的問題。
 
 
-- 修正了在 [團隊規劃] 檢視中拖放工作不起作用的問題。
+- 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -577,7 +663,7 @@ ms.locfileid: "52079297"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2012-january-05"></a>版本 2012：1 月 5 日
+## <a name="version-2012-january-05"></a>版本 2012：1 月 05 日
 *版本 2012 (組建 13530.20316)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -652,6 +738,7 @@ ms.locfileid: "52079297"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
@@ -661,5 +748,4 @@ ms.locfileid: "52079297"
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
