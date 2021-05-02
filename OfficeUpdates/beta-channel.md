@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995730"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108235"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,92 @@ ms.locfileid: "51995730"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-april-30"></a>版本 2105：4 月 30 日
+*版本 2105 (組建 14026.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **將電子郵件傳送給大型 DL、外部使用者時，協助工具檢查程式會進行微調：** 我們新增了功能，以在撰寫電子郵件給大量對象、外部使用者等時，透過郵件提示自動收到協助工具違規的提示。這些設定放在輕鬆存取中
+
+### <a name="visio"></a>Visio
+
+- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。 [深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+### <a name="word"></a>Word
+
+- **寫作目標：** WinWord 的寫作目標
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 [註解] 窗格中的註解間移動時，會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正在使用增益集時，會導致某些語言的日期格式顯示不正確的問題。
+
+
+- 我們已修正在某些情況下，使用選擇性貼上搭配格式時可能會導致 Excel 意外關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正透過規劃精靈完成的變更不一定會由變更事件擷取的問題。
+
+
+- 我們已修正使用者無法從資源資料庫移除專案的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在移除超連結後，文字格式仍會保留的問題。
+
+
+- 我們已修正在依人員篩選後，不會顯示註解的問題。
+
+
+- 我們已修正 Word 無法使用 Access 資料庫執行合併列印的問題。
+
+
+- 我們已修正摺疊文件中邊緣的功能，會導致包含可供使用的多個欄位的問題。
+
+
+- 我們已修正當文件中有註解時，表格儲存格中某些字元無法正確顯示的問題。
+
+
+- 我們已修正在啟用 AIP 增益集的情況下儲存文件時，會發生檔案格式變更的問題。
+
+
+- 我們已修正在編輯欄位時 Word 會變得沒有回應的問題。
+
+
+- 我們已修正使用命令 (而不是 CTRL+S 鍵盤快速鍵) 來儲存文件時，系統不會提示使用者儲存文件的問題。
+
+
+- 我們已修正將檔案上傳到 SharePoint Online 之後，敏感度標籤會從 Word 中的檔案消失的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正將註解新增至文件時，會導致 [聽寫] 按鈕對齊不當的問題。
+
+
+- 我們已修正長時間使用高對比模式會導致 Outlook 意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2105-april-23"></a>版本 2105：4 月 23 日
 *版本 2105 (組建 14014.20002)*
@@ -52,7 +138,7 @@ ms.locfileid: "51995730"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 我們已修正支援舊版 Excel 的回溯相容性的問題。 此問題可能會導致儲存於較新版 Excel 的檔案無法正確載入舊版 Excel，因為自 Office 2007 之後已將 IFERROR 和 XLOOKUP 等函數新增至 Excel。
+- 我們已修正支援舊版 Excel 的回溯相容性的問題。此問題可能會導致於較新版 Excel 中儲存的檔案無法正確載入舊版 Excel，因為自 Office 2007 之後已將 IFERROR 和 XLOOKUP 等函數新增至 Excel。
 
 
 - 我們已修正某些檔案偶爾無法以受保護的檢視開啟的問題。
@@ -151,7 +237,7 @@ ms.locfileid: "51995730"
 
 ### <a name="word"></a>Word
 
-- 在這個錯誤中，Office 未遵守特定原則 (當應該停用範本時，已在首頁上顯示一組範本)。 有了這個修正程式，系統即會遵守這些原則。
+- 在此錯誤中，Office 未遵守特定原則 (在首頁上顯示了一組範本，但它們應該已遭到停用)。透過此修正，將會遵守原則。
 
 
 - 我們已修正 [自動儲存] 中的問題。
@@ -460,7 +546,7 @@ ms.locfileid: "51995730"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -844,7 +930,7 @@ ms.locfileid: "51995730"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -1185,7 +1271,7 @@ ms.locfileid: "51995730"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -1299,7 +1385,7 @@ ms.locfileid: "51995730"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正快速列印影像附件導致錯誤的問題，「Windows 找不到此圖片。 請檢查位置，然後再試一次」。
+- 我們已修正影像附件的快速列印會導致「Windows 找不到這張圖片。請檢查位置，然後再試一次」錯誤的問題。
 
 
 - 已修正會導致某些使用者看到 Outlook 在離線狀態中啟動，直到他們手動選擇線上工作為止的問題。
@@ -1627,7 +1713,7 @@ ms.locfileid: "51995730"
 - 我們已修正一個問題, 即如果您開啟包含LET 函數的檔案，它會顯示警示：”我們在您的檔案.xlsx 中發現內容有問題”。 您想要我們儘量嘗試復原嗎？ 如果您信任這個活頁簿的來源，請按一下 [是]。
 - 我們已修正與 XLAM 增益集參照和命名範圍相關的問題。
 - 我們已修正使用者無法修改樞紐分析表篩選的問題，因為它已設定為Analysis Services數據庫中不再存在的值。
-- 我們已修正一個問題: 如果使用者將自訂樣式套用至動態陣列, 他們則會收到錯誤提示：「您無法變更陣列的一部分」。 這是舊版限制，已移除。
+- 我們已修正如果使用者將自訂樣式套用至動態陣列，就會收到「您不能只改變一個陣列中的一部分」錯誤的問題。這是已移除的舊版限制。
 - 我們已修正 Excel 公式列與設備失去連線後無法完全呈現的問題，例如遠端會話的連線/斷線或監視器變更。
 
 ### <a name="outlook"></a>Outlook
@@ -1636,7 +1722,7 @@ ms.locfileid: "51995730"
 - 我們已修正電子郵件草稿在助理和經理權限移動時, 寄件者的舊網域名稱仍被保留和顯示的問題。
 - 我們已修正一個問題，其導致某些使用者看到 Outlook 在離線狀態下啟動，直到他們手動選擇線上工作。
 - 我們已修正在啟用單行功能區（SLR）後，執行 VBA 程式碼 ActiveInspector （"ShowSchedulingPage"）會導致執行階段錯誤的問題。
-- 我們已修正一個問題, 即Automatic Replies自動回復對話方塊上的確定和取消按鈕以高解析度（例如 1750 x 1920）及較大文字（例如175%）顯示的系統上的錯誤。
+- 我們已修正一個問題, 即Automatic Replies自動回復對話方塊上的確定和取消按鈕以高解析度 (例如 1750 x 1920) 及較大文字 (例如 175%) 顯示的系統上的錯誤。
 - 我們修正一個情況, 即將會議請求從空的聯繫人群組發送到另一個聯繫人組會導致當機。
 - 我們解決了導致使用者在打開某些很大的電子郵件時發生當機的問題。
 - 我們已修正一個問題, 它使的群組政策要求始終啟用增益集, 則 監視增益集的功能則無法使用，以防止使用者禁用增益集,。
@@ -2014,7 +2100,7 @@ ms.locfileid: "51995730"
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正以下問題：當使用多個不同解析度的監視器時，輸入法編輯器 (IEM) 視窗會覆蓋透過 IME 輸入的文字。
-- 我們已修正導致使用者在關閉先前儲存的約會時看到下列錯誤的問題：「項目無法儲存，因為已被其他使用者或已在其他視窗中變更過。 您要在預設資料夾為這個項目建立複本?」
+- 我們已修正會導致使用者在關閉先前儲存的約會時看到下列錯誤的問題：「項目無法儲存，因為已被其他使用者或已在其他視窗中變更過。您要在預設資料夾為這個項目建立複本?」
 - 我們已修正迷你行事曆中的日期無法針對日本使用者顯示粗體的問題。
 - 我們已修正行事曆提醒無法針對一週內即將到來的會議顯示確切時間的問題。
 
@@ -2305,7 +2391,7 @@ ms.locfileid: "51995730"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。 [深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。[深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -2370,9 +2456,9 @@ ms.locfileid: "51995730"
 
 - 修正在 [共同作業] 模式時，在文件中插入註解並不總是成功的問題。
 - 此變更修正在按一下 @ 提及時，[人員卡片] 會閃動的問題。
-- 修正問題：關閉具有草稿註解的文件時，會在不儲存草稿註解的情況下，提示使用者是否要關閉文件。 取消提示會關閉文件，而不是保持文件開啟。
-- 修正翻譯已張貼註解將導致「插入已翻譯的文字失敗」錯誤的問題。
-- 在 Web 檢視/沉浸式閱讀器中，如果已在檢視中，按一下提示會捲動到最上方。 修正這個問題。
+- 修正在關閉具有草稿註解的文件時，會提示使用者是否要在未儲存草稿註解的情況下關閉文件的問題。取消該提示會關閉文件，而非讓文件保持開啟。
+- 修正翻譯已張貼的註解將導致「插入翻譯的文字失敗」錯誤的問題。
+- 在 Web 檢視/沉浸式閱讀程式中，即使是在檢視中，按一下提示也會捲動到最上方。已修正此問題。
 - 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以.docx 副檔名和檔案名稱 WRO0004.docx 儲存，進而導致文件無法使用。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -2396,7 +2482,7 @@ ms.locfileid: "51995730"
 - 修正了將滑鼠游標移到星號 (*) 符號，但不會顯示上一次更新文件的日期和使用者姓名。
 
 ### <a name="word"></a>Word
-- 啟用「顯示書簽」選項卻不會顯示書簽。 已修正這個問題。
+- 啟用 [顯示書籤] 選項不會顯示書籤。已修正此問題。
 - 此變更修正了下列問題：如果已啟用 [顯示功能變數代碼，而非其值] 選項，則含有超連結的文字可能不會顯示。
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -2779,8 +2865,8 @@ ms.locfileid: "51995730"
 - 已解決即使已關閉記錄，在某些情況下仍導致 Outlook 異常產生記錄輸出的問題。
 
 ### <a name="word"></a>Word
-- 已修正當滑鼠指標暫留在註解卡片上方時，未醒目提示註解卡片的問題。
-- 在使用中的文件共同撰寫工作階段中，直接在註解卡片中新增影像可能會導致新增標籤。 我們已修正此問題。
+- 修正當滑鼠指標暫留在註解卡片上方時，未醒目提示註解卡片的問題。
+- 在使用中的文件共同撰寫工作階段期間，直接在註解卡片中新增影像可能會導致新增標籤。已修正此問題。
 
 ### <a name="office-suite"></a>Office 套件
 - 當您將 Multichoice/Lookup/Managed-metadata 屬性與 Word/Excel/PowerPoint 文件一起使用並儲存至 SharePoint 文件庫時，這些屬性之前限制為 255 個字元。 當這些屬性超過 255 個字元時，這類文件就無法儲存。 在此變更中，此限制已增加到 2048 個字元。
@@ -2851,7 +2937,7 @@ ms.locfileid: "51995730"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 此更新會修正使用 ADODB 的問題。 VB 程式碼中的記錄器物件可能會不正確地報告錯誤。
+- 此更新會修正使用 ADODB 的問題。VB 程式碼中的錄製程式物件可能會不正確地報告錯誤。
 
 - 此更新修正可能會導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
 
@@ -2893,6 +2979,7 @@ ms.locfileid: "51995730"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
@@ -2902,5 +2989,4 @@ ms.locfileid: "51995730"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
