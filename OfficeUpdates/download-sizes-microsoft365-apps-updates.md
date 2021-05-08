@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: 4d0be484cc3605b30d3feedcad0006278a249e79
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091851"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278070"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -25,16 +25,48 @@ ms.locfileid: "52091851"
 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小會遠超過表格中所列的大小。它可能需要完整下載，其可能為至少 1 GB。
 
 
-> [!IMPORTANT]
-> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
-> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](/deployoffice/name-change)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
-
-
 > [!NOTE]
 > - 表格中所列的大約下載大小僅適用於 Microsoft 365 Apps 的 x64 英文 (美國) 版本。
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+
+## <a name="may-6-2021"></a>2021 年 5 月 6 日
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業通道
+
+<i>預期的版本為版本 2103 (組建 13901.20506)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.20506) <br/> |2021 年 4 月 13 日 <br/> |137<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+<i>預期的版本為版本 2102 (組建 13801.20626)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.20506) <br/> |2021 年 4 月 13 日 <br/> |45<br/> |
+|版本 2102 (組建 13801.20294) <br/> |2021 年 3 月 9 日 <br/> |72<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+<i>預期的版本為版本 2008 (組建 13127.21614)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2008 (組建 13127.21506) <br/> |2021 年 4 月 13 日 <br/> |55<br/> |
+|版本 2008 (組建 13127.21348) <br/> |2021 年 3 月 9 日 <br/> |61<br/> |
+
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT END)
 
 ## <a name="april-29-2021"></a>2021 年 4 月 29 日
 
