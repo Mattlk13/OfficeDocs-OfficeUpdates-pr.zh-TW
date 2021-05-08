@@ -9,16 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: ddcbff596fef219151991e7244d747ee1ab59f1a
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278050"
+ms.locfileid: "52264741"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
 這些版本和組建編號適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 的傳統型應用程式訂閱版本。
+
+> [!IMPORTANT]
+> - 我們正在變更 Microsoft 365 Apps 的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。  如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
+> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。  若要深入了解，請[閱讀本文](/deployoffice/name-change)。  在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 
 > [!NOTE]
