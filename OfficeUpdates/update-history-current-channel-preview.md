@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: ff7bb864ac52a6d5b0adde4f8f80cb296645aabf
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: f8b50148f80bd9e77ec274722b3590cd9894ec5d
+ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278090"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52285984"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道 (預覽) 更新歷程記錄
 
@@ -22,7 +22,7 @@ ms.locfileid: "52278090"
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道 (預覽) 版本和組建
 
-如果您已經註冊先前稱為「測試人員 - 慢」的目前通道 (預覽) 層級，您大約每個月會取得一次新的 Office 功能更新，加上包含重要修正或安全性更新的後續組建。以下清單顯示最新的目前通道 (預覽) 版本和組建，並將 **最新發行的組建優先列出**。新組建會包含先前組建內含的所有更新。若要尋找版本資訊，[請參閱此處](./current-channel-preview.md)。同時，您可以查看 [Office 測試人員的新功能](https://insider.office.com/en-us/releasenotes/windows/slow)。
+如果您已經註冊先前稱為「測試人員 - 慢」的目前通道 (預覽) 層級，您大約每個月會取得一次新的 Office 功能更新，加上包含重要修正或安全性更新的後續組建。以下清單顯示最新的目前通道 (預覽) 版本和組建，並將 **最新發行的組建優先列出**。新組建會包含先前組建內含的所有更新。若要尋找版本資訊，[請參閱此處](./current-channel-preview.md)。同時，您可以查看 [Office 測試人員的新功能](https://insider.office.com/zh-TW/releasenotes/windows/slow)。
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
@@ -31,6 +31,9 @@ ms.locfileid: "52278090"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2021 年 5 月 7 日**<br/>
+版本 2105 (組建 14026.20138)<br/>
 
 **2021 年 5 月 3 日**<br/>
 版本 2105 (組建 14026.20052)<br/>
