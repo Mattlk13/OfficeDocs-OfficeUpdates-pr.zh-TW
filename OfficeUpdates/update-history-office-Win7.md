@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Microsoft 365 應用程式更新歷程記錄的版本資訊
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749131"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330450"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 上 Microsoft 365 應用程式的更新歷程記錄 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749131"
 
 版本 2002 是最新版本的 Microsoft 365 Apps，適用於執行 Windows 7 的裝置。 版本 2002 可以在 Microsoft 365 Apps 的所有更新通道取得。
 
-半年通道的版本通常只能使用 14 個月。 但是版本 2002 除外，以符合 Windows 7 版擴充安全性更新 (ESU) 的時間。
+半年企業通道的版本通常只能使用 14 個月。但版本 2002 除外，以符合 Windows 7 版延伸安全性更新 (ESU) 的時間。
 
 版本 2002 的擴充可用性也適用於其他更新通道，例如目前通道，但僅適用於執行 Windows 7 的裝置。
 
@@ -38,6 +38,9 @@ ms.locfileid: "51749131"
 ## <a name="update-history"></a>更新歷程記錄
 
 [//]: # (DO NOT REMOVE)
+
+**2021 年 5 月 11 日**<br/>
+版本 2002 (組建 12527.21912)<br/>
 
 **2021 年 4 月 13 日**<br/>
 版本 2002 (組建 12527.21814)<br/>
