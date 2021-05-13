@@ -9,17 +9,63 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 15057ecbf2e351bc294a9937e1548f51a43f7ba6
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278110"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322483"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
+
+## <a name="version-2102-may-11"></a>版本 2102：5 月 11 日
+*版本 2102 (組建 13801.20638)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 Excel 的部分自動化增益集無法載入的問題。
+
+
+- 我們已修正在使用增益集時，會導致某些語言的日期格式顯示不正確的問題。
+
+
+- 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 這可讓使用者設定 Outlook 以將線上會議新增至他們建立的每一個會議。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與連結圖片相關的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正 Wordmail 中當連結的第 2084 個字元是逸出字元時，某人無法傳送項目的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正即使 GPO 已設為停用要求，Office 範本也會開啟的問題。
+
+
+- 修正會導致 Word 在列印長篇文件時意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
 *版本 2102 (組建 13801.20506)*
@@ -110,7 +156,7 @@ ms.locfileid: "52278110"
 
 - **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -122,13 +168,13 @@ ms.locfileid: "52278110"
 
 - **在 Outlook 中使用快速投票建立投票：** 輕鬆建立投票、收集投票，並在電子郵件中檢視結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **新的會議室尋找工具：** 依不同功能搜尋會議室。
 
 - **以您說話的方式搜尋：** 使用日常語言如「上週獸醫的預約」來篩選和縮小搜尋範圍。
 
-- **快速重新開啟上一個 Outlook 工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。<br />在[部落格文章](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)中查看詳細資料
+- **快速重新開啟上一個 Outlook 工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/automatically-restore-windows-in-outlook)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -136,7 +182,7 @@ ms.locfileid: "52278110"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
@@ -148,7 +194,7 @@ ms.locfileid: "52278110"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -611,6 +657,7 @@ ms.locfileid: "52278110"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
@@ -620,5 +667,4 @@ ms.locfileid: "52278110"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.13127.20408|version-2008-september-08|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.12527.20988|version-2002-august-11|)
-[//]: # (|Win32|FRDC|測試人員| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

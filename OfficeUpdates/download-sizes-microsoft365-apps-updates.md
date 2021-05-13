@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: ed59e962bd4767dbded3801ec18c4c329a4cb1b3
-ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
+ms.openlocfilehash: f9a6e6f59593677910766785b0a42a551277c44c
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264751"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322453"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -25,25 +25,29 @@ ms.locfileid: "52264751"
 如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小會遠超過表格中所列的大小。它可能需要完整下載，其可能為至少 1 GB。
 
 
-> [!IMPORTANT]
-> - 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
-> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。 若要深入了解，請[閱讀本文](/deployoffice/name-change)。 在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
-
-
 > [!NOTE]
 > - 表格中所列的大約下載大小僅適用於 Microsoft 365 Apps 的 x64 英文 (美國) 版本。
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="may-11-2021"></a>2021 年 5 月 11 日
 
-## <a name="may-6-2021"></a>2021 年 5 月 6 日
+[//]: # (DO NOT REMOVE CONTENT STARTMay 11, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2104 (組建 13929.20372)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2104 (組建 13929.20296) <br/> |2021 年 4 月 29 日 <br/> |60<br/> |
+|版本 2103 (組建 13901.20462) <br/> |2021 年 4 月 23 日 <br/> |173<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2103 (組建 13901.20506)。</i>
+最新的版本是版本 2103 (組建 13901.20516)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -53,7 +57,7 @@ ms.locfileid: "52264751"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2102 (組建 13801.20626)。</i>
+最新的版本是版本 2102 (組建 13801.20638)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -63,7 +67,7 @@ ms.locfileid: "52264751"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2008 (組建 13127.21614)。</i>
+最新的版本是版本 2008 (組建 13127.21624)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -71,7 +75,10 @@ ms.locfileid: "52264751"
 |版本 2008 (組建 13127.21348) <br/> |2021 年 3 月 9 日 <br/> |61<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDMay 11, 2021)
+
+
+
 
 ## <a name="april-29-2021"></a>2021 年 4 月 29 日
 

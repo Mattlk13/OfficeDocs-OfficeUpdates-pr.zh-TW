@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: c80fc6be7ba427eb11cc1e141d44e12ed30cdb2c
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52277910"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322443"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,55 @@ ms.locfileid: "52277910"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2104-may-11"></a>版本 2104：5 月 11 日
+*版本 2104 (組建 13929.20372)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正主要版本組建的復原可能會導致檔案開啟時當機的問題。
+
+
+- 修正流量分析工具箱增益集對某些使用者無法運作的問題。
+
+
+- 我們已修正在使用增益集時，會導致某些語言的日期格式顯示不正確的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用行事曆共用改進功能的使用者在功能窗格中與他們的行事曆互動時發生的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正主要版本組建的復原可能會導致檔案開啟時當機的問題。
+
+
+- 修正少數使用者無法使用 [重複使用投影片] 選項的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正主要版本組建的復原可能會導致檔案開啟時當機的問題。
+
+
+- 修正由於使用者登出或將電腦重新開機關機時，可能導致 Word 意外關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此變更會剖析 Cobalt 回應上傳送的新 TenantId 屬性，並儲存在中央資料表中。
 
 
 
@@ -746,6 +795,7 @@ ms.locfileid: "52277910"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
@@ -755,5 +805,4 @@ ms.locfileid: "52277910"
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

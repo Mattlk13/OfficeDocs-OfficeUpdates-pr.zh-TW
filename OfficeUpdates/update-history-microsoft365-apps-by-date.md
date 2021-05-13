@@ -9,20 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
-ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
+ms.openlocfilehash: d0a956126459c81ebb4147fd052dcc1a62661eab
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264741"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322303"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
 這些版本和組建編號適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 的傳統型應用程式訂閱版本。
-
-> [!IMPORTANT]
-> - 我們正在變更 Microsoft 365 Apps 的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。  如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
-> - Office 365 專業增強版即將從版本 2004 開始，重新命名為 Microsoft 365 Apps 企業版。  若要深入了解，請[閱讀本文](/deployoffice/name-change)。  在我們的文件中，我們通常直接將它稱為 Microsoft 365 Apps。
 
 
 > [!NOTE]
@@ -37,12 +33,12 @@ ms.locfileid: "52264741"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2104<br/>|13929.20296<br/>|2021 年 4 月 29 日<br/>|版本 2105 已推出<br/>|
-|每月企業通道<br/>|2102<br/>|13801.20506<br/>|2021 年 4 月 13 日<br/>|2021 年 6 月 8 日<br/>|
-|每月企業通道<br/>|2101<br/>|13628.20664<br/>|2021 年 4 月 13 日<br/>|2021 年 5 月 11 日<br/>|
-|半年企業通道 (預覽)<br/>|2102<br/>|13801.20506<br/>|2021 年 4 月 13 日<br/>|2021 年 9 月 14 日<br/>|
-|半年企業通道<br/>|2008<br/>|13127.21506<br/>|2021 年 4 月 13 日<br/>|2022 年 3 月 8 日<br/>|
-|半年企業通道<br/>|2002<br/>|12527.21814<br/>|2021 年 4 月 13 日<br/>|2021 年 9 月 14 日<br/>|
+|目前通道<br/>|2104<br/>|13929.20372<br/>|2021 年 5 月 11 日<br/>|版本 2105 已推出<br/>|
+|每月企業通道<br/>|2103<br/>|13901.20516<br/>|2021 年 5 月 11 日<br/>|2021 年 7 月 13 日<br/>|
+|每月企業通道<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 6 月 8 日<br/>|
+|半年企業通道 (預覽)<br/>|2102<br/>|13801.20638<br/>|2021 年 5 月 11 日<br/>|2021 年 9 月 14 日<br/>|
+|半年企業通道<br/>|2008<br/>|13127.21624<br/>|2021 年 5 月 11 日<br/>|2022 年 3 月 8 日<br/>|
+|半年企業通道<br/>|2002<br/>|12527.21912<br/>|2021 年 5 月 11 日<br/>|2021 年 9 月 14 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -56,27 +52,28 @@ ms.locfileid: "52264741"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|2021|4 月 29 日|[版本 2104 (組建 13929.20296)](current-channel.md#version-2104-april-29)| | | |
-|2021|4 月 23 日|[版本 2103 (組建 13901.20462)](current-channel.md#version-2103-april-23)| | | |
-|2021|4 月 13 日|[版本 2103 (組建 13901.20400)](current-channel.md#version-2103-april-13)|[版本 2102 (組建 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[版本 2101 (組建 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[版本 2102 (組建 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[版本 2008 (組建 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[版本 2002 (組建 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
-|2021|4 月 2 日|[版本 2103 (組建 13901.20336)](current-channel.md#version-2103-april-02)| | | |
+|2021 年|5 月 11 日|[版本 2104 (組建 13929.20372)](current-channel.md#version-2104-may-11)|[版本 2103 (組建 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[版本 2102 (組建 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[版本 2102 (組建 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[版本 2008 (組建 13127.21624)](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[版本 2002 (組建 12527.21912)](semi-annual-enterprise-channel.md#version-2002-may-11)|
+|2021 年|4 月 29 日|[版本 2104 (組建 13929.20296)](current-channel.md#version-2104-april-29)| | | |
+|2021 年|4 月 23 日|[版本 2103 (組建 13901.20462)](current-channel.md#version-2103-april-23)| | | |
+|2021 年|4 月 13 日|[版本 2103 (組建 13901.20400)](current-channel.md#version-2103-april-13)|[版本 2102 (組建 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[版本 2101 (組建 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[版本 2102 (組建 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[版本 2008 (組建 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[版本 2002 (組建 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
+|2021 年|4 月 2 日|[版本 2103 (組建 13901.20336)](current-channel.md#version-2103-april-02)| | | |
 |2021 年|3 月 30 日|[版本 2103 (組建 13901.20312)](current-channel.md#version-2103-march-30)| | | |
-|2021|3 月 18 日|[版本 2102 (組建 13801.20360)](current-channel.md#version-2102-march-18)| | | |
-|2021|3 月 9 日|[版本 2102 (組建 13801.20294)](current-channel.md#version-2102-march-09)|[版本 2101 (組建 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[版本 2012 (組建 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[版本 2102 (組建 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[版本 2008 (組建 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[版本 2002 (組建 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
+|2021 年|3 月 18 日|[版本 2102 (組建 13801.20360)](current-channel.md#version-2102-march-18)| | | |
+|2021 年|3 月 9 日|[版本 2102 (組建 13801.20294)](current-channel.md#version-2102-march-09)|[版本 2101 (組建 13628.20528)](monthly-enterprise-channel.md#version-2101-march-09)<br/>[版本 2012 (組建 13530.20628)](monthly-enterprise-channel.md#version-2012-march-09)|[版本 2102 (組建 13801.20294)](semi-annual-enterprise-channel-preview.md#version-2102-march-09)|[版本 2008 (組建 13127.21348)](semi-annual-enterprise-channel.md#version-2008-march-09)<br/>[版本 2002 (組建 12527.21686)](semi-annual-enterprise-channel.md#version-2002-march-09)|
 |2021 年|3 月 1 日|[版本 2102 (組建 13801.20266)](current-channel.md#version-2102-march-01)| | | |
 |2021 年|2 月 16 日|[版本 2101 (組建 13628.20448)](current-channel.md#version-2101-february-16)| | | |
 |2021 年|2 月 9 日|[版本 2101 (組建 13628.20380)](current-channel.md#version-2101-february-09)|[版本 2012 (組建 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[版本 2011 (組建 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[版本 2008 (組建 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[版本 2008 (組建 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[版本 2002 (組建 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[版本 1908 (組建 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021 年|1 月 26 日|[版本 2101 (組建 13628.20274)](current-channel.md#version-2101-january-26)| | | |
 |2021 年|1 月 21 日|[版本 2012 (組建 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021 年|1 月 12 日|[版本 2012 (組建 13530.20376)](current-channel.md#version-2012-january-12)|[版本 2011 (組建 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[版本 2010 (組建 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[版本 2008 (組建 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[版本 2008 (組建 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[版本 2002 (組建 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[版本 1908 (組建 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
-|2021|1 月 5 日|[版本 2012 (組建 13530.20316)](current-channel.md#version-2012-january-05)| | | |
-|2020|12 月 21 日|[版本 2011 (組建 13426.20404)](current-channel.md#version-2011-december-21)| | | |
-|2020|12 月 8 日|[版本 2011 (組建 13426.20332) ](current-channel.md#version-2011-december-08)|[版本 2010 (組建 13328.20478) ](monthly-enterprise-channel.md#version-2010-december-08)<br/>[版本 2009 (組建 13231.20620) ](monthly-enterprise-channel.md#version-2009-december-08)|[版本 2008 (組建 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[版本 2002 (組建 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[版本 1908 (組建 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
-|2020|12 月 2 日|[版本 2011 (組建 13426.20308)](current-channel.md#version-2011-december-02)| | | |
-|2020|11 月 30 日|[版本 2011 (組建 13426.20294)](current-channel.md#version-2011-november-30)| | | |
-|2020|11 月 23 日|[版本 2011 (組建 13426.20274)](current-channel.md#version-2011-november-23)| | | |
-|2020|11 月 17 日|[版本 2010 (組建 13328.20408)](current-channel.md#version-2010-november-17)| | | |
-|2020|11 月 10 日|[版本 2010 (組建 13328.20356)](current-channel.md#version-2010-november-10)|[版本 2009 (組建 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[版本 2008 (組建 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[版本 2008 (組建 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[版本 2002 (組建 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[版本 1908 (組建 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
+|2021 年|1 月 5 日|[版本 2012 (組建 13530.20316)](current-channel.md#version-2012-january-05)| | | |
+|2020 年|12 月 21 日|[版本 2011 (組建 13426.20404)](current-channel.md#version-2011-december-21)| | | |
+|2020 年|12 月 8 日|[版本 2011 (組建 13426.20332) ](current-channel.md#version-2011-december-08)|[版本 2010 (組建 13328.20478) ](monthly-enterprise-channel.md#version-2010-december-08)<br/>[版本 2009 (組建 13231.20620) ](monthly-enterprise-channel.md#version-2009-december-08)|[版本 2008 (組建 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[版本 2002 (組建 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[版本 1908 (組建 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|
+|2020 年|12 月 2 日|[版本 2011 (組建 13426.20308)](current-channel.md#version-2011-december-02)| | | |
+|2020 年|11 月 30 日|[版本 2011 (組建 13426.20294)](current-channel.md#version-2011-november-30)| | | |
+|2020 年|11 月 23 日|[版本 2011 (組建 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020 年|11 月 17 日|[版本 2010 (組建 13328.20408)](current-channel.md#version-2010-november-17)| | | |
+|2020 年|11 月 10 日|[版本 2010 (組建 13328.20356)](current-channel.md#version-2010-november-10)|[版本 2009 (組建 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[版本 2008 (組建 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[版本 2008 (組建 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[版本 2002 (組建 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[版本 1908 (組建 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|10 月 27 日|[版本 2010 (組建 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|10 月 21 日|[版本 2009 (組建 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|10 月 13 日|[版本 2009 (組建 13231.20390)](current-channel.md#version-2009-october-13)|[版本 2008 (組建 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[版本 2007 (組建 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[版本 2008 (組建 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[版本 2002 (組建 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[版本 1908 (組建 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|

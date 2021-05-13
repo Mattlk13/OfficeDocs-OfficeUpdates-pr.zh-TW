@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278100"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322343"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -23,6 +23,59 @@ ms.locfileid: "52278100"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-may-11"></a>版本 2008：5 月 11 日
+*版本 2008 (組建 13127.21624)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 Excel 的部分自動化增益集無法載入的問題。
+
+
+- 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+
+- 我們已進行修正，以在協助工具焦點追蹤開啟時改善於工作表間切換或捲動時的效能。
+
+
+- 已解決筆跡會導致 Excel 無法回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致郵件在使用者取消選取該選項之後，以數位簽章方式傳送的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正某些檔案無法匯出為 PDF 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-may-11"></a>版本 2002：5 月 11 日
+*版本 2002 (組建 12527.21912)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正 Excel 的部分自動化增益集無法載入的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -927,6 +980,7 @@ ms.locfileid: "52278100"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
@@ -936,5 +990,4 @@ ms.locfileid: "52278100"
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production||16.0.12527.20988|version-2002-august-11|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

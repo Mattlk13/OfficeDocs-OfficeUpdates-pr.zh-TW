@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 45717c3a57ea169f7c243f0db1a318f3f5aeebe7
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278040"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322323"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,179 @@ ms.locfileid: "52278040"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2103-may-11"></a>版本 2103：5 月 11 日
+*版本 2103 (組建 13901.20516)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自動使用新的資料類型**：當您輸入的資料值類似股票或地理位置時，Excel 會將該值轉換為正確的連結資料類型 - 股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+
+- **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。
+
+### <a name="outlook"></a>Outlook
+
+- **使用內建翻譯工具打破語言障礙：** 不再需要翻譯的增益集！ 您現在可以在 Outlook 中使用 Intelligent Translator。 當您收到另一種語言的郵件時，郵件上會顯示提示，詢問您是否希望 Outlook 將它翻譯為您的預設語言。
+您也可以按一下滑鼠右鍵以翻譯特定的文字、片語或整個郵件。 [深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="visio"></a>Visio
+
+- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/access-illustrations-icons-in-visio)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當外部應用程式要求協助工具介面時，它會防止我們關機，直到它們釋出其參考為止的問題。
+
+
+- 此變更可修正在某些情況下，執行 SQL Server 傳遞查詢時，可能會導致錯誤訊息指出「無效的 Cursor 狀態」的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在使用增益集時，會導致某些語言的日期格式顯示不正確的問題。
+
+
+- 修正流量分析工具箱增益集對某些使用者無法運作的問題。
+
+
+- 修正在繪製影像時 Word 中可能會當機的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在代表另一個使用者進行傳送，並且針對非全域通訊清單的通訊錄進行解析時，造成名稱解析失敗的問題。
+
+
+- 我們已修正會導致 Outlook 覆寫 OWA 中已設定的焦點收件匣喜好設定的問題。
+
+
+- 我們已修正會導致部分使用者無法存取與次要郵件帳戶相關聯簽章的問題。
+
+
+- 我們已修正會導致使用者看到較預期更多簽章的問題。
+
+
+- 我們已修正會導致某些使用者在功能窗格中看到主要和次要行事曆切換位置的問題。
+
+
+- 我們已修正會導致使用者在新增行事曆時，錯誤地看到「這可能需要一些時間」訊息的問題。
+
+
+- 我們已修正會導致代理人在新增的行事曆上所建立的會議中顯示為召集人的問題。  處於此狀態的會議不會出現在主體的行事曆上。
+
+
+- 我們已修正啟用 MAPI 的應用程式在具有 ARM 處理器的電腦上使用 Outlook 元件的問題。 此問題可能導致搜尋失敗，或因為背景應用程式重複重新啟動而造成電腦上額外的負載。
+
+
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+
+
+- 修正在繪製影像時 Word 中可能會當機的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與連結圖片相關的問題。
+
+
+- 修正在繪製影像時 Word 中可能會當機的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正 Visio 在關閉期間可能會停止運作的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 修正 Visio 在關閉期間可能會停止運作的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正將提供文字預測情況最佳化的問題。
+
+
+- 修正對儲存在本機檔案上的自動儲存圖說文字進行更新的問題。
+
+
+- 修正共同撰寫文件時，若註解順序變更，則不會清除作用中草稿的問題。
+
+
+- 修正預覽列印會意外關閉的問題。
+
+
+- 修正在繪製影像時 Word 中可能會當機的問題。
+
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
+
+
+- 修正離線開啟 SyncBacked 檔案，然後於儲存檔案之前，在應用程式中重新命名檔案時，重新命名會停止回應的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-may-11"></a>版本 2102：5 月 11 日
+*版本 2102 (組建 13801.20638)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在使用增益集時，會導致某些語言的日期格式顯示不正確的問題。
+
+
+- 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 這可讓使用者設定 Outlook 以將線上會議新增至他們建立的每一個會議。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與連結圖片相關的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正 Wordmail 中當連結的第 2084 個字元是逸出字元時，某人無法傳送此項目的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正會導致 Word 在列印長篇文件時意外關閉的問題。
+
+
+- 在此變更之前，即使已開啟用於停用 Office 範本的 GPO，Office 範本還是會顯示。 利用此變更，範本現在會正確地遵循 GPO，並按要求顯示/隱藏。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
 *版本 2102 (組建 13801.20506)*
@@ -289,7 +462,7 @@ ms.locfileid: "52278040"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
@@ -538,6 +711,7 @@ ms.locfileid: "52278040"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
@@ -547,5 +721,4 @@ ms.locfileid: "52278040"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32 |MEC |生產 |功能 | 16.0.13001.20520 | 版本-2006-11 |)
-[//]: # (|Win32|MEC|生產|功能|16.0.12827.20538|版本-2005-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

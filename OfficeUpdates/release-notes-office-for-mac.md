@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091842"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330510"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -57,6 +57,58 @@ ms.locfileid: "52091842"
 
 
 
+
+
+
+## <a name="may-11-2021"></a>2021 年 5 月 11 日
+*版本 16.49 (組建 21050901)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="apex-shared"></a>Apex Shared
+
+- **在 Mac 上取得 Office 開始畫面的清新外觀：** 使用我們的 Fluent 工具組的全新清新外觀，以與 Apple 在 Big Sur 中的新設計語言一致。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/visual-updates-to-start-experience-in-office-for-mac)中查看詳細資料
+
+### <a name="excel"></a>Excel
+
+- **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。 [深入了解](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
+
+### <a name="outlook"></a>Outlook
+
+- **開啟共用信箱並設定委派：** 現在您可以在新的 Mac 版 Outlook 中設定委派案例，並開啟共用信箱
+
+- **按一下編輯器便提供書寫建議：** 按一下滑鼠右鍵來取得拼字、文法和其他智慧型寫作建議 (Alt+Down)。 使用按一下滑鼠左鍵來檢視新的卡片設計，並探索如「新增至字典」、「顯示內容」、「同義字」等等的其他選項。 [深入了解](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
+
+- **使用語音命令聽寫您的訊息：** 新的聽寫工具列、語音命令和自動標點符號，讓使用語音撰寫訊息變得快速且簡單。<br />在[部落格文章](https://insider.office.com/zh-TW/blog)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **MAC 使用者的 AI 型噪音抑制：** 當您的麥克風在 Teams 會議或通話中開啟時，您周圍的背景噪音，翻動紙張、甩門、狗吠等，可能會干擾其他人。 Teams 提供四個層級的噪音抑制 (自動、低、高和關閉)，以協助會議參與者保持專注。此功能現在可供所有 MAC 使用者使用，擁有 M1 ARM 處理器的新 MAC 使用者除外。
+
+- **GCC 中 Teams 會議中即時輔助字幕和即時文字記錄的演講者屬性：** GCC 雲端中的 Teams 會議現在將會有歸功於話語發言者的即時輔助字幕話語。
+
+- **在聊天中回覆：** 能夠在聊天中回覆特定訊息。
+
+- **自訂 Microsoft Teams 中的應用程式：** 應用程式自訂功能可讓開發人員指定其 Teams 應用程式的某些屬性，以提供自訂並允許 IT 系統管理員在 Teams 系統管理中心重新打造這些屬性。 例如，IT 系統管理員可以從 ServiceNow 自訂 Now Virtual Agent 應用程式的名稱、描述和圖示，以滿足其組織的獨特需求。
+
+- **Teams 中的 M365 個人檔案卡片：** 當您在 Teams 中選取某人的名稱或圖片時，個人檔案卡片將會開啟並顯示與該人員相關的資訊，例如其職稱、連絡人資訊和主管。個人檔案卡片有時也稱為連絡人卡片或人員卡片。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31177](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-31177)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="april-13-2021"></a>2021 年 4 月 13 日
 *版本 16.48 (組建 21041102)*
@@ -1067,10 +1119,10 @@ ms.locfileid: "52091842"
 
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **瞬間從 iPhone 移至 Word ：** 使用 Apple Continuity Camera 將相片從 iPhone 插入文件。需使用 macOS Mojave。[深入了解](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的文件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0561)：Microsoft Word 資訊洩漏弱點  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0585)：Microsoft Word 遠端程式碼執行弱點 |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
-|Excel  <br/>| **使用註解共同作業：** 使用內建的回覆方塊，在試算表中進行交談。[深入了解](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **將敏感度標籤套用至您的工作表**：將敏感度標籤套用至您的工作表，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 支援：** 在活頁簿中插入並編輯 SVG 可加入視覺效果。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**適用於長條圖、瀑布圖、矩形式樹狀結構圖、放射環狀圖、漏斗圖和地圖圖表的其他格式設定選項：** 使用 [格式] 窗格，讓您更能掌控新圖表類型的格式設定選項。|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **在講義中列印投影片編號：** 當您將簡報列印至講義時，每張投影片顯示時都會伴隨著投影片編號。 <br/><br/> **將敏感度標籤套用至您的簡報**：將敏感度標籤套用至您的簡報，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**內嵌字型子集：** 只內嵌簡報中使用的字元。  [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **將敏感度標籤套用至您的郵件**：將敏感度標籤套用至您的郵件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在目前信箱中快速尋找郵件：** 根據您最近使用的搜尋歷程記錄，選取搜尋方塊以顯示快速建議。 不需要輸入。 [深入了解](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**新增 Gmail 變得更簡單**：安全性提升表示您不再需要允許存取「較不安全的 App」，也不再需要設定 App 密碼即可將您的 Gmail 帳戶新增至 Outlook。<br/><br/>**Mac 版 Outlook 現在會醒目提示搜尋字詞：** 是否曾嘗試搜尋某個項目，並希望 Outlook 能在項目清單和預覽窗格中醒目提示您的搜尋字詞？ 是的，您不需再懷疑，此功能已推出！||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Word  <br/>| **瞬間從 iPhone 移至 Word ：** 使用 Apple Continuity Camera 將相片從 iPhone 插入文件。需使用 macOS Mojave。[深入了解](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **將敏感度標籤套用至您的文件**：將敏感度標籤套用至您的文件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0561)：Microsoft Word 資訊洩漏弱點  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-0585)：Microsoft Word 遠端程式碼執行弱點 |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
+|Excel  <br/>| **使用註解共同作業：** 使用內建的回覆方塊，在試算表中進行交談。[深入了解](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **將敏感度標籤套用至您的工作表**：將敏感度標籤套用至您的工作表，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG 支援：** 在活頁簿中插入並編輯 SVG 可加入視覺效果。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**適用於長條圖、瀑布圖、矩形式樹狀結構圖、放射環狀圖、漏斗圖和地圖圖表的其他格式設定選項：** 使用 [格式] 窗格，讓您更能掌控新圖表類型的格式設定選項。|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **在講義中列印投影片編號：** 當您將簡報列印至講義時，每張投影片顯示時都會伴隨著投影片編號。 <br/><br/> **將敏感度標籤套用至您的簡報**：將敏感度標籤套用至您的簡報，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**內嵌字型子集：** 只內嵌簡報中使用的字元。  [深入了解](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **將敏感度標籤套用至您的郵件**：將敏感度標籤套用至您的郵件，以使其符合貴組織的資訊保護原則。[深入了解](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**在目前信箱中快速尋找郵件：** 根據您最近使用的搜尋歷程記錄，選取搜尋方塊以顯示快速建議。 不需要輸入。 [深入了解](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**新增 Gmail 變得更簡單**：安全性提升表示您不再需要允許存取「較不安全的 App」，也不再需要設定 App 密碼即可將您的 Gmail 帳戶新增至 Outlook。<br/><br/>**Mac 版 Outlook 現在會醒目提示搜尋字詞：** 是否曾嘗試搜尋某個項目，並希望 Outlook 能在項目清單和預覽窗格中醒目提示您的搜尋字詞？是的，不用懷疑，此功能已推出！||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft 自動更新 4.7 <br/>| AutoUpdate 精靈現在啟動作為安裝程序的一部分。這樣可以排除先前對使用者顯示，會令人混淆的安全性對話方塊。 <br/><br/> 已增強 Microsoft AutoUpdate 的安全性功能以支援 SHA256 憑證。 <br/>|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
