@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322483"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470777"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -24,7 +24,7 @@ ms.locfileid: "52322483"
 ## <a name="version-2102-may-11"></a>版本 2102：5 月 11 日
 *版本 2102 (組建 13801.20638)*
 
-安全性更新列於[此處](microsoft365-apps-security-updates.md)
+安全性更新清單列於此處：[Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -70,7 +70,7 @@ ms.locfileid: "52322483"
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
 *版本 2102 (組建 13801.20506)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新清單列於此處：[Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -138,7 +138,7 @@ ms.locfileid: "52322483"
 ## <a name="version-2102-march-09"></a>版本 2102：3 月 9 日
 *版本 2102 (組建 13801.20294)*
 
-安全性更新列於[此處](./microsoft365-apps-security-updates.md)
+安全性更新清單列於此處：[Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -518,7 +518,7 @@ ms.locfileid: "52322483"
 ## <a name="version-2008-february-09"></a>版本 2008：2 月 9 日
 *版本 2008 (組建 13127.21216)*
 
-安全性更新列於[此處](./microsoft365-apps-security-updates.md)
+安全性更新清單列於此處：[Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -579,7 +579,7 @@ ms.locfileid: "52322483"
 ## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
 *版本 2008 (組建 13127.21064)*
 
-安全性更新列於[此處](./microsoft365-apps-security-updates.md)
+安全性更新清單列於此處：[Microsoft Office 安全性更新的版本資訊](microsoft365-apps-security-updates.md)。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
