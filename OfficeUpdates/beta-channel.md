@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278000"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563339"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,49 @@ ms.locfileid: "52278000"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2106-may-14"></a>版本 2106：5 月 14 日
+*版本 2106 (組建 14107.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正以下問題：在 [僅下載標題] 模式下執行時，使用者看到可行動的訊息在下載後不斷重新整理或回復為標題。
+
+
+- 我們已修正導致 Outlook 中的人員選擇器針對擁有永久授權的使用者向上展開，而不是向下展開的問題。
+
+
+- 我們已修正導致自訂網域使用者在將連結貼到電子郵件時，看到權限警告訊息的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正按下 ctrl + shift + @ 等按鍵組合時，不會產生預期的重音符號 (在此案例中為 'å') 的問題。
+
+
+- 我們已修正與影像壓縮相關的問題。
+
+
+- 我們已修正如果檔案名稱包含 DBCS 字元，將郵件附件複製到 Word 之外的應用程式會失敗的問題。
+
+
+- 我們已修正 Word 有時會在應該不存在的文字周圍顯示邊框的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正當確實沒有合併衝突時，OneDrive 會顯示合併錯誤訊息的問題。
+
+
+- 我們已修正 SVG 物件轉換成圖形時 Z 順序的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2106-may-07"></a>版本 2106：5 月 7 日
 *版本 2106 (組建 14029.20000)*
@@ -2199,7 +2242,7 @@ ms.locfileid: "52278000"
 
 - **在 Excel 中進行共同作業時排序/篩選：** 您現在可以在與其他人共同作業時，同時排序和篩選您的 Excel 檔案。 這項新功能可防止您在共同撰寫文件時，受到其他使用者的排序和篩選的影響。
 
-- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。  如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。  如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -3007,6 +3050,7 @@ ms.locfileid: "52278000"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
@@ -3016,5 +3060,4 @@ ms.locfileid: "52278000"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

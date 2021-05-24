@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755405"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563379"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,25 @@ ms.locfileid: "51755405"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="may-2021-release"></a>2021 年 5 月發行
+
+**發行日期：** 2021 年 5 月 13 日
+
+*Microsoft AutoUpdate 4.35*
+
+**錯誤修正及增強功能：**
+- 解決導致顯示「更新已在進行中」提示的並行更新的潛在問題。
+- [略過] 對話方塊顯示兩次的錯誤修正。
+- 相同更新顯示多個通知的錯誤修正。
+- Microsoft AutoUpdate 安裝程式/更新程式套件上的大小縮減。
+- 命令列介面 (CLI) 現在使用原生 xpc 與 Microsoft Update Assistant 通訊，而不是 Apple 事件。
+
+[下載 Microsoft AutoUpdate 4.35 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
 
 ## <a name="april-2021-release"></a>2021 年 4 月發行
 
@@ -219,7 +238,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - 還原 4 月版本中所推出，關閉了自動更新的使用者，只會每週看到 Microsoft AutoUpdate UI 一次的功能。
 - 已修正更新小幫手於下載更新之後、安裝開始前未預期關閉的問題。
 - 已修正更新小幫手在拖延的擱置中使用者通知期間後未關閉的問題。
-- 修正安裝後，MAU UI 重新開啟 (或未重新開啟) 的問題。 如果更新是從 MAU UI 本身啟動，或如果更新是由使用者明確啟動 (透過 Finder、終端機等)，安裝後 UI 應會開啟。
+- 修正在安裝 MAU UI 後，MAU UI 重新開啟 (或未重新開啟) 的問題。如果更新是從 MAU UI 本身啟動，或如果更新是由使用者明確啟動 (透過 Finder、終端機等)，安裝後 UI 應會開啟。
 
 **SHA-256 雜湊：**
 
@@ -359,7 +378,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **功能更新：**
 
 - 您現在可以在 Microsoft AutoUpdate 儀表板上檢視每個主要更新中的新功能。
-- Office 2019 更新的最低作業系統需求在 Catalina 發行時已變更為 macOS 10.13。 系統會通知使用者升級至最新的 Office 更新。
+- Office 2019 更新的最低作業系統需求隨著 Catalina 發行變更為 macOS 10.13。使用者會收到升級至最新 Office 更新的通知。
 
 **SHA-256 雜湊：**
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322443"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563369"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,23 @@ ms.locfileid: "52322443"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2104-may-18"></a>版本 2104：5 月 18 日
+*版本 2104 (組建 13929.20386)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致 Outlook 中的人員選擇器針對擁有永久授權的使用者向上展開，而不是向下展開的問題。
+
+
+- 我們已修正導致無法向 Office Perpetual 2021 預覽使用者顯示意見回應選項的問題。
 
 
 
@@ -118,9 +135,6 @@ ms.locfileid: "52322443"
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
-
-- 修正某些 Excel 自動化增益集無法載入的問題。
-
 
 - 我們已修正某些檔案偶爾無法在受保護的檢視中開啟的問題
 
@@ -670,7 +684,7 @@ ms.locfileid: "52322443"
 - 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -769,7 +783,7 @@ ms.locfileid: "52322443"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 - 此變更解決了在方程式中正確顯示字型的問題。
@@ -795,6 +809,7 @@ ms.locfileid: "52322443"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
@@ -804,5 +819,4 @@ ms.locfileid: "52322443"
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
