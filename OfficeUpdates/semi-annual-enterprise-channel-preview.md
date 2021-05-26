@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470777"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625928"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -160,6 +160,9 @@ ms.locfileid: "52470777"
 
 - **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
+
+- **與 Office 的 XLM 巨集的 AMSI 整合：** AMSI 是 Windows 10 上可用的開放式介面，可供應用程式在執行階段要求由已安裝的防毒軟體或安全性解決方案同步掃描記憶體緩衝區。 偵測到惡意活動時，Excel 會通知使用者，並關閉該應用程式工作階段以避免任何進一步損毀。 這麼做可阻止在其軌跡中的攻擊，同時保護裝置和使用者。 在[部落格文章](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/)中查看詳細資料。
+
 ### <a name="outlook"></a>Outlook
 
 - **協助保護群組中的資料：** 建立群組時所選擇的「敏感度」標籤會套用到群組電子郵件、文件及小組網站。
@@ -208,7 +211,7 @@ ms.locfileid: "52470777"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
