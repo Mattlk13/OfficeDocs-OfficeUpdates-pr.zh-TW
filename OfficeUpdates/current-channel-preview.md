@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574298"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636527"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,55 @@ ms.locfileid: "52574298"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-may-23"></a>版本 2105：5 月 23 日
+*版本 2105 (組建 14026.20246)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **推出出席資料儀表板檢視**：您不再需要手動下載報告，Teams 現在可讓您按一下儀表板檢視即可檢視所有彙總資料
+
+- **應用程式的安全性、合規性和資料保護功能：** 對於 Microsoft 365 認證 Teams 應用程式，系統管理員可以在 Teams 系統管理中心應用程式詳細資料頁面的新索引標籤上檢視安全性、合規性和資料保護功能。 此透明度使得 Microsoft 客戶能夠信任其組織中執行的應用程式。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致「縮短會議時間」功能的部分指示透過螢幕閱讀程式技術無法使用的問題。
+
+
+- 我們已修正會導致某些使用者在載入個人卡片時遇到意外關閉的問題。
+
+
+- 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+    - Regkey:
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (預設值) - 當使用者按一下 [會議室尋找工具] 按鈕以搜尋可用的會議室時，Outlook 會使用新的會議室尋找工具由 OWA 提供的體驗  </br>
+
+    > 1 - Outlook 使用舊版會議室尋找工具 UI 來搜尋可用的會議室 </br>
+
+
+### <a name="project"></a>Project
+
+- 修正手動排程工作上的指派可能會移至不正確日期的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2105-may-19"></a>版本 2105：5 月 19 日
 *版本 2105 (組建 14026.20202)*
@@ -1020,7 +1069,7 @@ ms.locfileid: "52574298"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -1104,7 +1153,7 @@ ms.locfileid: "52574298"
 
 [//]: # (請勿移除 BUGDETAILS 內容結尾)
 
-## <a name="version-2101-february-03"></a>版本 2101: 2 月 03 日
+## <a name="version-2101-february-03"></a>版本 2101：2 月 3 日
 *版本 2101 (組建 13628.20330)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1458,7 +1507,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2012-december-14"></a>版本2012：12 月 14 日
+## <a name="version-2012-december-14"></a>版本 2012：12 月 14 日
 *版本 2012 (組建 13530.20144)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1487,7 +1536,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2012-december-07"></a>版本2012：12 月 7 日
+## <a name="version-2012-december-07"></a>版本 2012：12 月 7 日
 *版本 2012 (組建 13530.20064)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1649,7 +1698,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2011-december-01"></a>版本2011：12 月1 日
+## <a name="version-2011-december-01"></a>版本 2011：12 月 1 日
 *版本 2011 (組建 13426.20306)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1782,7 +1831,7 @@ ms.locfileid: "52574298"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -2071,7 +2120,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2010-october-11"></a>版本 2010: 10 月 11 日
+## <a name="version-2010-october-11"></a>版本 2010：10 月 11 日
 *版本 2010 (組建 13328.20154)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -2532,7 +2581,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2008-september-04"></a>版本2008：9月 4日
+## <a name="version-2008-september-04"></a>版本 2008：9月 4日
 *版本 2008 (組建 13127.20378)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2580,8 +2629,8 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2008-august-27"></a>版本2008：8月27日
-*版本2008（組建13127.20296）*
+## <a name="version-2008-august-27"></a>版本 2008：8月27日
+*版本 2008（組建13127.20296）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -2651,7 +2700,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2008-august-17"></a>版本2008：8月17日
+## <a name="version-2008-august-17"></a>版本 2008：8 月 17 日
 *版本 2008 (組建 13127.20208)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -2674,7 +2723,7 @@ ms.locfileid: "52574298"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2008-august-11"></a>版本 2008: 8月11日
+## <a name="version-2008-august-11"></a>版本 2008：8 月 11 日
 *版本 2008 (組建 13127.20164)*
 
 安全性更新列於[此處](./microsoft365-apps-security-updates.md)
@@ -2868,7 +2917,7 @@ ms.locfileid: "52574298"
 * 各種錯誤和效能修正。
 
 ## <a name="version-2007-july-20"></a>版本 2007：7 月 20 日
-*版本2007 (組建 13029.20236)*
+*版本 2007 (組建 13029.20236)*
 * 各種錯誤和效能修正。
 
 ## <a name="version-2007-july-15"></a>版本 2007：7 月 15 日
@@ -3108,7 +3157,7 @@ ms.locfileid: "52574298"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-25"></a>版本 2006：6 月 25 日
-*版本2006（組建13001.20266）*
+*版本 2006（組建13001.20266）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -3132,7 +3181,7 @@ ms.locfileid: "52574298"
 
 ### <a name="outlook"></a>Outlook
 
-- <span style="display:inline !important;">解決一個問題，該問題導致使用者看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">附件的建立日期&nbsp; 他們透過托放方式將該附件複製到其檔案系統&nbsp; 該建立日期設於 4501年1月1日。</span><br>
+- <span style="display:inline !important;">解決一個問題，該問題導致使用者看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">附件的建立日期&nbsp; 他們透過托放方式將該附件複製到其檔案系統&nbsp; 該建立日期設於 4501 年1月1日。</span><br>
 
 
 - <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。</span><br>
@@ -3395,7 +3444,7 @@ ms.locfileid: "52574298"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2005-may-29"></a>版本 2005：5 月 29 日
-*版本2005（組建12827.20268）*
+*版本 2005（組建12827.20268）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 

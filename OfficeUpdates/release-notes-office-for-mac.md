@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563399"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625948"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -66,10 +66,6 @@ ms.locfileid: "52563399"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="apex-shared"></a>Apex Shared
-
-- **在 Mac 上取得 Office 開始畫面的清新外觀：** 使用我們的 Fluent 工具組的全新清新外觀，以與 Apple 在 Big Sur 中的新設計語言一致。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/visual-updates-to-start-experience-in-office-for-mac)中查看詳細資料
-
 ### <a name="excel"></a>Excel
 
 - **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。 [深入了解](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
@@ -97,6 +93,9 @@ ms.locfileid: "52563399"
 
 - **Teams 中的 M365 個人檔案卡片：** 當您在 Teams 中選取某人的名稱或圖片時，個人檔案卡片將會開啟並顯示與該人員相關的資訊，例如其職稱、連絡人資訊和主管。個人檔案卡片有時也稱為連絡人卡片或人員卡片。
 
+### <a name="office-suite"></a>Office 套件
+
+- **在 Mac 上取得 Office 開始畫面的清新外觀：** 使用我們的 Fluent 工具組的全新清新外觀，以與 Apple 在 Big Sur 中的新設計語言一致。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/visual-updates-to-start-experience-in-office-for-mac)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 

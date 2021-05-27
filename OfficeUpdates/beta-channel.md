@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563339"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625938"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,75 @@ ms.locfileid: "52563339"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2106-may-21"></a>版本 2106：5 月 21 日
+*版本 2106 (組建 14117.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 RealTimeData 函數參照時，會導致動態陣列無法更新儲存格值的問題。
+
+
+- 我們已修正在填滿大量資料時，會影響 VLOOKUP 和 INDEX/MATCH 效能的問題。
+
+
+- 我們已修正使用凍結窗格時，與使用雙指捲動相關的問題。
+
+
+- 我們已修正在大型印表機上列印時，記憶體不足的相關問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在唯讀模式中，會導致無法從演講者備忘稿窗格複製的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正即使在使用者選擇捨棄變更之後，還是顯示另存新檔錯誤訊息的問題。
+
+
+- 我們已修正會使得影像無法在新式註解中張貼的問題。
+
+
+- 我們已修正檢閱窗格可能會捲動或似乎捲動，但未與選取的註解一致的問題。
+
+
+- 我們已修正在按一下新建立的註解外部時，會導致文件中的選取範圍無法清除的問題。
+
+
+- 我們已修正選取註解時，註解不會強調顯示的問題。
+
+
+- 我們已修正在執行巨集時，如果已套用編輯限制，會將錯誤的欄位更新的問題。
+
+
+- 我們已修正部分 Word 檔案因為書籤損毀而無法開啟的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用不同帳戶來登入可能會導致當機的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2106-may-14"></a>版本 2106：5 月 14 日
 *版本 2106 (組建 14107.20000)*
@@ -617,7 +686,7 @@ ms.locfileid: "52563339"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -1257,7 +1326,7 @@ ms.locfileid: "52563339"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -1342,7 +1411,7 @@ ms.locfileid: "52563339"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -1491,7 +1560,7 @@ ms.locfileid: "52563339"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2010-october-02"></a>版本 2010: 10月 02日
+## <a name="version-2010-october-02"></a>版本 2010：10 月 2 日
 *版本 2010 (組建 13328.20000)*
 
 
@@ -1752,8 +1821,8 @@ ms.locfileid: "52563339"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2010-september-04"></a>版本2010：9月04日
-*版本2010（組建13301.20004）*
+## <a name="version-2010-september-04"></a>版本 2010：9 月 4 日
+*版本 2010（組建13301.20004）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -1867,7 +1936,7 @@ ms.locfileid: "52563339"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -1887,8 +1956,8 @@ ms.locfileid: "52563339"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2009-august-14"></a>2009 版本: 8月14日
-*2009 版本 (組建 13205.20000)*
+## <a name="version-2009-august-14"></a>版本 2009：8 月 14 日
+*版本 2009 (組建 13205.20000)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -2014,8 +2083,8 @@ ms.locfileid: "52563339"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2008-july-17"></a>版本2008：7月17日
-*版本2008（組建13115.20000）*
+## <a name="version-2008-july-17"></a>版本 2008：7 月 17 日
+*版本 2008（組建13115.20000）*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -3050,6 +3119,7 @@ ms.locfileid: "52563339"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ ms.locfileid: "52563339"
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
