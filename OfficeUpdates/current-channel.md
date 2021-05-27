@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
+ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563369"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657966"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -30,6 +30,119 @@ ms.locfileid: "52563369"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2105-may-24"></a>版本 2105：5 月 24 日
+*版本 2105 (組建 14026.20246)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
+
+### <a name="teams"></a>Teams
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **匿名使用者可以簡報：** 在主持 Teams 即時活動時，我們新增了匿名使用者加入即時活動的能力，因此他們也可以在活動期間進行簡報。
+
+- **核准 - 重新指派支援：** 核准者現在可以委派/重新指派核准要求給其他使用者。
+
+- **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
+
+- **VDI 的在一起模式：** VDI 上的在一起模式在會議中使用 AI 分割技術，以數位方式將參與者放在共用背景中，讓每個人覺得你們正坐在同一間會議室中。
+
+- **受監督的聊天：** 使用 Teams 系統管理原則，以確保學生在私人一對一或群組聊天期間受到授課者監督。 使用受監督的聊天時，學生將不被允許在沒有監督授課者出席的情況下參與聊天。
+
+- **Microsoft Teams：修訂會議內共用體驗：** Microsoft Teams 中會議內共用功能的使用者介面已重新設計，以協助簡報者更快速且輕鬆地找到所需的內容。
+
+- **停用特定出席者的相機：** 會議召集人和簡報者可以在 Teams 會議中停用特定出席者的相機，以確保他們不會在會議中分享視訊。
+
+- **停用所有出席者的相機：** 會議召集人和簡報者可以在 Teams 會議中停用所有出席者的相機，以確保他們不會在會議中分享視訊。
+
+- **Teams 網路研討會功能正式發行：** 排程，並使用您用於會議的相同 Teams 應用程式，提供 1，000 人網路研討會！ 網路研討會功能支援註冊頁面建立、報名者的電子郵件確認、出席者影片和音訊的主機管理、出席者報告，以及投票、聊天和回應等互動式功能。
+
+- **使用 Teams 範本建立團隊：** 使用 Teams 中的範本，使用者可在建立新的團隊時從各種可自訂的範本中選擇，協助他們快速開始使用。 IT 系統管理員也可以為其組織建立新的自訂範本，讓他們能標準化團隊結構、預先安裝相關應用程式，以及擴大最佳做法。 IT 系統管理員可以選擇要在 Teams 系統管理中心向使用者顯示哪些團隊範本，也可以將 URL 新增到團隊範本中的網站索引標籤，以預先設定網站頁面。
+
+- **從 PowerPoint 到 Teams 進行簡報：** PowerPoint 應用程式直接透過 PowerPoint Live 將您的投影片展示到 Teams 會議。
+
+- **擴大的表情圖示選擇器：** 擴大的表情圖示更新可在 Teams 中提供使用者更多樂趣和表達力。 它也推出更廣泛的多樣性和呈現方式。 表情圖示集已由 85 個擴充到超過 800 個表情圖示，具有類別選取器、膚色選取器和簡短代碼選擇器。
+
+- **在群組聊天中與外部使用者聊天：** 使用此功能，使用者可以使用 Teams 建立包含其組織外部人員的群組聊天 (需要所有使用者都啟用外部存取功能)。
+
+- **更新至網路規劃中心工具以估計頻寬：** 將更新網路規劃中心工具，以反映 Teams 用戶端的最新頻寬需求。 這將協助 IT 系統管理員更能夠評估及規劃其辦公室頻寬需求。
+
+- **在桌面 (或) 瀏覽器 (或) Teams 中預設開啟檔案的使用者喜好設定：** 使用者可以在開啟 Teams 中共用的 Office (Word、Excel 和 Power Point) 檔案時，將預設喜好設定設定為瀏覽器、桌面或 Teams。如果已安裝並啟用最新的 Office 用戶端，就可以選取桌面設定
+
+- **在會議中同時聚焦多個使用者：** 召集人和簡報者現在可以在會議期間同時聚焦多個參與者。 會議階段會向會議中的每個人顯示這些焦點參與者及其影片或虛擬人偶。
+
+### <a name="word"></a>Word
+
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正流量分析工具箱增益集對某些使用者無法運作的問題。
+
+
+- 修正問題，讓名稱管理員可以在具有大量隱藏名稱的書籍上開啟。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致「縮短會議時間」功能的部分指示會透過螢幕閱讀程式技術停用的問題。
+
+
+- 我們已修正會導致某些使用者在載入個人卡片時遇到意外關閉的問題。
+
+
+- 我們已修正會導致意見回應選項向 Office Perpetual 2021 預覽的使用者停用的問題。
+
+
+- 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
+    - 登錄機碼：
+
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD "ShowLegacyRoomFinder"</br></br>
+        > 0 (預設值) - 當使用者按一下 [會議室尋找工具] 按鈕以搜尋可用的會議室時，Outlook 會使用新的會議室尋找工具由 OWA 提供的體驗  </br>
+        > 1 - Outlook 使用舊版會議室尋找工具 UI 來搜尋可用的會議室 </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正少數使用者無法使用 [重複使用投影片] 選項的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正手動排程工作上的指派可能會移至不正確日期的問題。
+
+
+- 修正當您建立的自訂欄位公式使用 ProjectDate */ProjectDur* 函數，且若第二個參數是 Date()、Now() 或 Time() 日期和時間函數時，會導致 #ERROR 結果的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正拼字及文法檢查用畫布內容卡顯示圖示按鈕，但那些按鈕沒有工具提示的問題。
+
+
+- 修正編輯器窗格無法開啟的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -684,7 +797,7 @@ ms.locfileid: "52563369"
 - 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -783,7 +896,7 @@ ms.locfileid: "52563369"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 - 此變更解決了在方程式中正確顯示字型的問題。
@@ -809,6 +922,7 @@ ms.locfileid: "52563369"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
@@ -818,5 +932,4 @@ ms.locfileid: "52563369"
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
