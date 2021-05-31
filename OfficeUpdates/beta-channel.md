@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
+ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625938"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699129"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,72 @@ ms.locfileid: "52625938"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2106-may-28"></a>版本 2106：5 月 28 日
+*版本 2106 (組建 14122.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **組織總管：** 檢視並瀏覽組織結構。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用者無法在「非商務」授權 Outlook 版本中跨資料夾移動項目的問題。
+
+
+- 此登錄機碼會停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
+
+  > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+  > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+  > 0 (預設值) - 當使用者按一下 [會議室尋找工具] 按鈕以搜尋可用的會議室時，Outlook 會使用新會議室尋找工具 OWA 提供的體驗  </br>
+  > 1 - Outlook 使用舊版會議室尋找工具 UI 來搜尋可用的會議室</br>
+
+
+### <a name="project"></a>Project
+
+- 我們已修正手動排程工作上的指派可能會移至不正確日期的問題。
+
+
+- 我們已修正資源資料庫沒有回應且無法開啟的問題。
+
+
+- 我們已修正當您建立使用具有特定日期或時間參數之 ProjectDate */ProjectDur* 函數的自訂欄位公式時，產生錯誤的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正將文件匯出為 PDF 時，某些註解未儲存的問題。
+
+
+- 我們已修正在套用 [限制編輯] 時，於文件未受保護的區域中無法編輯新註解的問題。
+
+
+- 我們已修正不需要的捲動動畫相關的問題。
+
+
+- 我們已修正導致註解窗格意外關閉的問題。
+
+
+- 我們已修正導致 [編輯器] 窗格佈景主題與系統佈景主題不一致的問題。
+
+
+- 我們已修正與處理大型文件相關的效能問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2106-may-21"></a>版本 2106：5 月 21 日
 *版本 2106 (組建 14117.20000)*
@@ -3119,6 +3185,7 @@ ms.locfileid: "52625938"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
@@ -3128,5 +3195,4 @@ ms.locfileid: "52625938"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
