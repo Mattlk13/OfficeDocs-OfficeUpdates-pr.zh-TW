@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662819"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742222"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,43 @@ ms.locfileid: "52662819"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-june-01"></a>版本 2105：6 月 1 日
+*版本 2105 (組建 14026.20254)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
+
+- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/shared-calendars-improvements-in-outlook-for-windows)中查看詳細資料
+
+- **將電子郵件傳送給大型 DL、外部使用者時，協助工具檢查程式會進行微調：** 我們新增了功能，以在撰寫電子郵件給大量對象、外部使用者等時，透過郵件提示自動收到協助工具違規的提示。這些設定放在輕鬆存取中<br />在[部落格文章](https://insider.office.com/zh-TW/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
+
+### <a name="visio"></a>Visio
+
+- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。 [深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正與 Outlook 郵件或行事曆檢視互動時，可能會導致意外關閉的問題。
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2105-may-23"></a>版本 2105：5 月 23 日
 *版本 2105 (組建 14026.20246)*
@@ -3557,7 +3594,7 @@ ms.locfileid: "52662819"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
