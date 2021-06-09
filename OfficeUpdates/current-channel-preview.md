@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
-ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
+ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52742222"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790508"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,36 @@ ms.locfileid: "52742222"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2105-june-04"></a>版本 2105：6 月 04 日
+*版本 2105 (組建 14026.20264)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **資料類型偵測設定：** 在 Excel 中使用Power Query 從未結構化來源匯入資料時，設定資料類型偵測行為
+
+### <a name="word"></a>Word
+
+- **書寫樣式：** 書寫樣式精選評論是以使用者已選取的正式性等級為依據
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正針對部分使用者在 Excel 增益集清單中顯示的額外項目問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2105-june-01"></a>版本 2105：6 月 1 日
 *版本 2105 (組建 14026.20254)*
@@ -3594,7 +3624,7 @@ ms.locfileid: "52742222"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

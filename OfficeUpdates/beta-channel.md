@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 576d74fd51952ddcdd693095fe77f09e4fc70830
-ms.sourcegitcommit: 984872782b13ecd329fb8e8809de923148b77255
+ms.openlocfilehash: 88823cb9d26a86d5c726139c3b7f5ea0b5483b9d
+ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699129"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52790498"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,49 @@ ms.locfileid: "52699129"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2106-june-04"></a>版本 2106：6 月 04 日
+*版本 2106 (組建 14131.20008)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **資料類型偵測設定：** 在 Excel 中使用Power Query 從未結構化來源匯入資料時，設定資料類型偵測行為
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正確保使用匯流排的‘重試儲存’按鈕儲存的檔案會新增至 [最近的清單] 的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正當特殊字元旋轉 90 度時，特殊字元的間距增加問題。
+
+
+- 我們已修正多位使用者在共同撰寫時，有時會遺失註解回覆的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 CLP 功能先前導致了自動儲存至 SyncBacked 檔案 (由 OneDrive 同步檔案) 的問題。
+
+
+- 我們已修正使用者無法編輯儲存於 OnPrem 伺服器中的檔案問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2106-may-28"></a>版本 2106：5 月 28 日
 *版本 2106 (組建 14122.20004)*
@@ -3185,6 +3228,7 @@ ms.locfileid: "52699129"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
@@ -3194,5 +3238,4 @@ ms.locfileid: "52699129"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
