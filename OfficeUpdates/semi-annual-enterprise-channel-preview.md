@@ -9,17 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625928"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52852003"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
+
+## <a name="version-2102-june-08"></a>版本 2102：6 月 8 日
+*版本 2102 (組建 13801.20738)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正會移除在柏拉圖上顯示的額外邊框間距，並減少可用圖表空間的問題。
+
+
+- 已修正部分使用者在 Excel 增益集清單中顯示額外項目的問題。
+
+
+- 我們已修正造成部分使用者的狀態列無法顯示 [準備就緒] 狀態的問題。
+
+
+- 我們已透過改進重新整理 Power BI 數資料型且使用者無權存取某些資料類型時顯示的錯誤訊息來解決問題。
+
+
+- 我們已透過將可在屬性自動完成下拉清單中顯示的屬性數量增加到 256 個屬性，以解決問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當內部和外部 EWS 端點不同且內部端點呼叫失敗時，導致使用者發生連線錯誤的問題。
+
+
+- 我們已修正重新傳送電子郵件時，導致寄件者地址顯示為 LegacyExchangeDN 的問題。
+
+
+- 已修正使用者和系統管理員無法開啟雲端設定的問題。
+
+
+- 我們已修正導致 ZeroConfigExchange 在已使用混合式 Azure AD 而聯結的電腦 (已連線到外部網路) 上無法正常運作的問題。
+
+
+- 我們已修正導致自訂網域使用者在將連結貼到電子郵件時，看到權限警告訊息的問題。
+</br>
+
+- 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
+
+    登錄機碼:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (預設值) - 當使用者按一下 [會議室尋找工具] 按鈕以搜尋可用的會議室時，Outlook 會使用新會議室尋找工具 OWA 提供的體驗  </br>
+    >1 - Outlook 使用舊版會議室尋找工具 UI 來搜尋可用的會議室 </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正儲存區更新為版本 1.0.0.2 以支援集中部署的問題。 使用者必須更新 PowerPoint 中的版本資訊，才能存取儲存區。
+
+
+### <a name="project"></a>Project
+
+- 修正當您建立的自訂欄位公式使用 ProjectDate */ProjectDur* 函數，且若第二個參數是 Date()、Now() 或 Time() 日期和時間函數時，會導致 #ERROR 結果的問題。
+
+
+- 已修正資源資料庫沒有回應且無法開啟的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正有關在圖形搜尋中輸入搜尋關鍵字時，遺失結果的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正插入線上圖片時，應用程式未回應的問題。
+
+
+- 我們已修正在貼上的文字中，複製和貼上的樣式可能會不同的問題。
+
+
+- 我們已修正會移除內容控制項允許的字串大小限制的問題。
+
+
+- 我們已修正與編輯 OLE 物件相關的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正開啟預留位置檔案時的問題。 Office 無回應，無法開啟 sync-backed 檔案。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2102-may-11"></a>版本 2102：5 月 11 日
 *版本 2102 (組建 13801.20638)*
@@ -211,7 +304,7 @@ ms.locfileid: "52625928"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -660,6 +753,7 @@ ms.locfileid: "52625928"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
@@ -669,5 +763,4 @@ ms.locfileid: "52625928"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.13127.20408|version-2008-september-08|)
-[//]: # (|Win32|FRDC|測試人員| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

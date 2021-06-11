@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322323"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851863"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,160 @@ ms.locfileid: "52322323"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2104-june-08"></a>版本 2104：6 月 08 日
+*版本 2104 (組建 13929.20408)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+
+### <a name="word"></a>Word
+
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正部分檔案有時無法在 [受保護的檢視] 中開啟的問題。
+
+
+- 我們已修正在使用增益集時，會導致某些語言的日期格式顯示不正確的問題。
+
+
+- 修正流量分析工具箱增益集對某些使用者無法運作的問題。
+
+
+- 修正針對部分使用者在 Excel 增益集清單中顯示的額外項目問題。
+
+
+- 修正主要版本組建的復原可能會導致檔案開啟時當機的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用行事曆共用改進功能的使用者在功能窗格中與他們的行事曆互動時發生的問題。
+
+
+- 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
+    
+    登錄機碼:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (預設值) - 當使用者按一下 [會議室尋找工具] 按鈕以搜尋可用的會議室時，Outlook 會使用新會議室尋找工具 OWA 提供的體驗  </br>
+    > 1 - Outlook 使用舊版會議室尋找工具 UI 來搜尋可用的會議室 </br>
+
+
+- 我們已修正在代表另一個使用者進行傳送，並且針對非全域通訊清單的通訊錄進行解析時，造成名稱解析失敗的問題。
+
+
+- 我們已修正導致無法向 Office Perpetual 2021 預覽使用者顯示意見回應選項的問題。
+
+
+- 我們已修正可能造成使用者看到正在撰寫的郵件失去 UI 焦點的問題。
+
+
+- 我們已修正會導致 Outlook 覆寫 OWA 中已設定的焦點收件匣喜好設定問題。
+
+
+- 我們已修正會導致使用者看到簽名意外消失的問題。
+
+
+- 我們已修正會導致漫遊設定的使用者遇到無回應的問題。
+
+
+- 我們已修正會導致使用者在搜尋時，遇到處里程序意外終止的問題。
+
+
+- 我們已修正與搜尋相關的意外關閉問題。
+
+
+- 我們已修正造成 Oulook 中的人員選擇器針對具永久授權的使用者向上展開而非向下展開的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正少數使用者無法使用 [重複使用投影片] 選項的問題。
+
+
+- 我們已修正與連結圖片相關的問題。
+
+
+- 已修正主要版本組建的復原可能會導致檔案開啟時意外關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 修正使用者無法從資源資料庫移除專案的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正編輯 OLE 物件時需要變更的問題。
+
+
+- 已修正在閱讀模式中使用深色模式主題時，某些選取的文字無法顯示的問題。
+
+
+- 已修正由於使用者登出或重新啟動電腦而電腦關機時，可能導致 Word 意外關閉的問題。
+
+
+- 已修正對本機儲存之檔案的自動儲存圖說文字進行更新的問題。
+
+
+- 已修正主要版本組建的復原可能會導致檔案開啟時意外關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正會導致雲端文件無法開啟的問題。
+
+
+- 此變更會剖析 Cobalt 回應上傳送的新 TenantId 屬性，並儲存在中央資料表中。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2103-june-08"></a>版本 2103：6 月 8 日
+*版本 2103 (組建 13901.20554)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正針對部分使用者在 Excel 增益集清單中顯示的額外項目問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正如果回復到先前的組建，Word、Powerpoint 和 Excel 無法開啟雲端文件的問題
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2103-may-11"></a>版本 2103：5 月 11 日
 *版本 2103 (組建 13901.20516)*
@@ -711,6 +865,7 @@ ms.locfileid: "52322323"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
@@ -720,5 +875,4 @@ ms.locfileid: "52322323"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
-[//]: # (|Win32 |MEC |生產 |功能 | 16.0.13001.20520 | 版本-2006-11 |)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

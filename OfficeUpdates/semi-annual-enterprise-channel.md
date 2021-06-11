@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: a2b8ae060b7be521bb60f86b809ca0be0bd10817
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322343"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851953"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -23,6 +23,59 @@ ms.locfileid: "52322343"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-june-08"></a>版本 2008：6 月 08 日
+*版本 2008 (組建 13127.21668)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正針對部分使用者在 Excel 增益集清單中顯示的額外項目問題。
+
+
+- 我們已修正造成部分使用者的狀態列無法顯示 [準備就緒] 狀態的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正使用自訂樣式來貼上文字時，遺失編號和縮排的問題。
+
+
+- 已修正會移除內容控制項允許的字串大小限制的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 在此變更之前，即使已開啟用於停用 Office 範本的 GPO，Office 範本還是會顯示。 利用此變更，範本現在會正確地遵循 GPO，並按要求顯示/隱藏。
+
+
+- 已修正從 SharePoint Online 開啟檔案可能會因為授權和數位版權管理發生逾時，而發生不必要延遲的罕見問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2002-june-08"></a>版本 2002：6 月 08 日
+*版本 2002 (組建 12527.21952)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正部分使用者在 Excel 增益集清單中顯示額外項目的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -271,7 +324,7 @@ ms.locfileid: "52322343"
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
-- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。  如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
+- **在 Excel 中建立來自 Power BI 資料的樞紐分析表：** 您可以在 Excel 中建立樞紐分析表，只要按幾下滑鼠，就能連線到儲存在 Power BI 的樞紐分析表。  如此一來，您就能獲得樞紐分析表和 Power BI 的最佳效果。 使用安全 Power BI 資料集的樞紐分析表以計算、摘要及分析資料。 [深入了解](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -980,6 +1033,7 @@ ms.locfileid: "52322343"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
@@ -989,5 +1043,4 @@ ms.locfileid: "52322343"
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
-[//]: # (|Win32|DC|Production||16.0.12527.20988|version-2002-august-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

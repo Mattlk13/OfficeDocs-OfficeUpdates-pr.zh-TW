@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: b5d6ce1ddbc9004858d7078f9c942ce996d90989
-ms.sourcegitcommit: 869978fef16222d8c86af40239712b4f153dcfbb
+ms.openlocfilehash: ea81d4fc37d224d8b291ae95f2a1da8c49b0fb6a
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52776663"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851803"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -31,42 +31,54 @@ ms.locfileid: "52776663"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="june-8-2021"></a>2021 年 6 月 8 日
 
-## <a name="june-3-2021"></a>2021 年 6 月 3 日
+[//]: # (DO NOT REMOVE CONTENT STARTJune 8, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2105 (組建 14026.20270)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2105 (組建 14026.20246) <br/> |2021 年 5 月 24 日 <br/> |59<br/> |
+|版本 2104 (組建 13929.20386) <br/> |2021 年 5 月 18 日 <br/> |215<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2104 (組建 13929.20404)。</i>
+最新的版本是版本 Version 2104 (組建 13929.20408)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2103 (組建 13901.20516) <br/> |2021 年 5 月 11 日 <br/> |172<br/> |
+|版本 2103 (組建 13901.20516) <br/> |2021 年 5 月 11 日 <br/> |171<br/> |
 
 
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2102 (組建 13801.20720)。</i>
+最新的版本是版本 2102 (組建 13801.20738)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2102 (組建 13801.20638) <br/> |2021 年 5 月 11 日 <br/> |47<br/> |
-|版本 2102 (組建 13801.20506) <br/> |2021 年 4 月 13 日 <br/> |50<br/> |
+|版本 2102 (組建 13801.20638) <br/> |2021 年 5 月 11 日 <br/> |48<br/> |
+|版本 2102 (組建 13801.20506) <br/> |2021 年 4 月 13 日 <br/> |51<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2008 (組建 13127.21650)。</i>
+最新的版本是版本 2008 (組建 13127.21668)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2008 (組建 13127.21624) <br/> |2021 年 5 月 11 日 <br/> |56<br/> |
-|版本 2008 (組建 13127.21506) <br/> |2021 年 4 月 13 日 <br/> |57<br/> |
+|版本 2008 (組建 13127.21624) <br/> |2021 年 5 月 11 日 <br/> |62<br/> |
+|版本 2008 (組建 13127.21506) <br/> |2021 年 4 月 13 日 <br/> |62<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDJune 8, 2021)
+
+
+
 
 ## <a name="may-24-2021"></a>2021 年 5 月 24 日
 
