@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 53fef3574a41127e64c5d1c32fdf689d8353eae9
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: b272dad6cf564c200b433ce49b73aa92b56cbde5
+ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851933"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53022076"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,7 +33,7 @@ ms.locfileid: "52851933"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2105<br/>|14026.20270<br/>|2021 年 6 月 8 日<br/>|版本 2106 已推出<br/>|
+|目前通道<br/>|2105<br/>|14026.20308<br/>|2021 年 6 月 18 日<br/>|版本 2106 已推出<br/>|
 |每月企業通道<br/>|2104<br/>|13929.20408<br/>|2021 年 6 月 8 日<br/>|2021 年 8 月 10 日<br/>|
 |每月企業通道<br/>|2103<br/>|13901.20554<br/>|2021 年 6 月 8 日<br/>|2021 年 7 月 13 日<br/>|
 |半年企業通道 (預覽)<br/>|2102<br/>|13801.20738<br/>|2021 年 6 月 8 日<br/>|2021 年 9 月 14 日<br/>|
@@ -52,6 +52,7 @@ ms.locfileid: "52851933"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021 年|6 月 18 日|[版本 2105 (組建 14026.20308)](current-channel.md#version-2105-june-18)| | | |
 |2021 年|6 月 8 日|[版本 2105 (組建 14026.20270)](current-channel.md#version-2105-june-08)|[版本 2104 (組建 13929.20408)](monthly-enterprise-channel.md#version-2104-june-08)<br/>[版本 2103 (組建 13901.20554)](monthly-enterprise-channel.md#version-2103-june-08)|[版本 2102 (組建 13801.20738)](semi-annual-enterprise-channel-preview.md#version-2102-june-08)|[版本 2008 (組建 13127.21668)](semi-annual-enterprise-channel.md#version-2008-june-08)<br/>[版本 2002 (組建 12527.21952)](semi-annual-enterprise-channel.md#version-2002-june-08)|
 |2021 年|5 月 24 日|[版本 2105 (組建 14026.20246)](current-channel.md#version-2105-may-24)| | | |
 |2021 年|5 月 18 日|[版本 2104 (組建 13929.20386)](current-channel.md#version-2104-may-18)| | | |
