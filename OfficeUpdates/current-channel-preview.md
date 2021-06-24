@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
-ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
+ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
+ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52916673"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53068040"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,23 @@ ms.locfileid: "52916673"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2106-june-21"></a>版本 2106：6 月 21 日
+*版本 2106 (組建 14131.20194)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **在干擾較少的情況下閱讀訊息：** 開啟沈浸式閱讀程式，以自訂文字間距、頁面色彩、欄寬和行聚焦，讓您更輕鬆地專注於訊息。
+
+- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2106-june-14"></a>版本 2106：6 月 14 日
 *版本 2106 (組建 14131.20162)*
@@ -2909,7 +2926,7 @@ ms.locfileid: "52916673"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-27"></a>版本2008：8月27日
-*版本2008（組建13127.20296）*
+*版本 2008 (組建 13127.20296)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -3436,7 +3453,7 @@ ms.locfileid: "52916673"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-25"></a>版本 2006：6 月 25 日
-*版本2006（組建13001.20266）*
+*版本 2006 (組建 13001.20266)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
