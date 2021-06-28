@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: be309ede1f540e995ea977feff91267b0ad6c0ad
-ms.sourcegitcommit: d248e36e346915194ca383f5da161790681a87e6
+ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
+ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53025109"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "53132833"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,62 @@ ms.locfileid: "53025109"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2107-june-25"></a>版本 2107：6 月 25 日
+*版本 2107 (組建 14217.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正如果千位和小數分隔符號都使用相同的符號，圖表座標軸值無法變更的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與 SmartArt 節點停用 [變更圖形] 功能相關的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正如果資源名稱具有特殊字元 (例如分號)，在 Project Web App 中建立之約定可能無法在 Project 桌面用戶端中正確載入的問題。
+
+
+- 我們已修正當停用專案選項「專案應該計算成本」時，然後時間階段性成本值可能尚未正確地為成本型資源設定基準的問題。
+
+
+- 我們已修正具有查詢表格的專案層級企業自訂欄位未在 Project 桌面用戶端中顯示值的問題。
+
+
+- 我們已修正將本機專案儲存至 Project Web App 會變更先前已儲存的基準問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正啟用自動儲存會導致最新的編輯暫時消失的問題。
+
+
+- 我們已修正註解窗格中捲動的問題。
+
+
+- 我們已修正當 Office 佈景主題設定為黑色時，在預覽列印中無法清楚顯示標頭/頁尾文字的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Outlook 中使用從右至左書寫的語言撰寫郵件時，含有數字的超連結會中斷的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2107-june-18"></a>版本 2107：6 月 18 日
 *版本 2107 (組建 14210.20004)*
@@ -3296,6 +3352,7 @@ ms.locfileid: "53025109"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
@@ -3305,5 +3362,4 @@ ms.locfileid: "53025109"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
