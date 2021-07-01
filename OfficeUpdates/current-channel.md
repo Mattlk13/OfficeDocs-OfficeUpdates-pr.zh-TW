@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 699d96a400bf09df793c789b5046c8febe6bf8e3
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022116"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206305"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -30,6 +30,66 @@ ms.locfileid: "53022116"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2106-june-29"></a>版本 2106：6 月 29 日
+*版本 2106 (組建 14131.20278)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
+
+- **將電子郵件傳送給大型 DL、外部使用者時，協助工具檢查程式會進行微調：** 我們新增了功能，以在撰寫電子郵件給大量對象、外部使用者等時，透過郵件提示自動收到協助工具違規的提示。這些設定放在輕鬆存取中<br />在[部落格文章](https://insider.office.com/zh-TW/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
+
+- **搜尋時取得相關的檔案建議：** 當您在 [搜尋方塊] 中輸入時，與搜尋相關的最相關檔案將會包含在您的建議中。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正針對部分使用者在 Excel 增益集清單中顯示的額外項目問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致 ARM64 裝置上發生效能問題的問題。
+
+
+- 我們已修正導致某些使用者的翻譯選項遭到停用的問題。  遇到此錯誤的客戶在瀏覽至檔案 -> 選項 -> 語言時，會看見其翻譯選項已遭停用。 有鑑於此，他們可能無法變更其偏好的翻譯語言和其他翻譯相關設定。
+
+
+- 我們已修正導致擁有多個共用行事曆且擁有共用行事曆增進選項的使用者遇到一些效能問題的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用者因為阻礙性的 PowerPoint 特定對話方塊，而無法將憑證輸入 Windows 安全性對話方塊以開啟檔案的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 具有來賓存取的 SPO/ODB 連結現在可繼續運作。
+
+
+### <a name="word"></a>Word
+
+- 已修正在受密碼保護的 docx 檔案上保存引文的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正使用者從 Office 應用程式中的 Me 控制項切換 Active Directory 身分時切換資料案例。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -981,6 +1041,7 @@ ms.locfileid: "53022116"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
@@ -990,5 +1051,4 @@ ms.locfileid: "53022116"
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
