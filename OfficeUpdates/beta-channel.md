@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132833"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278746"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,87 @@ ms.locfileid: "53132833"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2107-july-02"></a>版本 2107：7 月 02 日
+*版本 2107 (組建 14228.20044)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
+
+### <a name="outlook"></a>Outlook
+
+- **REST 轉寄會議要求：** 允許使用者轉寄先前拒絕的 REST 共用日曆會議。
+
+- **大聲朗讀功能變得更好：** 大聲朗讀工具列提供全新、聽起來很自然的語音選項
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
+
+### <a name="word"></a>Word
+
+- **使用您的語音搜尋：** 點一下或按一下搜尋欄中的麥克風，以在 Word 中使用您的聲音來尋找命令、內容等等。
+
+- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。 [深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 CFR 執行發生例外情況的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用者的翻譯選項遭到停用的問題。  遇到此錯誤的客戶在瀏覽至檔案 -> 選項 -> 語言時，會看見其翻譯選項已遭停用。 有鑑於此，他們可能無法變更其偏好的翻譯語言和其他翻譯相關設定。
+
+
+- 我們已修正與「無法載入」回應狀態相關的問題。 預設的回應標幟已設定為「無」。 將游標停留在我們沒有編輯權限的行事曆上，無法在 UI 中顯示任何字串。
+
+
+- 我們已修正預設的文字放大包含了文字縮放比例的問題，因此不需要再呼叫 LayoutChanged。
+
+
+- 我們已修正單次位址的寄件提醒未顯示的問題。
+
+
+- 我們新增了一個登錄機碼，允許語音信箱表單在 Outlook 電腦版 UI 中顯示，因為 Exchange Online 中的 Unified Messaging 中止服務 (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991)。 對於想要語音信箱表單顯示的使用者、企業和組織，必須設定下列登錄機碼： [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- 我們修正了改善 Word 和 JAWS 中新註解窗格的整合，這是一種熱門的螢幕助讀軟體。
+
+
+- 我們已修正使用與 lTagNil 不同的 CommentId 進行清除選取和醒目提示的問題。
+
+
+- 我們已修正未上傳佇列變得沒有回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 en-gb、fr-ca 和 es-mx 現在會與各自的父版本相符的當地語系化問題。
+
+
+- 我們已修正 OMEX 與 ExCatalog 之間無法再共用設定的問題，例如建立了新 webextension 檔案之後，Web 增益集設定會更新至 webextension.xml。 只有在以原始方法部署該增益集，或將新的解決方案參考比較關閉時，才能存取前一個。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容尾)
 
 ## <a name="version-2107-june-25"></a>版本 2107：6 月 25 日
 *版本 2107 (組建 14217.20002)*
@@ -3352,6 +3433,7 @@ ms.locfileid: "53132833"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ ms.locfileid: "53132833"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
