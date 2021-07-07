@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
-ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
+ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
+ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204698"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53309186"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,156 @@ ms.locfileid: "53204698"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2107-july-06"></a>版本 2107：7 月 6 日
+*版本 2107 (組建 14228.20044)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
+
+- **政府機關客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
+
+- **政府機關客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+### <a name="word"></a>Word
+
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存為其他檔案類型。
+
+- **政府機關客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 修正可能導致使用 Access 資料庫引擎 ODBC API 的應用程式意外關閉的問題。
+
+
+- 修正可能導致使用 Access 資料庫引擎 OLEDB API 的應用程式搭配的資料庫包含 SharePoint 清單連結時，會意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正 CFR 執行發生例外情況的問題。
+
+
+- 我們已修正如果千位和小數分隔符號都使用相同的符號，圖表座標軸值無法變更的問題。
+
+
+- 已修正部分使用者在 Excel 增益集清單中顯示額外項目的問題。
+
+
+- 我們已修正在儲存至 SPO 文件庫時，儲存的活頁簿會顯示在最近清單頂端的問題。
+
+
+- 我們已修正啟用舊版增益集時，會開啟空白的重複視窗的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正在複製段落連結時，不一定會重新導向到正確頁面的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用者的翻譯選項遭到停用的問題。  遇到此錯誤的客戶在瀏覽至檔案 -> 選項 -> 語言時，會看見其翻譯選項已遭停用。 有鑑於此，他們可能無法變更其偏好的翻譯語言和其他翻譯相關設定。
+
+
+- 我們已修正與「無法載入」回應狀態相關的問題。 預設的回應標幟已設定為「無」。 將游標停留在我們沒有編輯權限的行事曆上，無法在 UI 中顯示任何字串。
+
+
+- 我們已修正預設的文字放大包含了文字縮放比例的問題，因此不需要再呼叫 LayoutChanged。
+
+
+- 我們已修正單次位址的寄件提醒未顯示的問題。
+
+
+- 我們新增了一個登錄機碼，允許語音信箱表單在 Outlook 電腦版 UI 中顯示，因為 Exchange Online 中的 Unified Messaging 中止服務 (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991)。 對於想要語音信箱表單顯示的使用者、企業和組織，必須設定下列登錄機碼： [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+- 我們已修正在啟動 Outlook 時，會導致有大量群組的使用者遇到沒有回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與 SmartArt 節點停用 [變更圖形] 功能相關的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正如果資源名稱具有特殊字元 (例如分號)，在 Project Web App 中建立之約定可能無法在 Project 桌面用戶端中正確載入的問題。
+
+
+- 我們已修正當停用專案選項「專案應該計算成本」時，然後時間階段性成本值可能尚未正確地為成本型資源設定基準的問題。
+
+
+- 我們已修正具有查詢表格的專案層級企業自訂欄位未在 Project 桌面用戶端中顯示值的問題。
+
+
+- 我們已修正將本機專案儲存至 Project Web App 會變更先前已儲存的基準問題。
+
+
+### <a name="visio"></a>Visio
+
+- 此超連結瀏覽問題現在已在最新組建中修正。 使用者可以使用 <CTRL> + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正啟用自動儲存會導致最新的編輯暫時消失的問題。
+
+
+- 我們修正了改善 Word 和 JAWS 中新註解窗格的整合，這是一種熱門的螢幕助讀軟體。
+
+
+- 我們已修正使用與 lTagNil 不同的 CommentId 進行清除選取和醒目提示的問題。
+
+
+- 我們已修正註解在共同作業期間變成唯讀的問題。
+
+
+- 我們已修正在註解窗格中捲動的問題。
+
+
+- 我們已修正卸載佇列會變得沒有回應的問題。
+
+
+- 我們已修正當 Office 佈景主題設定為黑色時，在預覽列印中無法清楚顯示頁首/頁尾文字的問題。
+
+
+- 我們已修正使用 Microsoft Word Paper 增益集時出現方塊的問題。
+
+
+- 我們已修正預覽列印中的部分頁面為空白的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- 我們已修正在 Outlook 中使用從右至左書寫的語言撰寫郵件時，含有數字的超連結會中斷的問題。
+
+
+- 我們已修正 en-gb、fr-ca 和 es-mx 現在會與各自的父版本相符的當地語系化問題。
+
+
+- 我們已修正 OMEX 與 ExCatalog 之間無法再共用設定的問題，例如建立了新 webextension 檔案之後，Web 增益集設定會更新至 webextension.xml。 只有在以原始方法部署該增益集，或將新的解決方案參考比較關閉時，才能存取前一個。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2106-june-29"></a>版本 2106：6 月 29 日
 *版本 2106 (組建 14131.20278)*
@@ -3903,7 +4053,7 @@ ms.locfileid: "53204698"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
