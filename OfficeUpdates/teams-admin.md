@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: a47bdbb3a9ae39c670cbbb1230248054c1be573e
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: d1b2561633fc52bac88e3f41c814cefa01cc9a50
+ms.sourcegitcommit: ad3cdcae422e3253cff8974fc053024ca5bf4f2a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790530"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53330916"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -48,7 +48,7 @@ IT 系統管理員可以遠端布建和登入 Teams Android 裝置。 若要以�
 
 ### <a name="enable-live-transcripts-in-teams"></a>在 Teams 中啟用即時記錄
 
-這是個別使用者原則，且會在會議期間套用。 此設定會控制是否可讓使用者開啟和關閉使用者出席會議中的實況標題的 [開啟 live 字幕] 選項。 [深入了解](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions)。
+這是個別使用者原則，且會在會議期間套用。 此設定可讓使用者在出席會議時，開啟或關閉活字幕。 [深入了解](/microsoftteams/meeting-policies-participants-and-guests#enable-live-captions)。
 
 ## <a name="march-23-2021"></a>2021 年 3 月 23 日
 
@@ -139,11 +139,11 @@ Microsoft Teams 允許最多10000的出席者加入 Teams 會議。 到達主會
 
 ## <a name="december-9-2020"></a>2020月9日
 
-### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>具有 Microsoft 365 學習路徑的 Teams 顧問
+### <a name="advisor-for-teams-with-microsoft-365-learning-pathways"></a>具有 Microsoft 365 Learning 路徑的 Teams Advisor
 
 Microsoft 365 學習途徑是一種隨選的學習解決方案，您可以自訂此解決方案，以訓練您的使用者，並增加組織中 Teams 的使用和採用。 使用學習路徑搭配 Teams 的 Advisor，讓您的使用者能夠快速地啟動並執行磁碟機採用。
 
-學習路徑可讓您 SharePoint 線上網站範本，以及為使用者輕鬆建立學習網站的能力。 您可以自訂「學習路徑」訓練入口網站，以包含使用者需求特有的訓練和支援內容。 使用 Microsoft online 目錄中的 Teams 播放清單，並新增您自己的播放清單。 [深入了解](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways)。
+Learning 路徑可讓您 SharePoint 線上網站範本，以及為使用者輕鬆建立學習網站的能力。 您可以自訂「學習路徑」訓練入口網站，以包含使用者需求特有的訓練和支援內容。 使用 Microsoft online 目錄中的 Teams 播放清單，並新增您自己的播放清單。 [深入了解](/microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-microsoft-365-learning-pathways)。
 
 ## <a name="october-28-2020"></a>2020 年 10 月 28 日
 
@@ -163,7 +163,7 @@ Microsoft Teams 提供許多適用于醫院和其他保健組織的功能，包�
 
 ### <a name="teams-displays"></a>Teams 顯示器
 
-Microsoft Teams 顯示的類別是一種所有內建的專用 Teams 裝置，其功能都具有環境觸控式螢幕，以及 Cortana 所供電的免提體驗。 [深入了解](/microsoftteams/devices/teams-displays)。
+Microsoft Teams 顯示的類別是一種所有內建的專用 Teams 裝置，其功能包括環境觸控式螢幕和 Cortana 所提供的免提體驗。 [深入了解](/microsoftteams/devices/teams-displays)。
 
 ## <a name="october-22-2020"></a>2020年10月22日
 
@@ -291,9 +291,9 @@ Microsoft Teams 中的稱讚應用程式可協助使用者向其組織或教室�
 
 ## <a name="august-14-2020"></a>2020月14日
 
-### <a name="cortana-voice-skills-in-teams"></a>Teams 中的 Cortana 語音技能
+### <a name="cortana-voice-skills-in-teams"></a>Cortana Teams 中的語音技能
 
-Teams 行動應用程式的 Cortana 語音技能可協助使用者使用口述自然語言執行會議、通訊及共同作業工作。 使用者可以在Teams應用程式中點擊麥克風按鈕與Cortana交談, 而且當他們困在家務中或遛狗或一般外出需與某人聯繫時, 可以發出諸如“打電話給Megan”或“對我的下一個會議發送訊息”之類的請求. 使用者只要說「加入我的下一個會議」即可加入會議，或者詢問「我今天早上有什麼事」來檢查行事曆。 在會議或通話中，他們可以從會議主持者的 [溢出] 功能表中調用 Cortana，並執行典型的會議中任務，例如按照姓名或電話號碼（「將 Megan 新增至通話」）、投影片瀏覽（「顯示季度檢閱投影片瀏覽」）或檢視投影片（「移至投影片備忘稿」）。 該功能所支援的其他事項，就是在 Teams 應用程式中尋找及共用檔案、搜尋及導覽 ( 「使用 John 開啟我的聊天」，移至 [未讀取] 的活動，移至我的表述等等。 ) ]。
+Cortana Teams 行動應用程式中的語音技能，可協助使用者使用口述自然語言執行會議、通訊及共同作業工作。 使用者可以在Teams應用程式中點擊麥克風按鈕與Cortana交談, 而且當他們困在家務中或遛狗或一般外出需與某人聯繫時, 可以發出諸如“打電話給Megan”或“對我的下一個會議發送訊息”之類的請求. 使用者只要說「加入我的下一個會議」即可加入會議，或者詢問「我今天早上有什麼事」來檢查行事曆。 在會議或通話中，他們可以從會議主持者的 [溢出] 功能表中調用 Cortana，並執行典型的會議中任務，例如按照姓名或電話號碼（「將 Megan 新增至通話」）、投影片瀏覽（「顯示季度檢閱投影片瀏覽」）或檢視投影片（「移至投影片備忘稿」）。 該功能所支援的其他事項，就是在 Teams 應用程式中尋找及共用檔案、搜尋及導覽 ( 「使用 John 開啟我的聊天」，移至 [未讀取] 的活動，移至我的表述等等。 ) ]。
 
 Teams 的Cortana 對Cortana 企業服務來說說符合對 Cortana 企業服務相同的的企業級隱私、安全性和合規性承諾，並反映在 [線上服務條款（OST）](https://www.microsoft.com/licensing/product-licensing/products?rtc=1)中。 [深入了解](/microsoftteams/cortana-in-teams)。
 
