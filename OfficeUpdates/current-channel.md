@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206305"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323560"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -63,8 +63,9 @@ ms.locfileid: "53206305"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致 ARM64 裝置上發生效能問題的問題。
+- 我們已修正以下問題：當您檢視信箱資料夾的內容時，商務用 Skype 或 Microsoft Teams 的保留原則顯示為預設資料夾原則，而不是套用於資料夾的信箱保留原則。
 
+- 我們已修正導致 ARM64 裝置上發生效能問題的問題。
 
 - 我們已修正導致某些使用者的翻譯選項遭到停用的問題。  遇到此錯誤的客戶在瀏覽至檔案 -> 選項 -> 語言時，會看見其翻譯選項已遭停用。 有鑑於此，他們可能無法變更其偏好的翻譯語言和其他翻譯相關設定。
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
-ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
+ms.openlocfilehash: 98f6e608b3337cde7e20143f1612814b0398e396
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "53309186"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347956"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,32 @@ ms.locfileid: "53309186"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2107-july-08"></a>版本 2107：7 月 8 日
+*版本 2107 (組建 14228.20070)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **REST 轉寄會議要求：** 允許使用者轉寄先前拒絕的 REST 共用日曆會議。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="word"></a>Word
+
+- 已修正 Word 畫布旁的註解卡片大小不正確的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2107-july-06"></a>版本 2107：7 月 6 日
 *版本 2107 (組建 14228.20044)*
@@ -275,6 +301,8 @@ ms.locfileid: "53309186"
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
+
+- 我們已從 Range.valueTypes 移除 "RichValue"。 [連結的資料類型] 現在會傳回 "Error"，以符合 "#VALUE!" 的值 由 Range.values 傳回。
 
 - 修正了阻止名稱管理員開啟包含大量隱藏名稱之書籍的問題。
 
@@ -4053,7 +4081,7 @@ ms.locfileid: "53309186"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

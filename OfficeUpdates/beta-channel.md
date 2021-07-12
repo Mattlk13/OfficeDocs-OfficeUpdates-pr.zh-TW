@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
-ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
+ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2021
-ms.locfileid: "53278746"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347966"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -296,6 +296,8 @@ ms.locfileid: "53278746"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+- 我們已從 Range.valueTypes 移除 "RichValue"。 [連結的資料類型] 現在會傳回 "Error"，以符合 "#VALUE!" 的值 由 Range.values 傳回。
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正使用者無法在「非商務」授權 Outlook 版本中跨資料夾移動項目的問題。
