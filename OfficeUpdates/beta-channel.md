@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 405b9bd4f9dc15fd3e4ed2233d59df431b0c4244
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
+ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347966"
+ms.lasthandoff: 07/10/2021
+ms.locfileid: "53364080"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,52 @@ ms.locfileid: "53347966"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-july-09"></a>版本 2108：7 月 09 日
+*版本 2108 (組建 14301.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **關閉建議回覆：** Outlook [使回覆更為簡單快速](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) 透過提供僅需幾個字回覆的簡短建議回覆郵件，讓回覆電子郵件更為快速。 部分使用者可能不想看到此選項，因此現在可以關閉此功能。 若要這麼做，請選取檔案 > 選項> 郵件，前往回覆和轉寄區段，然後清除顯示建議的回覆核取方塊。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當來源 .xlsx 檔案已在背景執行，且兩個檔案都是從 ODB 本地同步處理資料夾開啟時，PowerPoint 連結檔案無法使用的問題。
+
+
+- 我們已修正開啟 CSV 檔案時，現在可以識別當地語系化函數名稱的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Word Mobile 中與列印尺寸太小相關的問題。
+
+
+- 我們已修正新增到 SharePoint 文件庫的檔案在開啟後立即繼承設定「ShowDocument 資訊面板」的問題，如果檔案從 SharePoint 中移除，它也會保留。
+
+
+- 我們已修正 URL 剖析器不正確地解譯未以「/」 結尾的資料夾名稱的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在搜尋方塊上新增 DropShadow 屬性時，導致標題列太高，導致版面配置錯誤的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2107-july-02"></a>版本 2107：7 月 02 日
 *版本 2107 (組建 14228.20044)*
@@ -3435,6 +3481,7 @@ ms.locfileid: "53347966"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
@@ -3444,5 +3491,4 @@ ms.locfileid: "53347966"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
