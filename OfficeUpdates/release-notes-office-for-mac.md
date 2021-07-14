@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949843"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409538"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -61,6 +61,38 @@ ms.locfileid: "52949843"
 
 
 
+
+
+
+## <a name="july-13-2021"></a>2021 年 7 月 13 日
+*版本 16.51 (組建 21071101)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **設定可縮短會議的全組織排程預設值：** 我們的商業客戶可以設定縮短會議時間的全組織排程預設值，為公司每個人創造休息時間。
+
+### <a name="word"></a>Word
+
+- **以不同觀點查看您的文件：** 試用眼睛容易適應的新外觀，協助您將焦點放在工作。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/dark-mode-in-word-for-mac)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="june-15-2021"></a>2021 年 6 月 15 日
 *版本 16.50 (組建 21061301)*

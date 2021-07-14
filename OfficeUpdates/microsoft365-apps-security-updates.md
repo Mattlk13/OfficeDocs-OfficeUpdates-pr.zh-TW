@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 6dece74c6156c1a3e8a0ca22fce7e94337cbcf75
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851833"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409418"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,39 @@ ms.locfileid: "52851833"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="july-13-2021"></a>2021 年 7 月 13 日
+目前通道：版本 2106 (組建 14131.20320)  
+每月企業通道：版本 2105 (組建 14026.20334)  
+每月企業通道：版本 2104 (組建 13929.20434)  
+半年企業通道 (預覽)：版本 2102 (組建 13801.20808)  
+半年企業通道：版本 2102 (組建 13801.20808)  
+半年企業通道：版本 2008 (組建 13127.21704)  
+半年企業通道：版本 2002 (組建 12527.21986)   
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.21986)  
+Office 2019 零售版：版本 2106 (組建 14131.20320)  
+Office 2016 零售版：版本 2106 (組建 14131.20320)  
+Office 2019 大量授權版：版本 1808 (組建 10376.20033)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-34501)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-34452](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-34452)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-34469](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2021-34469)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="june-08-2021"></a>2021 年 6 月 8 日
 目前通道：版本 2105 (組建 14026.20270)  

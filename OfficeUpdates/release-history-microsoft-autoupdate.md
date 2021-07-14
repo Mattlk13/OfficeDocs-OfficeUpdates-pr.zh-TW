@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: b71c9156bcabdab976418d15394f82012b20ba04
+ms.sourcegitcommit: a23fad65b58ecdc75e2c7b5f5ba04b73061987d1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949833"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53417554"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,23 @@ ms.locfileid: "52949833"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="july-2021-release"></a>2021 年 7 月發行
+
+**發行日期：** 2021 年 7 月 13 日
+
+*Microsoft AutoUpdate 4.37*
+
+**錯誤修正及增強功能：**
+- msupdate 通知的變更 - MAU 現在會先下載更新並暫存，然後再顯示 IT 系統管理員的通知。
+- 修正 MAU 在套用更新後顯示舊應用程式版本的問題。
+- 修正啟動更新時未關閉 MAU 期限通知的問題。
+
+[下載 Microsoft AutoUpdate 4.37 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.37.21071101_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+2352BA7722ABCC92E9C05E2D50B1B6F71FEF7D91306D6E4EF765F042688F2BC4
+
 ## <a name="june-2021-release"></a>2021 年 6 月版本
 
 **發行日期：** 2021 年 6 月 15 日
