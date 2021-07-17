@@ -76,7 +76,7 @@ ms.locfileid: "53409538"
 
 ### <a name="word"></a>Word
 
-- **以不同觀點查看您的文件：** 試用眼睛容易適應的新外觀，協助您將焦點放在工作。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/dark-mode-in-word-for-mac)中查看詳細資料
+- **在不同的光線下查看您的文件：** 試用眼睛容易適應的新外觀，協助您將焦點放在工作。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/dark-mode-in-word-for-mac)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)

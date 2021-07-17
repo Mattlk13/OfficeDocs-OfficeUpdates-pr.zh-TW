@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在單一位置尋找及管理 Project Server 2013 和 Project Server 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
-ms.openlocfilehash: 4f23879a526d78aea53458d98f7e3dd81c713ef4
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: ba17cecdc1a70239af33ce2adf211d69fda7e730
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851993"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411711"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -28,6 +28,7 @@ ms.locfileid: "52851993"
 ## <a name="project-server-2013-update-history"></a>Project Server 2013 更新歷程記錄
 |**發行日期**|**KB 號碼**||
 |:-----|:-----|:-----|
+|2021 年 7 月 <br/>|[KB5001988](https://support.microsoft.com/help/5001988) <br/>|
 |2021 年 6 月 <br/>|[KB5001959](https://support.microsoft.com/help/5001959) <br/>|
 |2021 年 5 月 <br/>|[KB5001930](https://support.microsoft.com/help/5001930) <br/>|
 |2021 年 4 月 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|

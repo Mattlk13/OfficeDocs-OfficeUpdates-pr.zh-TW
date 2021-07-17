@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
-ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
+ms.openlocfilehash: ca88e77309c90216039fa65bd06d00d9c2f45d42
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2021
-ms.locfileid: "53323560"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409589"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,37 @@ ms.locfileid: "53323560"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2106-july-13"></a>版本 2106：7 月 13 日
+*版本 2106 (組建 14131.20320)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些使用者在擷取服務提供的搜尋建議時遇到意外關閉的問題。
+
+
+- 我們已修正導致雲端設定在發生衝突時，漫遊設定失敗的問題。
+
+
+- 我們已修正啟用 [共用行事曆改進] 選項後，導致 SMTP 位址在多帳戶設定檔中使用者的主要行事曆旁無法顯示的問題。
+
+
+- 我們已修正導致使用者在透過滑鼠右鍵操作功能表回應會議要求時，看到建立重複的行事曆項目的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 DirectX 裝置遺失和復原期間不穩定的問題。
 
 
 
@@ -1042,6 +1073,7 @@ ms.locfileid: "53323560"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
@@ -1051,5 +1083,4 @@ ms.locfileid: "53323560"
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
