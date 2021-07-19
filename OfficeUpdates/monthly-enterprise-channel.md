@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851863"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409559"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,120 @@ ms.locfileid: "52851863"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2105-july-13"></a>版本 2105：7 月 13 日
+*版本 2105 (組建 14026.20334)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **搜尋時取得相關的檔案建議：** 當您在 [搜尋方塊] 中輸入時，與搜尋相關的最相關檔案將會包含在您的建議中。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 修正問題，讓名稱管理員可以在具有大量隱藏名稱的書籍上開啟。
+
+
+- 已修正部分使用者在 Excel 增益集清單中顯示額外的問題項目。
+
+
+- 修正分析工具箱增益集對某些使用者無法運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 變更是停止動作和在變更閘道下進行，因此如果發生問題，可以快速關閉。
+
+
+- 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
+
+   登錄機碼:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar REG_DWORD “ShowLegacyRoomFinder”
+
+    >0 (預設值) - 當使用者按一下 [會議室尋找工具] 按鈕以搜尋可用的會議室時，Outlook 會使用新會議室尋找工具 OWA 提供的體驗</br>
+    >1 - Outlook 使用舊版會議室尋找工具 UI 來搜尋可用的會議室
+
+
+- 此變更可讓使用者透過我們新的意見反應系統提交意見反應。
+
+
+- 我們已修正導致意見反應選項對 Office Perpetual 2021 預覽的使用者停用的問題。
+
+
+- 我們已修正導致使用者在從電子郵件收件者的右鍵操作功能表選取 [開啟 Outlook 內容] 時出現錯誤的問題。
+
+
+- 我們已修正在載入個人卡片時，導致某些使用者遇到應用程式意外關閉的問題。
+
+
+- 我們已修正在從封存區移除資料夾時，導致使用者遇到意外關閉的問題。
+
+
+- 我們已修正透過螢幕閱讀程式技術導致「縮短會議」功能的一些指示停用的問題。
+
+
+- 我們已修正會導致使用者在關閉已回覆或轉寄的郵件時，遇到未預期的屬性變更提示的問題。
+
+
+- 我們已修正可能導致操作 Outlook 郵件或檢視行事曆時意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 修正少數使用者無法使用 [重複使用投影片] 選項的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正手動排程任務的工作分派移至不正確日期的問題。
+
+
+- 修正當您建立的自訂欄位公式使用 ProjectDate */ProjectDur* 函數，且若第二個參數是 Date()、Now() 或 Time() 日期和時間函數時，會導致 #ERROR 結果的問題。
+
+
+### <a name="word"></a>Word
+
+- 修正編輯器窗格無法開啟的問題。
+
+
+- 已修正拼字及文法檢查的畫布內容卡顯示圖示按鈕沒有工具提示的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正 en-gb、fr-ca 和 es-mx 現在會與其各自的來源版本相符合的當地語系化問題。
+
+
+- 已修正重新開啟特定檔案時意外關閉的問題。
+
+
+- 已修正開啟 SyncBacked 檔案時出現效能迴歸的問題。
+
+
+- 已修正使用者無法編輯儲存在 OnPrem SharePoint 伺服器中特定文件的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
+
+## <a name="version-2104-july-13"></a>版本 2104：7 月 13 日
+*版本 2104 (組建 13929.20434)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2104-june-08"></a>版本 2104：6 月 08 日
 *版本 2104 (組建 13929.20408)*
@@ -865,6 +979,7 @@ ms.locfileid: "52851863"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
@@ -874,5 +989,4 @@ ms.locfileid: "52851863"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
