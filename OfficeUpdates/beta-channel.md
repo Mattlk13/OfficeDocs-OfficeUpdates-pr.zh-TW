@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: cfb69fbf28a3e406c979f74cd7cc069218a86c69
-ms.sourcegitcommit: e15447e83a8822825fd71a96d1d59efec607f930
+ms.openlocfilehash: d872a696fbb19cb4238e4d9c98bffd54edb178c4
+ms.sourcegitcommit: aed47a44ce9415032f1fa248b33be56e7979ea12
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2021
-ms.locfileid: "53466664"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53564669"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,30 @@ ms.locfileid: "53466664"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-july-23"></a>版本 2108：7 月 23 日
+*版本 2108 (組建 14315.20008)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用者無法開啟或預覽電子郵件的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正例外導致應用程式意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在註解中插入連結時，應用程式意外關閉的問題。
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2108-july-16"></a>版本 2108：7 月 16 日
 *版本 2108 (組建 14312.20008)*
@@ -3525,6 +3549,7 @@ ms.locfileid: "53466664"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
@@ -3534,5 +3559,4 @@ ms.locfileid: "53466664"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
