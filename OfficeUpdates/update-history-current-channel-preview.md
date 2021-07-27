@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: e0a03934dacdbd4b269f7b9c234fb37da5ac9a35
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: c02c19c8ea954b361128ba1f3f42aca976dfc03d
+ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347926"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53463780"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道 (預覽) 更新歷程記錄
 
@@ -31,6 +31,9 @@ ms.locfileid: "53347926"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2021 年 7 月 16 日**<br/>
+版本 2107 (組建 14228.20154)<br/>
 
 **2021 年 7 月 8 日**<br/>
 版本 2107 (組建 14228.20070)<br/>

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 06051d34b4c3537f0b6f957cdb4d681297390cc5
-ms.sourcegitcommit: 387e4010f06f33bc9b100ed4fa2ced2598d3b167
+ms.openlocfilehash: cfb69fbf28a3e406c979f74cd7cc069218a86c69
+ms.sourcegitcommit: e15447e83a8822825fd71a96d1d59efec607f930
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2021
-ms.locfileid: "53364080"
+ms.lasthandoff: 07/17/2021
+ms.locfileid: "53466664"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,50 @@ ms.locfileid: "53364080"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-july-16"></a>版本 2108：7 月 16 日
+*版本 2108 (組建 14312.20008)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **建立 Outlook.com 帳戶的連結：** 新增帳戶至 Outlook 時，視窗中會顯示 outlook.com 帳戶的連結。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當試算表縮小時，小型資料標記消失的問題。
+
+
+- 我們已修正當活頁簿因為另一個使用者進行修改和存檔而關閉並重新開啟時，卻開啟其他活頁簿的問題。
+
+
+- 我們已修正受保護的檔案不具有標籤中繼資料的問題；此標籤是由保護所決定。 強制標籤現在使用標籤中繼資料和標籤策略。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正校對設定無法保留的問題。
+
+
+- 我們已修正在共同撰寫期間，項目符號可能會從文字中消失的問題。
+
+
+- 我們已修正與儲存檔案相關的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2108-july-09"></a>版本 2108：7 月 09 日
 *版本 2108 (組建 14301.20004)*
@@ -116,7 +160,7 @@ ms.locfileid: "53364080"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 我們已修正 CFR 執行發生例外情況的問題。
+- 我們已修正某些使用者無法在受密碼保護的檔案上開啟進入編輯模式的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -3481,6 +3525,7 @@ ms.locfileid: "53364080"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
@@ -3490,5 +3535,4 @@ ms.locfileid: "53364080"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

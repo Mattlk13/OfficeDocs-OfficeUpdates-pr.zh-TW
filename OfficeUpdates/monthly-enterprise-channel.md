@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
-ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
+ms.openlocfilehash: 4b73ac3bfd364835eb933c530c9b399f5ef91381
+ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409559"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53463770"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -62,7 +62,7 @@ ms.locfileid: "53409559"
 - 變更是停止動作和在變更閘道下進行，因此如果發生問題，可以快速關閉。
 
 
-- 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
+- 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
    登錄機碼:
 
@@ -111,10 +111,10 @@ ms.locfileid: "53409559"
 
 ### <a name="word"></a>Word
 
-- 修正編輯器窗格無法開啟的問題。
+- 已修正 [編輯器] 窗格無法開啟的問題。
 
 
-- 已修正拼字及文法檢查的畫布內容卡顯示圖示按鈕沒有工具提示的問題。
+- 已修正拼字及文法檢查的畫布關聯式卡片的顯示圖示按鈕沒有工具提示的問題。
 
 
 ### <a name="office-suite"></a>Office 套件

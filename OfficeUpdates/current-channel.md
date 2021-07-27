@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: ca88e77309c90216039fa65bd06d00d9c2f45d42
-ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
+ms.openlocfilehash: ddf82888b3452681604c502fa54e40516c45991a
+ms.sourcegitcommit: 3ed0b750503c415fff4beef6e5f7bc819bd8050e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409589"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53531005"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,26 @@ ms.locfileid: "53409589"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2106-july-20"></a>版本 2106：7 月 20 日
+*版本 2106 (組建 14131.20332)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在載入收集診斷資料時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正在從 PST 重新傳送郵件時，導致由 [重新傳送此郵件] 選項所產生之訊息的修改會在傳送時遺失的問題。
+
+
+- 我們已修正當設定檔中出現未完整設定的帳戶時，造成雲端設定使用者遇到意外關閉的問題。
 
 
 
@@ -1073,6 +1093,7 @@ ms.locfileid: "53409589"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
@@ -1082,5 +1103,4 @@ ms.locfileid: "53409589"
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

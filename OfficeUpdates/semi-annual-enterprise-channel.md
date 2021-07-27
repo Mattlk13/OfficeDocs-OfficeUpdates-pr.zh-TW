@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 6e4089b405363dcdc293ea147fc137f6f559f695
-ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
+ms.openlocfilehash: 9df6ee69cf465d592cafe8a5604f9d59374d6ffd
+ms.sourcegitcommit: e0c925dbcd53687d774cfb425a20abfd7c3bf077
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53463720"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53593446"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -216,11 +216,6 @@ ms.locfileid: "53463720"
 - 我們已修正從 OneDrive 同步處理資料夾開啟雲端檔案的問題。
 
 
-- 修正 Office 功能區中已停用的命令，在深灰色 Office 佈景主題中只會使圖示而非文字呈現灰色的錯誤。
-
-
-- 已修正當某些使用者在共同撰寫時，會錯誤地看到通知他們檔案新版本的訊息列之問題。
-
 
 - 我們已修正在圖表中選取資料數列之後，Excel 停止回應的問題。
 
@@ -289,8 +284,6 @@ ms.locfileid: "53463720"
 
 - 我們已修正會導致 MailItem.BeforeAttachmentAdd 事件中斷的問題。
 
-
-- 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 未預期關閉的問題。
 
 
 - 我們已修正使用者在 Outlook 中進行搜尋時，有時候會導致應用程式未預期關閉的問題。
@@ -377,8 +370,6 @@ ms.locfileid: "53463720"
 
 - 我們已修正讓使用者能在覆寫原則時自訂調整文字的問題。
 
-
-- 我們已修正會導致中文字元在儲存為 OFT 檔案時變更為問號的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint

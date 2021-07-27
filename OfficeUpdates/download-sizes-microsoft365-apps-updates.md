@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: b26dab22116bd56befc1efa10884319da1b11084
-ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
+ms.openlocfilehash: 06e4c2883f88d9311f37734766447cb0c27db222
+ms.sourcegitcommit: 3ed0b750503c415fff4beef6e5f7bc819bd8050e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53409428"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53530995"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,22 @@ ms.locfileid: "53409428"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="july-20-2021"></a>2021 年 7 月 20 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJuly 20, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2106 (組建 14131.20332)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2106 (組建 14131.20320) <br/> |2021 年 7 月 13 日 <br/> |54<br/> |
+|版本 2106 (組建 14131.20278) <br/> |2021 年 6 月 29 日 <br/> |61<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJuly 20, 2021)
 
 ## <a name="july-13-2021"></a>2021 年 7 月 13 日
 
