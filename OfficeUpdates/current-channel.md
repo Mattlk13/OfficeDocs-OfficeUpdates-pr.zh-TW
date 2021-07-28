@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: ddf82888b3452681604c502fa54e40516c45991a
-ms.sourcegitcommit: 3ed0b750503c415fff4beef6e5f7bc819bd8050e
+ms.openlocfilehash: abbcc5172c86763b6f5dcbf5f25ec7c149667ecf
+ms.sourcegitcommit: e0c925dbcd53687d774cfb425a20abfd7c3bf077
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53531005"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53593416"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,68 @@ ms.locfileid: "53531005"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2107-july-26"></a>版本 2107：7 月 26 日
+*版本 2107 (組建 14228.20204)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
+
+- **在干擾較少的情況下閱讀訊息：** 開啟沈浸式閱讀程式，以自訂文字間距、頁面色彩、欄寬和行聚焦，讓您更輕鬆地專注於訊息。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已修正如果 Application.DisplayAlerts 設定為 True，就無法從 VBA 開啟受 DRM 保護的活頁簿的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在載入收集診斷資料時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正在從 PST 重新傳送郵件時，導致由 [重新傳送此郵件] 選項所產生之訊息的修改會在傳送時遺失的問題。
+
+
+- 我們已修正在執行搜尋時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正當設定檔中出現未完整設定的帳戶時，造成雲端設定使用者遇到意外關閉的問題。
+
+
+- 我們已修正導致共用日曆改進功能的使用者在 Outlook 重新開機之前，無法顯示新加入的共用日曆的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正使用者能夠順暢地存取檔案，而不需要遇到任何意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正 Word 畫布旁的註解卡片大小不正確的問題。
+
+
+- 已修正在受密碼保護的 DOCX 檔案上維護引文的「最新清單」的問題。
 
 
 
@@ -1093,6 +1155,7 @@ ms.locfileid: "53531005"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
@@ -1102,5 +1165,4 @@ ms.locfileid: "53531005"
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
-[//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
