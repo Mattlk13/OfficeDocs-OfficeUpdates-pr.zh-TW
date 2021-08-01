@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d872a696fbb19cb4238e4d9c98bffd54edb178c4
-ms.sourcegitcommit: aed47a44ce9415032f1fa248b33be56e7979ea12
+ms.openlocfilehash: f414e7d23f438533f6326046fdf2a501fdddcfdc
+ms.sourcegitcommit: 1b2a561f26a2e5153fc178a19ad8ba68f7e181b3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53564669"
+ms.lasthandoff: 07/31/2021
+ms.locfileid: "53677317"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,98 @@ ms.locfileid: "53564669"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-july-30"></a>版本 2108：7 月 30 日
+*版本 2108 (組建 14326.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **想要您的活頁簿提供您入門瀏覽指引嗎？：** 瞭解您活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！ [深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/sheet-view-makes-collaborating-easier)中查看詳細資料
+
+- **享受改良的捲動體驗** ：當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。 [深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
+
+### <a name="outlook"></a>Outlook
+
+- **搜尋結果中的主圖解答：** Outlook 搜尋解答是 Outlook 搜尋增強功能的最新開發內容，可協助您確實找到想要尋找的內容。 現在，您可以更輕鬆地找到您想要尋找的人員、檔案和日曆活動，Outlook 為您在搜尋結果的頂端以卡片呈現最佳答案。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正從包含 XML 地圖的活頁簿中另存為 XML 資料 (.xml) 時發生的問題。
+
+
+- 我們已修正使用觸控功能或觸控板捲動時，會還原回試算表起始位置的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致在 SendFromAliasEnabled 設定為 True 的組織中，由不同使用者重新傳送的電子郵件會顯示為由原始寄件者傳送的問題。
+
+
+- 我們已修正在 Windows Server 2016 上安裝 Office 時，Outlook 電腦版中的某些通知無法正常運作的問題。
+
+
+- 我們已修正導致代理人嘗試在寄件備份檔案夾中查看轉寄的會議要求，會看到主管的會議副本，而非代理人所寄項目的問題。
+
+
+- 我們已進行變更，允許系統管理員透過群組原則，停用以每個程式為基礎的 Always On Logging 功能。
+
+
+- 我們已修正導致使用者能夠下載受保護的語音信箱檔案的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正重新啟動 SmartArt 物件內圖片裁剪的問題。
+
+
+- 我們已修正在某些情況下，使用者無法使用 Paste Special 將圖表內容從 Excel 貼到 PowerPoint 的問題。
+
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當您套用視圖或表格時，並未實際顯示所有應該顯示之欄位的問題。
+
+
+- 我們已修正專案具有跨專案連結和固定成本時，無法建立視覺報表的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正游標可能無法顯示在分頁線之後的問題
+
+
+- 我們已修正當追蹤修訂打開時，Word 透過 VBA 更新 [內容表格] 欄位時沒有回應的問題。
+
+
+- 我們已修正插入 GIF 會顯示安全性注意事項的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在轉換至 None 時，Fire 共同作者狀態會遭變更的問題。
+
+
+- 我們已修正某些語言的文字因文字大小增加而遭截斷的問題。
+
+
+- 我們已修正高 DPI 顯示器的工作窗格中文字換行錯誤的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2108-july-23"></a>版本 2108：7 月 23 日
 *版本 2108 (組建 14315.20008)*
@@ -3549,6 +3641,7 @@ ms.locfileid: "53564669"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14326.20004|version-2108-july-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
@@ -3558,5 +3651,4 @@ ms.locfileid: "53564669"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14122.20004|version-2106-may-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
