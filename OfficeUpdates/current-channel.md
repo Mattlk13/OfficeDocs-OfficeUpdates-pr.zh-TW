@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: abbcc5172c86763b6f5dcbf5f25ec7c149667ecf
-ms.sourcegitcommit: e0c925dbcd53687d774cfb425a20abfd7c3bf077
+ms.openlocfilehash: 5906774c33db7dec1db439f29dc9a001bc8f754c
+ms.sourcegitcommit: 76ad954645a35297f40801144eee6ddd5f179b40
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "53593416"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53774661"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,23 @@ ms.locfileid: "53593416"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2107-august-03"></a>版本 2017：8 月 3 日
+*版本 2107 (組建 14228.20226)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致在 SendFromAliasEnabled 設定為 True 的組織中，由不同使用者重新傳送的電子郵件會顯示為由原始寄件者傳送的問題。
+
+
+- 我們已修正當會議開始與會議結束在不同的日期時，導致使用者在結束會議時間下拉式清單中看到重複時間項目的問題。
 
 
 
@@ -1155,6 +1172,7 @@ ms.locfileid: "53593416"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14228.20226|version-2107-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
@@ -1164,5 +1182,4 @@ ms.locfileid: "53593416"
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
-[//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
