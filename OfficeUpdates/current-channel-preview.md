@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2e3634f674998014c48d260c960f1fa5e1af58b1
-ms.sourcegitcommit: b83034b45ba72eada73461e844f5bcd4fea9cf5a
+ms.openlocfilehash: 587bdb992a6cc2639a86180c98a659ad10e587e0d415492b1220430d1297b0a1
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53548008"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522781"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,212 @@ ms.locfileid: "53548008"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-august-04"></a>版本 2108：8 月 04 日
+*版本 2108 (組建 14326.20046)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。 使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。
+
+### <a name="office-suite"></a>Office 套件
+
+- **在 Word、Excel 和 PowerPoint 中使用 WebP 影像：** Office 現在推出了 WebP 支援，可支援更多影像。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。 此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+### <a name="excel"></a>Excel
+
+- 我們已修正當來源 .xlsx 檔案已在背景執行，且兩個檔案都是從 ODB 本地同步處理資料夾開啟時，PowerPoint 連結檔案無法使用的問題。
+
+
+- 在某些語言中，「檔案」索引標籤文字被裁切掉。
+
+
+- 我們已修正當試算表縮小時，小型資料標記消失的問題。
+
+
+- 我們已修正開啟 CSV 檔案時，現在可以識別當地語系化函數名稱的問題。
+
+
+- 我們已修正當活頁簿因為另一個使用者進行修改和存檔而關閉並重新開啟時，卻開啟其他活頁簿的問題。
+
+
+- 我們已修正從包含 XML 地圖的活頁簿中另存為 XML 資料 (.xml) 時發生的問題。
+
+
+- 我們已修正使用觸控功能或觸控板捲動時，會還原回試算表起始位置的問題。
+
+
+
+- 我們已修正受保護的檔案不具有標籤中繼資料的問題；此標籤是由保護所決定。 強制標籤現在使用標籤中繼資料和標籤策略。
+
+
+- 我們已修正與文字游標動畫相關的穩定性問題。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。 此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用者無法開啟或預覽電子郵件的問題。
+
+
+- 我們已修正在載入收集診斷資料時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正在從 PST 重新傳送郵件時，導致由 [重新傳送此郵件] 選項所產生之訊息的修改會在傳送時遺失的問題。
+
+
+- 我們已修正會導致在 SendFromAliasEnabled 設定為 True 的組織中，由不同使用者重新傳送的電子郵件會顯示為由原始寄件者傳送的問題。
+
+
+- 我們已修正在執行搜尋時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正在 Win Server 2016 上安裝 Office 時，Outlook 電腦版中的某些通知無法正常運作的問題。
+
+
+- 我們已修正當設定檔中出現未完整設定的帳戶時，造成雲端設定使用者遇到意外關閉的問題。
+
+
+- 我們已修正導致代理人嘗試在寄件備份檔案夾中查看轉寄的會議要求，會看到主管的會議副本，而非代理人所寄項目的問題。
+
+
+- 我們已進行變更，允許系統管理員透過群組原則，停用以每個程式為基礎的 Always On Logging 功能。
+
+
+- 我們已修正導致使用者能夠下載受保護的語音信箱檔案的問題。
+
+
+- 我們已修正當會議開始與會議結束在不同的日期時，導致使用者在結束會議時間下拉式清單中看到重複時間項目的問題。
+
+
+- 我們已修正在載入收集診斷資料時，導致某些使用者遇到意外關閉的問題。
+
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正例外導致應用程式意外關閉的問題。
+
+
+- 我們已修正重新啟動 SmartArt 物件內圖片裁剪的問題。
+
+
+- 我們已修正在某些情況下，使用者無法使用 Paste Special 將圖表內容從 Excel 貼到 PowerPoint 的問題。
+
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。 此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正專案具有跨專案連結和固定成本時，無法建立視覺報表的問題。
+
+
+- 我們已修正當您套用視圖或表格時，並未實際顯示所有應該顯示之欄位的問題。
+
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在註解中插入連結時，應用程式意外關閉的問題。
+
+
+- 我們已修正 Word Mobile 中與列印尺寸太小相關的問題。
+
+
+- 我們已修正在 [閱讀] 模式中，[下一頁/上一頁] 按鈕被截斷的問題。
+
+
+- 我們已修正校對設定無法保留的問題。
+
+
+- 我們已修正游標可能無法顯示在分頁線之後的問題。
+
+
+- 我們已修正在共同撰寫期間，項目符號可能會從文字中消失的問題。
+
+
+- 我們已修正新增到 SharePoint 文件庫的檔案在開啟後立即繼承設定「ShowDocument 資訊面板」的問題，如果檔案從 SharePoint 中移除，它也會保留。
+
+
+- 我們已修正當 [追蹤修訂] 開啟時，Word 透過 VBA 更新 [內容表格] 欄位時沒有回應的問題。
+
+
+- 我們已修正導致插入 GIF 以顯示安全性注意事項產生的問題。
+
+
+- 我們已修正與儲存檔案相關的問題。
+
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+- 我們已修正 URL 剖析器不正確地解譯未以「/」 結尾的資料夾名稱的問題。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。 此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在轉換至 None 時，Fire 共同作者狀態會遭變更的問題。
+
+
+- 我們已修正某些語言的文字因文字大小增加而遭截斷的問題。
+
+
+- 在 Outlook 中從郵件視圖切換到行事曆視圖時，表示使用中功能區索引標籤的底線顯示在錯誤的位置
+
+
+- 我們已修正在搜尋方塊上新增 DropShadow 屬性時，導致標題列太高，導致版面配置錯誤的問題。
+
+
+- 我們已修正高 DPI 顯示器的工作窗格中文字換行錯誤的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
+
+## <a name="version-2107-august-02"></a>版本 2107：8 月 02 日
+*版本 2107 (組建 14228.20222)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致在 SendFromAliasEnabled 設定為 True 的組織中，由不同使用者重新傳送的電子郵件會顯示為由原始寄件者傳送的問題。
+
+
+- 我們已修正當會議開始與會議結束在不同的日期時，導致使用者在結束會議時間下拉式清單中看到重複時間項目的問題。
+
+
+- 我們已修正導致共用日曆改進功能的使用者在 Outlook 重新開機之前，無法顯示新加入的共用日曆的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2107-july-22"></a>版本 2107：7 月 22 日
 *版本 2107 (組建 14228.20186)*
@@ -3928,7 +4134,7 @@ ms.locfileid: "53548008"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 5c496839e156bdf65bbe8222819349bf0b384426
-ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
+ms.openlocfilehash: 458d5b8abb0ddbfe9dbd42f6b970b4ddc066e11d98beeefb75fcc01b01b16857
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53411721"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522451"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 

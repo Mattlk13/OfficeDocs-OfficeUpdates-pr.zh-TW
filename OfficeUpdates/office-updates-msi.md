@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 3b8e289e3c7ffd1163c1cb0b9e190c7c2f87fb84
-ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
+ms.openlocfilehash: 17a5d07ac11d1a4b41e882f7e63a26d1cca240a9d77868692bf90bec4461cd3f
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53411941"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522481"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 

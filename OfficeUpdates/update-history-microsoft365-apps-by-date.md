@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 0d9927eda2bc9245225414b1fcb9ab83e4969883
-ms.sourcegitcommit: 76ad954645a35297f40801144eee6ddd5f179b40
+ms.openlocfilehash: 548692f964f1a9d1a7af2597f983f80550dbba6c01338dec9417546a9a5f439b
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774711"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54523081"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 

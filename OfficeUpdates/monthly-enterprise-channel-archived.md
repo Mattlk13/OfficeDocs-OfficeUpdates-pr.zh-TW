@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每月企業通道版本的版本資訊
-ms.openlocfilehash: 171f5436b47f6d35bac641005849c165bf5b6e88
-ms.sourcegitcommit: 5f72a0e94cda2cb64636380605806c29bbcdc53f
+ms.openlocfilehash: 7fdd96dbb47df1136ed0da315cc6698ab4c7044dd1b35a3a0e8c164ed4c0bc98
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52026381"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522541"
 ---
 # <a name="archived-release-notes-for-monthly-enterprise-channel"></a>每月企業通道的封存版本資訊
 這些版本資訊可提供 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月企業通道更新所含新功能和非安全性更新的相關資訊。
@@ -48,7 +48,7 @@ ms.locfileid: "52026381"
 
 - **匯出範圍中的動畫 GIF：** 當匯出成動畫 GIF 時， 選取投影片的範圍
 
-- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
+- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -58,7 +58,7 @@ ms.locfileid: "52026381"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -129,7 +129,7 @@ ms.locfileid: "52026381"
 - 修正 Microsoft 365 端點資料外洩防護無法在磁碟上分類 Office 文件的問題。
 
 
-- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+- 當使用者從 Office 在噴墨印表機上列印任何文件/檔案且印表機墨水不足時，即使噴墨印表機並沒有碳粉，也會顯示「碳粉不足」或「無碳粉」訊息。變更訊息以顯示「碳粉/墨水不足」與「碳粉/墨水用完」。
 
 
 - 修正將註解中的文字複製/貼上到 Excel 時出錯的問題。
@@ -236,7 +236,7 @@ ms.locfileid: "52026381"
 - 修正 Microsoft 365 端點資料外洩防護無法在磁碟上分類 Office 文件的問題。
 
 
-- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+- 當使用者從 Office 在噴墨印表機上列印任何文件/檔案且印表機墨水不足時，即使噴墨印表機並沒有碳粉，也會顯示「碳粉不足」或「無碳粉」訊息。變更訊息以顯示「碳粉/墨水不足」與「碳粉/墨水用完」。
 
 
 
@@ -293,7 +293,7 @@ ms.locfileid: "52026381"
 - 我們已修正會導致使用者無法將 [編輯器] 權限授與代理人的問題。
 
 
-- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。<br />在[部落格文章](https://developer.microsoft.com/zh-TW/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
+- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。<br />在[部落格文章](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)中查看詳細資料
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -497,7 +497,7 @@ ms.locfileid: "52026381"
 - 修正使用 GIF/動畫 model3D 閒置時的高 CPU 使用量
 
 
-- 當使用者從 Office 噴墨印表機上列印任何文件/檔案且列印機墨水不足時，即使噴墨印表機沒有碳粉，也會顯示「碳粉不足」或「無碳粉」消息。 將訊息變更為顯示「碳粉/墨水不足」和「沒有碳粉/墨水」。
+- 當使用者從 Office 在噴墨印表機上列印任何文件/檔案且印表機墨水不足時，即使噴墨印表機並沒有碳粉，也會顯示「碳粉不足」或「無碳粉」訊息。變更訊息以顯示「碳粉/墨水不足」與「碳粉/墨水用完」。
 
 
 
@@ -623,7 +623,7 @@ ms.locfileid: "52026381"
 - 修正即使完整產品的轉換已完成，也會導致執行階段訊息顯示的問題。 此問題的修正程式是確保服務正確計算新增的產品。 我們已篩選出新增的產品 (確保它們同時存在於新的設定中)，並將它們新增到現有產品發行識別碼的結尾。
 
 
-- 針對舊版非網頁服務的 [共用] 窗格，在開啟 [共用] 窗格下關閉文件時，可能會導致當機。 這個問題現在已經修正。
+- 針對舊版非 Web 服務的 [共用] 窗格，在開啟 [共用] 窗格的情況下關閉文件時，可能會導致當機。現已修正此問題。
 
 
 
@@ -835,7 +835,7 @@ ms.locfileid: "52026381"
 
 - 此更新修正了 Microsoft Office 中 Visual Basic for Applications 中的問題，其中特定 VBA 專案參考了程式庫名稱或程式庫路徑中有 DBCS 字元的程式碼程式庫，因而在載入時被 Office 應用程式視為損毀。
 
-- 當您啟用增益集，而登錄金鑰 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 被設為零時，辦公主機視窗會當機。 這變更將修正此問題。
+- 當登錄機碼 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設為零，且正在啟用增益集時，Office 主機會在 Windows 中當機。此變更可修正此問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -938,7 +938,7 @@ ms.locfileid: "52026381"
 
 - 修正當嘗試硬連結符號連結時，導致更新失敗的 [點擊運作] 問題。
 
-- 當您啟用增益集，而登錄金鑰 HKEY_CURRENT_USER \Software\Microsoft\Internet Explorer\Main\TabProcGrowth 被設為零時，辦公主機視窗會當機。 這變更將修正此問題。
+- 當登錄機碼 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設為零，且正在啟用增益集時，Office 主機會在 Windows 中當機。此變更可修正此問題。
 
 - 此修正可解決同時防止限制存取和保護設有密碼之檔案的錯誤。
 

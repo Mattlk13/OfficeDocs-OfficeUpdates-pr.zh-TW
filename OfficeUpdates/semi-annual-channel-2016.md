@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 ProPlus Semi-Annual 通道版本的版本資訊，2016
-ms.openlocfilehash: 8b4f956138f5c50f8062978b20c0516e2279fdb1
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+description: 為 IT 專業人員提供2016中 Office 365 專業增強版 Semi-Annual 通道版本的版本資訊
+ms.openlocfilehash: 2d0ac553e966ae4bc4f2ccaced99a2a8a77d9dbbb73e2d4ed5d769813663313e
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169652"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522291"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016中 Semi-Annual 通道版本的發行附注
 
-這些版本資訊會提供 Semi-Annual 通道更新至2016中的 Office 365 ProPlus 的新功能、安全性更新和非安全性更新的相關資訊。 
+這些版本資訊會提供2016中 Office 365 專業增強版 Semi-Annual 通道更新中所包含之新功能、安全性更新和非安全性更新的相關資訊。 
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
@@ -220,7 +220,7 @@ ms.locfileid: "51169652"
 -   **AD RMS 權限原則範本設定：** 確保「授與擁有者 (作者) 無期間限制的完整控制權限」的設定套用到新的 Word、Excel 及 PowerPoint 文件時有效，尤其是設定停用時。如果設定為停用，使用者會看到警告訊息，指出套用範本可能會限制文件的存取權。
  
 
-    注意： 已受到有此設定之範本保護的現有文件將不會有任何變更。 擁有者仍對這些文件有無期間限制的完全控制權。
+    注意： 已受到有此設定之範本保護的現有文件將不會有任何變更。擁有者仍對這些文件有無期間限制的完全控制權。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054)：Microsoft Office 的安全性更新 (3155544)
@@ -465,7 +465,7 @@ ms.locfileid: "51169652"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。 若要停用此功能，請 [使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030) 檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能，請[使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030)檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
@@ -582,7 +582,7 @@ ms.locfileid: "51169652"
 -   **[檔案 \> 開啟] 中的排序功能：** 使用 Outlook 以外的所有應用程式時，在 [檔案 \>; 開啟] 依名稱或修改日期排序。若是 Word、Excel 及 PowerPoint，在 [檔案 \> 另存新檔] 中也可使用排序。
 -   **[檔案 \> 另存新檔] 中的資料夾瀏覽功能：** 針對 OneDrive 資料夾、商務用 OneDrive 資料夾以及這台電腦，在 Word、Excel 和 PowerPoint 中的 [檔案 \> 另存新檔] 中使用完整的資料夾瀏覽。
 -   **傳送選項：** 從 Word 或 PowerPoint 中的 [共用] 窗格，以附件或以 PDF 格式的方式傳送文件。
--   **插入圖片 API：** 若要在 Word、Excel 或 PowerPoint 中插入影像， [請使用通用 office.js 程式庫中的](/javascript/api/office/office.document)document.setSelectedDataAsync 方法。 Word JavaScript API 提供名為 insertInlinePictureFromBase64() 的主應用程式特定方法，您可以在 [Body](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview)、 [ContentControl](/javascript/api/word/word.contentcontrol)、 [段落](/javascript/api/word/word.paragraph)和 Range 物件上使用此方法設定文字間圖片。
+-   **插入圖片 API：** 若要在 Word、Excel 或 PowerPoint 中插入影像， [請使用通用 office.js 程式庫中的](/javascript/api/office/office.document)document.setSelectedDataAsync 方法。Word JavaScript API 提供名為 insertInlinePictureFromBase64() 的主應用程式特定方法，您可以在 [Body](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview)、 [ContentControl](/javascript/api/word/word.contentcontrol)、 [段落](/javascript/api/word/word.paragraph)和 Range 物件上使用此方法設定文字間圖片。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)

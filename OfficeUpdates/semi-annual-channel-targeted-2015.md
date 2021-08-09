@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Semi-Annual 通道的發行資訊， (針對 Office 365 的目標) 版本 ProPlus 2015
-ms.openlocfilehash: 00903bf15b67f66801d0bf822663981fddcb1ad0
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+description: 為 IT 專業人員提供 Semi-Annual 通道的發行附注 (針對2015中 Office 365 專業增強版的目標) 版本
+ms.openlocfilehash: 653068e9c579765ca7098f68fd190adb374a353ca0f78e06a1ede2e56edd89fc
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170022"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522251"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>2015中 Semi-Annual 通道 () 目標的發行附注
 
-這些版本資訊會提供 Semi-Annual 通道 (目標) 更新365至2015中 ProPlus 的新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供 Semi-Annual 通道 (目標) 更新為2015中 Office 365 專業增強版的新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。

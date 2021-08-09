@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 6e4b1b49dd7a8a82b0fc46947f0ed0633695704e
-ms.sourcegitcommit: 76ad954645a35297f40801144eee6ddd5f179b40
+ms.openlocfilehash: bd73b7adba0b6d026040f9f570ba691162abace74b6c377d606d5f56039d4464
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53774683"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54523011"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 

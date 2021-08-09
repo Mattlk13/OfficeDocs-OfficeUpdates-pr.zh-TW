@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 ProPlus 的每月通道版本的版本資訊，2017
-ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+description: 為 IT 專業人員提供2017中 Office 365 專業增強版每月通道版本的版本資訊
+ms.openlocfilehash: ed26482146aa8c9aac1b5eea9ee6c10d3e01b2f03d9b80484e878ec233632533
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169812"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522611"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中每月通道版本的版本資訊
 
-這些版本資訊會提供2017中的 Office 365 ProPlus 每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供2017中 Office 365 專業增強版每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
@@ -1043,7 +1043,7 @@ ms.locfileid: "51169812"
 -   修正此問題：使用 Polycom CX100 裝置通話時，未偵測到麥克風。
 -   修正此問題：在 IM 訊息中擇類似 \\\\servername 或 file:// 的連結時，會導致錯誤訊息而不會開啟位置。
 -   修正此問題：在使用位置型路由的虛擬桌面基礎結構 (VDI) 環境中，使用者無法進行或接收 PSTN 通話，因為伺服器認為使用者位置不是有效的 PSTN 通話位置。
--   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向 \<Name\> 您傳送在商務用 Skype 中的郵件] 時，變更已錯過郵件之電子郵件的主旨行。
+-   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向您傳送郵件時的商務用 Skype] 時，變更已錯過郵件之電子郵件的主旨行 \<Name\> 。
 -   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新

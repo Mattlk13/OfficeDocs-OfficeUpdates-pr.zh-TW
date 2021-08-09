@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: b71c9156bcabdab976418d15394f82012b20ba04
-ms.sourcegitcommit: a23fad65b58ecdc75e2c7b5f5ba04b73061987d1
+ms.openlocfilehash: 45b80c72d4b7b147e3c1d9c4e23ccbf289e3a3a04bcd433e3759b8136037b4b3
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53417554"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522401"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -337,7 +337,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - 使用 SSD 的 macOS 機器會體驗到更快速的更新，且因為更新而導致應用程式停機的時間變得微不足道。
 
 
-請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0984)
+請參閱 [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 雜湊：**
 

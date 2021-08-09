@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 ProPlus 的每月通道版本的版本資訊，2015
-ms.openlocfilehash: 21afefcf714dcdd67d193b74b2e9f7d69f64c0c9
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+description: 為 IT 專業人員提供2015中 Office 365 專業增強版每月通道版本的版本資訊
+ms.openlocfilehash: b40de3387018dc7106f05175d441e8cee54f8a096b65588d8ac93bc5a001b7da
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169882"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522641"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015中每月通道版本的版本資訊
 
-這些版本資訊會提供2015中的 Office 365 ProPlus 每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供2015中 Office 365 專業增強版每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
@@ -30,7 +30,7 @@ ms.locfileid: "51169882"
 *版本 1511 (組建 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **BI 範本：** 利用 Excel 之商務智慧 (BI) 功能的三個新範本：行事 [曆真知灼見](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、 [Stock 分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、 [我的現金流量](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 範本：** 利用商務智慧 (BI) 功能 Excel：行事 [曆 Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、[我的現金流量](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)的三個新範本
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：對於由數字格式化為完整日期的儲存格，在拖曳其填滿控點時會造成 Excel 毀損。
@@ -55,7 +55,7 @@ ms.locfileid: "51169882"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。 若要停用此功能，請 [使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030) 檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能，請[使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030)檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正此問題：在簡報者檢視畫面中，具有動畫的 SmartArt 不會以預期順序在投影片放映檢視中顯示。

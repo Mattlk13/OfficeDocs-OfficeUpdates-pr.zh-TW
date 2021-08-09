@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 ProPlus 的每月通道版本的版本資訊，2016
-ms.openlocfilehash: 9d51cecc870d48f0e6659dde1c6714d2c49c0e43
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+description: 為 IT 專業人員提供2016中 Office 365 專業增強版每月通道版本的版本資訊
+ms.openlocfilehash: 5da9c49e4698f28c3b473b687c469fa9581a9e63c8398ca3fb9779a11d8e57af
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169872"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522621"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016中每月通道版本的版本資訊
 
-這些版本資訊會提供2016中的 Office 365 ProPlus 每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供2016中 Office 365 專業增強版每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
@@ -643,7 +643,7 @@ ms.locfileid: "51169872"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 -   **簡化設定檔的建立︰** 簡化當您以 Office 365 帳戶登入時，設定 Office 365 信箱其他 Outlook 設定檔的使用者介面 (UI) 體驗。
 
-    注意： 提供這項功能給訂閱者需要一段時間，因此您可能不會立即看到這項功能。 您收到這項功能的時間也取決於您組織更新 Office 的方式。
+    注意： 提供這項功能給訂閱者需要一段時間，因此您可能不會立即看到這項功能。您收到這項功能的時間也取決於您組織更新 Office 的方式。
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：傳送 .rtf 格式的電子郵件時，延伸符號字元會變更為「1」。
@@ -671,7 +671,7 @@ ms.locfileid: "51169872"
 -   **在功能區上群組共同作業功能：** 在 Word 與 PowerPoint 功能區上，將共用、聊天、註解和文件活動等功能，以及目前正在編輯文件的使用者群組在一起。 [詳細資訊](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **AD RMS 權限原則範本設定：** 確保「授與擁有者 (作者) 無期間限制的完整控制權限」的設定套用到新的 Word、Excel 及 PowerPoint 文件時有效，尤其是設定停用時。如果設定為停用，使用者會看到警告訊息，指出套用範本可能會限制文件的存取權。
 
-    注意： 已受到有此設定之範本保護的現有文件將不會有任何變更。 擁有者仍對這些文件有無期間限制的完全控制權。
+    注意： 已受到有此設定之範本保護的現有文件將不會有任何變更。擁有者仍對這些文件有無期間限制的完全控制權。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此快取問題：由 Microsoft 啟動之 Office 365 用戶端 (例如 Office 365 ProPlus) Office 2013 版本升級到 Office 2016 版本時，某些 Office 2013 授權和程式安裝資訊會遭到刪除。

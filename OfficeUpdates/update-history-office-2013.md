@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 841f9eb6d683fe7d198c402bd45ba955e81ff892
-ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
+ms.openlocfilehash: ec353a1cf868b89001f7ba62a48562271cf23b73241758acbc904fd154e82927
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53411741"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54523061"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 

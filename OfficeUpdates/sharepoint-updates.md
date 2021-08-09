@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 2016、SharePoint 2013 及 SharePoint 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: 8d346feb92ed55998e1e9d60eb8157392c8eefc3
-ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
+ms.openlocfilehash: 780651ef4e3f2e2c1bfbc7d0cb4d38a19cd0aa161181352bd3830ef704300c15
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "53411751"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54523101"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 

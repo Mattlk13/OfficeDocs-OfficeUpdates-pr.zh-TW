@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: ccadc781717d3ed177734fb53c4e4524b846118c
-ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
+ms.openlocfilehash: 4cb313acceb4ecaebe279d9b6ed78237c916a5f623304c3396c432f1cd1ac10c
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "53463730"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522971"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 

@@ -9,17 +9,17 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Semi-Annual 通道的發行資訊， (針對 Office 365 的目標) 版本 ProPlus 2017
-ms.openlocfilehash: 8a96d33a02d9e45bc107eff0e8461716d67796b1
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+description: 為 IT 專業人員提供 Semi-Annual 通道的發行附注 (針對2017中 Office 365 專業增強版的目標) 版本
+ms.openlocfilehash: ffd935775203a59a3ce28db8e834956f9b0a6d203396b1ccaf7f54cc879511a8
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170002"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54522271"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中 Semi-Annual 通道 () 目標的發行附注
 
-這些版本資訊會提供 Semi-Annual 通道 (目標) 更新365至2017中 ProPlus 的新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊會提供 Semi-Annual 通道 (目標) 更新為2017中 Office 365 專業增強版的新功能、安全性更新和非安全性更新的相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
@@ -375,7 +375,7 @@ ms.locfileid: "51170002"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 遠端程式碼執行弱點
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
--   修正此問題：在使用 Configuration Manager 時，導致 Office 2013 至 Office 2016 的自動升級失敗。
+-   修正此問題：在使用 Configuration Manager 時，導致 Office 2013 的自動升級 Office 2016 失敗。
 -   修正此問題：透過公司目錄從市集部署的舊版增益集不會載入。
 
 
@@ -820,7 +820,7 @@ ms.locfileid: "51170002"
 -   修正此問題：使用 Polycom CX100 裝置通話時，未偵測到麥克風。
 -   修正此問題：在 IM 訊息中擇類似 \\\\servername 或 file:// 的連結時，會導致錯誤訊息而不會開啟位置。
 -   修正此問題：在使用位置型路由的虛擬桌面基礎結構 (VDI) 環境中，使用者無法進行或接收 PSTN 通話，因為伺服器認為使用者位置不是有效的 PSTN 通話位置。
--   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向 \<Name\> 您傳送在商務用 Skype 中的郵件] 時，變更已錯過郵件之電子郵件的主旨行。
+-   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向您傳送郵件時的商務用 Skype] 時，變更已錯過郵件之電子郵件的主旨行 \<Name\> 。
 -   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
 -   修正此問題：在 Window 10 版本 1607 (也稱為「年度更新版」) 上，共用次要監視器的選項沒有在特定監視器設定中出現。
 -   修正此問題：當共用者使用 RDP 的協力廠商實作並聚焦至共用內容時，商務用 Skype 發生當機。

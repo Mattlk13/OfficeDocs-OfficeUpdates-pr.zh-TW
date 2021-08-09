@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 1b70fe3de13fba04565a0416f30156015876e7c4
-ms.sourcegitcommit: 3ed0b750503c415fff4beef6e5f7bc819bd8050e
+ms.openlocfilehash: 28f4cc99525b7d8be6ac6ca2cdf6a3092032057e3d974b660e246c0542e4b552
+ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "53531025"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54523071"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
