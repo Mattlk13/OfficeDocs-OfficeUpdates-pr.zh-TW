@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d93fa3790cfc06cb4a83cc89279b8b4a43291bf6ed2c4a3a1409e47fd915d425
-ms.sourcegitcommit: 1dd61c27eb420d1449342fac0e50fb631f559b45
+ms.openlocfilehash: 723c5cad4c095451a7221d314c5b98c440e308d3ce4d4458cd3ed5fbc0250ce6
+ms.sourcegitcommit: 22aad03c4c1e99ef3f2ed04ea60da5e8b5a6e480
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2021
-ms.locfileid: "57798997"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "57822375"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -40,7 +40,7 @@ ms.locfileid: "57798997"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Word、Excel 和 PowerPoint 中使用 WebP 影像：** WebP 是一種新式影像格式，可為將影像發佈到網路提供更佳的壓縮。 我們現在已在 Office 應用程式中新增對 WebP 影像的支援！
+- **在 Word、Excel、Outlook 和 PowerPoint 中使用 WebP 影像：** WebP 是一種新式影像格式，可為將影像發佈到網路提供更佳的壓縮。 我們現在已在 Office 應用程式中新增對 WebP 影像的支援！ [深入了解](https://insider.office.com/zh-TW/blog/add-webp-images-to-office-creations)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
