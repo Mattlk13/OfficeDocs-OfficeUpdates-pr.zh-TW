@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的永久版本 Office 2013 的最新 .msp 檔案清單。
-ms.openlocfilehash: db2af611fc9761dda8072f85b15a7bededbcfd6b42ee5c90ec9234d5e976f8d4
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: 3e8d79bbef6ffd7ef9b26bc3ab476fbd2a16b2c3
+ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522501"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339453"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 產品的最新 .msp 檔案清單
 
@@ -26,7 +26,7 @@ ms.locfileid: "54522501"
 
 [//]: # (DO NOT REMOVE CONTENT START)
 
-下表列出已于 **2021 年7月** 更新的 .msp 檔案。
+下表列出 **2021 年8月** 更新的 .msp 檔案。
 
 [//]: # (DO NOT REMOVE CONTENT END)
 
@@ -34,8 +34,7 @@ ms.locfileid: "54522501"
 
 |非安全性更新 * * * *|安全性更新 * * * *|
 |:-----|:-----|
-| |excel-x-無|
-| |mso-x-無|
+|visio-x-無| |
 
 [//]: # (請勿移除 MSP 內容結尾)
 
@@ -116,7 +115,7 @@ ms.locfileid: "54522501"
 |stslist-x-無  <br/> |Office 2013  <br/> |2019年2月5日  <br/> |[3172473](https://support.microsoft.com/kb/3172473) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |vbe7-x-無  <br/> |Office 2013  <br/> |2020 年 6 月 2 日  <br/> |[4484356](https://support.microsoft.com/help/4484356) <br/> |2020 年 10 月 13 日  <br/> |[4484435](https://support.microsoft.com/help/4484435) <br/> |[4011104](https://support.microsoft.com/help/4011104) <br/> |
 |visconv-x-無<sup>2</sup> <br/> |Visio 2013 相容性套件  <br/> |2015年7月14日  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|visio-x-無  <br/> |Visio 2013  <br/> |2020年9月1日  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |2021 年 3 月 9 日  <br/> |[4486673](https://support.microsoft.com/help/4486673) <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |
+|visio-x-無  <br/>|Visio 2013  <br/>|2021 年 8 月 3 日 <br/>|[4504728](https://support.microsoft.com/help/4504728) <br/>|2021 年 3 月 9 日  <br/>|[4486673](https://support.microsoft.com/help/4486673) <br/>|[4464544](https://support.microsoft.com/help/4464544) <br/>|
 |vviewer-x-無  <br/> |Visio 檢視器2013  <br/> |2014年4月8日  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |wec-x-無  <br/> |Office 2013  <br/> |2015年11月7日  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |word-x-無  <br/>|Word 2013  <br/>|2019 年 7 月 2 日 <br/>|[4475525](https://support.microsoft.com/help/4475525) <br/>|2021 年 5 月 11 日 <br/>|[5001931](https://support.microsoft.com/help/5001931) <br/>|[4493208](https://support.microsoft.com/help/4493208) <br/>|

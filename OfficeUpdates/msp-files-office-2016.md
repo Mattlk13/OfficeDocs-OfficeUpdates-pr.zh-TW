@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的永久版本 Office 2016 的最新 .msp 檔案清單。
-ms.openlocfilehash: 812cd08248ab7b6f7d1963e67496b698dbbe381359c69c41034319c4029b970a
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: aa7142e08ad6cfd9fae1c7cf7f7341c75f318f9b
+ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522461"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339283"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品的最新 .msp 檔案清單
 
@@ -26,7 +26,7 @@ ms.locfileid: "54522461"
 
 [//]: # (DO NOT REMOVE CONTENT START)
 
-下表列出已于 **2021 年7月** 更新的 .msp 檔案。
+下表列出 **2021 年8月** 更新的 .msp 檔案。
 
 [//]: # (DO NOT REMOVE CONTENT END)
 
@@ -34,9 +34,7 @@ ms.locfileid: "54522461"
 
 |非安全性更新 * * * *|安全性更新 * * * *|
 |:-----|:-----|
-|ace-x-無|excel-x-無|
-|outlook-x-無|mso-x-無|
-| |word-x-無|
+|visio-x-無| |
 
 [//]: # (請勿移除 MSP 內容結尾)
 
@@ -105,7 +103,7 @@ ms.locfileid: "54522461"
 |stslist-x-無  <br/> |Office 2016  <br/> |2019年2月5日  <br/> |[4022161](https://support.microsoft.com/help/4022161) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |stsupld-x0-無  <br/> |Office 2016  <br/> |2016年3月8日  <br/> |[2920678](https://support.microsoft.com/help/2920678) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |vbe7-x-無  <br/> |Office 2016  <br/> |2021 年 3 月 2 日  <br/> |[4493153](https://support.microsoft.com/help/4493153) <br/> |2020 年 10 月 13 日  <br/> |[4484417](https://support.microsoft.com/help/4484417) <br/> |[3128012](https://support.microsoft.com/help/3128012) <br/> |
-|visio-x-無  <br/> |Visio 2016  <br/> |2020 年 12 月 1 日  <br/> |[4486709](https://support.microsoft.com/help/4486709) <br/> |2021 年 3 月 9 日  <br/> |[4493151](https://support.microsoft.com/help/4493151) <br/> |[4484244](https://support.microsoft.com/help/4484244) <br/> |
+|visio-x-無  <br/>|Visio 2016  <br/>|2021 年 8 月 3 日 <br/>|[4504718](https://support.microsoft.com/help/4504718) <br/>|2021 年 3 月 9 日  <br/>|[4493151](https://support.microsoft.com/help/4493151) <br/>|[4484244](https://support.microsoft.com/help/4484244) <br/>|
 |vviewer-x-無  <br/> |Office 2016  <br/> |2020 年 1 月 7 日  <br/> |[2920709](https://support.microsoft.com/help/2920709) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |word-x-無  <br/>|Word 2016  <br/>|2020 年 12 月 1 日  <br/>|[4486756](https://support.microsoft.com/help/4486756) <br/>|2021 年 7 月 13 日 <br/>|[5001949](https://support.microsoft.com/help/5001949) <br/>|[5001919](https://support.microsoft.com/help/5001919) <br/>|
 |wxpcore-x-無  <br/> |Office 2016  <br/> |2016年10月4日  <br/> |[3118263](https://support.microsoft.com/help/3118263) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
