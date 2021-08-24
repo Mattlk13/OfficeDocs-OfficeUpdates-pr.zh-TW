@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 723c5cad4c095451a7221d314c5b98c440e308d3ce4d4458cd3ed5fbc0250ce6
-ms.sourcegitcommit: 22aad03c4c1e99ef3f2ed04ea60da5e8b5a6e480
+ms.openlocfilehash: fd727ed414a25591f51fc0e5d76fb9bfa81f8a6d
+ms.sourcegitcommit: f519697ec88200c90496e996e8520d8e9cef7f5a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57822375"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58426054"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,6 +31,124 @@ ms.locfileid: "57822375"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2109-august-20"></a>版本 2109: 8 月 20 日
+*版本 2109 (組建 14416.20006)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正導致資料表進入查詢設計或系統關聯性視窗時，出現在與資料表被丟棄位置不同的位置的錯誤。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正 [插入儲存格] 對話方塊的問題，其中有一個選項按兩下時，無法應用選取的選項並關閉對話方塊。
+
+
+- 我們已修正如果工作表中的最後一列或最後一欄已隱藏，使用滑鼠滾輪或觸控板捲動無法作用的問題。
+
+
+- 我們已修正 Analysis ToolPak 增益集無法與特定自動化安全性設定一起使用的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正允許使用者下載受保護附件的問題。
+
+
+- 我們已修正將大型或長時間執行週期性會議以 ICAL 轉送時所造成的錯誤。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正啟用自動儲存會導致最新的編輯暫時消失的問題。
+
+
+- 我們已修正註解中若將圖示、貼圖和圖例與註解中的文字一起貼上，就看不到的問題。
+
+
+- 我們已修正將圖表匯出為 EMF 的相關問題，使在 Office 中以圖片插入 EMF 時，EMF 具有可編輯的標籤。
+
+
+- 我們已修正 Word 無法呈現電子郵件內嵌 BASE-64 編碼的內嵌 GIF 的問題。
+
+
+- 我們已修正非預設功能區組態可能導致樣式庫無法運作的問題。
+
+
+- 我們已修正當焦點位於註解上時，已停用解決按鈕的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正與下列案例相關的問題: 使用建立視訊從預設 OneDrive 位置的簡報匯出視訊時，會出現錯誤訊息，指出該位置不可用。
+
+
+- 我們已改善將檔案儲存至需要使用者存取核准的位置時的行為。 現在應該會顯示授權存取畫面，以允許使用者存取核准。
+
+
+- 我們已修正在某些 Windows 版本上插入或編輯列相關的效能問題。
+
+
+- 我們已修正部分檔以不完整的工作窗格進行儲存的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
+
+## <a name="version-2109-august-13"></a>版本 2109: 8 月 13 日
+*版本 2109 (組建 14405.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **追蹤您的變更:** 共同合作是在 Word 製作好內容的一項重要關鍵，而追蹤修訂功能是該程序不可或缺的一部分。 之前，當您開啟追蹤修訂時，系統會自動追蹤每個人的變更。 但有時候您只想追蹤自己的變更，不強制其他人進行此設定。 現在，我們已提供您只為自己開啟追蹤修訂的功能。 若要這麼做，請前往 [校閱] 索引標籤，然後開啟追蹤修訂按鈕上的下拉式功能表; 然後選取 [僅我的]。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/track-just-your-changes-in-word)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正嘗試使用來自非 Office 應用程式的 DAO API 時，會停止回應並顯示「作業系統目前未配置成執行此應用程式」的問題。
+
+
+- 我們已修正在將記錄貼至子表單時發生錯誤之後，當表單關閉時，已新增到子表單的資料會被捨棄的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正導致對數資料圖表上趨勢線不平滑的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用敏感度標籤回覆來自外部使用者的訊息，且我們未套用敏感度標籤為預設的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正表格中的重複標題列功能在某些情況下停用的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們改善了將檔案儲存或另存新檔用至需要使用者存取核准的位置時的行為; 現在應該會出現授權存取畫面，以允許使用者存取核准。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
+
 ## <a name="version-2109-august-06"></a>版本 2109：8 月 6 日
 *版本 2109 (組建 14329.20000)*
 
@@ -40,7 +158,7 @@ ms.locfileid: "57822375"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Word、Excel、Outlook 和 PowerPoint 中使用 WebP 影像：** WebP 是一種新式影像格式，可為將影像發佈到網路提供更佳的壓縮。 我們現在已在 Office 應用程式中新增對 WebP 影像的支援！ [深入了解](https://insider.office.com/zh-TW/blog/add-webp-images-to-office-creations)
+- **在 Word、Excel、Outlook 和 PowerPoint 中使用 WebP 影像：** WebP 是一種新式影像格式，可為將影像發佈到網路提供更佳的壓縮。 我們現在已在 Office 應用程式中新增對 WebP 影像的支援！ [深入了解](https://insider.office.com/zh-tw/blog/add-webp-images-to-office-creations)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -75,7 +193,7 @@ ms.locfileid: "57822375"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **想要您的活頁簿提供您入門瀏覽指引嗎？：** 瞭解您活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！ [深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+- **想要您的活頁簿提供您入門瀏覽指引嗎？：** 瞭解您活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！ [深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
 
 - **享受改良的捲動體驗** ：當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。 [深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
 
@@ -1615,7 +1733,7 @@ ms.locfileid: "57822375"
 
 ### <a name="word"></a>Word
 
-- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/zh-TW/blog/modern-commenting-in-word)中查看詳細資料
+- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/modern-commenting-in-word)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2558,19 +2676,19 @@ ms.locfileid: "57822375"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-TW/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3676,6 +3794,8 @@ ms.locfileid: "57822375"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14329.20000|version-2109-august-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14326.20004|version-2108-july-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
@@ -3684,6 +3804,4 @@ ms.locfileid: "57822375"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14131.20008|version-2106-june-04|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
