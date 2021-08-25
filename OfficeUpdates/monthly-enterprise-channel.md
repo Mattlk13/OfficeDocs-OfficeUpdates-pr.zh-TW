@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: f9312c59978b419879d5952e19f1d80fdee14bdc02615fb820c444fb8dc6d114
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: 6210c012693e13cd654a875b00d000d5ad70f47a
+ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522511"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339253"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,104 @@ ms.locfileid: "54522511"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2106-august-10"></a>版本 2106: 8 月 10 日
+*版本 2106 (組建 14131.20360)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **Word 文件的深色模式：** 深色模式有助於減輕眼睛疲勞，並可在處理文件時適應對光線的敏感度。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/try-dark-mode-in-word)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 修正可能導致使用 Access 資料庫引擎 ODBC API 的應用程式意外關閉的問題。
+
+
+- 修正可能導致使用 Access 資料庫引擎 OLEDB API 的應用程式搭配的資料庫包含 SharePoint 清單連結時，會意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 修正針對部分使用者在 Excel 增益集清單中顯示的額外項目問題。
+
+
+- 我們已修正某些使用者無法在受密碼保護的檔案上開啟進入編輯模式的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致擁有多個共用行事曆且擁有共用行事曆增進選項的使用者遇到一些效能問題的問題。
+
+
+- 我們已修正啟用 [共用行事曆改進] 選項後，導致 SMTP 位址在多帳戶設定檔中使用者的主要行事曆旁無法顯示的問題。
+
+
+- 我們已修正導致使用者在透過滑鼠右鍵操作功能表回應會議要求時，看到建立重複的行事曆項目的問題。
+
+
+- 我們已修正導致雲端設定在發生衝突時，漫遊設定失敗的問題。
+
+
+- 我們已修正當設定檔中出現未完整設定的帳戶時，造成雲端設定使用者遇到意外關閉的問題。
+
+
+- 我們已修正導致某些使用者在擷取服務提供的搜尋建議時遇到意外關閉的問題。
+
+
+- 我們已修正導致某些使用者的翻譯選項遭到停用的問題。  遇到此錯誤的客戶在瀏覽至檔案 -> 選項 -> 語言時，會看見其翻譯選項已遭停用。 有鑑於此，他們可能無法變更其偏好的翻譯語言和其他翻譯相關設定。
+
+
+- 我們已修正導致 ARM64 裝置上發生效能問題的問題。
+
+
+- 我們已修正在從 PST 重新傳送郵件時，導致由 [重新傳送此郵件] 選項所產生之訊息的修改會在傳送時遺失的問題。
+
+
+- 我們已修正在載入收集診斷資料時，導致某些使用者遇到意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用者因為阻礙性的 PowerPoint 特定對話方塊，而無法將憑證輸入 Windows 安全性對話方塊以開啟檔案的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 具有來賓存取的 SPO/ODB 連結現在可繼續運作。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正使用者從 Office 應用程式中的 Me 控制項切換 Active Directory 身分時切換資料案例。
+
+
+- 已修正 OMEX 與 ExCatalog 之間無法再共用設定的問題，例如建立了新 webextension 檔案之後，Web 增益集設定會更新至 webextension.xml。 只有在以原始方法部署該增益集，或將新的解決方案參考比較關閉時，才能存取前一個。
+
+
+- 我們已修正在 DirectX 裝置遺失和復原期間不穩定的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2105-august-10"></a>版本 2105: 8 月 10 日
+*版本 2105 (組建 14026.20352)*
+
+安全性更新列於 [此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2105-july-13"></a>版本 2105：7 月 13 日
 *版本 2105 (組建 14026.20334)*
@@ -312,7 +410,7 @@ ms.locfileid: "54522511"
 
 ### <a name="visio"></a>Visio
 
-- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
+- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/access-illustrations-icons-in-visio)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -340,6 +438,7 @@ ms.locfileid: "54522511"
 
 - 修正在繪製影像時 Word 中可能會當機的問題。
 
+- 修正某些 Excel 自動化增益集無法載入的問題。
 
 ### <a name="outlook"></a>Outlook
 
@@ -435,6 +534,8 @@ ms.locfileid: "54522511"
 
 
 - 我們已修正會導致無法以公式形式貼上到受保護工作表的問題。
+
+- 修正某些 Excel 自動化增益集無法載入的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -727,7 +828,7 @@ ms.locfileid: "54522511"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
@@ -755,7 +856,7 @@ ms.locfileid: "54522511"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
@@ -976,6 +1077,7 @@ ms.locfileid: "54522511"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
 [//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
@@ -985,5 +1087,4 @@ ms.locfileid: "54522511"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

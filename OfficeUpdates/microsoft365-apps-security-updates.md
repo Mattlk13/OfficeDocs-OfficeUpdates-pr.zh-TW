@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 5ba59d4a57b785bc6d58bfeeb50c7d9dab71bd955283e25c99d3a4548759cecb
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: 1dc9430bffb52414b5351a0b1006299b1b4773ae
+ms.sourcegitcommit: d8295a7e03f5f76ad46b6c7d9821ef8328331045
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522700"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58393100"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,42 @@ ms.locfileid: "54522700"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="august-17-2021"></a>2021 年 8 月 17 日
+半年企業通道：版本 2002 (組建 12527.22021)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22021)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-34478](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-34478) (已更新此 CVE 的修正程式)
+
+## <a name="august-10-2021"></a>2021 年 8 月 10 日
+目前通道：版本 2107 (組建 14228.20250)  
+每月企業管道：版本 2106 (組建 14131.20360)  
+每月企業管道：版本 2105 (組建 14026.20352)  
+半年企業通道 (預覽)：版本 2102 (組建 13801.20864)  
+半年企業通道：版本 2102 (組建 13801.20864)  
+半年企業通道：版本 2008 (組建 13127.21736)  
+半年企業通道：版本 2002 (組建 12527.22017)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22017)  
+Office 2019 零售版：版本 2107 (組建 14228.20250)  
+Office 2016 零售版：版本 2107 (組建 14228.20250)  
+Office 2019 大量授權版：版本 1808 (組建 10377.20023)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-36941](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-36941)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-34478](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-34478)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="july-13-2021"></a>2021 年 7 月 13 日
 目前通道：版本 2106 (組建 14131.20320)  

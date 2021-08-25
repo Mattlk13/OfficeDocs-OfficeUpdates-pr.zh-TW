@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 1a8fd2d833266b5d840a930c7782c2c0f9eb419bd92568315351fbbfaef88ea0
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: c6e268b010992f86b1dabe92d28087bc3e7c83ae
+ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522311"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339243"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -27,7 +27,7 @@ ms.locfileid: "54522311"
 > [!NOTE]
 > - 如果您是 Office 測試人員，請參閱 [Mac 適用之 Beta 版通道的版本資訊](https://insider.office.com/releasenotes/mac/fast)。
 > - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Microsoft 365 訂閱時才可供使用。
-> - 我們通常每隔一段時間會推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - 我們通常每隔一段時間會推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/zh-TW/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 我們有時候會發佈更新，其中包含一般品質和效能提升，但沒有新功能。 如果下列清單中沒有列出特定應用程式，則該應用程式更新僅包含品質和效能提升。
 
 
@@ -64,6 +64,46 @@ ms.locfileid: "54522311"
 
 
 
+
+
+## <a name="august-10-2021"></a>2021 年 8 月 10 日
+*版本 16.52 (組建 21080801)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **取得 Mac 版 Excel 的新資料來源設定控制項：** 使用新的 [資料來源設定] 對話方塊以管理 Power Query 資料來源、清除登入認證，以及變更檔案位置。 [深入了解](https://support.office.com/article/9f24a631-f7eb-4729-88dd-6a4921380ca9)
+
+### <a name="outlook"></a>Outlook
+
+- **佈景主題：** 可自訂的佈景主題、色彩和輔色。 <br />在[部落格文章](https://insider.office.com/zh-tw/blog/themes-in-outlook-for-mac) 中查看詳細資料
+
+- **上線流程**：上線流程可讓使用者順暢地移轉至新的 Mac 版 Outlook。 <br />在[部落格文章](https://insider.office.com/zh-tw/blog/onboarding-flow-for-the-new-outlook-for-mac)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Flipgrid 影片現在已可在 Mac 版 PowerPoint 中使用：** 新增 Flipgrid 影片以強化下一個簡報。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/add-flipgrid-videos-in-powerpoint)中查看詳細資料
+
+- **更新內嵌章節名稱：** 在章節名稱上按兩下以快速更新。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-36941](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-36941)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
 ## <a name="july-13-2021"></a>2021 年 7 月 13 日
 *版本 16.51 (組建 21071101)*
 
@@ -76,7 +116,7 @@ ms.locfileid: "54522311"
 
 ### <a name="word"></a>Word
 
-- **在不同的光線下查看您的文件：** 試用眼睛容易適應的新外觀，協助您將焦點放在工作。<br />在[部落格文章](https://insider.office.com/en-us/blog/dark-mode-in-word-for-mac)中查看詳細資料
+- **在不同的光線下查看您的文件：** 試用眼睛容易適應的新外觀，協助您將焦點放在工作。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/dark-mode-in-word-for-mac)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -108,7 +148,7 @@ ms.locfileid: "54522311"
 
 - **查看其他使用者的工作時間！：** 您可以在新的 Mac 版 Outlook 中查看出席者工作時間！
 
-- **新的 Mac 版 Outlook 已可使用釘選：** 新的 Mac 版 Outlook 已可使用釘選<br />在[部落格文章](https://insider.office.com/en-us/blog/pin-messages-to-top-of-your-inbox-in-outlook-for-mac)中查看詳細資料
+- **新的 Mac 版 Outlook 已可使用釘選：** 新的 Mac 版 Outlook 已可使用釘選<br />在[部落格文章](https://insider.office.com/zh-tw/blog/pin-messages-to-top-of-your-inbox-in-outlook-for-mac)中查看詳細資料
 
 - **WkWebview 支援關聯式增益集：** WkWebview 讀取窗格中現已支援關聯式增益集
 
@@ -155,7 +195,7 @@ ms.locfileid: "54522311"
 
 - **按一下編輯器便提供書寫建議：** 按一下滑鼠右鍵來取得拼字、文法和其他智慧型寫作建議 (Alt+Down)。 使用按一下滑鼠左鍵來檢視新的卡片設計，並探索如「新增至字典」、「顯示內容」、「同義字」等等的其他選項。 [深入了解](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
 
-- **使用語音命令聽寫您的訊息：** 新的聽寫工具列、語音命令和自動標點符號，讓使用語音撰寫訊息變得快速且簡單。<br />在[部落格文章](https://insider.office.com/en-us/blog)中查看詳細資料
+- **使用語音命令聽寫您的訊息：** 新的聽寫工具列、語音命令和自動標點符號，讓使用語音撰寫訊息變得快速且簡單。<br />在[部落格文章](https://insider.office.com/zh-tw/blog)中查看詳細資料
 
 - **分享到 Microsoft Teams：** 傳送電子郵件訊息的副本，或啟動與特定電子郵件訊息相關的 Teams 聊天。 從 Mac 版 Outlook 共用至 Teams 時，會顯示快顯視窗以確認您想要共用的頻道或人員，您也可以選取是否要包含附件。
 
@@ -174,7 +214,7 @@ ms.locfileid: "54522311"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Mac 上取得 Office 開始畫面的清新外觀：** 使用我們的 Fluent 工具組的全新清新外觀，以與 Apple 在 Big Sur 中的新設計語言一致。<br />在[部落格文章](https://insider.office.com/en-us/blog/visual-updates-to-start-experience-in-office-for-mac)中查看詳細資料
+- **在 Mac 上取得 Office 開始畫面的清新外觀：** 使用我們的 Fluent 工具組的全新清新外觀，以與 Apple 在 Big Sur 中的新設計語言一致。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/visual-updates-to-start-experience-in-office-for-mac)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -204,7 +244,7 @@ ms.locfileid: "54522311"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用簡報者教練排練簡報：** 簡報者教練可協助您排練簡報，以便更有效地吸引您的對象。 它會提供有關您的節奏、語調、使用填充字詞等等的意見反應。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />在[部落格文章](https://insider.office.com/en-us/blog/presenter-coach-now-in-powerpoint-on-mac)中查看詳細資料
+- **使用簡報者教練排練簡報：** 簡報者教練可協助您排練簡報，以便更有效地吸引您的對象。 它會提供有關您的節奏、語調、使用填充字詞等等的意見反應。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/presenter-coach-now-in-powerpoint-on-mac)中查看詳細資料
 
 ### <a name="teams"></a>Teams
 
@@ -251,7 +291,7 @@ ms.locfileid: "54522311"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用全新改良的錄製投影片放映錄製簡報：** 錄製投影片放映現在支援簡報者視訊錄製、筆跡錄製和雷射筆錄製。<br />在[部落格文章](https://insider.office.com/en-us/blog/record-slide-show-updates-powerpoint-mac)中查看詳細資料
+- **使用全新改良的錄製投影片放映錄製簡報：** 錄製投影片放映現在支援簡報者視訊錄製、筆跡錄製和雷射筆錄製。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/record-slide-show-updates-powerpoint-mac)中查看詳細資料
 
 ### <a name="word"></a>Word
 
@@ -379,7 +419,7 @@ ms.locfileid: "54522311"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **以視窗化方式展示投影片放映：**[閱讀檢視] 可以讓您完成多個工作並有多個視窗式投影片放映。<br />在[部落格文章](https://insider.office.com/en-us/blog/reading-view-available-in-powerpoint-for-mac)中查看詳細資料
+- **以視窗化方式展示投影片放映：**[閱讀檢視] 可以讓您完成多個工作並有多個視窗式投影片放映。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/reading-view-available-in-powerpoint-for-mac)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -443,7 +483,7 @@ ms.locfileid: "54522311"
 
 - **從 Microsoft SQL Server 重新整理資料：** 在 Mac 上從 Microsoft SQL Server 重新整理 Power Query 查詢
 
-- **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://insider.office.com/en-us/blog/let-names-in-formulas-for-excel)中查看詳細資料
+- **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/let-names-in-formulas-for-excel)中查看詳細資料
 
 - **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -522,7 +562,7 @@ ms.locfileid: "54522311"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在不中斷其他人的情況下進行篩選和排序：** 在與他人一起於 Excel 上共同作業時，建立自己的視圖，這樣尼就可以在不中斷其他人的畫面下，進行篩遠及排序。 [深入了解](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />在[部落格文章](https://insider.office.com/en-us/blog/sheet-view-makes-collaborating-easier)中查看詳細資料
+- **在不中斷其他人的情況下進行篩選和排序：** 在與他人一起於 Excel 上共同作業時，建立自己的視圖，這樣尼就可以在不中斷其他人的畫面下，進行篩遠及排序。 [深入了解](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/sheet-view-makes-collaborating-easier)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -657,7 +697,7 @@ ms.locfileid: "54522311"
 
 - **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等項目。 [深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
 
-- **新增儲存格的更快方式**：[啟用 [按一下以新增] 模式]，然後輸入 =、選取部分儲存格以快速建立新增儲存格值的公式。 在 [功能表]  >  [喜好設定]  >  [編輯] 尋找選項。  [深入了解](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看詳細資料
+- **新增儲存格的更快方式**：[啟用 [按一下以新增] 模式]，然後輸入 =、選取部分儲存格以快速建立新增儲存格值的公式。 在 [功能表]  >  [喜好設定]  >  [編輯] 尋找選項。  [深入了解](https://support.office.com/zh-TW/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
