@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 471e71e45df97f4a26156cd8146c7b9e632e568e
-ms.sourcegitcommit: a6287267c815622914291e9889ce22e045bdd8a7
+ms.openlocfilehash: dea14b6e04968a85dddb92cd77dbbbe2597f9f41
+ms.sourcegitcommit: 6a64dd0615f8e56ca50913c46419839ea1704b4a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58455576"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58522409"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,32 @@ ms.locfileid: "58455576"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-august-24"></a>版本 2108: 8 月 24 日
+*版本 2108 (組建 14326.20238)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **小組範本：** 在 Microsoft 提供之預先定義小組結構中使用其他應用程式與通道來重新整理至小組範本內容。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="teams"></a>Teams
+
+- 我們已修復在交談視窗中影片共用預覽會意外關閉的問題。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2108-august-20"></a>版本 2108：8 月 20 日
 *版本 2108 (組建 14326.20222)*
@@ -1574,7 +1600,7 @@ ms.locfileid: "58455576"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2241,7 +2267,7 @@ ms.locfileid: "58455576"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
