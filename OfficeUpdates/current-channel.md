@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 4638e59205c73547835b246f61a5293472484341
-ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
+ms.openlocfilehash: fce8b2b1e9e28a6dba280ddc64a09cae60edd11d
+ms.sourcegitcommit: 5edddd5222e10c8516ab51425e4a3551f0bc7186
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58339473"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58541650"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,181 @@ ms.locfileid: "58339473"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-august-25"></a>版本 2108: 8 月 25 日
+*版本 2108 (組建 14326.20238)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/shared-calendars-improvements-in-outlook-for-windows)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
+
+- **Teams 會議之其他語言的 [即時輔助字幕]：** 以其中一種支援的語言所召開的會議現在會受到即時輔助字幕的支援。 我們已從只提供英語 (US)，擴充為包含英文 (加拿大)、英文 (印度)、英文 (英國)、英文 (澳大利亞)、英文 (國際)、Deutsch (Deutschland)、Português (巴西)、Nederlands (Nederland)、Nederlands (比利時)、Français (法國)、Español (España, alfabetización internacional)、日本語 (日本)、Français (法國)、中文 (粵語 (傳統中文))、中文 (簡體中文)、印度文 (印度)、義大利文 (義大利)、韓文 (韓國)、西班牙文 (墨西哥)、瑞典文 (瑞典)、波蘭文 (波蘭)、阿拉伯文 (阿拉伯聯合大公國)、阿拉伯文 (沙烏地阿拉伯)。
+
+- **將 Teams 會議串流至自訂 RTMP 端點：** 串流流讓貴組織擴展您的連絡範圍，並提供會議參與者更多會議選項。 當您啟用串流時，召集人可以透過提供即時訊息協定 (RTMP) URL 及 Teams 中內建 [自訂串流] 應用程式的金鑰，將會議和網路研討會串流送至外部端點。
+
+- **在桌面和行動裝置之間轉接通話：** Teams 通話參與者很快就可以轉接 Teams 裝置間進行中的一對一 Teams VoIP 通話、PSTN 通話或群組通話，亦即從您的桌面用戶端轉接到行動裝置用戶端，或到其他桌面用戶端。 除此之外，使用者也可以將另一部裝置隨附於其通話加以新增。 此訊息會與 Microsoft 365 藍圖識別碼 68776 相關聯。
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **[分組討論區] 強制回應視窗中的新指派體驗：** 參與者指派的增強型 UX。 這包括排序參與者與會議室，以及對會議室執行多重選項和指派等新功能。
+
+- **Teams 即時活動的 Peer5 eCDN 支援：** 很快的您就可以使用 Peer5 做為 eCDN 提供者，以符合 Teams 即時活動網路的需求。
+
+- **GCC 雲端之 Teams 會議 [即時文字記錄] 中的發言者屬性：** GCC 雲端中的 Teams 會議現在具有屬於表達發言者的即時文字記錄表達。
+
+- **核准 - 循序准者支援：** 要求者現在可切換循序核准，以指定要求的核准順序。
+
+- **從 PowerPoint 到搭配 Microsoft 365 Apps 商務版授權使用 Teams 進行簡報：** 透過 Teams 的 PowerPoint Live 直接從 PowerPoint 應用程式在會議中簡報投影片功能，現在已擴充為到可搭配商務用 Microsoft 365 Apps 授權使用。
+
+- **Teams 會議的內嵌 CART 輔助字幕支援：** Teams 會議現在支援整合即時輔助字幕提供者和 CART 作者 (通訊存取即時文字記錄)，讓利用 CART 輔助字幕的使用者可以在會議進行相同的視窗中檢視輔助字幕。
+
+- **Citrix 的雙音多頻訊號：** Citrix 客戶 VDI 上的 Teams DTMF。適用於 Teams 的雙音多頻訊號 (DTMF) 現在可供 Citrix VDI 上的使用者使用。  之前，當 Citrix VDI 使用者使用撥入號碼撥入會議時，通話雖已連接，但您會因為未送出 DTMF 音調而未獲准加入會議。 現在，當同一位使用者輸入會議識別碼時，DTMF 會識別輸入的識別碼，並准許使用者加入會議。
+
+- **聊天失敗時的錯誤畫面：** 萬一會議期間無法呈現聊天，使用者會看到聊天錯誤畫面。
+
+- **教育學習管理系統 (LMS) 的 Microsoft Teams 會議 LTI 應用程式：** Microsoft Teams 會議是 LTI 應用程式，可協助教育者和學生輕鬆地將 Teams 會議納入其 LMS 課程。 使用者可以檢視過去與即將到來的會議、排程個別或週期性會議，以及加入與課程相關的 Teams 會議，通通在其 LMS 內即可做到。
+
+- **在一起模式擴充性：** 擴充了在一起模式功能
+
+- **Teams 教育版簡化的課程團隊瀏覽：** 從主要課程團隊瀏覽中更輕鬆地存取 [作業]、[成績]、[課程筆記本] 和 [深入解析]。
+
+- **開始錄製也會啟動 [即時文字記錄]：** 假設同時啟用錄製和原則設定，開啟錄製也會啟動即時文字記錄。
+
+- **DOD 中 [錯過活動的電子郵件]：** 錯過活動的電子郵件可讓使用者全面掌握 Microsoft 團隊。 當使用者不在 Microsoft 團隊且尚未檢閱其通知時，就會產生錯過活動的電子郵件。 使用者可以移至 [設定] -> [通知] -> [選擇頻率] 來選擇接收 [錯過活動的電子郵件]。
+
+- **[搜尋自動建議] 中的熱門點閱：** 熱門點閱是搜尋中自動建議結果頂端的新區段，使用者可以在此查看所有人員、聊天、檔案等最相關的結果。 這項功能會改善探索，並縮短搜尋時間。
+
+- **Teams 應用程式的 [管理裝置權限]：** 個人化權限以在每個應用程式內使用相機、位置及其他功能。
+
+- **未排程 Teams 會議中的 [即時文字記錄]：** 現在 [即時文字記錄] 會支援未排程/臨時的 Teams 會議。
+
+- **Teams 頻道會議中的 [即時文字記錄]：**[即時文字記錄] 現在會支援 Teams 中的頻道會議。
+
+- **網路版 Teams 會議中的 [即時輔助字幕]：** Teams 會議的 Web 使用者現可使用 [即時輔助字幕]。
+
+- **Teams 會議中的報告者與並排模式：** 現在您可以出現在內容旁邊，以提供更吸引人的簡報和消費體驗
+
+- **Teams 會議的內嵌 CART 輔助字幕支援：** Teams 會議現在支援整合即時輔助字幕提供者和 CART 作者 (通訊存取即時文字記錄)，讓利用 CART 輔助字幕的使用者可以在會議進行相同的視窗中檢視輔助字幕。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正導致放入查詢設計或系統關聯性視窗的資料表會出現在與將其放入位置不同地點的錯誤。
+
+
+- 已修正嘗試使用來自非 Office 應用程式的 DAO API 時，會停止運作，並顯示「作業系統目前未設定為執行此應用程式」的錯誤。
+
+
+- 我們已修復此問題，現在會啟用 Outlook 增益集的啟動事件。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正某些語言中的 [檔案] 索引標籤文字遭截斷的問題。
+
+
+- 我們已修正從 PowerPivot 視窗內連接到資料來源無法運作的問題。
+
+
+- 我們已修正 Analysis ToolPak 增益集無法與特定 [自動化安全性] 設定一起使用的問題。
+
+
+- 我們已修正同時有多個 Office 應用程式執行時，會導致 Office 應用程式停止回應的問題。  這也會修正由於回應問題而引起之整個系統的其他穩定性問題。
+
+
+- 我們已修正導致樞紐分析表中的日期欄位分組錯誤的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者能夠下載受保護的附件的問題。
+
+
+- 我們已修正使用 Outlook 撰寫電子郵件時，應用程式停止運作的問題。
+
+
+- 我們已修正 Outlook 開機後，應用程式不久後停止回應的問題。
+
+
+- 我們已修正帳戶的 UPN/SMTP 名稱變更之後，電子郵件簽名會遺失的問題。
+
+
+- 已修正僅對簽章內容的變更不會在雲端式設定中更新的問題。
+
+
+- 已修正導致使用者能夠下載受保護的語音信箱訊息的問題。
+
+
+- 已修正以 ICAL 轉送一些大型或持續很久的週期性會議時所發生的錯誤。
+
+
+- 已修正會議項目取消表單會出現，而不是預期的編輯表單的問題。
+
+
+- 我們已修正導致應用程式在使用 Outlook 時停止回應的問題。
+
+
+- 我們已修正在 Outlook 開機後，使用具有多個帳戶的設定檔導致網路活動增加的錯誤。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+### <a name="skype"></a>Skype
+
+- 我們已修復在交談視窗中影片共用預覽會意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正當使用 [此裝置] 選項編輯與新增圖片相關之連絡人的問題。
+
+
+- 我們已修正插入線上影片按鈕被停用的問題。
+
+
+- 我們已修正無法關閉「繼續」區段中任何編輯器選項的錯誤。
+
+
+- 我們已修正非預設功能區設定可能導致樣式庫無法運作的問題。
+
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+- 我們已修正同時有多個 Office 應用程式執行時，會導致 Office 應用程式停止回應的問題。  這也會修正由於回應問題而引起之整個系統的其他穩定性問題。
+
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 修正 Outlook 中的自訂 VSTO 控制項在開啟和切換多個視窗和視圖之後停止工作的錯誤。
+
+
+- 已修正使用觸控或觸控板在 PPT 投影片中捲動縮圖視圖的相關問題。
+
+
+- 我們已修正使用某些 Web 增益集後，某些文件無法載入的問題。
 
 
 
@@ -751,7 +926,7 @@ ms.locfileid: "58339473"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1187,7 +1362,7 @@ ms.locfileid: "58339473"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
@@ -1210,6 +1385,7 @@ ms.locfileid: "58339473"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20250|version-2107-august-10|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20226|version-2107-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
@@ -1219,5 +1395,4 @@ ms.locfileid: "58339473"
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
-[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

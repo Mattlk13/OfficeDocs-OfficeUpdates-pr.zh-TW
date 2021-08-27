@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: dea14b6e04968a85dddb92cd77dbbbe2597f9f41
-ms.sourcegitcommit: 6a64dd0615f8e56ca50913c46419839ea1704b4a
+ms.openlocfilehash: ac805a16ff9881fff0efdef64cfb12f211c83f81
+ms.sourcegitcommit: 5edddd5222e10c8516ab51425e4a3551f0bc7186
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58522409"
+ms.lasthandoff: 08/26/2021
+ms.locfileid: "58541620"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -77,7 +77,7 @@ ms.locfileid: "58522409"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 啟用 Outlook 增益集啟動事件。
+- 我們已修正現在會啟用 Outlook 增益集之啟動事件的問題。
 
 
 ### <a name="excel"></a>Excel
@@ -4296,7 +4296,7 @@ ms.locfileid: "58522409"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
@@ -4521,7 +4521,7 @@ ms.locfileid: "58522409"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
