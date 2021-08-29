@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: fd727ed414a25591f51fc0e5d76fb9bfa81f8a6d
-ms.sourcegitcommit: f519697ec88200c90496e996e8520d8e9cef7f5a
+ms.openlocfilehash: 9589d6eadb1b2407c091e9ada5be1f5c6a1bcddd
+ms.sourcegitcommit: 35fc99e59142a72da3970a1823e18f1ef66f2217
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "58426054"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58668919"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,60 @@ ms.locfileid: "58426054"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2109-august-27"></a>版本 2109: 8 月 27 日
+*版本 2109 (組建 14420.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 行事曆待辦事項列中顯示多個迷你月份：** 這項功能可讓您在 Outlook 行事曆待辦事項列，以水平和垂直方式顯示多個迷你月份。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正此問題：在下列情況下，Excel 可能會在計算活頁簿時停止回應。
+
+
+- 我們已修正圖形在重新計算期間的穩定性問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在 Outlook 中的會議建立預約時，出現未由租用戶系統管理員設定的未預期資訊通知提示。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正圖形在重新計算期間的穩定性問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正圖形在重新計算期間的穩定性問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正從 Word 複製的圖片，在貼入其他 Office 應用程式中的繪圖畫布上時，無法保留其 [鎖定長寬比] 設定的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2109-august-20"></a>版本 2109: 8 月 20 日
 *版本 2109 (組建 14416.20006)*
@@ -87,7 +141,7 @@ ms.locfileid: "58426054"
 - 我們已修正與下列案例相關的問題: 使用建立視訊從預設 OneDrive 位置的簡報匯出視訊時，會出現錯誤訊息，指出該位置不可用。
 
 
-- 我們已改善將檔案儲存至需要使用者存取核准的位置時的行為。 現在應該會顯示授權存取畫面，以允許使用者存取核准。
+- 我們已改善將檔案儲存至需要使用者存取核准的位置時的行為。現在應該會顯示授權存取畫面，以允許使用者存取核准。
 
 
 - 我們已修正在某些 Windows 版本上插入或編輯列相關的效能問題。
@@ -1745,7 +1799,7 @@ ms.locfileid: "58426054"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -3794,6 +3848,7 @@ ms.locfileid: "58426054"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14329.20000|version-2109-august-06|)
@@ -3803,5 +3858,4 @@ ms.locfileid: "58426054"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
