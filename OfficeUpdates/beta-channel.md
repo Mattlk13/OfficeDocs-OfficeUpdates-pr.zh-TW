@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9589d6eadb1b2407c091e9ada5be1f5c6a1bcddd
-ms.sourcegitcommit: 35fc99e59142a72da3970a1823e18f1ef66f2217
+ms.openlocfilehash: ce6b42f91916d33106f49acd2940d70ce28a0f60
+ms.sourcegitcommit: b0f6fb8d77ce7276aebbad12eab16fece467d042
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "58668919"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "58879496"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,91 @@ ms.locfileid: "58668919"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2109-september-03"></a>版本 2109: 9 月 3 日
+*版本 2109 (組建 14430.20030)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正錯誤訊息中包含特殊字元的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正某些字元集無法正確顯示在工作表分頁的問題
+
+
+- 我們已修正 [尋找/取代] 對話方塊只儲存 [尋找] 但非 [取代] 的歷程記錄 (對話方塊未儲存 [取代] 時所取代的歷程記錄) 的問題。
+
+
+- 我們已修正工作表中在某些捲動案例啟用 [凍結窗格] 的呈現問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正應用程式停止回應大量群組的問題。
+
+
+- 我們已修正造成 [會議室尋找工具] 無法載入的問題。
+
+
+- 我們已修正從連絡人卡片中的郵件連結建立郵件主題時，會預先以非預期字元預先填充的問題。
+
+
+- 我們已修正導致提醒間歇性延遲顯示，並顯示對話方塊中錯誤時間的問題。
+
+
+- 我們已修正導致某些使用者間歇性地重新顯示已刪除的會議邀請的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正預覽列印期間，投影片大小可能會變更的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們修正了當以程式設計方式將新任務新增到專案時，如果新任務的摘要任務已摺疊，任務可能無法插入正確的位置的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在上傳檔案期間，應用程式停止回應且文件未同步的問題。
+
+
+- 我們已修正與應用程式在呼叫 DCompositionCreateDevice 時停止回應相關的問題。
+
+
+- 我們已修正應用程式使用 RD 欄位代碼，在插入的目錄上無法正確顯示章節/文件頁碼的問題。
+
+
+- 我們已修正使用日文輸入法 (IME) 輸入平假名時，開啟 @提及人員選擇器導致 IME 停止運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- 我們已修正 [大聲朗讀] 神經語音迴歸停止回應的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2109-august-27"></a>版本 2109: 8 月 27 日
 *版本 2109 (組建 14420.20004)*
@@ -3848,6 +3933,7 @@ ms.locfileid: "58668919"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
@@ -3857,5 +3943,4 @@ ms.locfileid: "58668919"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
