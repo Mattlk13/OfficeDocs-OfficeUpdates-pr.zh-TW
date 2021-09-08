@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: 6bbc332132506c0ac78a19c505203da9ca7f77d6e29a763ef794f1e508ad1f2a
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: e22343f9c3b9011ea1a1ca95e13e2e287d743fc4
+ms.sourcegitcommit: ecd7d66f28cc029daa30ff8ceda9cebbcb3732aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522491"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923199"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -25,6 +25,10 @@ ms.locfileid: "54522491"
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="september-7-2021"></a>2021 年 9 月 7 日
+**Office 2016**<br/>
+Microsoft Office 2016 更新 ([KB4484467](https://support.microsoft.com/help/4484467)) </br>
 
 ## <a name="august-3-2021"></a>2021 年 8 月 3 日
 **Office 2016**<br/>
