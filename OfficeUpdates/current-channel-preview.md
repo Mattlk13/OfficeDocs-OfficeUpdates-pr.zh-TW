@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 746206d7f1f0c582538ec625d2e8495907240826
-ms.sourcegitcommit: b44a7a39bdbcfe38a451eb01c03b0ac8524fa54d
+ms.openlocfilehash: 4a6a88a48969e75f4d1c64ec8cfe4432fa739d3d
+ms.sourcegitcommit: ecd7d66f28cc029daa30ff8ceda9cebbcb3732aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58829210"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923209"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,47 @@ ms.locfileid: "58829210"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-september-07"></a>版本 2108：9 月 7 日
+*版本 2108 (組建 14326.20348)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正錯誤訊息中包含特殊字元的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 已將建立 [快速筆記] 的熱門金鑰更新為 Win + Alt + N
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正造成 [會議室尋找工具] 無法載入的問題。
+
+
+- 我們已修正在 Outlook 中建立會議時且 Exchange 系統管理員未設定選項時，預設出現有關縮短會議之非預期資訊型通知提示的問題。
+
+
+- 我們已修正導致某些使用者間歇性地重新顯示已刪除的會議邀請的問題。
+
+
+- 我們已修正導致位置欄位中的連結無法按一下的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正顯示新視覺重新整理的對話方塊包含螢幕閱讀程式無法讀取的文字的問題。
+
+
+- 我們已修正列印中未載入預覽列印的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2108-august-30"></a>版本 2108: 8 月 30 日
 *版本 2108 (組建 14326.20282)*
@@ -201,7 +242,7 @@ ms.locfileid: "58829210"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="word"></a>Word
 
-- **校訂現在可用於文件中的已選取文字：** 有了此變更，我們現在可以僅檢閲已選取文字的拼字、文法和其他智慧型撰寫建議。 此外，我們還可以檢閲對整個文件的建議。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/proof-selected-text-in-a-word-document)中查看詳細資料
+- **校訂現在可用於文件中的已選取文字：** 有了此變更，我們現在可以僅檢閲已選取文字的拼字、文法和其他智慧型撰寫建議。 此外，我們還可以檢閲對整個文件的建議。<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -452,7 +493,7 @@ ms.locfileid: "58829210"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。 [深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
+- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。 [深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
 
 - **建立 Outlook.com 帳戶的連結：** 新增帳戶至 Outlook 時，視窗中會顯示 outlook.com 帳戶的連結。
 
@@ -981,9 +1022,9 @@ ms.locfileid: "58829210"
 
 - **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
 
-- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/shared-calendars-improvements-in-outlook-for-windows)中查看詳細資料
+- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。<br />在[部落格文章](https://insider.office.com/en-us/blog/shared-calendars-improvements-in-outlook-for-windows)中查看詳細資料
 
-- **將電子郵件傳送給大型 DL、外部使用者時，協助工具檢查程式會進行微調：** 我們新增了功能，以在撰寫電子郵件給大量對象、外部使用者等時，透過郵件提示自動收到協助工具違規的提示。這些設定放在輕鬆存取中<br />在[部落格文章](https://insider.office.com/zh-tw/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
+- **將電子郵件傳送給大型 DL、外部使用者時，協助工具檢查程式會進行微調：** 我們新增了功能，以在撰寫電子郵件給大量對象、外部使用者等時，透過郵件提示自動收到協助工具違規的提示。這些設定放在輕鬆存取中<br />在[部落格文章](https://insider.office.com/en-us/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
@@ -2242,7 +2283,7 @@ ms.locfileid: "58829210"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **單鍵寫作建議：** 只要按一下，就能套用寫作建議。 編輯器會校正拼字和文法，並提供潤飾寫作的建議。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
+- **單鍵寫作建議：** 只要按一下，就能套用寫作建議。 編輯器會校正拼字和文法，並提供潤飾寫作的建議。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2967,9 +3008,9 @@ ms.locfileid: "58829210"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
-- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
+- **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
 - **匯出一定範圍內的動畫 GIF** 在匯出成動畫 GIF 時，選取投影片的範圍
 
@@ -3063,7 +3104,7 @@ ms.locfileid: "58829210"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **撰寫郵件時節省時間：** Outlook 會顯示書寫建議，協助您快速撰寫郵件。 若要接受建議，只需使用 Tab 鍵。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/text-predictions-in-word-outlook)中查看詳細資料
+- **撰寫郵件時節省時間：** Outlook 會顯示書寫建議，協助您快速撰寫郵件。 若要接受建議，只需使用 Tab 鍵。<br />在[部落格文章](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)中查看詳細資料
 
 - **使用內建翻譯工具打破語言障礙：** 不再需要翻譯的增益集！ 在電子郵件中，按一下滑鼠右鍵以翻譯特定的文字、片語或整個郵件。 [深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -3269,7 +3310,7 @@ ms.locfileid: "58829210"
 
 ### <a name="outlook"></a>Outlook
 
-- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 <br />在[部落格文章](https://insider.office.com/zh-tw/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 <br />在[部落格文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3333,7 +3374,7 @@ ms.locfileid: "58829210"
 
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -3345,13 +3386,13 @@ ms.locfileid: "58829210"
 
 - **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -3369,7 +3410,7 @@ ms.locfileid: "58829210"
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
