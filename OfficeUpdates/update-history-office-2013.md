@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
 ms.openlocfilehash: 6b72022ca8943472ce428b1cb4d6924f447e5f78
-ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58339503"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273455"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
