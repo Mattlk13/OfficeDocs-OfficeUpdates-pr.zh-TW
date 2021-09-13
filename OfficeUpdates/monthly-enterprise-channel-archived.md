@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每月企業通道版本的版本資訊
-ms.openlocfilehash: 7fdd96dbb47df1136ed0da315cc6698ab4c7044dd1b35a3a0e8c164ed4c0bc98
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: 171f5436b47f6d35bac641005849c165bf5b6e88
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522541"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273416"
 ---
 # <a name="archived-release-notes-for-monthly-enterprise-channel"></a>每月企業通道的封存版本資訊
 這些版本資訊可提供 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月企業通道更新所含新功能和非安全性更新的相關資訊。

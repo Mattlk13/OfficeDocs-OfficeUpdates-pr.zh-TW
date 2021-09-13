@@ -10,11 +10,11 @@ localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
 ms.openlocfilehash: 1dc9430bffb52414b5351a0b1006299b1b4773ae
-ms.sourcegitcommit: d8295a7e03f5f76ad46b6c7d9821ef8328331045
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58393100"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273397"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 

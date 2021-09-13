@@ -14,11 +14,11 @@ ms.collection:
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 2016、SharePoint 2013 及 SharePoint 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
 ms.openlocfilehash: fea41e33cf18e22e24868629a8a228a2c90289b0
-ms.sourcegitcommit: 40741280aa557facf4a3b379a67d4637b82d21ad
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58358717"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273434"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 

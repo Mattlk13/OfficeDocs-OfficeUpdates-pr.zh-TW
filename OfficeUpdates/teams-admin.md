@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 28f4cc99525b7d8be6ac6ca2cdf6a3092032057e3d974b660e246c0542e4b552
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: 1b70fe3de13fba04565a0416f30156015876e7c4
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54523071"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273354"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -58,7 +58,7 @@ ms.locfileid: "54523071"
 ## <a name="may-31-2021"></a>5月 31 2021
 
 - **會議提醒：** 會議提醒會議開始之前 x 分鐘的通知，所以您永遠不會錯過下一個會議。 [！注意] 會議 (前的預設值為15分鐘，但您可以從通知設定) 進行自訂。 您可以直接從提醒加入會議或與參與者聊天。
-- **在 DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者保持在最上層的 Microsoft 小組。 當使用者離開 Microsoft 小組，但尚未檢查其通知時，就會產生錯過的活動電子郵件。 使用者可以選擇接收已錯過的活動電子郵件，方法是移至 **設定**  ->  **通知**  ->  **選擇頻率**。 
+- **DOD 中 [錯過活動的電子郵件]：** 錯過活動的電子郵件可讓使用者全面掌握 Microsoft 團隊。 當使用者不在 Microsoft 團隊且尚未檢閱其通知時，就會產生錯過活動的電子郵件。 使用者可以選擇接收已錯過的活動電子郵件，方法是移至 **設定**  ->  **通知**  ->  **選擇頻率**。 
 
 ## <a name="may-26-2021"></a>2021 年 5 月 26 日
 

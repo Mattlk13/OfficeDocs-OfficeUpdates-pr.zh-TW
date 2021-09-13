@@ -10,11 +10,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
 ms.openlocfilehash: e22343f9c3b9011ea1a1ca95e13e2e287d743fc4
-ms.sourcegitcommit: ecd7d66f28cc029daa30ff8ceda9cebbcb3732aa
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/07/2021
-ms.locfileid: "58923199"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273402"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 

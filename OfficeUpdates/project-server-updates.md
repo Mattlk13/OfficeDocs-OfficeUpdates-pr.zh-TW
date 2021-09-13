@@ -13,11 +13,11 @@ ms.collection:
 - RelNotes_Server
 description: 在單一位置尋找及管理 Project Server 2013 和 Project Server 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
 ms.openlocfilehash: 3e34dd0c20e46bb97bbc2eb5d5071150cbf5af72
-ms.sourcegitcommit: 957950ba78f4cd8a7ec2019631a585305b463ce6
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58339273"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273419"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 

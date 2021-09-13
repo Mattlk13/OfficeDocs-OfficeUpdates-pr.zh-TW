@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供2017中 Office 365 專業增強版 Semi-Annual 通道版本的版本資訊
-ms.openlocfilehash: ffda4f50262bdd3d63c8b827d1c94a63dd774978df51a3b09e29adc60c76741a
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: f362dc713e39ea29f9505c70c926d352e5e83281
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522331"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273408"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>2017中 Semi-Annual 通道版本的發行附注
 
