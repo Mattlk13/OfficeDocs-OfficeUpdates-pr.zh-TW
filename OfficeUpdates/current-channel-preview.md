@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: fb3e7793232a8fe509a2732d61d2fd504b2c3343
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 18b69f94c725bd6bea13bb13c1a58c2df6cd4149
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273375"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349261"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,10 @@ ms.locfileid: "59273375"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2109-september-13"></a>版本 2109: 9 月 13 日
+*版本 2109 (組建 14430.20148)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2109-september-09"></a>版本 2109：9 月 09 日
 *版本 2109 (組建 14430.20088)*
@@ -92,7 +96,7 @@ ms.locfileid: "59273375"
 - 我們已修正圖形在重新計算期間的穩定性相關問題。
 
 
-- 此版本修正了應用程式意外關閉時的問題。 如果本地檔案快取記憶體的租用戶識別碼資料格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
 - 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
@@ -158,7 +162,7 @@ ms.locfileid: "59273375"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此版本修正了應用程式意外關閉時的問題。 如果本地檔案快取記憶體的租用戶識別碼資料格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
 - 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
@@ -195,7 +199,7 @@ ms.locfileid: "59273375"
 
 ### <a name="word"></a>Word
 
-- 此版本修正了應用程式意外關閉時的問題。 如果本地檔案快取記憶體的租用戶識別碼資料格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
 - 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
@@ -1917,7 +1921,7 @@ ms.locfileid: "59273375"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -4613,7 +4617,7 @@ ms.locfileid: "59273375"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
