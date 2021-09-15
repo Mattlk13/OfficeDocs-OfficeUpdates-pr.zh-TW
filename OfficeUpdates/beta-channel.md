@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ce6b42f91916d33106f49acd2940d70ce28a0f60
-ms.sourcegitcommit: b0f6fb8d77ce7276aebbad12eab16fece467d042
+ms.openlocfilehash: 27297b9dda251daf2d9f746e0e49fe27ba19d7c5
+ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "58879496"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59273367"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,6 +31,68 @@ ms.locfileid: "58879496"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2110-september-10"></a>版本 2110：9 月 10 日
+*版本 2110 (組建 14503.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+
+### <a name="outlook"></a>Outlook
+
+- **使用您的語音以傳送電子郵件和 @提及人員：** 在日益忙碌的世界中，聽寫您的電子郵件 Outlook，已成為提升效率的最流行方式。 我們現在新增特定語音命令，讓此功能更加強大--只用您的聲音即可將人員新增到電子郵件、在郵件中提及 (@name) 某人，以及傳送郵件。<br />在[部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+
+### <a name="word"></a>Word
+
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正少數 GCC-H 租用戶無法使用自動敏感度標籤的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正按兩下以儲存不受信任的附件時，無法儲存至網路位置的問題。
+
+
+- 我們已修正透過 [傳送至] 建立的郵件無法取得預設敏感度標籤的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用自動儲存功能將檔案儲存在非預期位置的問題；儲存至共用位置的要求會儲存在本機且不會收到任何通知。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正了當企業編號自訂欄位更新時，如果小數分隔符號不是句號，企業資源會無法儲存的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正符號字元在資料類型卡片中會錯誤顯示為底線的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2109-september-03"></a>版本 2109: 9 月 3 日
 *版本 2109 (組建 14430.20030)*
 
@@ -40,7 +102,7 @@ ms.locfileid: "58879496"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="word"></a>Word
 
-- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -247,7 +309,7 @@ ms.locfileid: "58879496"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="word"></a>Word
 
-- **追蹤您的變更:** 共同合作是在 Word 製作好內容的一項重要關鍵，而追蹤修訂功能是該程序不可或缺的一部分。 之前，當您開啟追蹤修訂時，系統會自動追蹤每個人的變更。 但有時候您只想追蹤自己的變更，不強制其他人進行此設定。 現在，我們已提供您只為自己開啟追蹤修訂的功能。 若要這麼做，請前往 [校閱] 索引標籤，然後開啟追蹤修訂按鈕上的下拉式功能表; 然後選取 [僅我的]。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/track-just-your-changes-in-word)中查看詳細資料
+- **追蹤您的變更:** 共同合作是在 Word 製作好內容的一項重要關鍵，而追蹤修訂功能是該程序不可或缺的一部分。 之前，當您開啟追蹤修訂時，系統會自動追蹤每個人的變更。 但有時候您只想追蹤自己的變更，不強制其他人進行此設定。 現在，我們已提供您只為自己開啟追蹤修訂的功能。 若要這麼做，請前往 [校閱] 索引標籤，然後開啟追蹤修訂按鈕上的下拉式功能表; 然後選取 [僅我的]。<br />在[部落格文章](https://insider.office.com/en-us/blog/track-just-your-changes-in-word)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -297,7 +359,7 @@ ms.locfileid: "58879496"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Word、Excel、Outlook 和 PowerPoint 中使用 WebP 影像：** WebP 是一種新式影像格式，可為將影像發佈到網路提供更佳的壓縮。 我們現在已在 Office 應用程式中新增對 WebP 影像的支援！ [深入了解](https://insider.office.com/zh-tw/blog/add-webp-images-to-office-creations)
+- **在 Word、Excel、Outlook 和 PowerPoint 中使用 WebP 影像：** WebP 是一種新式影像格式，可為將影像發佈到網路提供更佳的壓縮。 我們現在已在 Office 應用程式中新增對 WebP 影像的支援！ [深入了解](https://insider.office.com/en-us/blog/add-webp-images-to-office-creations)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -332,7 +394,7 @@ ms.locfileid: "58879496"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **想要您的活頁簿提供您入門瀏覽指引嗎？：** 瞭解您活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！ [深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+- **想要您的活頁簿提供您入門瀏覽指引嗎？：** 瞭解您活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！ [深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
 
 - **享受改良的捲動體驗** ：當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。 [深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
 
@@ -1872,7 +1934,7 @@ ms.locfileid: "58879496"
 
 ### <a name="word"></a>Word
 
-- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/zh-tw/blog/modern-commenting-in-word)中查看詳細資料
+- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2815,19 +2877,19 @@ ms.locfileid: "58879496"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/zh-tw/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3933,6 +3995,7 @@ ms.locfileid: "58879496"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
@@ -3942,5 +4005,4 @@ ms.locfileid: "58879496"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
