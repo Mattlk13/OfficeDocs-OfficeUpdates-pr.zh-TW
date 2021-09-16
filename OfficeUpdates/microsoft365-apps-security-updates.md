@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 1dc9430bffb52414b5351a0b1006299b1b4773ae
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 713549ce9a25139ccf42a48621ab408cb1d001f8
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273397"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59347797"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,49 @@ ms.locfileid: "59273397"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="september-14-2021"></a>2021 年 9 月 14 日
+目前通道：版本 2108 (組建 14326.20404)  
+每月企業管道：版本 2107 (組建 14228.20324)  
+每月企業管道：版本 2106 (組建 14131.20384)  
+半年企業通道 (預覽)：版本 2108 (組建 14326.20404)  
+半年企業通道：版本 2102 (組建 13801.20960)  
+半年企業通道：版本 2008 (組建 13127.21766)   
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22032)  
+Office 2019 零售版：版本 2108 (組建 14326.20404)  
+Office 2016 零售版：版本 2108 (組建 14326.20404)  
+Office 2019 大量授權版：版本 1808 (組建 10378.20029)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2021-38646](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38646)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-38655](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38655)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-38653](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38653)
+-   [CVE-2021-38654](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38654)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-38656](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38656)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-38657](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38657)
+-   [CVE-2021-38650](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38650)
+-   [CVE-2021-38658](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38658)
+-   [CVE-2021-38659](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38659)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="august-17-2021"></a>2021 年 8 月 17 日
 半年企業通道：版本 2002 (組建 12527.22021)  

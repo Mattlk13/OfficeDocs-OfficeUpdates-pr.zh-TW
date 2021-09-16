@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: ec2e8105bc7e54dd9f5aa59e1f92ec7a82f61e40
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 3bcfd5ef05f721637989231d9bd91b97f8dc417e
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273366"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349251"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,23 @@ ms.locfileid: "59273366"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-september-14"></a>版本 2108：9 月 14 日
+*版本 2108 (組建 14326.20404)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在將電子郵件草稿儲存至磁碟時，看到 HTML 格式設定遺失的問題。
 
 
 
@@ -973,7 +990,7 @@ ms.locfileid: "59273366"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1432,6 +1449,7 @@ ms.locfileid: "59273366"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20250|version-2107-august-10|)
@@ -1441,5 +1459,4 @@ ms.locfileid: "59273366"
 [//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
-[//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

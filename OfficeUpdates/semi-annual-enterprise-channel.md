@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 7a137c566c4b7f4e14d654cb6f76472848688bf9
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 0c0b8a43f526a4bdd03028ae23ace0e4794410c4
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273443"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59349519"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -26,6 +26,61 @@ ms.locfileid: "59273443"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-september-14"></a>版本 2102：9 月 14 日
+*版本 2102 (組建 13801.20960)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正關閉時可能導致 Access 無法正常終止，而可能導致資料庫鎖定的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正如果千位和小數分隔符號使用相同符號，圖表座標軸值無法變更的問題。
+
+
+- 我們已修正一個問題，在開啟 CSV 檔案時，將可識別當地語系化的函數名稱。
+
+
+- 修正從包含 XML Map 的活頁簿中另存為 XML 資料 (.xml) 的問題。
+
+
+- 我們已修正啟用舊版增益集時，會開啟空白的重複視窗的問題。
+
+
+- 修正分析工具箱增益集無法與特定自動化安全性設定搭配使用的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正從 Windows 檔案總管使用 [傳送至] -> [郵件收件者] 後，會使得 Outlook 無法啟動的問題。
+
+
+- 我們已修正會導致使用者能夠下載受保護附件的問題。
+
+
+- 我們已修正會導致使用者能夠下載受保護的語音信箱檔案的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 styleref 欄位可能會顯示截斷結果的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-september-14"></a>版本 2008：9 月 14 日
+*版本 2008 (組建 13127.21766)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2102-august-10"></a>版本 2102: 8 月 10 日
 *版本 2102 (組建 13801.20864)*
@@ -895,7 +950,7 @@ ms.locfileid: "59273443"
 
 ### <a name="word"></a>Word
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1726,6 +1781,7 @@ ms.locfileid: "59273443"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20864|version-2102-august-10|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
@@ -1735,5 +1791,4 @@ ms.locfileid: "59273443"
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
-[//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

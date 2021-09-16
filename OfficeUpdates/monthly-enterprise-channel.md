@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 6210c012693e13cd654a875b00d000d5ad70f47a
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: c4896be19128472dbca1bea487a3f0c1a67456bb
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273358"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59347771"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,95 @@ ms.locfileid: "59273358"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2107-september-14"></a>版本 2107：9 月 14 日
+*版本 2107 (組建 14228.20324)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **在干擾較少的情況下閱讀訊息：** 開啟沈浸式閱讀程式，以自訂文字間距、頁面色彩、欄寬和行聚焦，讓您更輕鬆地專注於訊息。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+- 我們已修正嘗試使用來自非 Office 應用程式的 DAO API 時，會停止回應並顯示「作業系統目前未配置成執行此應用程式」的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+- 我們已修正可能造成某些連結 Dynamics 資料表停止回應的問題。
+
+
+- 已修正如果 Application.DisplayAlerts 設定為 True，就無法從 VBA 開啟受 DRM 保護的活頁簿的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致共用日曆改進功能的使用者在 Outlook 重新開機之前，無法顯示新加入的共用日曆的問題。
+
+
+- 我們已修正當會議開始與會議結束在不同的日期時，導致使用者在結束會議時間下拉式清單中看到重複時間項目的問題。
+
+
+- 修正會導致使用者能夠下載受保護的語音信箱訊息的問題。
+
+
+- 修正僅對簽章內容的變更不會在雲端式設定中更新的問題。
+
+
+- 我們已修正會導致某些使用者在執行搜尋時遇到意外關閉的問題。
+
+
+- 我們已修正會導致在 SendFromAliasEnabled 設定為 True 的組織中，由不同使用者重新傳送的電子郵件會顯示為由原始寄件者傳送的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正使用者能夠順暢地存取檔案，而不需要遇到任何意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+- 修正使用 [此裝置] 選項編輯與新增圖片相關連絡人的問題。
+
+
+- 已修正 Word 畫布旁的註解卡片大小不正確的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2106-september-14"></a>版本 2106：9 月 14 日
+*版本 2106 (組建 14131.20384)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2106-august-10"></a>版本 2106: 8 月 10 日
 *版本 2106 (組建 14131.20360)*
@@ -1077,6 +1166,7 @@ ms.locfileid: "59273358"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
 [//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
@@ -1086,5 +1176,4 @@ ms.locfileid: "59273358"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
