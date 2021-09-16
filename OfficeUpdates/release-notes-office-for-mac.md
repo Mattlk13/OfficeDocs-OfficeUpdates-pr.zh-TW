@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: c6e268b010992f86b1dabe92d28087bc3e7c83ae
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: f1d20fa7ca86e9a51b51b1a3829f496d1117e690
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273412"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59347807"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -35,36 +35,45 @@ ms.locfileid: "59273412"
 
 [//]: # (DO NOT REMOVE)
 
+## <a name="september-14-2021"></a>2021 年 9 月 14 日
+*版本 16.53 (組建 21091200)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **存取協助工具的新方法：** 協助工具功能區將您所需、用來建立可存取內容的所有工具放置在同一個位置。<br />在[部落格文章](https://insider.office.com/en-us/blog/check-out-the-accessibility-checker-in-excel)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **使用編輯器發揮您的最佳撰寫能力：** 編輯器會檢查您的撰寫，並提供拼字、文法和文體問題的建議，例如讓句子更簡潔、選擇較簡單的字詞，或更正式地撰寫。
+
+### <a name="office-suite"></a>Office 套件
+
+- **使用您的語音來傳送電子郵件和 @提及：** 新語音命令可讓您在聽寫時傳送郵件並 @提及其他人
+
+- **使用語音變更主旨：** 新語音命令可讓您在聽寫時變更主旨
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
 
 
+### <a name="security-updates"></a>安全性更新
 
 
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-38655](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38655)
 
 
+### <a name="office-suite"></a>Office 套件
 
+-   [CVE-2021-38650](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-38650)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="august-10-2021"></a>2021 年 8 月 10 日
 *版本 16.52 (組建 21080801)*

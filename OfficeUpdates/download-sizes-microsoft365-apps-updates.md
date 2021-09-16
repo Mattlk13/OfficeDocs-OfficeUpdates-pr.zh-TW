@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 0974d1369865f7a780783c1da9424ccc1fa128bb
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: f5a69f603a02e069ec5d9d651a73c9b73af6ead0
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273363"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59347874"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -31,14 +31,23 @@ ms.locfileid: "59273363"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="september-14-2021"></a>2021 年 9 月 14 日
 
-## <a name="september-9-2021"></a>2021 年 9 月 9 日
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 14, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2108 (組建 14326.20404)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20348) <br/> |2021 年 9 月 7 日 <br/> |61<br/> |
+|版本 2108 (組建 14326.20238) <br/> |2021 年 8 月 24 日 <br/> |72<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2107 (組建 14228.20298)。</i>
+最新的版本是版本 2107 (組建 14228.20324)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -48,7 +57,7 @@ ms.locfileid: "59273363"
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2108 (組建 14326.20372)。</i>
+最新的版本是版本 2108 (組建 14326.20404)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -58,15 +67,18 @@ ms.locfileid: "59273363"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2102 (組建 13801.20936)。</i>
+最新的版本是版本 2102 (組建 13801.20960)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2102 (組建 13801.20864) <br/> |2021 年 8 月 10 日 <br/> |45<br/> |
+|版本 2102 (組建 13801.20864) <br/> |2021 年 8 月 10 日 <br/> |46<br/> |
 |版本 2102 (組建 13801.20808) <br/> |2021 年 7 月 13 日 <br/> |50<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 14, 2021)
+
+
+
 
 ## <a name="september-7-2021"></a>2021 年 9 月 7 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 224bc79271cb98c34f642dc386fbd662c937ceeb
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: c26974eb5fbd7f5190cf8c293a2bd66f794ef5e4
+ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273422"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59347787"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,22 @@ ms.locfileid: "59273422"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="september-2021-release"></a>2021 年 9 月發行
+
+**發行日期：** 2021 年 9 月 14 日
+
+*Microsoft AutoUpdate 4.39*
+
+**錯誤修正及增強功能：**
+- 錯誤修正：如果未使用 MAU 命令提示字元終止應用程式，則在更新應用程式之後將無法重新啟動
+
+[下載 Microsoft AutoUpdate 4.39 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.39.21091200_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+E6D45F0F0010F67638F199CE8757739F26E703F3D472EF482BEC2175AB7D85B7
+
+
 ## <a name="august-2021-release"></a>2021 年 8 月發行
 
 **發行日期：** 2021 年 8 月 10 日
