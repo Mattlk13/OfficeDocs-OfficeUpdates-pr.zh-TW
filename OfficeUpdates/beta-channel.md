@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 27297b9dda251daf2d9f746e0e49fe27ba19d7c5
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 0fd373a8cb99fa5825b08c160c4769eef9e95df3
+ms.sourcegitcommit: 0bfe7ef7b42cd24705ea2a777d82e41501c64216
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273367"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447263"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,61 @@ ms.locfileid: "59273367"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-september-17"></a>版本 2110：9 月 17 日
+*版本 2110 (組建 14509.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **預設敏感度標籤現在適用於現有未標記的文件：** 已修復不會將預設敏感度標籤套用至現有未標記文件的問題。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **預設敏感度標籤現在適用於現有未標記的文件：** 已修復不會將預設敏感度標籤套用至現有未標記文件的問題。
+
+### <a name="word"></a>Word
+
+- **預設敏感度標籤現在適用於現有未標記的文件：** 已修復不會將預設敏感度標籤套用至現有未標記文件的問題。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修復複製及貼上內容時出現記憶體不足警告的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修復在另一個程式中貼上 PowerPoint 投影片時不會顯示墨水的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修復導致 Visual Basic 應用程式 (VBA) OrganizerMoveItem 方法，用來將自訂欄位資訊從一個專案移至另一個專案，使其在省略 Name 參數時無法正常運作的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修復導致儲存指示器停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修復當播放動畫 GIF 時，會對電子郵件或文件中的輸入速度產生負面影響的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-september-10"></a>版本 2110：9 月 10 日
 *版本 2110 (組建 14503.20002)*
@@ -77,7 +132,7 @@ ms.locfileid: "59273367"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 我們已修正使用自動儲存功能將檔案儲存在非預期位置的問題；儲存至共用位置的要求會儲存在本機且不會收到任何通知。
+- 我們已修復此問題：嘗試為儲存至 OneDrive 或 SharePoint 的不受支援副檔名開啟檔案 AutoSave 會顯示 [共用] 對話方塊。
 
 
 ### <a name="project"></a>Project
@@ -1946,7 +2001,7 @@ ms.locfileid: "59273367"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -3995,6 +4050,7 @@ ms.locfileid: "59273367"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
@@ -4004,5 +4060,4 @@ ms.locfileid: "59273367"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14326.20004|version-2108-july-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14301.20004|version-2108-july-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
