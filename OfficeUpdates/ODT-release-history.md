@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: 為 IT 專業人員提供 Office 部署工具 (ODT) 的發行記錄
-ms.openlocfilehash: f6df62267f7f2035f610867721b3dc1b9f65a1bd
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 7bab4fe984c4cd092af8341ab6e29a74fe3d1cd0
+ms.sourcegitcommit: 604c6cf17de5f2e381589245e9c57020803ddff5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273383"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59443454"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Office 部署工具的發行記錄
 
@@ -28,6 +28,10 @@ ODT 讓您對 Office 安裝作業有更多的控制權。您可以定義要安�
  **安裝指示**：下載檔案然後執行自我解壓縮可執行檔，其中會包含 Office 部署工具可執行檔 (setup.exe) 及範例組態檔 (configuration.xml)。 
 
 [下載 Office 部署工具](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117)
+## <a name="sept-16-2021"></a>2021 年 9 月 16 日
+版本 16.0.14326.20404 (setup.exe 版本 16.0.14326.20384)
+- Office LTSC 2021 產品的支援
+- 可靠性改善
 
 
 ## <a name="july-12-2021"></a>2021 年 7 月 12 日
@@ -50,7 +54,7 @@ ODT 讓您對 Office 安裝作業有更多的控制權。您可以定義要安�
 ## <a name="may-10-2021"></a>2021 年 5 月 10 日
 版本 16.0.13929.20296 (setup.exe 版本 16.0.13929.20238)
 - 已修正如果設定檔同時包含 MigrateArch 和 RemoveMSI，/configure 模式可能會失敗的問題
-- 其他可靠性改良
+- 其他可靠性改善
 
 ## <a name="april-13-2021"></a>2021 年 4 月 13 日
 版本 16.0.13901.20336 (setup.exe 版本 16.0.13901.20328)
@@ -86,7 +90,7 @@ ODT 讓您對 Office 安裝作業有更多的控制權。您可以定義要安�
 ## <a name="december-21-2020"></a>2020 年 12 月 21 日
 版本 16.0.13426.20370 (setup.exe 版本 16.0.13426.20352)
 - 已修正從 PerpetualVL2019 通道 ProofingTools 的本機來源安裝失敗的問題
-- 已修正當您在現有安裝中新增非完整 Office 語言中的其他產品時，隨選即用用戶端嘗試自我更新的問題
+- 已修正當您在現有安裝中新增其他非完整 Office 語言中的產品時，確保隨選即用用戶端嘗試自我更新的問題
 
 
 ## <a name="december-8-2020"></a>2020 年 12 月 8 日
@@ -124,7 +128,7 @@ ODT 讓您對 Office 安裝作業有更多的控制權。您可以定義要安�
 - 在未指定頻道時，目前的通道即為預設的頻道。
 - 新增每月企業通道的支援
 - 新增新頻道名稱的支援
-- 即使在無法使用部分語言資源時，如可能，可持續安裝其他復原功能
+- 即使在無法使用某些語言資源時，如可能，可持續安裝其他復原功能
 - MSIRemove 的功能已展開，可移除 Office 2007 產品
 - MSIRemove 的功能已展開，可移除 Access 資料庫引擎 
 
@@ -161,7 +165,7 @@ ODT 讓您對 Office 安裝作業有更多的控制權。您可以定義要安�
 
 版本 16.0.11617.33601
 - 已修正 RemoveMSI = True 清除相關登錄設定的錯誤。
-- 更新錯誤碼，為非預期的失敗 (E_UNEXPECTED) 提供其他詳細資料。
+- 更新錯誤碼，以提供非預期失敗 (E_UNEXPECTED) 的其他詳細資料。
 
 ## <a name="april-16-2019"></a>2019 年 4 月 16 日
 
