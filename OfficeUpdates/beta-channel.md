@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 0fd373a8cb99fa5825b08c160c4769eef9e95df3
-ms.sourcegitcommit: 0bfe7ef7b42cd24705ea2a777d82e41501c64216
+ms.openlocfilehash: 3d6eacd39e1e01827621afa16a9bd7b947cc295a
+ms.sourcegitcommit: 9212a937f99dabf11a36cf54cdbf7f01caf9b928
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "59447263"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59772707"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,53 @@ ms.locfileid: "59447263"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-september-24"></a>版本 2110: 9 月 24 日
+*版本 2110 (組建 14517.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 Excel 的括住數字字元會顯示問號的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正某些使用者的框架控制視窗中已停用敏感度索引標籤的問題。
+
+
+- 我們已修正搜尋未包含來自線上封存信箱的項目的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正 beforetaskchange 事件會引發兩次，並在 [前置任務] 欄位變更時包含不正確資訊的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正同步處理的檔案和本機備份的檔案中的變更無法同步處理及進度會遺失的問題。
+
+
+- 我們已修復在使用高 CPU 百分比時，Word 的回應變得緩慢的問題。
+
+
+- 我們已修正新式註解中自動校正無法運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修復使用者無法在與具有讀取權限的 SharePoint 資料夾同步處理的資料夾中開啟 .xls/.ppt/.doc 檔案的問題。
+
+
+- 我們已修復 Excel 中在開始進行維護之前，會出現錯誤 ERROR_DISK_FULL 的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2110-september-17"></a>版本 2110：9 月 17 日
 *版本 2110 (組建 14509.20000)*
@@ -4050,6 +4097,7 @@ ms.locfileid: "59447263"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
@@ -4059,5 +4107,4 @@ ms.locfileid: "59447263"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14329.20000|version-2109-august-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14326.20004|version-2108-july-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14312.20008|version-2108-july-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
