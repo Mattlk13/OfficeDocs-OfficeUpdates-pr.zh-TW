@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7a712897d1eb30831b0e16060b576b87dd2023ca
-ms.sourcegitcommit: 3cde167f21ac734d545d831135ca76de6cb59d88
+ms.openlocfilehash: ac297fe6554c69ed8065cf262fe221b9040649bf
+ms.sourcegitcommit: 951d4e8d1f9e93b3036a80376ee02f1e8375b931
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "59459443"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "59940675"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,48 @@ ms.locfileid: "59459443"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2109-september-27"></a>版本 2109：9 月 27 日
+*版本 2109 (組建 14430.20234)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致某些使用者在新增共用行事曆後遇到意外關閉的問題。
+
+
+- 我們已修正會導致 Outlook 使用者的「共用行事曆改良」功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修正會導致新增到「捷徑」模組的行事曆，在 Outlook 重新啟動後會消失的問題。
+
+
+- 我們已修正會導致使用者看到他們新增的共用行事曆預設未經過檢查，導致他們認為無法新增該行事曆的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2109-september-24"></a>版本 2109：9 月 24 日
+*版本 2109 (組建 14430.20220)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **用於取得範本的圖形 API：** 取得範本圖形 API 將提供組織中可用的團隊範本清單。 範本清單包含 Microsoft 提供的內建範本，以及租用戶建立的自訂企業營運範本。
+
+- **Microsoft Teams：自動化網路研討會邀請：** 設定並排程網路研討會時，網路研討會邀請現在會自動新增到出席者的行事曆。
+
+- **Microsoft Teams：網路研討會通訊的網域自訂：** 在網路研討會通訊中展現組織的品牌。 將網路研討會電子郵件寄給出席者時，您的網域名稱現在會自動顯示在寄件者電子郵件中，讓出席者更容易識別。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2109-september-20"></a>版本 2109: 9 月 20 日
 *版本 2109 (版本 14430.20174)*
@@ -2367,7 +2409,7 @@ ms.locfileid: "59459443"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -2933,7 +2975,7 @@ ms.locfileid: "59459443"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
@@ -3129,7 +3171,7 @@ ms.locfileid: "59459443"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
