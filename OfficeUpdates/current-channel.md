@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 3bcfd5ef05f721637989231d9bd91b97f8dc417e
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 175fc1508013140def905fd380a0f6b3bce7be19
+ms.sourcegitcommit: f795bc778b99b6e808bfb5595221552046ac9d11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59349251"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "59994469"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,159 @@ ms.locfileid: "59349251"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2109-september-28"></a>版本 2109：9 月 28 日
+*版本 2109 (組建 14430.20234)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **存取協助工具的新方法：** 協助工具功能區將您所需、用來建立可存取內容的所有工具放置在同一個位置。<br />在[部落格文章](https://insider.office.com/en-us/blog/check-out-the-accessibility-checker-in-excel)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **政府雲端中 Teams 的 Bookings 應用程式 (中)：** GCC 中等環境中 Teams 的 Bookings 應用程式狀態
+
+- **Teams 會議之其他語言的 [即時文字記錄]：** 以其中一種支援的語言所召開的會議現在會受到 [即時文字記錄] 的支援。 我們已經從英文 (美國) 擴展至英文*、德文、法文 (法國)、法文 (加拿大)、西班牙文 (西班牙)、西班牙文 (墨西哥)、日文、葡萄牙文 (巴西)、荷蘭文、簡體中文、繁體中文、印地文、義大利文、韓文、俄文與瑞典文。
+
+- **PPT 共用上的新聞主播簡報者版面配置：** PPT 共用上的新聞主播簡報者版面配置
+
+
+- **Teams 會議中的問與答：** 將問與答應用程式新增至會議/網路研討會，以便在工作階段中新增仲裁或未仲裁的問與答。
+
+- **小組範本：** 在 Microsoft 提供之預先定義小組結構中使用其他應用程式與通道來重新整理至小組範本內容。
+
+- **Microsoft Teams 會議中的可延伸相機效果：** 利用我們的新平台產品，為 Microsoft Teams 會議建置身臨其境的體驗，在 Microsoft Teams 會議中為最終使用者提供增强的體驗
+
+- **來自相機的內容：** Teams 中的「來自相機的內容」讓使用者能够在會議期間以高品質和清晰可辨的方式共用實體製品 (如白板和文件) 中的內容。 使用此功能，授課者還可以在 Teams 通話期間直接共用文件相機中的內容。要使用此功能，使用者應擁有具有內建相機的膝上型電腦或可插入膝上型電腦/PC 的 USB 相機。 使用此功能時，相機應最好在 4 英呎範圍內指向檢視中的白板或文件。 若您沒有白板，仍然可以用掛圖或掛在牆上的圖表來測試此功能。
+
+- **適用于 VDI 的大型圖庫：** 大型圖庫功能可在 7x7=49 個使用者同時在 Teams 會議中進行視訊串流的情況下，使虛擬機器上的 Teams 會議參與者能够查看會議圖庫展開的檢視。
+
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。 目前 Microsoft 小組中新使用者的預設通知樣式是 Teams 紫色。 變更後, 新使用者的預設會變更為原生通知。
+
+- **Teams 政府雲端網路規劃中心:** 網路規劃中心可協助您決定及組織連線組織中所有 Microsoft Teams 使用者的網路需求。 提供網路詳細資料和 Teams 使用狀況時，網路規劃中心會計算在組織的實體位置間部署 Teams 與雲端語音的網路需求。
+
+- **適用於您個人生活的 Teams 會議的即時輔助字幕：** 個人 Teams 會議現在將有即時輔助字幕。
+
+- **釘選聊天訊息：** 現在，您可以輕鬆地釘選聊天訊息以提高意識，並讓您的聊天成員快速存取重要內容。 釘選將有助於您的小組及時了解相關資訊。
+
+- **支援 WVD 的人性化介面裝置：** 此功能將支援 WVD 小組使用人性化介面裝置 (HID)
+
+- **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日
+
+- **分組討論區簡報者支援：** 將分組討論區的管理延伸至特定簡報者。
+
+- **職涯教練 - 改進的協助工具與次要更新：** 職涯教練將收到有關複製和效能的次要更新。 該應用程式還將為鍵盤瀏覽和螢幕助讀程式提供更高等級的協助工具。
+
+- **Teams 聊天中的流體元件：** Teams 聊天中的流體元件可讓終端使用者傳送帶有可由内部所有人共同撰寫和編輯表格、動作項目或清單的訊息。
+
+- **Microsoft Teams：網路研討會通訊的網域自訂：** 在網路研討會通訊中展現組織的品牌。 將網路研討會電子郵件寄給出席者時，您的網域名稱現在會自動顯示在寄件者電子郵件中，讓出席者更容易識別。
+
+- **Microsoft Teams：自動化網路研討會邀請：** 設定並排程網路研討會時，網路研討會邀請現在會自動新增到出席者的行事曆。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正錯誤嘗試使用來自非 Office 應用程式的 DAO API 時，會停止回應並顯示訊息「作業系統目前未配置成執行此應用程式」的問題。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+### <a name="excel"></a>Excel
+
+- Excel 在非 MSI 的 Office 安裝中清除 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Common\UserInfo\Company 的值。 我們已修正主要影響使用非 MSI 版本 Office 客戶的問題。
+
+
+- 已解決 Excel 在下列情況下，可能會在計算活頁簿時停止回應的問題。
+
+
+- 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正將建立 [快速筆記] 的熱門金鑰更新為 Win + Alt + N 的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正造成 [會議室尋找工具] 無法載入的問題。
+
+
+- 我們已修正導致使用者能夠下載受保護的語音信箱檔案的問題。
+
+
+- 我們已修正會導致某些使用者在新增共用行事曆後遇到意外關閉的問題。
+
+
+- 我們已修正會導致 Outlook 使用者的「共用行事曆改良」功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修正會導致新增到「捷徑」模組的行事曆，在 Outlook 重新啟動後會消失的問題。
+
+
+- 我們已修正會導致使用者看到他們新增的共用行事曆預設未經過檢查，導致他們認為無法新增該行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+### <a name="skype"></a>Skype
+
+- 我們已修復在交談視窗中影片共用預覽會意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+
+
+- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+
+
+- 我們已修正插入線上影片按鈕被停用的問題。
+
+
+- 我們已修正在使用日文輸入法 (IME) 輸入平假名時，開啟 At Mention 人員選擇器時導致 IME 停止運作的問題。
+
+
+- 我們已修正從首頁 (Home) 索引標籤套用樣式時無法運作的問題。
+
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- 已修正 Outlook 中的自訂 VSTO 控制項在開啟和切換多個視窗和視圖之後停止運作的問題。
+
+
+- 我們修正了顯示以下錯誤「大聲朗讀沒有開始」的問題。
 
 
 
@@ -990,7 +1143,7 @@ ms.locfileid: "59349251"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1449,6 +1602,7 @@ ms.locfileid: "59349251"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
@@ -1458,5 +1612,4 @@ ms.locfileid: "59349251"
 [//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
-[//]: # (|Win32|CC|Production| |16.0.14026.20308|version-2105-june-18|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
