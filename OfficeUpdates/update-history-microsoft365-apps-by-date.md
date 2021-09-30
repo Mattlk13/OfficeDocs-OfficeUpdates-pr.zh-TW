@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: aded79ab66b3cd902af7257e08792a3d0b6da080
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 9e9ab7fcb420f262ef84ff48d90980944fe8aa49
+ms.sourcegitcommit: f795bc778b99b6e808bfb5595221552046ac9d11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59349311"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "59994459"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,12 +33,12 @@ ms.locfileid: "59349311"
 
 |**通道**|**版本**|**組建**|**發行日期**|**版本支援截止日**|
 |:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2108<br/>|14326.20404<br/>|2021 年 9 月 14 日<br/>|版本 2109 已推出<br/>|
+|目前通道<br/>|2109<br/>|14430.20234<br/>|2021 年 9 月 28 日<br/>|版本 2110 已推出<br/>|
 |每月企業通道<br/>|2107<br/>|14228.20324<br/>|2021 年 9 月 14 日<br/>|2021 年 11 月 9 日<br/>|
 |每月企業通道<br/>|2106<br/>|14131.20384<br/>|2021 年 9 月 14 日<br/>|2021 年 10 月 12 日<br/>|
 |半年企業通道 (預覽)<br/>|2108<br/>|14326.20404<br/>|2021 年 9 月 14 日<br/>|2022 年 3 月 8 日<br/>|
 |半年企業通道<br/>|2102<br/>|13801.20960<br/>|2021 年 9 月 14 日<br/>|2022 年 9 月 13 日<br/>|
-|半年企業通道<br/>|2008<br/>|13127.21766<br/>|2021 年 9 月 14 日<br/>|2022 年 3 月 8 日<br/>|
+|半年企業通道<br/>|2008<br/>|13127.21766<br/>|2021 年 9 月 13 日<br/>|2022 年 3 月 8 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -52,6 +52,7 @@ ms.locfileid: "59349311"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021 年|9 月 28 日|[版本 2109 (組建 14430.20234)](current-channel.md#version-2109-september-28)| | | |
 |2021 年|9 月 14 日|[版本 2108 (組建 14326.20404)](current-channel.md#version-2108-september-14)|[版本 2107 (組建 14228.20324)](monthly-enterprise-channel.md#version-2107-september-14)<br/>[版本 2106 (組建 14131.20384)](monthly-enterprise-channel.md#version-2106-september-14)|[版本 2108 (組建 14326.20404)](semi-annual-enterprise-channel-preview.md#version-2108-september-14)|[版本 2102 (組建 13801.20960)](semi-annual-enterprise-channel.md#version-2102-september-14)<br/>[版本 2008 (組建 13127.21766)](semi-annual-enterprise-channel.md#version-2008-september-14)|
 |2021 年|9 月 07 日|[版本 2108 (組建 14326.20348)](current-channel.md#version-2108-september-07)| | | |
 |2021 年|8 月 25 日|[版本 2108 (組建 14326.20238)](current-channel.md#version-2108-august-25)| | | |
