@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3d6eacd39e1e01827621afa16a9bd7b947cc295a
-ms.sourcegitcommit: 9212a937f99dabf11a36cf54cdbf7f01caf9b928
+ms.openlocfilehash: 1b5ce6501b5fc67c0b43764dd6883ea8eab152d4
+ms.sourcegitcommit: 40a42d2bdf5f9bfc49603ee0cc7cff28ed6b02e2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59772707"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60050750"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,65 @@ ms.locfileid: "59772707"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-october-01"></a>版本 2110：10 月 1 日
+*版本 2110 (組建 14527.20040)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了部分選取範圍中的列和欄標題色彩無法從深灰色主題中的魚缸色彩辨別的問題 (只有啟用 Fluent UI 即將推出切換的使用者才會出現此問題)。
+
+
+- 我們已修正使用者報告很難從 Office 淺色主題中未選取的索引標籤中，判斷已選取索引標籤的問題 (只有啟用 Fluent UI 即將推出切換的使用者才會出現此問題)。
+
+
+- 我們修正了 Excel 巨集語言中警示對話方塊未以適當類型顯示的問題。
+
+
+- 我們已修復此問題：其數字格式用於非英文區域系統設定的資料型別屬性值。
+
+
+- 我們已修復此問題：在某些情況下，在已啟用凍結窗格的工作表中，最上層的列可能會重複出現。
+
+
+- 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致 Outlook 使用者的共用行事曆改良功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修復代理人無法在排程助理員中查看召集人詳細資料的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在投影片放映中，子功能表在錯誤位置開啟的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修復文件出現並以閃爍動作消失的問題。
+
+
+- 我們已修復轉寄包含長影像 URL 的電子郵件無法顯示的問題。
+
+
+- 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Excel 現在對輸入事件有更多的控制項，且使用者可以明確決定何時要啟動 PTP 手勢的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-september-24"></a>版本 2110: 9 月 24 日
 *版本 2110 (組建 14517.20000)*
@@ -142,7 +201,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。此更新也會提供準確性改善和全球化支援。[深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
 
 ### <a name="outlook"></a>Outlook
 
@@ -150,11 +209,11 @@ ms.locfileid: "59772707"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。此更新也會提供準確性改善和全球化支援。[深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
 
 ### <a name="word"></a>Word
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。此更新也會提供準確性改善和全球化支援。[深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -496,9 +555,9 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **想要您的活頁簿提供您入門瀏覽指引嗎？：** 瞭解您活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！ [深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+- **想要活頁簿為您提供入門瀏覽指引嗎？：** 了解活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽！[深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
 
-- **享受改良的捲動體驗** ：當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。 [深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
+- **享受改良的捲動體驗：** 當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。[深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
 
 ### <a name="outlook"></a>Outlook
 
@@ -718,7 +777,7 @@ ms.locfileid: "59772707"
 
 - **使用您的語音搜尋：** 點一下或按一下搜尋欄中的麥克風，以在 Word 中使用您的聲音來尋找命令、內容等等。
 
-- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。 [深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。[深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
 
 - **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
@@ -1162,7 +1221,7 @@ ms.locfileid: "59772707"
 
 ### <a name="visio"></a>Visio
 
-- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。 [深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。[深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
 
 ### <a name="word"></a>Word
 
@@ -1244,7 +1303,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **從動態陣列匯入資料**：您現在可以從目前活頁簿中的動態陣列中，匯出、連結及重新整理資料。 [深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+- **從動態陣列匯入資料：** 您現在可以從目前活頁簿中的動態陣列中，匯出、製作及重新整理資料。[深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1322,7 +1381,7 @@ ms.locfileid: "59772707"
 
 ### <a name="word"></a>Word
 
-- **校訂現在可用於文件中的已選取文字：** 有了這些變更，您現在可以僅檢閲已選取文字的拼字、文法和其他智慧型撰寫建議。 此外，您還可以檢閲對整個文件的建議。
+- **校訂現在可用於文件中的已選取文字：** 有了這些變更，您現在可以僅檢閲已選取文字的拼字、文法和其他智慧型撰寫建議。此外，您也可以檢閱整份文件的建議。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1748,19 +1807,19 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1808,7 +1867,7 @@ ms.locfileid: "59772707"
 
 ### <a name="visio"></a>Visio
 
-- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
+- **適用於您的圖表的現成圖形：** 從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。[深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1972,19 +2031,19 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="outlook"></a>Outlook
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2036,7 +2095,7 @@ ms.locfileid: "59772707"
 
 ### <a name="word"></a>Word
 
-- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
+- **使用新式註解來改善共同作業：** 將註解新增至物件、@提及同事，並解決留言討論串，以獲得更佳的共同作業體驗。[深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2084,11 +2143,11 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
 ### <a name="visio"></a>Visio
 
-- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2294,7 +2353,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **改善條件式格式設定對話方塊：**[條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2424,19 +2483,19 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="word"></a>Word
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2979,19 +3038,19 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3040,7 +3099,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3349,7 +3408,7 @@ ms.locfileid: "59772707"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **PowerPoint 中改善的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。  您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
+- **改善 PowerPoint 中 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3443,7 +3502,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/9967afd8-85ee-4df3-aa06-753bcc1a2724)
 
 - **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。
 
@@ -3503,7 +3562,7 @@ ms.locfileid: "59772707"
 
 ### <a name="outlook"></a>Outlook
 
-- **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **最佳結果 - 立即出現：** 我們更新了搜尋體驗，讓它比以往更聰明、更快速，且更可靠。[深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
 
@@ -3737,7 +3796,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **在撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及的選擇器很煩人，一點都不好用？ 現在您可以視需要將其關閉了。
+- **在撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及選擇器很麻煩且不是很好用？現在您可以視需要將其關閉了。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3839,13 +3898,13 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 
 ### <a name="excel"></a>Excel
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3917,7 +3976,7 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -3999,11 +4058,11 @@ ms.locfileid: "59772707"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+- **針對網頁驗證 WiFi 網路的新體驗：** 您是否曾加入需要透過網頁登入的 WiFi 網路？Outlook 現在會偵測到這個情況，並協助您連線。
 
 ### <a name="word"></a>Word
 
-- **在繪圖工具箱中找到筆跡編輯器：** 選取 [繪圖]，然後選擇 [筆跡編輯器] 手寫筆以使用手指或數位筆編輯文件。 [深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
+- **在繪圖工具箱中尋找筆跡編輯：** 選取 [繪圖]，然後選擇 [筆跡編輯] 手寫筆，以使用手指或數位筆編輯文件。[深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -4097,6 +4156,7 @@ ms.locfileid: "59772707"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
@@ -4106,5 +4166,4 @@ ms.locfileid: "59772707"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14329.20000|version-2109-august-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14326.20004|version-2108-july-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14315.20008|version-2108-july-23|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
