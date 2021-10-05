@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: e22343f9c3b9011ea1a1ca95e13e2e287d743fc4
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 02eb55d92c3683382d82c508a9d4d47511a34b62
+ms.sourcegitcommit: 2f881cce1e0877391b47cc79f7587b3a0b95314b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273402"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "60126637"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -25,6 +25,14 @@ ms.locfileid: "59273402"
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="october-5-2021"></a>2021 年 10 月 5 日
+**Office 2016**<br/>
+Microsoft Access 2016 ([KB5001978](https://support.microsoft.com/help/5001978)) </br>
+Microsoft Office 2016 更新 ([KB3114524](https://support.microsoft.com/help/3114524)) </br>
+Microsoft Office 2016 更新 ([KB4462197](https://support.microsoft.com/help/4462197)) </br>
+Microsoft Office 2016 的更新（[KB4486711](https://support.microsoft.com/help/4486711)） </br>
+Microsoft Outlook 2016 的更新 ([KB5001998](https://support.microsoft.com/help/5001998)) </br>
 
 ## <a name="september-7-2021"></a>2021 年 9 月 7 日
 **Office 2016**<br/>
