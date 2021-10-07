@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ac297fe6554c69ed8065cf262fe221b9040649bf
-ms.sourcegitcommit: 951d4e8d1f9e93b3036a80376ee02f1e8375b931
+ms.openlocfilehash: 9fa7aafb7e05bea3b476246d71b4976bd60285ec
+ms.sourcegitcommit: 07686074b3e7c053eb092c0cf78faca6342cb796
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "59940675"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60134504"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,164 @@ ms.locfileid: "59940675"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-october-05"></a>版本 2110：10 月 05 日
+*版本 2110 (組建 14527.20072)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
+
+- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 Excel 的括住數字字元會顯示問號的問題。
+
+
+- 我們已修正使用者報告很難從 Office 淺色主題中未選取的索引標籤中，判斷已選取索引標籤的問題 (只有啟用 Fluent UI 即將推出切換的使用者才會出現此問題)。
+
+
+- 我們修正了部分選取範圍中的列和欄標題色彩無法從深灰色主題中的魚缸色彩辨別的問題 (只有啟用 Fluent UI 即將推出切換的使用者才會出現此問題)。
+
+
+- 我們修正了 Excel 巨集語言中警示對話方塊未以適當類型顯示的問題。
+
+
+- 我們已修復複製及貼上內容時出現記憶體不足警告的問題。
+
+
+- 我們已修復此問題：其數字格式用於非英文區域系統設定的資料型別屬性值。
+
+
+- 我們已修正少數 GCC-H 租用戶無法使用自動敏感度標籤的問題。
+
+
+- 我們已修復此問題：在某些情況下，在已啟用凍結窗格的工作表中，最上層的列可能會重複出現。
+
+
+- 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致儲存至硬碟的 HTML 電子郵件草稿變更為純文字格式的問題。
+
+
+- 我們已修正會導致某些使用者在新增共用行事曆後遇到意外關閉的問題。
+
+
+- 我們已修正在執行人員搜尋時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正在執行人員搜尋時，導致某些使用者遇到意外關閉的問題。
+
+
+- 我們已修正透過 [傳送至] 建立的郵件無法取得預設敏感度標籤的問題。
+
+
+- 我們已修正按兩下以儲存不受信任的附件時，無法儲存至網路位置的問題。
+
+
+- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
+
+
+- 我們已修正透過 [傳送至] 建立的郵件無法取得預設敏感度標籤的問題。
+
+
+- 我們已修復代理人無法在排程助理員中查看召集人詳細資料的問題。
+
+
+- 我們已修正某些使用者的框架控制視窗中已停用敏感度索引標籤的問題。
+
+
+- 我們已修正搜尋未包含來自線上封存信箱的項目的問題。
+
+
+- 我們已修正會導致 Outlook 使用者的共用行事曆改良功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修正會導致新增到「捷徑」模組的行事曆，在 Outlook 重新啟動後會消失的問題。
+
+
+- 我們已修正會導致使用者看到他們新增的共用行事曆預設未經過檢查，導致他們認為無法新增該行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在投影片放映中，子功能表在錯誤位置開啟的問題。
+
+
+- 我們已修復在另一個程式中貼上 PowerPoint 投影片時不會顯示墨水的問題。
+
+
+- 我們已修復此問題：嘗試為儲存至 OneDrive 或 SharePoint 的不受支援副檔名開啟檔案 AutoSave 會顯示 [共用] 對話方塊。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正了當企業編號自訂欄位更新時，如果小數分隔符號不是句號，企業資源會無法儲存的問題。
+
+
+- 我們已修復導致 Visual Basic 應用程式 (VBA) OrganizerMoveItem 方法，用來將自訂欄位資訊從一個專案移至另一個專案，使其在省略 Name 參數時無法正常運作的問題。
+
+
+- 當 [前置任務] 欄位變更時，BeforeTaskChange 事件會引發兩次；第二個事件也包含不正確的資訊。
+
+
+### <a name="word"></a>Word
+
+- 我們已修復導致儲存指示器停止回應的問題。
+
+
+- 我們已修正同步處理的檔案和本機備份的檔案中的變更無法同步處理及進度會遺失的問題。
+
+
+- 我們已修復在使用高 CPU 百分比時，Word 的回應變得緩慢的問題。
+
+
+- 我們已修正新式註解中自動校正無法運作的問題。
+
+
+- 我們已修復文件出現並以閃爍動作消失的問題。
+
+
+- 我們已修復轉寄包含長影像 URL 的電子郵件無法顯示的問題。
+
+
+- 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修復使用者無法在與具有讀取權限的 SharePoint 資料夾同步處理的資料夾中開啟 .xls/.ppt/.doc 檔案的問題。
+
+
+- 我們已修復 Excel 中在開始進行維護之前，會出現錯誤 ERROR_DISK_FULL 的問題。
+
+
+- 我們已修正符號字元在資料類型卡片中會錯誤顯示為底線的問題。
+
+
+- 我們已修正 Excel 現在對輸入事件有更多的控制項，且使用者可以明確決定何時要啟動 PTP 手勢的問題。
+
+
+- 我們已修復當播放動畫 GIF 時，會對電子郵件或文件中的輸入速度產生負面影響的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2109-september-27"></a>版本 2109：9 月 27 日
 *版本 2109 (組建 14430.20234)*
@@ -566,7 +724,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="word"></a>Word
 
-- **校訂現在可用於文件中的已選取文字：** 有了此變更，我們現在可以僅檢閲已選取文字的拼字、文法和其他智慧型撰寫建議。 此外，我們還可以檢閲對整個文件的建議。<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
+- **校訂現在可用於 [文件] 中的已選取文字：** 有了這些變更，我們現在可以僅檢閲已選取文字的拼字、文法和其他智慧型書寫建議。此外，我們也可以檢視整份文件的建議。<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -579,7 +737,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。 使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。
+- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -785,7 +943,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -817,7 +975,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。 [深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
+- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。[深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
 
 - **建立 Outlook.com 帳戶的連結：** 新增帳戶至 Outlook 時，視窗中會顯示 outlook.com 帳戶的連結。
 
@@ -885,19 +1043,19 @@ ms.locfileid: "59940675"
 
 - **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
-- **政府機關客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **政府客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
-- **政府機關客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **政府客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="word"></a>Word
 
 - **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存為其他檔案類型。
 
-- **政府機關客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **政府客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -978,7 +1136,7 @@ ms.locfileid: "59940675"
 
 ### <a name="visio"></a>Visio
 
-- 此超連結瀏覽問題現在已在最新組建中修正。 使用者可以使用 <CTRL> + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
+- 此超連結瀏覽問題現在已在最新組建中修正。使用者可以使用 <CTRL> + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
 
 
 ### <a name="word"></a>Word
@@ -1352,7 +1510,7 @@ ms.locfileid: "59940675"
 
 ### <a name="visio"></a>Visio
 
-- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。 [深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。[深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
 
 
 
@@ -1383,7 +1541,7 @@ ms.locfileid: "59940675"
 
 - **推出出席資料儀表板檢視**：您不再需要手動下載報告，Teams 現在可讓您按一下儀表板檢視即可檢視所有彙總資料
 
-- **應用程式的安全性、合規性和資料保護功能：** 對於 Microsoft 365 認證 Teams 應用程式，系統管理員可以在 Teams 系統管理中心應用程式詳細資料頁面的新索引標籤上檢視安全性、合規性和資料保護功能。 此透明度使得 Microsoft 客戶能夠信任其組織中執行的應用程式。
+- **應用程式的安全性、合規性和資料保護功能：** 對於 Microsoft 365 認證 Teams 應用程式，系統管理員可以在 Teams 系統管理中心應用程式詳細資料頁面的新索引標籤上檢視安全性、合規性和資料保護功能。此透明度使得 Microsoft 客戶能夠信任其組織中執行的應用程式。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1428,7 +1586,7 @@ ms.locfileid: "59940675"
 
 - **Teams 網路研討會與 Dynamics 365 Marketing 整合，以啟用潛在客戶培養：** 利用這項功能，網路研討會召集人可以運用 D365 Marketing 促進與報名者在活動後的參與。 出席者參與資料會與 D365 Marketin 組織同步，並啟用自動化的使用者旅程
 
-- **智慧型喇叭：** 智慧型喇叭是 Windows 上 Microsoft Teams 會議室的智慧周邊設備。 他們將為會議室中的參與者帶來歸屬於演講者的抄寫，讓出席者能減少記錄筆記的時間，並輕鬆追蹤在會議室中發言的人。
+- **智慧型喇叭：** 智慧型喇叭是 Windows 上 Microsoft Teams 會議室的智慧周邊設備。他們將為會議室中的參與者帶來歸屬於演講者的謄寫，讓出席者能減少記錄筆記的時間，並輕鬆追蹤在會議室中發言的人。
 
 - **讓 Teams 使用者能夠透過 Teams 用戶端購買 Teams 應用程式：** Teams 使用者現在可以從 Teams Store 購買 Teams 應用程式訂閱。
 
@@ -1537,11 +1695,11 @@ ms.locfileid: "59940675"
 
 - **從 PowerPoint 到 Teams 進行展示：** PowerPoint 應用程式直接透過 PowerPoint Live 將您的幻燈片展示到 Teams 會議。
 
-- **新的管理標籤體驗和其他增強功能：** Teams 中的標籤可讓使用者快速聯繫一組人員，而不需要 @mention 或輸入所有人。管理標籤體驗現在是一個索引標籤。標籤現在也有描述欄位，因此您可以在標籤中新增更多詳細資料。 新的標籤索引標籤將是標籤通知和搜尋標籤的登陸頁面，此網頁也即將推出。
+- **新的管理標籤體驗和其他增強功能：** Teams 中的標籤可讓使用者快速聯繫一組人員，而不需要 @mention 或輸入所有人。管理標籤體驗現在是一個索引標籤。標籤現在也有描述欄位，因此您可以在標籤中新增更多詳細資料。新的標籤索引標籤將是標籤通知和搜尋標籤的登入頁面，此網頁也即將推出。
 
-- **智慧型喇叭：** 智慧型喇叭是 Windows 上 Microsoft Teams 會議室的智慧周邊設備。 他們將為會議室中的參與者帶來歸屬於演講者的抄寫，讓出席者能減少記錄筆記的時間，並輕鬆追蹤在會議室中發言的人。
+- **智慧型喇叭：** 智慧型喇叭是 Windows 上 Microsoft Teams 會議室的智慧周邊設備。他們將為會議室中的參與者帶來歸屬於演講者的謄寫，讓出席者能減少記錄筆記的時間，並輕鬆追蹤在會議室中發言的人。
 
-- **針對新使用者將預設從 Teams 紫色變更為原生通知：** 原生通知提供許多優點，例如支援控制中心、協助工具、專注輔助模式支援等。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。 變更後，新使用者的預設值會變更為原生通知。
+- **針對新使用者將預設從 Teams 紫色變更為原生通知：** 原生通知提供許多優點，例如支援控制中心、協助工具、專注輔助模式支援等。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1766,7 +1924,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **從動態陣列匯入資料**：您現在可以從目前活頁簿中的動態陣列中，匯出、連結及重新整理資料。 [深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+- **從動態陣列匯入資料：** 您現在可以從目前活頁簿中的動態陣列中，匯出、製作及重新整理資料。[深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2043,7 +2201,7 @@ ms.locfileid: "59940675"
 
 ### <a name="visio"></a>Visio
 
-- **Office 圖示有新的外觀：** 產品圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。 [深入了解](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+- **Office 圖示有新的外觀：** 產品圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。[深入了解](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
 
 ### <a name="word"></a>Word
 
@@ -2384,7 +2542,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="teams"></a>Teams
 
-- **Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器上的 2x2 影片** 使用者可以在 Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器中的 Teams 會議中查看最多 4 個參與者的影片。 [深入了解](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+- **Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器上的 2x2 影片** 使用者可以在 Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器中的 Teams 會議中查看最多 4 個參與者的影片。[深入了解](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2532,20 +2690,20 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)。
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)。
 
 
 ### <a name="word"></a>Word
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 
 ### <a name="resolved-issues"></a>解決的問題
@@ -2635,7 +2793,7 @@ ms.locfileid: "59940675"
 
 - **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **改善條件式格式設定對話方塊：**[條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2815,21 +2973,21 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="outlook"></a>Outlook
 
-- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2891,18 +3049,18 @@ ms.locfileid: "59940675"
 - **Citrix 與 VMWare VDI 的 Teams 會議 2X2 圖庫檢視：** Teams 用戶端在 VDI 最佳化模式中時，Teams 的 VDI 2x2 圖庫檢視功能會啟用，可讓您在 2x2 圖庫中檢視 Citrix、VMWare 之 VDI 用戶端的最多四個出席者影片。
 
 
-- **會議反應：**  會議反應是在會議中互動的新方式。 參與者可以傳送以時間列表顯示的反應，其出現的地點為正在共用的內容上，以及有在會議階段上顯示之傳送反應的個人上。 
+- **會議反應：** 會議反應是在會議中互動的新方式。參與者可以傳送以時間列表顯示的反應，其出現的地點為正在共用的內容上，以及有在會議階段上顯示之傳送反應的個人上。 
 
 
 - **Web 會議的共聚模式和大型圖庫** 大型圖庫可讓您一次看到最多 49 個其他人員的影片。 當至少 10 人開啟相機時，即可使用此選項。 共聚模式可讓您感覺與會議中每個人處於相同的共用空間。 當會議中至少有五個人時，即可使用共聚模式。 
 
 
-- **通話合併** 通話合併可讓使用者將其撥打的新通話，或新來電合併到其 1 對 1 或群組通話中。 這適用於Teams VOIP 通話和 PSTN 通話。 
+- **通話合併** 通話合併可讓使用者將其撥打的新通話，或新來電合併到其 1 對 1 或群組通話中。這適用於 Teams VOIP 通話和 PSTN 通話。 
 
 
 ### <a name="visio"></a>Visio
 
-- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3324,15 +3482,15 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
@@ -3340,7 +3498,7 @@ ms.locfileid: "59940675"
 
 ### <a name="word"></a>Word
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3698,7 +3856,7 @@ ms.locfileid: "59940675"
 
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -3710,13 +3868,13 @@ ms.locfileid: "59940675"
 
 - **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -3734,7 +3892,7 @@ ms.locfileid: "59940675"
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -3943,7 +4101,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **使用 Excel 手寫筆進行快速編輯：**[手寫筆工具] 可協助您手寫並快速編輯資料
 
@@ -4228,7 +4386,7 @@ ms.locfileid: "59940675"
 
 ### <a name="word"></a>Word
 
-- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
+- **使用新式註解來改善共同作業：** 將註解新增至物件、@提及同事，並解決留言討論串，以獲得更佳的共同作業體驗。[深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4268,7 +4426,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4455,7 +4613,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看詳細資料
 
@@ -4588,7 +4746,7 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改善的 PowerPoint 中的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立出流暢的觀賞體驗。 您可以使用 Microsoft Stream 上您的公司影片來建立更完善的簡報。
+- **改善 PowerPoint 中 Steam 影片效能：** 我們已改善 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
 ### <a name="word"></a>Word
 
@@ -5045,9 +5203,9 @@ ms.locfileid: "59940675"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **最佳結果 - 立即出現：** 我們更新了搜尋體驗，讓它比以往更聰明、更快速，且更可靠。[深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -5141,7 +5299,7 @@ ms.locfileid: "59940675"
 
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及的選擇器很煩人，一點都不好用？ 現在您可以視需要將其關閉了。
+- **在 Outlook 中撰寫郵件時，有新選項可停用 @ 提及建議：** 您是否覺得 @ 提及選擇器很麻煩且不是很好用？現在您可以視需要將其關閉了。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -5476,13 +5634,13 @@ ms.locfileid: "59940675"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 </br>
 
 ### <a name="resolved-issues"></a>解決的問題
@@ -5650,7 +5808,7 @@ ms.locfileid: "59940675"
 
 ### <a name="outlook"></a>Outlook
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+- **針對網頁驗證 WiFi 網路的新體驗：** 您是否曾加入需要透過網頁登入的 WiFi 網路？Outlook 現在會偵測到這個情況，並協助您連線。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
