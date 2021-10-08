@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 175fc1508013140def905fd380a0f6b3bce7be19
-ms.sourcegitcommit: f795bc778b99b6e808bfb5595221552046ac9d11
+ms.openlocfilehash: 75b06b02434f95fca90bb96afe66bbf3084384da
+ms.sourcegitcommit: 31f8e1a5b59543e94714126abe0a6224b34929ad
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "59994469"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60148716"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,20 @@ ms.locfileid: "59994469"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2109-october-06"></a>版本 2109：10 月 06 日
+*版本 2109 (組建 14430.20276)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
 
 
 
@@ -265,7 +279,7 @@ ms.locfileid: "59994469"
 
 - **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
 
-- **Teams 會議之其他語言的 [即時輔助字幕]：** 以其中一種支援的語言所召開的會議現在會受到即時輔助字幕的支援。 我們已從只提供英語 (US)，擴充為包含英文 (加拿大)、英文 (印度)、英文 (英國)、英文 (澳大利亞)、英文 (國際)、Deutsch (Deutschland)、Português (巴西)、Nederlands (Nederland)、Nederlands (比利時)、Français (法國)、Español (España, alfabetización internacional)、日本語 (日本)、Français (法國)、中文 (粵語 (傳統中文))、中文 (簡體中文)、印度文 (印度)、義大利文 (義大利)、韓文 (韓國)、西班牙文 (墨西哥)、瑞典文 (瑞典)、波蘭文 (波蘭)、阿拉伯文 (阿拉伯聯合大公國)、阿拉伯文 (沙烏地阿拉伯)。
+- **Teams 會議之其他語言的 [即時輔助字幕]：** 以其中一種支援的語言所召開的會議現在會受到即時輔助字幕的支援。我們已從只提供英語 (US)，擴充為包含英文 (加拿大)、英文 (印度)、英文 (英國)、英文 (澳大利亞)、英文 (國際)、Deutsch (Deutschland)、Português (巴西)、Nederlands (Nederland)、Nederlands (比利時)、Français (法國)、Español (España, alfabetización internacional)、日本語 (日本)、Français (法國)、中文 (粵語 (傳統中文))、中文 (簡體中文)、印度文 (印度)、義大利文 (義大利)、韓文 (韓國)、西班牙文 (墨西哥)、瑞典文 (瑞典)、波蘭文 (波蘭)、阿拉伯文 (阿拉伯聯合大公國)、阿拉伯文 (沙烏地阿拉伯)。
 
 - **將 Teams 會議串流至自訂 RTMP 端點：** 串流流讓貴組織擴展您的連絡範圍，並提供會議參與者更多會議選項。 當您啟用串流時，召集人可以透過提供即時訊息協定 (RTMP) URL 及 Teams 中內建 [自訂串流] 應用程式的金鑰，將會議和網路研討會串流送至外部端點。
 
@@ -299,7 +313,7 @@ ms.locfileid: "59994469"
 
 - **DOD 中 [錯過活動的電子郵件]：** 錯過活動的電子郵件可讓使用者全面掌握 Microsoft 團隊。 當使用者不在 Microsoft 團隊且尚未檢閱其通知時，就會產生錯過活動的電子郵件。 使用者可以移至 [設定] -> [通知] -> [選擇頻率] 來選擇接收 [錯過活動的電子郵件]。
 
-- **[搜尋自動建議] 中的熱門點閱：** 熱門點閱是搜尋中自動建議結果頂端的新區段，使用者可以在此查看所有人員、聊天、檔案等最相關的結果。 這項功能會改善探索，並縮短搜尋時間。
+- **[搜尋自動建議] 中的熱門點閱：** 熱門點閱是搜尋中自動建議結果頂端的新區段，使用者可以在此查看所有人員、聊天、檔案等最相關的結果。這項功能會改善探索，並縮短搜尋時間。
 
 - **Teams 應用程式的 [管理裝置權限]：** 個人化權限以在每個應用程式內使用相機、位置及其他功能。
 
@@ -495,7 +509,7 @@ ms.locfileid: "59994469"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -911,11 +925,11 @@ ms.locfileid: "59994469"
 
 ### <a name="visio"></a>Visio
 
-- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
+- **適用於您的圖表的現成圖形：** 從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。[深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
 
 ### <a name="word"></a>Word
 
-- **以新式註解更輕鬆地進行共同作業：** 新增註解到物件、@提及 同事，並解決註解執行緒，以獲得更佳的共同作業體驗。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
+- **使用新式註解來改善共同作業：** 將註解新增至物件、@提及同事，並解決留言討論串，以獲得更佳的共同作業體驗。[深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
 
 - **Word 文件的深色模式：** 深色模式有助於減輕眼睛疲勞，並可在處理文件時適應對光線的敏感度。<br />在[部落格文章](https://insider.office.com/en-us/blog/try-dark-mode-in-word)中查看詳細資料
 
@@ -1070,7 +1084,7 @@ ms.locfileid: "59994469"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1086,15 +1100,15 @@ ms.locfileid: "59994469"
 
 - **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="teams"></a>Teams
 
-- **會議反應：** 會議反應是在會議中互動的新方式。 參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
+- **會議反應：** 會議反應是在會議中互動的新方式。參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
 
 - **在 Teams 會議中管理出席者音訊權限的改進：** 即使在出席者沒有舉手的情況下，會議簡報者和召集人現在可以允許出席者取消靜音。 以前，被禁止取消靜音 (停用麥克風) 的出席者必須舉手才能取消靜音。
 
@@ -1116,7 +1130,7 @@ ms.locfileid: "59994469"
 
 - **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1272,7 +1286,7 @@ ms.locfileid: "59994469"
 
 - **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **改善條件式格式設定對話方塊：**[條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
@@ -1297,7 +1311,7 @@ ms.locfileid: "59994469"
 
 - **使用 Microsoft Forms 讓會議參與者投票：** Teams 會議的投票是可輕鬆探索且順暢的體驗，可協助您進行更吸引人且更具生產力的會議。 利用由 Microsoft Forms 提供支援的「投票」功能，會議簡報者可以分別在會議之前、期間和之後準備、啟動及評估投票，這一切都可以在 Teams 會議的一個索引標籤下進行。 身為會議簡報者，您可以將 Forms 應用程式新增為 Teams 會議中的索引標籤，然後從一個位置建立、啟動及評估您的投票。 建立投票以在會議期間啟動，甚至在會議開始之前啟動。 然後，在會議之後，您可以選擇在索引標籤中、在匯出的 Excel 活頁簿或在 Forms 應用程式的網頁上評估回應。 簡報者有各種不同的控制項，例如啟用匿名回應、關閉投票，以及將結果匯出至 Excel。 來自任何端點 (行動裝置、網頁、桌面) 的出席者可以在投票出現在會議畫面或會議聊天中時檢視和回答投票，以及即時查看非匿名的投票結果。
 
-- **會議反應：** 會議反應是在會議中互動的新方式。 參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
+- **會議反應：** 會議反應是在會議中互動的新方式。參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
 
 - **桌面用戶端的歷程記錄功能表：** Teams 桌面用戶端中的歷程記錄功能表，可讓您輕鬆回到最近瀏覽過的位置。 只要將游標停留在桌面用戶端的下一頁或上一頁瀏覽選項上，然後選取位置即可。 也可使用鍵盤快速鍵來開啟功能表。
 
@@ -1417,33 +1431,33 @@ ms.locfileid: "59994469"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
 - **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
 
-- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其檔案和電子郵件上的靈敏度標籤時，Office 會將稽核資料發送到 M365 稽核後端，供系統管理員查看。 此項幕後功能 (無 UI) 為系統管理員權益。
+- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1545,7 +1559,7 @@ ms.locfileid: "59994469"
 
 ### <a name="visio"></a>Visio
 
-- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1602,6 +1616,7 @@ ms.locfileid: "59994469"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
@@ -1611,5 +1626,4 @@ ms.locfileid: "59994469"
 [//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
-[//]: # (|Win32|CC|Production| |16.0.14131.20278|version-2106-june-29|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
