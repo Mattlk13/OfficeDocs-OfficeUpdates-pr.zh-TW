@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1b5ce6501b5fc67c0b43764dd6883ea8eab152d4
-ms.sourcegitcommit: 40a42d2bdf5f9bfc49603ee0cc7cff28ed6b02e2
+ms.openlocfilehash: bb6a09a0b05b389a99e37557d11f95ceeadf73da
+ms.sourcegitcommit: 048568e6fa7dded4836d9239e6fdd2b87cbf054e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2021
-ms.locfileid: "60050750"
+ms.lasthandoff: 10/08/2021
+ms.locfileid: "60244775"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,54 @@ ms.locfileid: "60050750"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-october-08"></a>版本 2111: 10 月 8 日
+*版本 2111 (組建 14530.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **更新連絡人卡片中的相片連結：** 在您自己的連絡人卡片中顯示更新相片連結
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在公式中使用儲存格參照導致使用者遇到高 CPU 使用量的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用拖放來重新排序項目符號清單項目的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正當使用者選取 [檔案] > [另存新檔] 時，應用程式停止回應的問題。
+
+
+- 我們已修正當使用者在聽寫註解回覆並按一下註解文字時，應用程式會意外關閉的問題。
+
+
+- 我們已修正大聲朗讀播放有時候會跳至文件中隨機位置的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正更新停止回應的問題。 此更新會如預期開啟軟體中心；它會啟動「下載並申請」階段，但會停止回應，並出現錯誤: 0x87d00668 (「軟體更新在套用之後仍偵測為可採取動作」)。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-october-01"></a>版本 2110：10 月 1 日
 *版本 2110 (組建 14527.20040)*
@@ -4156,6 +4204,7 @@ ms.locfileid: "60050750"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
@@ -4165,5 +4214,4 @@ ms.locfileid: "60050750"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14329.20000|version-2109-august-06|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14326.20004|version-2108-july-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

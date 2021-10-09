@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 75b06b02434f95fca90bb96afe66bbf3084384da
-ms.sourcegitcommit: 31f8e1a5b59543e94714126abe0a6224b34929ad
+ms.openlocfilehash: d005da6d336cd8f29ff07e35a153e0ab75acbaea
+ms.sourcegitcommit: ba641db99bb4ad00119cba0025b4d66dcd230fa8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60148716"
+ms.lasthandoff: 10/07/2021
+ms.locfileid: "60225979"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,20 @@ ms.locfileid: "60148716"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2109-october-06"></a>版本 2109：10 月 06 日
+*版本 2109 (組建 14430.20270)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
 
 
 
@@ -77,7 +91,7 @@ ms.locfileid: "60148716"
 
 - **適用于 VDI 的大型圖庫：** 大型圖庫功能可在 7x7=49 個使用者同時在 Teams 會議中進行視訊串流的情況下，使虛擬機器上的 Teams 會議參與者能够查看會議圖庫展開的檢視。
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。 目前 Microsoft 小組中新使用者的預設通知樣式是 Teams 紫色。 變更後, 新使用者的預設會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **Teams 政府雲端網路規劃中心:** 網路規劃中心可協助您決定及組織連線組織中所有 Microsoft Teams 使用者的網路需求。 提供網路詳細資料和 Teams 使用狀況時，網路規劃中心會計算在組織的實體位置間部署 Teams 與雲端語音的網路需求。
 
@@ -1157,7 +1171,7 @@ ms.locfileid: "60148716"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1616,6 +1630,7 @@ ms.locfileid: "60148716"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
@@ -1625,5 +1640,4 @@ ms.locfileid: "60148716"
 [//]: # (|Win32|CC|Production| |16.0.14228.20226|version-2107-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
 [//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
-[//]: # (|Win32|CC|Production| |16.0.14131.20320|version-2106-july-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
