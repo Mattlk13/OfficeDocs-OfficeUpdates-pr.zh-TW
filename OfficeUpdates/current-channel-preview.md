@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9fa7aafb7e05bea3b476246d71b4976bd60285ec
-ms.sourcegitcommit: 07686074b3e7c053eb092c0cf78faca6342cb796
+ms.openlocfilehash: ea7e9b4f4b9961fc7a2bf9cdf2f590bb6067587d
+ms.sourcegitcommit: 71cfd667058b83c029498c16117f34b0c89a752b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "60134504"
+ms.lasthandoff: 10/11/2021
+ms.locfileid: "60266667"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,33 @@ ms.locfileid: "60134504"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-october-11"></a>版本 2110：10 月 11 日
+*版本 2110 (組建 14527.20128)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
+
+
+- 我們修正了導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
+
+
+- 我們修正了預覽會議邀請時導致約會快速模式被裁掉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-october-05"></a>版本 2110：10 月 05 日
 *版本 2110 (組建 14527.20072)*
@@ -2138,7 +2165,7 @@ ms.locfileid: "60134504"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
