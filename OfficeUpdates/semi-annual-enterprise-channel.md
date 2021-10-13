@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 0c0b8a43f526a4bdd03028ae23ace0e4794410c4
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: ce702d5afa535ba65eb5f90a3e87620d1f3a17d4
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59349519"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275320"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -26,6 +26,43 @@ ms.locfileid: "59349519"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-october-12"></a>版本 2102: 10 月 12 日
+*版本 2102 (組建 13801.21004)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已解決 Excel 在下列情況下，可能會在計算活頁簿時停止回應的問題。
+
+
+- Excel 在非 MSI 的 Office 安裝中清除 HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Common\UserInfo\Company 的值。 我們已修正主要影響使用非 MSI 版本 Office 客戶的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正 Word 有時會在文字周圍顯示不應該出現的框線的問題。
+
+
+- 已修正當特殊字型旋轉 90 度時，特殊字型的字元間距增加問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Office 應用程式報告可靠性問題的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-october-12"></a>版本 2008: 10 月 12 日
+*版本 2008 (組建 13127.21792)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2102-september-14"></a>版本 2102：9 月 14 日
 *版本 2102 (組建 13801.20960)*
@@ -157,7 +194,7 @@ ms.locfileid: "59349519"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看詳細資料
 
@@ -165,9 +202,9 @@ ms.locfileid: "59349519"
 
 - **[筆跡工具箱] 中的 [套索工具] 和 [橡皮擦]:** 使用繪圖工具時，[筆跡工具箱] 現在提供 [套索工具] 和 [橡皮擦] 功能。<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
 
-- **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表**：在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
@@ -177,9 +214,9 @@ ms.locfileid: "59349519"
 
 ### <a name="outlook"></a>Outlook
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **搜尋具有會議所需特定特性的會議室：** 根據您的群組大小、您需要的功能，以及位於容量、功能和樓面欄位下的樓層篩選會議室。
 
@@ -187,7 +224,7 @@ ms.locfileid: "59349519"
 
 - **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並檢視電子郵件中的結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **以您說話的方式搜尋：** 使用日常語言如「上週獸醫的預約」來篩選和縮小搜尋範圍。 [深入了解](https://support.office.com/article/0c819cb0-980c-47c3-8e67-5c4fec6b6b87)
+- **以您說話的方式搜尋：** 使用日常語言如「上週獸醫的預約」來篩選和縮小搜尋範圍。[深入了解](https://support.office.com/article/0c819cb0-980c-47c3-8e67-5c4fec6b6b87)
 
 - **快速重新開啟上一個工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。 不管 Outlook 當機或您將其關閉，您現在可以在重新開啟應用程式時快速重新啟動項目。 這項功能預設為啟用。 若要將它關閉，請移至 [選項] > [一般] > [啟動選項]。
 
@@ -195,21 +232,21 @@ ms.locfileid: "59349519"
 
 - **所有繪圖工具都位於同一個位置：** 我們已更新[繪圖] 索引標籤手寫筆工具箱，以包含套索和橡皮擦，將您用於筆墨的工具結合在一起。<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
-- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
-- **[筆跡工具箱] 中的 [套索工具] 和 [橡皮擦]：** 使用繪圖工具時，[筆跡工具箱] 現在提供 [套索工具] 和 [橡皮擦] 功能。 [深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
+- **[筆跡工具箱] 中的 [套索工具] 和 [橡皮擦]:** 使用繪圖工具時，[筆跡工具箱] 現在提供 [套索工具] 和 [橡皮擦] 功能。[深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -942,7 +979,7 @@ ms.locfileid: "59349519"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -950,7 +987,7 @@ ms.locfileid: "59349519"
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1062,7 +1099,7 @@ ms.locfileid: "59349519"
 
 - **在查詢設計工具、SQL 檢視和關聯視窗中工作時更具生產力：** 在資料表上按一下滑鼠右鍵即可開啟、設計、調整大小及隱藏它。 在 SQL 檢視中搜尋及取代文字。 在 [關聯圖] 視窗中選取多個資料表。
 
-- **按幾下就能新增資料表：** 使用 [新增資料表] 工作窗格，當您工作時，該窗格會保持開啟狀態，以便將資料表新增至關聯和查詢。 [深入了解](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- **按幾下就能新增資料表：** 使用 [新增資料表] 工作窗格，當您工作時，該窗格會保持開啟狀態，以便將資料表新增至關聯和查詢。[深入了解](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 ### <a name="excel"></a>Excel
 
@@ -1070,7 +1107,7 @@ ms.locfileid: "59349519"
 
 - **RealTimeData (RTD) 的改進** 在 Office 365 版本 2002 的每月通道或更新版本中，Excel RealTimeData (RTD) 函數速度快于 Excel 2010 計算試算表中的資料。 我們在其基礎記憶體和資料結構中移除了瓶頸，並使其成為安全執行緒，讓它可在多執行緒重新計算 (MTR) 的所有可用執行緒上計算。
 
-- **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **改善地圖圖表**：我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。[深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
@@ -1078,7 +1115,7 @@ ms.locfileid: "59349519"
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
-- **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
+- **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。[深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
 
 - **共用行事曆更新的速度更快：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽以更快且更可靠地更新共用行事曆。
 
@@ -1086,29 +1123,29 @@ ms.locfileid: "59349519"
 
 - **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選至 To-Do 窗格之後，託管於 Exchange Server 2019 或 Exchange Online 上的使用者帳戶，只要按一下即可加入任何會議。 [深入了解](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
+- **針對網頁驗證 WiFi 網路的新體驗：** 您是否曾加入需要透過網頁登入的 WiFi 網路？Outlook 現在會偵測到這個情況，並協助您連線。<br />在[部落格文章](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)中查看詳細資料
 
-- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。[深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
-- **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **最佳結果 - 立即出現：** 我們更新了搜尋體驗，讓它比以往更聰明、更快速，且更可靠。[深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[部落格文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看詳細資料
 
-- **投影片連結:** 要求同事參與製作您的投影片組，讓他們直接在您需要協助的投影片上開始進行。 [深入了解](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)<br />在[部落格文章](https://blog-insider.office.com/2020/02/12/share-a-link-to-a-specific-slide/)中查看詳細資料
+- **投影片連結:** 要求同事參與製作您的投影片組，讓他們直接在您需要協助的投影片上開始進行。[深入了解](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)<br />在[部落格文章](https://blog-insider.office.com/2020/02/12/share-a-link-to-a-specific-slide/)中查看詳細資料
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
-- **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **改善地圖圖表**：我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。[深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **更好的圖表：** 使用更完善的連接線和更平滑的筆跡轉換程式，您可以自信地用筆跡繪製您的想法。 [深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **更好的圖表：** 使用更完善的連接線和更平滑的筆跡轉換程式，您可以自信地用筆跡繪製您的想法。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- **改善的 PowerPoint 中的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立出流暢的觀賞體驗。 您可以使用 Microsoft Stream 上您的公司影片來建立更完善的簡報。
+- **改善 PowerPoint 中 Steam 影片效能：** 我們已改善 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
 - **使用 \@ 提及取得他人注意** 在註解中使用 @ 提及功能讓同事知道您需要他們提供建議。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 
-- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。 [深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
+- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。[深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
 
 - **註解：** PowerPoint 中新增的註解體驗可讓您快速輕鬆地探索文件並新增註解。 使用註解錨定、解析、任務、已改進的提及通知等新功能使您的共同作業工作流程現代化。 [深入了解](https://support.office.com/article/c0aa37bb-82cb-414c-872d-178946ff60ec)
 
@@ -1118,7 +1155,7 @@ ms.locfileid: "59349519"
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
-- **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **改善地圖圖表**：我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。[深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **螢幕閱讀器的動作確認：** 確認動作是重要的協助工具要求。 隨著 Windows 引入新的通知 API 之後，我們現在就能通知螢幕助讀程式使用者的動作成功。 [剪下]、[複製]、[貼上]、[粗體]、[畫底線]、[復原]、[重做]、[自動校正] 和 [自動大小寫] 等功能都已公布給 Win32 Word 的朗讀程式使用者。 若要啟用此功能，請按 windows + ctrl + enter 以開啟朗讀程式。<br />在[部落格文章](https://blog-insider.office.com/2020/06/05/confirmation-of-action-in-word-for-windows/)中查看詳細資料
 
@@ -1310,7 +1347,7 @@ ms.locfileid: "59349519"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。  請參閱此處的更多詳細資訊： https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/
+- 我們已修正選用連線體驗導致網頁增益集無法載入的問題。於此處查看詳情：https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/
 
 
 - 我們已修正一個問題，使用者現在可以停用 Outlook 的 IRM (資訊版權管理)，而不需要為其餘 Office 應用程式停用它。
@@ -1781,6 +1818,7 @@ ms.locfileid: "59349519"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20864|version-2102-august-10|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20808|version-2102-july-13|)
@@ -1790,5 +1828,4 @@ ms.locfileid: "59349519"
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
-[//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

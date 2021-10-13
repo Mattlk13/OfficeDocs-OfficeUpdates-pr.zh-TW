@@ -12,12 +12,12 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: eaf433d25fee013316e143f3c1beef45c2ace997
-  ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+  ms.openlocfilehash: 76a9d64ba65b5d47eff81c272202f70165abc286
+  ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 03/24/2021
-  ms.locfileid: "51170222"
+  ms.lasthandoff: 10/12/2021
+  ms.locfileid: "60275501"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
@@ -35,9 +35,9 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: 版本資訊 (Microsoft 365，2019)
+    - text: 版本資訊(Microsoft 365, 2019, 2021)
       url: release-notes-office-for-mac.md
-    - text: 更新歷程記錄 (Microsoft 365，2019)
+    - text: 更新歷程記錄 (Microsoft 365, 2019, 2021)
       url: update-history-office-for-mac.md
     - text: 版本資訊 (2016)
       url: release-notes-office-2016-mac.md
@@ -59,14 +59,14 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
+    - text: Office LTSC 2021 和 Office 2021 (C2R)
+      url: update-history-office-2021.md
     - text: Office 2016 和 2019 (C2R)
       url: update-history-office-2019.md
-    - text: Office 2010、2013 和 2016 更新 (MSI)
+    - text: Office 2013 和 2016 更新 (MSI)
       url: office-updates-msi.md
-    - text: Office 2016 .msp 檔案
-      url: msp-files-office-2016.md
-    - text: Office 2013 .msp 檔案
-      url: msp-files-office-2013.md
+    - text: Office 非安全性更新 (MSI)
+      url: office-MSI-non-security-updates.md
 - title: 其他 Office 資源
   linkLists:
   - linkListType: whats-new

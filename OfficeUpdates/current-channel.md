@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: d005da6d336cd8f29ff07e35a153e0ab75acbaea
-ms.sourcegitcommit: ba641db99bb4ad00119cba0025b4d66dcd230fa8
+ms.openlocfilehash: 7addc8d22d2c066ef65fd36dfe934a86b93ccb98
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60225979"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275370"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,14 @@ ms.locfileid: "60225979"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2109-october-12"></a>版本 2109: 10 月 12 日
+*版本 2109 (組建 14430.20298)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2109-october-06"></a>版本 2109：10 月 06 日
 *版本 2109 (組建 14430.20270)*
 
@@ -43,22 +51,6 @@ ms.locfileid: "60225979"
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
-
-
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
-## <a name="version-2109-october-06"></a>版本 2109：10 月 06 日
-*版本 2109 (組建 14430.20276)*
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="resolved-issues"></a>解決的問題
-### <a name="outlook"></a>Outlook
-
-- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
-
-
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -1630,6 +1622,7 @@ ms.locfileid: "60225979"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
@@ -1639,5 +1632,4 @@ ms.locfileid: "60225979"
 [//]: # (|Win32|CC|Production| |16.0.14228.20250|version-2107-august-10|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20226|version-2107-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
-[//]: # (|Win32|CC|Production| |16.0.14131.20332|version-2106-july-20|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

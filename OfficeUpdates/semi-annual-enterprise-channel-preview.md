@@ -9,17 +9,44 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: d425610d2cd8f01d33cec4523d99937583d04265
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 53f32e7a08b5e6bb329bbd7ad30c8f03d552535c
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59349509"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275300"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
+
+## <a name="version-2108-october-12"></a>版本 2108: 10 月 12 日
+*版本 2108 (組建 14326.20508)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 已解決 Excel 在少數情況下，可能會在計算活頁簿時停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在將行事曆新增至功能窗格，導致某些使用者遇到停止回應的問題。
+
+
+- 我們已修正會導致 Outlook 使用者的「共用行事曆改良」功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修正會導致新增到「捷徑」模組的行事曆，在 Outlook 重新啟動後會消失的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2108-september-14"></a>版本 2108：9 月 14 日
 *版本 2108 (組建 14326.20404)*
@@ -32,25 +59,25 @@ ms.locfileid: "59349509"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **自動使用新的資料類型**：當您輸入的資料值類似股票或地理位置時，Excel 會將該值轉換為正確的連結資料類型 - 股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自動使用新的資料類型**：當您輸入類似股票或地理位置的資料值時，Excel 會將它轉換為成正確的連線資料類型 - 股票或地理位置。。[深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
 - **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **改善條件式格式設定對話方塊：**[條件式格式設定] 對話方塊現在可以調整大小，且現在您只要按一下就能複製規則。 [深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 - **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -60,7 +87,7 @@ ms.locfileid: "59349509"
 
 - **焦點收件匣設定在不同裝置之間會保持相同：** 您的焦點收件匣喜好設定現在會儲存在雲端。 這麼一來，當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時便可享有相同的體驗。 [深入了解](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
@@ -68,7 +95,7 @@ ms.locfileid: "59349509"
 
 - **挑選搜尋的位置：** 新的搜尋範圍下拉式清單，可讓您更輕鬆地修改搜尋，並在目前資料夾和目前信箱之間切換。 感謝每個在 [即將推出] 為 [頂極體驗] 的 新 [搜尋] 提供意見反應的人。 因為有這份意見反應，才有這項設計與更新！
 
-- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
@@ -81,19 +108,19 @@ ms.locfileid: "59349509"
 
 - **共用至 Teams：** 將 Outlook 的郵件與 Teams 中的某個人員或頻道共用。
 
-- **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。 [深入了解](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+- **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。[深入了解](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 - **建立 Outlook.com 帳戶的連結：** 將帳戶新增至 Outlook 時，視窗中會顯示建立新的 outlook.com 帳戶的連結。
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
@@ -103,15 +130,15 @@ ms.locfileid: "59349509"
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
@@ -121,9 +148,9 @@ ms.locfileid: "59349509"
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -860,7 +887,7 @@ ms.locfileid: "59349509"
 
 - **[筆跡工具箱] 中的 [套索工具] 和 [橡皮擦]:** 使用繪圖工具時，[筆跡工具箱] 現在提供 [套索工具] 和 [橡皮擦] 功能。<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看詳細資料
 
@@ -868,9 +895,9 @@ ms.locfileid: "59349509"
 
 - **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
-- **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表**：從工作表中的資料建立資料驅動圖表，如流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 - **與 Office 的 XLM 巨集的 AMSI 整合：** AMSI 是 Windows 10 上可用的開放式介面，可供應用程式在執行階段要求由已安裝的防毒軟體或安全性解決方案同步掃描記憶體緩衝區。 偵測到惡意活動時，Excel 會通知使用者，並關閉該應用程式工作階段以避免任何進一步損毀。 這麼做可阻止在其軌跡中的攻擊，同時保護裝置和使用者。 在[部落格文章](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/)中查看詳細資料。
@@ -881,11 +908,11 @@ ms.locfileid: "59349509"
 
 - **協助保護群組中的資料：** 建立群組時所選擇的「敏感度」標籤會套用到群組電子郵件、文件及小組網站。
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **在 Outlook 中使用快速投票建立投票：** 輕鬆建立投票、收集投票，並在電子郵件中檢視結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並查看電子郵件中的結果 [深入瞭解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **新的會議室尋找工具：** 依不同功能搜尋會議室。
 
@@ -899,11 +926,11 @@ ms.locfileid: "59349509"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
-- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -911,7 +938,7 @@ ms.locfileid: "59349509"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。 不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -1071,7 +1098,7 @@ ms.locfileid: "59349509"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -1149,7 +1176,7 @@ ms.locfileid: "59349509"
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -1374,6 +1401,7 @@ ms.locfileid: "59349509"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20864|version-2102-august-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
@@ -1383,5 +1411,4 @@ ms.locfileid: "59349509"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

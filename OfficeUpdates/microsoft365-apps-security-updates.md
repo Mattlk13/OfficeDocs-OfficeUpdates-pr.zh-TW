@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 713549ce9a25139ccf42a48621ab408cb1d001f8
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: edb3bd9347999375beb5c537d9ba24d84de11d8d
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59347797"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275360"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,49 @@ ms.locfileid: "59347797"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="october-12-2021"></a>2021 年 10 月 12 日
+目前通道：版本 2109 (組建 14430.20298)  
+每月企業管道：版本 2108 (組建 14326.20508)  
+每月企業管道：版本 2107 (組建 14228.20340)  
+半年企業通道 (預覽)：版本 2108 (組建 14326.20508)  
+半年企業通道：版本 2102 (組建 13801.21004)  
+半年企業通道：版本 2008 (組建 13127.21792)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22045)  
+Office 2021 零售版：版本 2109 (組建 14430.20298)  
+Office 2019 零售版：版本 2109 (組建 14430.20298)  
+Office 2016 零售版：版本 2109 (組建 14430.20298)  
+Office LTSC 2021 大量授權版：版本 2108 (組建 14332.20145)  
+Office 2019 大量授權版：版本 1808 (組建 10379.20043)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-40485](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40485)
+-   [CVE-2021-40471](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40471)
+-   [CVE-2021-40479](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40479)
+-   [CVE-2021-40473](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40473)
+-   [CVE-2021-40474](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40474)
+-   [CVE-2021-40472](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40472)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2021-40481](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40481)
+-   [CVE-2021-40480](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40480)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-40486](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40486)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-40454](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40454)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="september-14-2021"></a>2021 年 9 月 14 日
 目前通道：版本 2108 (組建 14326.20404)  

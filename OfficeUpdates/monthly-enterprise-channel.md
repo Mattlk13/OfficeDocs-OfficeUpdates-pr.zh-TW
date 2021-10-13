@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: c4896be19128472dbca1bea487a3f0c1a67456bb
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 9c68b8afb89c999966d4ac994a1ca0ca5b02f354
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59347771"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275521"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,155 @@ ms.locfileid: "59347771"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2108-october-12"></a>版本 2108: 10 月 12 日
+*版本 2108 (組建 14326.20508)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **存取協助工具的新方法：** 協助工具功能區將您所需、用來建立可存取內容的所有工具放置在同一個位置。<br />在[部落格文章](https://insider.office.com/en-us/blog/check-out-the-accessibility-checker-in-excel)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正錯誤訊息中包含特殊字元的問題。
+
+
+- 我們已修正現在會啟用 Outlook 增益集之啟動事件的問題。
+
+
+- 我們已修正會導致放置查詢設計或系統關聯性視窗的資料表，會出現在與將其放置位置不同的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正此問題：連結或匯入 Dynamics 資料表時，並非所有的資料列都會出現。
+
+
+- 我們已修正從 PowerPivot 視窗內連接到資料來源無法運作的問題。
+
+
+- 已解決 Excel 在下列情況下，可能會在計算活頁簿時停止回應的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 已將建立快速筆記的快速鍵更新為 Win + Alt + N。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致位置欄位中的連結無法按一下的問題。
+
+
+- 我們已修正導致某些使用者間歇性地重新顯示已刪除的會議邀請的問題。
+
+
+- 我們已修正使用有多個帳戶的設定檔將 Outlook 啟動後，會導致網路活動短暫增加的問題。
+
+
+- 已修正會議項目取消表單會出現，而不是預期的編輯表單的問題。
+
+
+- 我們已修正導致應用程式在使用 Outlook 時停止回應的問題。
+
+
+- 我們已修正會導致新增到「捷徑」模組的行事曆，在 Outlook 重新啟動後會消失的問題。
+
+
+- 我們已修正會導致 Outlook 使用者的「共用行事曆改良」功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修正在 Outlook 中建立會議時且 Exchange 系統管理員未設定選項時，預設出現有關縮短會議之非預期資訊型通知提示的問題。
+
+
+- 已修正以 ICAL 轉送一些大型或持續很久的週期性會議時所發生的錯誤。
+
+
+- 我們已修正 Outlook 開機後，應用程式不久後停止回應的問題。
+
+
+- 我們已修正使用 Outlook 撰寫電子郵件時，應用程式會意外關閉的問題。
+
+
+- 我們已修正帳戶的 UPN/SMTP 名稱變更之後，電子郵件簽名會遺失的問題。
+
+
+- 我們已修正在將行事曆新增至功能窗格，導致某些使用者遇到停止回應的問題。
+
+
+- 我們已修正導致使用者在將電子郵件草稿儲存至磁片時，看到 HTML 格式設定遺失的問題。
+
+
+- 我們已修正造成 [會議室尋找工具] 無法載入的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+### <a name="skype"></a>Skype
+
+- 我們已修正在交談視窗中，影片共用預覽會意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正列印中未載入預覽列印的問題。
+
+
+- Office 應用程式現在支援 [OpenDocument format 1.3](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)。
+
+
+- 我們已修正 Word 存檔時，所花時間超過預期的問題。
+
+
+- 我們已修正非預設功能區設定可能導致樣式庫無法運作的問題。
+
+
+- 我們已修正您無法在 [繼續] 區段中關閉任何編輯器選項的問題。
+
+
+- 我們已修正插入線上影片按鈕被停用的問題。
+
+
+- 已修正顯示新版視覺效果的對話方塊包含螢幕助讀程式無法讀取的文字的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用某些 Web 增益集後，某些文件無法載入的問題。
+
+
+- 我們已修正與使用觸控或觸控板在 PPT 投影片的縮圖檢視中捲動相關的問題。
+
+
+- 修正 Outlook 中的自訂 VSTO 控制項在開啟和切換多個視窗和視圖之後停止工作的錯誤。
+
+
+- 我們已修正會導致樞紐分析表中的日期欄位分組錯誤的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2107-october-12"></a>版本 2107: 10 月 12 日
+*版本 2107 (組建 14228.20340)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2107-september-14"></a>版本 2107：9 月 14 日
 *版本 2107 (組建 14228.20324)*
@@ -488,7 +637,7 @@ ms.locfileid: "59347771"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自動使用新的資料類型**：當您輸入的資料值類似股票或地理位置時，Excel 會將該值轉換為正確的連結資料類型 - 股票或地理位置。 [深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **自動使用新的資料類型**：當您輸入類似股票或地理位置的資料值時，Excel 會將它轉換為成正確的連線資料類型 - 股票或地理位置。。[深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。
 
@@ -499,7 +648,7 @@ ms.locfileid: "59347771"
 
 ### <a name="visio"></a>Visio
 
-- **圖表的現成圖形**：從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。 [深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
+- **適用於您的圖表的現成圖形：** 從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。[深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -890,23 +1039,23 @@ ms.locfileid: "59347771"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **在連續會議之間置入時間：** 將會議預設為延後 5-10 分鐘開始，讓出席者有時間休息，或前往下一個地點。 [深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
@@ -917,23 +1066,23 @@ ms.locfileid: "59347771"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
-- **新 Azure 樣板和圖案：** 我們新增了更多的樣板來協助您建立最新的 Azure 圖表。 [深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1024,7 +1173,7 @@ ms.locfileid: "59347771"
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看詳細資料
 
-- **在 Power Query 中建立自訂資料類型：** 使用任何資料來源建立自訂資料類型，可讓您將多個相關資料部分載入到一個欄位。 [深入了解](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
+- **在 Power Query 中建立自訂資料類型:** 使用任何資料來源建立自訂資料類型，可讓您將多個相關資訊部分載入到一個欄位。[深入了解](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
 
 - **在來源查詢之後命名新的工作表：** 將資料載入新工作表時，會根據來源查詢的名稱來為工作表命名。
 
@@ -1166,6 +1315,7 @@ ms.locfileid: "59347771"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
 [//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
@@ -1175,5 +1325,4 @@ ms.locfileid: "59347771"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

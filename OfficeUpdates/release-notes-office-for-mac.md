@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: f1d20fa7ca86e9a51b51b1a3829f496d1117e690
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 41445ff75a9608e505916e99ff1082f8a05f9990
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59347807"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275270"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,6 +34,25 @@ ms.locfileid: "59347807"
 
 
 [//]: # (DO NOT REMOVE)
+
+
+
+## <a name="october-12-2021"></a>2021 年 10 月 12 日
+*Version 16.54 (組建 21101001)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用您的語音來傳送電子郵件和 @提及：** 新語音命令可讓您在聽寫時傳送郵件並 @提及其他人
+
+### <a name="word"></a>Word
+
+- **使用新式註解的更佳共同作業:** 選擇何時將註解傳送給您的共同撰寫作者; 輕鬆設定 @mention 通知; 並且使用 Word、Excel 和 PowerPoint 之間具有一致的註解體驗以提高生產力。 [深入了解](https://support.office.com/article/53d8b54e-5036-40f8-9a09-3271dea169ba)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="september-14-2021"></a>2021 年 9 月 14 日
 *版本 16.53 (組建 21091200)*
@@ -83,7 +102,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **取得 Mac 版 Excel 的新資料來源設定控制項：** 使用新的 [資料來源設定] 對話方塊以管理 Power Query 資料來源、清除登入認證，以及變更檔案位置。 [深入了解](https://support.office.com/article/9f24a631-f7eb-4729-88dd-6a4921380ca9)
+- **使用新資料來源設定控制 Mac 版 Excel:** 使用新的 [資料來源設定] 對話方塊以管理 Power Query 資料來源、清除登入認證，以及變更檔案位置。[深入了解](https://support.office.com/article/9f24a631-f7eb-4729-88dd-6a4921380ca9)
 
 ### <a name="outlook"></a>Outlook
 
@@ -93,7 +112,7 @@ ms.locfileid: "59347807"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Flipgrid 影片現在已可在 Mac 版 PowerPoint 中使用：** 新增 Flipgrid 影片以強化下一個簡報。 [深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)<br />在[部落格文章](https://insider.office.com/en-us/blog/add-flipgrid-videos-in-powerpoint)中查看詳細資料
+- **Flipgrid 影片現在已可在 Mac 版 PowerPoint 中使用:** 新增 Flipgrid 影片以強化下一個簡報。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)<br />在[部落格文章](https://insider.office.com/en-us/blog/add-flipgrid-videos-in-powerpoint)中查看詳細資料
 
 - **更新內嵌章節名稱：** 在章節名稱上按兩下以快速更新。
 
@@ -196,7 +215,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。 [深入了解](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
+- **連結的資料類型: 現實生活的實際資料:** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。[深入了解](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
 
 ### <a name="outlook"></a>Outlook
 
@@ -248,7 +267,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -294,7 +313,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 - **使用 Excel 資料類型從 Power BI 取得組織資料：** 您可以使用 Excel 資料類型插入貴組織的資料。 轉換您活頁簿中的儲存格、取得其他資訊，並在您需要時，重新更新資料！
 
@@ -304,7 +323,7 @@ ms.locfileid: "59347807"
 
 ### <a name="word"></a>Word
 
-- **使用語音命令聽寫您的文件：** 新的聽寫工具列、語音命令和自動標點符號，讓使用語音建立內容變得快速且簡單。 [深入了解](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+- **使用語音命令聽寫您的文件:** 新的聽寫工具列、語音命令和自動標點符號，讓使用語音建立內容變得快速且簡單。[深入了解](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -331,13 +350,13 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶: 將敏感度標籤套用至您的文件和電子郵件:** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶: 將敏感度標籤套用至您的文件和電子郵件:** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -345,13 +364,13 @@ ms.locfileid: "59347807"
 
 - **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶: 將敏感度標籤套用至您的文件和電子郵件:** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
 ### <a name="word"></a>Word
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 GCC 和 GCC-H 環境中的客戶取得。 [深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶: 將敏感度標籤套用至您的文件和電子郵件:** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
 
@@ -381,19 +400,19 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。 [深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **[自動套用] 或 [建議敏感度] 標籤:** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。[深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="outlook"></a>Outlook
 
-- **自動套用或建議敏感度標籤：** Office 可以根據偵測到的敏感性內容來建議或自動套用敏感度標籤。 [深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **[自動套用] 或 [建議敏感度] 標籤:** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。[深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。 [深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **[自動套用] 或 [建議敏感度] 標籤:** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。[深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **[自動套用] 或 [建議敏感度] 標籤：** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。 [深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **[自動套用] 或 [建議敏感度] 標籤:** Office 可以根據偵測到的敏感性內容來推薦或自動套用靈敏度標籤。[深入了解](/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -424,7 +443,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **監看公式：** 在單一窗格或視窗中監看多個工作表和書籍的儲存格。 [深入了解](https://support.office.com/article/d72fc6f3-4c9d-4c13-bd15-bb074ba7c784)
+- **監看公式:** 在單一窗格或視窗中監看多個工作表和書籍的儲存格。[深入了解](https://support.office.com/article/d72fc6f3-4c9d-4c13-bd15-bb074ba7c784)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -494,7 +513,7 @@ ms.locfileid: "59347807"
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://insider.office.com/en-us/blog/let-names-in-formulas-for-excel)中查看詳細資料
 
-- **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表**：從工作表中的資料建立資料驅動圖表，如流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 - **讓您的活頁簿更生動：** 使用免費、高品質的影像、圖示和貼紙庫，為您的試算表增添更多風格。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)
 
@@ -571,7 +590,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在不中斷其他人的情況下進行篩選和排序：** 在與他人一起於 Excel 上共同作業時，建立自己的視圖，這樣尼就可以在不中斷其他人的畫面下，進行篩遠及排序。 [深入了解](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />在[部落格文章](https://insider.office.com/en-us/blog/sheet-view-makes-collaborating-easier)中查看詳細資料
+- **在不中斷其他人的情況下進行篩選和排序:** 在 Excel 中與其他人共同作業時建立您自己的檢視，這樣您就可以在不干擾他人看到內容的情況下進行篩選及排序。[深入了解](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />在[部落格文章](https://insider.office.com/en-us/blog/sheet-view-makes-collaborating-easier)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -579,7 +598,7 @@ ms.locfileid: "59347807"
 
 ### <a name="powerpoint-mac"></a>PowerPoint Mac
 
-- **使用手寫筆分享：** 使用您的數位手寫筆在錄製簡報時描述您的想法，並同時記錄您的筆跡。 [深入了解](https://support.office.com/article/0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
+- **使用手寫筆表達:** 使用您的數位手寫筆在錄製簡報時說明您的想法，並同時記錄您的筆跡筆劃。[深入了解](https://support.office.com/article/0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -611,7 +630,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **從儲存格值新增圖表標籤：** 使用儲存格的值做為圖表資料上的標籤。 [深入了解](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
+- **從儲存格值新增圖表標籤:** 使用儲存格的值做為圖表資料上的標籤。[深入了解](https://support.office.com/article/884bf2f1-2e29-454e-8b42-f467c9f4eb2d)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
@@ -658,7 +677,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **從相片提取資料：** 從 [插入] 索引標籤或直接從 iPhone，從相片新增表格資料。 [深入了解](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />在[部落格文章](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)中查看詳細資料
+- **從相片提取資料:** 從圖片、[插入] 索引標籤或直接從您的 iPhone 新增表格資料。[深入了解](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />在[部落格文章](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -704,24 +723,24 @@ ms.locfileid: "59347807"
 
 - **真實的發問：** 您對資料有任何問題嗎？ 在 Excel 構想中，只要輸入問題，我們會為您提供解答。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等項目。 [深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
+- **尋找您要尋找的項目:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
 
-- **新增儲存格的更快方式**：[啟用 [按一下以新增] 模式]，然後輸入 =、選取部分儲存格以快速建立新增儲存格值的公式。 在 [功能表]  >  [喜好設定]  >  [編輯] 尋找選項。  [深入了解](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看詳細資料
+- **新增儲存格的更快方式**：**啟用 [按一下以新增] 模式**，然後輸入 = 並選取部分儲存格以快速建立新增儲存格值的公式。在 [功能表 **]** > [喜好設定 **]** > [編輯 **]** 中找到該選項。[深入了解](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **由於會在背景下載大型內容，使用者就可以更快速地開始閱讀大型雲端檔案：** 不用再下載雲端簡報中的所有大型影像和影片，然後才能閱讀，現在 PowerPoint 會延遲下載這類內容，讓您能夠更快地開始閱讀文件
 
-- **投影片連結：** 要求同事參與製作您的投影片組，讓他們直接在您需要協助的投影片上開始進行。 [深入了解](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
+- **投影片連結:** 要求同事參與製作您的投影片組，讓他們直接在您需要協助的投影片上開始進行。[深入了解](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等項目。 [深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
+- **尋找您要尋找的項目:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
 
 ### <a name="word"></a>Word
 
 - **語音輸入：** 您有麥克風嗎？ 按一下 [聽寫] 並看看 Word 如何在您說話的同時輸入您說話的內容。 [深入了解](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[部落格文章](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)中查看詳細資料
 
 
-- **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等項目。 [深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
+- **尋找您要尋找的項目:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -767,18 +786,18 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **可在簡報者模式中摺疊目前投影片視窗的功能：** 透過將行分隔線拖曳到畫面左側，即可以將目前的投影片檢視摺疊，使得您在簡報期間的檢視中只會看到 [下一張投影片]。
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 
 ### <a name="word"></a>Word
 
-- **敏感度標籤**：您現在可以套用組織設定、用來提示您輸入自訂權限的敏感度標籤。 [深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 ### <a name="security-updates"></a>安全性更新
@@ -803,7 +822,7 @@ ms.locfileid: "59347807"
 
 - **即時讀取與回覆：** 直接從電子郵件回覆註解和提及，而不需開啟活頁簿。
 
-- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。 [深入了解](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
+- **向左看，向右看... XLOOKUP 在這裡!:** 依列在表格或範圍中使用 XLOOKUP 來尋找您需要的項目。[深入了解](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)
 
 - **重新整理本機資料表和範圍的資料：** 在 Mac 上重新整理本機資料表和範圍的 Power Query 查詢。
 
@@ -831,7 +850,7 @@ ms.locfileid: "59347807"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **輸入會傳回多個值的公式：** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+- **輸入會傳回多個值的公式:** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。[深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
 
 - **在 Mac 上使用 VBA 建立及管理查詢：** 在 Mac 上使用 VBA 針對支援的來源建立及管理 Power Query 查詢。
 
@@ -870,13 +889,13 @@ ms.locfileid: "59347807"
 
 - **按幾下就能取用檔案：** 您最近開啟的文件會顯示在最顯眼的位置。 直接從 [開始] 畫面中開啟 [帳戶設定] 或 [選項]。 [深入了解](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
 
-- **輸入會傳回多個值的公式：** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
+- **輸入會傳回多個值的公式:** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。[深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **按幾下就能取用檔案：** 您最近開啟的文件會顯示在最顯眼的位置。 直接從 [開始] 畫面中開啟 [帳戶設定] 或 [選項]。 [深入了解](https://support.office.com/article/baea7aab-760b-4ee0-af58-06e940d505a4)
 
-- **用筆跡繪製您的想法：** 將您的筆跡轉換為專業圖形、文字或數學樣式。 [深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **用筆跡繪製您的想法:** 將您的筆跡轉換為專業圖形、文字或數學樣式。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 ### <a name="word"></a>Word
 
@@ -950,7 +969,7 @@ ms.locfileid: "59347807"
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
-- **筆跡重播：** 對筆跡繪圖進行動畫處理，以使其在投影片放映過程中向前或向後重播。 [深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+- **筆跡重播:** 對筆跡繪圖進行動畫處理，以使其在投影片放映過程中向前或向後重播。[深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
 )
 
 
@@ -1003,9 +1022,9 @@ ms.locfileid: "59347807"
 
 ### <a name="word-feature-updates"></a>Word：功能更新
 
-- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **精確橡皮擦：** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。 [深入了解](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
-- **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **勾勒草圖:** 為簡報中的 Office 圖形提供隨意的手繪外觀。[深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **精確橡皮擦:** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。[深入了解](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **改善地圖圖表**：我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。[深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
 
@@ -1014,22 +1033,22 @@ ms.locfileid: "59347807"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 
-- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **勾勒草圖:** 為簡報中的 Office 圖形提供隨意的手繪外觀。[深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **專注在待辦事項上：** 選取 [解決] 來摺疊註解，使得開啟中的項目能夠突顯。
-- **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **改善地圖圖表**：我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。[深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 
-- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **投影片放映期間持續的筆跡：** 簡報期間在投影片上繪製時，手寫筆可持續使用。 系統也會儲存註解。 [深入了解](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
-- **改善地圖圖表：** 我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **勾勒草圖:** 為簡報中的 Office 圖形提供隨意的手繪外觀。[深入了解](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **投影片放映期間持續的筆跡:** 簡報期間在投影片上繪製時，手寫筆可持續使用。也可儲存註釋。 [深入了解](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **改善地圖圖表**：我們讓地圖圖表變得更好，方法是將地圖圖表與可顯示有關對應位置豐富資訊的 Excel 地理資料類型整合。[深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
-- **分享您雲端檔案中的附件：** 輕鬆地將雲端檔案附加至電子郵件訊息，以提升共同作業效率。 [深入了解](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+- **從雲端檔案共用附件:** 輕鬆地將雲端檔案附加至電子郵件訊息，以提升共同作業效率。[深入了解](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
-- **隱私權控制：** 用於診斷資料的連線體驗的新增、更新及改良的控制項。 [深入了解](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
+- **隱私權控制:** 用於診斷資料和連線體驗的新增、已更新和改良的控制項。[深入了解](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
 
@@ -1067,7 +1086,7 @@ ms.locfileid: "59347807"
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
 - **分享您雲端檔案中的附件：** 輕鬆地將雲端檔案附加至電子郵件訊息，以提升共同作業效率。<br/>
-- **[讀取窗格] 中的深色模式支援：** 您現在收到的電子郵件背景為深色，以便於在光線不足的環境中查看。 需要 macOS Mojave。 
+- **[讀取窗格] 中的深色模式支援:** 您現在收到的電子郵件背景為深色，以便於在光線不足的環境中查看。需要 macOS Mojave。 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 
 - [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)：Microsoft Exchange 資訊洩漏弱點<br/><br/>
@@ -1095,7 +1114,7 @@ ms.locfileid: "59347807"
 
 - **使用 \@提及：** 功能取得他人注意：在註解中使用 @提及功能，讓其他人知道您需要他們提供建議。
 - **線上影片有新的首頁：** 將影片儲存至 Microsoft Stream，讓組織中的任何人都看得到。 插入影片連結，享受檔案大小只有原來一小部分的多媒體簡報。
-- **即時的輔助字幕和翻譯字幕：** 您的文字在您呈現在會自動顯示為字幕或翻譯為其他語言做為字幕。 為獲得最佳結果，請使用耳機式麥克風。
+- **即時的輔助字幕和翻譯字幕:** 您的文字會在您簡報時自動顯示為輔助字幕或翻譯為其他語言做為字幕。如需最佳結果，請使用耳機麥克風。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
 
@@ -1115,7 +1134,7 @@ ms.locfileid: "59347807"
 |Word  <br/><br/>|**查看您的電子郵件附件：** 您的電子郵件附件現已可在 [共用] 索引標籤中取得。 |[CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)：Microsoft Word 遠端程式碼執行弱點<br/>|[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.25.19051201_Updater.pkg)<br/>|
 |Excel<br/>|**查看您的電子郵件附件：** 您的電子郵件附件現已可在 [共用] 索引標籤中取得。<br/><br/>**共同撰寫合併增強功能：** 共同撰寫已改善使用條件式格式設定、儲存格樣式、範圍保護、檢視格線和跨工作表剪下/貼上時的合併成功率。|<br/>|[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.25.19051201_Updater.pkg)<br/>|
 |PowerPoint<br/>|**查看您的電子郵件附件：** 您的電子郵件附件現已可在 [共用] 索引標籤中取得。<br/><br/>**使用新快速鍵更快速地工作：** 我們已為裁剪、上移一層/下移一層，以及清單項目升級/降級之類的動作提供鍵盤快速鍵。|<br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.25.19051201_Updater.pkg)<br/>|
-|Outlook  <br/>|**快速了解您的連絡人是否有空：** 直接在 Outlook 中查看 Teams 連絡人的目前狀態資訊。 <br/><br/>**查看連絡人的重要詳細資料：** 選取郵件或行事曆活動中的連絡人名稱，以查看其相片、電話號碼、電子郵件、組織圖等等內容。 [深入了解](https://support.office.com/article/cf25962a-3a3e-47be-9181-afa2e1f84b07) <br/><br/> | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.25.19051201_Updater.pkg) <br/>|
+|Outlook  <br/>|**快速了解您的連絡人是否有空：** 直接在 Outlook 中查看 Teams 連絡人的目前狀態資訊。 <br/><br/>**查看連絡人的重要詳細資料:** 選取郵件或行事曆活動中的連絡人名稱，以查看其相片、電話號碼、電子郵件、組織圖等等內容。[深入了解](https://support.office.com/article/cf25962a-3a3e-47be-9181-afa2e1f84b07) <br/><br/> | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.25.19051201_Updater.pkg) <br/>|
 
 
 ## <a name="april-2019-release"></a>2019 年 4 月發行
@@ -1146,8 +1165,8 @@ ms.locfileid: "59347807"
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。 <br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**生動地觀看您的文件：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個頁面橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
-|Excel  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/> <br/>**呼叫所有巨集使用者：** 使用相關的參考來錄製巨集。 當您播放時，其運作方式與作用中儲存格相關，而不是用來錄製的儲存格。 [深入了解](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**伸手可及的您的最愛命令：** 取得常用動作的快速、輕易存取，例如尋找與選取、縮放至選取範圍、全部排列等等。 在功能區中找到它們。 [深入了解](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**生動地觀看您的工作表：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個工作表橫衝直撞。 [深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)：Microsoft Excel 遠端程式碼執行弱點 |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
-|PowerPoint  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**輕鬆地儲存內嵌的媒體：** 只要按 CTRL+按一下，即可儲存音訊和視訊。 [深入了解](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**生動地觀看您的投影片：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個畫面橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
+|Excel  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/> <br/>**呼叫所有巨集使用者：** 使用相關的參考來錄製巨集。 當您播放時，其運作方式與作用中儲存格相關，而不是用來錄製的儲存格。 [深入了解](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**方便使用常用命令:** 快速且輕鬆存取常用的動作，例如 [尋找與選取]、[縮放至選取範圍]、[並排顯示] 以及更多。在功能區中找到它們。[深入了解](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**生動地觀看您的工作表：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個工作表橫衝直撞。 [深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)：Microsoft Excel 遠端程式碼執行弱點 |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
+|PowerPoint  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**輕鬆地儲存內嵌的媒體:** 只要按 CTRL+按一下，即可儲存音訊和視訊。[深入了解](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**生動地觀看您的投影片：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個畫面橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。 <br/><br/>**安全連結：** 支援進階威脅防護 (ATP) 安全連結。  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.10<br/>|**複製時安裝功能增強功能：** 針對 SSD 裝置，針對使用中的應用程式推出複製時更新，因此可減少由於更新造成的應用程式停機時間。 <br/><br/>**安裝最佳化：** 更新程序會使用平行化複製，這樣就會減少因更新造成的應用程式停機時間。|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Office 套件  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)：Microsoft Graphics 元件遠端程式碼執行弱點<br/><br/>|<br/>|
@@ -1162,7 +1181,7 @@ ms.locfileid: "59347807"
 
 |**Application**|**更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|Outlook  <br/>| 修正移除共用或委派行事曆的問題。 [深入了解](https://support.office.com/article/42302f59-8325-4fab-aacb-13bbef855a0f)<br/>  | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19032603_Updater.pkg) <br/>|
+|Outlook  <br/>| 修正移除共用或委派行事曆的問題。[深入了解](https://support.office.com/article/42302f59-8325-4fab-aacb-13bbef855a0f)<br/>  | |[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19032603_Updater.pkg) <br/>|
 
 
 **發行日期：** 2019 年 3 月 14 日
@@ -1179,9 +1198,9 @@ ms.locfileid: "59347807"
 
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **使用 @提及讓他人注意：** 在註解中使用 @提及，在您需要同事的意見時讓其知道。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex 方程式編輯：** Word 現在支援以 LaTeX 數學語法建立數學方程式。 [深入了解](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
+|Word  <br/>| **使用 @提及讓他人注意：** 在註解中使用 @提及，在您需要同事的意見時讓其知道。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**LaTex 方程式編輯:** Word 現在支援以 LaTeX 數學語法建立數學方程式。[深入了解](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
 |Excel  <br/>|**使用 @提及讓他人注意：** 在註解中使用 @提及，在您需要同事的意見時讓其知道。[深入了解](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**更深入地探索您的資料：** 新的 [構想] 按鈕可尋找資料中的模式，並使用模式來建立更有智慧且個人化的建議。[深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **更順暢的變形：** 在軌跡板上移動手指，然後在螢幕上觀看筆跡流動。 [深入了解](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **更順暢的變形:** 在軌跡板上移動手指，然後在螢幕上觀看筆跡流動。[深入了解](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
 ## <a name="february-2019-release"></a>2019 年 2 月版本
@@ -1214,7 +1233,7 @@ ms.locfileid: "59347807"
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **使用軌跡版來繪圖：** 在軌跡板上移動手指，然後在螢幕上觀看筆跡流動。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**讓您的圖片易於存取：** 插入圖片時，Office 會建議視障人士可以讀取的標題。 | |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.22.19021100_Updater.pkg) <br/>|
 |Excel  <br/>| **使用軌跡版來繪圖：** 在軌跡板上移動手指，然後在螢幕上觀看筆跡流動。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>  | [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669) <br/><br/>  |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.22.19021100_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **使用軌跡版來繪圖：** 在軌跡板上移動手指，然後在螢幕上觀看筆跡流動。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**色彩生動的超連結：** 超連結不再只是藍色的。 您可以套用您喜歡的任何字型色彩。 [深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) | <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **使用軌跡版來繪圖：** 在軌跡板上移動手指，然後在螢幕上觀看筆跡流動。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**以生動的色彩顯示超連結:** 超連結不再只是藍色。套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) | <br/>|[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.22.19021100_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.22.19021100_Updater.pkg) <br/>|
 |Microsoft 自動更新 4.7 <br/>| <br/>|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 |Office 套件 <br/>|**從功能區快速變更不同來源的所選圖片：** 變更圖片可讓使用者將其所選圖片/圖形變更為線上圖片功能、圖示庫，或剪貼簿中的圖片。 <br/>|<br/> | |

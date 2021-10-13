@@ -35,17 +35,18 @@
 ## [ODT 版本歷程記錄](ODT-release-history.md)
 
 # Mac 版 Office
-## [更新歷程記錄 (Microsoft 365，2019)](update-history-office-for-mac.md)
-## [版本資訊 (Microsoft 365，2019)](release-notes-office-for-mac.md)
+## [更新歷程記錄 (Microsoft 365，2019, 2021)](update-history-office-for-mac.md)
+## [版本資訊 (Microsoft 365，2019, 2021)](release-notes-office-for-mac.md)
 ## [更新歷程記錄 (2016)](release-notes-office-2016-mac.md)
 ## [MAU 版本歷程記錄](release-history-microsoft-autoupdate.md)
 
 # Office (永久)
+## [Office LTSC 2021 和 Office 2021 更新 (C2R)](update-history-office-2021.md)
 ## [Office 2016 和 2019 更新 (C2R)](update-history-office-2019.md)
 ## [Office 2013 更新 (C2R)](update-history-office-2013.md)
 ## [Office 2010 更新 (C2R)](update-history-office-2010-click-to-run.md)
-## [Office 2010、2013 和 2016 更新 (MSI)](office-updates-msi.md)
-## [Outlook 2010、2013 和 2016 更新 (MSI)](outlook-updates-msi.md)
+## [Office 2013 和 2016 更新 (MSI)](office-updates-msi.md)
+## [Outlook 2013 和 2016 更新 (MSI)](outlook-updates-msi.md)
 ## [Office 非安全性更新 (MSI)](office-MSI-non-security-updates.md)
 ## [Office 2016 .msp 檔案 (MSI)](msp-files-office-2016.md)
 ## [Office 2013 .msp 檔案 (MSI)](msp-files-office-2013.md)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 03605f3a6491b78a001066330ba817445d77b108
-ms.sourcegitcommit: ba641db99bb4ad00119cba0025b4d66dcd230fa8
+ms.openlocfilehash: 91441ece8210db2e6fcb7f3d6f3983a3761704be
+ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2021
-ms.locfileid: "60225959"
+ms.lasthandoff: 10/12/2021
+ms.locfileid: "60275340"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -31,24 +31,32 @@ ms.locfileid: "60225959"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="october-12-2021"></a>2021 年 10 月 12 日
 
-## <a name="october-7-2021"></a>2021 年 10 月 7 日
+[//]: # (DO NOT REMOVE CONTENT STARTOctober 12, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2109 (組建 14430.20298)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2109 (組建 14430.20270) <br/> |2021 年 10 月 6 日 <br/> |61<br/> |
+|版本 2108 (組建 14326.20404) <br/> |2021 年 9 月 14 日 <br/> |172<br/> |
 
 
-### <a name="monthly-enterprise-channel"></a>每月企業通道
+### <a name="monthly-enterprise-channel"></a>每月企業頻道
 
-<i>預期的版本為版本 2108 (組建 14326.20502)。</i>
+最新的版本是版本 2108 (Build 14326.20508)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2107 (組建 14228.20324) <br/> |2021 年 9 月 14 日 <br/> |163<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2108 (組建 14326.20486)。</i>
+最新的版本是版本 2108 (Build 14326.20508)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -58,15 +66,19 @@ ms.locfileid: "60225959"
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2102 (組建 13801.21000)。</i>
+最新的版本是版本 2102 (組建 13801.21004)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2102 (組建 13801.20960) <br/> |2021 年 9 月 14 日 <br/> |53<br/> |
-|版本 2102 (組建 13801.20864) <br/> |2021 年 8 月 10 日 <br/> |56<br/> |
+|版本 2102 (組建 13801.20960) <br/> |2021 年 9 月 14 日 <br/> |45<br/> |
+|版本 2102 (組建 13801.20864) <br/> |2021 年 8 月 10 日 <br/> |48<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+
+[//]: # (DO NOT REMOVE CONTENT ENDOctober 12, 2021)
+
+
+
 
 ## <a name="october-6-2021"></a>2021 年 10 月 6 日
 
