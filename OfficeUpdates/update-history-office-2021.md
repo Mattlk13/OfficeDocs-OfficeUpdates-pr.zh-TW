@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 永久版本的更新歷程記錄。
-ms.openlocfilehash: dd5a85ade98d840d8d2b536cf99f9724fcb7ca19
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: 376c4be271465d5d0c08eb31167ebea642c65814
+ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275382"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60291483"
 ---
 # <a name="update-history-for-office-ltsc-2021-and-office-2021"></a>Office LTSC 2021 和 Office 2021 的更新歷程記錄
 
@@ -32,17 +32,16 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 下表提供大量授權和零售版本的更新歷程記錄，其中會先列出最新的發行日期。
 
 新的版本會包含先前版本所包含的所有更新。
-
- > [!NOTE]
-如需已發行之安全性更新的詳細資訊，請參閱[安全性更新頁面](./microsoft365-apps-security-updates.md)。
-
+  
+> [!NOTE]
+> 如需已發行之安全性更新的詳細資訊，請參閱[安全性更新頁面](./microsoft365-apps-security-updates.md)。
+  
 ## <a name="volume-licensed-versions-of-office-ltsc-2021"></a>Office LTSC 2021 大量授權版本
 下列資訊適用於大量授權版的 Office LTSC，例如透過大量授權合約購買的 Office LTSC 專業增強版 2021。
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
 |2021 年 10 月 12 日|版本 2108 (組建 14332.20145)|
-<br/>
 
 ## <a name="retail-versions-of-office-2021"></a>Office 2021 零售版本
 下列資訊適用於零售版 Office 2021，例如 Office 家用及中小企業版 2021 或 Office 專業版 2021。

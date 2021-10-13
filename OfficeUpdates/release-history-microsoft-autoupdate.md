@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: c26974eb5fbd7f5190cf8c293a2bd66f794ef5e4
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 542e9280f723e8be1cdb22450dbfdab275112cb9
+ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59347787"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60291459"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,24 @@ ms.locfileid: "59347787"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="october-2021-release"></a>2021 年 10 月發行
+
+**發行日期：** 2021 年 10 月 12 日
+
+*Microsoft AutoUpdate 4.40*
+
+**錯誤修正及增強功能：**
+- MAU 現在使用增強的內容傳遞網路 (CDN) 進行更新 (officecdnmac.microsoft.com)
+- 對期限功能進行使用者體驗精簡
+- 修正某些更新案例可能會發生應用程式損壞的問題
+
+
+[下載 Microsoft AutoUpdate 4.40 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.40.21101001_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+F638F7E0DA9EE659C323F2EDE0F176804BFE9A615A8F8B6320BD2E69D91EF2B2
+
 ## <a name="september-2021-release"></a>2021 年 9 月發行
 
 **發行日期：** 2021 年 9 月 14 日
@@ -500,7 +518,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](/deployoffice/mac/mau-deadline)
+- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。[深入了解](/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **SHA-256 雜湊：**
@@ -547,7 +565,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。 [深入了解](/deployoffice/mac/mau-deadline)
+- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。[深入了解](/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **SHA-256 雜湊：**

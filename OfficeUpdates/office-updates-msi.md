@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 261e5780f0c0f34a87824aba80a398baf491112b
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 08fddaf26bc87470b1ab1d7b04ee6a0be9941026
+ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59347768"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60291469"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -31,13 +31,13 @@ ms.locfileid: "59347768"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |N/A  <br/> |2021 年 9 月 PU  <br/> [KB5001966](https://support.microsoft.com/help/5001966) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2021 年 10 月 PU  <br/> [KB5001967](https://support.microsoft.com/help/5001967) <br/> |
 
 ## <a name="office-2013-updates"></a>Office 2013 更新
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021 年 9 月 PU  <br/> [KB5001966](https://support.microsoft.com/help/5001966) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2021 年 10 月 PU  <br/> [KB5001967](https://support.microsoft.com/help/5001967) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 > [!IMPORTANT]
@@ -50,6 +50,7 @@ ms.locfileid: "59347768"
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月發行的更新
+[2021 年 10 月的安全性和非安全性更新：KB5001967](https://support.microsoft.com/help/5001967)
 
 [2021 年 9 月的安全性和非安全性更新：KB5001966](https://support.microsoft.com/help/5001966)
 
@@ -74,7 +75,6 @@ ms.locfileid: "59347768"
 
 [2020 年 11 月的安全性和非安全性更新：KB4583503](https://support.microsoft.com/help/4583503)
 
-[2020 年 10 月的安全性和非安全性更新：KB4583495](https://support.microsoft.com/help/4583495)
 
 
 

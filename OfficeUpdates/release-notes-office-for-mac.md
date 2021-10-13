@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 41445ff75a9608e505916e99ff1082f8a05f9990
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: ee803be73dc1be581acc1cbad57b7c61dad96ce8
+ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275270"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60291425"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -26,7 +26,7 @@ ms.locfileid: "60275270"
   
 > [!NOTE]
 > - 如果您是 Office 測試人員，請參閱 [Mac 適用之 Beta 版通道的版本資訊](https://insider.office.com/releasenotes/mac/fast)。
-> - 自 2018 年 9 月的 16.17 版本開始，這些版本資訊也適用於 Mac 版 Office 2019，後者是 Mac 版 Office 的一個版本，可從零售商店或透過大量授權合約買斷。不過，版本資訊所列的部分功能只有在您已有 Microsoft 365 訂閱時才可供使用。
+> - 這些版本資訊也適用於 Mac 版 Office 2019、Mac 版 Office LTSC 2021 和 Mac 版 Office 2021，可從零售商店或透過大量授權合約買斷。不過，版本資訊中列出的某些功能只有在您擁有 Microsoft 365 訂閱時才能使用。
 > - 我們通常每隔一段時間會推出功能 (有時候還有修正程式)。這讓我們能夠在向更廣大群眾發佈功能之前，確定功能的運作順利。因此，如果你沒有看到下面描述的內容，不要擔心，你最終還是能使用它們。[深入了解](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - 我們有時候會發佈更新，其中包含一般品質和效能提升，但沒有新功能。 如果下列清單中沒有列出特定應用程式，則該應用程式更新僅包含品質和效能提升。
 
@@ -49,8 +49,21 @@ ms.locfileid: "60275270"
 
 ### <a name="word"></a>Word
 
-- **使用新式註解的更佳共同作業:** 選擇何時將註解傳送給您的共同撰寫作者; 輕鬆設定 @mention 通知; 並且使用 Word、Excel 和 PowerPoint 之間具有一致的註解體驗以提高生產力。 [深入了解](https://support.office.com/article/53d8b54e-5036-40f8-9a09-3271dea169ba)
+- **使用新式註解的更佳共同作業:** 選擇何時將註解傳送給您的共同撰寫作者; 輕鬆設定 @mention 通知; 並且使用 Word、Excel 和 PowerPoint 之間具有一致的註解體驗以提高生產力。[深入了解](https://support.office.com/article/53d8b54e-5036-40f8-9a09-3271dea169ba)
 
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+
+-   [CVE-2021-40474](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40474)
+
+-   [CVE-2021-40485](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40485)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-40454](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40454)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 

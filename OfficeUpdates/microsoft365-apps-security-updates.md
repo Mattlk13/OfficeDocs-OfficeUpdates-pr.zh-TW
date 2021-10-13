@@ -9,18 +9,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: edb3bd9347999375beb5c537d9ba24d84de11d8d
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: 7ef1130ad0dbcd7ed760e25e6f3a9115eee44d94
+ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275360"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60291444"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
 這些版本資訊會提供 Microsoft Office 更新中所含安全性修正程式的相關資訊。
 
-此資訊適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版、Office 2016 零售版（C2R）和 Office 2019。
+此資訊適用於 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版、Office 2016 零售版 (C2R)、Office 2019、Office LTSC 2021 及 Office 2021。
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  

@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: ed36d193ce519a6502afdf7692831a8a8c401bc6
-ms.sourcegitcommit: 580494ae1ed8e2110df29bcb7c34f3544e678b79
+ms.openlocfilehash: 217b7ae5ffbc4a9a57413971531f9b39a0fc8cf6
+ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59349291"
+ms.lasthandoff: 10/13/2021
+ms.locfileid: "60291413"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> 最新版的 Office 2013 是 **15.0.5381.1000**，發行時間為 2021 年 9 月 14 日。
+> 最新版的 Office 2013 **15.0.5389.1000**，發行時間為 2021 年 10 月 12 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -45,7 +45,8 @@ ms.locfileid: "59349291"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2021 年|9 月 14 日|15.0.5381.1000|[KB 5001966](https://support.microsoft.com/help/5001966)
+|2021|10 月 12 日|15.0.5389.1000|[KB 5001967](https://support.microsoft.com/help/5001967)
+||9 月 14 日|15.0.5381.1000|[KB 5001966](https://support.microsoft.com/help/5001966)|
 ||8 月 10 日|15.0.5371.1000|[KB 5001965](https://support.microsoft.com/help/5001965)|
 ||7 月 13 日|15.0.5363.1000|[KB 5001964](https://support.microsoft.com/help/5001964)|
 ||6 月 8 日|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
@@ -54,7 +55,7 @@ ms.locfileid: "59349291"
 ||3 月 9 日|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
 ||2 月 9 日|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
 ||1 月 12 日|15.0.5311.1000|[KB 4583559](https://support.microsoft.com/help/4583559)|
-|2020 年| 12 月 8 日|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
+|2020| 12 月 8 日|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
 ||11 月 10 日|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||10 月 13 日| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||9 月 8 日| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
@@ -90,7 +91,7 @@ ms.locfileid: "59349291"
 ||3 月 13 日   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/help/4090988)  |
 ||2 月 13 日   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
 ||1 月 9 日   |15.0.4997.1000   |[KB 4058103](https://support.microsoft.com/help/4058103)  |
-|2017   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
+|2017 年   |12 月 12 日   |15.0.4989.1000   |[KB 4055454](https://support.microsoft.com/help/4055454)  |
 ||11 月 14 日   |15.0.4981.1001   |[KB 4051890](https://support.microsoft.com/help/4051890)  |
 ||10 月 10 日   |15.0.4971.1002   |[KB 4043461](https://support.microsoft.com/help/4043461)  |
 ||9 月 12 日   |15.0.4963.1002   |[KB 4040279](https://support.microsoft.com/help/4040279)  |
