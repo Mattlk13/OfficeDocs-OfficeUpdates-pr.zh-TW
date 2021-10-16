@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 7addc8d22d2c066ef65fd36dfe934a86b93ccb98
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: 3915281bd99e41cc44914f83dedc38fbc80ee618
+ms.sourcegitcommit: 324b94c7157d0ad5c364f9c438af3ba0aa0ca0e2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275370"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60378430"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,10 @@ ms.locfileid: "60275370"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2109-october-14"></a>版本 2109：10 月 14 日
+*版本 2109 (組建 14430.20306)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2109-october-12"></a>版本 2109: 10 月 12 日
 *版本 2109 (組建 14430.20298)*
@@ -1290,7 +1294,7 @@ ms.locfileid: "60275370"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 - **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
@@ -1497,7 +1501,7 @@ ms.locfileid: "60275370"
 - 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -1596,10 +1600,10 @@ ms.locfileid: "60275370"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
@@ -1622,6 +1626,7 @@ ms.locfileid: "60275370"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14430.20306|version-2109-october-14|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
@@ -1631,5 +1636,4 @@ ms.locfileid: "60275370"
 [//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20250|version-2107-august-10|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20226|version-2107-august-03|)
-[//]: # (|Win32|CC|Production| |16.0.14228.20204|version-2107-july-26|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
