@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: ce702d5afa535ba65eb5f90a3e87620d1f3a17d4
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: f869ed1487a9995b67bda7bc1f41b20fafe8f40b
+ms.sourcegitcommit: da831601e73afd93575f3bad5b9d8c77ecfe96cf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275320"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415604"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -22,7 +22,7 @@ ms.locfileid: "60275320"
 
 > [!NOTE]
 >
->- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 2016 依預設將包括在其中。
+>- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 依預設將包括在其中。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
