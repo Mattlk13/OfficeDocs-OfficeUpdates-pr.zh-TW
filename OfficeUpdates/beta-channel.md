@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: bb6a09a0b05b389a99e37557d11f95ceeadf73da
-ms.sourcegitcommit: 048568e6fa7dded4836d9239e6fdd2b87cbf054e
+ms.openlocfilehash: a8c3abcb3cf44c03da9f036217594f60124c1b23
+ms.sourcegitcommit: da831601e73afd93575f3bad5b9d8c77ecfe96cf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2021
-ms.locfileid: "60244775"
+ms.lasthandoff: 10/16/2021
+ms.locfileid: "60415614"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,86 @@ ms.locfileid: "60244775"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-october-15"></a>版本 2111：10 月 15 日
+*版本 2111 (組建 14609.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **改善共同撰寫錯誤復原體驗：** 改良的復原體驗，可在發生共同撰寫錯誤之後，將使用者快速還原為已連線狀態。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在滑鼠移到 [儲存格格式] 功能區下拉式功能表上時，「欄」一詞消失的問題。
+
+
+- 我們已修正在工作表的索引標籤中，當地語系化字元呈現太小的問題 (僅啟用 Fluent UI 即將推出切換開關的使用者才有此問題)。
+
+
+- 我們已修正與具有凍結窗格之許多自訂視圖的活頁簿相關的問題，此問題會導致 Excel 在啟動後立即停止回應。
+
+
+- 我們已修正使用者看到音樂資料類型按鈕，但未轉換演出者的問題。
+
+
+- 我們已修正按一下 [篩選] 的熱門鍵 [e] 會與操作功能表上的 [搜尋] 發生衝突的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在產生預覽時發生的同步處理失敗。
+
+
+- 我們已修正執行搜尋時應用程式停止回應的問題。
+
+
+- 我們已修正預設敏感度標籤未在加密電子郵件上套用的問題。
+
+
+- 我們已修正系統發出邀請給出席者，但無法儲存至 [召集人] 的行事曆的問題。
+
+
+- 我們已修正「僅加密」敏感度標籤無法處理 EN 以外的所有 UI 語言的問題。
+
+
+- 我們已修正預覽會議邀請時導致 [約會] 快速檢視遭到裁剪的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當透過 CSOM 以程式設計方式將新工作新增到專案時，如果新工作的工作摘要已摺疊，工作可能無法插入正確位置的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正應用程式在註解中「提及」(@mention) 某人時停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正「wdlor」+ GUID 查詢參數可能會新增到連結的結尾問題。
+
+
+- 我們已修正會影響 MSI Office 2007 catalyst 偵測邏輯，導致 Visio 和 Project 遭到意外移除的問題。
+
+
+- 我們已修正 Office 文件中已損壞的 SVG 無法呈現 (顯示為紅色 X)，改以未損壞的影像點陣圖版本呈現的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-october-08"></a>版本 2111: 10 月 8 日
 *版本 2111 (組建 14530.20000)*
@@ -73,7 +153,7 @@ ms.locfileid: "60244775"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修正更新停止回應的問題。 此更新會如預期開啟軟體中心；它會啟動「下載並申請」階段，但會停止回應，並出現錯誤: 0x87d00668 (「軟體更新在套用之後仍偵測為可採取動作」)。
+- 我們已修正更新停止回應的問題。此更新會如預期開啟 [軟體中心]；它會啟動「下載並套用」階段，但之後會停止回應，並出現錯誤：0x87d00668 (「軟體更新在套用之後仍遭偵測為可採取動作」)。
 
 
 
@@ -2362,7 +2442,7 @@ ms.locfileid: "60244775"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 ### <a name="outlook"></a>Outlook
 
@@ -4204,6 +4284,7 @@ ms.locfileid: "60244775"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
@@ -4213,5 +4294,4 @@ ms.locfileid: "60244775"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14329.20000|version-2109-august-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
