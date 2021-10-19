@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: f869ed1487a9995b67bda7bc1f41b20fafe8f40b
-ms.sourcegitcommit: da831601e73afd93575f3bad5b9d8c77ecfe96cf
+ms.openlocfilehash: ae69849f059ad370a85e63a1ed550e3f0bb83778
+ms.sourcegitcommit: 4316c3c786e7e08071ae09e2e5a1a3b5bf68c214
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415604"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477896"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -34,6 +34,16 @@ ms.locfileid: "60415604"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+### <a name="feature-updates"></a>功能更新
+
+
+### <a name="outlook"></a>Outlook
+
+
+- **Outlook 的新設定檔卡：** Outlook 的新設定檔卡，包括更完善的組織方式，並符合 Outlook Web 卡的樣式。
+
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
@@ -1324,7 +1334,7 @@ ms.locfileid: "60415604"
 - 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，將協助改善在全球高使用量期間的同步處理與服務可用性。
 
 
-- 透過暫時調整 OneNote 2016 中的同步處理頻率，來改善同步處理與服務的穩定性。
+- 透過暫時調整 OneNote 中的同步處理頻率, 改善同步處理與服務的穩定性。
 
 
 - 改善了共同撰寫狀態的偵測，以降低資源利用率。
@@ -1333,10 +1343,10 @@ ms.locfileid: "60415604"
 - 透過暫時變更建立頁面版本歷程記錄的頻率，可改善同步處理與服務的穩定性。
 
 
-- 透過暫時將 OneNote 2016 中新嵌入附件的最大允許大小減少為 50MB，來改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
+- 透過暫時將 OneNote 中新嵌入附件的允許大小上限減少為 50MB, 改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
 
 
-- 透過暫時停用 OneNote 2016 中的應用程式內視訊錄製，來改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
+- 透過暫時停用 OneNote 中的應用程式內視訊錄製, 改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
 
 
 - 透過暫時停用將頁面移動至資源回收桶，來改善同步處理與服務的穩定性。 若使用者想要刪除頁面，則會改為顯示詢問是否要永久刪除頁面的對話方塊。
