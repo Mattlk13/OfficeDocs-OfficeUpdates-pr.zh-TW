@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每月企業通道版本的版本資訊
-ms.openlocfilehash: 171f5436b47f6d35bac641005849c165bf5b6e88
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: e9ee18fdc49b5403533c2cf11dca870859b7a571
+ms.sourcegitcommit: 4316c3c786e7e08071ae09e2e5a1a3b5bf68c214
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273416"
+ms.lasthandoff: 10/19/2021
+ms.locfileid: "60477906"
 ---
 # <a name="archived-release-notes-for-monthly-enterprise-channel"></a>每月企業通道的封存版本資訊
 這些版本資訊可提供 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月企業通道更新所含新功能和非安全性更新的相關資訊。
@@ -325,21 +325,21 @@ ms.locfileid: "59273416"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **有問題嗎？詢問 Excel**：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **有問題嗎？詢問 Excel**：現在，Excel 構想可讓您提出有關資料的問題，而不需花時間編寫公式 (僅提供英文版)。[深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並查看電子郵件中的結果 [深入瞭解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並查看電子郵件中的結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **Outlook 的新個人檔案卡片：** Outlook 的新個人檔案卡片，包括更完善的檢視，並符合 Outlook Web 的卡片樣式。 [深入了解](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+- **Outlook 的新設定檔卡：** Outlook 的新設定檔卡，包括更完善的組織方式，並符合 Outlook Web 卡的樣式。[深入了解](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -531,7 +531,7 @@ ms.locfileid: "59273416"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統會在 Windows 版 Outlook 的新右側面板中收到影響其使用者的 Outlook 和 O365 Exchange 事件通知。 [深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 - **快速重新開啟上一個工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。 不管 Outlook 當機或您將其關閉，您現在可以在重新開啟應用程式時快速重新啟動項目。 這項功能預設為啟用。 若要將它關閉，請移至 [選項] > [一般] > [啟動選項]。
 
@@ -654,7 +654,7 @@ ms.locfileid: "59273416"
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
 
-- **在 Outlook 中撰寫郵件時有新的選項可停用 @ 提及建議：** 您是否覺得 @ 提及的選擇器很煩人，一點都不好用？ 現在您可以視需要將其關閉了。<br />在[部落格文章](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)中查看詳細資料
+- **在 Outlook 中撰寫郵件時，有新選項可停用 @ 提及建議：** 您是否覺得 @ 提及選擇器很麻煩且不是很好用？現在您可以視需要將其關閉了。<br />在[部落格文章](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)中查看詳細資料
 
 - **將圖片作為電子郵件的一部分傳送時，讓圖片保持高畫質：** 一個新 Outlook 設定，可讓您在隨著電子郵件內容傳送圖片時限制圖片壓縮。
 
@@ -662,13 +662,13 @@ ms.locfileid: "59273416"
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
 
-- **改善的 PowerPoint 中的 Steam 影片效能：** 我們改善了 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立出流暢的觀賞體驗。 您可以使用 Microsoft Stream 上您的公司影片來建立更完善的簡報。
+- **改善 PowerPoint 中 Steam 影片效能：** 我們已改善 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
 
 ### <a name="word"></a>Word
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
 
-- **用其他方式表達：** 當您想要以不同方式表達時，「重寫」功能可以幫助您。 重寫提供其他不同方式來表達您的詞彙。<br />在[部落格文章](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)中查看詳細資料
+- **用另一種方式：** 當您想要以不同方式說出它時，重寫會有所幫助。重寫提供用於微調片語的替代方式。<br />在[部落格文章](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)中查看詳細資料
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -753,7 +753,7 @@ ms.locfileid: "59273416"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **更好的結果—瞬間：** 我們更新了搜尋體驗，讓這個版本比以往更聰明、更快速，且更可靠。 [深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **最佳結果 - 立即出現：** 我們更新了搜尋體驗，讓它比以往更聰明、更快速，且更可靠。[深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
 
 
@@ -856,7 +856,7 @@ ms.locfileid: "59273416"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **按幾下就能新增資料表：** 使用 [新增資料表] 工作窗格，當您工作時，該窗格會保持開啟狀態，以便將資料表新增至關聯和查詢。 [深入了解](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+- **按幾下就能新增資料表：** 使用 [新增資料表] 工作窗格，當您工作時，該窗格會保持開啟狀態，以便將資料表新增至關聯和查詢。[深入了解](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
 
 ### <a name="excel"></a>Excel
 
@@ -872,7 +872,7 @@ ms.locfileid: "59273416"
 
 - **將電子郵件拖曳到您擁有的群組：** 從您的 [收件匣] 拖曳郵件和交談以將它們移動和複製。 您拖曳的郵件將會與所有群組成員共用。<br />在[部落格文章](https://blog-insider.office.com/2020/03/02/drag-messages-from-your-personal-inbox-to-the-group-mailbox/)中查看詳細資料
 
-- **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。 [深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
+- **行事曆煥然一新：** 查看視覺更新，讓您的行事曆更容易流覽。[深入了解](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />在[部落格文章](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)中查看詳細資料
 
 - **讓郵件更生動的新影像：** 您可以在電子郵件中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[部落格文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看詳細資料
 
@@ -880,7 +880,7 @@ ms.locfileid: "59273416"
 
 - **挑選完美色彩：** 使用十六進位色彩代碼來選擇您想要的字型色彩、文字醒目提示等。<br />在[部落格文章](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)中查看詳細資料
 
-- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。 [深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
+- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。[深入了解](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
 
 - **讓投影片更生動的新影像：** 您可以在投影片中使用的數千個免版稅圖庫影像、圖示和貼紙。 移至 [插入] > [圖片] > [圖庫影像] 以開始使用。 [深入了解](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />在[部落格文章](https://blog-insider.office.com/2020/04/06/premium-creative-content/)中查看詳細資料
 
@@ -980,25 +980,25 @@ ms.locfileid: "59273416"
 
 ### <a name="excel"></a>Excel
 
-- **輸入會傳回多個值的公式**：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
+- **輸入會傳回多個值的公式:** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。[深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
 
-- **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [深入了解](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+- **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。[深入了解](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。 [深入了解](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[部落格文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看詳細資料
+- **向左看，向右看... XLOOKUP 在這裡!:** 依列在表格或範圍中使用 XLOOKUP 來尋找您需要的項目。[深入了解](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[部落格文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看詳細資料
 
 - **即時讀取與回覆：** 直接從電子郵件回覆註解和提及，而不需開啟活頁簿。
 
 ### <a name="outlook"></a>Outlook
 
-- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。 [深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **搜尋人員時取得電子郵件建議：** 當您在 [搜尋] 方塊中輸入人員的名稱時，最相關的電子郵件訊息會包括在您的搜尋建議中。[深入了解](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 - **群組命名原則：** 群組命名原則可讓 IT 系統管理員將組織中使用者所建立群組的名稱標準化及管理。 系統管理員可以要求在建立群組時，將特定首碼和尾碼新增至群組的名稱，而且可以封鎖使用特定字詞。 這有助於將群組名稱中使用不當字詞的情況最小化，以及 IT 管理其目錄中群組的表示方式。 命名原則也可協助部署小組網站的組織根據部門來分類。
 
 - **加入會議而不需離開您的收件匣：** 不需切換至您的行事曆即可加入線上會議。 將行事曆釘選到 [待辦事項] 窗格之後，只要按一下就能加入任何會議。
 
-- **受限 WiFi 網路的新體驗：** 是否曾經加入需要登入網頁的 WiFi 網路呢？ Outlook 現在會偵測這項要求並協助您取得連結。
+- **針對網頁驗證 WiFi 網路的新體驗：** 您是否曾加入需要透過網頁登入的 WiFi 網路？Outlook 現在會偵測到這個情況，並協助您連線。
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1010,7 +1010,7 @@ ms.locfileid: "59273416"
 
 - **jiffy 中的 Gif：** 一個投影片、一個圖文框。 在 PowerPoint 中輕鬆建立迴圈 Gif。 [深入了解](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)<br />在[部落格文章](https://blog-insider.office.com/2019/12/30/create-animated-gifs-using-powerpoint/)中查看詳細資料
 
-- **更好的圖表：** 使用更完善的連接線和更平滑的筆跡轉換程式，您可以自信地用筆跡繪製您的想法。 [深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **更好的圖表：** 使用更完善的連接線和更平滑的筆跡轉換程式，您可以自信地用筆跡繪製您的想法。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **在投影片放映期間更新投影片：** 在簡報期間，更新由其他作者變更的投影片。<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
 
@@ -1048,13 +1048,13 @@ ms.locfileid: "59273416"
 - 透過暫時停用將頁面移動至資源回收桶，來改善同步處理與服務的穩定性。 若使用者想要刪除頁面，則會改為顯示詢問是否要永久刪除頁面的對話方塊。
 
 
-- 透過暫時將 OneNote 2016 中新嵌入附件的最大允許大小減少為 50MB，來改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
+- 透過暫時將 OneNote 中新嵌入附件的允許大小上限減少為 50MB, 改善同步處理與服務的穩定性。 對於超過此限制的檔案，使用者可以選擇將檔案上傳到 OneDrive，並將連結插入 OneNote。
 
 
-- 透過暫時停用 OneNote 2016 中的應用程式內視訊錄製，來改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
+- 透過暫時停用 OneNote 中的應用程式內視訊錄製, 改善同步處理與服務的穩定性。 本機筆記本不受這個值的影響。
 
 
-- 透過暫時調整 OneNote 2016 中的同步處理頻率，來改善同步處理與服務的穩定性。
+- 透過暫時調整 OneNote 中的同步處理頻率, 改善同步處理與服務的穩定性。
 
 
 - 透過在資訊列中通知使用者有關 Microsoft OneNote 中的暫時調整之資訊，可協助改善在高全球使用狀況時的同步處理與服務可用性。
