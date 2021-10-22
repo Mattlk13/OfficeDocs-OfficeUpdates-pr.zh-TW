@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: ab4c55676885b87bce3be32adfd144cbaa86c97e
-ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
+ms.openlocfilehash: 966bc9ff146608f75b2e799b5f0dfb74c3bc72fa
+ms.sourcegitcommit: 6a1eea905f62769760b75bfa21201b0fcbfb4009
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60291426"
+ms.lasthandoff: 10/20/2021
+ms.locfileid: "60516143"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -43,13 +43,13 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|不適用  <br/> |2016 年 3 月 PU <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |2021 年 10 月 PU <br/>[KB5001998](https://support.microsoft.com/help/5001998) 
+|不適用  <br/> |2017 年 11 月 PU <br/>[KB4011240](https://support.microsoft.com/help/4011240) <br/> |2021 年 10 月 PU <br/>[KB5001998](https://support.microsoft.com/help/5001998) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2015 年 12 月 PU <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |2021 年 6 月 PU <br/>[KB5001934](https://support.microsoft.com/help/5001934)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2017 年 10 月 PU <br/>[KB4011178](https://support.microsoft.com/help/4011178) <br/> |2021 年 6 月 PU <br/>[KB5001934](https://support.microsoft.com/help/5001934)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 > [!IMPORTANT]
