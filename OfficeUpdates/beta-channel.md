@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a8c3abcb3cf44c03da9f036217594f60124c1b23
-ms.sourcegitcommit: da831601e73afd93575f3bad5b9d8c77ecfe96cf
+ms.openlocfilehash: c46ffeb12057e7a20ba468a4427b310f7f0cc75e
+ms.sourcegitcommit: d6c37d8eaeb4009487f9d1502753f145e770ab0e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2021
-ms.locfileid: "60415614"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60537687"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,39 @@ ms.locfileid: "60415614"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-october-22"></a>版本 2111：10 月 22 日
+*版本 2111 (組建 14613.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正查詢更新導致 Excel 停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正如果使用者在進入群組之前開啟收件者電子郵件並關閉，群組電子郵件的按樣按鈕未出現的問題。
+
+
+- 我們已修正 Outlook 在建議中顯示較少連絡人清單/連絡人群組的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正複製內嵌物件導致内嵌物件儲存，以及重新儲存包含文件 (如果已啟用自動儲存，會建立新版本) 的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在無邊際網頁檢視中，某些跨越多個頁面的資料表會向上和向下彈跳 (由於重新繪製) 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-october-15"></a>版本 2111：10 月 15 日
 *版本 2111 (組建 14609.20000)*
@@ -1851,7 +1884,7 @@ ms.locfileid: "60415614"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -2491,7 +2524,7 @@ ms.locfileid: "60415614"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -2576,7 +2609,7 @@ ms.locfileid: "60415614"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -3101,7 +3134,7 @@ ms.locfileid: "60415614"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -4284,6 +4317,7 @@ ms.locfileid: "60415614"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
@@ -4293,5 +4327,4 @@ ms.locfileid: "60415614"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14405.20002|version-2109-august-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
