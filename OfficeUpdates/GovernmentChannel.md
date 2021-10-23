@@ -9,14 +9,49 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 67b64f47f3192182730a524ceb6cf97d7535c0a6
-ms.sourcegitcommit: 98a461d110ff1fe3a2b922c5076d9cc4176145ef
+ms.openlocfilehash: edbc32776123116f053014dbe693eeb2f9ddd51e
+ms.sourcegitcommit: d6c37d8eaeb4009487f9d1502753f145e770ab0e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60111240"
+ms.lasthandoff: 10/22/2021
+ms.locfileid: "60537683"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
+
+## <a name="teams-admin-and-teams-app-october-15"></a>Teams 管理員和 Teams 應用程式: 10 月 15 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **跨雲端加入匿名會議：** 從 Teams 桌面版應用程式匿名加入其他雲端中的會議。 我們將分三個階段啟用此功能。 首先，商業和 GCC 客戶將能够加入 GCC-High 和 DOD 雲端中的會議。 接下來，我們將使 GCC-High 客戶能够加入商業、GCC 和 DOD 會議。 然後，我們將使 DOD 客戶能够參加商業、GCC 和 GCC-High 會議。
+
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
+
+## <a name="teams-admin-and-teams-app-october-14"></a>Teams 管理員和 Teams 應用程式: 10 月 14 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Windows 上的 Microsoft Teams 會議室：GCCH 中的大型圖庫檢視和在一起模式：** 在 GCCH 雲端中，Teams 會議室能够支援包含 n 大型圖庫和在一起模式的不同視訊庫版面配置。
+
+- **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
+
+- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。 
+
+- **Windows 上的 Microsoft Teams 會議室：精選多個視訊資料流：** 在 Teams 會議期間同時精選多個視視訊資料流 (最多 7 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
+
+- **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
+
+- **Windows 上的 Microsoft Teams 會議室：即時反應：** 在Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。 會議室使用者還可以從會議室主控台的中心傳送反應。 
+
+- **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
+
+## <a name="teams-admin-and-teams-app-october-11"></a>Teams 管理員和 Teams 應用程式: 10 月 11 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
 ## <a name="teams-admin-and-teams-app-september-30"></a>Teams 系統管理員和 Teams 應用程式：9 月 30 日
 
@@ -28,11 +63,10 @@ ms.locfileid: "60111240"
 
 - **Microsoft Teams - Teams 會議錄製內容到期：** 針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
 
-- **通話錄音應用程式 V2 中的一對一 VOIP 和 PSTN 通話錄音和轉錄：** 一對一 VOIP 和 PSTN 通話錄音和轉錄現在會在通話應用程式 V2 中的通話詳細資料面板中顯示。
-這是專為我們的 PSTN 客戶設計的一項重要功能。 在沒有聊天的情況下，PSTN 使用者無法檢視通話錄音和轉錄。 我們現在將通話錄音和轉錄功能整合在通話應用程式 V2 的通話記錄中。</br>
+- **通話錄音應用程式 V2 中的一對一 VOIP 和 PSTN 通話錄音和轉錄：** 一對一 VOIP 和 PSTN 通話錄音和轉錄現在會在通話應用程式 V2 中的通話詳細資料面板中顯示。 這是專為我們的 PSTN 客戶設計的一項重要功能。 在沒有聊天的情況下，PSTN 使用者無法檢視通話錄音和轉錄。 我們現在將通話錄音和轉錄功能整合在通話應用程式 V2 的通話記錄中。</br>
 **我們實現了什麼功能？** 一對一 PSTN 和 VOIP 通話的通話轉錄會顯示在通話詳細資料面板的通話記錄中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
 
-- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。 [深入了解](/MicrosoftTeams/sensitivity-labels)
+- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。[[深入了解]](/MicrosoftTeams/sensitivity-labels)
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
@@ -145,7 +179,7 @@ ms.locfileid: "60111240"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。 目前 Microsoft Teams 中新使用者的預設通知樣式是 Teams 紫色。 變更後，新使用者的預設值將會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
@@ -157,7 +191,7 @@ ms.locfileid: "60111240"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。 目前 Microsoft Teams 中新使用者的預設通知樣式是 Teams 紫色。 變更後，新使用者的預設值將會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
@@ -169,7 +203,7 @@ ms.locfileid: "60111240"
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。 目前 Microsoft Teams 中新使用者的預設通知樣式是 Teams 紫色。 變更後，新使用者的預設值會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
