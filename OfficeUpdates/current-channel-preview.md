@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7d1ad57253a16387130f8785b8866928430c9a23
-ms.sourcegitcommit: 4316c3c786e7e08071ae09e2e5a1a3b5bf68c214
+ms.openlocfilehash: a29cde6cce062d16cd03d9b3a02dfd85b92ec4cc
+ms.sourcegitcommit: 1f5bced02f410dd8893e0c7621f4649d538578ee
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "60477886"
+ms.lasthandoff: 10/23/2021
+ms.locfileid: "60558436"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,42 @@ ms.locfileid: "60477886"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-october-22"></a>版本 2110：10 月 22 日
+*版本 2110 (組建 14527.20216)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+
+- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間分心，同時讓其他參與者仍可觀看您的視訊
+
+- **Teams EHR 連接器 - Cerner 整合：** 整合 Microsoft Teams 和 Cerner，以進行虛擬看診
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會在產生預覽時導致同步處理失敗發生的問題。
+
+
+- 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在將游標停留在迷你行事曆日期時看到文字未對齊的問題。
+
+
+- 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在調整 Outlook 視窗時，在功能區中看到一些對齊問題和奇怪的視覺效果構件的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-october-18"></a>版本 2110：10 月 18 日
 *版本 2110 (組建 14527.20178)*
@@ -2193,7 +2229,7 @@ ms.locfileid: "60477886"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2622,7 +2658,7 @@ ms.locfileid: "60477886"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3384,7 +3420,7 @@ ms.locfileid: "60477886"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -4889,7 +4925,7 @@ ms.locfileid: "60477886"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
@@ -5114,7 +5150,7 @@ ms.locfileid: "60477886"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
