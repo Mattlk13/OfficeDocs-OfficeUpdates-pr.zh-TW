@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 3915281bd99e41cc44914f83dedc38fbc80ee618
-ms.sourcegitcommit: 324b94c7157d0ad5c364f9c438af3ba0aa0ca0e2
+ms.openlocfilehash: e0aad6773b30c5c06c2be257ef3686dc66abdad5
+ms.sourcegitcommit: 39d943123a14f578b366fd5e7d1eb4eba7bc5a5a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "60378430"
+ms.lasthandoff: 10/26/2021
+ms.locfileid: "60580424"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,189 @@ ms.locfileid: "60378430"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2110-october-25"></a>版本 2110：10 月 25 日
+*版本 2110 (組建 14527.20226)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+
+### <a name="outlook"></a>Outlook
+
+- **針對郵件和行事曆撰寫之展開的 GAL 人員建議：** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 現在將從完整 GAL 傳回結果。 (例如：將某人新增到新電子郵件的 [收件者] 行)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+### <a name="teams"></a>Teams
+
+- **網路版 Teams 會議中的即時文字記錄：** Teams 會議的網路使用者現可使用即時文字記錄。
+
+- **查閱/轉接的等候音樂：** 查閱/轉接的等候音樂案例，可確保通話保留中的使用者在查閱與轉接時聽到音樂，確保來電者知道通話仍在使用中。
+
+- **系統管理員可以從 Teams 系統管理中心觸發雲端命令介面：** 系統管理員可以從 Teams 系統管理中心內開啟 Azure 雲端命令介面，並從瀏覽器執行 PowerShell 指令碼。
+
+- **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
+
+- **Microsoft Teams：會議室視訊適應於畫面:** 根據預設，會議室視訊適應於畫面，並在 Teams 桌面版應用程式上提供會議室的完整檢視。 使用者可以視需要選擇將會議室視訊填滿畫面。
+
+- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
+
+- **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
+
+- **共用來自 web 會議的系統音訊：** Web Teams 會議的使用者現在可以在螢幕畫面分享期間共用音訊。
+
+- **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
+
+- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
+
+- **對主權雲端 (GCC-H) 的 Teams 來賓存取支援：** Teams 現在在主權雲端中支援來賓存取。
+
+- **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
+
+- **通話錄音應用程式 V2 中的一對一 VOIP 和 PSTN 通話錄音和轉錄：** 一對一 VOIP 和 PSTN 通話錄音和轉錄現在會在通話應用程式 V2 中的通話詳細資料面板中顯示。 這是專為我們的 PSTN 客戶設計的一項重要功能。 在沒有聊天的情況下，PSTN 使用者無法查看通話錄製和謄寫。 我們現在在通話中應用程式 V2 的通話記錄中整合了通話錄製和謄寫。我們啟用了：1:1 VOIP 和 VOIP 通話的通話謄寫會顯示在通話記錄中的通話詳細資料面板中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
+
+- **Teams 問與答：** Teams 網路研討會和會議的問題與回答應用程式。 將此應用程式新增到任何 Teams 網路研討會或會議後，使用者就能獲得經控管或未經控管問與答的體驗。
+
+- **Microsoft Teams：Safari 中網路會議的圖庫檢視提供 2x2 視訊：** 圖庫檢視現在可在 Safari 瀏覽器中的會議期間顯示最多 4 個參與者視訊。
+
+- **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
+
+- **讓 Teams 使用者能夠透過 Teams 用戶端購買 Teams 應用程式：** Teams 使用者現在可以從 Teams Store 購買 Teams 應用程式訂閱。
+
+- **Teams 中來自 Bookings 應用程式的簡訊通知：** 簡訊確認和提醒具有從 Teams 中的 Bookings 應用程式所建立約會的 Teams 會議連結。
+
+- **支援 CART 和人工輸入字幕：** Teams 會議現在支援來自 3P CART 服務提供者的内嵌 CART (通訊存取即時翻譯) 字幕。 CART 使用者現在不必開啟次要瀏覽器視窗來串流 CART 字幕。 這將協助失聰或聽力障礙的出席者參與會議，並使其簡單化，因為會議簡報者和會議內容位於同一處。
+
+- **與 IT 管理組織以外的 Teams 中的使用者進行同盟/外部存取。:** 此功能擴充了 Teams Connect 供應項目，以允許 IT 管理組織中的使用者與 IT 管理組織 (TFL) 之外的使用者進行 1:1 和群組聊天。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
+
+- **受管理模式:** 透過控制出席者可以檢視的事項和人員，加快您的生產遊戲。
+
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
+
+- **跨雲端加入匿名會議：** 從 Teams 桌面版應用程式匿名加入其他雲端中的會議。 我們將分三個階段啟用此功能。 首先，商業和 GCC 客戶將能够加入 GCC-High 和 DOD 雲端中的會議。 接下來，我們將使 GCC-High 客戶能够加入商業、GCC 和 DOD 會議。 然後，我們將使 DOD 客戶能够參加商業、GCC 和 GCC-High 會議。
+
+- **會議室容量通知：** 此功能使會議室管理員能够在會議室超過容量時自動通知會議室内的會議參與者。 作爲交換，會議室管理員可以為會議室帳戶定義會議室容量，以及會議室使用會議室相機的資料，用人員計數技術來確定會議室中的人數，如果會議室容量過大，則向會議室與會者發出警報。 通知將以橫幅形式顯示在會議室前端的螢幕頂端。
+
+- **Windows 上的 Microsoft Teams 會議室：精選多個視訊資料流：** 在 Teams 會議期間同時精選多個視視訊資料流 (最多 7 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
+
+- **Windows 上的 Teams 會議室：支援大型會議控制項:** Windows 上的 Teams 會議室作為簡報者或出席者加入大型會議的能力。 根據 Teams 會議室判斷的角色，為簡報者和出席者提供適當的會議控制項。
+
+- **Windows 上的 Microsoft Teams 會議室：鎖定會議支援[：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
+
+- **Windows 上的 Teams 會議室：支援 Logitech Scribe 內容相機:** 在 Teams 會議室中，您可以使用 Logitech Scribe 內容相機和 Teams 中的 Intelligent Capture 功能輕鬆地將類比白板共用至 Teams 會議中。
+
+- **Windows 上的 Microsoft Teams 會議室：即時反應：** 在Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。 會議室使用者還可以從會議室主控台的中心傳送反應。
+
+- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。 
+
+- **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
+
+- **Windows 上的 Teams 會議室：更新的會議名冊：** 更新後的會議名册 (在 Teams Rooms 主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。 還有從邀請清單或聊天，邀請其他人參加會議的功能。
+
+- **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
+
+- **Windows 上的 Microsoft Teams 會議室：GCCH 中的大型圖庫檢視和在一起模式：** 在 GCCH 雲端中，Teams 會議室能够支援包含大型圖庫和在一起模式的不同視訊庫版面配置。
+
+- **VDI 的多視窗支援 - Azure 虛擬桌面:** 使用者將能够從主 Microsoft Teams 用戶端在另個視窗中檢視會議與通話。 此外，會議與撥號控制 (如靜音、視訊、聊天、離開等) 現在將位於會議視窗的頂端，以便可隨時使用它們，並且不會封鎖基礎內容。
+
+- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間分心，同時讓其他參與者仍可觀看您的視訊
+
+- **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
+
+- **支援 CART 和人工輸入字幕：** Teams 會議現在支援來自 3P CART 服務提供者的内嵌 CART (通訊存取即時翻譯) 字幕。 CART 使用者現在不必開啟次要瀏覽器視窗來串流 CART 字幕。 這將協助失聰或聽力障礙的出席者參與會議，並使其簡單化，因為會議簡報者和會議內容位於同一處。
+
+- **Teams 的音樂模式：** 在音樂模式下，我們支援高達 32 kHz 的取樣率單聲道音訊 (128 kbps)，並最佳化內部音訊處理設定，以高逼真度再現音樂。 Teams 將根據可用頻寬自動調整音訊位元速率，在降至 48 kbps 的同時仍能提供良好的音質。 如有需要，我們還為使用者提供關閉回音消除、噪音抑制和增益控制等元件的選項。 若要從此提升的逼真度中獲益，專業麥克風和耳機或高品質外部喇叭是理想選擇 (無藍牙耳機)。 膝上型電腦 (如 Surface Book) 上的內建式麥克風和喇叭也將提供良好體驗。
+
+### <a name="word"></a>Word
+
+- **大聲朗讀功能變得更好：** 新的大聲朗讀工具列提供全新、聽起來很自然的語音選項。
+
+- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。[深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)<br />在[部落格文章](https://www.youtube.com/watch?v=p-BR1mXwtB0)中查看詳細資料
+
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+
+### <a name="office-suite"></a>Office 套件
+
+
+- **大聲朗讀功能變得更好：** 大聲朗讀工具列提供全新、聽起來很自然的語音選項。<br />在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
+
+- **使用您的語音以傳送電子郵件和 @提及人員：** 在日益忙碌的世界中，聽寫您的電子郵件 Outlook，已成為提升效率的最流行方式。 我們現在新增特定語音命令，讓此功能更加強大--只用您的聲音即可將人員新增到電子郵件、在郵件中提及 (@name) 某人，以及傳送郵件。<br />在[部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+- 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正查詢更新導致 Excel 停止回應的問題。
+
+
+- 我們已修正開啟 Excel 檔案時儲存格選擇取關閉的問題。
+
+
+- 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會在產生預覽時導致同步處理失敗發生的問題。
+
+
+- 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在將游標停留在迷你行事曆日期時看到文字未對齊的問題。
+
+
+- 我們修正了導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
+
+
+- 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在調整 Outlook 視窗時，在功能區中看到一些對齊問題和奇怪的視覺效果構件的問題。
+
+
+- 我們修正了導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
+
+
+- 我們修正了預覽會議邀請時導致約會快速模式被裁掉的問題。
+
+
+- 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當透過 CSOM 以程式設計方式將新工作新增到專案時，如果新工作的工作摘要已摺疊，工作可能無法插入正確位置的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2109-october-14"></a>版本 2109：10 月 14 日
 *版本 2109 (組建 14430.20306)*
@@ -1167,7 +1350,7 @@ ms.locfileid: "60378430"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1280,7 +1463,7 @@ ms.locfileid: "60378430"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -1501,7 +1684,7 @@ ms.locfileid: "60378430"
 - 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -1600,7 +1783,7 @@ ms.locfileid: "60378430"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 - 此變更解決了在方程式中正確顯示字型的問題。
@@ -1626,6 +1809,7 @@ ms.locfileid: "60378430"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14527.20226|version-2110-october-25|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20306|version-2109-october-14|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
@@ -1635,5 +1819,4 @@ ms.locfileid: "60378430"
 [//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.14228.20250|version-2107-august-10|)
-[//]: # (|Win32|CC|Production| |16.0.14228.20226|version-2107-august-03|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
