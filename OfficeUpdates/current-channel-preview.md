@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 0a3a2f436ea58408a191d27fb21b50bfc37b2e86
-ms.sourcegitcommit: 39d943123a14f578b366fd5e7d1eb4eba7bc5a5a
+ms.openlocfilehash: 3743dbbdc7a588b3b7659dcb070368a3abdab64f
+ms.sourcegitcommit: 9ed8c407936e38d09eee28d55fb6dc966e2fa295
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60580403"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60718707"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -29,6 +29,51 @@ ms.locfileid: "60580403"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2110-october-28"></a>版本 2110：10 月 28 日
+*版本 2110 (組建 14527.20234)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 此頁面將會顯示每個網域的熱門結果、書籤和縮略字答案、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+
+- **Bookings 應用程式中已排程的虛擬看診佇列檢視：** Bookings 應用程式中已排程的虛擬看診佇列視中的會議狀態即時更新。
+
+- **Teams EHR 連接器 - Cerner 整合：** 整合 Microsoft Teams 和 Cerner 以進行虛擬看診。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 已修正繪製影像時，應用程式可能會停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正繪製影像時，應用程式可能會停止回應的問題。
+
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+
+- 我們已修正部分筆記型電腦上的混合式相機未顯示在 SfB 用戶端中的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正繪製影像時，應用程式可能會停止回應的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2110-october-25"></a>版本 2110：10 月 25 日
 *版本 2110 (組建 14527.20226)*
 
@@ -40,8 +85,6 @@ ms.locfileid: "60580403"
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
 - **Bookings 應用程式中的已排程虛擬看診佇列檢視：** Bookings 應用程式中的已排程虛擬看診佇列視中的會議狀態即時更新。
-
-- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間干擾，同時讓其他參與者仍可觀看您的視訊。
 
 - **Teams EHR 連接器 - Cerner 整合：** 整合 Microsoft Teams 和 Cerner 以進行虛擬看診。
 
@@ -70,8 +113,6 @@ ms.locfileid: "60580403"
 ### <a name="teams"></a>Teams
 
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
-
-- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間分心，同時讓其他參與者仍可觀看您的視訊
 
 - **Teams EHR 連接器 - Cerner 整合：** 整合 Microsoft Teams 和 Cerner，以進行虛擬看診
 
@@ -106,9 +147,6 @@ ms.locfileid: "60580403"
 ### <a name="teams"></a>Teams
 
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
-
-- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間分心，同時讓其他參與者仍可觀看您的視訊
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -157,12 +195,6 @@ ms.locfileid: "60580403"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a>功能更新
-### <a name="teams"></a>Teams
-
-- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
-
-- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -344,28 +376,6 @@ ms.locfileid: "60580403"
 ### <a name="teams"></a>Teams
 
 - **用於取得範本的圖形 API：** 取得範本圖形 API 將提供組織中可用的團隊範本清單。 範本清單包含 Microsoft 提供的內建範本，以及租用戶建立的自訂企業營運範本。
-
-- **Microsoft Teams：自動化網路研討會邀請：** 設定並排程網路研討會時，網路研討會邀請現在會自動新增到出席者的行事曆。
-
-- **Microsoft Teams：網路研討會通訊的網域自訂：** 在網路研討會通訊中展現組織的品牌。 將網路研討會電子郵件寄給出席者時，您的網域名稱現在會自動顯示在寄件者電子郵件中，讓出席者更容易識別。
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-## <a name="version-2109-september-20"></a>版本 2109: 9 月 20 日
-*版本 2109 (版本 14430.20174)*
-* 各種錯誤和效能修正。
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="teams"></a>Teams
-
-- **受管理模式:** 透過控制出席者可以檢視的事項和人員，加快您的生產遊戲
-
-- **Microsoft Teams：網路研討會的受管理模式：** 網路研討會中的召集人和簡報者可以輕鬆地設定、管理及控制觀眾的視圖、持續聚焦在簡報者和內容上，以及將干擾最小化。 透過在會議設定中啟用受管理模式，您可以在上播前設定內容和簡報者、控制出席者一直看到的內容和內容，以及在多個簡報者和參與者間切換。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -682,10 +692,7 @@ ms.locfileid: "60580403"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-### <a name="feature-updates"></a>功能更新
-### <a name="teams"></a>Teams
 
-- **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -725,9 +732,6 @@ ms.locfileid: "60580403"
 ### <a name="teams"></a>Teams
 
 - **查閱/轉接的等候音樂：** 查閱/轉接的等候音樂案例，可確保通話保留中的使用者在查閱與轉接時聽到音樂，確保來電者知道通話仍在使用中。
-
-- **網路版 Teams 會議中的即時文字記錄：** Teams 會議的網路使用者現可使用即時文字記錄。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -796,10 +800,6 @@ ms.locfileid: "60580403"
 
 
 - **Citrix 的雙音多頻訊號：** Citrix 客戶 VDI 上的 Teams DTMF。適用於 Teams 的雙音多頻訊號 (DTMF) 現在可供 Citrix VDI 上的使用者使用。 之前，當 Citrix VDI 使用者使用撥入號碼撥入會議時，通話雖已連接，但您會因為未送出 DTMF 音調而未獲准加入會議。 現在，當同一位使用者輸入會議識別碼時，DTMF 會識別輸入的識別碼，並准許使用者加入會議。
-
-
-- **1:1 VOIP 和 PSTN 通話錄製和謄寫通話中應用程式 V2：** 1:1 VOIP 和 PSTN 通話錄製和謄寫現在會顯示在通話中應用程式 V2 的通話詳細資料面板中。這是專為我們的 PSTN 客戶設計的一項關鍵功能。 在沒有聊天的情況下，PSTN 使用者無法查看通話錄製和謄寫。 我們現在在通話中應用程式 V2 的通話記錄中整合了通話錄製和謄寫。我們啟用了：1:1 VOIP 和 VOIP 通話的通話謄寫會顯示在通話記錄中的通話詳細資料面板中。1:1 VOIP 和 VOIP 通話的通話錄製會顯示在通話記錄中的通話詳細資料面板中。 使用者可以從聊天刪除錄製內容，且錄製內容不會顯示在通話記錄中的通話詳細資料面板中。如果通話中有多個錄製，它們將會以清單表單方式在通話記錄中的通話詳細資料面板中顯示。
-
 
 - **聊天失敗時的錯誤畫面：** 萬一會議期間無法呈現聊天，使用者會看到聊天錯誤畫面。
 
@@ -2261,7 +2261,7 @@ ms.locfileid: "60580403"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2690,7 +2690,7 @@ ms.locfileid: "60580403"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3452,7 +3452,7 @@ ms.locfileid: "60580403"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
