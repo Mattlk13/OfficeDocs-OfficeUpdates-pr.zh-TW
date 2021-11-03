@@ -15,46 +15,54 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 48a8b4a9209dbc2b2a087651db5a8b101a1138cc
-ms.sourcegitcommit: d6c37d8eaeb4009487f9d1502753f145e770ab0e
+ms.openlocfilehash: 98e5b3cc594b74846f4902ef179d3d66cafcef6e
+ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60537702"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60675015"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
 這些版本資訊會提供 Microsoft Teams 之新系統管理功能的相關資訊。
 
+[//]: # (不移除日期內容開始)
+
 ## <a name="october-15-2021"></a>2021年10月15日
 
-- **在各群間加入匿名會議：** 以匿名方式從您的 Teams 桌面應用程式加入其他群中的會議。 我們將在三個階段啟用這項功能。 第一個、商業和 GCC 客戶將能夠在 GCC-High 和 DOD 雲端加入會議。 接下來，我們會讓 GCC-High 客戶加入商業性、GCC 和 DOD 的會議。 然後，我們會讓 DOD 客戶加入商業性、GCC 和 GCC-High 會議。 
+[//]: # (不移除日期內容結束)
 
-- 會議室 **容量通知：** 這項功能可讓會議室管理員在會議室超過容量時，自動通知會議室會議參與者。 會議室管理員可以為 exchange 和會議室中的會議室帳戶定義會議室的容量使用會議會議室相機中的資料與人員計數技術，以識別會議室中有多少人，以及在會議室會議參與者的容量過大時發出警示。 通知會以橫幅顯示在會議室正面的畫面上方。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/re-imagine-meeting-room-experiences-with-teams-enabled-devices/ba-p/1509170)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-- **Windows 上的 Microsoft Teams 會議室：支援大型會議控制項：** 在 Windows 上加入大型會議做為簡報者或出席者的 Teams 會議室的功能。 根據 Teams 聊天室假設的角色，可供簡報者用於會議仲裁和出席者的適當會議控制項。
+- **跨雲端加入匿名會議：** 從 Teams 桌面版應用程式匿名加入其他雲端中的會議。 我們將分三個階段啟用此功能。 首先，商業和 GCC 客戶將能够加入 GCC-High 和 DOD 雲端中的會議。 接下來，我們將使 GCC-High 客戶能够加入商業、GCC 和 DOD 會議。 然後，我們將使 DOD 客戶能够參加商業、GCC 和 GCC-High 會議。 
 
-- **Windows 上的 Microsoft Teams 會議室：固定多個影片流量：** 可在 Teams 會議期間同時將多個影片資料流程的功能， (最多9位參與者) 。 使用者可以從會議室主控台的中央選擇要固定的參與者。 
+- **會議室容量通知：** 此功能使會議室管理員能够在會議室超過容量時自動通知會議室内的會議參與者。 作爲交換，會議室管理員可以為會議室帳戶定義會議室容量，以及會議室使用會議室相機的資料，用人員計數技術來確定會議室中的人數，如果會議室容量過大，則向會議室與會者發出警報。 通知將以橫幅形式顯示在會議室前端的螢幕頂端。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/re-imagine-meeting-room-experiences-with-teams-enabled-devices/ba-p/1509170)
 
-- **Windows 上的 Microsoft Teams 會議室：聚光燈多個影片資料流程：** 可聚焦多個影片資料流程的功能 (于 Teams 會議期間同時) 多個參與者。 使用者可以從會議室主控台的中心選取要固定的參與者。
+- **Windows 上的 Teams 會議室：支援大型會議控制項:** Windows 上的 Teams 會議室作為簡報者或出席者加入大型會議的能力。 根據 Teams 會議室判斷的角色，為簡報者和出席者提供適當的會議控制項。
 
-- **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，避免其他參與者加入的功能。 嘗試加入鎖定會議的使用者會收到通知，告知會議已鎖定。
+- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。 
 
-- **Windows 上的 Microsoft Teams 會議室： Live 反應：** 能夠在 Teams 會議室中，查看會議室前面的 Teams 會議中的參與者所傳送的即時反應。 會議室使用者也可以從會議室主控台的中央傳送反應。 
+- **Windows 上的 Microsoft Teams 會議室：精選多個視訊資料流：** 在 Teams 會議期間同時精選多個視視訊資料流 (最多 7 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
 
-- **Windows 上的 Microsoft Teams 會議室：支援 Logitech 尺內容相機：** 從 Teams 聊天室，您可以使用 Teams 中的 Logitech 尺內容相機和智慧捕獲功能，輕鬆地分享類比白板進入 Teams 會議。
+- **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
 
-- **Windows 上的 Microsoft Teams 會議室：大型圖庫 view 和 GCCH 中的模式：** 在 GCCH 雲彩中，支援不同影片庫版面配置 Teams 會議室的功能，包括多元圖庫和一起模式。
+- **Windows 上的 Microsoft Teams 會議室：即時反應：** 在Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。 會議室使用者還可以從會議室主控台的中心傳送反應。 
 
-- **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 在會議室的前端顯示簡報者模式視圖的功能 Teams 會議室。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂影片摘要和內容對會議物件的顯示方式。
+- **Windows 上的 Teams 會議室：支援 Logitech Scribe 內容相機:** 在 Teams 會議室中，您可以使用 Logitech Scribe 內容相機和 Teams 中的 Intelligent Capture 功能輕鬆地將類比白板共用至 Teams 會議中。
 
-- **Windows 上的 Microsoft Teams 會議室：更新的會議名單：**「Teams 會議室主控台」上的更新的會議名單 (可供查看) 更接近 Teams 桌面應用程式可用的體驗，並包含參與者群組的功能，依舉手的方式排序名單，整合式使用者搜尋。 也可以讓其他人加入來自邀請清單或聊天的會議。
+- **Windows 上的 Microsoft Teams 會議室：GCCH 中的大型圖庫檢視和在一起模式：** 在 GCCH 雲端中，Teams 會議室能够支援包含 n 大型圖庫和在一起模式的不同視訊庫版面配置。
 
-- **Windows 上的 Microsoft Teams 會議室：單一和雙重顯示上的動態視圖：** 動態視圖會在 Teams 會議中自動優化共用內容和影片參與者。 新的控制項可讓您個人化此視圖，以符合您的喜好設定和需求，例如能夠並排顯示共用內容和特定參與者，或只查看內容或人員。
+- **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
+
+- **Windows 上的 Teams 會議室：更新的會議名冊：** 更新後的會議名册 (在 Teams Rooms 主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。 還有從邀請清單或聊天，邀請其他人參加會議的功能。
+
+- **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="october-14-2021"></a>2021 年 10 月 14 日
 
-- **Windows 上的 Microsoft Teams 會議室：跨多個畫面分割影片版面配置：** 可將影片庫分割在 Teams 聊天室中的所有可用顯示、未共用內容、最大化螢幕空間，以及對遠端加入的人員帶來更多注意。
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
 
 ## <a name="october-12-2021"></a>2021 年 10 月 12 日
 
@@ -70,7 +78,7 @@ ms.locfileid: "60537702"
 
 ## <a name="october-6-2021"></a>2021 年 10 月 6 日
 
-- **在 IT 受管理組織以外 Teams 使用者加入同盟/外部存取：** 這項功能會將 Teams 連線產品擴充，讓 it 受管理組織中的使用者能夠 (TFL) 的使用者以外的使用者啟動1:1 和群組聊天。 不支援會議、TFL 使用者開始交談或此次發行中的通話。 EDU 承租人最初隻支援此功能。
+- **在 IT 受管理組織以外 Teams 使用者加入同盟/外部存取：** 這項功能會將 Teams 連線產品擴充，讓 it 受管理組織中的使用者能夠 (TFL) 的使用者以外的使用者啟動1:1 和群組聊天。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
 
 ## <a name="october-4-2021"></a>2021年10月4日
 
@@ -117,7 +125,7 @@ ms.locfileid: "60537702"
 
 - **webRTC 中的螢幕畫面分享：** 提供者可以在已啟用 webRTC 的會議中與病患分享其螢幕畫面。
 
-- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。 [深入了解](/MicrosoftTeams/sensitivity-labels)
+- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。[[深入了解]](/MicrosoftTeams/sensitivity-labels)
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
@@ -128,7 +136,7 @@ ms.locfileid: "60537702"
 
 - **系統管理員可以從 Teams 系統管理中心觸發雲端命令介面：** 系統管理員可以從 Teams 系統管理中心內開啟 Azure 雲端命令介面，並從瀏覽器執行 PowerShell 指令碼。
 
-- **明確錄製開始/停止訊息，以改善記錄可用性及** 可探索性：在聊天中重新設計錄製開始及停止訊息，以提升可探索性和協助工具。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
+- **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
 
 - **將 OneNote 連結的連結取消展開：** 使用者可以在 Teams 中複製並貼上筆記本連結，以便與其他 Teams 使用者共用。
 
@@ -156,7 +164,7 @@ ms.locfileid: "60537702"
 
 ## <a name="september-13-2021"></a>2021 年 9 月 13 日
 
-- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。 [深入了解](/MicrosoftTeams/sensitivity-labels)
+- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。[[深入了解]](/MicrosoftTeams/sensitivity-labels)
 
 ## <a name="september-8-2021"></a>2021年9月8日
 
