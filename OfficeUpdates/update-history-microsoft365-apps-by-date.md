@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 3287759aaf9f393352e5a45858cc5a8e3c0c370b
-ms.sourcegitcommit: 39d943123a14f578b366fd5e7d1eb4eba7bc5a5a
+ms.openlocfilehash: afcfe636d6db5241306b82115998e267f6d38da5
+ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60580430"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60675285"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,7 +33,7 @@ ms.locfileid: "60580430"
 
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2110<br/>|14527.20226<br/>|2021 年 10 月 25 日<br/>|2021 年 10 月 25 日<br/>|版本 2111 已推出<br/>|
+|目前通道<br/>|2110<br/>|14527.20234<br/>|2021 年 10 月 28 日<br/>|2021 年 10 月 25 日<br/>|版本 2111 已推出<br/>|
 |每月企業通道<br/>|2108<br/>|14326.20508<br/>|2021 年 10 月 12 日<br/>|2021 年 10 月 12 日<br/>|2021 年 12 月 14 日<br/>|
 |每月企業通道<br/>|2107<br/>|14228.20340<br/>|2021 年 10 月 12 日<br/>|2021 年 9 月 14 日<br/>|2021 年 11 月 9 日<br/>|
 |半年企業通道 (預覽)<br/>|2108<br/>|14326.20508<br/>|2021 年 10 月 12 日<br/>|2021 年 9 月 14 日<br/>|2022 年 3 月 8 日<br/>|
@@ -52,6 +52,7 @@ ms.locfileid: "60580430"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|10 月 28 日|[版本 2110 (組建 14527.20234)](current-channel.md#version-2110-october-28)| | | |
 |2021|10 月 25 日|[版本 2110 (組建 14527.20226)](current-channel.md#version-2110-october-25)| | | |
 |2021|10 月 14 日|[版本 2109 (組建 14430.20306)](current-channel.md#version-2109-october-14)| | | |
 |2021|10 月 12 日|[版本 2109 (組建 14430.20298)](current-channel.md#version-2109-october-12)|[版本 2108 (組建 14326.20508)](monthly-enterprise-channel.md#version-2108-october-12)<br/>[版本 2107 (組建 14228.20340)](monthly-enterprise-channel.md#version-2107-october-12)|[版本 2108 (組建 14326.20508)](semi-annual-enterprise-channel-preview.md#version-2108-october-12)|[版本 2102 (組建 13801.21004)](semi-annual-enterprise-channel.md#version-2102-october-12)<br/>[版本 2008 (組建 13127.21792)](semi-annual-enterprise-channel.md#version-2008-october-12)|
