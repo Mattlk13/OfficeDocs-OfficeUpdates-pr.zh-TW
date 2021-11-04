@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c46ffeb12057e7a20ba468a4427b310f7f0cc75e
-ms.sourcegitcommit: d6c37d8eaeb4009487f9d1502753f145e770ab0e
+ms.openlocfilehash: ee7b114ae29384eff68899d220dc685de0eb4bda
+ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60537687"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60675075"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,71 @@ ms.locfileid: "60537687"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-october-29"></a>版本 2111: 10 月 29 日
+*版本 2111 (組建 14623.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正輸入查詢之後選取新工作表中的範圍, 然後從該範圍載入, 導致查詢編輯器以錯誤的資料表名稱開啟的問題。
+
+
+- 我們已修正在方格中遠距傳輸時 (例如使用 Ctrl + 方向鍵), 導致呈現錯誤的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在行事曆檢視中顯示全天活動結束日期錯誤的問題。
+
+
+- 我們已修正當您執行「檔案 - 傳送至 – 郵件收件者」時 Windows 檔案總管會意外關閉的問題。 
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當使用者以直向將文件從較大的紙張大小變更為較小的紙張大小時, 列印工作會中斷 (資料遺失) 的問題。
+
+
+- 我們已修正問題, 因此如果使用者明確以唯讀模式開啟檔案, 應用程式就不會再提示輸入密碼來修改。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正導致自動卷軸模式無法運作的問題。
+
+
+- 我們已修正共同撰寫模式可能無法儲存修改的問題。
+
+
+- 我們已修正某些文件中可能會遺失圖形的問題。
+
+
+- 我們已修正將文字以「保留純文字」貼上時, 某些字型樣式無法正確對應的問題。
+
+
+- 我們已修正合併列印格式化的文件無法以.doc 儲存的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 PowerPoint 應用程式停止回應, 且會顯示錯誤訊息「ERROR_TOO_MANY_FILES」的問題。
+
+
+- 我們已修正此問題, 使以有限權限開啟的文件可以啟用色彩選擇工具的功能。
+
+
+- 我們已修正在 PowerPoint 的投影片放映簡報模式中, 裁剪成非矩形圖案的動畫 GIF 無法呈現動畫的問題。
+
+
+- 我們在 [錄製投影片放映] 對話方塊中新增了一個選項, 以移除關閉時 [匯出至視訊] 的提示。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-october-22"></a>版本 2111：10 月 22 日
 *版本 2111 (組建 14613.20000)*
@@ -362,7 +427,7 @@ ms.locfileid: "60537687"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。此更新也會提供準確性改善和全球化支援。[深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="outlook"></a>Outlook
 
@@ -370,11 +435,11 @@ ms.locfileid: "60537687"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。此更新也會提供準確性改善和全球化支援。[深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="word"></a>Word
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。此更新也會提供準確性改善和全球化支援。[深入了解] https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1884,7 +1949,7 @@ ms.locfileid: "60537687"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -2524,7 +2589,7 @@ ms.locfileid: "60537687"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -2609,7 +2674,7 @@ ms.locfileid: "60537687"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -3134,7 +3199,7 @@ ms.locfileid: "60537687"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -4317,6 +4382,7 @@ ms.locfileid: "60537687"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
@@ -4326,5 +4392,4 @@ ms.locfileid: "60537687"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14416.20006|version-2109-august-20|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

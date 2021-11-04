@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: e0aad6773b30c5c06c2be257ef3686dc66abdad5
-ms.sourcegitcommit: 39d943123a14f578b366fd5e7d1eb4eba7bc5a5a
+ms.openlocfilehash: 34cfdd3732daffe14a2072ddd2e12c32c21508d0
+ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/26/2021
-ms.locfileid: "60580424"
+ms.lasthandoff: 11/02/2021
+ms.locfileid: "60675025"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -35,6 +35,34 @@ ms.locfileid: "60580424"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
+## <a name="version-2110-october-28"></a>版本 2110: 10 月 28 日
+*版本 2110 (組建 14527.20234)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
+
+
+### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
+
+- 已修正部分膝上型電腦的混合式相機未在 SfB 用戶端中顯示的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2110-october-25"></a>版本 2110：10 月 25 日
 *版本 2110 (組建 14527.20226)*
 
@@ -43,7 +71,7 @@ ms.locfileid: "60580424"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 ### <a name="outlook"></a>Outlook
@@ -52,7 +80,7 @@ ms.locfileid: "60580424"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="teams"></a>Teams
 
@@ -65,8 +93,6 @@ ms.locfileid: "60580424"
 - **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
 
 - **Microsoft Teams：會議室視訊適應於畫面:** 根據預設，會議室視訊適應於畫面，並在 Teams 桌面版應用程式上提供會議室的完整檢視。 使用者可以視需要選擇將會議室視訊填滿畫面。
-
-- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
@@ -96,8 +122,6 @@ ms.locfileid: "60580424"
 
 - **與 IT 管理組織以外的 Teams 中的使用者進行同盟/外部存取。:** 此功能擴充了 Teams Connect 供應項目，以允許 IT 管理組織中的使用者與 IT 管理組織 (TFL) 之外的使用者進行 1:1 和群組聊天。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
 
-- **受管理模式:** 透過控制出席者可以檢視的事項和人員，加快您的生產遊戲。
-
 - **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
 
 - **跨雲端加入匿名會議：** 從 Teams 桌面版應用程式匿名加入其他雲端中的會議。 我們將分三個階段啟用此功能。 首先，商業和 GCC 客戶將能够加入 GCC-High 和 DOD 雲端中的會議。 接下來，我們將使 GCC-High 客戶能够加入商業、GCC 和 DOD 會議。 然後，我們將使 DOD 客戶能够參加商業、GCC 和 GCC-High 會議。
@@ -108,7 +132,7 @@ ms.locfileid: "60580424"
 
 - **Windows 上的 Teams 會議室：支援大型會議控制項:** Windows 上的 Teams 會議室作為簡報者或出席者加入大型會議的能力。 根據 Teams 會議室判斷的角色，為簡報者和出席者提供適當的會議控制項。
 
-- **Windows 上的 Microsoft Teams 會議室：鎖定會議支援[：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
+- **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
 
 - **Windows 上的 Teams 會議室：支援 Logitech Scribe 內容相機:** 在 Teams 會議室中，您可以使用 Logitech Scribe 內容相機和 Teams 中的 Intelligent Capture 功能輕鬆地將類比白板共用至 Teams 會議中。
 
@@ -126,8 +150,6 @@ ms.locfileid: "60580424"
 
 - **VDI 的多視窗支援 - Azure 虛擬桌面:** 使用者將能够從主 Microsoft Teams 用戶端在另個視窗中檢視會議與通話。 此外，會議與撥號控制 (如靜音、視訊、聊天、離開等) 現在將位於會議視窗的頂端，以便可隨時使用它們，並且不會封鎖基礎內容。
 
-- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間分心，同時讓其他參與者仍可觀看您的視訊
-
 - **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
 
 - **支援 CART 和人工輸入字幕：** Teams 會議現在支援來自 3P CART 服務提供者的内嵌 CART (通訊存取即時翻譯) 字幕。 CART 使用者現在不必開啟次要瀏覽器視窗來串流 CART 字幕。 這將協助失聰或聽力障礙的出席者參與會議，並使其簡單化，因為會議簡報者和會議內容位於同一處。
@@ -136,17 +158,17 @@ ms.locfileid: "60580424"
 
 ### <a name="word"></a>Word
 
-- **大聲朗讀功能變得更好：** 新的大聲朗讀工具列提供全新、聽起來很自然的語音選項。
+- **大聲朗讀功能變得更好：** 新的大聲朗讀工具列提供全新、聽起來很自然的語音選項。</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
 
-- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。[深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)<br />在[部落格文章](https://www.youtube.com/watch?v=p-BR1mXwtB0)中查看詳細資料
+- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。[深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 ### <a name="office-suite"></a>Office 套件
 
 
-- **大聲朗讀功能變得更好：** 大聲朗讀工具列提供全新、聽起來很自然的語音選項。<br />在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
+- **大聲朗讀功能變得更好：** 大聲朗讀工具列提供全新、聽起來很自然的語音選項。</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
 
 - **使用您的語音以傳送電子郵件和 @提及人員：** 在日益忙碌的世界中，聽寫您的電子郵件 Outlook，已成為提升效率的最流行方式。 我們現在新增特定語音命令，讓此功能更加強大--只用您的聲音即可將人員新增到電子郵件、在郵件中提及 (@name) 某人，以及傳送郵件。<br />在[部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook)中查看詳細資料
 
@@ -287,10 +309,6 @@ ms.locfileid: "60580424"
 - **職涯教練 - 改進的協助工具與次要更新：** 職涯教練將收到有關複製和效能的次要更新。 該應用程式還將為鍵盤瀏覽和螢幕助讀程式提供更高等級的協助工具。
 
 - **Teams 聊天中的流體元件：** Teams 聊天中的流體元件可讓終端使用者傳送帶有可由内部所有人共同撰寫和編輯表格、動作項目或清單的訊息。
-
-- **Microsoft Teams：網路研討會通訊的網域自訂：** 在網路研討會通訊中展現組織的品牌。 將網路研討會電子郵件寄給出席者時，您的網域名稱現在會自動顯示在寄件者電子郵件中，讓出席者更容易識別。
-
-- **Microsoft Teams：自動化網路研討會邀請：** 設定並排程網路研討會時，網路研討會邀請現在會自動新增到出席者的行事曆。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1218,7 +1236,7 @@ ms.locfileid: "60580424"
 ## <a name="version-2103-april-13"></a>版本 2103：4 月 13 日
 *版本 2103 (組建 13901.20400)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1277,7 +1295,7 @@ ms.locfileid: "60580424"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1293,11 +1311,11 @@ ms.locfileid: "60580424"
 
 - **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="teams"></a>Teams
 
@@ -1323,7 +1341,7 @@ ms.locfileid: "60580424"
 
 - **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1786,7 +1804,7 @@ ms.locfileid: "60580424"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
@@ -1809,6 +1827,7 @@ ms.locfileid: "60580424"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14527.20234|version-2110-october-28|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20226|version-2110-october-25|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20306|version-2109-october-14|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
@@ -1818,5 +1837,4 @@ ms.locfileid: "60580424"
 [//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
-[//]: # (|Win32|CC|Production| |16.0.14228.20250|version-2107-august-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
