@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 15acbde6fdcc9fa507af6c4305f0aa1732831b84
-ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
+ms.openlocfilehash: 7a9fd069a7f53a2873f5b8f16c6ed42c82354fa5
+ms.sourcegitcommit: 9ed8c407936e38d09eee28d55fb6dc966e2fa295
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60675085"
+ms.lasthandoff: 11/03/2021
+ms.locfileid: "60718717"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
@@ -33,6 +33,9 @@ ms.locfileid: "60675085"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2021 年 11 月 2 日**<br/>
+版本 2111 (組建 14630.20000)<br/>
 
 **2021 年 10 月 27 日**<br/>
 版本 2111 (組建 14623.20002)<br/>

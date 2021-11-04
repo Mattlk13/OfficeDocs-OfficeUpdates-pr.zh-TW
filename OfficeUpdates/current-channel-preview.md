@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3743dbbdc7a588b3b7659dcb070368a3abdab64f
-ms.sourcegitcommit: 9ed8c407936e38d09eee28d55fb6dc966e2fa295
+ms.openlocfilehash: 6b5641b3d39444278ccf53c2648ffe37b9e3940d
+ms.sourcegitcommit: e78b349bd3a9f2f38329c56511def6c292cdd62f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60718707"
+ms.lasthandoff: 11/04/2021
+ms.locfileid: "60742509"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -29,7 +29,38 @@ ms.locfileid: "60718707"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2110-october-28"></a>版本 2110：10 月 28 日
+## <a name="version-2110-november-03"></a>版本 2110：11 月 3 日
+*版本 2110 (組建 14527.20254)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 開啟 Dynamics 的連結資料表時，顯示資料時，數字可能會呈現為小型方塊。  若要解決此問題，請在資料表設計檢視中開啟連結，並清除任何受影響資料行的格式屬性。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2110-october-28"></a>版本 2110: 10 月 28 日
 *版本 2110 (組建 14527.20234)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -53,22 +84,22 @@ ms.locfileid: "60718707"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 已修正繪製影像時，應用程式可能會停止回應的問題。
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正繪製影像時，應用程式可能會停止回應的問題。
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
 
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 
-- 我們已修正部分筆記型電腦上的混合式相機未顯示在 SfB 用戶端中的問題。
+- 已修正部分膝上型電腦的混合式相機未在 SfB 用戶端中顯示的問題。
 
 
 ### <a name="word"></a>Word
 
-- 已修正繪製影像時，應用程式可能會停止回應的問題。
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
 
 
 
@@ -2261,7 +2292,7 @@ ms.locfileid: "60718707"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -4957,7 +4988,7 @@ ms.locfileid: "60718707"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
@@ -5182,7 +5213,7 @@ ms.locfileid: "60718707"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
