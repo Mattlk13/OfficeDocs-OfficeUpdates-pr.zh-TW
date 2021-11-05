@@ -9,21 +9,60 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: edbc32776123116f053014dbe693eeb2f9ddd51e
-ms.sourcegitcommit: d6c37d8eaeb4009487f9d1502753f145e770ab0e
+ms.openlocfilehash: 8432300e665fb36f3b85536a208fa00b59cda9ba
+ms.sourcegitcommit: 66b6bd0b395d76e09f5f91626dd0402971ec6f28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2021
-ms.locfileid: "60537683"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793501"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
-## <a name="teams-admin-and-teams-app-october-15"></a>Teams 管理員和 Teams 應用程式: 10 月 15 日
+## <a name="teams-admin-and-teams-app-october-31"></a>Teams 系統管理員和 Teams 應用程式: 10 月 31 日
+
+### <a name="gcc-gcc-h-and-dod-customers"></a>GCC、GCC-H 及 DoD 客戶：
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
+
+## <a name="teams-admin-october-31"></a>Teams 系統管理員：10 月 31 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **跨雲端加入匿名會議：** 從 Teams 桌面版應用程式匿名加入其他雲端中的會議。 我們將分三個階段啟用此功能。 首先，商業和 GCC 客戶將能够加入 GCC-High 和 DOD 雲端中的會議。 接下來，我們將使 GCC-High 客戶能够加入商業、GCC 和 DOD 會議。 然後，我們將使 DOD 客戶能够參加商業、GCC 和 GCC-High 會議。
+- **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
 
+## <a name="teams-admin-and-teams-app-october-29"></a>Teams 系統管理員和 Teams 應用程式: 10 月 29 日
+
+### <a name="gcc-gcc-h-and-dod-customers"></a>GCC、GCC-H 及 DoD 客戶：
+
+- **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
+
+- **從 PowerPoint 到搭配 Microsoft 365 Apps 商務版授權使用 Teams 進行簡報：** 透過 Teams 的 PowerPoint Live 直接從 PowerPoint 應用程式在會議中簡報投影片功能，現在已擴充為到可搭配商務用 Microsoft 365 Apps 授權使用。
+
+- **通話/會議螢幕的直向模式：** Teams 顯示裝置現在除了先前支援的非通話和會議畫面之外，也支援所有通話和會議畫面的直向模式。
+
+### <a name="gcc-and-gcc-h-customers"></a>GCC 和 GCC-H 客戶：
+
+- **全域登入和登出：** Teams iOS 應用程式將支援全域登入和登出，以為前線工作者提供輕鬆的登入和登出體驗。 員工可以從共用裝置集區中挑選一部裝置，並執行單一登入，以在其班次期間將之作為自己的裝置。 在班次結束時，他們應該能夠執行登出，以便在裝置上全域登出。 這將會從裝置移除所有的個人和公司資訊，讓他們可以將裝置歸還給裝置集區。
+
+## <a name="teams-admin-and-teams-app-october-28"></a>Teams 系統管理員和 Teams 應用程式: 10 月 28 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **分組討論區簡報者支援：** 此功能將分組討論區的管理延伸至特定簡報者。
+
+## <a name="teams-admin-and-teams-app-october-21"></a>Teams 系統管理員和 Teams 應用程式: 10 月 21 日
+
+### <a name="gcc-gcc-h-and-dod-customers"></a>GCC、GCC-H 及 DoD 客戶：
+
+- **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
+
+## <a name="teams-admin-and-teams-app-october-18"></a>Teams 系統管理員和 Teams 應用程式: 10 月 18 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 1:1 VoIP 通話的端對端加密選項：** Microsoft Teams 將支持對臨時 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感的線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解。](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/secure-and-compliant-collaboration-with-microsoft-teams/ba-p/2169463)
+
+## <a name="teams-admin-and-teams-app-october-15"></a>Teams 管理員和 Teams 應用程式: 10 月 15 日
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
@@ -57,16 +96,7 @@ ms.locfileid: "60537683"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **Teams 問與答：** Teams 網路研討會和會議的問題與回答應用程式。 將此應用程式新增到任何 Teams 網路研討會或會議後，使用者就能獲得經控管或未經控管問與答的體驗。  
-
 - **Teams 中來自 Bookings 應用程式的簡訊通知：** 簡訊確認和提醒具有從 Teams 中的 Bookings 應用程式所建立約會的 Teams 會議連結。
-
-- **Microsoft Teams - Teams 會議錄製內容到期：** 針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
-
-- **通話錄音應用程式 V2 中的一對一 VOIP 和 PSTN 通話錄音和轉錄：** 一對一 VOIP 和 PSTN 通話錄音和轉錄現在會在通話應用程式 V2 中的通話詳細資料面板中顯示。 這是專為我們的 PSTN 客戶設計的一項重要功能。 在沒有聊天的情況下，PSTN 使用者無法檢視通話錄音和轉錄。 我們現在將通話錄音和轉錄功能整合在通話應用程式 V2 的通話記錄中。</br>
-**我們實現了什麼功能？** 一對一 PSTN 和 VOIP 通話的通話轉錄會顯示在通話詳細資料面板的通話記錄中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
-
-- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。[[深入了解]](/MicrosoftTeams/sensitivity-labels)
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
@@ -84,26 +114,13 @@ ms.locfileid: "60537683"
 
 - **Teams 中來自 Bookings 應用程式的簡訊通知：** 簡訊確認和提醒具有從 Teams 中的 Bookings 應用程式所建立約會的 Teams 會議連結。
 
-- **Teams 會議錄製內容到期：** Microsoft Teams - Teams 會議錄製內容到期：針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
-
-- **通話錄音應用程式 V2 中的一對一 VOIP 和 PSTN 通話錄音和轉錄：** 一對一 VOIP 和 PSTN 通話錄音和轉錄現在會在通話應用程式 V2 中的通話詳細資料面板中顯示。 這是專為我們的 PSTN 客戶設計的一項重要功能。 在沒有聊天的情況下，PSTN 使用者無法檢視通話錄音和轉錄。 我們現在將通話錄音和轉錄功能整合在通話應用程式 V2 的通話記錄中。</br>
-**我們實現了什麼功能？** 一對一 PSTN 和 VOIP 通話的通話轉錄會顯示在通話詳細資料面板的通話記錄中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
-
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
 - **開始與通訊群組、擁有郵件功能的安全性群組和 O365 群組的 Teams 聊天：** 不支援具有隱藏成員的 DL 和具有限制傳送存取 的 DL，因為它們不會在 DL 的 Graph API 中傳回，因此無法在 Teams 中搜尋。
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **Teams 問與答：** Teams 網路研討會和會議的問題與回答應用程式。 將此應用程式新增到任何 Teams 網路研討會或會議後，使用者就能獲得經控管或未經控管問與答的體驗。  
-
 - **Teams 中來自 Bookings 應用程式的簡訊通知：** 簡訊確認和提醒具有從 Teams 中的 Bookings 應用程式所建立約會的 Teams 會議連結。
-
-- **Teams 會議錄製內容到期：** Microsoft Teams - Teams 會議錄製內容到期：針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
-
-- **通話錄音應用程式 V2 中的一對一 VOIP 和 PSTN 通話錄音和轉錄：** 一對一 VOIP 和 PSTN 通話錄音和轉錄現在會在通話應用程式 V2 中的通話詳細資料面板中顯示。
-這是專為我們的 PSTN 客戶設計的一項重要功能。 在沒有聊天的情況下，PSTN 使用者無法檢視通話錄音和轉錄。 我們現在將通話錄音和轉錄功能整合在通話應用程式 V2 的通話記錄中。</br>
-**我們實現了什麼功能？** 一對一 PSTN 和 VOIP 通話的通話轉錄會顯示在通話詳細資料面板的通話記錄中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
 
 - **開始與通訊群組、擁有郵件功能的安全性群組和 O365 群組的 Teams 聊天：** 不支援具有隱藏成員的 DL 和具有限制傳送存取 的 DL，因為它們不會在 DL 的 Graph API 中傳回，因此無法在 Teams 中搜尋。
 
@@ -115,8 +132,6 @@ ms.locfileid: "60537683"
 
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
 
-- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
-
 - **webRTC 中的螢幕畫面分享：** 提供者可以在已啟用 webRTC 的會議中與病患分享螢幕畫面
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
@@ -124,10 +139,6 @@ ms.locfileid: "60537683"
 - **明確的錄製開始/停止訊息，以改善錄製 Chicklet 的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
 
 - **系統管理員可以從 Teams 系統管理中心觸發雲端命令介面：** 系統管理員可以從 Teams 系統管理中心內開啟 Azure 雲端命令介面，並從瀏覽器執行 PowerShell 指令碼。
-
-- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
-
-- **將 OneNote 連結的連結取消展開：** 使用者可以在 Teams 中複製並貼上筆記本連結，以便與其他 Teams 使用者共用。
 
 - **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
 
@@ -141,17 +152,11 @@ ms.locfileid: "60537683"
 
 - **對主權雲端 (GCC-H) 的 Teams 來賓存取支援：** Teams 現在在主權雲端中支援來賓存取。
 
-- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
-
 - **webRTC 中的螢幕畫面分享：** 提供者可以在已啟用 webRTC 的會議中與病患分享螢幕畫面
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
 - **明確的錄製開始/停止訊息，以改善錄製 Chicklet 的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
-
-- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
-
-- **將 OneNote 連結的連結取消展開：** 使用者可以在 Teams 中複製並貼上筆記本連結，以便與其他 Teams 使用者共用。
 
 - **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
 
@@ -161,17 +166,11 @@ ms.locfileid: "60537683"
 
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。 
 
-- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
-
 - **webRTC 中的螢幕畫面分享：** 提供者可以在已啟用 webRTC 的會議中與病患分享其螢幕畫面。
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
 - **明確的錄製開始/停止訊息，以改善錄製 Chicklet 的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
-
-- **將 Teams 即時活動擴大至 10 萬個出席者：** 當您與 Microsoft LEAP 團隊接洽，以尋求產生與傳遞您的活動的協助時，現在支援 10 萬個 Teams 即時活動。
-
-- **將 OneNote 連結的連結取消展開：** 使用者可以在 Teams 中複製並貼上筆記本連結，以便與其他 Teams 使用者共用。
 
 - **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
 
@@ -187,8 +186,6 @@ ms.locfileid: "60537683"
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
-- **Teams 會議錄製內容到期：** 針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
-
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 - **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
@@ -199,8 +196,6 @@ ms.locfileid: "60537683"
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
-- **Teams 會議錄製內容到期：** 針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並且可以複寫每個錄製檔的到期日。
-
 ### <a name="dod-customers"></a>DoD 客戶:
 
 - **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
@@ -210,8 +205,6 @@ ms.locfileid: "60537683"
 - **網頁背景效果簡介:** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
-
-- **Teams 會議錄製內容到期：** 針對儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製內容，您現在可以定義在自動刪除錄製之前，保留錄製內容的預設天數。 使用者將會收到其錄製內容到期日將至的通知, 並且可以複寫每個錄製檔的到期日。
 
 ## <a name="teams-admin-september-15"></a>Teams 系統管理員：9 月 15 日
 
