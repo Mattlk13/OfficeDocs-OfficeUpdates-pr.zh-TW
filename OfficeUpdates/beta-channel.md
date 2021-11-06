@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ee7b114ae29384eff68899d220dc685de0eb4bda
-ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
+ms.openlocfilehash: df7dab7a67243783e0056ca91bf4f28755793cbd
+ms.sourcegitcommit: 5c1e54c0903746ae00a54f560fce434cac6d7785
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60675075"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60796596"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,91 @@ ms.locfileid: "60675075"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-november-05"></a>版本 2111: 11 月 5 日
+*版本 2111 (組建 14630.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **PowerPoint 協助工具功能區:** 讓殘疾人士存取您的簡報需要知識、熱情及特殊工具。 PowerPoint 中新的協助工具功能區可協助您將所有需要的工具放在同一位置, 以協助您完成此任務。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修復此問題: 如果來源檔案來自 OneDrive 位置且檔案名稱包含 HTML 編碼字元, 將 Excel、Word 或 PowerPoint 內嵌物件加入 Excel 檔時, 未正確顯示應用程式的原始圖示。
+
+
+- 我們已修正此問題: 無法在動態陣列中對定義的名稱套用名稱。
+
+
+- 我們已修正此問題: 在某些情況下, 即時預覽中無法看到 Excel 儲存格中的文字。
+
+
+- 我們已修正此問題: 切換工作表可能會造成工作表索引標籤無法正確顯示。
+
+
+- 我們已解決在按一下及拖曳以選取儲存格範圍時發生的視覺問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修復此問題: 行事曆在進行完整同步處理時遇到問題。
+
+
+- 我們已修正此問題: 由於網際網路連線測試, 將 Outlook 郵件儲存到 SharePoint 文件庫時產生錯誤。
+
+
+- 我們已修正來自不同網域的兩個 LDAP 通訊錄時所產生的 LDAP 通訊錄搜尋錯誤。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正此問題: [另存新檔] 作業的自動儲存關閉, 將檔案儲存至原始雲端檔案, 而不是建立新的版本。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正此問題: 貼上連結在專案中的資訊變更時並未更新。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正此問題: 撰寫混合語言方向的註解 (像是英文和希伯來文) 導致文字順序出現錯誤。
+
+
+- 我們已修正大型 URL 的問題: 如果其長度超過特定字元限制, 在此情況下無法開啟連結。
+
+
+- 我們已修正持續縮放比例的問題: 發生於重新執行並開啟以不同縮放比例儲存的文件時。
+
+
+- 我們已修正當您已選取頁面寬度縮放功能而關閉註解窗格時, 與頁面寬度相關的問題。
+
+
+- 我們已修正此問題: 當游標移離新式註解時, 錨點重點項目不會從新式註解移除。
+
+
+- 我們已修正此問題: 選取並以滑鼠右鍵按一下鎖定內容控制項以進行刪除時, Word 沒有回應。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修復此問題: Excel 無法開啟使用應用程式防護開啟的活頁簿儲存的活頁簿。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-october-29"></a>版本 2111: 10 月 29 日
 *版本 2111 (組建 14623.20002)*
@@ -4382,6 +4467,7 @@ ms.locfileid: "60675075"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
@@ -4391,5 +4477,4 @@ ms.locfileid: "60675075"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14420.20004|version-2109-august-27|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
