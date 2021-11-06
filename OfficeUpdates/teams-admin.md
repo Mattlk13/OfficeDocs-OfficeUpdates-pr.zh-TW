@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 98e5b3cc594b74846f4902ef179d3d66cafcef6e
-ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
+ms.openlocfilehash: 6076e44357eda591bd77daf8d6d0256f78b986b0
+ms.sourcegitcommit: 5d50de9491bbd75db1c10486413e9cf5c97e9177
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60675015"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60800386"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,25 @@ ms.locfileid: "60675015"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="october-15-2021"></a>2021年10月15日
+## <a name="november-05-2021"></a>2021年11月5日
 
 [//]: # (不移除日期內容結束)
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+- **分組討論區簡報者支援：** 將分組討論區的管理延伸至特定簡報者。
+
+- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
+
+- **讓開發人員可以直接從 DevCenter 連結 SaaS 提供。：** 讓開發人員能夠將 SaaS 直接從 DevCenter 提供的應用程式連結到具有發佈/提供建立之夥伴中心的深層連結。
+
+- **支援 CART 和人工輸入字幕：** Teams 會議現在支援來自 3P CART 服務提供者的内嵌 CART (通訊存取即時翻譯) 字幕。 CART 使用者現在不必開啟次要瀏覽器視窗來串流 CART 字幕。 這將協助失聰或聽力障礙的出席者參與會議，並使其簡單化，因為會議簡報者和會議內容位於同一處。
+
+- **使用主機租使用者管理的認證 Teams 支援來賓使用者：** 支援內部來賓使用者，其認證是由資源租使用者所管理 (這先前稱為狀態3和4來賓帳戶) 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="october-15-2021"></a>2021年10月15日
 
 - **跨雲端加入匿名會議：** 從 Teams 桌面版應用程式匿名加入其他雲端中的會議。 我們將分三個階段啟用此功能。 首先，商業和 GCC 客戶將能够加入 GCC-High 和 DOD 雲端中的會議。 接下來，我們將使 GCC-High 客戶能够加入商業、GCC 和 DOD 會議。 然後，我們將使 DOD 客戶能够參加商業、GCC 和 GCC-High 會議。 
 
@@ -58,7 +72,6 @@ ms.locfileid: "60675015"
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="october-14-2021"></a>2021 年 10 月 14 日
 
@@ -431,7 +444,7 @@ ms.locfileid: "60675015"
 
 ## <a name="february-18-2021"></a>2021年2月18日
 
-- **會議反應原則：** 會議反應預設為關閉。 關閉使用者的反應並不表示使用者無法在其排程的會議中使用反應。 不管預設設定為何，會議召集人仍然可以從會議選項頁面開啟反應。 [瞭解更多資訊。](/Microsoftteams/meeting-policies-in-teams)
+- **會議反應原則：** 會議反應預設為關閉。 關閉使用者的反應並不表示使用者無法在其排程的會議中使用反應。 不管預設設定為何，會議召集人仍然可以從會議選項頁面開啟反應。 [深入了解。](/Microsoftteams/meeting-policies-in-teams)
 
 ## <a name="february-11-2021"></a>2021年2月11日
 
