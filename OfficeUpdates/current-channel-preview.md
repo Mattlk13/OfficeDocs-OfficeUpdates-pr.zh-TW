@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 6b5641b3d39444278ccf53c2648ffe37b9e3940d
-ms.sourcegitcommit: e78b349bd3a9f2f38329c56511def6c292cdd62f
+ms.openlocfilehash: 996017f97b5b897ebac9eac85d6de8f27b845b42
+ms.sourcegitcommit: 66b6bd0b395d76e09f5f91626dd0402971ec6f28
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2021
-ms.locfileid: "60742509"
+ms.lasthandoff: 11/05/2021
+ms.locfileid: "60793491"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -1290,7 +1290,7 @@ ms.locfileid: "60742509"
 
 ### <a name="visio"></a>Visio
 
-- 此超連結瀏覽問題現在已在最新組建中修正。使用者可以使用 <CTRL> + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
+- 此超連結瀏覽問題現在已在最新組建中修正。 使用者可以使用 CTRL + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
 
 
 ### <a name="word"></a>Word
@@ -4833,16 +4833,16 @@ ms.locfileid: "60742509"
 
 ### <a name="outlook"></a>Outlook
 
-- <span style="display:inline !important;">解決一個問題，該問題導致使用者看到<span>&nbsp;</span></span><span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">附件的建立日期&nbsp; 他們透過托放方式將該附件複製到其檔案系統&nbsp; 該建立日期設於 4501年1月1日。</span><br>
+- 解決會導致使用者看到他們透過拖放附件，以複製到其檔案系統所建立附件的建立日期設為 4501 年 1 月 1 日的問題。
 
 
-- <span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。</span><br>
+- 解決導致 [共用行事曆] 改善的使用者查看行事曆失敗的問題。
 
 
-- <span style="display:inline !important;">解決導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。</span><br>
+- 解決導致使用者看到 Outlook 持續提示他們執行收件匣修復工具的問題。
 
 
-- <span style="display:inline !important;">解決導致在[建議功能]中尋找功能沒有結果並未留給使用者選項以提交新功能點子的問題。</span><br>
+- 解決導致在[建議功能]中尋找功能沒有結果並未留給使用者選項以提交新功能點子的問題。
 
 
 
@@ -5213,7 +5213,7 @@ ms.locfileid: "60742509"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
@@ -5698,7 +5698,7 @@ ms.locfileid: "60742509"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="project"></a>Project
 
-- <span style="display:inline !important;">修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。</span><br>
+- 修正了當開啟保護實際工作的設定時，使用者無法輸入分時期基準工時的問題。
 
 
 
@@ -5974,7 +5974,7 @@ ms.locfileid: "60742509"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- <div style="box-sizing:border-box;">修正 CUBEVALUE 函數有時會傳回不正確結果的問題。&nbsp;<span style="display:inline !important;"></span><br>
+- 修正 CUBEVALUE 函數有時會傳回不正確結果的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -5991,7 +5991,7 @@ ms.locfileid: "60742509"
 - 解決會導致使用黑色佈景主題的使用者看到 [從]&quot;&quot; 下拉式功能表在白色背景上顯示白色文字的問題。
 
 
-- <span style="display:inline !important;">此變更會還原在郵件標頭中檢視多行主旨的功能。</span><br>
+- 此變更會還原在郵件標頭中檢視多行主旨的功能。
 
 
 
