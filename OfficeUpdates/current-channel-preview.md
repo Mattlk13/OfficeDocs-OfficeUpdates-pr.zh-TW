@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 996017f97b5b897ebac9eac85d6de8f27b845b42
-ms.sourcegitcommit: 66b6bd0b395d76e09f5f91626dd0402971ec6f28
+ms.openlocfilehash: aaba713f03fb19f1235a787676f6b80954e734c8
+ms.sourcegitcommit: 5d50de9491bbd75db1c10486413e9cf5c97e9177
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793491"
+ms.lasthandoff: 11/06/2021
+ms.locfileid: "60800376"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,40 @@ ms.locfileid: "60793491"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2110-november-05"></a>版本 2110：11 月 05 日
+*版本 2110 (組建 14527.20268)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Excel 4.0 (xlm) 巨集預設為停用：** 對於沒有群組原則設定或尚未在 Excel 信任中心設定 XLM 巨集設定的使用者，預設會停用 Excel 4.0 巨集 (XLM)。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 開啟 Dynamics 的連結資料表時，顯示資料時，數字可能會呈現為小型方塊。 若要解決此問題，請在資料表設計檢視中開啟連結，並清除任何受影響資料行的格式屬性。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正以滑鼠右鍵按一下並選取檔案系統中的「傳送郵件」來傳送郵件，導致 explorer.exe 在 VDI 電腦上意外關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定的排程時間問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-november-03"></a>版本 2110：11 月 3 日
 *版本 2110 (組建 14527.20254)*
