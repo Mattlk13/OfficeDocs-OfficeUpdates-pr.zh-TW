@@ -9,17 +9,59 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 53f32e7a08b5e6bb329bbd7ad30c8f03d552535c
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: 3cfb45139e53eeb221f516ae5ce089f46e82197a
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275300"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887050"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
+
+## <a name="version-2108-november-09"></a>版本 2108：11 月 09 日
+*版本 2108 (組建 14326.20600)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會在產生預覽時導致同步處理失敗發生的問題。
+
+
+- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
+
+
+- 我們已修正會導致使用者看到他們新增的共用行事曆預設未經過檢查，導致他們認為該行事曆尚未新增的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Word 無法呈現電子郵件本文中內嵌 base-64 編碼 GIF 的問題。
+
+
+- 我們已修正在啟用 AIP 增益集的情況下儲存文件時，會發生檔案格式變更的問題。
+
+
+- 我們已修正 RTF 格式的效能問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+
+
+- 已修正可能會讓 Word、Excel、PowerPoint 和 Outlook 用戶端進入一個狀態，在其中我們會對不正確的 URL 端點傳送要求的問題。 特別是，若沒有此修正，我們就可以將美國政府文件內容傳送至全球的 augloop.office.com 端點，或是傳送至較低層級的 USGov 端點 (例如，已傳送至 GCC 的 DoD 資料) 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2108-october-12"></a>版本 2108: 10 月 12 日
 *版本 2108 (組建 14326.20508)*
@@ -67,7 +109,7 @@ ms.locfileid: "60275300"
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
-- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 - **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
@@ -897,7 +939,7 @@ ms.locfileid: "60275300"
 
 - **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
-- **在 Excel 中製作精美的 Visio 圖表**：從工作表中的資料建立資料驅動圖表，如流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表**：在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 - **與 Office 的 XLM 巨集的 AMSI 整合：** AMSI 是 Windows 10 上可用的開放式介面，可供應用程式在執行階段要求由已安裝的防毒軟體或安全性解決方案同步掃描記憶體緩衝區。 偵測到惡意活動時，Excel 會通知使用者，並關閉該應用程式工作階段以避免任何進一步損毀。 這麼做可阻止在其軌跡中的攻擊，同時保護裝置和使用者。 在[部落格文章](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/)中查看詳細資料。
@@ -1098,7 +1140,7 @@ ms.locfileid: "60275300"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -1176,7 +1218,7 @@ ms.locfileid: "60275300"
 
 ### <a name="word"></a>Word
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -1401,6 +1443,7 @@ ms.locfileid: "60275300"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20600|version-2108-november-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20864|version-2102-august-10|)
@@ -1410,5 +1453,4 @@ ms.locfileid: "60275300"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: fa536c70d820dedbf991faa4dc59cf869f6edc42
-ms.sourcegitcommit: 9ed8c407936e38d09eee28d55fb6dc966e2fa295
+ms.openlocfilehash: b24f03078b33eac17fbea62df7316a4d6f64edd0
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2021
-ms.locfileid: "60718687"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887000"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -35,7 +35,42 @@ ms.locfileid: "60718687"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
-## <a name="version-2110-october-28"></a>版本 2110：10 月 28 日
+## <a name="version-2110-november-09"></a>版本 2110：11 月 9 日
+*版本 2110 (組建 14527.20276)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正某些工作表函數未針對使用特定語言使用者顯示的問題。
+
+
+- 開啟 Dynamics 的連結資料表時，顯示資料時，數字可能會呈現為小型方塊。  若要解決此問題，請在資料表設計檢視中開啟連結，並清除任何受影響資料行的格式屬性。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正以滑鼠右鍵按一下並選取檔案系統中的「傳送郵件」來傳送郵件，導致 explorer.exe 在 VDI 電腦上意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
+
+
+### <a name="project"></a>專案
+
+- 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定排程時間的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2110-october-28"></a>版本 2110: 10 月 28 日
 *版本 2110 (組建 14527.20234)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -43,12 +78,12 @@ ms.locfileid: "60718687"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 已修正在繪製影像時，應用程式可能會停止回應的問題。
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正在繪製影像時，應用程式可能會停止回應的問題。
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
 
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
@@ -58,7 +93,7 @@ ms.locfileid: "60718687"
 
 ### <a name="word"></a>Word
 
-- 已修正在繪製影像時，應用程式可能會停止回應的問題。
+- 已修正在繪製影像時, 應用程式可能會停止回應的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -1802,6 +1837,7 @@ ms.locfileid: "60718687"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14527.20276|version-2110-november-09|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20234|version-2110-october-28|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20226|version-2110-october-25|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20306|version-2109-october-14|)
@@ -1811,5 +1847,4 @@ ms.locfileid: "60718687"
 [//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
-[//]: # (|Win32|CC|Production| |16.0.14326.20238|version-2108-august-25|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

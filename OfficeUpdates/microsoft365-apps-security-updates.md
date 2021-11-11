@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 7ef1130ad0dbcd7ed760e25e6f3a9115eee44d94
-ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
+ms.openlocfilehash: c42dddd9c16c5265c7809f89230c328cd8e1b7c0
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60291444"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60886890"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,40 @@ ms.locfileid: "60291444"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="november-09-2021"></a>2021 年 11 月 9 日
+目前通道：版本 2110 (組建 14527.20276)  
+每月企業管道：版本 2109 (組建 14430.20342)  
+每月企業管道：版本 2108 (組建 14326.20600)  
+半年企業通道 (預覽)：版本 2108 (組建 14326.20600)  
+半年企業通道：版本 2102 (組建 13801.21050)  
+半年企業通道：版本 2008 (組建 13127.21820)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22060)  
+Office 2021 零售版：版本 2110 (組建 14527.20276)  
+Office 2019 零售版：版本 2110 (組建 14527.20276)  
+Office 2016 零售版：版本 2110 (組建 14527.20276)  
+Office LTSC 2021 大量授權版：版本 2108 (組建 14332.20176)  
+Office 2019 大量授權版：版本 1808 (組建 10380.20037)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-40442](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40442)
+-   [CVE-2021-42292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-42292)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-42296](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-42296)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-41368](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-41368)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="october-12-2021"></a>2021 年 10 月 12 日
 目前通道：版本 2109 (組建 14430.20298)  

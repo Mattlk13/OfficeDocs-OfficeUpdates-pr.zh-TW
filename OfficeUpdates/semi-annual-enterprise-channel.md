@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: ae69849f059ad370a85e63a1ed550e3f0bb83778
-ms.sourcegitcommit: 4316c3c786e7e08071ae09e2e5a1a3b5bf68c214
+ms.openlocfilehash: c1abee57eb76731011101eb47ba317244d534845
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "60477896"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60886960"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -23,6 +23,56 @@ ms.locfileid: "60477896"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-november-09"></a>版本 2102：11 月 9 日
+*版本 2102 (組建 13801.21050)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正查詢更新導致 Excel 停止回應的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Word 在中斷連結的節標題之後，不正確地以偏好的百分比寬度重新繪製表格的問題。
+
+
+- 我們已修正 Word 中的 RTF 格式內容有嚴重效能問題的問題。
+
+
+- 我們已修正非預設功能區設定可能導致樣式庫無法運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正設定要套用 [僅加密] 原則的敏感度標籤在 [敏感度] 下拉式功能表中顯示但不應顯示時的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-november-09"></a>版本 2008：11 月 9 日
+*版本 2008 (組建 13127.21820)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="office-suite"></a>Office 套件
+
+- 修正可能會讓 Word、Excel、PowerPoint 和 Outlook 用戶端進入一個狀態，在其中我們會對不正確的 URL 端點傳送要求的問題。 具體而言，若沒有此修正，美國政府文件內容可能會傳送到全球 augloop.office.com 端點，或傳送到較低層 USGov 端點 (例如，將 DoD 資料傳送到 GCC)
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -1828,6 +1878,7 @@ ms.locfileid: "60477896"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13801.21050|version-2102-november-09|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20864|version-2102-august-10|)
@@ -1837,5 +1888,4 @@ ms.locfileid: "60477896"
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
-[//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

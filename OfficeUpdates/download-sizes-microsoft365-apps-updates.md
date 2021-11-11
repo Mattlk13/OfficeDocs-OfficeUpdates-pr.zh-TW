@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 99b050c7979951c4e96626db7bccf90f4aa7920e
-ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
+ms.openlocfilehash: d92a9c93d28dfe4a6d026df64f4e0f69832a3627
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60674995"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60886900"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,52 @@ ms.locfileid: "60674995"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="november-9-2021"></a>2021 年 11 月 9 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTNovember 9, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2110 (組建 14527.20276)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2110 (組建 14527.20234) <br/> |2021 年 10 月 28 日 <br/> |68<br/> |
+|版本 2110 (組建 14527.20226) <br/> |2021 年 10 月 25 日 <br/> |238<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業頻道
+
+最新的版本是版本 2109 (組建 14430.20342)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20508) <br/> |2021 年 10 月 12 日 <br/> |167<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+最新的版本是版本 2108 (組建 14326.20600)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20508) <br/> |2021 年 10 月 12 日 <br/> |65<br/> |
+|版本 2108 (組建 14326.20404) <br/> |2021 年 9 月 14 日 <br/> |71<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+最新的版本是版本 2102 (組建 13801.21050)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.21004) <br/> |2021 年 10 月 12 日 <br/> |53<br/> |
+|版本 2102 (組建 13801.20960) <br/> |2021 年 9 月 14 日 <br/> |55<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDNovember 9, 2021)
 
 ## <a name="october-28-2021"></a>2021 年 10 月 28 日
 

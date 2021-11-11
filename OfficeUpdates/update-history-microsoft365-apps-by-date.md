@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: afcfe636d6db5241306b82115998e267f6d38da5
-ms.sourcegitcommit: 78b5d6b52c0f3d0fc2a10b7047699157d968a0e6
+ms.openlocfilehash: 16c61a3e722b287bbf4997737049e4737a92fe4e
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2021
-ms.locfileid: "60675285"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60886920"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,12 +33,12 @@ ms.locfileid: "60675285"
 
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2110<br/>|14527.20234<br/>|2021 年 10 月 28 日<br/>|2021 年 10 月 25 日<br/>|版本 2111 已推出<br/>|
-|每月企業通道<br/>|2108<br/>|14326.20508<br/>|2021 年 10 月 12 日<br/>|2021 年 10 月 12 日<br/>|2021 年 12 月 14 日<br/>|
-|每月企業通道<br/>|2107<br/>|14228.20340<br/>|2021 年 10 月 12 日<br/>|2021 年 9 月 14 日<br/>|2021 年 11 月 9 日<br/>|
-|半年企業通道 (預覽)<br/>|2108<br/>|14326.20508<br/>|2021 年 10 月 12 日<br/>|2021 年 9 月 14 日<br/>|2022 年 3 月 8 日<br/>|
-|半年企業通道<br/>|2102<br/>|13801.21004<br/>|2021 年 10 月 12 日<br/>|2021 年 7 月 13 日<br/>|2022 年 9 月 13 日<br/>|
-|半年企業通道<br/>|2008<br/>|13127.21792<br/>|2021 年 10 月 12 日<br/>|2021 年 1 月 12 日<br/>|2022 年 3 月 8 日<br/>|
+|目前通道<br/>|2110<br/>|14527.20276<br/>|2021 年 11 月 9 日<br/>|2021 年 10 月 25 日<br/>|版本 2111 已推出<br/>|
+|每月企業通道<br/>|2109<br/>|14430.20342<br/>|2021 年 11 月 9 日<br/>|2021 年 11 月 9 日<br/>|2022 年 1 月 11 日<br/>|
+|每月企業通道<br/>|2108<br/>|14326.20600<br/>|2021 年 11 月 9 日<br/>|2021 年 10 月 12 日<br/>|2021 年 12 月 14 日<br/>|
+|半年企業通道 (預覽)<br/>|2108<br/>|14326.20600<br/>|2021 年 11 月 9 日<br/>|2021 年 9 月 14 日<br/>|2022 年 3 月 8 日<br/>|
+|半年企業通道<br/>|2102<br/>|13801.21050<br/>|2021 年 11 月 9 日<br/>|2021 年 7 月 13 日<br/>|2022 年 9 月 13 日<br/>|
+|半年企業通道<br/>|2008<br/>|13127.21820<br/>|2021 年 11 月 9 日<br/>|2021 年 1 月 12 日<br/>|2022 年 3 月 8 日<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -52,6 +52,7 @@ ms.locfileid: "60675285"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|11 月 9 日|[版本 2110 (組建 14527.20276)](current-channel.md#version-2110-november-09)|[版本 2109 (組建 14430.20342)](monthly-enterprise-channel.md#version-2109-november-09)<br/>[版本 2108 (組建 14326.20600)](monthly-enterprise-channel.md#version-2108-november-09)|[版本 2108 (組建 14326.20600)](semi-annual-enterprise-channel-preview.md#version-2108-november-09)|[版本 2102 (組建 13801.21050)](semi-annual-enterprise-channel.md#version-2102-november-09)<br/>[版本 2008 (組建 13127.21820)](semi-annual-enterprise-channel.md#version-2008-november-09)|
 |2021|10 月 28 日|[版本 2110 (組建 14527.20234)](current-channel.md#version-2110-october-28)| | | |
 |2021|10 月 25 日|[版本 2110 (組建 14527.20226)](current-channel.md#version-2110-october-25)| | | |
 |2021|10 月 14 日|[版本 2109 (組建 14430.20306)](current-channel.md#version-2109-october-14)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 9c68b8afb89c999966d4ac994a1ca0ca5b02f354
-ms.sourcegitcommit: 275ba377bb0ea078dd5eb1ad0adbf7478a344777
+ms.openlocfilehash: 4e386bad1e542ab4ce4bc90261c9a277608f821b
+ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2021
-ms.locfileid: "60275521"
+ms.lasthandoff: 11/10/2021
+ms.locfileid: "60887040"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,112 @@ ms.locfileid: "60275521"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2109-november-09"></a>版本 2109：11 月 09 日
+*版本 2109 (組建 14430.20342)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **自動開展線上目錄搜尋ive Search:** Enabling auto-expanding Online Archive Search
+
+- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正查詢更新導致 Excel 停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致新增到「捷徑」模組的行事曆，在 Outlook 重新啟動後會消失的問題。
+
+
+- 我們已修正會導致使用者看到他們新增的共用行事曆預設未經過檢查，導致他們認為該行事曆尚未新增的問題。
+
+
+- 我們已修正會導致 Outlook 使用者的「共用行事曆改良」功能遇到高 CPU 使用率的問題。
+
+
+- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
+
+
+- 我們已修正會導致某些使用者在新增共用行事曆後遇到意外關閉的問題。
+
+
+- 我們已修正會在產生預覽時導致同步處理失敗發生的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當透過 CSOM 以程式設計方式將新工作新增到專案時，如果新工作的工作摘要已摺疊，工作可能無法插入正確位置的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+
+
+- 我們修正了顯示以下錯誤「大聲朗讀沒有開始」的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-november-09"></a>版本 2108：11 月 09 日
+*版本 2108 (組建 14326.20600)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者看到他們新增的共用行事曆預設未經過檢查，導致他們認為該行事曆尚未新增的問題。
+
+
+- 我們已修正在嘗試擷取 [自動探索] 設定時，導致某些使用者遇到停止回應的問題。
+
+
+- 我們已修正會在產生預覽時導致同步處理失敗發生的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在啟用 AIP 增益集的情況下儲存文件時，會發生檔案格式變更的問題。
+
+
+- 我們已修正 RTF 格式的效能問題。
+
+
+- 我們已修正 Word 不能呈現電子郵件本文中內嵌 base-64 編碼 GIF 的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+
+
+- 已修正可能會讓 Word、Excel、PowerPoint 和 Outlook 用戶端進入一個狀態，在其中我們會對不正確的 URL 端點傳送要求的問題。 特別是，若沒有此修正，我們就可以將美國政府文件內容傳送至全球的 augloop.office.com 端點，或是傳送至較低層級的 USGov 端點 (例如，已傳送至 GCC 的 DoD 資料) 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2108-october-12"></a>版本 2108: 10 月 12 日
 *版本 2108 (組建 14326.20508)*
@@ -815,7 +921,7 @@ ms.locfileid: "60275521"
 
 - **使用 [進階對話方塊] 來 [建立資料類型]:** [進階對話方塊] 可讓您手動選取合併您正在建立的 [資料類型] 欄位。
 
-- **同時取消隱藏多個工作表：** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。 [深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 
 ### <a name="outlook"></a>Outlook
@@ -1315,6 +1421,7 @@ ms.locfileid: "60275521"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
@@ -1324,5 +1431,4 @@ ms.locfileid: "60275521"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
