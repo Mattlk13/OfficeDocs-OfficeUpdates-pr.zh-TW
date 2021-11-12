@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: df7dab7a67243783e0056ca91bf4f28755793cbd
-ms.sourcegitcommit: 5c1e54c0903746ae00a54f560fce434cac6d7785
+ms.openlocfilehash: da77f14c3120390357227bd086883650febd6e4a
+ms.sourcegitcommit: 437c83644881f68c56bd15e68106eb886d659e4e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60796596"
+ms.lasthandoff: 11/12/2021
+ms.locfileid: "60950979"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,60 @@ ms.locfileid: "60796596"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-november-12"></a>版本 2112: 11 月 12 日
+*版本 2112 (組建 14706.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當工作表放大時，篩選下拉式箭頭停止運作的問題。
+
+
+- 我們已修正此問題: 如果資料來源範圍變更，新建立的樞紐分析表可能會失去自訂的設定。
+
+
+- 我們已修正某些公式結果在輸入變更後無法更新的問題。
+
+
+- 我們已修正 LOGEST 工作表函數的問題，該函數不會處理並清除暫時性溢位錯誤，且後續的計算不正確。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用者寄給自己 (相同電子郵件地址) 所收到的電子郵件呈現空白郵件內文的問題。
+
+
+### <a name="project"></a>專案
+
+- 我們已修正當摘要任務完成 0% 時，進度線無法正確繪製的問題。
+
+
+- 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定的排程時間問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正插入新註解時，如果文件右側有開啟任何窗格，則游標不會出現在回覆方塊中的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 TrialNotificationBarDismissed、DateHigh 和 DateLow DWORDS 的說明已移除的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-november-05"></a>版本 2111: 11 月 5 日
 *版本 2111 (組建 14630.20000)*
@@ -4467,6 +4521,7 @@ ms.locfileid: "60796596"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
@@ -4476,5 +4531,4 @@ ms.locfileid: "60796596"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14430.20030|version-2109-september-03|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
