@@ -9,30 +9,60 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 8432300e665fb36f3b85536a208fa00b59cda9ba
-ms.sourcegitcommit: 66b6bd0b395d76e09f5f91626dd0402971ec6f28
+ms.openlocfilehash: 94f307265e9090d2705c5f4e58cea65040ccdd25
+ms.sourcegitcommit: 7bb2397a64c1078c2affc2a5788f7b3342800541
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2021
-ms.locfileid: "60793501"
+ms.lasthandoff: 11/13/2021
+ms.locfileid: "60952619"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
-## <a name="teams-admin-and-teams-app-october-31"></a>Teams 系統管理員和 Teams 應用程式: 10 月 31 日
-
-### <a name="gcc-gcc-h-and-dod-customers"></a>GCC、GCC-H 及 DoD 客戶：
-
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
-
-## <a name="teams-admin-october-31"></a>Teams 系統管理員：10 月 31 日
+## <a name="teams-admin-and-teams-app-november-11"></a>Teams 系統管理員和 Teams 應用程式: 11 月 11 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
+- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
+
+## <a name="teams-admin-november-11"></a>Teams 系統管理員: 11 月 11 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **自 Teams 系統管理中心登出:** 租用戶系統管理員將能從 Teams 系統管理中心遠端登出手機。 稍後，租用戶系統管理員將能夠從 Teams 系統管理中心遠端從顯示器登出。
+
+- **自 Teams 系統管理中心匯出 Teams 清單:** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 csv 檔案。
+
+- **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
+
 - **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
 
-## <a name="teams-admin-and-teams-app-october-29"></a>Teams 系統管理員和 Teams 應用程式: 10 月 29 日
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-### <a name="gcc-gcc-h-and-dod-customers"></a>GCC、GCC-H 及 DoD 客戶：
+- **自 Teams 系統管理中心登出:** 租用戶系統管理員將能從 Teams 系統管理中心遠端登出手機。 稍後，租用戶系統管理員將能夠從 Teams 系統管理中心遠端從顯示器登出。
+
+- **自 Teams 系統管理中心匯出 Teams 清單:** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 csv 檔案。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **自 Teams 系統管理中心登出:** 租用戶系統管理員將能從 Teams 系統管理中心遠端登出手機。 稍後，租用戶系統管理員將能夠從 Teams 系統管理中心遠端從顯示器登出。
+
+- **自 Teams 系統管理中心匯出 Teams 清單:** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 csv 檔案。
+
+## <a name="teams-admin-and-teams-app-october-31"></a>Teams 系統管理員和 Teams 應用程式: 10 月 31 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
 
 - **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
 
@@ -40,35 +70,41 @@ ms.locfileid: "60793501"
 
 - **通話/會議螢幕的直向模式：** Teams 顯示裝置現在除了先前支援的非通話和會議畫面之外，也支援所有通話和會議畫面的直向模式。
 
-### <a name="gcc-and-gcc-h-customers"></a>GCC 和 GCC-H 客戶：
+- **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
 - **全域登入和登出：** Teams iOS 應用程式將支援全域登入和登出，以為前線工作者提供輕鬆的登入和登出體驗。 員工可以從共用裝置集區中挑選一部裝置，並執行單一登入，以在其班次期間將之作為自己的裝置。 在班次結束時，他們應該能夠執行登出，以便在裝置上全域登出。 這將會從裝置移除所有的個人和公司資訊，讓他們可以將裝置歸還給裝置集區。
 
-## <a name="teams-admin-and-teams-app-october-28"></a>Teams 系統管理員和 Teams 應用程式: 10 月 28 日
-
-### <a name="gcc-customers"></a>GCC 客戶:
-
 - **分組討論區簡報者支援：** 此功能將分組討論區的管理延伸至特定簡報者。
 
-## <a name="teams-admin-and-teams-app-october-21"></a>Teams 系統管理員和 Teams 應用程式: 10 月 21 日
-
-### <a name="gcc-gcc-h-and-dod-customers"></a>GCC、GCC-H 及 DoD 客戶：
-
-- **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
-
-## <a name="teams-admin-and-teams-app-october-18"></a>Teams 系統管理員和 Teams 應用程式: 10 月 18 日
-
-### <a name="gcc-customers"></a>GCC 客戶:
-
-- **Teams 1:1 VoIP 通話的端對端加密選項：** Microsoft Teams 將支持對臨時 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感的線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解。](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/secure-and-compliant-collaboration-with-microsoft-teams/ba-p/2169463)
-
-## <a name="teams-admin-and-teams-app-october-15"></a>Teams 管理員和 Teams 應用程式: 10 月 15 日
+- **Teams 1:1 VoIP 通話的端對端加密選項：** Microsoft Teams 將支持對臨時 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感的線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/secure-and-compliant-collaboration-with-microsoft-teams/ba-p/2169463)
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
 
-## <a name="teams-admin-and-teams-app-october-14"></a>Teams 管理員和 Teams 應用程式: 10 月 14 日
+- **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
+
+- **從 PowerPoint 到搭配 Microsoft 365 Apps 商務版授權使用 Teams 進行簡報：** 透過 Teams 的 PowerPoint Live 直接從 PowerPoint 應用程式在會議中簡報投影片功能，現在已擴充為到可搭配商務用 Microsoft 365 Apps 授權使用。
+
+- **通話/會議螢幕的直向模式：** Teams 顯示裝置現在除了先前支援的非通話和會議畫面之外，也支援所有通話和會議畫面的直向模式。
+
+- **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
+
+- **全域登入和登出：** Teams iOS 應用程式將支援全域登入和登出，以為前線工作者提供輕鬆的登入和登出體驗。 員工可以從共用裝置集區中挑選一部裝置，並執行單一登入，以在其班次期間將之作為自己的裝置。 在班次結束時，他們應該能夠執行登出，以便在裝置上全域登出。 這將會從裝置移除所有的個人和公司資訊，讓他們可以將裝置歸還給裝置集區。
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
+
+- **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
+
+- **從 PowerPoint 到搭配 Microsoft 365 Apps 商務版授權使用 Teams 進行簡報：** 透過 Teams 的 PowerPoint Live 直接從 PowerPoint 應用程式在會議中簡報投影片功能，現在已擴充為到可搭配商務用 Microsoft 365 Apps 授權使用。
+
+- **通話/會議螢幕的直向模式：** Teams 顯示裝置現在除了先前支援的非通話和會議畫面之外，也支援所有通話和會議畫面的直向模式。
+
+- **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
+
+## <a name="teams-admin-and-teams-app-october-15"></a>Teams 系統管理員和 Teams 應用程式: 10 月 15 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -86,11 +122,11 @@ ms.locfileid: "60793501"
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
-## <a name="teams-admin-and-teams-app-october-11"></a>Teams 管理員和 Teams 應用程式: 10 月 11 日
-
-### <a name="gcc-customers"></a>GCC 客戶:
-
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
 
 ## <a name="teams-admin-and-teams-app-september-30"></a>Teams 系統管理員和 Teams 應用程式：9 月 30 日
 
@@ -322,7 +358,7 @@ ms.locfileid: "60793501"
 
 - **一次對大量裝置執行作業：** IT 系統管理員將可以在大量裝置上一併執行任何作業或執行任何命令。目前他們必須在分頁檢視中手動選取裝置。
 
-## <a name="teams-admin-and-teams-app-july-30"></a>Teams 管理員和 Teams 應用程式: 7月30日
+## <a name="teams-admin-and-teams-app-july-30"></a>Teams 管理員和 Teams 應用程式: 7 月 30 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -366,7 +402,7 @@ ms.locfileid: "60793501"
 
 - **速度撥號 [AND]:** 快速撥號會進入行動裝置。 這項功能可讓您最常使用的通話連絡人透過一次點選撥號輕易存取。
 
-## <a name="teams-admin-july-30"></a>Teams 系統管理員: 7月30日
+## <a name="teams-admin-july-30"></a>Teams 系統管理員: 7 月 30 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -382,7 +418,7 @@ ms.locfileid: "60793501"
 
 - **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Teams 系統管理中心的直接應用程式購買和發票帳單支援:** 系統管理員可以在 Teams 系統管理中心內直接完成付費應用程式授權的訂單。 此外, 發票帳單是新支援的付款方式。
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
@@ -404,7 +440,7 @@ ms.locfileid: "60793501"
 
 - **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Teams 系統管理中心的直接應用程式購買和發票帳單支援:** 系統管理員可以在 Teams 系統管理中心內直接完成付費應用程式授權的訂單。 此外, 發票帳單是新支援的付款方式。
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
@@ -426,7 +462,7 @@ ms.locfileid: "60793501"
 
 - **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Teams 系統管理中心的直接應用程式購買和發票帳單支援:** 系統管理員可以在 Teams 系統管理中心內直接完成付費應用程式授權的訂單。 此外, 發票帳單是新支援的付款方式。
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
