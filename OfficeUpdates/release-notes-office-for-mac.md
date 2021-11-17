@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: ee803be73dc1be581acc1cbad57b7c61dad96ce8
-ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
+ms.openlocfilehash: 64a33a0222488ca676a637c5bfd71065e67d6f75
+ms.sourcegitcommit: 3fbd2e6134519a8804fad856781c8677181bd4bb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60291425"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61042485"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -36,6 +36,25 @@ ms.locfileid: "60291425"
 [//]: # (DO NOT REMOVE)
 
 
+
+
+
+## <a name="november-16-2021"></a>2021 年 11 月 16 日
+*版本 16.55 (組建 21111400)*
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-40442](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-40442)
+-   [CVE-2021-42292](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-42292)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="october-12-2021"></a>2021 年 10 月 12 日
 *Version 16.54 (組建 21101001)*
