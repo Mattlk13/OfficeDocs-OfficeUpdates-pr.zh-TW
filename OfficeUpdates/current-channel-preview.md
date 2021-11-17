@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d89fe82bb622a482bb4796210fa2ed289ce34664
-ms.sourcegitcommit: dc1faf43900f7f23d6d3fdc8d280754944adb798
+ms.openlocfilehash: 92178691c681aa4847ce35629cacc1b243d04c3d
+ms.sourcegitcommit: 692913ea96446e2681b4962268d8351207394d11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2021
-ms.locfileid: "60907164"
+ms.lasthandoff: 11/16/2021
+ms.locfileid: "60972148"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,10 @@ ms.locfileid: "60907164"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-november-15"></a>版本 2111：11 月 15 日
+*版本 2111 (組建 14701.20100)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2111-november-10"></a>版本 2111：11 月 10 日
 *版本 2111 (組建 14701.20060)*
@@ -5251,7 +5255,7 @@ ms.locfileid: "60907164"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
@@ -5476,7 +5480,7 @@ ms.locfileid: "60907164"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

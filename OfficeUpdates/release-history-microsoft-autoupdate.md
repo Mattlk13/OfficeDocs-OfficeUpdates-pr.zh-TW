@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 542e9280f723e8be1cdb22450dbfdab275112cb9
-ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
+ms.openlocfilehash: 4d949d3bf45573b240f290ce63f2d2cda770680d
+ms.sourcegitcommit: 3fbd2e6134519a8804fad856781c8677181bd4bb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60291459"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61042495"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,26 @@ ms.locfileid: "60291459"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="november-2021-release"></a>2021 年 11 月發行版本
+
+**發行日期：** 2021 年 11 月 16 日
+
+*Microsoft AutoUpdate 4.41*
+
+**錯誤修正及增強功能：**
+- 準備好安裝更新時，MAU 現在會顯示應用程式內訊息列 (Word、Excel、PowerPoint)
+- 如果沒有未儲存的文件變更，Word、Excel 和 PowerPoint 將自動更新並重新啟動
+- 如果應用程式在分配的時間內無法更新，MAU 將在不需要重新下載更新套件的情況下重試更新
+- 新增更新 Office 授權協助程式的支援。 如需詳細資訊，請參閱 https://go.microsoft.com/fwlink/?linkid=2181277
+
+
+
+[下載 Microsoft AutoUpdate 4.41 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.41.21111400_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+C634C99867D70524C090B1FA26DD9BCE747A04611DB88B68F6E35C58B7752516
+
 ## <a name="october-2021-release"></a>2021 年 10 月發行
 
 **發行日期：** 2021 年 10 月 12 日
