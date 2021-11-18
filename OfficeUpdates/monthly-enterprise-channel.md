@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 4e386bad1e542ab4ce4bc90261c9a277608f821b
-ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
+ms.openlocfilehash: 7e6399af1774560e0ca207f85948861d85eb732f
+ms.sourcegitcommit: 3fbd2e6134519a8804fad856781c8677181bd4bb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60887040"
+ms.lasthandoff: 11/17/2021
+ms.locfileid: "61042475"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -36,9 +36,9 @@ ms.locfileid: "60887040"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **自動開展線上目錄搜尋ive Search:** Enabling auto-expanding Online Archive Search
+- **自動展開線上封存搜尋：** 啟用自動展開線上封存搜尋。 您可以在此找到與無限制封存相關的詳細資訊：[自動展開封存功能的概觀](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving)
 
-- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動
+- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
