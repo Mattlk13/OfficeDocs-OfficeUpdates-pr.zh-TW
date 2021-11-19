@@ -9,30 +9,52 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 94f307265e9090d2705c5f4e58cea65040ccdd25
-ms.sourcegitcommit: 7bb2397a64c1078c2affc2a5788f7b3342800541
+ms.openlocfilehash: 0502788f2c0d24a23e13bc76c1342f252a013a31
+ms.sourcegitcommit: c3b469b159a55bcae1487dd28b517c4a669d1ff9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/13/2021
-ms.locfileid: "60952619"
+ms.lasthandoff: 11/19/2021
+ms.locfileid: "61081235"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
+[//]: # (DO NOT REMOVE APPNAME HEADER START)
+
 ## <a name="teams-admin-and-teams-app-november-11"></a>Teams 系統管理員和 Teams 應用程式: 11 月 11 日
 
+[//]: # (DO NOT REMOVE APPNAME HEADER END)
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+
 ### <a name="gcc-customers"></a>GCC 客戶:
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
 
 - **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
 
 - **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 - **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
 
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE DOD CUSTOMERS START)
+
 ### <a name="dod-customers"></a>DoD 客戶:
 
 - **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
+
+[//]: # (DO NOT REMOVE DOD CUSTOMERS END)
 
 ## <a name="teams-admin-november-11"></a>Teams 系統管理員: 11 月 11 日
 
