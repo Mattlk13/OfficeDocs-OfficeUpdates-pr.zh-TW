@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: da77f14c3120390357227bd086883650febd6e4a
-ms.sourcegitcommit: 437c83644881f68c56bd15e68106eb886d659e4e
+ms.openlocfilehash: 4e4a33d9d1a890063bddf9d754920b960e4fc6e2
+ms.sourcegitcommit: 39a33a2557dd69a2e90391388944a862987a90e2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2021
-ms.locfileid: "60950979"
+ms.lasthandoff: 11/19/2021
+ms.locfileid: "61113364"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,49 @@ ms.locfileid: "60950979"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-november-19"></a>版本2112：11月19日
+*版本 2112 (組建 14712.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **記錄：** 使用旁白錄製影片，使簡報更具影響力。 [深入了解](https://support.office.com/article/ddc4432c-79f6-4add-b85e-1009815d955c)
+
+
+- **匯出：** 將簡報的所有元件彙集在一起，以便輕鬆共用和檢視。 匯出的影片包括所有錄製的時間、旁白、筆墨和雷射筆筆勢。 影片也會保留動畫、轉場和媒體。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正一個問題，以便預設控制項為文字欄位，並讓使用者可以在對話方塊開啟時立即開始輸入。
+
+
+- 我們已修正與表單控制項互動可能會導致 Excel 意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在註解中加上文字會不必要地新增一行的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正應用程式在開啟檔案時會意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-november-12"></a>版本 2112: 11 月 12 日
 *版本 2112 (組建 14706.20000)*
@@ -2472,7 +2515,7 @@ ms.locfileid: "60950979"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -4521,6 +4564,7 @@ ms.locfileid: "60950979"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
@@ -4530,5 +4574,4 @@ ms.locfileid: "60950979"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14503.20002|version-2110-september-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
