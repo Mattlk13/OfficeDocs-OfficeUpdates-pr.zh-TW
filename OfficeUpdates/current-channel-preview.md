@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 92178691c681aa4847ce35629cacc1b243d04c3d
-ms.sourcegitcommit: 692913ea96446e2681b4962268d8351207394d11
+ms.openlocfilehash: 1b38259713cd03bbcce6d0d12c3f166cda23e449
+ms.sourcegitcommit: faf8c585514275cb7ea72d8180183bfd6fb41fc8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/16/2021
-ms.locfileid: "60972148"
+ms.lasthandoff: 11/23/2021
+ms.locfileid: "61149060"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,39 @@ ms.locfileid: "60972148"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-november-22"></a>版本 2111：11 月 22 日
+*版本 2111 (組建 14701.20166)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+- 我們修正了顯示連絡人卡片時，意外關閉的問題。
+
+
+- 我們修正了導致使用者在載入人員相片時遇到意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+- 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-november-15"></a>版本 2111：11 月 15 日
 *版本 2111 (組建 14701.20100)*
@@ -2818,7 +2851,7 @@ ms.locfileid: "60972148"
 - 系統現在會按照群組原則設定適當篩選出 OneDrive 位置。
 
 
-- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 - 修正與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
@@ -2988,7 +3021,7 @@ ms.locfileid: "60972148"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3226,7 +3259,7 @@ ms.locfileid: "60972148"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -3750,7 +3783,7 @@ ms.locfileid: "60972148"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
