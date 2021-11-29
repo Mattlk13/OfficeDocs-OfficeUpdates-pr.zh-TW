@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4e4a33d9d1a890063bddf9d754920b960e4fc6e2
-ms.sourcegitcommit: 39a33a2557dd69a2e90391388944a862987a90e2
+ms.openlocfilehash: 0b179e81c66a2144fc15311f80c6d6083a558bb5
+ms.sourcegitcommit: c5d4b145abdc897bb5946cbac6b406990ec3b2f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2021
-ms.locfileid: "61113364"
+ms.lasthandoff: 11/27/2021
+ms.locfileid: "61206989"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,38 @@ ms.locfileid: "61113364"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-november-26"></a>版本 2112：11 月 26 日
+*版本 2112 (組建 14718.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 SpreedsheetCompare 工具中開啟 xlsm 檔案會導致工具停止回應的問題。
+
+
+- 當資料中不再有已篩選的值時，重新整理 [樞紐分析表] 的資料可能會停止運作。 在缺少無效篩選值所產生的後續查詢陳述，重試重新整理要求暫時遭到停用，而現在已重新啟用。
+
+
+- 我們已修正當 Wincomp 關閉時，因 Windows 11 上的 Mica 開啟而導致的迴歸。
+
+
+- 我們已修正 WEBSERVICE 工作表函數的問題，在極少數的情況下，Excel 會在使用者取消計算時停止運作。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在張貼具有右對齊的新註解時，前一個註解的對齊方式從右變更為左的問題。
+
+
+- 我們已修正 Word 中重新開啟內容控制項時還原的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-november-19"></a>版本2112：11月19日
 *版本 2112 (組建 14712.20000)*
@@ -2131,7 +2163,7 @@ ms.locfileid: "61113364"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -2771,7 +2803,7 @@ ms.locfileid: "61113364"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -2856,7 +2888,7 @@ ms.locfileid: "61113364"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -3381,7 +3413,7 @@ ms.locfileid: "61113364"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -4564,6 +4596,7 @@ ms.locfileid: "61113364"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
@@ -4573,5 +4606,4 @@ ms.locfileid: "61113364"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14509.20000|version-2110-september-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
