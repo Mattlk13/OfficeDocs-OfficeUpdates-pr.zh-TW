@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1b38259713cd03bbcce6d0d12c3f166cda23e449
-ms.sourcegitcommit: faf8c585514275cb7ea72d8180183bfd6fb41fc8
+ms.openlocfilehash: 4e20cdc44b60aa0303bfbb146ebff70bc019df96
+ms.sourcegitcommit: 7f8c8103629fefd77e20026cd1a8679f0eacc05b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2021
-ms.locfileid: "61149060"
+ms.lasthandoff: 11/30/2021
+ms.locfileid: "61221870"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,21 @@ ms.locfileid: "61149060"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-november-29"></a>版本 2111：11 月 29 日
+*版本 2111 (組建 14701.20170)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **Microsoft Teams：網路研討會的受管理模式：** 網路研討會中的召集人和簡報者可以輕鬆地設定、管理及控制觀眾的視圖、持續聚焦在簡報者和內容上，以及將干擾最小化。 透過在會議設定中啟用受管理模式，您可以在上播前設定內容和簡報者、控制出席者一直看到的內容和內容，以及在多個簡報者和參與者間切換。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2111-november-22"></a>版本 2111：11 月 22 日
 *版本 2111 (組建 14701.20166)*
@@ -3021,7 +3036,7 @@ ms.locfileid: "61149060"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3783,7 +3798,7 @@ ms.locfileid: "61149060"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
