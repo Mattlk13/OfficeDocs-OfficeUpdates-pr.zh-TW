@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4e20cdc44b60aa0303bfbb146ebff70bc019df96
-ms.sourcegitcommit: 7f8c8103629fefd77e20026cd1a8679f0eacc05b
+ms.openlocfilehash: 6994f9fe9c944de63385e3ab858ae69c0d8f3673
+ms.sourcegitcommit: 53d3efcb8b269359267ea3339a36f655c66ca63f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/30/2021
-ms.locfileid: "61221870"
+ms.lasthandoff: 12/02/2021
+ms.locfileid: "61262445"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,41 @@ ms.locfileid: "61221870"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-december-01"></a>版本 2111：12 月 1 日
+*版本 2111 (組建 14701.20210)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了當資料中不再存在篩選值時，重新整理樞紐分析表資料可能會停止運作的問題，並且在缺少無效篩選值所產生的後續查詢陳述式，重試重新整理要求暫時遭到停用，而現在已重新啟用。
+
+
+- 我們已修正某些公式結果在輸入變更後無法更新的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致使用者在 PowerPoint 中載入角色時遇到意外關閉的問題。
+
+
+### <a name="project"></a>專案
+
+- 我們修正了一個問題，即當使用者開啟已儲存為其他名稱的專案時，已手動排程的工作被重新排程至更早的日期。 在開啟這些專案時，使用者不應再看到已手動排程的工作被重新排程。
+
+
+- 我們修正了載入自訂報告時某些專案意外關閉的問題。 
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了以下問題：在受保護的共同撰寫期間，敏感度標籤和加密可能會從 SharePoint 或 OneDrive 中託管的檔案中移除的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-november-29"></a>版本 2111：11 月 29 日
 *版本 2111 (組建 14701.20170)*
@@ -2607,7 +2642,7 @@ ms.locfileid: "61221870"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -5303,7 +5338,7 @@ ms.locfileid: "61221870"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
@@ -5528,7 +5563,7 @@ ms.locfileid: "61221870"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
