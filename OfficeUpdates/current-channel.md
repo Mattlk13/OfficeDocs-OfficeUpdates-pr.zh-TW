@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b24f03078b33eac17fbea62df7316a4d6f64edd0
-ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
+ms.openlocfilehash: b3d8ff3ff5c4d09da1db86b0c88f61ea7af5b566
+ms.sourcegitcommit: 53d3efcb8b269359267ea3339a36f655c66ca63f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60887000"
+ms.lasthandoff: 12/02/2021
+ms.locfileid: "61262435"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,39 @@ ms.locfileid: "60887000"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2110-december-01"></a>版本 2110：12 月 1 日
+*版本 2110 (組建 14527.20312)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致使用者在展開交談時遇到意外關閉的問題。
+
+
+- 我們已修正導致使用者無法從受保護的語音信箱訊息下載 MP3 附件的問題。
+
+
+- 我們已修正導致使用者在 Outlook 重新啟動之後，無法將其預設簽名插入新電子郵件、回覆或轉寄的問題。
+
+
+- 我們已修正導致使用者在 Outlook 中更新使用者目前狀態資訊時意外遇到關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 產品已更新，不會在執行儲存複製作業時，將變更儲存到原始雲端檔案，並關閉自動儲存。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 x64 使用者的 Word [檔案] > [選項] 功能表中的主題選擇器無法套用所選佈景主題的問題。 [檔案] > [帳戶] 位置中的佈景主題選擇器仍可運作，且不受此變更影響。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-november-09"></a>版本 2110：11 月 9 日
 *版本 2110 (組建 14527.20276)*
@@ -1378,7 +1411,7 @@ ms.locfileid: "60887000"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1491,7 +1524,7 @@ ms.locfileid: "60887000"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -1837,6 +1870,7 @@ ms.locfileid: "60887000"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20276|version-2110-november-09|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20234|version-2110-october-28|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20226|version-2110-october-25|)
@@ -1846,5 +1880,4 @@ ms.locfileid: "60887000"
 [//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
 [//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
-[//]: # (|Win32|CC|Production| |16.0.14326.20348|version-2108-september-07|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

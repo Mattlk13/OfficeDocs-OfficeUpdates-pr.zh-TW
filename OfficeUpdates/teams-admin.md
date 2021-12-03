@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 9a87c445b364a1ff470d90f5ef7b52149dc61825
-ms.sourcegitcommit: 7e32096a3521e001b116e4cffd557fb4bc1a29d9
+ms.openlocfilehash: 0e76ec73ff747e5babfe5ad2775a3b4b49062980
+ms.sourcegitcommit: 7797bce7e0100cca2435c0b9017e6b04834ed40d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2021
-ms.locfileid: "61177773"
+ms.lasthandoff: 12/03/2021
+ms.locfileid: "61281434"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,44 @@ ms.locfileid: "61177773"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="november-11-2021"></a>2021年11月11日
+## <a name="november-25-2021"></a>2021年11月25日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以將 Teams 清單匯出為從 Teams 系統管理中心的 CSV 檔案。
+
+- **IOS 和 Android 的速度撥號：** 這項功能可讓您最常使用的通話連絡人透過一次攻絲撥號來存取。
+
+- **Teams 1:1 VoIP 通話的端對端加密選項：** Microsoft Teams 將支持對臨時 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感的線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **Microsoft Teams 移動 tab 鍵動作：** Microsoft Teams tab 鍵動作會移出索引標籤標題列，移至 tab dropdown，可協助 declutter 使用者經驗。 這會影響所有應用程式索引標籤，例如工作分派、成績、Planner 或 [網站] 索引標籤。按一下索引標籤上的 [顯示下拉式功能表]，即可找到這些索引標籤動作。 這些動作包括： [重新載入] 索引標籤、[前往網站]、[複製] 索引標籤、快顯功能表索引標籤及此索引標籤。已進入的使用者可能會無法找到這些常見的動作，以在索引標籤標頭欄中使用這些索引標籤動作。 將會提供一次性教育 coachmark 氣泡，以教育使用者變更的相關資訊，因此請考慮讓使用者知道這項變更的相關資訊。
+
+- **Cortana 現在可用於國際市場的 EDU 客戶：** Cortana Teams 行動應用程式中的語音協助，Microsoft Teams 顯示幕現在已擴充國際市場中的 EDU 支援，以協助您使用手寫自然語言來簡化教學中的通訊、共同作業和與類別相關的工作。 透過 Cortana 語音協助，您可以呼叫人員或執行類別相關工作，也可以訊息某人或傳送郵件給您的類別。 此外，您也可以尋找及共用檔案，並在 Teams 行動應用程式或 Microsoft Teams 顯示上搜尋或流覽。 初次發行將會是 UK、印度、加拿大及澳大利亞。 這是除了之前的版本，EDU 客戶的先前版本。
+
+- **匿名使用者加入原則：** Teams 的會議原則，可控制是否允許匿名使用者進入會議召集人層級。
+
+- 與 **使用組織未受組織管理之帳戶的 Teams 使用者互動：** 與 Teams 聊天可讓 Teams 使用者與員工在其工作網路以外的小組成員交談，以 Teams 的個人帳戶。 客戶可以邀請任何 Teams 使用者使用電子郵件地址或電話號碼進行聊天，並維持在其組織的安全性和合規性原則中。
+
+- **與外部使用者交談中的應用程式和會議：** 完成時，我們會在會議中與外部使用者一起支援應用程式和群組聊天中的應用程式。
+
+- **Teams 呼叫的端對端加密：** 端對端加密是指其來源的資訊加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 端對端加密是一種即時媒體共同作業的模式，在這種情況下，兩方間的一對一 Teams 呼叫會進行端對端加密。
+
+- **Teams 用於 SIP 裝置的裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
+
+- **EHR 整合式虛擬走訪的 SMS 患者通知：** 患者可接收 SMS 通知，以獲得其 EHR 整合式虛擬走訪的確認和 remainders。
+
+- **Teams 用於 Surface 中樞的裝置管理：** 系統管理員可以透過 Teams 系統管理中心設定、管理及監視其 Surface center。
+
+- **互動式大庫：** 一次查看最多49個影片參與者，並透過像是 pin 和聚光燈這樣的動作與其互動，並觀察其會議活動，例如舉手及反應。
+
+- **DocuSign 整合的核准 eSignature：** 使用者現在可以在核准中建立 eSignature 要求時，選擇 DocuSign 做為 eSign 提供者。 系統管理員可以在 Teams 系統管理中心內關閉此連接器。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="november-11-2021"></a>2021年11月11日
 
 - **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
 
@@ -42,16 +75,12 @@ ms.locfileid: "61177773"
 
 - **Teams 審核記錄中的會議活動：** 此對 Microsoft Teams 審核記錄檔的更新會新增會議活動，以進一步協助組織有效回應安全性事件。 審核記錄會有 Teams 會議的相關資訊，包括開始時間、結束時間，以及加入會議的 URL。 會議參與者的相關資訊，包括每位參與者的使用者識別碼、每位參與者加入會議的時間，以及每位參與者離開會議的時間。
 
-- **自訂背景：** Microsoft 提供和使用者上傳的自訂背景現在可在 OS10 和 OS11 的 Android 裝置上使用，且具有支援的晶片組。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
-
-- **新的搜尋結果頁面體驗：** 在 Teams 中的新搜尋結果頁面體驗，可讓您更快速且更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
 - **Viva 連線中的核准卡片：** 管理員現在可以在其組織 Viva Connections 儀表板內固定核准卡。 然後，使用者可以輕鬆查看所有待定的核准要求，或快速建立新的核准要求。
 
-- **從 Teams admin center 匯出 Teams 清單：** 系統管理員可以將 Teams 清單匯出為從 Teams 系統管理中心的 csv 檔案。
+- **自訂背景：** Microsoft 提供和使用者上傳的自訂背景現在可在 OS10 和 OS11 的 Android 裝置上使用，且具有支援的晶片組。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="november-05-2021"></a>2021 年 11 月 5 日
 
 - **分組討論區簡報者支援：** 將分組討論區的管理延伸至特定簡報者。
@@ -85,10 +114,6 @@ ms.locfileid: "61177773"
 - **Windows 上的 Teams 會議室：更新的會議名冊：** 更新後的會議名册 (在 Teams Rooms 主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。 還有從邀請清單或聊天，邀請其他人參加會議的功能。
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
-
-## <a name="october-8-2021"></a>2021年10月8日
-
-- **從 Teams 系統管理中心登出：** 電話：租使用者系統管理員可以從 Teams 系統管理中心的遠端登出電話。 Android 上的 Teams 顯示幕和 Teams 會議室會在稍後推出：租使用者管理員將可以從 Teams 系統管理中心從遠端顯示。
 
 ## <a name="october-7-2021"></a>2021 年 10 月 7 日
 
