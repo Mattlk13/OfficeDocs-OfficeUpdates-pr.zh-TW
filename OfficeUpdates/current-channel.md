@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b3d8ff3ff5c4d09da1db86b0c88f61ea7af5b566
-ms.sourcegitcommit: 53d3efcb8b269359267ea3339a36f655c66ca63f
+ms.openlocfilehash: 42a0a502034e83c5c0c7a00a0668b28c9580af0f
+ms.sourcegitcommit: f3a6d466f4b3f1146e7bbeca746ef144604d8d6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2021
-ms.locfileid: "61262435"
+ms.lasthandoff: 12/04/2021
+ms.locfileid: "61307045"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -35,6 +35,63 @@ ms.locfileid: "61262435"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
+## <a name="version-2111-december-03"></a>版本 2111：12 月 3 日
+*版本 2111 (組建 14701.20226)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當資料中不再存在篩選值時，重新整理樞紐分析表資料可能會停止運作的問題，並且在缺少無效篩選值所產生的後續查詢陳述式，重試重新整理要求暫時遭到停用，而現在已重新啟用。
+
+
+- 我們已修正此問題: 如果資料來源範圍變更，新建立的樞紐分析表可能會失去自訂的設定。
+
+
+- 我們已修正某些公式結果在輸入變更後無法更新的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在 PowerPoint 中載入角色時遇到意外關閉的問題。
+
+
+- 我們已修正會導致顯示連絡人卡片時意外關閉的問題。
+
+
+- 我們已修正會導致使用者在載入人員相片時遇到意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正一個問題，即當使用者開啟已儲存為其他名稱的專案時，已手動排程的工作被重新排程至更早的日期。 在開啟這些專案時，使用者不應再看到已手動排程的工作被重新排程。
+
+
+- 我們已修正載入自訂報告時某些專案會意外關閉的問題。 
+
+
+### <a name="word"></a>Word
+
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+- 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正以下問題：在受保護的共同撰寫期間，敏感度標籤和加密可能會從 SharePoint 或 OneDrive 中託管的檔案中移除的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2110-december-01"></a>版本 2110：12 月 1 日
 *版本 2110 (組建 14527.20312)*
 
@@ -43,7 +100,7 @@ ms.locfileid: "61262435"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了導致使用者在展開交談時遇到意外關閉的問題。
+- 我們已修正導致使用者在展開交談時遇到意外關閉的問題。
 
 
 - 我們已修正導致使用者無法從受保護的語音信箱訊息下載 MP3 附件的問題。
@@ -95,7 +152,7 @@ ms.locfileid: "61262435"
 - 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
 
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定排程時間的問題。
 
@@ -251,16 +308,16 @@ ms.locfileid: "61262435"
 - 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在將游標停留在迷你行事曆日期時看到文字未對齊的問題。
 
 
-- 我們修正了導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
+- 我們已修正導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
 
 
 - 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在調整 Outlook 視窗時，在功能區中看到一些對齊問題和奇怪的視覺效果構件的問題。
 
 
-- 我們修正了導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
+- 我們已修正導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
 
 
-- 我們修正了預覽會議邀請時導致約會快速模式被裁掉的問題。
+- 我們已修正預覽會議邀請時導致約會快速模式被裁掉的問題。
 
 
 - 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
@@ -283,7 +340,7 @@ ms.locfileid: "61262435"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+- 我們已修正包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -449,7 +506,7 @@ ms.locfileid: "61262435"
 - 已修正 Outlook 中的自訂 VSTO 控制項在開啟和切換多個視窗和視圖之後停止運作的問題。
 
 
-- 我們修正了顯示以下錯誤「大聲朗讀沒有開始」的問題。
+- 我們已修正顯示以下錯誤「大聲朗讀沒有開始」的問題。
 
 
 
@@ -1734,7 +1791,7 @@ ms.locfileid: "61262435"
 - 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="project"></a>Project
@@ -1759,7 +1816,7 @@ ms.locfileid: "61262435"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 - 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
@@ -1870,6 +1927,7 @@ ms.locfileid: "61262435"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20276|version-2110-november-09|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20234|version-2110-october-28|)
@@ -1879,5 +1937,4 @@ ms.locfileid: "61262435"
 [//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
-[//]: # (|Win32|CC|Production| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
