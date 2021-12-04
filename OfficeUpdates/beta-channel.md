@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 0b179e81c66a2144fc15311f80c6d6083a558bb5
-ms.sourcegitcommit: c5d4b145abdc897bb5946cbac6b406990ec3b2f5
+ms.openlocfilehash: 4893e1d49e4700583e11398e40c6509deb3891c0
+ms.sourcegitcommit: f3a6d466f4b3f1146e7bbeca746ef144604d8d6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/27/2021
-ms.locfileid: "61206989"
+ms.lasthandoff: 12/04/2021
+ms.locfileid: "61307043"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -55,10 +55,6 @@ ms.locfileid: "61206989"
 ### <a name="word"></a>Word
 
 - 我們已修正在張貼具有右對齊的新註解時，前一個註解的對齊方式從右變更為左的問題。
-
-
-- 我們已修正 Word 中重新開啟內容控制項時還原的問題。
-
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -2888,7 +2884,7 @@ ms.locfileid: "61206989"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
