@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 6994f9fe9c944de63385e3ab858ae69c0d8f3673
-ms.sourcegitcommit: 53d3efcb8b269359267ea3339a36f655c66ca63f
+ms.openlocfilehash: 5f6bbaedd519cb55fedaea876e97f498bed4bba7
+ms.sourcegitcommit: f3a6d466f4b3f1146e7bbeca746ef144604d8d6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2021
-ms.locfileid: "61262445"
+ms.lasthandoff: 12/04/2021
+ms.locfileid: "61307061"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,10 @@ ms.locfileid: "61262445"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-december-03"></a>版本 2111：12 月 03 日
+*版本 2111 (組建 14701.20226)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2111-december-01"></a>版本 2111：12 月 1 日
 *版本 2111 (組建 14701.20210)*
@@ -3071,7 +3075,7 @@ ms.locfileid: "61262445"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -5338,7 +5342,7 @@ ms.locfileid: "61262445"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
