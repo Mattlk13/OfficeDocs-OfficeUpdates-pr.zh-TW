@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016、Office 2013 和 Office 2010 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: 02eb55d92c3683382d82c508a9d4d47511a34b62
-ms.sourcegitcommit: 2f881cce1e0877391b47cc79f7587b3a0b95314b
+ms.openlocfilehash: c3cda4c42c6e81e880460e84cba7093b6cdf5be7
+ms.sourcegitcommit: 03d4cfbba0d8a4a7388749111caa2271a5a1f6fd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "60126637"
+ms.lasthandoff: 12/07/2021
+ms.locfileid: "61327791"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -25,6 +25,10 @@ ms.locfileid: "60126637"
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="december-7-2021"></a>2021 年 12 月 7 日
+**Office 2016**<br/>
+商務用 Skype 2016 的更新 ([KB5001940](https://support.microsoft.com/help/5001940))
 
 ## <a name="october-5-2021"></a>2021 年 10 月 5 日
 **Office 2016**<br/>

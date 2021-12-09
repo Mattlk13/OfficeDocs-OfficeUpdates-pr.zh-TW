@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5f6bbaedd519cb55fedaea876e97f498bed4bba7
-ms.sourcegitcommit: f3a6d466f4b3f1146e7bbeca746ef144604d8d6e
+ms.openlocfilehash: 73ba943f09d56b7fc9bc642a886c901428bc617f
+ms.sourcegitcommit: 6b1043a33b74228007de508f1172f9acb2d05002
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2021
-ms.locfileid: "61307061"
+ms.lasthandoff: 12/08/2021
+ms.locfileid: "61333392"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,10 @@ ms.locfileid: "61307061"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2111-december-07"></a>版本 2111：12 月 07 日
+*版本 2111 (組建 14701.20230)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2111-december-03"></a>版本 2111：12 月 03 日
 *版本 2111 (組建 14701.20226)*
@@ -3837,7 +3841,7 @@ ms.locfileid: "61307061"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
