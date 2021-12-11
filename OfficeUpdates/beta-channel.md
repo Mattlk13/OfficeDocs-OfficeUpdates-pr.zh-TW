@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4893e1d49e4700583e11398e40c6509deb3891c0
-ms.sourcegitcommit: f3a6d466f4b3f1146e7bbeca746ef144604d8d6e
+ms.openlocfilehash: 3421473b36e2cfb9611d6b612e181639350e4353
+ms.sourcegitcommit: a6d4a3d7edac658ebfa7ad582302a4f5dc2714ac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2021
-ms.locfileid: "61307043"
+ms.lasthandoff: 12/10/2021
+ms.locfileid: "61415040"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,47 @@ ms.locfileid: "61307043"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-december-10"></a>版本 2112: 12 月 10日
+*版本 2112 (組建 14729.20038)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 我們已修正載入自訂報表時, 應用程式會意外關閉的問題。
+
+
+- 我們已修正當使用者開啟以不同名稱儲存的專案時, 會將手動排程的任務重新排定為更早日期的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在多分頁文件中捲動時, 游標會從註解中消失的問題。
+
+
+- 我們已修正在共同作業期間, 顯示 GUID 而不是作者名稱的問題。
+
+
+- 我們已修正在重新整理目錄時, 應用程式有時候會停止回應的問題。
+
+
+- 我們已修正在變更文件中的項目符號色彩後, [復原] 命令無法運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在已設定 OneDrive 同步處理的情況下, 儲存並重新開啟具有加密標籤的新檔案時, 會出現上傳已封鎖的警告視窗的問題。
+
+
+- 我們已修正觸發重新開機以完成移除現有安裝的問題。
+
+
+- 我們已修復大聲朗讀會在快速連續啟動和停止時意外關閉的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-november-26"></a>版本 2112：11 月 26 日
 *版本 2112 (組建 14718.20000)*
@@ -151,6 +192,7 @@ ms.locfileid: "61307043"
 ### <a name="office-suite"></a>Office 套件
 
 - 我們已修正 TrialNotificationBarDismissed、DateHigh 和 DateLow DWORDS 的說明已移除的問題。
+
 
 
 
@@ -637,7 +679,7 @@ ms.locfileid: "61307043"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="outlook"></a>Outlook
 
@@ -645,11 +687,11 @@ ms.locfileid: "61307043"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="word"></a>Word
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2159,7 +2201,7 @@ ms.locfileid: "61307043"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -2799,7 +2841,7 @@ ms.locfileid: "61307043"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -3409,7 +3451,7 @@ ms.locfileid: "61307043"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -4592,6 +4634,7 @@ ms.locfileid: "61307043"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
@@ -4601,5 +4644,4 @@ ms.locfileid: "61307043"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14517.20000|version-2110-september-24|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
