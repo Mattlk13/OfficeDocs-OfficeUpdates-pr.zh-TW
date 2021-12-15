@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: c1abee57eb76731011101eb47ba317244d534845
-ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
+ms.openlocfilehash: f0bc27936601f26c2ec3852f6538e948921d8c3e
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60886960"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511423"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -26,6 +26,53 @@ ms.locfileid: "60886960"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-december-14"></a>版本 2102：12 月 14 日
+*版本 2102 (組建 13801.21086)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正開啟檔案後，某些公式結果會不正確的問題。
+
+
+- 我們已修正在公式中使用儲存格參照導致使用者遇到高 CPU 使用量的問題。
+
+
+### <a name="skype"></a>Skype
+
+- 已修正部分膝上型電腦的混合式相機未在 SfB 用戶端中顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-december-14"></a>版本 2102：12 月 14 日
+*版本 2102 (組建 13801.21076)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="skype"></a>Skype
+
+- 已修正部分膝上型電腦的混合式相機未在 SfB 用戶端中顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-december-14"></a>版本 2008：12 月 14 日
+*版本 2008 (組建 13127.21842)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2102-november-09"></a>版本 2102：11 月 9 日
 *版本 2102 (組建 13801.21050)*
@@ -71,7 +118,7 @@ ms.locfileid: "60886960"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="office-suite"></a>Office 套件
 
-- 修正可能會讓 Word、Excel、PowerPoint 和 Outlook 用戶端進入一個狀態，在其中我們會對不正確的 URL 端點傳送要求的問題。 具體而言，若沒有此修正，美國政府文件內容可能會傳送到全球 augloop.office.com 端點，或傳送到較低層 USGov 端點 (例如，將 DoD 資料傳送到 GCC)
+- 修正可能會讓 Word、Excel、PowerPoint 和 Outlook 用戶端進入一個狀態，在其中我們會對不正確的 URL 端點傳送要求的問題。 特別是，若沒有此修正，我們就可以將美國政府文件內容傳送至全球的 augloop.office.com 端點，或是傳送至較低層級的 USGov 端點 (例如，已傳送至 GCC 的 DoD 資料) 
 
 
 
@@ -1039,7 +1086,7 @@ ms.locfileid: "60886960"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -1047,7 +1094,7 @@ ms.locfileid: "60886960"
 
 ### <a name="word"></a>Word
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1878,6 +1925,8 @@ ms.locfileid: "60886960"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13801.21086|version-2102-december-14|)
+[//]: # (|Win32|DC|Production| |16.0.13801.21076|version-2102-december-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21050|version-2102-november-09|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
@@ -1886,6 +1935,4 @@ ms.locfileid: "60886960"
 [//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
-[//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
-[//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
