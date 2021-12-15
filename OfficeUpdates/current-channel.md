@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 42a0a502034e83c5c0c7a00a0668b28c9580af0f
-ms.sourcegitcommit: f3a6d466f4b3f1146e7bbeca746ef144604d8d6e
+ms.openlocfilehash: 35f452e13f7b6e31b45a10b8106eec1acd96fef1
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2021
-ms.locfileid: "61307045"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511293"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,35 @@ ms.locfileid: "61307045"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2111-december-14"></a>版本 2111: 12 月 14 日
+*版本 2111 (組建 14701.20248)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 SpreedsheetCompare 工具中開啟 XLSM 檔案會導致工具停止回應的問題。
+
+
+- 我們已修正 WEBSERVICE 工作表函數的問題，在極少數的情況下，Excel 會在使用者取消計算時停止運作。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在擷取角色時遇到停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正有關 Office 新外觀的教學圖說內容 (提示) 未出現在 Outlook 中的問題。  現在，Word、Excel、PowerPoint 和 OneNote 的使用者會收到 Office 新外觀變更的通知，其中包含變更內容以及如何變更設定或切換體驗的資訊。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-december-03"></a>版本 2111：12 月 3 日
 *版本 2111 (組建 14701.20226)*
@@ -70,7 +99,7 @@ ms.locfileid: "61307045"
 
 ### <a name="project"></a>Project
 
-- 我們已修正一個問題，即當使用者開啟已儲存為其他名稱的專案時，已手動排程的工作被重新排程至更早的日期。 在開啟這些專案時，使用者不應再看到已手動排程的工作被重新排程。
+- 我們修正了一個問題，即當使用者開啟已儲存為其他名稱的專案時，已手動排程的工作被重新排程至更早的日期。 在開啟這些專案時，使用者不應再看到已手動排程的工作被重新排程。
 
 
 - 我們已修正載入自訂報告時某些專案會意外關閉的問題。 
@@ -78,7 +107,7 @@ ms.locfileid: "61307045"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -86,7 +115,7 @@ ms.locfileid: "61307045"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修正以下問題：在受保護的共同撰寫期間，敏感度標籤和加密可能會從 SharePoint 或 OneDrive 中託管的檔案中移除的問題。
+- 我們修正了以下問題：在受保護的共同撰寫期間，敏感度標籤和加密可能會從 SharePoint 或 OneDrive 中託管的檔案中移除的問題。
 
 
 
@@ -196,7 +225,7 @@ ms.locfileid: "61307045"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 ### <a name="outlook"></a>Outlook
@@ -205,7 +234,7 @@ ms.locfileid: "61307045"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="teams"></a>Teams
 
@@ -267,7 +296,7 @@ ms.locfileid: "61307045"
 
 - **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。[深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
 
-- **Word/Excel/PowerPoint 中的 DLP 原則：** 現在可以透過應用程式偵測到其他已配置為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 原則的敏感性資訊類型，以顯示原則提示。 此更新也會提供準確性改善和全球化支援。 [深入了解](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -308,16 +337,16 @@ ms.locfileid: "61307045"
 - 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在將游標停留在迷你行事曆日期時看到文字未對齊的問題。
 
 
-- 我們已修正導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
+- 我們修正了導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
 
 
 - 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在調整 Outlook 視窗時，在功能區中看到一些對齊問題和奇怪的視覺效果構件的問題。
 
 
-- 我們已修正導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
+- 我們修正了導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
 
 
-- 我們已修正預覽會議邀請時導致約會快速模式被裁掉的問題。
+- 我們修正了預覽會議邀請時導致約會快速模式被裁掉的問題。
 
 
 - 我們已修正在開啟隱私權設定視窗時，應用程式停止回應且預設對話方塊管理員為空的問題。
@@ -340,7 +369,7 @@ ms.locfileid: "61307045"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修正包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -1468,7 +1497,7 @@ ms.locfileid: "61307045"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1791,7 +1820,7 @@ ms.locfileid: "61307045"
 - 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="project"></a>Project
@@ -1816,7 +1845,7 @@ ms.locfileid: "61307045"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 - 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
@@ -1927,6 +1956,7 @@ ms.locfileid: "61307045"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20276|version-2110-november-09|)
@@ -1936,5 +1966,4 @@ ms.locfileid: "61307045"
 [//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
-[//]: # (|Win32|CC|Production| |16.0.14430.20234|version-2109-september-28|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
