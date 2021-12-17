@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: c42dddd9c16c5265c7809f89230c328cd8e1b7c0
-ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
+ms.openlocfilehash: 43d2f389c3c3a9b165c50ba9fa8937de02d73dc2
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60886890"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511413"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,37 @@ ms.locfileid: "60886890"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="december-14-2021"></a>2021 年 12 月 14 日
+目前通道：版本 2111 (組建 14701.20248)  
+每月企業通道版本：2110 (組建 14527.20340)  
+每月企業通道版本：2109 (組建 14430.20380)  
+半年企業通道 (預覽)：版本 2108 (組建 14326.20692)  
+半年企業通道：版本 2102 (組建 13801.21086)  
+半年企業通道：版本 2008 (組建 13127.21842)  
+Office 2021 零售版：版本 2111 (組建 14701.20248)  
+Office 2019 零售版：版本 2111 (組建 14701.20248)  
+Office 2016 零售版：版本 2111 (組建 14701.20248)  
+Office LTSC 2021 大量授權版：版本 2108 (組建 14332.20204)  
+Office 2019 大量授權版：版本1808（組建 10381.20020）  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-43256](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-43256)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-42293](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-42293)
+-   [CVE-2021-43875](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-43875)
+-   [CVE-2021-42295](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-42295)
+-   [CVE-2021-43255](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-43255)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="november-09-2021"></a>2021 年 11 月 9 日
 目前通道：版本 2110 (組建 14527.20276)  

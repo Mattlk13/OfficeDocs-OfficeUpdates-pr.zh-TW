@@ -9,16 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 3cfb45139e53eeb221f516ae5ce089f46e82197a
-ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
+ms.openlocfilehash: 8e7a457d54867768b117ec47d68adf9a588e822a
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60887050"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511463"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
+
+
+## <a name="version-2108-december-14"></a>版本 2108：12 月 14 日
+*版本 2108 (組建 14326.20692)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 SpreedsheetCompare 工具中開啟 xlsm 檔案會導致工具停止回應的問題。
+
+
+- 我們已修正當資料中不再有已篩選的值時，重新整理 [樞紐分析表] 的資料可能會停止運作的問題。 在缺少無效篩選值所產生的後續查詢陳述，重試重新整理要求暫時遭到停用，而現在已重新啟用。  
+
+
+- 我們已修正 WEBSERVICE 工作表函數的問題，在極少數的情況下，Excel 會在使用者取消計算時停止運作。
+
+
+- 我們已修正開啟檔案後，某些公式結果會不正確的問題。
+
+
+- 我們已修正在公式中使用儲存格參照導致使用者遇到高 CPU 使用量的問題。
+
+
+- 我們已修正某些公式結果在輸入變更後無法更新的問題。
+
+
+- 我們已修正少數 GCC-H 租用戶無法使用自動敏感度標籤的問題。
+
+
+- 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當權限應該受到限制時，導致使用者能從受保護的語音信箱訊息中儲存 MP3 附件的問題。
+
+
+- 我們已修正導致系統管理員無法存取 CLP 稽核功能的問題。
+
+
+- 我們已修復代理人無法在排程助理員中查看召集人詳細資料的問題。
+
+
+- 我們已修正以滑鼠右鍵按一下並選取檔案系統中的 [傳送郵件] 來傳送郵件，導致 explorer.exe 在 VDI 電腦上意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
+
+
+- 我們已修復在執行 [儲存複本] 作業時，當 [自動儲存] 關閉時產品更新無法儲存至原始雲端檔案的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正 XML 還原序列化的安全性問題。
+
+
+- 我們已修正從遠端來源重新導向 URL 的安全性問題。
+
+
+- 我們已修正遺失 XML 驗證的安全性問題。
+
+
+- 我們已修正在還原序列化委派時遠端執行程式碼的安全性問題。
+
+
+- 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定排程時間的問題。
+
+
+### <a name="skype"></a>Skype
+
+- 已修正部分膝上型電腦的混合式相機未在 SfB 用戶端中顯示的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用放大鏡功能時 Outlook 停止回應的問題。
+
+
+- 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
+
+
+- 我們已修正某些文件的圖形遺失問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2108-november-09"></a>版本 2108：11 月 09 日
@@ -1045,7 +1139,7 @@ ms.locfileid: "60887050"
 - 我們已修正會導致某些使用者在特定搜尋案例中遇到 Outlook 異常關閉的問題。
 
 
-- 我們已修正會導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 - 已解決當主旨行空白時，會導致傳送的自動產生電子郵件含有空白內文的問題。
@@ -1443,6 +1537,8 @@ ms.locfileid: "60887050"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20692|version-2108-december-14|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20674|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20600|version-2108-november-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20404|version-2108-september-14|)
@@ -1451,6 +1547,4 @@ ms.locfileid: "60887050"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

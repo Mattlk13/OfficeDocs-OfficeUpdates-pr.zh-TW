@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 在單一位置尋找及管理 Project Server 2013 和 Project Server 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
-ms.openlocfilehash: e4e4d54a75f61e96da8fb823db98e82d12b08979
-ms.sourcegitcommit: 0babaadcb9c90bceebe5854f4a92c89ee78e663e
+ms.openlocfilehash: 87df7d3fb42f09e5c5e19f988d487e5f64602d80
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2021
-ms.locfileid: "60291493"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511343"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -26,8 +26,9 @@ ms.locfileid: "60291493"
 > 如需 Project Server 2016 的更新資訊，請參閱 [SharePoint 更新](sharepoint-updates.md)，因為 Project Server 2016 是 SharePoint Server 2016 企業版的一部分。
   
 ## <a name="project-server-2013-update-history"></a>Project Server 2013 更新歷程記錄
-|**發行日期**|**KB 號碼**||
-|:-----|:-----|:-----|
+|**發行日期**|**KB 號碼**|
+|:-----|:-----|
+|2021 年 12 月 <br/>|[KB5002067](https://support.microsoft.com/help/5002067) <br/>|
 |2021 年 10 月 <br/>|[KB5002039](https://support.microsoft.com/help/5002039) <br/>|
 |2021 年 9 月 <br/>|[KB5002022](https://support.microsoft.com/help/5002022) <br/>|
 |2021 年 8 月 <br/>|[KB5002011](https://support.microsoft.com/help/5002011) <br/>|
@@ -187,8 +188,8 @@ ms.locfileid: "60291493"
    
 ## <a name="project-server-2010-update-history"></a>Project Server 2010 更新歷程記錄
 
-|**發行日期**|**KB 號碼**||
-|:-----|:-----|:-----|
+|**發行日期**|**KB 號碼**|
+|:-----|:-----|
 |2021 年 4 月 <br/>|[KB4504741](https://support.microsoft.com/help/4504741) <br/>|
 |2021 年 3 月 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
 |2021 年 2 月 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|

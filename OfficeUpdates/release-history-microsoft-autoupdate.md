@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 4d949d3bf45573b240f290ce63f2d2cda770680d
-ms.sourcegitcommit: 3fbd2e6134519a8804fad856781c8677181bd4bb
+ms.openlocfilehash: 572574bfd4a3058376759ba7723aec545dcffe64
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61042495"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511323"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,30 @@ ms.locfileid: "61042495"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="december-2021-release"></a>2021 年 12 月發行
+
+**發行日期：** 2021 年 12 月 14 日
+
+*Microsoft AutoUpdate 4.42*
+
+**增強功能：**
+- 改進對 VoiceOver 的支援
+- 使用 GUI 時，MAU 將會立即關閉並重新啟動應用程式
+- 如果使用者先前已選擇延遲更新，則稍後會顯示 [提醒] 對話方塊。
+
+**錯誤修正：**
+- 已修正 GUI 中遺漏「新增功能」內容的問題
+- 已修正在某些情況下，更新通知對話方塊未顯示的問題
+- 已修正在慢速裝置上 MAU 會提前終止的問題
+- 已修正如果已發出多個更新要求，導致 MAU 終止的問題
+
+[下載 Microsoft AutoUpdate 4.42 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.42.21121100_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+299DDCBFB071C287603B9602C94EFE8977EF82CF1C65C98F36B1BC9428CBC02B
+
+
 ## <a name="november-2021-release"></a>2021 年 11 月發行版本
 
 **發行日期：** 2021 年 11 月 16 日

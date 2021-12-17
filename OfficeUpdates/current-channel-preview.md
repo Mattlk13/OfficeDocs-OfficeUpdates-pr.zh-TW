@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 73ba943f09d56b7fc9bc642a886c901428bc617f
-ms.sourcegitcommit: 6b1043a33b74228007de508f1172f9acb2d05002
+ms.openlocfilehash: c408ea2e08de3080191c172f11fc503cd6cecb27
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2021
-ms.locfileid: "61333392"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511283"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,162 @@ ms.locfileid: "61333392"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-december-13"></a>版本 2112：12 月 13 日
+*版本 2112 (組建 14729.20108)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當資料庫包含 SharePoint 清單的連結時，可能導致使用 OLEDB API 開啟 Access 資料庫 (.accdb 檔案) 的應用程式意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正某些永久 2016 和 2019 使用者因移除快速存取工具列 (QAT) 中的復原/重做命令，以及 QAT 圖示未對齊而受到影響的問題。
+
+
+- 我們已修正一個問題，以便預設控制項為文字欄位，並讓使用者可以在對話方塊開啟時立即開始輸入。
+
+
+- 我們已修正在 SpreadsheetCompare 工具中開啟 XLSM 檔案時，會導致工具停止回應的問題。
+
+
+- 我們已修正當資料中不再有已篩選的值時，重新整理 [樞紐分析表] 的資料可能會停止運作的問題。 現在重新啟用在沒有無效篩選值的情況下產生的用於重試整理要求的後續查詢語句。
+
+
+- 我們已修正當 Wincomp 關閉時，因 Windows 11 上的 Mica 開啟而導致的問題。
+
+
+- 我們已修正樞紐分析表欄位窗格中的文字很難看清楚 Excel 是否以 Office 深灰色主題運作的問題。
+
+
+- 我們已修正與表單控制項互動可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正 LOGEST 工作表函數的問題，該函數不會處理並清除暫時性溢位錯誤，且後續的計算不正確。
+
+
+- 我們已修正此問題: 如果資料來源範圍變更，新建立的樞紐分析表可能會失去自訂的設定。
+
+
+- 我們已修正某些公式結果在輸入變更後無法更新的問題。
+
+
+- 我們已修正 WEBSERVICE 工作表函數中，在極少數的情況下，Excel 會在使用者取消計算時停止運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用者寄給自己 (相同電子郵件地址) 所收到的電子郵件呈現空白郵件內文的問題。
+
+
+- 我們已修正在檢索角色時，造成使用者遇到意外關閉的問題。
+
+
+- 我們已修正在 Power Point 載入角色時，造成使用者遇到意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當使用者開啟以不同名稱儲存的專案時, 會將手動排程的任務重新排定為更早日期的問題。
+
+
+- 我們已修正進度行顯示在錯誤位置的問題。 
+
+
+- 我們已修正載入自訂報表時, 應用程式會意外關閉的問題。
+
+
+- 我們已修正當摘要任務完成 0% 時，進度線無法正確繪製的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在註解中加上文字會不必要地新增一行的問題。
+
+
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+- 我們已修正插入新註解時，如果文件右側有開啟任何窗格，則游標不會出現在回覆方塊中的問題。
+
+
+- 我們已修正在張貼具有右對齊的新註解時，前一個註解的對齊方式從右變更為左的問題。
+
+
+- 我們已修正在多分頁文件中捲動時, 游標會從註解中消失的問題。
+
+
+- 我們已修正在共同作業期間, 顯示 GUID 而不是作者名稱的問題。
+
+
+- 我們已修正在重新整理目錄時, 應用程式有時候會停止回應的問題。
+
+
+- 我們已修正在變更文件中的項目符號色彩後, [復原] 命令無法運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正應用程式在開啟檔案時會意外關閉的問題。
+
+
+- 我們已修正在已設定 OneDrive 同步處理的情況下, 儲存並重新開啟具有加密標籤的新檔案時, 會出現上傳已封鎖的警告視窗的問題。
+
+
+- 我們已修正有關 Office 新外觀的教學圖說內容 (提示) 未出現在 Outlook 中的問題。 現在，Word、Excel、PowerPoint 和 OneNote 的使用者會收到 Office 新外觀變更的通知，其中包含變更內容以及如何變更設定或切換體驗的資訊。
+
+
+- 我們已修正觸發重新開機以完成移除現有安裝的問題。
+
+
+- 我們已修正 TrialNotificationBarDismissed、DateHigh 和 DateLow DWORDS 的說明已移除的問題。
+
+- 我們已修復大聲朗讀會在快速連續啟動和停止時意外關閉的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2111-december-10"></a>版本 2111：12 月 10 日
+*版本 2111 (組建 14701.20248)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 SpreedsheetCompare 工具中開啟 xlsm 檔案會導致工具停止回應的問題。
+
+
+- 我們已修正 WEBSERVICE 工作表函數的問題，在極少數的情況下，Excel 會在使用者取消計算時停止運作。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在擷取角色時遇到當機的問題。
+
+
+### <a name="outlookexe"></a>outlook.exe
+
+- 我們已修正導致使用者在擷取角色時遇到當機的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 這會修正兩件事：
+1. Outlook 中存在一個錯誤，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。 現在會顯示內容。
+2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。 此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-december-07"></a>版本 2111：12 月 07 日
 *版本 2111 (組建 14701.20230)*
@@ -2650,7 +2806,7 @@ ms.locfileid: "61333392"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -3079,7 +3235,7 @@ ms.locfileid: "61333392"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3841,7 +3997,7 @@ ms.locfileid: "61333392"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -5571,7 +5727,7 @@ ms.locfileid: "61333392"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

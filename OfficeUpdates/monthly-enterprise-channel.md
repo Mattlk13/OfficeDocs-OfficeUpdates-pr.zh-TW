@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 7e6399af1774560e0ca207f85948861d85eb732f
-ms.sourcegitcommit: 3fbd2e6134519a8804fad856781c8677181bd4bb
+ms.openlocfilehash: c7ff7fd088718ca86e642ee9e105b0a54c087666
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61042475"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511403"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,167 @@ ms.locfileid: "61042475"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2110-december-14"></a>版本 2110：12 月 14 日
+*版本 2110 (組建 14527.20340)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
+
+- **針對郵件和行事曆撰寫之展開的 GAL 人員建議：** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 現在將從完整 GAL 傳回結果。 (例如：將某人新增到新電子郵件的 [收件者] 行)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當我們開啟隱私權設定視窗時，應用程式停止回應的問題，因為對話方塊管理員是空白的新增不是空白檢查做為檢查。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正當我們開啟隱私權設定視窗時，應用程式停止回應的問題，因為對話方塊管理員是空白的新增不是空白檢查做為檢查。
+
+
+- 開啟 Dynamics 的連結資料表時，顯示資料時，數字可能會呈現為小型方塊。 若要解決此問題，請在資料表設計檢視中開啟連結，並清除任何受影響資料行的格式屬性。
+
+
+- 我們已修正開啟 Excel 檔案時儲存格選擇取關閉的問題。
+
+
+- 我們已修正部分工作表函數未針對使用特定語言使用者顯示的問題。
+
+
+- 我們已修正在公式中使用儲存格參照導致使用者遇到高 CPU 使用量的問題。
+
+
+- 我們已修復此問題: 如果來源檔案來自 OneDrive 位置且檔案名稱包含 HTML 編碼字元, 將 Excel、Word 或 PowerPoint 內嵌物件加入 Excel 檔時, 未正確顯示應用程式的原始圖示。
+
+
+- 我們已修正查詢更新導致 Excel 停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當我們開啟隱私權設定視窗時，應用程式停止回應的問題，因為對話方塊管理員是空白的新增不是空白檢查做為檢查。
+
+
+- 我們已修正在繪製影像時，可能會停止回應的問題。
+
+
+- 我們修正了導致使用者載入 [行事曆] 模組的功能窗格時，遇到「停止」回應的問題。
+
+
+- 我們修正了預覽會議邀請時導致約會快速模式被裁掉的問題。
+
+
+- 我們已修正以滑鼠右鍵按一下並選取檔案系統中的 [傳送郵件] 來傳送郵件，導致 explorer.exe 在 VDI 電腦上意外關閉的問題。
+
+
+- 我們已修正導致使用者在 Outlook 中更新使用者目前狀態資訊時意外遇到停止回應的問題。
+
+
+- 我們已修正在移動個人卡片時，導致使用者遇到無回應的問題。
+
+
+- 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在調整 Outlook 視窗時，在功能區中看到一些對齊問題和奇怪的視覺效果構件的問題。
+
+
+- 我們已修正導致使用者在 Outlook 重新啟動之後，無法將其預設簽名插入新電子郵件、回覆或轉寄的問題。
+
+
+- 我們已修正導致使用者無法從受保護的語音信箱訊息下載 MP3 附件的問題。
+
+
+- 我們修正了導致所有使用敏感度標籤所送出的電子郵件持續使用「僅加密」範本，導致不正確的行為，允許人員轉寄「僅收件者」電子郵件的問題。
+
+
+- 我們已修正會在產生預覽時，導致同步處理停止運作的問題。
+
+
+- 我們已修正會導致使用 Windows 11 的使用者，或透過「即將推出」使用視覺效果的使用者，在將游標停留在迷你行事曆日期時看到文字未對齊的問題。
+
+
+- 我們已修正在展開交談時，導致使用者遇到停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當我們開啟隱私權設定視窗時，應用程式停止回應的問題，因為對話方塊管理員是空白的新增不是空白檢查做為檢查。
+
+
+- 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
+
+
+- 我們已修復在執行 [儲存複本] 作業時，當 [自動儲存] 關閉時產品更新無法儲存至原始雲端檔案的問題。
+
+
+- 我們已修正在繪製影像時，可能會停止回應的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當透過 CSOM 以程式設計方式將新工作新增到專案時，如果新工作的工作摘要已摺疊，工作可能無法插入正確位置的問題。
+
+
+- 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定排程時間的問題。
+
+
+### <a name="skype"></a>Skype
+
+- 已修正部分膝上型電腦的混合式相機未在 SfB 用戶端中顯示的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正當我們開啟隱私權設定視窗時，應用程式停止回應的問題，因為對話方塊管理員是空白的新增不是空白檢查做為檢查。
+
+
+- 我們已修正嘗試開啟 OneDrive 共用檔案時，應用程式意外關閉的問題。
+
+
+- 我們已修正 x64 使用者的 Word [檔案] > [選項] 功能表中的主題選擇器無法套用所選佈景主題的問題。 [檔案] > [帳戶] 位置中的佈景主題選擇器仍可運作，且不受此變更影響。
+
+
+- 我們已修正在繪製影像時，可能會停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了包含無效 SVGs 的文件會顯示點陣化遞補影像，而不是紅色 X 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2109-december-14"></a>版本 2109：12 月 14 日
+*版本 2109 (組建 14430.20380)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正少數 GCC-H 租用戶無法使用自動敏感度標籤的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2109-november-09"></a>版本 2109：11 月 09 日
 *版本 2109 (組建 14430.20342)*
@@ -1421,6 +1582,7 @@ ms.locfileid: "61042475"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
@@ -1430,5 +1592,4 @@ ms.locfileid: "61042475"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 1be38c03b494f82e55a693cb39f78dec58340461
-ms.sourcegitcommit: 4cb2d4d564f1a559adc2a9024977e1d37b3a2550
+ms.openlocfilehash: 5484f5fc3b426ffea085eb84a34de37eb3dbdeeb
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2021
-ms.locfileid: "61401868"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511449"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -31,14 +31,23 @@ ms.locfileid: "61401868"
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="december-14-2021"></a>2021 年 12 月 14 日
 
-## <a name="december-9-2021"></a>2021 年 12 月 9 日
+[//]: # (DO NOT REMOVE CONTENT STARTDecember 14, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2111 (組建 14701.20248)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2111 (組建 14701.20226) <br/> |2021 年 12 月 3 日 <br/> |67<br/> |
+|版本 2110 (組建 14527.20312) <br/> |2021 年 11 月 30 日 <br/> |400<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業頻道
 
-<i>預期發行版本為版本 2110 (組建 14527.20332)。</i>
+最新的版本是版本 2110 (組建 14527.20340)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -46,19 +55,9 @@ ms.locfileid: "61401868"
 
 
 
-### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
-
-<i>預期發行版本為版本 2108 (組建 14326.20674)。</i>
-
-|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
-|:-----|:-----|:-----|
-|版本 2108 (組建 14326.20600) <br/> |2021 年 11 月 9 日 <br/> |62<br/> |
-|版本 2108 (組建 14326.20508) <br/> |2021 年 10 月 12 日 <br/> |70<br/> |
-
-
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期發行版本為版本 2102 (組建 13801.21076)。</i>
+最新的版本是版本 2102 (組建 13801.21086)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
@@ -66,7 +65,10 @@ ms.locfileid: "61401868"
 |版本 2102 (組建 13801.21004) <br/> |2021 年 10 月 12 日 <br/> |59<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (DO NOT REMOVE CONTENT ENDDecember 14, 2021)
+
+
+
 
 ## <a name="december-3-2021"></a>2021 年 12 月 3 日
 

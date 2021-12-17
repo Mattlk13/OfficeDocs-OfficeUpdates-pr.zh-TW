@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 64a33a0222488ca676a637c5bfd71065e67d6f75
-ms.sourcegitcommit: 3fbd2e6134519a8804fad856781c8677181bd4bb
+ms.openlocfilehash: 3c4d9fc28e789dba1b28a6172c972fd2f4905a1c
+ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2021
-ms.locfileid: "61042485"
+ms.lasthandoff: 12/15/2021
+ms.locfileid: "61511313"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -38,6 +38,38 @@ ms.locfileid: "61042485"
 
 
 
+
+
+
+## <a name="december-14-2021"></a>2021 年 12 月 14 日
+*版本 16.56 (組建 21121100)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **依類別篩選：**[依類別篩選] 現在可用於新 Mac Outlook
+
+- **[線上封存] 現在可用於新的 Mac Outlook：**[線上封存] 現在可用於新的 Mac Outlook<br />在[部落格文章](https://insider.office.com/en-us/blog/free-up-space-with-online-archive-in-outlook-for-mac)中查看詳細資料
+
+- **[活動摘要] 中的文件和電子郵件提及：**[活動摘要] 中的文件和電子郵件提及
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2021-43875](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2021-43875)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="november-16-2021"></a>2021 年 11 月 16 日
 *版本 16.55 (組建 21111400)*
