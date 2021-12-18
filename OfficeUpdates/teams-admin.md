@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 0e76ec73ff747e5babfe5ad2775a3b4b49062980
-ms.sourcegitcommit: 7797bce7e0100cca2435c0b9017e6b04834ed40d
+ms.openlocfilehash: 757fe9bbb9a68a7faa451986c7bdedcfc4533668
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2021
-ms.locfileid: "61281434"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559464"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,23 @@ ms.locfileid: "61281434"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="november-25-2021"></a>2021年11月25日
+## <a name="december-09-2021"></a>2021年12月9日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **Teams 系統管理中心：每位使用者的加入小組：** Teams 管理員可以查看使用者已加入的小組清單。
+
+- **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
+
+- **自訂背景：** Microsoft 所提供和使用者上傳的自訂背景現在可在 OS10 和 OS11 的 Android 裝置上使用，且具有支援的晶片組。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
+
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="november-25-2021"></a>2021年11月25日
 
 - **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以將 Teams 清單匯出為從 Teams 系統管理中心的 CSV 檔案。
 
@@ -64,7 +76,6 @@ ms.locfileid: "61281434"
 
 - **DocuSign 整合的核准 eSignature：** 使用者現在可以在核准中建立 eSignature 要求時，選擇 DocuSign 做為 eSign 提供者。 系統管理員可以在 Teams 系統管理中心內關閉此連接器。
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="november-11-2021"></a>2021年11月11日
 
 - **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
