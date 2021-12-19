@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3421473b36e2cfb9611d6b612e181639350e4353
-ms.sourcegitcommit: a6d4a3d7edac658ebfa7ad582302a4f5dc2714ac
+ms.openlocfilehash: a857aa680e8053dbb24807e38b3de4842df5feb6
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2021
-ms.locfileid: "61415040"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559574"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,88 @@ ms.locfileid: "61415040"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2201-december-17"></a>版本 2201：12 月 17 日
+*版本 2201 (組建 14809.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正可能導致使用 Access 資料庫引擎 OLEDB API 且其資料庫包含 SharePoint 清單之連結的應用程式，會意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正在套用敏感度標籤保護文件後，[自動儲存] 可能會暫時停用的問題。
+
+
+- 已修正以下問題：如果儲存格中的資料驗證下拉式清單包含空白值，則無法從該清單中選取值。
+
+
+- 已修正搜尋結果在樞紐分析表欄位清單工作窗格中遺失的問題。
+
+
+- 已修正以下問題：在多重監視器設定中，當使用者選取儲存格時，對話方塊中的一些資料被隱藏。
+
+
+- 已修正以下問題：當您具有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更。 現在使用 [轉換] 功能時，物件會完全轉換。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正使用 OLEDB API 和 ACE.OLEDB.12.0 或 ACE.OLEDB.16.0 提供者的應用程式意外關閉的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 已修正平板電腦模擬器上的一般套索選取會導致應用程式意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已修正將連絡人匯出至 CSV 時導致使用者在某些欄位中看到亂碼文字的問題。
+
+
+- 已修正以下問題：當 [寄件者] 地址與 [回覆] 地址不同時，郵件寄件者在全部回覆時未被包括在內。
+
+
+- 已修正以下問題：當使用者的下載喜好設定設定為 [下載標題] 時，透過提醒開啟訊息時導致應用程式意外關閉的問題。
+
+
+- 已修正導致在啟用「共用行事曆改良」的情况下，使用者無法從連絡人新增共用行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正將 Vimeo 影片插入簡報時造成錯誤的問題。
+
+
+### <a name="word"></a>Word
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正當使用者重複點擊或使用快速鍵開啟或關閉 [大聲朗讀] 功能時，應用程式意外關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正以下問題：如果停用 EnableAudit 設定，則不再產生 Microsoft 資訊保護敏感度標籤稽核資料。
+
+
+- 已修正在連續啟動和停止 [大聲朗讀] 時應用程式停止回應的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-december-10"></a>版本 2112: 12 月 10日
 *版本 2112 (組建 14729.20038)*
@@ -4634,6 +4716,7 @@ ms.locfileid: "61415040"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
@@ -4643,5 +4726,4 @@ ms.locfileid: "61415040"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14527.20040|version-2110-october-01|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
