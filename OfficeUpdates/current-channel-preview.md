@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c408ea2e08de3080191c172f11fc503cd6cecb27
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: a58f977fa4377eee73f57306fd3beec08376a3c3
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511283"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559554"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,41 @@ ms.locfileid: "61511283"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-december-16"></a>版本 2112：12 月 16 日
+*版本 2112 (組建 14729.20170)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正使用多個執行緒連線至 Access 或 Jet 資料庫時造成應用程式意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正導致使用 OLEDB API 和 ACE.OLEDB.12.0 或 ACE.OLEDB.16.0 提供者的應用程式意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已修正將連絡人匯出至 CSV 時導致使用者在某些欄位中看到亂碼文字的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正與重新整理可能包含文字的元素相關的可靠性問題。
+
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-december-13"></a>版本 2112：12 月 13 日
 *版本 2112 (組建 14729.20108)*

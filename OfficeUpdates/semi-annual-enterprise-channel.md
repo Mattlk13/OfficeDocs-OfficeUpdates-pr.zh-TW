@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: f0bc27936601f26c2ec3852f6538e948921d8c3e
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: aaf2993e979842d948831c9dfa31155d4977dba5
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511423"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559424"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -23,6 +23,38 @@ ms.locfileid: "61511423"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-december-16"></a>版本 2102：12 月 16 日
+*版本 2102 (組建 13801.21092)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正阻止多個使用者在網路檔案共用上開啟資料庫的問題。
+[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2008-december-16"></a>版本 2008：12 月 16 日
+*版本 2008 (組建 13127.21846)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正阻止多個使用者在網路檔案共用上開啟資料庫的問題。
+[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -1925,6 +1957,7 @@ ms.locfileid: "61511423"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.13801.21092|version-2102-december-17|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21086|version-2102-december-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21076|version-2102-december-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21050|version-2102-november-09|)
@@ -1934,5 +1967,4 @@ ms.locfileid: "61511423"
 [//]: # (|Win32|DC|Production| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
-[//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

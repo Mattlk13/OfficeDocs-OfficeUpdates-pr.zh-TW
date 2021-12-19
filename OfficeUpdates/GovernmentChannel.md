@@ -9,22 +9,125 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 0502788f2c0d24a23e13bc76c1342f252a013a31
-ms.sourcegitcommit: c3b469b159a55bcae1487dd28b517c4a669d1ff9
+ms.openlocfilehash: f709d39a0d10734c4e1a7946248d4ac4a66c672f
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2021
-ms.locfileid: "61081235"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559434"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-november-11"></a>Teams 系統管理員和 Teams 應用程式: 11 月 11 日
+## <a name="teams-admin-and-teams-app-december-09"></a>Teams 系統管理員和 Teams 應用程式：12 月 9 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
+[//]: # (DO NOT REMOVE DOD CUSTOMERS START)
+
+### <a name="dod-customers"></a>DoD 客戶：
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
+
+- **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
+
+- **在家工作的動態緊急電話：** 此功能可讓使用者驗證 (並在必要時編輯) 個人在家工作時撥打的緊急電話的緊急回應者地址。
+
+- **1:1 VOIP 和 PSTN 通話錄製和謄寫通話中應用程式 V2：** 1:1 VOIP 和 PSTN 通話錄製和謄寫現在會顯示在通話中應用程式 V2 的通話詳細資料面板中。這是專為我們的 PSTN 客戶設計的一項關鍵功能。 在沒有聊天的情況下，PSTN 使用者無法查看通話錄製和謄寫。 我們現在在通話中應用程式 V2 的通話記錄中整合了通話錄製和謄寫。我們啟用了：1:1 VOIP 和 VOIP 通話的通話謄寫會顯示在通話記錄中的通話詳細資料面板中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE DOD CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
+
+- **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
+
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
+
+- **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
+
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-app-december-09"></a>Teams 應用程式: 12 月 9 日
+
+### <a name="dod-customers"></a>DoD 客戶：
+
+- **將 RTMP 摘要傳送至 Teams 會議：** 利用 RTMP PUSH 摘要向 Teams 會議提供媒體資料流。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **將 RTMP 摘要傳送至 Teams 會議：** 利用 RTMP PUSH 摘要向 Teams 會議提供媒體資料流。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **將 RTMP 摘要傳送至 Teams 會議：** 利用 RTMP PUSH 摘要向 Teams 會議提供媒體資料流。
+
+## <a name="teams-admin-december-09"></a>Teams 系統管理員：12 月 9 日
+
+### <a name="dod-customers"></a>DoD 客戶：
+
+- **系統管理員可以在會議中安裝應用程式:** 我們可讓 IT 系統管理員選取可在其組織的會議中安裝的 Teams 應用程式。 它會利用應用程式安裝原則 [已安裝的應用程式] 區段, 讓系統管理員可以指定要代表其使用者安裝的應用程式。
+
+- **開發人員可以選擇預設封鎖應用程式:** 引入新的應用程式狀態「由發行者封鎖」, 讓開發人員預設封鎖應用程式, 直到系統管理員在 Teams 系統管理中心中採取動作允許應用程式
+
+- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
+
+- **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
+
+- **系統管理員可以使用系統管理單位委派 Teams 管理：** 系統管理員可以指定其他系統管理員來管理其 Teams 組織的子集
+
+- **GCC-H 和 DoD 雲端中 Teams 會議的即時文字記錄：** GCC-H 和 DoD 中的 Teams 會議現在有會議期間的即時抄寫和會後文字記錄。 這將協助使用者即時跟上會議進度，並在會後回顧會議。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **系統管理員可以在會議中安裝應用程式:** 我們可讓 IT 系統管理員選取可在其組織的會議中安裝的 Teams 應用程式。 它會利用應用程式安裝原則 [已安裝的應用程式] 區段, 讓系統管理員可以指定要代表其使用者安裝的應用程式。
+
+- **開發人員可以選擇預設封鎖應用程式:** 引入新的應用程式狀態「由發行者封鎖」, 讓開發人員預設封鎖應用程式, 直到系統管理員在 Teams 系統管理中心中採取動作允許應用程式
+
+- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
+
+- **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
+
+- **系統管理員可以使用系統管理單位委派 Teams 管理：** 系統管理員可以指定其他系統管理員來管理其 Teams 組織的子集
+
+- **GCC-H 和 DoD 雲端中 Teams 會議的即時文字記錄：** GCC-H 和 DoD 中的 Teams 會議現在有會議期間的即時抄寫和會後文字記錄。 這將協助使用者即時跟上會議進度，並在會後回顧會議。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **系統管理員可以在會議中安裝應用程式:** 我們可讓 IT 系統管理員選取可在其組織的會議中安裝的 Teams 應用程式。 它會利用應用程式安裝原則 [已安裝的應用程式] 區段, 讓系統管理員可以指定要代表其使用者安裝的應用程式。
+
+- **開發人員可以選擇預設封鎖應用程式:** 引入新的應用程式狀態「由發行者封鎖」, 讓開發人員預設封鎖應用程式, 直到系統管理員在 Teams 系統管理中心中採取動作允許應用程式
+
+- **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
+
+- **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
+
+- **系統管理員可以使用系統管理單位委派 Teams 管理：** 系統管理員可以指定其他系統管理員來管理其 Teams 組織的子集
+
+## <a name="teams-admin-and-teams-app-november-11"></a>Teams 系統管理員和 Teams 應用程式: 11 月 11 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -33,28 +136,10 @@ ms.locfileid: "61081235"
 
 - **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
 
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
-
-### <a name="gcc-h-customers"></a>GCC-H 客戶:
-
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
-
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
-
-[//]: # (DO NOT REMOVE DOD CUSTOMERS START)
-
-### <a name="dod-customers"></a>DoD 客戶:
-
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
-
-[//]: # (DO NOT REMOVE DOD CUSTOMERS END)
 
 ## <a name="teams-admin-november-11"></a>Teams 系統管理員: 11 月 11 日
 
@@ -440,7 +525,7 @@ ms.locfileid: "61081235"
 
 - **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票帳單支援:** 系統管理員可以在 Teams 系統管理中心內直接完成付費應用程式授權的訂單。 此外, 發票帳單是新支援的付款方式。
+- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
@@ -462,7 +547,7 @@ ms.locfileid: "61081235"
 
 - **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票帳單支援:** 系統管理員可以在 Teams 系統管理中心內直接完成付費應用程式授權的訂單。 此外, 發票帳單是新支援的付款方式。
+- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
@@ -484,7 +569,7 @@ ms.locfileid: "61081235"
 
 - **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票帳單支援:** 系統管理員可以在 Teams 系統管理中心內直接完成付費應用程式授權的訂單。 此外, 發票帳單是新支援的付款方式。
+- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
