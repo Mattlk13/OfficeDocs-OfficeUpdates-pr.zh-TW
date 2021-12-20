@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 78a71882799b3edaf660c3ea0dbfedf6f2bf73cb
-ms.sourcegitcommit: d108a5cdee40509a1ee92643e2e1ed4bc9254006
+ms.openlocfilehash: 4fc5a06b2f4f2f2f47a78e39914735c4f0209213
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 12/17/2021
-ms.locfileid: "61552205"
+ms.locfileid: "61559494"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,42 @@ ms.locfileid: "61552205"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="december-16-2021"></a>2021 年 12 月 16 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTDecember 16, 2021)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2111 (組建 14701.20262)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2111 (組建 14701.20248) <br/> |2021 年 12 月 14 日 <br/> |53<br/> |
+|版本 2111 (組建 14701.20226) <br/> |2021 年 12 月 3 日 <br/> |70<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+最新的版本是版本 2108 (組建 14326.20702)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20692) <br/> |2021 年 12 月 14 日 <br/> |279<br/> |
+|版本 2108 (組建 14326.20600) <br/> |2021 年 11 月 9 日 <br/> |62<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+最新的版本是版本 2102 (組建 13801.21092)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.21086) <br/> |2021 年 12 月 14 日 <br/> |161<br/> |
+|版本 2102 (組建 13801.21050) <br/> |2021 年 11 月 9 日 <br/> |56<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDDecember 16, 2021)
 
 ## <a name="december-14-2021"></a>2021 年 12 月 14 日
 

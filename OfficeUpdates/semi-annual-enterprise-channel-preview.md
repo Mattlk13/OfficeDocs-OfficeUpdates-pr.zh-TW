@@ -9,17 +9,38 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 8e7a457d54867768b117ec47d68adf9a588e822a
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: e5b3556e0b5639c41f1242fac80f1501d43d7692
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511463"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559484"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
+
+## <a name="version-2108-december-16"></a>版本 2108：12 月 16 日
+*版本 2108 (組建 14326.20702)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
+[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修復此問題: 如果來源檔案來自 OneDrive 位置且檔案名稱包含 HTML 編碼字元, 將 Excel、Word 或 PowerPoint 內嵌物件加入 Excel 檔時, 未正確顯示應用程式的原始圖示。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2108-december-14"></a>版本 2108：12 月 14 日
 *版本 2108 (組建 14326.20692)*
@@ -1537,6 +1558,7 @@ ms.locfileid: "61511463"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20702|version-2108-december-17|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20692|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20674|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20600|version-2108-november-09|)
@@ -1546,5 +1568,4 @@ ms.locfileid: "61511463"
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

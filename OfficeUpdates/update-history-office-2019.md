@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 4fdd72bc2d12366a336c84a094fd54ee9ae40761
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: 55e228036152dc2db4dadc08f8c34594ac076d23
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511183"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559564"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
@@ -100,12 +100,12 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2021 年 12 月 16 日|版本 2111 (組建 14701.20262)|
 |2021 年 12 月 14 日|版本 2111 (組建 14701.20248)|
 |2021 年 12 月 3 日|版本 2111 (組建 14701.20226)|
 |2021 年 12 月 1 日|版本 2110 (組建 14527.20312)|
 |2021 年 11 月 9 日|版本 2110 (組建 14527.20276)|
 |2021 年 10 月 28 日|版本 2110 (組建 14527.20234)|
-|2021 年 10 月 25 日|版本 2110 (組建 14527.20226)|
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -119,6 +119,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2021 年 10 月 25 日|版本 2110 (組建 14527.20226)|
 |2021 年 10 月 14 日|版本 2109 (組建 14430.20306)|
 |2021 年 10 月 12 日|版本 2109 (組建 14430.20298)|
 |2021 年 10 月 6 日|版本 2109 (組建 14430.20276)<br/>版本 2109 (組建 14430.20270)|

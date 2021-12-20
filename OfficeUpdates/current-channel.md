@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 35f452e13f7b6e31b45a10b8106eec1acd96fef1
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: 1aee3a50c7033a6172e0bb88ff34aa61471c2c90
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511293"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559444"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,25 @@ ms.locfileid: "61511293"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2111-december-16"></a>版本 2111：12 月 16 日
+*版本 2111 (組建 14701.20262)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了與重新整理可能包含文字的元素相關的可靠性問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-december-14"></a>版本 2111: 12 月 14 日
 *版本 2111 (組建 14701.20248)*
@@ -107,7 +126,7 @@ ms.locfileid: "61511293"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -535,7 +554,7 @@ ms.locfileid: "61511293"
 - 已修正 Outlook 中的自訂 VSTO 控制項在開啟和切換多個視窗和視圖之後停止運作的問題。
 
 
-- 我們已修正顯示以下錯誤「大聲朗讀沒有開始」的問題。
+- 我們修正了顯示以下錯誤「大聲朗讀沒有開始」的問題。
 
 
 
@@ -1831,7 +1850,7 @@ ms.locfileid: "61511293"
 - 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -1956,6 +1975,7 @@ ms.locfileid: "61511293"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14701.20262|version-2111-december-16|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
@@ -1965,5 +1985,4 @@ ms.locfileid: "61511293"
 [//]: # (|Win32|CC|Production| |16.0.14430.20306|version-2109-october-14|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
 [//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
-[//]: # (|Win32|CC|Production| |16.0.14430.20276|version-2109-october-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

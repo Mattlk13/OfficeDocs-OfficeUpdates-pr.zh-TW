@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: c7ff7fd088718ca86e642ee9e105b0a54c087666
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: 8212b9cfc5361da2c5468451373c3674d354d5bc
+ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511403"
+ms.lasthandoff: 12/17/2021
+ms.locfileid: "61559514"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,29 @@ ms.locfileid: "61511403"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2110-december-17"></a>版本 2110：12 月 17 日
+*版本 2110 (組建 14527.20344)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
+[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2109-december-17"></a>版本 2109：12 月 17 日
+*版本 2109 (組建 14430.20386)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2110-december-14"></a>版本 2110：12 月 14 日
 *版本 2110 (組建 14527.20340)*
@@ -1582,6 +1605,7 @@ ms.locfileid: "61511403"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
@@ -1591,5 +1615,4 @@ ms.locfileid: "61511403"
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
