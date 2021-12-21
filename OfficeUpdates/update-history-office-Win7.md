@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Microsoft 365 應用程式更新歷程記錄的版本資訊
-ms.openlocfilehash: 15134d00994900a7009baf1d7b6d45963f2c78f2
-ms.sourcegitcommit: 05af9b88c6e64f1831ddecf6fd91b52d7ea8a78e
+ms.openlocfilehash: b75db14a69a14027c6118784cf59defe7f4c1d75
+ms.sourcegitcommit: d46cd68a3042327460a15e03b2d0b9c8e49f26ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2021
-ms.locfileid: "60886950"
+ms.lasthandoff: 12/21/2021
+ms.locfileid: "61572237"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 上 Microsoft 365 應用程式的更新歷程記錄 
 
@@ -38,6 +38,9 @@ ms.locfileid: "60886950"
 ## <a name="update-history"></a>更新歷程記錄
 
 [//]: # (DO NOT REMOVE)
+
+**2021 年 12 月 20 日**<br/>
+版本 2002 (組建 12527.22079)<br/>
 
 **2021 年 11 月 9 日**<br/>
 版本 2002 (組建 12527.22060)<br/>
