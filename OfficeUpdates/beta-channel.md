@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a857aa680e8053dbb24807e38b3de4842df5feb6
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: c437a91509e6323fbb328e0fce658a3975e79e19
+ms.sourcegitcommit: 0dc40ac63651c9f6ea50db956aeca623adebd564
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559574"
+ms.lasthandoff: 12/27/2021
+ms.locfileid: "61608497"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,82 @@ ms.locfileid: "61559574"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2201-december-24"></a>版本 2201: 12 月 24 日
+*版本 2201 (組建 14816.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="office-suite"></a>Office 套件
+
+- **觸覺回饋意見反應:** 啟用觸控筆的觸覺意見反應。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當連續使用多個執行緒連接 Access 或 Jet 資料庫時，可能導致應用程式停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已實施設計變更要求，以防止顯示自動回覆橫幅。
+
+
+- 我們已修正當 RunContactLinking regkey 設定為 0 時，Outlook 正在合併連絡人資訊的問題。
+
+
+- 我們已修正 Outlook 在瀏覽至共用行事曆時停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在某些情況下，重設投影片未遵守特定圖片填滿屬性的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正會導致應用程式停止回應並造成資料遺失的問題。
+
+
+- 我們已修正當工作完成之後，指派任務的工期設定為零時，材料資源的時間階段資料不會顯示的問題。
+
+
+- 我們已修正從 Windows Server 2008 移轉升級到 Windows Server 2016/2019 的專案停止儲存的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正當使用者使用 OneDrive 用戶端同步處理之 CICO 文件庫中的伺服器路徑對位置執行另存新檔動作時，可能會遺失資料而不會發生錯誤的問題。
+
+
+- 我們已修正連絡人卡片在 Office 中無法作用的問題。
+
+
+- 我們已修正輸入新資料時，表格中的值有時候不會重新整理的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正更新至 Office 版本 2109 (目前通道) 之後，應用程式停止回應的問題。
+
+
+- 我們已修正使用者在空間內找不到狀態列 [一般] 按鈕的問題。
+
+
+- 我們已修正 Office 在 SSO 和 ADFS DRS 環境中顯示帳戶錯誤的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-december-17"></a>版本 2201：12 月 17 日
 *版本 2201 (組建 14809.20000)*
@@ -3192,7 +3268,7 @@ ms.locfileid: "61559574"
 - 當使用者將電子郵件地址複製貼上到顯示名稱的 [收件者] 欄位時，電子郵件地址不一定可被正確分析，並導致出現了一個顯示電子郵件地址無效的警告。  已修正此問題，可正確分析名稱和電子郵件地址，因此不會再顯示警告。
 
 
-- 我們已修正線上共用資料夾未傳回母資料夾名稱的問題。 它並非失敗，而是傳回了不正確地移至主要帳戶的空白路徑。
+- 我們已修正線上共用資料夾未傳回母資料夾名稱的問題。 它沒有失敗，而是返回了一個錯誤地轉到了主要帳戶的空路徑。
 
 
 - 我們已修正從唯讀預覽窗格中重新開啟 [草稿] 之後開啟 [追蹤修訂] 的問題。
@@ -4716,6 +4792,7 @@ ms.locfileid: "61559574"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
@@ -4725,5 +4802,4 @@ ms.locfileid: "61559574"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14530.20000|version-2111-october-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
