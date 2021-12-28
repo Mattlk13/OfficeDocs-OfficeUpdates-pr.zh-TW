@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a58f977fa4377eee73f57306fd3beec08376a3c3
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: 3b81432ba5747ab19bd2303d99777ba36bfc8526
+ms.sourcegitcommit: 0dc40ac63651c9f6ea50db956aeca623adebd564
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559554"
+ms.lasthandoff: 12/27/2021
+ms.locfileid: "61608507"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,10 @@ ms.locfileid: "61559554"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-december-27"></a>版本 2112: 12 月 27 日
+*版本 2112 (組建 14729.20178)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2112-december-16"></a>版本 2112：12 月 16 日
 *版本 2112 (組建 14729.20170)*
@@ -302,7 +306,7 @@ ms.locfileid: "61559554"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
