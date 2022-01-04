@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3b81432ba5747ab19bd2303d99777ba36bfc8526
-ms.sourcegitcommit: 0dc40ac63651c9f6ea50db956aeca623adebd564
+ms.openlocfilehash: e88894a7bd95262eac42f5ce4f172d2dd17ab35d
+ms.sourcegitcommit: ef0e43a7d70cc4956ae61d7b326855d384ae5c50
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/27/2021
-ms.locfileid: "61608507"
+ms.lasthandoff: 01/04/2022
+ms.locfileid: "61711416"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,20 @@ ms.locfileid: "61608507"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2112-january-03"></a>版本 2112：1 月 3 日
+*版本 2112 (組建 14729.20194)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 這項變更可啟用針對 Outlook 增益集 1.11 和 1.9 需求集合的完全支援。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-december-27"></a>版本 2112: 12 月 27 日
 *版本 2112 (組建 14729.20178)*
@@ -5541,7 +5555,7 @@ ms.locfileid: "61608507"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 

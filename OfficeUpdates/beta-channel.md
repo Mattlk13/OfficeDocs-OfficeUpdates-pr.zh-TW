@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c437a91509e6323fbb328e0fce658a3975e79e19
-ms.sourcegitcommit: 0dc40ac63651c9f6ea50db956aeca623adebd564
+ms.openlocfilehash: 5eb6ab6649ae0e4a9b587ec4dc12307808ffb5e6
+ms.sourcegitcommit: 3c1a0ad8382c1bcce88902aa5d3cf80db668f78c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/27/2021
-ms.locfileid: "61608497"
+ms.lasthandoff: 01/03/2022
+ms.locfileid: "61662989"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,43 @@ ms.locfileid: "61608497"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2201-december-31"></a>版本 2201：12 月 31 日
+*版本 2201 (組建 14822.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正如果使用者沒有匯出權限，則 Excel 無法將活頁簿匯出至 XPS 的問題。
+
+
+- 我們已修正使用自動化型工具 (包括交叉分析篩選器和協助工具) 時的效能問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正啟用 REST 共用行事曆功能時，已移除的共用行事曆會再次出現的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正註解在 Sidetrack 中遺失，但在窗格中顯示的問題。
+
+
+- 我們已修正即時預覽的縮放會關閉內容卡片的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-december-24"></a>版本 2201: 12 月 24 日
 *版本 2201 (組建 14816.20004)*
@@ -4792,6 +4829,7 @@ ms.locfileid: "61608497"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
@@ -4801,5 +4839,4 @@ ms.locfileid: "61608497"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14609.20000|version-2111-october-15|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
