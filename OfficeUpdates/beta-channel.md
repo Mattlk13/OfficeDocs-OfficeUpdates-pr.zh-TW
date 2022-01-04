@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 5eb6ab6649ae0e4a9b587ec4dc12307808ffb5e6
-ms.sourcegitcommit: 3c1a0ad8382c1bcce88902aa5d3cf80db668f78c
+ms.openlocfilehash: 681791571e8e22bf9d9f44e5ae2b4e6faa0d80ff
+ms.sourcegitcommit: ef0e43a7d70cc4956ae61d7b326855d384ae5c50
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2022
-ms.locfileid: "61662989"
+ms.lasthandoff: 01/04/2022
+ms.locfileid: "61711426"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -135,7 +135,7 @@ ms.locfileid: "61662989"
 - 我們已修正更新至 Office 版本 2109 (目前通道) 之後，應用程式停止回應的問題。
 
 
-- 我們已修正使用者在空間內找不到狀態列 [一般] 按鈕的問題。
+- 我們已修正使用者無法從應用程式首頁上 [與我共用] 區段開啟檔案的問題。
 
 
 - 我們已修正 Office 在 SSO 和 ADFS DRS 環境中顯示帳戶錯誤的問題。
