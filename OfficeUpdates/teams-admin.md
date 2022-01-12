@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 757fe9bbb9a68a7faa451986c7bdedcfc4533668
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: 8117e4797d3553cfacda405489d4e514972990ef
+ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559464"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61763389"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,27 @@ ms.locfileid: "61559464"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="december-09-2021"></a>2021年12月9日
+## <a name="december-23-2021"></a>2021年12月23日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- 與 **使用組織未管理之帳戶的 Teams 使用者互動：** 與 Teams 聊天可讓 Teams 使用者與員工在其工作網路以外的小組成員交談，以 Teams 的個人帳戶。 客戶可以邀請任何 Teams 使用者使用電子郵件地址或電話號碼進行聊天，並維持在其組織的安全性和合規性原則中。
+
+- **Microsoft Teams 職涯教練–已改進的 IT 上架：** 職涯教練的 Teams 系統管理中心設定會進行更新，以改進布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會引入控制，以管理應用程式使用者的職涯教練功能的發行。
+
+- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和影片。
+
+- **跨雲端驗證會議加入：** 針對 iOS 的各群，啟用已驗證的會議加入體驗，尤其是 .GOV 案例所需。
+
+- **跨雲端驗證會議加入：** 針對 Android 的各雲端啟用已驗證的會議加入體驗，尤其是 .GOV 案例所需。
+
+- **在 Teams 顯示幕上的熱 desking 支援：** desking 可讓使用者在其選擇的位置上放置，一段時間是臨時的方式，而在使用創新和共同作業時，其運作效率也會隨之提高。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="december-09-2021"></a>2021年12月9日
 
 - **Teams 系統管理中心：每位使用者的加入小組：** Teams 管理員可以查看使用者已加入的小組清單。
 
@@ -42,8 +58,6 @@ ms.locfileid: "61559464"
 
 - **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="november-25-2021"></a>2021年11月25日
 
 - **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以將 Teams 清單匯出為從 Teams 系統管理中心的 CSV 檔案。
@@ -74,7 +88,7 @@ ms.locfileid: "61559464"
 
 - **互動式大庫：** 一次查看最多49個影片參與者，並透過像是 pin 和聚光燈這樣的動作與其互動，並觀察其會議活動，例如舉手及反應。
 
-- **DocuSign 整合的核准 eSignature：** 使用者現在可以在核准中建立 eSignature 要求時，選擇 DocuSign 做為 eSign 提供者。 系統管理員可以在 Teams 系統管理中心內關閉此連接器。
+- **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員可以在 Teams 系統管理中心內關閉此連接器。
 
 ## <a name="november-11-2021"></a>2021年11月11日
 
@@ -177,6 +191,8 @@ ms.locfileid: "61559464"
 - **系統管理員可以從 Teams 系統管理中心觸發雲端命令介面：** 系統管理員可以從 Teams 系統管理中心內開啟 Azure 雲端命令介面，並從瀏覽器執行 PowerShell 指令碼。
 
 - **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
+
+- **Windows 上 Teams 會議室 AAD 條件式存取支援：** Microsoft Teams 會議室 on Windows 現在支援 Azure Active Directory 條件式存取。 系統管理員可以根據裝置符合性狀態，設定 Teams 會議室裝置存取 Microsoft Teams 和 Microsoft Exchange 線上服務。 此外，為了簡化我們的客戶，Azure Active Directory Premium 1 授權會新增至會議室系統 Standard 和會議室系統進階版，以及這些 SKUs 對教育、政府客戶的變化。 將會發佈有關如何設定 Windows 使用的 Teams 會議室的詳細檔，以 AAD 供系統管理員自行開始設定該功能。
 
 ## <a name="september-27-2021"></a>2021 年 9 月 27 日
 
