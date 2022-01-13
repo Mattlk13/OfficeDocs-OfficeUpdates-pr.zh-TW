@@ -9,27 +9,94 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: f709d39a0d10734c4e1a7946248d4ac4a66c672f
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: 873cd0e14de3d9cdfa1317115ff0ddd115521f67
+ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559434"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61763327"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-december-09"></a>Teams 系統管理員和 Teams 應用程式：12 月 9 日
+## <a name="teams-app-december-23"></a>Teams 應用程式: 12 月 23 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
 [//]: # (DO NOT REMOVE DOD CUSTOMERS START)
 
-### <a name="dod-customers"></a>DoD 客戶：
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE DOD CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 中工作流程的通道輸入點：** 可以有多個工作流程促進通道內或跨通道之間的共同作業。 透過通道型輸入點，使用者可以檢視/搜尋適用的工作流程，以及從 [管理通道] 功能表及應用程式觸發預先設定的工作流程。 這可讓您在通道層級輕鬆探索及執行工作流程。
+
+- **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-december-23"></a>Teams 系統管理員：12 月 23 日
+
+### <a name="dod-customers"></a>DoD 客戶：
+
+- **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 此功能可讓系統管理員為其組織中的使用者量身定制自己的原則套件集合。
+
+- **Windows 上 Teams 會議室 AAD 條件式存取支援：** Windows 上的 Microsoft Teams 會議室現在支援 Azure Active Directory 條件式存取。 系統管理員可以根據裝置合規性狀態，設定 Teams 會議室裝置對 Microsoft Teams 和 Microsoft Exchange 線上服務的存取。 此外，為了讓客戶更輕鬆，系統會將 Azure Active Directory Premium 1 授權新增至會議室系統標準版和會議室系統進階版，以及各種這些針對教育、政府客戶的 SKU 差異項目。 將會發佈有關如何設定 Windows 版 Teams 會議室以使用 AAD 條件式存取功能的詳細文件，供 IT 系統管理員率先開始設定該功能。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 此功能可讓系統管理員為其組織中的使用者量身定制自己的原則套件集合。
+
+- **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
+
+- **Windows 上 Teams 會議室 AAD 條件式存取支援：** Windows 上的 Microsoft Teams 會議室現在支援 Azure Active Directory 條件式存取。 系統管理員可以根據裝置合規性狀態，設定 Teams 會議室裝置對 Microsoft Teams 和 Microsoft Exchange 線上服務的存取。 此外，為了讓客戶更輕鬆，系統會將 Azure Active Directory Premium 1 授權新增至會議室系統標準版和會議室系統進階版，以及各種這些針對教育、政府客戶的 SKU 差異項目。 將會發佈有關如何設定 Windows 版 Teams 會議室以使用 AAD 條件式存取功能的詳細文件，供 IT 系統管理員率先開始設定該功能。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Microsoft Teams：Safari 中網路會議的圖庫檢視提供 2x2 視訊：** 圖庫檢視現在可在 Safari 瀏覽器中的會議期間顯示最多 4 個參與者視訊
+
+- **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 此功能可讓系統管理員為其組織中的使用者量身定制自己的原則套件集合。
+
+- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
+
+## <a name="teams-admin-and-teams-app-december-23"></a>Teams 系統管理員和 Teams 應用程式：12 月 23 日
+
+### <a name="dod-customers"></a>DoD 客戶：
+
+- **1:1 通話中的端對端加密：** 在 Teams 顯示器上的 1:1 通話中，會立即啟用端對端加密。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
+
+- **可使用的標記：** Teams 中的標記可讓使用者快速連絡一群人員，而不需要 @提及或輸入所有人員。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。
+
+- **1:1 通話中的端對端加密：** 在 Teams 顯示器上的 1:1 通話中，會立即啟用端對端加密。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
+
+- **1:1 通話中的端對端加密：** 在 Teams 顯示器上的 1:1 通話中，會立即啟用端對端加密。
+
+## <a name="teams-admin-and-teams-app-december-09"></a>Teams 系統管理員和 Teams 應用程式：12 月 9 日
+
+### <a name="dod-customers"></a>DoD 客戶：
 
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
@@ -41,12 +108,7 @@ ms.locfileid: "61559434"
 
 - **1:1 VOIP 和 PSTN 通話錄製和謄寫通話中應用程式 V2：** 1:1 VOIP 和 PSTN 通話錄製和謄寫現在會顯示在通話中應用程式 V2 的通話詳細資料面板中。這是專為我們的 PSTN 客戶設計的一項關鍵功能。 在沒有聊天的情況下，PSTN 使用者無法查看通話錄製和謄寫。 我們現在在通話中應用程式 V2 的通話記錄中整合了通話錄製和謄寫。我們啟用了：1:1 VOIP 和 VOIP 通話的通話謄寫會顯示在通話記錄中的通話詳細資料面板中。 一對一 PSTN 和 VOIP 通話的通話錄音會顯示在通話詳細資料面板的通話記錄中。 使用者可以從聊天刪除錄製內容，且錄製內容將不會在通話詳細資料面板的通話錄音中顯示。 如果通話中有多個錄製內容，則會在通話詳細資料面板的通話記錄中顯示清單表單。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-[//]: # (DO NOT REMOVE DOD CUSTOMERS END)
-
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+- **分組討論區簡報者支援：** 將分組討論區的管理延伸至特定簡報者。
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
@@ -56,9 +118,9 @@ ms.locfileid: "61559434"
 
 - **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
 
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
+- **可使用的標記：** Teams 中的標記可讓使用者快速連絡一群人員，而不需要 @提及或輸入所有人員。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。
 
-[//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+- **分組討論區簡報者支援：** 將分組討論區的管理延伸至特定簡報者。
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -67,9 +129,6 @@ ms.locfileid: "61559434"
 - **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
 
 - **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
-
-
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
 ## <a name="teams-app-december-09"></a>Teams 應用程式: 12 月 9 日
 
@@ -125,21 +184,15 @@ ms.locfileid: "61559434"
 
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
 
-- **系統管理員可以使用系統管理單位委派 Teams 管理：** 系統管理員可以指定其他系統管理員來管理其 Teams 組織的子集
+- **系統管理員可以使用系統管理單位委派 Teams 管理：** 系統管理員可以指定其他系統管理員來管理其 Teams 組織的子集。
+
+- **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
 ## <a name="teams-admin-and-teams-app-november-11"></a>Teams 系統管理員和 Teams 應用程式: 11 月 11 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-
 - **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-
 
 ## <a name="teams-admin-november-11"></a>Teams 系統管理員: 11 月 11 日
 
@@ -187,8 +240,6 @@ ms.locfileid: "61559434"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
-
 - **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
 
 - **從 PowerPoint 到搭配 Microsoft 365 Apps 商務版授權使用 Teams 進行簡報：** 透過 Teams 的 PowerPoint Live 直接從 PowerPoint 應用程式在會議中簡報投影片功能，現在已擴充為到可搭配商務用 Microsoft 365 Apps 授權使用。
@@ -200,8 +251,6 @@ ms.locfileid: "61559434"
 - **全域登入和登出：** Teams iOS 應用程式將支援全域登入和登出，以為前線工作者提供輕鬆的登入和登出體驗。 員工可以從共用裝置集區中挑選一部裝置，並執行單一登入，以在其班次期間將之作為自己的裝置。 在班次結束時，他們應該能夠執行登出，以便在裝置上全域登出。 這將會從裝置移除所有的個人和公司資訊，讓他們可以將裝置歸還給裝置集區。
 
 ### <a name="dod-customers"></a>DoD 客戶:
-
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
 
 - **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
 
@@ -231,10 +280,6 @@ ms.locfileid: "61559434"
 
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
-### <a name="gcc-h-customers"></a>GCC-H 客戶:
-
-- **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
-
 ## <a name="teams-admin-and-teams-app-september-30"></a>Teams 系統管理員和 Teams 應用程式：9 月 30 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
@@ -243,9 +288,7 @@ ms.locfileid: "61559434"
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
-- **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
-
-- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。  
+- **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。  
 
 - **開始與通訊群組、擁有郵件功能的安全性群組和 O365 群組的 Teams 聊天：** 不支援具有隱藏成員的 DL 和具有限制傳送存取 的 DL，因為它們不會在 DL 的 Graph API 中傳回，因此無法在 Teams 中搜尋。
 
@@ -289,8 +332,6 @@ ms.locfileid: "61559434"
 
 - **Teams 政府雲端網路規劃中心:** 網路規劃中心可協助您決定及組織連線組織中所有 Microsoft Teams 使用者的網路需求。 提供網路詳細資料和 Teams 使用狀況時，網路規劃中心會計算在組織的實體位置間部署 Teams 與雲端語音的網路需求。
 
-- **Microsoft Teams - Safari 中網路會議的圖庫檢視提供 2x2 視訊：** 圖庫檢視現在可在 Safari 瀏覽器中的會議期間顯示最多四個參與者視訊。
-
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
 
 - **對主權雲端 (GCC-H) 的 Teams 來賓存取支援：** Teams 現在在主權雲端中支援來賓存取。
@@ -304,8 +345,6 @@ ms.locfileid: "61559434"
 - **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
 
 ### <a name="dod-customers"></a>DoD 客戶:
-
-- **Microsoft Teams - Safari 中網路會議的圖庫檢視提供 2x2 視訊：** 圖庫檢視現在可在 Safari 瀏覽器中的會議期間顯示最多四個參與者視訊。
 
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。 
 
@@ -483,8 +522,6 @@ ms.locfileid: "61559434"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **Power Automate 流程建議與 1P 團隊範本:** 適用於從 1P 團隊範本所建立之團隊的 Surface 電源自動化流程範本。
-
 - **加入會議並傳送語音輸入訊息:** 您現在可以在 Teams 行動裝置中使用 「嗨 Cortana」 來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb。
@@ -496,8 +533,6 @@ ms.locfileid: "61559434"
 - **速度撥號 [AND]:** 快速撥號會進入行動裝置。 這項功能可讓您最常使用的通話連絡人透過一次點選撥號輕易存取。
 
 ### <a name="dod-customers"></a>DoD 客戶:
-
-- **Power Automate 流程建議與 1P 團隊範本:** 適用於從 1P 團隊範本所建立之團隊的 Surface 電源自動化流程範本。
 
 - **加入會議並傳送語音輸入訊息:** 您現在可以在 Teams 行動裝置中使用 「嗨 Cortana」 來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 

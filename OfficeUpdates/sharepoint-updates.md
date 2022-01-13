@@ -12,17 +12,17 @@ ms.collection:
 - IT_Sharepoint_Server_Top
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
-description: 在單一位置尋找及管理 SharePoint Server 2016、SharePoint 2013 及 SharePoint 2010 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: 47345f0e9abf7b8ae6e09a61f6716ba5fe197889
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+description: 在單一位置尋找及管理 SharePoint Server 訂閱版本、SharePoint Server 2019、SharePoint Server 2016 和 SharePoint Server 2013 的更新。 使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
+ms.openlocfilehash: 312aee4b90054ee1103a530acd76cbdf947c0ad3
+ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511493"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61763433"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
-在單一位置尋找及管理 [SharePoint Server 訂閱版本](#sharepoint-server-subscription-edition-update-history)、[SharePoint Server 2019](#sharepoint-2019-update-history)、[SharePoint Server 2016](#sharepoint-2016-update-history)、[SharePoint 2013](#sharepoint-2013-update-history) 和 [SharePoint 2010](#sharepoint-2010-update-history) 的更新。 使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
+在單一位置尋找及管理 [SharePoint Server 訂閱版本](#sharepoint-server-subscription-edition-update-history)、[SharePoint Server 2019](#sharepoint-2019-update-history)、[SharePoint Server 2016](#sharepoint-2016-update-history) 和 [SharePoint 2013](#sharepoint-2013-update-history) 的更新。 使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
 
 如需最新的 SharePoint Online 及 Microsoft 365 更新，請參閱 [Microsoft 365 藍圖](https://go.microsoft.com/fwlink/p/?linkid=529454)。
 
@@ -36,6 +36,7 @@ ms.locfileid: "61511493"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002111](https://support.microsoft.com/help/5002111)<br/>[KB 5002110](https://support.microsoft.com/help/5002110)<br/>|16.0.14326.20714|2022 年 1 月|
 |SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002045](https://support.microsoft.com/help/5002045)<br/>[KB 5002047](https://support.microsoft.com/help/5002047)<br/>|16.0.14326.20620|2021 年 12 月|
   
 ## <a name="sharepoint-2019-update-history"></a>SharePoint 2019 更新歷程記錄
@@ -44,6 +45,7 @@ ms.locfileid: "61511493"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002109](https://support.microsoft.com/help/5002109)<br/>[KB 5002108](https://support.microsoft.com/help/5002108)<br/>|16.0.10382.20004|2022 年 1 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002054](https://support.microsoft.com/help/5002054)<br/>[KB 5002061](https://support.microsoft.com/help/5002061)<br/>|16.0.10381.20001|2021 年 12 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002028](https://support.microsoft.com/help/5002028)<br/>[KB 5002034](https://support.microsoft.com/help/5002034)<br/>|16.0.10379.20000|2021 年 10 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002018](https://support.microsoft.com/help/5002018)<br/>[KB 5002019](https://support.microsoft.com/help/5002019)<br/>|16.0.10378.20002|2021 年 9 月|
@@ -88,6 +90,7 @@ ms.locfileid: "61511493"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 5002113](https://support.microsoft.com/help/5002113) <br/>[KB 5002118](https://support.microsoft.com/help/5002118) <br/>|16.0.5266.1000 <br/>|2022 年 1 月|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 5002055](https://support.microsoft.com/help/5002055) <br/>[KB 5002059](https://support.microsoft.com/help/5002059) <br/>|16.0.5254.1000 <br/>|2021 年 12 月|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 5002029](https://support.microsoft.com/help/5002029) <br/>[KB 5002006](https://support.microsoft.com/help/5002006) <br/>|16.0.5227.1000 <br/>|2021 年 10 月|
 |SharePoint Server 2016  <br/>|[KB 5002020](https://support.microsoft.com/help/5002020) <br/>| 16.0.5215.1000|2021 年 9 月|
@@ -171,6 +174,7 @@ ms.locfileid: "61511493"
     
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002123](https://support.microsoft.com/help/5002123) <br/>[KB 5002126](https://support.microsoft.com/help/5002126) <br/>|15.0.5415.1000|2022 年 1 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002066](https://support.microsoft.com/help/5002066) <br/>[KB 5002070](https://support.microsoft.com/help/5002070) <br/>|15.0.5407.1000|2021 年 12 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002037](https://support.microsoft.com/help/5002037) <br/>[KB 5002040](https://support.microsoft.com/help/5002040) <br/>|15.0.5389.1000|2021 年 10 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002021](https://support.microsoft.com/help/5002021) <br/>[KB 5002023](https://support.microsoft.com/help/5002023) <br/>|15.0.5381.1000|2021 年 9 月|
