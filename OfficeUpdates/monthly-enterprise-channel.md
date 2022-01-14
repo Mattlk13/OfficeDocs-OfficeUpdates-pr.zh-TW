@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 8212b9cfc5361da2c5468451373c3674d354d5bc
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: 60641d012d5b1e80acfb68749d513d5f3ff85938
+ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559514"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61763033"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,119 @@ ms.locfileid: "61559514"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2111-january-11"></a>版本 2111: 1 月 11 日
+*版本 2111 (組建 14701.20290)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
+
+- **針對郵件和行事曆撰寫之展開的 GAL 人員建議：** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 現在將從完整 GAL 傳回結果。 (例如：將某人新增到新電子郵件的 [收件者] 行)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正 LOGEST 工作表函數的問題，該函數不會處理並清除暫時性溢位錯誤，且後續的計算不正確。
+
+
+- 我們已修正 WEBSERVICE 工作表函數的問題，在極少數的情況下，Excel 會在使用者取消計算時停止運作。
+
+
+- 我們已修正某些公式結果在輸入變更後無法更新的問題。
+
+
+- 我們已修正此問題: 如果資料來源範圍變更，新建立的樞紐分析表可能會失去自訂的設定。
+
+
+- 我們已修正與表單控制項互動可能會導致 Excel 意外關閉的問題。
+
+
+- 我們修正了當資料中不再存在篩選值時，重新整理樞紐分析表資料可能會停止運作的問題，並且在缺少無效篩選值所產生的後續查詢陳述式，重試重新整理要求暫時遭到停用，而現在已重新啟用。
+
+
+- 我們已修正在 SpreedsheetCompare 工具中開啟 xlsm 檔案會導致工具停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在檢索角色時，造成使用者遇到意外關閉的問題。
+
+
+- 我們已修正會導致使用者在載入人員相片時遇到意外關閉的問題。
+
+
+- 我們已修正會導致顯示連絡人卡片時意外關閉的問題。
+
+
+- 我們已修正會導致使用者在 PowerPoint 中載入角色時遇到意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+### <a name="project"></a>Project
+
+- 我們修正了一個問題，即當使用者開啟已儲存為其他名稱的專案時，已手動排程的工作被重新排程至更早的日期。 在開啟這些專案時，使用者不應再看到已手動排程的工作被重新排程。
+
+
+- 我們已修正載入自訂報告時某些專案會意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
+
+
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了以下問題：在受保護的共同撰寫期間，敏感度標籤和加密可能會從 SharePoint 或 OneDrive 中託管的檔案中移除的問題。
+
+
+- 我們已修正 Office 在 SSO 和 ADFS DRS 環境中顯示帳戶錯誤的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正與重新整理可能包含文字的元素相關的可靠性問題。
+
+
+- 我們已修正完成下列變更的問題: 
+1. Outlook 中存在一個問題，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。 現在會顯示內容。
+2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。 此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2110-january-11"></a>版本 2110: 1 月 11 日
+*版本 2110 (組建 14527.20364)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2110-december-17"></a>版本 2110：12 月 17 日
 *版本 2110 (組建 14527.20344)*
@@ -1605,6 +1718,7 @@ ms.locfileid: "61559514"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
@@ -1614,5 +1728,4 @@ ms.locfileid: "61559514"
 [//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

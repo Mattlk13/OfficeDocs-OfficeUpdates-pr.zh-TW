@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 1aee3a50c7033a6172e0bb88ff34aa61471c2c90
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: d111bcd20387a963794c340c99a46c9214ffdbc9
+ms.sourcegitcommit: ee00792005a172314573c8a20062d114908b144e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559444"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62008836"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,125 @@ ms.locfileid: "61559444"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2112-january-12"></a>版本 2112：1 月 12 日
+*版本 2112 (組建 14729.20260)*
+* 各種錯誤和效能修正。
+
+## <a name="version-2112-january-11"></a>版本 2112：1 月 11 日
+*版本 2112 (組建 14729.20248)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正圖形和表單控制項無法呼叫 VBA 巨集的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2112-january-04"></a>版本 2112：1 月 4 日
+*版本 2112 (組建 14729.20194)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **改良的行事曆搜尋：** 已改善日曆搜尋功能，其中最大的改良處是更輕鬆地在搜尋結果中尋找下一個系料數列。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **PowerPoint 協助工具功能區：** 可協助您讓簡報在單一位置提供存取的所有工具。<br />在[部落格文章](https://insider.office.com/en-us/blog/accessibility-ribbon-in-powerpoint-accessibility-made-easier)中查看詳細資料
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **在 Teams 會議中舉手：** 在會議期間，您可以虛擬地舉手，讓其他人知道您想要參與，而不會中斷交談。
+  
+- **Teams 中工作流程的通道進入點：** 可以有多個工作流程促進通道內或跨通道之間的共同作業。 透過通道型進入點，使用者可以檢視/搜尋適當的工作流程，以及從管理通道功能表及應用程式觸發預先設定的工作流程。 這可讓您在通道層級輕鬆探索及執行工作流程。
+ 
+- **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
+  
+- **Teams 的音樂模式：** 在音樂模式下，我們支援高達 32 kHz 的取樣率單聲道音訊 (128 kbps)，並最佳化內部音訊處理設定，以高逼真度再現音樂。 Teams 將根據可用頻寬自動調整音訊位元速率，在降至 48 kbps 的同時仍能提供良好的音質。 如有需要，我們還為使用者提供關閉回音消除、噪音抑制和增益控制等元件的選項。 若要從此提升的逼真度中獲益，專業麥克風和耳機或高品質外部喇叭是理想選擇 (勿使用藍牙耳機)。 膝上型電腦 (如 Surface Book) 上的內建式麥克風和喇叭也將提供良好體驗。
+
+### <a name="word"></a>Word
+
+- **只追蹤您在文件中的變更：** 當您共同作業時，有時候您只想追蹤自己的變更，而不想強制此設定追蹤其他人的部分。 若只要追蹤您的變更，請前往 [校閱] 索引標籤，選取 [追蹤修訂]，然後選擇 [只有我]。<br />在[部落格文章](https://insider.office.com/en-us/blog/track-just-your-changes-in-word)中查看詳細資料
+
+- **共同作業時更快速地恢復工作：** 在與其他人共同作業時若中斷連線，Word 將會自動以最新的變更重新整理您的文件。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+- 我們已修正使用多個執行緒連線到 Access 或 Jet 資料庫時會導致應用程式意外關閉的問題。
+
+
+- 此變更可修正當資料庫包含 SharePoint 清單的連結時，可能導致使用 OLEDB API 開啟 Access 資料庫 (.accdb 檔案) 的應用程式意外關閉的問題。
+
+
+- 這項變更可啟用針對 Outlook 增益集 1.11 和 1.9 需求集合的完全支援。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正使用 OLEDB API 和 ACE.OLEDB.12.0 或 ACE.OLEDB.16.0 提供者的應用程式意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 已修正將連絡人匯出至 CSV 時導致使用者在某些欄位中看到亂碼文字的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正有關 Office 新外觀的教學圖說內容 (提示) 未出現在 Outlook 中的問題。  現在，Word、Excel、PowerPoint 和 OneNote 的使用者會收到 Office 新外觀變更的通知，其中包含變更內容以及如何變更設定或切換體驗的資訊。
+
+
+- 已修正與重新整理可能包含文字的元素相關的可靠性問題。
+
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2111-december-16"></a>版本 2111：12 月 16 日
 *版本 2111 (組建 14701.20262)*
@@ -126,7 +245,7 @@ ms.locfileid: "61559444"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -458,6 +577,7 @@ ms.locfileid: "61559444"
 
 - **職涯教練 - 改進的協助工具與次要更新：** 職涯教練將收到有關複製和效能的次要更新。 該應用程式還將為鍵盤瀏覽和螢幕助讀程式提供更高等級的協助工具。
 
+- **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1169,7 +1289,7 @@ ms.locfileid: "61559444"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -1516,7 +1636,7 @@ ms.locfileid: "61559444"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -1629,7 +1749,7 @@ ms.locfileid: "61559444"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -1850,7 +1970,7 @@ ms.locfileid: "61559444"
 - 修正在 [團隊規劃] 檢視中拖放工作不起作用的問題。
 
 
-- 修正將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
+- 修正了將成本資源指派給里程碑工作時，比較基準成本沒有正確彙總的問題。
 
 
 
@@ -1939,7 +2059,7 @@ ms.locfileid: "61559444"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -1952,7 +2072,7 @@ ms.locfileid: "61559444"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
@@ -1975,14 +2095,14 @@ ms.locfileid: "61559444"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
+[//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
+[//]: # (|Win32|CC|Production| |16.0.14729.20254|version-2112-january-11|)
+[//]: # (|Win32|CC|Production| |16.0.14729.20250|version-2112-january-11|)
+[//]: # (|Win32|CC|Production| |16.0.14729.20194|version-2112-january-04|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20262|version-2111-december-16|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20276|version-2110-november-09|)
-[//]: # (|Win32|CC|Production| |16.0.14527.20234|version-2110-october-28|)
-[//]: # (|Win32|CC|Production| |16.0.14527.20226|version-2110-october-25|)
-[//]: # (|Win32|CC|Production| |16.0.14430.20306|version-2109-october-14|)
-[//]: # (|Win32|CC|Production| |16.0.14430.20298|version-2109-october-12|)
-[//]: # (|Win32|CC|Production| |16.0.14430.20270|version-2109-october-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

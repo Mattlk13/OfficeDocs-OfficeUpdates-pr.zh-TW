@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 8117e4797d3553cfacda405489d4e514972990ef
-ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
+ms.openlocfilehash: d38f43db99b76014d3c401d3fb16674d380668b2
+ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61763389"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "62042055"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,26 +28,40 @@ ms.locfileid: "61763389"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="december-23-2021"></a>2021年12月23日
+## <a name="january-13-2022"></a>2022 年 1 月 13 日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 
+- **Teams 系統管理中心：敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
+
+- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
+
+- **父系應用程式：** 教師可以在 Teams 中使用聊天，以吸引學生的父母和監護人。
+
+- **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以將背景模糊或完全取代您的影片會議或通話中提供的影像。 附注：模糊或取代背景可能無法防止敏感資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+
+- **Teams 1:1 VoIP 通話的端對端加密選項 (Android 及 iOS) ：** Microsoft Teams 會支援使用端對端加密 (E2EE 1:1) Teams 呼叫，以提供額外的選項，以進行機密線上交談。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
+
+- **在 it 受管理組織之外的 Teams 中，具有使用者的同盟與外部存取：** 這項功能可延伸 Teams 連線方案，也可讓 it 受管理組織中的使用者能夠使用 it 受管理組織以外的使用者啟動1:1 和群組聊天 (TFL) 。 不支援會議、TFL 使用者開始交談或此次發行中的通話。 最初僅 EDU 租用戶支援此功能。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="december-23-2021"></a>2021年12月23日
+
 - 與 **使用組織未管理之帳戶的 Teams 使用者互動：** 與 Teams 聊天可讓 Teams 使用者與員工在其工作網路以外的小組成員交談，以 Teams 的個人帳戶。 客戶可以邀請任何 Teams 使用者使用電子郵件地址或電話號碼進行聊天，並維持在其組織的安全性和合規性原則中。
 
 - **Microsoft Teams 職涯教練–已改進的 IT 上架：** 職涯教練的 Teams 系統管理中心設定會進行更新，以改進布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會引入控制，以管理應用程式使用者的職涯教練功能的發行。
 
-- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和影片。
+- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
 
-- **跨雲端驗證會議加入：** 針對 iOS 的各群，啟用已驗證的會議加入體驗，尤其是 .GOV 案例所需。
-
-- **跨雲端驗證會議加入：** 針對 Android 的各雲端啟用已驗證的會議加入體驗，尤其是 .GOV 案例所需。
+- **跨雲端驗證會議加入 (Android 和 iOS) ：** 針對 iOS 的各群，啟用已驗證的會議加入體驗，尤其是 .GOV 案例所需。
 
 - **在 Teams 顯示幕上的熱 desking 支援：** desking 可讓使用者在其選擇的位置上放置，一段時間是臨時的方式，而在使用創新和共同作業時，其運作效率也會隨之提高。
 
+- **Teams** 中的標籤 Teams：標籤可讓使用者快速接觸一群人員，而不必 @mention 或輸入「所有人」。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="december-09-2021"></a>2021年12月9日
 
 - **Teams 系統管理中心：每位使用者的加入小組：** Teams 管理員可以查看使用者已加入的小組清單。
@@ -64,8 +78,6 @@ ms.locfileid: "61763389"
 
 - **IOS 和 Android 的速度撥號：** 這項功能可讓您最常使用的通話連絡人透過一次攻絲撥號來存取。
 
-- **Teams 1:1 VoIP 通話的端對端加密選項：** Microsoft Teams 將支持對臨時 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感的線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
-
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
 - **Microsoft Teams 移動 tab 鍵動作：** Microsoft Teams tab 鍵動作會移出索引標籤標題列，移至 tab dropdown，可協助 declutter 使用者經驗。 這會影響所有應用程式索引標籤，例如工作分派、成績、Planner 或 [網站] 索引標籤。按一下索引標籤上的 [顯示下拉式功能表]，即可找到這些索引標籤動作。 這些動作包括： [重新載入] 索引標籤、[前往網站]、[複製] 索引標籤、快顯功能表索引標籤及此索引標籤。已進入的使用者可能會無法找到這些常見的動作，以在索引標籤標頭欄中使用這些索引標籤動作。 將會提供一次性教育 coachmark 氣泡，以教育使用者變更的相關資訊，因此請考慮讓使用者知道這項變更的相關資訊。
@@ -80,7 +92,7 @@ ms.locfileid: "61763389"
 
 - **Teams 呼叫的端對端加密：** 端對端加密是指其來源的資訊加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 端對端加密是一種即時媒體共同作業的模式，在這種情況下，兩方間的一對一 Teams 呼叫會進行端對端加密。
 
-- **Teams 用於 SIP 裝置的裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
+- **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
 - **EHR 整合式虛擬走訪的 SMS 患者通知：** 患者可接收 SMS 通知，以獲得其 EHR 整合式虛擬走訪的確認和 remainders。
 
@@ -103,8 +115,6 @@ ms.locfileid: "61763389"
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
 - **Viva 連線中的核准卡片：** 管理員現在可以在其組織 Viva Connections 儀表板內固定核准卡。 然後，使用者可以輕鬆查看所有待定的核准要求，或快速建立新的核准要求。
-
-- **自訂背景：** Microsoft 提供和使用者上傳的自訂背景現在可在 OS10 和 OS11 的 Android 裝置上使用，且具有支援的晶片組。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
 
 ## <a name="november-05-2021"></a>2021 年 11 月 5 日
 
@@ -183,6 +193,8 @@ ms.locfileid: "61763389"
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
+- **Surface Hub 上的 Microsoft Teams 會議室：** 此 Surface Hub 上的下一代 Teams 已經過重新設計，以從桌面上引入您最愛的功能，並 Microsoft Teams 會議室到會議空間。
+
 
 ## <a name="september-29-2021"></a>2021年9月29日
 
@@ -192,15 +204,11 @@ ms.locfileid: "61763389"
 
 - **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
 
-- **Windows 上 Teams 會議室 AAD 條件式存取支援：** Microsoft Teams 會議室 on Windows 現在支援 Azure Active Directory 條件式存取。 系統管理員可以根據裝置符合性狀態，設定 Teams 會議室裝置存取 Microsoft Teams 和 Microsoft Exchange 線上服務。 此外，為了簡化我們的客戶，Azure Active Directory Premium 1 授權會新增至會議室系統 Standard 和會議室系統進階版，以及這些 SKUs 對教育、政府客戶的變化。 將會發佈有關如何設定 Windows 使用的 Teams 會議室的詳細檔，以 AAD 供系統管理員自行開始設定該功能。
+- **Windows 上 Teams 會議室 AAD 條件式存取支援：** Windows 上的 Microsoft Teams 會議室現在支援 Azure Active Directory 條件式存取。 系統管理員可以根據裝置合規性狀態，設定 Teams 會議室裝置對 Microsoft Teams 和 Microsoft Exchange 線上服務的存取。 此外，為了讓客戶更輕鬆，系統會將 Azure Active Directory Premium 1 授權新增至會議室系統標準版和會議室系統進階版，以及各種這些針對教育、政府客戶的 SKU 差異項目。 將會發佈有關如何設定 Windows 版 Teams 會議室以使用 AAD 條件式存取功能的詳細文件，供 IT 系統管理員率先開始設定該功能。
 
 ## <a name="september-27-2021"></a>2021 年 9 月 27 日
 
 - **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
-
-## <a name="september-26-2021"></a>2021年9月26日
-
-- **Teams 聊天中的流體元件：** Teams 聊天中的流體元件，可讓使用者以表格、動作專案或清單的方式傳送郵件，該郵件可以由每行的所有人共同撰寫及編輯。
 
 ## <a name="september-21-2021"></a>2021 年 9 月 21 日
 
@@ -433,7 +441,7 @@ ms.locfileid: "61763389"
 
 ## <a name="april-5-2021"></a>2021年4月5日
 
-- **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 這項功能可讓系統管理員為組織中的使用者量身定制自己的原則套件集。 
+- **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 此功能可讓系統管理員為其組織中的使用者量身定制自己的原則套件集合。 
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 681791571e8e22bf9d9f44e5ae2b4e6faa0d80ff
-ms.sourcegitcommit: ef0e43a7d70cc4956ae61d7b326855d384ae5c50
+ms.openlocfilehash: 2e4afdd32b79e64c07711151d1acd9420068546c
+ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2022
-ms.locfileid: "61711426"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61763286"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,21 @@ ms.locfileid: "61711426"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-january-07"></a>版本 2202: 1 月 7 日
+*版本 2202 (組建 14901.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 我們已修正外框分組篩選無法運作的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-december-31"></a>版本 2201：12 月 31 日
 *版本 2201 (組建 14822.20000)*
@@ -4829,6 +4844,7 @@ ms.locfileid: "61711426"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
@@ -4838,5 +4854,4 @@ ms.locfileid: "61711426"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14613.20000|version-2111-october-22|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e88894a7bd95262eac42f5ce4f172d2dd17ab35d
-ms.sourcegitcommit: ef0e43a7d70cc4956ae61d7b326855d384ae5c50
+ms.openlocfilehash: a1359b929df6cb2e9f4a3a0d5e90b1b5e5ecf8e9
+ms.sourcegitcommit: ee00792005a172314573c8a20062d114908b144e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2022
-ms.locfileid: "61711416"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62008866"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,175 @@ ms.locfileid: "61711416"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2201-january-12"></a>版本 2201：1 月 12 日
+*版本 2201 (組建 14827.20088)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+## <a name="version-2201-january-10"></a>版本 2201：1 月 10 日
+*版本 2201 (組建 14827.20060)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 已修正可能導致使用 Access 資料庫引擎 OLEDB API 且其資料庫包含 SharePoint 清單之連結的應用程式，會意外關閉的問題。
+
+
+- 我們已修正當連續使用多個執行緒連接 Access 或 Jet 資料庫時，可能導致應用程式停止回應的問題。
+
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+### <a name="excel"></a>Excel
+
+- 已修正在套用敏感度標籤保護文件後，[自動儲存] 可能會暫時停用的問題。
+
+
+- 已修正以下問題：如果儲存格中的資料驗證下拉式清單包含空白值，則無法從該清單中選取值。
+
+
+- 我們已修正圖形和表單控制項無法呼叫 VBA 巨集的問題。
+
+
+- 我們已修正如果使用者沒有匯出權限，則 Excel 無法將活頁簿匯出至 XPS 的問題。
+
+
+- 我們已修正使用自動化型工具 (包括交叉分析篩選器和協助工具) 時的效能問題。
+
+
+- 已修正以下問題：在多重監視器設定中，當使用者選取儲存格時，對話方塊中的一些資料被隱藏。
+
+
+- 已修正以下問題：當您具有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更。 現在使用 [轉換] 功能時，物件會完全轉換。
+
+
+- 已修正搜尋結果在樞紐分析表欄位清單工作窗格中遺失的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 已修正平板電腦模擬器上的一般套索選取會導致應用程式意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已實施設計變更要求，以防止顯示自動回覆橫幅。
+
+
+- 已修正將連絡人匯出至 CSV 時導致使用者在某些欄位中看到亂碼文字的問題。
+
+
+- 我們已修正當 RunContactLinking regkey 設定為 0 時，Outlook 正在合併連絡人資訊的問題。
+
+
+- 已修正導致在啟用「共用行事曆改良」的情况下，使用者無法從連絡人新增共用行事曆的問題。
+
+
+- 已修正以下問題：當 [寄件者] 地址與 [回覆] 地址不同時，郵件寄件者在全部回覆時未被包括在內。
+
+
+- 已修正以下問題：當使用者的下載喜好設定設定為 [下載標題] 時，透過提醒開啟訊息時導致應用程式意外關閉的問題。
+
+
+- 我們已修正啟用 REST 共用行事曆功能時，已移除的共用行事曆會再次出現的問題。
+
+
+- 我們已修正 Outlook 在瀏覽至共用行事曆時停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正將 Vimeo 影片插入簡報時造成錯誤的問題。
+
+
+- 我們已修正在某些情況下，重設投影片未遵守特定圖片填滿屬性的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正大綱群組篩選無法運作的問題。
+
+
+- 我們已修正會導致應用程式停止回應並造成資料遺失的問題。
+
+
+- 我們已修正從 Windows Server 2008 移轉升級到 Windows Server 2016/2019 的專案停止儲存的問題。
+
+
+- 我們已修正當工作完成之後，指派任務的工期設定為零時，材料資源的時間階段資料不會顯示的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正當使用者使用 OneDrive 用戶端同步處理之 CICO 文件庫中的伺服器路徑對位置執行另存新檔動作時，可能會遺失資料而不會發生錯誤的問題。
+
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正當使用者重複點擊或使用快速鍵開啟或關閉 [大聲朗讀] 功能時，應用程式意外關閉的問題。
+
+
+- 我們已修正連絡人卡片在 Office 中無法作用的問題。
+
+
+- 我們已修正註解在 Sidetrack 中遺失，但在窗格中顯示的問題。
+
+
+- 我們已修正即時預覽的縮放會關閉內容卡片的問題。
+
+
+- 我們已修正輸入新資料時，表格中的值有時候不會重新整理的問題。
+
+
+- 我們已修正選取鏡像邊緣時，水平尺規與頁面邊緣不符的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正與重新整理可能包含文字的元素相關的可靠性問題。
+
+
+- 我們已修正使用者無法從應用程式首頁上 [與我共用] 區段開啟檔案的問題。
+
+
+- 我們已修正 Office 在 SSO 和 ADFS DRS 環境中顯示帳戶錯誤的問題。
+
+
+- 已修正以下問題：如果停用 EnableAudit 設定，則不再產生 Microsoft 資訊保護敏感度標籤稽核資料。
+
+
+- 已修正在連續啟動和停止 [大聲朗讀] 時應用程式停止回應的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-january-03"></a>版本 2112：1 月 3 日
 *版本 2112 (組建 14729.20194)*
@@ -2049,7 +2218,7 @@ ms.locfileid: "61711416"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2281,7 +2450,7 @@ ms.locfileid: "61711416"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼:
+    - 登錄機碼：
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2859,7 +3028,7 @@ ms.locfileid: "61711416"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -3118,7 +3287,7 @@ ms.locfileid: "61711416"
 - 系統現在會按照群組原則設定適當篩選出 OneDrive 位置。
 
 
-- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 - 修正與支援在工作階段 0 中執行的 Office 應用程式相關的可靠性問題。
@@ -3526,7 +3695,7 @@ ms.locfileid: "61711416"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -3854,7 +4023,7 @@ ms.locfileid: "61711416"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
@@ -5555,7 +5724,7 @@ ms.locfileid: "61711416"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 

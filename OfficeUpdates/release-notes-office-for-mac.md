@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 3c4d9fc28e789dba1b28a6172c972fd2f4905a1c
-ms.sourcegitcommit: d83c36356a6d8bc5cabf9bb853b9dd5cc01580b6
+ms.openlocfilehash: c86657d06d2c92dafef70a9a46d186a85d9df2d6
+ms.sourcegitcommit: 518c7cefcd447430dc7f9fa5cc087803246b0998
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2021
-ms.locfileid: "61511313"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62028565"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -40,6 +40,53 @@ ms.locfileid: "61511313"
 
 
 
+
+
+
+## <a name="january-13-2022"></a>2022 年 1 月 13 日
+*版本 16.57 (組建 22011101)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用 Power Query 從本地檔案中匯入資料:** 現在您可以使用 Power Query 從本地 Excel 活頁簿、文字和 CSV 檔案中匯入資料 [深入了解](https://support.office.com/article/7b2f337d-e7d2-4fdf-bf00-3dfbb1e5e9c5)<br />在[部落格文章](https://insider.office.com/en-us/blog/import-data-from-local-files-with-power-query-in-excel-for-mac)中查看詳細資料
+
+- **螢幕畫面保護:** Office 現在會針對使用 Microsoft 資訊保護原則保護的敏感性文件，防止螢幕畫面擷取及螢幕畫面共用。
+
+- **Apple Silicon CPU 的裝置上完全支援 Excel:** Mac 版 Excel 中的 Power Query 現在原生支援 Apple Silicon 處理器。 如果您先前使用 Rosetta 模擬器執行 Excel，現在可以停用它，並原生地在裝置上執行 Excel。
+
+### <a name="outlook"></a>Outlook
+
+- **Mac Outlook 中的檔案解答:** Mac Outlook 中的檔案解答
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **保護敏感性資訊:** Office 現在會針對使用 Microsoft 資訊保護原則保護的敏感性文件，防止螢幕畫面擷取及螢幕畫面共用。
+
+### <a name="word"></a>Word
+
+- **保護敏感性資訊:** Office 現在會針對使用 Microsoft 資訊保護原則保護的敏感性文件，防止螢幕畫面擷取及螢幕畫面共用。
+
+- **共同作業時更快速地恢復工作:** 當您與其他人共同作業時中斷連線時，Word 會自動以最新的變更重新整理您的文件。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-21841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-21841)
+-   [CVE-2022-21840](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-21840)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="december-14-2021"></a>2021 年 12 月 14 日
 *版本 16.56 (組建 21121100)*

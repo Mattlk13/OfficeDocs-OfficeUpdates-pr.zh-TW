@@ -1,5 +1,5 @@
 ---
-title: 2021 年半年企業通道 (預覽) 版本的版本資訊
+title: 2022 年半年企業通道 (預覽) 版本的版本資訊
 ms.author: anankani
 author: anankani
 manager: anankani
@@ -8,18 +8,53 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 2021 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: e5b3556e0b5639c41f1242fac80f1501d43d7692
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
+ms.openlocfilehash: 09097ff417dbd8835d47414ce3eff58fbdd7f5a4
+ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559484"
+ms.lasthandoff: 01/12/2022
+ms.locfileid: "61763409"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
+
+## <a name="version-2108-january-11"></a>版本 2108：1 月 11 日
+*版本 2108 (組建 14326.20738)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 LOGEST 工作表函數的問題，該函數不會處理並清除暫時性溢位錯誤，且後續的計算不正確。
+
+
+- 我們已修正與表單控制項互動可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正與具有筆記的活頁簿互動時的效能問題。
+
+
+### <a name="project"></a>專案
+
+- 已修正此問題：報告表中的狀態管理員未更新。 使用者現在應該會看到狀態管理員中反映的變更。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用者在 Word 或 Outlook 畫布中播放動畫 GIF 時，可能遇到輸入延遲回應的問題，不論是在畫面上或捲動到螢幕外。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2108-december-16"></a>版本 2108：12 月 16 日
 *版本 2108 (組建 14326.20702)*
@@ -1558,6 +1593,8 @@ ms.locfileid: "61559484"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20738|version-2108-january-11|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20702|version-2108-december-17|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20692|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20674|version-2108-december-14|)
@@ -1566,6 +1603,4 @@ ms.locfileid: "61559484"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20864|version-2102-august-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

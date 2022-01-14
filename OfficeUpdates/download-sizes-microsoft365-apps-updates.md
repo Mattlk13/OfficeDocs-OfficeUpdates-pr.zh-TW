@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 4fc5a06b2f4f2f2f47a78e39914735c4f0209213
-ms.sourcegitcommit: db06f6ce876f5ce6ddaafbb3417281a36ca1d85a
+ms.openlocfilehash: 3b4f83a67978850329a38da9e8bcc729bcb99cc1
+ms.sourcegitcommit: ee00792005a172314573c8a20062d114908b144e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2021
-ms.locfileid: "61559494"
+ms.lasthandoff: 01/13/2022
+ms.locfileid: "62008826"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -31,6 +31,89 @@ ms.locfileid: "61559494"
 
 [//]: # (DO NOT REMOVE)
 
+## <a name="january-12-2022"></a>2022 年 1 月 12 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 12, 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2112 (組建 14729.20260)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2112 (組建 14729.20248) <br/> |2022 年 1 月 11 日 <br/> |48<br/> |
+|版本 2112 (組建 14729.20194) <br/> |2022 年 1 月 4 日 <br/> |59<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 12, 2022)
+
+## <a name="january-11-2022"></a>2022 年 1 月 11 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 11, 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2112 (組建 14729.20248)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2112 (組建 14729.20194) <br/> |2022 年 1 月 4 日 <br/> |56<br/> |
+|版本 2111 (組建 14701.20262) <br/> |2021 年 12 月 16 日 <br/> |140<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+最新的版本是版本 2108 (組建 14326.20738)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20702) <br/> |2021 年 12 月 16 日 <br/> |49<br/> |
+|版本 2108 (組建 14326.20692) <br/> |2021 年 12 月 14 日 <br/> |58<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+最新的版本是版本 2108 (組建 14326.20738)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2102 (組建 13801.21092) <br/> |2021 年 12 月 16 日 <br/> |304<br/> |
+|版本 2102 (組建 13801.21086) <br/> |2021 年 12 月 14 日 <br/> |414<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 11, 2022)
+
+## <a name="january-4-2022"></a>2022 年 1 月 4 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTJanuary 4, 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2112 (組建 14729.20194)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2111 (組建 14701.20262) <br/> |2021 年 12 月 16 日 <br/> |134<br/> |
+|版本 2111 (組建 14701.20248) <br/> |2021 年 12 月 14 日 <br/> |346<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDJanuary 4, 2022)
+
+## <a name="december-17-2021"></a>2021 年 12 月 17 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTDecember 17, 2021)
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業通道
+
+最新的版本是版本 2110 (組建 14527.20344)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2110 (組建 14527.20340) <br/> |2021 年 12 月 14 日 <br/> |207<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDDecember 17, 2021)
 ## <a name="december-16-2021"></a>2021 年 12 月 16 日
 
 [//]: # (DO NOT REMOVE CONTENT STARTDecember 16, 2021)
