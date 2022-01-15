@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 60641d012d5b1e80acfb68749d513d5f3ff85938
-ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
+ms.openlocfilehash: 8202143b4b27605a9eb93b63516ff4ed51b49fe3
+ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61763033"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "62042015"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -32,14 +32,6 @@ ms.locfileid: "61763033"
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-### <a name="outlook"></a>Outlook
-
-- **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
-
-- **針對郵件和行事曆撰寫之展開的 GAL 人員建議：** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 現在將從完整 GAL 傳回結果。 (例如：將某人新增到新電子郵件的 [收件者] 行)
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -333,7 +325,7 @@ ms.locfileid: "61763033"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **自動展開線上封存搜尋：** 啟用自動展開線上封存搜尋。 您可以在此找到與無限制封存相關的詳細資訊：[自動展開封存功能的概觀](https://docs.microsoft.com/microsoft-365/compliance/unlimited-archiving)
+- **自動展開線上封存搜尋：** 啟用自動展開線上封存搜尋。 您可以在此找到與無限制封存相關的詳細資訊：[自動展開封存功能的概觀](/microsoft-365/compliance/unlimited-archiving)
 
 - **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動。
 
