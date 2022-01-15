@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: b576214293ea64277b93d1f434f31ff9b8766342
-ms.sourcegitcommit: e87ff2e5a2c3c10b55dc2164f9d1ed142c958644
+ms.openlocfilehash: 51978a15bdbdc96718be5c8249f04f2cc3f19d22
+ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61995979"
+ms.lasthandoff: 01/14/2022
+ms.locfileid: "62042035"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -27,7 +27,14 @@ ms.locfileid: "61995979"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2108-january-11"></a>版本 2108: 1 月 11 日
+
+## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
+*版本 2008 (組建 13127.21856)*
+
+安全性更新列於 [此處](microsoft365-apps-security-updates.md)
+
+
+## <a name="version-2108-january-11"></a>版本 2108：1 月 11 日
 *版本 2108 (組建 14326.20738)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
@@ -744,6 +751,7 @@ ms.locfileid: "61995979"
 *版本 2102 (組建 13801.21106)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
 
 ## <a name="version-2102-december-16"></a>版本 2102：12 月 16 日
 *版本 2102 (組建 13801.21092)*
