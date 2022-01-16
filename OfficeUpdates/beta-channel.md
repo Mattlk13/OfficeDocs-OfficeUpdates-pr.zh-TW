@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2e4afdd32b79e64c07711151d1acd9420068546c
-ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
+ms.openlocfilehash: 790fbe7d4dd8975b76bb0c3a9fa98feabe3f4cc6
+ms.sourcegitcommit: 011e2f11a940e9325e84db6b76534773fbfc4b13
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61763286"
+ms.lasthandoff: 01/15/2022
+ms.locfileid: "62054600"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,70 @@ ms.locfileid: "61763286"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-january-14"></a>版本2202：1 月 14 日
+*版本 2202 (組建 14907.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **資料驗證下拉式清單的自動完成：** 下拉式清單是讓Excel 中資料輸入和驗證更有效率的便捷方式。 我們現在已經新增自動完成功能，可自動將儲存格中輸入的文字與下拉式清單中的所有項目進行比較，並只顯示符合的專案。 您將花更少的時間來瀏覽清單，處理資料驗證錯誤，或是編寫複雜的程式碼來處理此工作。
+
+### <a name="outlook"></a>Outlook
+
+- **從您的帳號別名或 Proxy 電子郵件地址傳送電子郵件：** Outlook 傳統上可以接收電子郵件，而不是您的預設電子郵件地址 (稱為 Proxy 位址或別名)。 現在，您也可以選擇所需的寄送電子郵件位址，從這些 Proxy 帳戶傳送電子郵件。
+
+### <a name="word"></a>Word
+
+- **改進共同撰寫錯誤復原體驗：** 在 Word 中工作是許多使用者的重要生產力工具，而且中斷可能非常令人頭疼。 我們現在已開發出增強的復原經驗，可在發生共同撰寫錯誤之後，快速將使用者還原為已連線狀態。 這種自動更新會同步處理不同作者間的所有變更，因此您可以看到儘可能最新的文件。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修復此問題：在使用包括 DFS 命名空間、短檔案名或對應磁碟機的網路路徑時，無法讓多個使用者開啟資料庫。 [深入了解](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正從 Visio 匯出的 SVG 檔案不會正確顯示文字的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用 OnPrem 服務搜尋時，Outlook 內容搜尋導致的結果不完整的問題。
+
+
+- 我們已修正無法開啟使用數位版權管理 (DRM) 的郵件的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正以無視窗模式以程式化方式開啟簡報時，可能無法載入連結影像的問題。
+
+
+- 我們已修正從 Visio 匯出的 SVG 檔案不會正確顯示文字的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正從 Visio 匯出的 SVG 檔案不會正確顯示文字的問題。
+
+
+- 我們已修正導致應用程式在文件中選取移至註解的第一個註解時，應用程式意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-january-07"></a>版本 2202: 1 月 7 日
 *版本 2202 (組建 14901.20000)*
@@ -2795,7 +2859,7 @@ ms.locfileid: "61763286"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -4844,6 +4908,7 @@ ms.locfileid: "61763286"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
@@ -4853,5 +4918,4 @@ ms.locfileid: "61763286"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14623.20002|version-2111-october-29|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
