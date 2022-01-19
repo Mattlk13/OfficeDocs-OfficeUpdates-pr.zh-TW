@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a1359b929df6cb2e9f4a3a0d5e90b1b5e5ecf8e9
-ms.sourcegitcommit: ee00792005a172314573c8a20062d114908b144e
+ms.openlocfilehash: 339598b125ea073764e869510dbfa8ef78fab6d2
+ms.sourcegitcommit: 356d2141adb0cd5601410e2c4e16e16dcbf20937
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62008866"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62078767"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,40 @@ ms.locfileid: "62008866"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2201-january-18"></a>版本 2201：1 月 18 日
+*版本 2201 (組建 14827.20122)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **想要活頁簿為您提供入門瀏覽指引嗎？：** 了解活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽。[深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+
+### <a name="outlook"></a>Outlook
+
+- **更新連絡人卡片中的相片連結：** 在您自己的連絡人卡片中顯示更新相片連結
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+
+- **錄製有旁白的影片：** 使用預先錄製的影片和旁白，讓您的下一次簡報更具活力。 或預先錄製整個簡報，以確保在簡報當天順利演講。 [深入了解](https://support.office.com/article/ddc4432c-79f6-4add-b85e-1009815d955c)<br />在[部落格文章](https://insider.office.com/en-us/blog/tell-your-story-with-video-recording-in-powerpoint)中查看詳細資料
+
+
+### <a name="word"></a>Word
+
+- **共同作業時更快速地恢復工作：** 在與其他人共同作業時若中斷連線，Word 將會自動以最新的變更重新整理您的文件。
+
+### <a name="office-suite"></a>Office 套件
+
+- **匯出：** 將簡報的所有元件彙集在一起，以便輕鬆共用和檢視。 匯出的影片包括所有錄製的時間、旁白、筆墨和雷射筆筆勢。 影片也會保留動畫、轉場和媒體。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2201-january-12"></a>版本 2201：1 月 12 日
 *版本 2201 (組建 14827.20088)*
@@ -2218,7 +2252,7 @@ ms.locfileid: "62008866"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2450,7 +2484,7 @@ ms.locfileid: "62008866"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼：
+    - 登錄機碼:
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -3028,7 +3062,7 @@ ms.locfileid: "62008866"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
