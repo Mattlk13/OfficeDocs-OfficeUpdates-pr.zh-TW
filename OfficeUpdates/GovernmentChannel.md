@@ -9,34 +9,36 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 873cd0e14de3d9cdfa1317115ff0ddd115521f67
-ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
+ms.openlocfilehash: 3621d5806a85d76858ce38df0858d9f7e93176cc
+ms.sourcegitcommit: 356d2141adb0cd5601410e2c4e16e16dcbf20937
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61763327"
+ms.lasthandoff: 01/19/2022
+ms.locfileid: "62078757"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-app-december-23"></a>Teams 應用程式: 12 月 23 日
+## <a name="teams-admin-and-teams-app-january-13"></a>Teams 系統管理員和 Teams 應用程式: 1 月 13 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
-[//]: # (DO NOT REMOVE DOD CUSTOMERS START)
+[//]: # (DO NOT REMOVE DoD CUSTOMERS START)
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
-[//]: # (DO NOT REMOVE DOD CUSTOMERS END)
+[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
+- **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
@@ -44,11 +46,59 @@ ms.locfileid: "61763327"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **Teams 中工作流程的通道輸入點：** 可以有多個工作流程促進通道內或跨通道之間的共同作業。 透過通道型輸入點，使用者可以檢視/搜尋適用的工作流程，以及從 [管理通道] 功能表及應用程式觸發預先設定的工作流程。 這可讓您在通道層級輕鬆探索及執行工作流程。
+- **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
+
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal)
+
+- **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-app-january-13"></a>Teams 應用程式：1月13日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **關閉來自活動的反應與應用程式通知：** 此功能可讓使用者直接以滑鼠右鍵按一下摘要項目，然後從省略號執行「關閉所有回應」或「關閉應用程式通知」，以關閉活動摘要中的回應與應用程式更新。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **關閉來自活動的反應與應用程式通知：** 此功能可讓使用者直接以滑鼠右鍵按一下摘要項目，然後從省略號執行「關閉所有回應」或「關閉應用程式通知」，以關閉活動摘要中的回應與應用程式更新。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **關閉來自活動的反應與應用程式通知：** 此功能可讓使用者直接以滑鼠右鍵按一下摘要項目，然後從省略號執行「關閉所有回應」或「關閉應用程式通知」，以關閉活動摘要中的回應與應用程式更新。
+
+## <a name="teams-admin-january-13"></a>Teams 系統管理員：1月13日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **Teams 系統管理中心：政府雲端中的敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
+
+- **在 Teams 系統管理中心搜尋：** Teams 系統管理員可以使用 Teams 系統管理中心內的一般搜尋方塊搜尋使用者、Teams、應用程式、裝置、頁面和設定。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Teams 系統管理中心：政府雲端中的敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
+
+- **在 Teams 系統管理中心搜尋：** Teams 系統管理員可以使用 Teams 系統管理中心內的一般搜尋方塊搜尋使用者、Teams、應用程式、裝置、頁面和設定。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 系統管理中心：政府雲端中的敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
+
+- **在 Teams 系統管理中心搜尋：** Teams 系統管理員可以使用 Teams 系統管理中心內的一般搜尋方塊搜尋使用者、Teams、應用程式、裝置、頁面和設定。
+
+## <a name="teams-app-december-23"></a>Teams 應用程式: 12 月 23 日
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 - **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
 
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 中工作流程的通道輸入點：** 可以有多個工作流程促進通道內或跨通道之間的共同作業。 透過通道型進入點，使用者可以檢視/搜尋適當的工作流程，以及從管理通道功能表及應用程式觸發預先設定的工作流程。 這可讓您在通道層級輕鬆探索及執行工作流程。
+
+- **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
 
 ## <a name="teams-admin-december-23"></a>Teams 系統管理員：12 月 23 日
 
@@ -72,8 +122,6 @@ ms.locfileid: "61763327"
 
 - **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 此功能可讓系統管理員為其組織中的使用者量身定制自己的原則套件集合。
 
-- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
-
 ## <a name="teams-admin-and-teams-app-december-23"></a>Teams 系統管理員和 Teams 應用程式：12 月 23 日
 
 ### <a name="dod-customers"></a>DoD 客戶：
@@ -94,11 +142,13 @@ ms.locfileid: "61763327"
 
 - **1:1 通話中的端對端加密：** 在 Teams 顯示器上的 1:1 通話中，會立即啟用端對端加密。
 
+- **可使用的標記：** Teams 中的標記可讓使用者快速連絡一群人員，而不需要 @提及或輸入所有人員。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。
+
+- **Teams 通話的端對端加密：** 端對端加密是對其來源的資訊進行加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 端對端加密是一種即時媒體共同作業的選用模式，其中兩方之間的一對一 Teams 通話會進行端對端加密。
+
 ## <a name="teams-admin-and-teams-app-december-09"></a>Teams 系統管理員和 Teams 應用程式：12 月 9 日
 
 ### <a name="dod-customers"></a>DoD 客戶：
-
-- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
 - **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
 
@@ -112,19 +162,13 @@ ms.locfileid: "61763327"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
-
 - **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
 
 - **Microsoft Word 內的核准應用程式增益集：** 使用者將可以在 Microsoft Word 內透過增益集來為整個文件或文件的一個區段建立核准要求。
 
-- **可使用的標記：** Teams 中的標記可讓使用者快速連絡一群人員，而不需要 @提及或輸入所有人員。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。
-
 - **分組討論區簡報者支援：** 將分組討論區的管理延伸至特定簡報者。
 
 ### <a name="gcc-customers"></a>GCC 客戶:
-
-- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
 - **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能够在 Teams 系統管理中心內關閉此連接器。
 
@@ -188,6 +232,8 @@ ms.locfileid: "61763327"
 
 - **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
+- **在 PowerShell 中將原則套件指派給群組：** 在 PowerShell 中使用群組指派簡化原則套件的指派。 群組指派讓系統管理員能夠將一個原則套件指派給群組，而不是個別使用者。
+
 ## <a name="teams-admin-and-teams-app-november-11"></a>Teams 系統管理員和 Teams 應用程式: 11 月 11 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
@@ -221,8 +267,6 @@ ms.locfileid: "61763327"
 ## <a name="teams-admin-and-teams-app-october-31"></a>Teams 系統管理員和 Teams 應用程式: 10 月 31 日
 
 ### <a name="gcc-customers"></a>GCC 客戶:
-
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。
 
 - **從 PowerPoint 到 Teams 進行簡報：** 透過 PowerPoint Live 將投影片直接從 PowerPoint 應用程式展示到 Teams 會議中。
 
@@ -277,8 +321,6 @@ ms.locfileid: "61763327"
 - **Windows 上的 Microsoft Teams 會議室：即時反應：** 在Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。 會議室使用者還可以從會議室主控台的中心傳送反應。 
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
-
-- **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
 ## <a name="teams-admin-and-teams-app-september-30"></a>Teams 系統管理員和 Teams 應用程式：9 月 30 日
 
