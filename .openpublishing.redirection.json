@@ -24,6 +24,11 @@
         "source_path": "OfficeUpdates/update-history-office365-proplus-by-date.md",
         "redirect_url": "/officeupdates/update-history-microsoft365-apps-by-date",
         "redirect_document_id": false
+    },
+{
+        "source_path": "OfficeUpdates/release-notes-office-2016-mac.md",
+        "redirect_url": "https://support.microsoft.com/office/end-of-support-for-office-2016-for-mac-e944a907-bbc8-4be5-918d-a514068d0056",
+        "redirect_document_id": false
     }
    ] 
 }
