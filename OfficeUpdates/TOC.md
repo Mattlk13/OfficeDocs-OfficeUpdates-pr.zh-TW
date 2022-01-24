@@ -37,10 +37,9 @@
 # Mac 版 Office
 ## [更新歷程記錄 (Microsoft 365，2019, 2021)](update-history-office-for-mac.md)
 ## [版本資訊 (Microsoft 365，2019, 2021)](release-notes-office-for-mac.md)
-## [更新歷程記錄 (2016)](release-notes-office-2016-mac.md)
 ## [MAU 版本歷程記錄](release-history-microsoft-autoupdate.md)
 
-# Office (永久)
+# Office (Windows 永久版本)
 ## [Office LTSC 2021 和 Office 2021 更新 (C2R)](update-history-office-2021.md)
 ## [Office 2016 和 2019 更新 (C2R)](update-history-office-2019.md)
 ## [Office 2013 更新 (C2R)](update-history-office-2013.md)
@@ -56,7 +55,7 @@
 ## [Teams 系統管理員版本資訊](teams-admin.md)
 ## [政府雲端版本資訊](GovernmentChannel.md)
 
-# Office Server 產品
+# Office 伺服器產品
 ## [Exchange Server 更新](/Exchange/new-features/build-numbers-and-release-dates)
 ## [Project Server 更新](project-server-updates.md)
 ## [SharePoint 更新](sharepoint-updates.md)
