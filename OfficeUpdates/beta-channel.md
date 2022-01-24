@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 790fbe7d4dd8975b76bb0c3a9fa98feabe3f4cc6
-ms.sourcegitcommit: 011e2f11a940e9325e84db6b76534773fbfc4b13
+ms.openlocfilehash: 601aaf16aa44db3bf79a4c4a0fd19f94a893af9a
+ms.sourcegitcommit: 7f597dfa5666605d413946525bb9c102345f69f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2022
-ms.locfileid: "62054600"
+ms.lasthandoff: 01/24/2022
+ms.locfileid: "62182101"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,51 @@ ms.locfileid: "62054600"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-january-21"></a>版本 2202：1 月 21 日
+*版本 2202 (組建 14912.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **改良的 Power BI 連線樞紐分析表：** 此工作可改善連線到 Power BI 資料集的樞紐分析表，包括將欄位拖曳到值區域以在 Excel 中建立彙總的能力。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當使用者嘗試將超過 8,000 位元組的資料新增到 varchar(max) 欄位時，某些 SQL Server 驅動程式會顯示 [字串資料，右截斷 (#0)] 錯誤的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正開啟連絡人個人檔案卡片後，Outlook 中的資料夾清單停止回應滑鼠按鍵的問題。
+
+
+- 我們已修正當使用 Outlook 的共用 OneDrive 連結變更後，超連結 URL 不會自動變更的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正關閉包含清單樣式並啟用 [以此範本為基礎的新文件] 選項的任何文件時發生錯誤的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正某些預設應用程式在每月 Office 更新之後消失的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-january-14"></a>版本2202：1 月 14 日
 *版本 2202 (組建 14907.20000)*
@@ -4908,6 +4953,7 @@ ms.locfileid: "62054600"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
@@ -4917,5 +4963,4 @@ ms.locfileid: "62054600"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14630.20000|version-2111-november-05|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
