@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: d111bcd20387a963794c340c99a46c9214ffdbc9
-ms.sourcegitcommit: ee00792005a172314573c8a20062d114908b144e
+ms.openlocfilehash: fe9a8a0b1ade2db050cafe5a53e78a82d084c076
+ms.sourcegitcommit: e82cfe2c23aafb8abf7b0d2d9b8e237aa7b0b36e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62008836"
+ms.lasthandoff: 01/27/2022
+ms.locfileid: "62240912"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,91 @@ ms.locfileid: "62008836"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2201-january-26"></a>版本 2201：1 月 26 日
+*版本 2201 (組建 14827.20158)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **享受改良的捲動體驗：** 當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。[深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
+
+### <a name="outlook"></a>Outlook
+
+- **改良的通訊錄搜尋：您現在可以在通訊錄中搜尋其他欄位，包括名稱、標題、位置等等。**<br />在[部落格文章](https://insider.office.com/en-us/blog/improved-search-experience-in-the-outlook-address-book)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **人員選擇器：** 能夠在調適型卡片輸入中從組織搜尋及選取使用者。Choiceset，利用 Microsoft Graph API。
+
+- **關閉來自活動的反應與應用程式通知：** 此功能可讓使用者直接以滑鼠右鍵按一下摘要項目，然後從省略號執行「關閉所有回應」或「關閉應用程式通知」，以關閉活動摘要中的回應與應用程式更新。
+
+- **鏡像我的視訊：** [鏡像我的視訊] 功能可讓使用者選擇是否要取消鏡像其視訊，進而與會議中的其他使用者具有相同的檢視。 透過解除鏡像其視訊，使用者將會正確看到文字。 在教小學生時，不必在背景中或拿著小白板時翻轉文字。 這項功能在圖庫、大型圖庫、ppt-僅限內容共用和 ppt-live 案例中非常有用。
+
+- **教育原則精靈 - 多個群組支援：** 管理員現在可以新增最多三個教育人員和員工的群組，而不是先前的一個，以套用專用的自訂原則集。
+
+- **適用於 VDI - VMware 的在家工作動態緊急通話：** 此功能可讓虛擬機器上的使用者驗證個人在家工作時撥打之緊急電話的緊急服務回應者地址。
+
+- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
+
+- **在會議室前方顯示器及主控台的Teams 會議室裝置上變更 Cortana 圖解：** 在會議室前方顯示器和主控台 UI 之前，會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。 圖解已更新，以反映 Cortana 的虛擬人偶。
+
+- **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
+
+
+- **會議期間將通知設為靜音：** 該功能可讓使用者在會議期間將通知設為靜音，以協助在會議期間專注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
+
+- **Microsoft Teams：網路研討會的受管理模式：** 網路研討會中的召集人和簡報者可以輕鬆地設定、管理及控制觀眾的視圖、持續聚焦在簡報者和內容上，以及將干擾最小化。 透過在會議設定中啟用受管理模式，您可以在上播前設定內容和簡報者、控制出席者一直看到的內容和內容，以及在多個簡報者和參與者間切換。
+
+
+- **Microsoft Teams 教育版：職涯教練 - 系統管理功能啟用：** IT 系統管理員可以在 Teams 系統管理中心中取得控制項，以啟用其學校的新職涯教練功能。
+
+- **Microsoft Teams 教育版：職涯教練 - 連線郵件：** 學員現在可以選取要包含的郵件，並將其加入至學校校友的 LinkedIn 連線邀請。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+- 我們修正了導致 Insights 增益集停止運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了載入角色時導致停止回應的問題。
+
+
+- 我們修正了應用程式在載入連絡人卡片後變成無回應的問題。
+
+
+- 我們修正了使用者變更郵件中連結的權限時，導致智慧連結 URL 無法更新的問題。
+
+
+- 我們修正了造成使用者無法開啟已套用數位版權管理原則之郵件的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了重複樣式會套用 Normal，而不是重複樣式的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了在無視窗模式中以程式化方式開啟簡報時，可能無法載入連結影像的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2112-january-12"></a>版本 2112：1 月 12 日
 *版本 2112 (組建 14729.20260)*
@@ -1289,7 +1374,7 @@ ms.locfileid: "62008836"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -1636,7 +1721,7 @@ ms.locfileid: "62008836"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2095,6 +2180,7 @@ ms.locfileid: "62008836"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20254|version-2112-january-11|)
@@ -2104,5 +2190,4 @@ ms.locfileid: "62008836"
 [//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
 [//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
-[//]: # (|Win32|CC|Production| |16.0.14527.20276|version-2110-november-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
