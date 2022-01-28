@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: d38f43db99b76014d3c401d3fb16674d380668b2
-ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
+ms.openlocfilehash: 4b413179ef3a7f60c7b4e047ffae055eac746dad
+ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "62042055"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62249935"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,49 @@ ms.locfileid: "62042055"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="january-13-2022"></a>2022 年 1 月 13 日
+## <a name="january-27-2022"></a>2022年1月27日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **管道會議的聊天仲裁設定：** 會議召集人現在可以控制誰可以在會議之前、期間和之後存取通道會議聊天。
+
+- **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日
+
+- **適用於 VDI - VMware 的在家工作動態緊急通話：** 此功能可讓虛擬機器上的使用者驗證個人在家工作時撥打之緊急電話的緊急服務回應者地址。
+
+- **Teams 系統管理中心：每位使用者的加入小組：** Teams 管理員可以查看使用者已加入的小組清單。
+
+- **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們已拓展了使用者在舞臺上自行插上影片的能力。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
+
+- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
+
+- **在會議室前方顯示器及主控台的Teams 會議室裝置上變更 Cortana 圖解：** 在會議室前方顯示器和主控台 UI 之前，會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。 圖解已更新，以反映 Cortana 的虛擬人偶。
+
+- **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
+
+- **Cortana 現在支援* en-us (en-us、en ca、en gb、en) ：** 我們已展開 Cortana 支援，以設定為不同地區設定語言的裝置。 目前支援的地區設定為： en-us，en-us，en-us，en-us，en-us (美國，加拿大，澳大利亞，印度，英國) 
+
+- **Microsoft Teams 教育版：職涯教練 - 系統管理功能啟用：** IT 系統管理員可以在 Teams 系統管理中心中取得控制項，以啟用其學校的新職涯教練功能。
+
+- **應用程式詳細資料頁面上的其他資訊：** [應用程式詳細資料] 頁面會提供每個應用程式的詳細描述，包括影像及產品影片。
+
+- **[應用程式管理] 頁面中的應用程式清單及橫幅：** [管理應用程式] 頁面現在可讓系統管理員管理租使用者中的應用程式。 應用程式和編輯橫幅的清單可協助系統管理員尋找租使用者的相關應用程式。
+
+- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
+
+- **Windows 上的 Microsoft Teams 會議室：在多個影片攝像機之間切換：** Teams 會議室在會議空間中切換多個影片的功能。
+
+- **Microsoft Teams： Teams 會議室在 Windows 上的 [立即開會] 支援：** Teams 會議室在 Windows 上進行調整以達成「立即開會」，以 Teams 桌面在 Teams 的聊天室主控台上取代新的會議控制， (亦即立即開會) 。 透過「開會」，使用者可以透過一次點擊並邀請參與者加入特定會議。 只有在僅 Microsoft Teams 中執行 Teams 會議室或 Microsoft Teams (預設) 和商務用 Skype 模式時，才適用此變更。 使用此變更，所有的 P2P 通話和群組通話功能都會移動至 [呼叫應用程式] 下。
+
+- **Microsoft Teams：在 Windows 上 Teams 會議室呼叫應用程式更新：** Teams 會議室在 Windows 上，進行呼叫體驗的校準，以 Teams 桌面在 Teams 的房間主控台上使用呼叫來取代撥號墊控制。 通話應用程式提供使用者功能，以撥打 PSTN 通話的功能，以及啟用 P2P Teams 通話、群組 Teams 通話及 P2P 同盟使用者呼叫的進入點。 只有在僅 Microsoft Teams 中執行 Teams 會議室或 Microsoft Teams (預設) 和商務用 Skype 模式時，才適用此變更。 使用此變更，P2P 所有先前在 [新會議] 按鈕下的呼叫和群組通話功能會在 [通話] 下移動。 針對使用商務用 Skype 的 sip uri 呼叫的客戶，請在 Microsoft Teams (預設) 及商務用 Skype 模式中，輸入 sip uri 輸入點。 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+## <a name="january-13-2022"></a>2022 年 1 月 13 日
 
 - **Teams 系統管理中心：敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
 
@@ -42,12 +80,10 @@ ms.locfileid: "62042055"
 
 - **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以將背景模糊或完全取代您的影片會議或通話中提供的影像。 附注：模糊或取代背景可能無法防止敏感資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
-- **Teams 1:1 VoIP 通話的端對端加密選項 (Android 及 iOS) ：** Microsoft Teams 會支援使用端對端加密 (E2EE 1:1) Teams 呼叫，以提供額外的選項，以進行機密線上交談。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
+- **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
 
 - **在 it 受管理組織之外的 Teams 中，具有使用者的同盟與外部存取：** 這項功能可延伸 Teams 連線方案，也可讓 it 受管理組織中的使用者能夠使用 it 受管理組織以外的使用者啟動1:1 和群組聊天 (TFL) 。 不支援會議、TFL 使用者開始交談或此次發行中的通話。 最初僅 EDU 租用戶支援此功能。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="december-23-2021"></a>2021年12月23日
 
 - 與 **使用組織未管理之帳戶的 Teams 使用者互動：** 與 Teams 聊天可讓 Teams 使用者與員工在其工作網路以外的小組成員交談，以 Teams 的個人帳戶。 客戶可以邀請任何 Teams 使用者使用電子郵件地址或電話號碼進行聊天，並維持在其組織的安全性和合規性原則中。
@@ -90,7 +126,7 @@ ms.locfileid: "62042055"
 
 - **與外部使用者交談中的應用程式和會議：** 完成時，我們會在會議中與外部使用者一起支援應用程式和群組聊天中的應用程式。
 
-- **Teams 呼叫的端對端加密：** 端對端加密是指其來源的資訊加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 端對端加密是一種即時媒體共同作業的模式，在這種情況下，兩方間的一對一 Teams 呼叫會進行端對端加密。
+- **Teams 通話的端對端加密：** 端對端加密是對其來源的資訊進行加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 端對端加密是一種即時媒體共同作業的選用模式，其中兩方之間的一對一 Teams 通話會進行端對端加密。
 
 - **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
@@ -193,7 +229,7 @@ ms.locfileid: "62042055"
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
-- **Surface Hub 上的 Microsoft Teams 會議室：** 此 Surface Hub 上的下一代 Teams 已經過重新設計，以從桌面上引入您最愛的功能，並 Microsoft Teams 會議室到會議空間。
+- **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
 
 
 ## <a name="september-29-2021"></a>2021年9月29日
@@ -356,7 +392,7 @@ ms.locfileid: "62042055"
 
 ## <a name="june-28-2021"></a>2021年6月28日
 
-- **Teams 呼叫的端對端加密：** 端對端加密是指其來源的資訊加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 E2EE 是一種即時媒體共同作業的模式，其中兩個團體間的一對一 Teams 呼叫是端對端加密。
+- **Teams 通話的端對端加密：** 端對端加密是對其來源的資訊進行加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 E2EE 是一種即時媒體共同作業的模式，其中兩個團體間的一對一 Teams 呼叫是端對端加密。
 
 ## <a name="june-25-2021"></a>2021 年 6 月 25 日
 
@@ -431,7 +467,7 @@ ms.locfileid: "62042055"
 
 ## <a name="april-15-2021"></a>2021年4月15日
 
-- **PowerShell: 中群組的原則套件指派** 使用 PowerShell 中的群組指派簡化原則套件的指派。 群組指派可讓系統管理員將原則套件指派給群組，而不是個別使用者。 
+- **在 PowerShell 中將原則套件指派給群組：** 在 PowerShell 中使用群組指派簡化原則套件的指派。 群組指派讓系統管理員能夠將一個原則套件指派給群組，而不是個別使用者。 
 - **Office 外：** 設定郵件，讓其他人知道您沒有上班或度假，所以當他們傳送聊天訊息時，您就無法回復。 您的外出狀態也會與您 Outlook 行事曆中中找到的自動回復同步處理。
 
 ## <a name="april-12-2021"></a>2021年4月12日

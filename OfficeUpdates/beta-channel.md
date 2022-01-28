@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 601aaf16aa44db3bf79a4c4a0fd19f94a893af9a
-ms.sourcegitcommit: 7f597dfa5666605d413946525bb9c102345f69f0
+ms.openlocfilehash: be0368440a6a755b6c944c2b39a3f0e1d21ad234
+ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2022
-ms.locfileid: "62182101"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62249925"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,58 @@ ms.locfileid: "62182101"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-january-26"></a>版本 2202：1 月 26 日
+*版本 2202 (組建 14922.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+
+- 我們已修正在 Excel 網頁版儲存之後，篩選圖表的格式會變更的問題。
+
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正此問題：如果使用者已變更 [寄件者] 欄位，但未變更新的撰寫，則標籤對齊提示顯示錯誤。
+
+
+- 我們已修正當 RunContactLinking regkey 設定為 0 時，Outlook 正在合併連絡人資訊的問題。
+
+
+- 我們已修正此問題：已從隱藏的視窗中移除約會快速檢視 (AQV) ，以啟用初始滾動。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正此問題：如果企業文字類型欄位中的文字資訊包含問號 (？) 或星號 (*) ，則無法使用自動篩選功能。 產生的錯誤是，「項目無效。 測試值無法與您要尋找或篩選之資料的欄位搭配使用。 [自動篩選] 現在允許包含具有保留字元的值。
+
+
+
+### <a name="word"></a>Word
+
+- 我們已修正此問題：透過變更完全符合醒目提示色彩的非白色背景色彩，使其具有醒目提示屬性。
+
+
+- 我們已修正此問題：在使用功能窗格選取特定頁面時，只有頁面的第一個部分以整頁模式顯示。
+
+
+- 我們已修正此問題：Word 365 或 Windows 10 中大型文件的效能比 Word 2013 或 Windows 7 中更慢。
+
+
+- 我們已修正更新 case 陳述式以對應至資料大小的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正現有 WOPI 通訊協定支援即時共同撰寫的問題，如果文件上的用戶端鎖定在嘗試重新整理時已到期，用戶端就會取得鎖定。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-january-21"></a>版本 2202：1 月 21 日
 *版本 2202 (組建 14912.20000)*
@@ -998,7 +1050,7 @@ ms.locfileid: "62182101"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1006,11 +1058,11 @@ ms.locfileid: "62182101"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="word"></a>Word
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3160,7 +3212,7 @@ ms.locfileid: "62182101"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -3770,7 +3822,7 @@ ms.locfileid: "62182101"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -4953,6 +5005,7 @@ ms.locfileid: "62182101"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
@@ -4962,5 +5015,4 @@ ms.locfileid: "62182101"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14706.20000|version-2112-november-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

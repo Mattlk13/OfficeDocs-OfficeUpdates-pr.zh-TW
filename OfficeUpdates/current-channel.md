@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: fe9a8a0b1ade2db050cafe5a53e78a82d084c076
-ms.sourcegitcommit: e82cfe2c23aafb8abf7b0d2d9b8e237aa7b0b36e
+ms.openlocfilehash: b960aeba1ce2142320633072685c6367a7c107aa
+ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "62240912"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62249915"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -57,8 +57,6 @@ ms.locfileid: "62240912"
 
 - **鏡像我的視訊：** [鏡像我的視訊] 功能可讓使用者選擇是否要取消鏡像其視訊，進而與會議中的其他使用者具有相同的檢視。 透過解除鏡像其視訊，使用者將會正確看到文字。 在教小學生時，不必在背景中或拿著小白板時翻轉文字。 這項功能在圖庫、大型圖庫、ppt-僅限內容共用和 ppt-live 案例中非常有用。
 
-- **教育原則精靈 - 多個群組支援：** 管理員現在可以新增最多三個教育人員和員工的群組，而不是先前的一個，以套用專用的自訂原則集。
-
 - **適用於 VDI - VMware 的在家工作動態緊急通話：** 此功能可讓虛擬機器上的使用者驗證個人在家工作時撥打之緊急電話的緊急服務回應者地址。
 
 - **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
@@ -66,12 +64,6 @@ ms.locfileid: "62240912"
 - **在會議室前方顯示器及主控台的Teams 會議室裝置上變更 Cortana 圖解：** 在會議室前方顯示器和主控台 UI 之前，會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。 圖解已更新，以反映 Cortana 的虛擬人偶。
 
 - **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
-
-
-- **會議期間將通知設為靜音：** 該功能可讓使用者在會議期間將通知設為靜音，以協助在會議期間專注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
-
-- **Microsoft Teams：網路研討會的受管理模式：** 網路研討會中的召集人和簡報者可以輕鬆地設定、管理及控制觀眾的視圖、持續聚焦在簡報者和內容上，以及將干擾最小化。 透過在會議設定中啟用受管理模式，您可以在上播前設定內容和簡報者、控制出席者一直看到的內容和內容，以及在多個簡報者和參與者間切換。
-
 
 - **Microsoft Teams 教育版：職涯教練 - 系統管理功能啟用：** IT 系統管理員可以在 Teams 系統管理中心中取得控制項，以啟用其學校的新職涯教練功能。
 
