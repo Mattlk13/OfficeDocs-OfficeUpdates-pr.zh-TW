@@ -9,40 +9,61 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 3621d5806a85d76858ce38df0858d9f7e93176cc
-ms.sourcegitcommit: 356d2141adb0cd5601410e2c4e16e16dcbf20937
+ms.openlocfilehash: 7f7defdcf7236723b363b1dafe63359a9342698e
+ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "62078757"
+ms.lasthandoff: 01/28/2022
+ms.locfileid: "62249905"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-january-13"></a>Teams 系統管理員和 Teams 應用程式: 1 月 13 日
+## <a name="teams-admin-and-teams-app-january-27"></a>Teams 系統管理員和 Teams 應用程式：1 月 27 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
-
-[//]: # (DO NOT REMOVE DoD CUSTOMERS START)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+
+- **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以模糊背景或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-january-27"></a>Teams 系統管理員：1 月 27 日
+
+[//]: # (DO NOT REMOVE DoD CUSTOMERS START)
+
+
+
+[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
+
+
+## <a name="teams-admin-and-teams-app-january-13"></a>Teams 系統管理員和 Teams 應用程式: 1 月 13 日
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -51,8 +72,6 @@ ms.locfileid: "62078757"
 - **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal)
 
 - **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
-
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
 ## <a name="teams-app-january-13"></a>Teams 應用程式：1月13日
 
