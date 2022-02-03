@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 4b413179ef3a7f60c7b4e047ffae055eac746dad
-ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
+ms.openlocfilehash: 2de736953ac89a0b078228773d3d793ef9e9b06e
+ms.sourcegitcommit: 5232b058e9339a1362170193c05436d2c5e2415d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249935"
+ms.lasthandoff: 02/03/2022
+ms.locfileid: "62332668"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -36,21 +36,15 @@ ms.locfileid: "62249935"
 
 - **管道會議的聊天仲裁設定：** 會議召集人現在可以控制誰可以在會議之前、期間和之後存取通道會議聊天。
 
-- **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日
-
-- **適用於 VDI - VMware 的在家工作動態緊急通話：** 此功能可讓虛擬機器上的使用者驗證個人在家工作時撥打之緊急電話的緊急服務回應者地址。
-
-- **Teams 系統管理中心：每位使用者的加入小組：** Teams 管理員可以查看使用者已加入的小組清單。
+- **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
 
 - **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們已拓展了使用者在舞臺上自行插上影片的能力。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
-
-- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
 
 - **在會議室前方顯示器及主控台的Teams 會議室裝置上變更 Cortana 圖解：** 在會議室前方顯示器和主控台 UI 之前，會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。 圖解已更新，以反映 Cortana 的虛擬人偶。
 
 - **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
 
-- **Cortana 現在支援* en-us (en-us、en ca、en gb、en) ：** 我們已展開 Cortana 支援，以設定為不同地區設定語言的裝置。 目前支援的地區設定為： en-us，en-us，en-us，en-us，en-us (美國，加拿大，澳大利亞，印度，英國) 
+- **Cortana 現在支援 en-us (en-us、en ca、en gb、en-us) ：** 我們已展開 Cortana 支援至設定為不同地區設定語言的裝置。 目前支援的地區設定為： en-us、en ca、en au、en-us、en-us (美國、加拿大、澳大利亞、印度、英國) 。
 
 - **Microsoft Teams 教育版：職涯教練 - 系統管理功能啟用：** IT 系統管理員可以在 Teams 系統管理中心中取得控制項，以啟用其學校的新職涯教練功能。
 
@@ -64,7 +58,7 @@ ms.locfileid: "62249935"
 
 - **Microsoft Teams： Teams 會議室在 Windows 上的 [立即開會] 支援：** Teams 會議室在 Windows 上進行調整以達成「立即開會」，以 Teams 桌面在 Teams 的聊天室主控台上取代新的會議控制， (亦即立即開會) 。 透過「開會」，使用者可以透過一次點擊並邀請參與者加入特定會議。 只有在僅 Microsoft Teams 中執行 Teams 會議室或 Microsoft Teams (預設) 和商務用 Skype 模式時，才適用此變更。 使用此變更，所有的 P2P 通話和群組通話功能都會移動至 [呼叫應用程式] 下。
 
-- **Microsoft Teams：在 Windows 上 Teams 會議室呼叫應用程式更新：** Teams 會議室在 Windows 上，進行呼叫體驗的校準，以 Teams 桌面在 Teams 的房間主控台上使用呼叫來取代撥號墊控制。 通話應用程式提供使用者功能，以撥打 PSTN 通話的功能，以及啟用 P2P Teams 通話、群組 Teams 通話及 P2P 同盟使用者呼叫的進入點。 只有在僅 Microsoft Teams 中執行 Teams 會議室或 Microsoft Teams (預設) 和商務用 Skype 模式時，才適用此變更。 使用此變更，P2P 所有先前在 [新會議] 按鈕下的呼叫和群組通話功能會在 [通話] 下移動。 針對使用商務用 Skype 的 sip uri 呼叫的客戶，請在 Microsoft Teams (預設) 及商務用 Skype 模式中，輸入 sip uri 輸入點。 
+- **Microsoft Teams：在 Windows 上 Teams 會議室呼叫應用程式更新：** Teams 會議室在 Windows 上，進行呼叫體驗的校準，以 Teams 桌面在 Teams 的房間主控台上使用呼叫來取代撥號墊控制。 通話應用程式提供使用者功能，以撥打 PSTN 通話的功能，以及啟用 P2P Teams 通話、群組 Teams 通話及 P2P 同盟使用者呼叫的進入點。 只有在僅 Microsoft Teams 中執行 Teams 會議室或 Microsoft Teams (預設) 和商務用 Skype 模式時，才適用此變更。 使用此變更，P2P 所有先前在 [新會議] 按鈕下的呼叫和群組通話功能會在 [通話] 下移動。 針對使用商務用 Skype 的 sip uri 呼叫的客戶，請在 Microsoft Teams (預設) 及商務用 Skype 模式中，輸入 sip uri 輸入點。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -78,7 +72,7 @@ ms.locfileid: "62249935"
 
 - **父系應用程式：** 教師可以在 Teams 中使用聊天，以吸引學生的父母和監護人。
 
-- **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以將背景模糊或完全取代您的影片會議或通話中提供的影像。 附注：模糊或取代背景可能無法防止敏感資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+- **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以模糊背景或完全取代為您的視訊會議或通話中提供的影像。 附注：模糊或取代背景可能無法防止敏感資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
 
@@ -396,7 +390,7 @@ ms.locfileid: "62249935"
 
 ## <a name="june-25-2021"></a>2021 年 6 月 25 日
 
-- **影片庫上的分頁：** 當您選擇大的圖庫，且有超過9個影片的49影片或圖庫超過9個影片時，導覽控制項， **<** **>** 現在會出現在大型圖庫和影片庫底下。 您可以使用這些控制項來查看更多的影片參與者。
+- **影片庫上的分頁：** 當您選擇大的圖庫，且有超過9個影片的49影片或圖庫超過9個影片時，導覽控制項 **<** **>** ，現在會出現在大型圖庫和影片庫底下。 您可以使用這些控制項來查看更多的影片參與者。
 
 ## <a name="june-19-2021"></a>2021年6月19日
 
