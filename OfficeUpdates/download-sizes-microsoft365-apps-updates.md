@@ -9,13 +9,8 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 45ef85b9f332f768650d00de1ce4363b7c98b35a
-ms.sourcegitcommit: e82cfe2c23aafb8abf7b0d2d9b8e237aa7b0b36e
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "62240908"
 ---
+
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
 我們的目標是提供更新大小資訊，可能的話，協助企業客戶規劃網路頻寬使用量。
@@ -30,6 +25,43 @@ ms.locfileid: "62240908"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+
+## <a name="february-3-2022"></a>2022 年 2 月 3 日
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業通道
+
+<i>預期的版本為版本 2112 (組建 14729.20310)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2111 (組建 14701.20290) <br/> |2022 年 1 月 11 日 <br/> |143<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+<i>預期的版本為版本 2108 (組建 14326.20772)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |68<br/> |
+|版本 2108 (組建 14326.20702) <br/> |2021 年 12 月 16 日 <br/> |70<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+<i>預期的版本為版本 2108 (組建 14326.20772)。</i>
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |68<br/> |
+|版本 2102 (組建 13801.21092) <br/> |2021 年 12 月 16 日 <br/> |304<br/> |
+
+
+[//]: # (DO NOT REMOVE FORECAST CONTENT END)
 
 ## <a name="january-26-2022"></a>2022 年 1月 26 日
 
