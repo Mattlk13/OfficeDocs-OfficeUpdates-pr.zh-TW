@@ -9,13 +9,8 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: be0368440a6a755b6c944c2b39a3f0e1d21ad234
-ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249925"
 ---
+
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
 本文包含 Word、Excel、PowerPoint、Outlook、Access 和適用於 Windows 電腦的 Project 的 Beta 版通道組建版本資訊。 每週，我們都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常每隔一段時間會推出 Beta 版通道新功能 (某些時候還有修正)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
@@ -30,6 +25,82 @@ ms.locfileid: "62249925"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-february-04"></a>版本 2202：2 月 04 日
+*版本 2202 (組建 14931.20010)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正如果使用者已離開功能區，則按一下 [協助工具檢查程式] 窗格時並不會再將焦點切換到 [協助工具] 功能區的問題。
+
+
+- 我們已修正公式過長時，會出現在警示中的拼字錯誤。
+
+
+- 我們已修正在樞紐分析表中有隱藏欄位時會發生的問題。
+
+
+- 我們已修正功能區中的功能表圖示看起來位置錯誤的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正 Outlook 不會同步處理具有大量資料夾之信箱的完整資料夾階層的問題 (例如 10000 個以上的資料夾)。
+
+
+- 我們已修正按一下組織圖檢視中之多位使用者的連絡人卡片，會導致應用程式停止回應的問題。
+
+
+- 我們已修正代理人在新的 REST 式行事曆共用模型中的會議邀請中開啟行事曆時，會無法判斷他們正在使用哪位管理員的共用行事曆的問題。
+
+
+- 我們已修正當會議系列的一個執行個體已變更為 Teams 會議時，則無法使用 [加入] 按鈕的問題。
+
+
+- 我們已修正當使用者刪除包含於伺服器端上之資料的「空白」資料夾時，使用者會遺失資料的問題 (警告會於此時在此案例中出現)。
+
+
+- 我們已修正 (僅會影響 64 位元用戶端機器) 當轉寄 RTF 電子郵件時，應用程式會停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正功能區中的功能表圖示看起來位置錯誤的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正問題，讓現在使用者可以將專案儲存至 Project Web App，即使離線檔案中的資源具有與企業資源相符的名稱。
+
+
+- 我們已修正使用者進入無法執行儲存之狀態的問題。 此修正可讓使用者永遠可儲存其工作。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Outlook 連絡人進行合併列印時，可能會產生「記憶體不足或系統資源不足」的問題。
+
+
+- 我們已修正當文件為 [預覽列印] 模式時，[目錄] 頁碼會變更為單一數字的問題。
+
+
+- 我們已修正功能區中的功能表圖示看起來位置錯誤的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正當使用小型大寫字功能時，會導致文字轉譯錯誤的問題。
+
+
+- 我們已修正在使用者收到新版視覺效果的存取權後，並未如即將推出功能的群組原則設定而啟用預期的單次快顯 (第一次開啟 Office 應用程式時) 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-january-26"></a>版本 2202：1 月 26 日
 *版本 2202 (組建 14922.20000)*
@@ -3212,7 +3283,7 @@ ms.locfileid: "62249925"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -3822,7 +3893,7 @@ ms.locfileid: "62249925"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -5005,6 +5076,7 @@ ms.locfileid: "62249925"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
@@ -5014,5 +5086,4 @@ ms.locfileid: "62249925"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14712.20000|version-2112-november-19|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

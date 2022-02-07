@@ -9,13 +9,8 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 339598b125ea073764e869510dbfa8ef78fab6d2
-ms.sourcegitcommit: 356d2141adb0cd5601410e2c4e16e16dcbf20937
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2022
-ms.locfileid: "62078767"
 ---
+
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
 本文包含 Windows 電腦版之 Word、Excel、PowerPoint、Outlook、Access、Project 與 Teams 目前通道 (預覽) 組建的版本資訊。 我們每週都強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常會在一段時間內推出功能 (有時甚至推出修正程式) 至目前通道 (預覽)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 所以，如果你沒有看到下面描述的項目，不要擔心你最終會得到它。  
@@ -28,6 +23,109 @@ ms.locfileid: "62078767"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2201-february-04"></a>版本 2201：2 月 4 日
+*版本 2201 (組建 14827.20186)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+
+### <a name="outlook"></a>Outlook
+
+- **從您的帳號別名或 Proxy 電子郵件地址傳送電子郵件：** Outlook 傳統上可以接收電子郵件，而不是您的預設電子郵件地址 (稱為 Proxy 位址或別名)。 現在，您也可以選擇所需的寄送電子郵件位址，從這些 Proxy 帳戶傳送電子郵件。
+
+### <a name="teams"></a>Teams
+
+- **共同召集人會議角色：** 召集人現在可以將新的「共同召集人」角色指派給他們邀請的人員，以共用控制權。 共同召集人幾乎擁有召集人的所有功能，包括會議選項的管理。
+
+- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間干擾，同時讓其他參與者仍可觀看您的視訊。
+
+- **聊天中的精簡檢視：** 允許使用者在特定空間內查看更多聊天。 更善加使用聊天中的空間。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 我們已修正使用者進入無法儲存的狀態問題。 此修正使得使用者一律可以儲存其工作。
+
+
+- 我們已修正一個問題，使用者現在可以將專案儲存至 Project Web 應用程式，即使離線檔案中資源的名稱符合企業資源亦然。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2201-january-24"></a>版本 2201：1 月 24 日
+*版本 2201 (組建 14827.20158)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **預設敏感度標籤現在適用於現有未標記的文件：** 已修復不會將預設敏感度標籤套用至現有未標記文件的問題。
+
+### <a name="outlook"></a>Outlook
+
+- **大聲朗讀功能變得更好：** 新的大聲朗讀工具列提供全新、聽起來很自然的語音選項。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **預設敏感度標籤現在適用於現有未標記的文件：** 已修復不會將預設敏感度標籤套用至現有未標記文件的問題。
+
+### <a name="word"></a>Word
+
+- **預設敏感度標籤現在適用於現有未標記的文件：** 已修復不會將預設敏感度標籤套用至現有未標記文件的問題。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了導致 Insights 增益集停止運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了載入角色時導致停止回應的問題。
+
+
+- 我們修正了應用程式在載入連絡人卡片後變成無回應的問題。
+
+
+- 我們修正了使用者變更郵件中連結的權限時，導致智慧連結 URL 無法更新的問題。
+
+
+- 我們修正了造成使用者無法開啟已套用數位版權管理原則之郵件的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了重複樣式會套用 Normal，而不是重複樣式的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們修正了在無視窗模式中以程式化方式開啟簡報時，可能無法載入連結影像的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-january-18"></a>版本 2201：1 月 18 日
 *版本 2201 (組建 14827.20122)*
