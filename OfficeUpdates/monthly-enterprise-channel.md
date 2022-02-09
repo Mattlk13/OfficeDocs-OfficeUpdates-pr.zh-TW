@@ -1,20 +1,20 @@
 ---
 title: 每月企業通道版本的版本資訊
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 8202143b4b27605a9eb93b63516ff4ed51b49fe3
-ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
+ms.openlocfilehash: 53d9f55ccb53c85532e9dd504f7abe7c3792bd55
+ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "62042015"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62466073"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,127 @@ ms.locfileid: "62042015"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2112-february-08"></a>版本 2112：2 月 8 日
+*版本 2112 (組建 14729.20322)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用動作手寫筆快速編輯：** 您可以使用動作手寫筆直接在儲存格中書寫，以會自動轉換成 Excel 資料的筆跡記下資料。
+
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+### <a name="outlook"></a>Outlook
+
+- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+
+- **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
+
+- **單鍵寫作建議：** 只要按一下，就能套用寫作建議。 編輯器會校正拼字和文法，並提供潤飾寫作的建議。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
+
+- **讓所有人都可以存取您的訊息：** Outlook 會在您傳送訊息時，自動讓您知道訊息中何時有協助工具問題，並協助您修正問題。<br />在[部落格文章](https://insider.office.com/en-us/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
+
+- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。<br />在[部落格文章](https://insider.office.com/en-us/blog/shared-calendars-improvements-in-outlook-for-windows)中查看詳細資料
+
+- **改良的通訊錄搜尋：您現在可以在通訊錄中搜尋其他欄位，包括名稱、標題、位置等等。**<br />在[部落格文章](https://insider.office.com/en-us/blog/improved-search-experience-in-the-outlook-address-book)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+- **在單一位置尋找所有協助工具工具:** 開啟簡報，然後選取 [檢閱]，然後選擇 [檢查協助工具]。 [協助工具] 窗格和 [新的協助工具] 功能區將會自動顯示。<br />在[部落格文章](https://insider.office.com/en-us/blog/accessibility-ribbon-in-powerpoint-accessibility-made-easier)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **單鍵書寫建議：** 只要按一下，就能套用書寫建議。 更新的 [編輯器] 窗格讓您輕鬆在建議之間瀏覽。 [深入了解](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />在[部落格文章](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)中查看詳細資料
+
+- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了導致 Insights 增益集停止運作的問題。
+
+
+- 這項變更可啟用針對 Outlook 增益集 1.11 和 1.9 需求集合的完全支援。
+
+
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
+
+- 我們已修正使用多個執行緒連線到 Access 或 Jet 資料庫時會導致應用程式意外關閉的問題。
+
+
+- 此變更修正了當資料庫中包含 SharePoint 清單的連結時，可能造成使用 OLEDB API 的應用程式開啟 Access 資料庫 (.accdb 檔案) 會意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 已修正使用 OLEDB API 和 ACE.OLEDB.12.0 或 ACE.OLEDB.16.0 提供者的應用程式意外關閉的問題。
+
+
+- 在含兩個儲存格編輯方塊的多顯示器設定對話方塊中，會在選取儲存格時對使用者隱藏資料。 這個修正會取消隱藏 UI 對話方塊中的資料。 此變更會影響三個監視器安裝上的條件式格式設定或資料數列選取對話方塊。
+
+
+- 當您在另一個應用程式 (例如 Word 文件) 內嵌 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將它轉換成 Microsoft Excel 的工作表 (Office OpenXML) 物件，必須直到您開啟內嵌物件並對其進行變更時，才會一直完成轉換。  已修正這個問題，因此使用 [轉換] 功能時，物件會完全轉換。
+
+
+- 我們修正了搜尋文字會在樞紐分析表欄位選取工作窗格中重設的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了使用者變更訊息中連結的權限時，導致智慧連結 URL 不會更新的問題。
+
+
+- 我們修正了應用程式在載入連絡人卡片後變成無回應的問題。
+
+
+- 我們修正了載入角色時導致停止回應的問題。
+
+
+- 已修正將連絡人匯出至 CSV 時導致使用者在某些欄位中看到亂碼文字的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了重複樣式會套用 Normal，而不是重複樣式的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正與 SVG 轉譯中文字錨定相關的問題。
+
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+- 已修正與重新整理可能包含文字的元素相關的可靠性問題。
+
+
+- 我們已修正有關 Office 新外觀的教學圖說內容 (提示) 未出現在 Outlook 中的問題。  現在，Word、Excel、PowerPoint 和 OneNote 的使用者會收到 Office 新外觀變更的通知，其中包含變更內容以及如何變更設定或切換體驗的資訊。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2111-february-08"></a>版本 2111：2 月 8 日
+*版本 2111 (組建 14701.20314)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2111-january-11"></a>版本 2111: 1 月 11 日
 *版本 2111 (組建 14701.20290)*
@@ -1710,6 +1831,7 @@ ms.locfileid: "62042015"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
@@ -1719,5 +1841,4 @@ ms.locfileid: "62042015"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
 [//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

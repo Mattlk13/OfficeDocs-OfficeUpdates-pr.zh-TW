@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b960aeba1ce2142320633072685c6367a7c107aa
-ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
+ms.openlocfilehash: bf181b7107bab27700c9778120e315369eeebca2
+ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249915"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62465973"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,31 @@ ms.locfileid: "62249915"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2201-february-08"></a>版本 2201：2 月 8 日
+*版本 2201 (組建 14827.20192)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此更新修正了應用程式停止運作的問題，並產生錯誤訊息，例如「無法開啟其他資料庫」；此問題也可能會導致 Access 無法正確關閉。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用者進入無法儲存的狀態問題。 此修正使得使用者一律可以儲存其工作。
+
+
+- 我們已修正一個問題，使用者現在可以將專案儲存至 Project Web 應用程式，即使離線檔案中資源的名稱符合企業資源亦然。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-january-26"></a>版本 2201：1 月 26 日
 *版本 2201 (組建 14827.20158)*
@@ -2136,7 +2161,7 @@ ms.locfileid: "62249915"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2172,6 +2197,7 @@ ms.locfileid: "62249915"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
@@ -2181,5 +2207,4 @@ ms.locfileid: "62249915"
 [//]: # (|Win32|CC|Production| |16.0.14701.20262|version-2111-december-16|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
-[//]: # (|Win32|CC|Production| |16.0.14527.20312|version-2110-december-01|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -1,16 +1,21 @@
 ---
 title: Microsoft 365 Apps 更新的下載大小
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
+ms.openlocfilehash: d21b499d32e5da1e9cdaa3a5dafb16b5995ccb55
+ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62466083"
 ---
-
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
 我們的目標是提供更新大小資訊，可能的話，協助企業客戶規劃網路頻寬使用量。
@@ -26,42 +31,54 @@ description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的�
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="february-8-2022"></a>2022 年 2 月 8 日
 
-## <a name="february-3-2022"></a>2022 年 2 月 3 日
+[//]: # (請勿移除內容 STARTFebruary 8，2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2201 (組建 14827.20192)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2201 (組建 14827.20158) <br/> |2022 年 1月 26 日 <br/> |49<br/> |
+|版本 2112 (組建 14729.20260) <br/> |2022 年 1 月 12 日 <br/> |199<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業通道
 
-<i>預期的版本為版本 2112 (組建 14729.20310)。</i>
+最新的版本是版本 2112 (組建 14729.20322)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2111 (組建 14701.20290) <br/> |2022 年 1 月 11 日 <br/> |143<br/> |
+|版本 2111 (組建 14701.20290) <br/> |2022 年 1 月 11 日 <br/> |142<br/> |
 
 
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本為版本 2108 (組建 14326.20772)。</i>
+最新的版本是版本 2108 (組建 14326.20784)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |68<br/> |
+|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |69<br/> |
 |版本 2108 (組建 14326.20702) <br/> |2021 年 12 月 16 日 <br/> |70<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本為版本 2108 (組建 14326.20772)。</i>
+最新的版本是版本 2108 (組建 14326.20784)。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |68<br/> |
+|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |69<br/> |
 |版本 2102 (組建 13801.21092) <br/> |2021 年 12 月 16 日 <br/> |304<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+[//]: # (請勿移除內容 ENDFebruary 8，2022)
+
+
+
 
 ## <a name="january-26-2022"></a>2022 年 1月 26 日
 

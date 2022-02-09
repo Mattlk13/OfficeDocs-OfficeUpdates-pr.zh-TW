@@ -1,20 +1,20 @@
 ---
 title: 半年企業通道版本的版本資訊
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 51978a15bdbdc96718be5c8249f04f2cc3f19d22
-ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
+ms.openlocfilehash: c23433968d4559f9feb5703c8fb1b80ce4ce4022
+ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "62042035"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62466113"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -27,6 +27,73 @@ ms.locfileid: "62042035"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2108-february-08"></a>版本 2108：2 月 8 日
+*版本 2108 (組建 14326.20784)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正關閉檔案時應用程式可能會停止回應的問題。
+
+
+- 我們已修正嘗試使用 Power Pivot 搭配 Azure Analysis Services 時發生的問題。
+
+
+- 我們已修正圖形和表單控制項無法呼叫 VBA 巨集的問題。
+
+
+- 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字會重設的問題。
+
+
+- 當您具有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。 已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當寄件者與全部回覆位址不同且同時是收件者時，會導致全部回復無法包含該寄件者的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 PowerPoint 中的來源圖表若在 Excel 中調整大小，其格式會不正確的問題。
+
+
+### <a name="project"></a>專案
+
+- 已修正此問題：報告表中的狀態管理員未更新。 使用者現在應該會看到狀態管理員中反映的變更。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正關閉檔案時應用程式可能會停止回應的問題。
+
+
+- 我們已修正選取並以滑鼠右鍵按一下經鎖定而無法刪除的內容控制項時，Word 會沒有回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
+
+## <a name="version-2102-february-08"></a>版本 2102：2 月 8 日
+*版本 2102 (組建 13801.21156)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+## <a name="version-2008-february-08"></a>版本 2008：2 月 8 日
+*版本 2008 (組建 13127.21886)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
 *版本 2008 (組建 13127.21856)*
@@ -53,11 +120,11 @@ ms.locfileid: "62042035"
 
 - **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
@@ -69,13 +136,13 @@ ms.locfileid: "62042035"
 
 - **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。[深入了解](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
 
 - **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **使用 Outlook 中內建的翻譯工具功能來打破語言障礙:** 現在您可以在 Outlook 中使用智慧型翻譯工具。 當您收到另一個語言的訊息時，系統會在郵件上方顯示一則提示，詢問您是否希望 Outlook 將它翻譯為您偏好的語言。
 您也可以按一下滑鼠右鍵以翻譯特定的文字、片語或整個郵件。 [深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
@@ -114,15 +181,15 @@ ms.locfileid: "62042035"
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
 
@@ -810,7 +877,7 @@ ms.locfileid: "62042035"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2102-december-14"></a>版本 2102：12 月 14 日
+## <a name="version-2102-december-14"></a>版本 2102：12 月 14 日 
 *版本 2102 (組建 13801.21076)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
@@ -1788,7 +1855,7 @@ ms.locfileid: "62042035"
 ## <a name="version-2008-april-13"></a>版本 2008：4 月 13 日
 *版本 2008 (組建 13127.21506)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -1826,7 +1893,7 @@ ms.locfileid: "62042035"
 ## <a name="version-2002-april-13"></a>版本 2002：4 月 13 日
 *版本 2002 (組建 12527.21814)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2008-march-09"></a>版本 2008：3 月 9 日
 *版本 2008 (組建 13127.21348)*
@@ -1951,7 +2018,7 @@ ms.locfileid: "62042035"
 
 安全性更新列於[此處](./microsoft365-apps-security-updates.md)
 
-## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
+## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日 
 *版本 2008 (組建 13127.21064)*
 
 安全性更新列於[此處](./microsoft365-apps-security-updates.md)
@@ -2683,6 +2750,7 @@ ms.locfileid: "62042035"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21092|version-2102-december-17|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21086|version-2102-december-14|)
@@ -2692,5 +2760,4 @@ ms.locfileid: "62042035"
 [//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20864|version-2102-august-10|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20808|version-2102-july-13|)
-[//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
