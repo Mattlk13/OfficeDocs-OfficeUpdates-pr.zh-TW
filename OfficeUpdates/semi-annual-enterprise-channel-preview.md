@@ -9,19 +9,76 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 09097ff417dbd8835d47414ce3eff58fbdd7f5a4
-ms.sourcegitcommit: 9701ee5b81ba04d4fd6b3110dfac21356bd20705
+ms.openlocfilehash: d6e9c0d018f18fa73b3f98fc3bc5311cee9e952e
+ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2022
-ms.locfileid: "61763409"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62465993"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
 
 
-## <a name="version-2108-january-11"></a>版本 2108：1 月 11 日
+## <a name="version-2108-february-08"></a>版本 2108：2 月 08 日
+*版本 2108 (組建 14326.20784)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正關閉檔案時應用程式可能會停止回應的問題。
+
+
+- 我們已修正嘗試使用 Power Pivot 搭配 Azure Analysis Services 時發生的問題。
+
+
+- 我們已修正圖形和表單控制項無法呼叫 VBA 巨集的問題。
+
+
+- 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字遭到重設的問題。
+
+
+- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，該物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。 已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當寄件者與全部回覆位址不同且同時是收件者時，會導致全部回覆無法包含該寄件者的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 PowerPoint 中的來源圖表若在 Excel 中調整大小，其格式會不正確的問題。
+
+
+### <a name="project"></a>專案
+
+- 已修正此問題：報告表中的狀態管理員未更新。 使用者現在應該會看到狀態管理員中反映的變更。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正關閉檔案時應用程式可能會停止回應的問題。
+
+
+- 我們已修正選取並以滑鼠右鍵按一下經鎖定而無法刪除的內容控制項時，Word 會沒有回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 已修正使用觸控板時透過點兩下選取文字的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-january-11"></a>版本 2108: 1 月 11 日
 *版本 2108 (組建 14326.20738)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
@@ -267,9 +324,9 @@ ms.locfileid: "61763409"
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -302,13 +359,13 @@ ms.locfileid: "61763409"
 
 - **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。[深入了解](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 - **建立 Outlook.com 帳戶的連結：** 將帳戶新增至 Outlook 時，視窗中會顯示建立新的 outlook.com 帳戶的連結。
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -322,9 +379,9 @@ ms.locfileid: "61763409"
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
@@ -340,9 +397,9 @@ ms.locfileid: "61763409"
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1290,7 +1347,7 @@ ms.locfileid: "61763409"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -1299,7 +1356,7 @@ ms.locfileid: "61763409"
 - 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
@@ -1593,6 +1650,7 @@ ms.locfileid: "61763409"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20738|version-2108-january-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20702|version-2108-december-17|)
@@ -1602,5 +1660,4 @@ ms.locfileid: "61763409"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20864|version-2102-august-10|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

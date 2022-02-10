@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 1f619acf8ab373a8c3621904940225bec1548609
-ms.sourcegitcommit: ee00792005a172314573c8a20062d114908b144e
+ms.openlocfilehash: e715d8418a83e4faf576a7e25fa2eb707ac839ab
+ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62008806"
+ms.lasthandoff: 02/09/2022
+ms.locfileid: "62465963"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,42 @@ ms.locfileid: "62008806"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="february-08-2022"></a>2022 年 2 月 08 日
+目前通道: 版本 2201 (組建 14827.20192)  
+每月企業通道: 版本 2112 (組建 14729.20322)  
+每月企業通道: 版本 2111 (組建 14701.20314)  
+半年企業通道 (預覽): 版本 2108 (組建 14326.20784)  
+半年企業通道: 版本 2108 (組建 14326.20784)  
+半年企業通道: 版本 2102 (組建 13801.21156)  
+半年企業通道: 版本 2008 (組建 13127.21886)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22100)  
+Office 2021 零售版：版本 2201 (組建 14827.20192)  
+Office 2019 零售版：版本 2201 (組建 14827.20192)  
+Office 2016 零售版：版本 2201 (組建 14827.20192)  
+Office LTSC 2021 大量授權版：版本 2108 (組建 14332.20238)  
+Office 2019 大量授權版：版本 1808 (組建 10383.20027)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2022-22716](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-22716)
+
+### <a name="visio"></a>Visio
+
+-   [CVE-2022-21988](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-21988)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-22003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-22003)
+-   [CVE-2022-23252](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-23252)
+-   [CVE-2022-22004](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-22004)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="january-11-2022"></a>2022 年 1 月 11 日
 目前通道: 版本 2112 (組建 14729.20248)  
