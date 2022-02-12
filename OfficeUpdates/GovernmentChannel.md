@@ -9,30 +9,33 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 7f7defdcf7236723b363b1dafe63359a9342698e
-ms.sourcegitcommit: bb38784947f735ad7ed70e56829816b022bf1082
+ms.openlocfilehash: 3b37fcbbba76d2ad2da5b91229048f085f9dd4bc
+ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249905"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62770957"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-january-27"></a>Teams 系統管理員和 Teams 應用程式：1 月 27 日
+## <a name="teams-admin-and-teams-app-february-10"></a>Teams 系統管理員和 Teams 應用程式: 2 月 10 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+[//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
-### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
@@ -40,19 +43,28 @@ ms.locfileid: "62249905"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
+- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-february-10"></a>Teams 系統管理員: 2 月 10 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 稽核記錄中的會議活動:** Microsoft Teams 稽核記錄中的此更新會新增會議活動，進一步協助組織有效地回應安全性事件。 稽核記錄將會包含 Teams 會議相關資訊，包括開始時間、結束時間，以及加入會議的 URL。 也包含會議參與者的資訊，包括每個參與者的使用者識別碼、每個參與者加入會議的時間，以及每個參與者離開會議的時間。
+
+## <a name="teams-admin-and-teams-app-january-27"></a>Teams 系統管理員和 Teams 應用程式：1 月 27 日
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+### <a name="gcc-customers"></a>GCC 客戶:
+
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
 - **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以模糊背景或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
-
 ## <a name="teams-admin-january-27"></a>Teams 系統管理員：1 月 27 日
-
-[//]: # (DO NOT REMOVE DoD CUSTOMERS START)
-
-
-
-[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 

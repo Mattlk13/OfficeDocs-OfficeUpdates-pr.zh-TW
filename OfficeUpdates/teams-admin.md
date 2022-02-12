@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 2de736953ac89a0b078228773d3d793ef9e9b06e
-ms.sourcegitcommit: 5232b058e9339a1362170193c05436d2c5e2415d
+ms.openlocfilehash: b68b9fd1cc8acf5ff9b44aa2303f267cf0269fb2
+ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/03/2022
-ms.locfileid: "62332668"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62771163"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,13 +28,27 @@ ms.locfileid: "62332668"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="january-27-2022"></a>2022年1月27日
+## <a name="february-10-2022"></a>2022年2月10日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 
-- **管道會議的聊天仲裁設定：** 會議召集人現在可以控制誰可以在會議之前、期間和之後存取通道會議聊天。
+- **資訊秘訣新增至預定的新功能：** 當新功能新增至預約（如 SMS 和行動瀏覽器加入）時，將會通知使用者這些功能的含義。
+
+- **約會視圖中的新功能通知：** 當新功能（如 SMS 或 WebRTC）新增至預約時，使用者將會透過約會中的切換顯示「新」 pill。
+
+- **在 DOD 中可以使用標記：** Teams 中的標記可讓使用者快速聯繫一群人員，而不必 @mention 或輸入 [任何人]。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
+
+- **Microsoft Teams 教育版：職涯教練 edX 教學內容：** 職涯教練現在會在學習體驗內 edX 內容的功能。
+
+- **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/submit-approve-custom-apps)
+
+- **會議期間的靜音通知：** 該功能可讓使用者在會議期間靜音通知，以協助在會議期間進行關注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="january-27-2022"></a>2022年1月27日
 
 - **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
 
@@ -60,8 +74,6 @@ ms.locfileid: "62332668"
 
 - **Microsoft Teams：在 Windows 上 Teams 會議室呼叫應用程式更新：** Teams 會議室在 Windows 上，進行呼叫體驗的校準，以 Teams 桌面在 Teams 的房間主控台上使用呼叫來取代撥號墊控制。 通話應用程式提供使用者功能，以撥打 PSTN 通話的功能，以及啟用 P2P Teams 通話、群組 Teams 通話及 P2P 同盟使用者呼叫的進入點。 只有在僅 Microsoft Teams 中執行 Teams 會議室或 Microsoft Teams (預設) 和商務用 Skype 模式時，才適用此變更。 使用此變更，P2P 所有先前在 [新會議] 按鈕下的呼叫和群組通話功能會在 [通話] 下移動。 針對使用商務用 Skype 的 sip uri 呼叫的客戶，請在 Microsoft Teams (預設) 及商務用 Skype 模式中，輸入 sip uri 輸入點。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 
 ## <a name="january-13-2022"></a>2022 年 1 月 13 日

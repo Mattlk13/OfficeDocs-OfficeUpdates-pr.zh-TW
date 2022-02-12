@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 永久版本的更新歷程記錄。
-ms.openlocfilehash: ffd35ab763b5fa218656ca19a62bb73898f6f729
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: c3706d1f0b1e014a83b57fd1062faee5843863fb
+ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62465781"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62771173"
 ---
 # <a name="update-history-for-office-ltsc-2021-and-office-2021"></a>Office LTSC 2021 和 Office 2021 的更新歷程記錄
 
@@ -39,6 +39,8 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 ## <a name="volume-licensed-versions-of-office-ltsc-2021"></a>Office LTSC 2021 大量授權版本
 下列資訊適用於大量授權版的 Office LTSC，例如透過大量授權合約購買的 Office LTSC 專業增強版 2021。
 
+[//]: # (DO NOT REMOVE VL TABLE START)
+
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
 |2022 年 2 月 8 日|版本 2108 (組建 14332.20238)|
@@ -47,8 +49,21 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 |2021 年 11 月 9 日|版本 2108 (組建 14332.20176)|
 |2021 年 10 月 12 日|版本 2108 (組建 14332.20145)|
 
+[//]: # (DO NOT REMOVE VL TABLE END)
+
+<details>
+<summary>較舊的版本</summary>
+
+[//]: # (DO NOT REMOVE VL OLD TABLE START)
+
+[//]: # (DO NOT REMOVE VL OLD TABLE END)
+
+</details>
+
 ## <a name="retail-versions-of-office-2021"></a>Office 2021 零售版本
 下列資訊適用於零售版 Office 2021，例如 Office 家用及中小企業版 2021 或 Office 專業版 2021。
+
+[//]: # (DO NOT REMOVE RETAIL TABLE START)
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
@@ -58,6 +73,18 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 |2022 年 1 月 11 日|版本 2112 (組建 14729.20248)|
 |2022 年 1 月 4 日|版本 2112 (組建 14729.20194)|
 |2021 年 12 月 16 日|版本 2111 (組建 14701.20262)|
+
+[//]: # (DO NOT REMOVE RETAIL TABLE END)
+
+<details>
+<summary>較舊的版本</summary>
+
+
+[//]: # (DO NOT REMOVE RETAIL OLD TABLE START)
+
+
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
 |2021 年 12 月 14 日|版本 2111 (組建 14701.20248)|
 |2021 年 12 月 3 日|版本 2111 (組建 14701.20226)|
 |2021 年 11 月 30 日|版本 2110 (組建 14527.20312)|
@@ -67,3 +94,7 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 |2021 年 10 月 14 日|版本 2109 (組建 14430.20306)|
 |2021 年 10 月 12 日|版本 2109 (組建 14430.20298)|
 |2021 年 10 月 6 日|版本 2109 (組建 14430.20270)|
+
+[//]: # (DO NOT REMOVE RETAIL OLD TABLE END)
+
+</details>
