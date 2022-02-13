@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: c23433968d4559f9feb5703c8fb1b80ce4ce4022
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: ef7c27f353a6164c849c57d467b8b3d744f27cfe
+ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466113"
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62771183"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -56,7 +56,7 @@ ms.locfileid: "62466113"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正當寄件者與全部回覆位址不同且同時是收件者時，會導致全部回復無法包含該寄件者的問題。
+- 我們已修正當寄件者與全部回覆位址不同且同時是收件者時，會導致全部回覆無法包含該寄件者的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -90,10 +90,18 @@ ms.locfileid: "62466113"
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 此問題現在已針對所有剩餘的網路路徑修正，包括那些包含 DFS 命名空間、簡短檔案名稱和對應磁片磁碟機的網路路徑。 [深入了解](https://support.microsoft.com/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+
 ## <a name="version-2008-february-08"></a>版本 2008：2 月 8 日
 *版本 2008 (組建 13127.21886)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 此問題現在已針對所有剩餘的網路路徑修正，包括那些包含 DFS 命名空間、簡短檔案名稱和對應磁片磁碟機的網路路徑。 [深入了解](https://support.microsoft.com/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 ## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
 *版本 2008 (組建 13127.21856)*
@@ -148,8 +156,6 @@ ms.locfileid: "62466113"
 您也可以按一下滑鼠右鍵以翻譯特定的文字、片語或整個郵件。 [深入了解](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
 - **共用至 Teams：** 將 Outlook 的郵件與 Teams 中的某個人員或頻道共用。
-
-- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
@@ -1911,7 +1917,7 @@ ms.locfileid: "62466113"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -1919,7 +1925,7 @@ ms.locfileid: "62466113"
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件

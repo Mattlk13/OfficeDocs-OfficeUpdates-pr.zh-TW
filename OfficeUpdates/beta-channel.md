@@ -1,16 +1,21 @@
 ---
 title: Beta 版通道的版本資訊
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
+ms.openlocfilehash: 1d573ee007d715003e95467587617fd5774391bd
+ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
+ms.translationtype: HT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 02/12/2022
+ms.locfileid: "62770947"
 ---
-
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
 本文包含 Word、Excel、PowerPoint、Outlook、Access 和適用於 Windows 電腦的 Project 的 Beta 版通道組建版本資訊。 每週，我們都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常每隔一段時間會推出 Beta 版通道新功能 (某些時候還有修正)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
@@ -25,6 +30,39 @@ description: 為「測試人員 - 快」對象提供新功能、修正或已知�
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2203-february-11"></a>版本 2203：2 月 11 日
+*版本 2203 (組建 15003.20004)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正如果資料庫中有 SharePoint 清單的連結，PowerBI 有時無法從 Access 資料庫重新整理資料的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當使用者將伺服器型專案儲存為 MPP 檔案時，會覆寫本機格式設定的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在 Microsoft 365 版本中無法開啟檔案，但可以在較舊的 Word 版本中開啟的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正會導致連絡人卡片無法顯示的問題。
+
+
+- 我們已修正 Outlook 預覽窗格導致 SVG 影像無法正確呈現的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-february-04"></a>版本 2202：2 月 04 日
 *版本 2202 (組建 14931.20010)*
@@ -5076,6 +5114,7 @@ description: 為「測試人員 - 快」對象提供新功能、修正或已知�
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
@@ -5085,5 +5124,4 @@ description: 為「測試人員 - 快」對象提供新功能、修正或已知�
 [//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14718.20000|version-2112-november-26|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
