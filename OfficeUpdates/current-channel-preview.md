@@ -1,20 +1,20 @@
 ---
 title: 版本資訊目前通道 (預覽)
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nodos
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 84b120234d29125850974af8342d399e864c670b
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: ac648a5c45718fdcb52298b3cc40b73e53b46073
+ms.sourcegitcommit: c573514d7fc096c10496e37969bfb62416c7cd07
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466093"
+ms.lasthandoff: 02/15/2022
+ms.locfileid: "62816326"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,20 @@ ms.locfileid: "62466093"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-february-14"></a>版本 2202：2 月 14 日
+*版本 2202 (組建 14931.20072)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="word"></a>Word
+
+- 我們已修正包含外部內容的 SVG 影像可能無法顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-february-07"></a>版本 2202：2 月 7 日
 *版本 2202 (組建 14931.20010)*
@@ -2516,7 +2530,7 @@ ms.locfileid: "62466093"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2748,7 +2762,7 @@ ms.locfileid: "62466093"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼:
+    - 登錄機碼：
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -3326,7 +3340,7 @@ ms.locfileid: "62466093"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
