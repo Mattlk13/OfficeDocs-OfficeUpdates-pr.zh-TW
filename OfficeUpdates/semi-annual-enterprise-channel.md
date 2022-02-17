@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: ef7c27f353a6164c849c57d467b8b3d744f27cfe
-ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
+ms.openlocfilehash: dbe42c2ea8ceb1174621cb0f3e49a4b4e2a463fb
+ms.sourcegitcommit: 067d9472e63d3be28d9d4212d98c7c598a451a35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62771183"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62864167"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -164,8 +164,6 @@ ms.locfileid: "62771183"
 - **焦點收件匣設定在不同裝置之間會保持相同：** 您的焦點收件匣喜好設定現在會儲存在雲端。 這麼一來，當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時便可享有相同的體驗。 [深入了解](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
 - **雲端中的 Outlook 設定：** 選擇您的 Windows 版 Outlook 設定，例如自動回復、焦點收件匣和隱私權，並在任何電腦上使用這些功能。
-
-- **電子郵件中的改良連結：** 當您包含檔案的連結時，檔案名會取代 URL。 您可以變更權限，讓所有收件者都能存取。 [深入了解](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[部落格文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看詳細資料
 
 - **建立 Outlook.com 帳戶的連結：** 新增帳戶至 Outlook 時，視窗中會顯示 outlook.com 帳戶的連結。
 
@@ -1166,6 +1164,8 @@ ms.locfileid: "62771183"
 
 - **快速重新開啟上一個工作階段的項目：** 我們新增了一個選項，可快速重新開啟上一個 Outlook 工作階段的項目。 不管 Outlook 當機或您將其關閉，您現在可以在重新開啟應用程式時快速重新啟動項目。 這項功能預設為啟用。 若要將它關閉，請移至 [選項] > [一般] > [啟動選項]。
 
+- **電子郵件中的改良連結：** 當您包含檔案的連結時，檔案名會取代 URL。 您可以變更權限，讓所有收件者都能存取。 [深入了解](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />在[部落格文章](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)中查看詳細資料
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **所有繪圖工具都位於同一個位置：** 我們已更新[繪圖] 索引標籤手寫筆工具箱，以包含套索和橡皮擦，將您用於筆墨的工具結合在一起。<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
@@ -1917,7 +1917,7 @@ ms.locfileid: "62771183"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -1925,7 +1925,7 @@ ms.locfileid: "62771183"
 
 ### <a name="word"></a>Word
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
