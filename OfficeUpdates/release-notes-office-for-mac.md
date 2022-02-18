@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: c86657d06d2c92dafef70a9a46d186a85d9df2d6
-ms.sourcegitcommit: 518c7cefcd447430dc7f9fa5cc087803246b0998
+ms.openlocfilehash: 794e8348bb54d04bb59bef86340c24d1c2552edd
+ms.sourcegitcommit: 917e78595af049e7d7e5414e79653c16892587cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2022
-ms.locfileid: "62028565"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62894294"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -42,6 +42,54 @@ ms.locfileid: "62028565"
 
 
 
+
+
+
+## <a name="february-16-2022"></a>2022 年 2 月 16 日
+*版本 16.58 (組建 22021501)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **名稱管理員有更好的檢視:** 在名稱管理員中新增、編輯及刪除項目時，享受改良的體驗。 [深入了解](https://support.office.com/article/4d8c4c2b-9f7d-44e3-a3b4-9f61bd5c64e4)<br />在[部落格文章](https://insider.office.com/en-us/blog/improved-name-manager-in-excel-for-mac)中查看詳細資料
+
+- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。<br />在[部落格文章](https://insider.office.com/en-us/blog/lambda-excel-custom-functions)中查看詳細資料
+
+- **Mac 上的「貼上復原選項」現在與 Windows 相同:** 在您貼上 Excel 後，就會出現一個名為「貼上復原復原」功能表的彈出式功能表，讓您可以變更您的貼上的方式。 Mac 版 Excel 選項與 Windows 上的選項有些不同，但現在都一樣。
+
+- **Lambda 協助程式函數:** 7 個新功能，運用 Lambdas，在撰寫 Lambda 解決方案時提供協助!<br />在[部落格文章](https://insider.office.com/en-us/blog/new-lambda-functions-available-in-excel)中查看詳細資料
+
+### <a name="outlook"></a>Outlook
+
+- **Mac Outlook 中的最佳相符程度** 
+
+- **搜尋 QF 中的檔案建議實體**
+
+- **搜尋 QF 中的行事曆實體**
+
+- **搜尋 QF 中的郵件建議實體**
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2022-22716](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-22716)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-22003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-22003)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="january-13-2022"></a>2022 年 1 月 13 日
 *版本 16.57 (組建 22011101)*

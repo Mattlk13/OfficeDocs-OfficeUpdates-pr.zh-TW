@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: bf181b7107bab27700c9778120e315369eeebca2
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: 613581844b3a89877848859ffeff2dafeb89588a
+ms.sourcegitcommit: 067d9472e63d3be28d9d4212d98c7c598a451a35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62465973"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62864130"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,20 @@ ms.locfileid: "62465973"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2201-february-16"></a>版本 2201：2 月 16 日
+*版本 2201 (組建 14827.20198)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了執行應用程式時可能導致錯誤的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-february-08"></a>版本 2201：2 月 8 日
 *版本 2201 (組建 14827.20192)*
@@ -421,7 +435,7 @@ ms.locfileid: "62465973"
 - 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
 
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定排程時間的問題。
 
@@ -1391,7 +1405,7 @@ ms.locfileid: "62465973"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -1738,7 +1752,7 @@ ms.locfileid: "62465973"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2161,7 +2175,7 @@ ms.locfileid: "62465973"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2197,6 +2211,7 @@ ms.locfileid: "62465973"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14827.20198|version-2201-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
@@ -2206,5 +2221,4 @@ ms.locfileid: "62465973"
 [//]: # (|Win32|CC|Production| |16.0.14729.20194|version-2112-january-04|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20262|version-2111-december-16|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
-[//]: # (|Win32|CC|Production| |16.0.14701.20226|version-2111-december-03|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: d21b499d32e5da1e9cdaa3a5dafb16b5995ccb55
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: e65b6e8dfd4ed68e2b374d4a86c86f5e9c9c807b
+ms.sourcegitcommit: 067d9472e63d3be28d9d4212d98c7c598a451a35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466083"
+ms.lasthandoff: 02/17/2022
+ms.locfileid: "62864129"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,22 @@ ms.locfileid: "62466083"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="february-16-2022"></a>2022 年 2 月 16 日
+
+[//]: # (請勿移除內容 STARTFebruary 16，2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的發行版本是版本 2201 (組建 14827.20198)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2201 (組建 14827.20192) <br/> |2022 年 2 月 8 日 <br/> |57<br/> |
+|版本 2201 (組建 14827.20158) <br/> |2022 年 1月 26 日 <br/> |63<br/> |
+
+
+[//]: # (請勿移除內容 ENDFebruary 16，2022)
 
 ## <a name="february-8-2022"></a>2022 年 2 月 8 日
 
