@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: dbe42c2ea8ceb1174621cb0f3e49a4b4e2a463fb
-ms.sourcegitcommit: 067d9472e63d3be28d9d4212d98c7c598a451a35
+ms.openlocfilehash: 68f7351787b56e8d36318bb2a8fbcd9a08bb441d
+ms.sourcegitcommit: 917e78595af049e7d7e5414e79653c16892587cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62864167"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62894304"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -172,6 +172,8 @@ ms.locfileid: "62864167"
 - **搜尋時取得相關的檔案建議：** 當您在 [搜尋方塊] 中輸入時，與搜尋相關的最相關檔案將會包含在您的建議中。
 
 - **挑選搜尋的位置：** 新的搜尋範圍下拉式清單，可讓您更輕鬆地修改搜尋，並在目前資料夾和目前信箱之間切換。 感謝每個在 [即將推出] 為 [頂極體驗] 的 新 [搜尋] 提供意見反應的人。 因為有這份意見反應，才有這項設計與更新！
+
+- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.microsoft.com/en-us/office/end-meetings-early-or-start-late-ebb4c4c9-6992-4ea7-9772-8b5883df8500?ui=en-us&rs=en-us&ad=us)
 
 ### <a name="powerpoint"></a>PowerPoint
 
