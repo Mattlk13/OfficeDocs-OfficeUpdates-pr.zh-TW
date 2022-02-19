@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1d573ee007d715003e95467587617fd5774391bd
-ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
+ms.openlocfilehash: 000e5f5e6acb36ea6c00af8f34dfcb17cbc40ee5
+ms.sourcegitcommit: 528608cbb6b91d2077cd8a2dcb156ca92f5cbafd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62770947"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62897768"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,76 @@ ms.locfileid: "62770947"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2203-february-18"></a>版本 2203: 2 月 18 日
+*版本 2203 (組建 15012.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正修正西班牙縣市在地圖圖表中顯示方式的問題。
+
+
+- 我們已修正導致使用者無法將複製的儲存格貼到 [自訂篩選工具] 對話方塊中的文字欄位的問題。
+
+
+- 我們已修正一個問題，以對齊瀑布圖中數列的填滿方式與直條圖中數列的填滿方式。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用版權管理加密文件時，某些文字色彩作業不正確地停用的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用實體 % Complete 追蹤方法時，無法計算工作上大於 10，000，000，000 的 BCWP 值的問題。
+
+
+- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。 現在，對話方塊只會在有使用中連結時出現。
+
+
+- 我們已修正為各種基準欄位進行存存時，間歇性資料遺失的問題。
+
+
+- 我們已修正使用另存成 PDF (*.pdf) 檔案類型時，將儲存作業儲存到網路磁碟機的速度變慢的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正應用程式在檢查更新時間歇性地停止回應的問題。
+
+
+- 我們已修正導致包含外部內容的 SVG 影像在某些情況下不會顯示的問題。
+
+
+- 我們已修正追蹤修訂中修訂標記未如預期作用的問題。
+
+
+- 我們已修正在使用者介面或按 Enter 之後，在 VBA 中，除了新插入的段落之外，會插入整個目前段落的問題。
+
+
+- 我們修正了編輯文件時，[另存新檔] 對話方塊會意外出現的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正無法解決問題的 SVG 影像存存數量減少的問題。
+
+
+- 我們已修正使用者在應用程式防護中無法開啟檔案的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-february-11"></a>版本 2203：2 月 11 日
 *版本 2203 (組建 15003.20004)*
@@ -5114,6 +5184,7 @@ ms.locfileid: "62770947"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
@@ -5123,5 +5194,4 @@ ms.locfileid: "62770947"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14729.20038|version-2112-december-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
