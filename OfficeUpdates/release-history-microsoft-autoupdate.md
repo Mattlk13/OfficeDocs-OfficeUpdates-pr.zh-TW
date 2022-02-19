@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 5287b97a197f9773486b6a0b1ab9095b7dc2e50d
-ms.sourcegitcommit: 83813a835a87f48a2c79c27c79056a2e13bacba9
+ms.openlocfilehash: 349ec598b6cd22d81861da84e9dd0b946e1e55b7
+ms.sourcegitcommit: 917e78595af049e7d7e5414e79653c16892587cc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2022
-ms.locfileid: "62042025"
+ms.lasthandoff: 02/18/2022
+ms.locfileid: "62894284"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,24 @@ ms.locfileid: "62042025"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+## <a name="february-2022-release"></a>2022 年 2 月發行版本
+
+**發行日期：** 2022 年 2 月 16 日
+
+*Microsoft AutoUpdate 4.44*
+
+**錯誤修正：**
+- 已修正如果發出多個 '檢查更新' 要求，會導致 Microsoft AutoUpdate 意外關閉的問題
+- 已修正會導致 Microsoft AutoUpdate 在啟動時無限期停止回應的問題
+- 已修正在套用更新之後，會導致 Office 應用程式以隱藏狀態開啟的問題
+
+[下載 Microsoft AutoUpdate 4.44 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.44.22021501_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+0839300CECF910E03FE224B506DCE8F6E732F0C8FC474A8E26D6981C80E32E2B
+
+
 ## <a name="january-2022-release"></a>2022 年 1 月發行版本
 
 **發行日期:** 2022 年 1 月 13 日
