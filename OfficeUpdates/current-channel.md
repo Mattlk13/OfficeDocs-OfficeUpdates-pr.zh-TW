@@ -1,20 +1,20 @@
 ---
 title: 目前通道版本的版本資訊
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 613581844b3a89877848859ffeff2dafeb89588a
-ms.sourcegitcommit: 067d9472e63d3be28d9d4212d98c7c598a451a35
+ms.openlocfilehash: ff7d67679df8cbc9ff3691788519ecde9035c6a3
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/17/2022
-ms.locfileid: "62864130"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073627"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,117 @@ ms.locfileid: "62864130"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2202-february-28"></a>版本 2202：2 月 28 日
+*版本 2202 (組建 14931.20120)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Excel 4.0 (XML) 巨集會預設停用以提升 Microsoft 365 客戶的安全性。:** 為協助保護客戶，Excel 4.0 (XML) 巨集在 Microsoft 365 中會預設停用。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+
+- **Lambda: 協助程式函數:** 7 個運用 Lambdas 的新功能，以及在撰寫 Lambda 解決方案時提供協助!<br />在[部落格文章](https://insider.office.com/en-us/blog/new-lambda-functions-available-in-excel)中查看詳細資料
+
+- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。<br />在[部落格文章](https://insider.office.com/en-us/blog/lambda-excel-custom-functions)中查看詳細資料
+
+### <a name="outlook"></a>Outlook
+
+- **組織總管:** 視覺化並探索貴公司的內部結構、工作小組和個別角色。<br />在[部落格文章](https://insider.office.com/en-us/blog/visualize-people-and-teams-with-org-explorer-in-outlook)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **錄製有旁白的影片：** 使用預先錄製的影片和旁白，讓您的下一次簡報更具活力。 或預先錄製整個簡報，以確保在簡報當天順利演講。 [深入了解](https://support.office.com/article/ddc4432c-79f6-4add-b85e-1009815d955c)<br />在[部落格文章](https://insider.office.com/en-us/blog/tell-your-story-with-video-recording-in-powerpoint)中查看詳細資料
+
+
+
+### <a name="teams"></a>Teams
+
+- **VDI-AVD 即時字幕的支援:** 虛擬機器上的使用者將可以使用即時字幕。 即時字幕會顯示通話中音訊的文字版本。
+
+- **在 Teams 會議中隱藏您自己的視訊：** 目前，使用者的視訊會顯示在會議畫面的右下角。 這項功能可讓使用者在會議期間隱藏自己的視訊。 這有助於減少通話期間干擾，同時讓其他參與者仍可觀看您的視訊。
+
+- **讓 Teams 應用程式開發人員在 Teams 用戶端中測試其準備出售的應用程式:** Teams 應用程式開發人員現在可以直接在 Teams 用戶端中測試其 Teams 應用程式的購買程序，然後再公開應用程式或方案。
+
+- **聊天中的精簡檢視：** 允許使用者在特定空間內查看更多聊天。 更善加使用聊天中的空間。
+
+- **新的來賓使用者可用性改進功能可拒絕擱置中的邀請，並顯示/隱藏 Teams 應用程式帳戶設定中的來賓租用戶清單:** 來賓使用者現在可以從 Teams 應用程式中拒絕擱置的來賓邀請。 來賓使用者現在可以從 Teams 應用程式帳戶設定中離開組織。 來賓使用者也可以選擇從 Teams 帳戶設定隱藏/顯示來賓租用戶。
+
+- **Bookings 應用程式中的已排程虛擬看診佇列檢視：** Bookings 應用程式中的已排程虛擬看診佇列視中的會議狀態即時更新。
+
+- **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
+
+- **新增至人員設定檔的本地時間:** 您現在可以知道您要共同合作之人員的本地時間。
+
+- **Microsoft Teams：「職涯教練」- 工作市場趨勢:** 教職員和教職員工授權擁有者現在可以在「職涯教練」中查看地區性的工作市場趨勢。 這種體驗是由 LinkedIn 員工聘用資料所提供。
+
+- **Teams 表情圖示與反應將加入新的 Fluent 表情圖示樣式：** Teams 將加入 M365 和 Windows，將所有的表情圖示和反應更新至新的 Microsoft Fluent 表情圖示樣式，讓使用者的表情圖示體驗更生動豐富。
+
+- **支援 Citrix 的應用程式螢幕畫面分享:** 現在，Citrix VDI 的使用者可以在 Teams 會議中共用應用程式。
+
+- **Azure 虛擬桌面上的 VDI 的在家工作動態緊急通話:** 這項功能可讓使用者在家工作時，在 Azure 虛擬桌面上的 VDI 上進行緊急通話。 它可讓使用者驗證 (以及在必要時，編輯) 將與緊急回應程式進行通訊的電子郵件地址。
+
+
+### <a name="word"></a>Word
+
+- **使用編輯器來校對選取的文字:** 檢查拼寫、語法，並只對文件中選取的文字取得撰寫建議。<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正了一個問題，以調整瀑布圖中資料數列的漸層填滿與直條圖中資料數列的漸層填滿如何對齊。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正了資料夾階層未能同步處理超大型主要信箱 (超過 10000 個資料夾) 所有資料夾的問題。
+
+
+- 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
+
+
+- 我們已修正導致螢幕閱讀器無法存取特定的智慧連結註標的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正從 C2R 安裝之 PowerPoint 在 [資訊] | [屬性] | [進階屬性] 對話方塊中顯示公司資訊的問題。
+
+
+### <a name="project"></a>Project
+
+- 使用者在列印甘特圖上的進度線時，應該不會再經歷問題。
+
+
+
+### <a name="word"></a>Word
+
+- 我們已修正包含外部內容的 SVG 影像可能無法顯示的問題。
+
+
+- 我們已修正導致應用程式在文件中選取移至註解的第一個註解時，應用程式意外關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正會導致連絡人卡片無法顯示的問題。
+
+
+- 我們已在 Outlook 預覽窗格中修正問題，允許 SVG 影像正確地轉譯。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2201-february-16"></a>版本 2201：2 月 16 日
 *版本 2201 (組建 14827.20198)*
@@ -100,7 +211,7 @@ ms.locfileid: "62864130"
 
 - **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
 
-- **在會議室前方顯示器及主控台的Teams 會議室裝置上變更 Cortana 圖解：** 在會議室前方顯示器和主控台 UI 之前，會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。 圖解已更新，以反映 Cortana 的虛擬人偶。
+- **會議室前方顯示器及主控台的 Teams 會議室裝置上的 Cortana 圖解變更:** 在會議室前方顯示器和主控台 UI 會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。圖解已更新，以反映 Cortana 的虛擬人偶。
 
 - **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
 
@@ -118,7 +229,7 @@ ms.locfileid: "62864130"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們修正了導致 Insights 增益集停止運作的問題。
@@ -231,7 +342,7 @@ ms.locfileid: "62864130"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們已修正使用多個執行緒連線到 Access 或 Jet 資料庫時會導致應用程式意外關閉的問題。
@@ -278,7 +389,7 @@ ms.locfileid: "62864130"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -484,7 +595,7 @@ ms.locfileid: "62864130"
 
 ### <a name="outlook"></a>Outlook
 
-- **針對郵件和行事曆撰寫之展開的 GAL 人員建議：** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 現在將從完整 GAL 傳回結果。 (例如：將某人新增到新電子郵件的 [收件者] 行)
+- **針對郵件和行事曆撰寫之展開的 GAL 人員建議:** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 將從完整的 GAL 傳回結果。(例如: 將某人新增到新電子郵件的 [收件者] 行)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -496,7 +607,7 @@ ms.locfileid: "62864130"
 
 - **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
 
-- **Microsoft Teams：會議室視訊適應於畫面:** 根據預設，會議室視訊適應於畫面，並在 Teams 桌面版應用程式上提供會議室的完整檢視。 使用者可以視需要選擇將會議室視訊填滿畫面。
+- **Microsoft Teams: 會議室視訊符合畫面大小:** 根據預設，會議室視訊會調整至畫面大小，並在 Teams 桌面版應用程式上提供會議室的完整檢視。使用者可以視需要選擇將會議室視訊填滿畫面。
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
@@ -530,13 +641,13 @@ ms.locfileid: "62864130"
 
 - **Windows 上的 Teams 會議室：支援 Logitech Scribe 內容相機:** 在 Teams 會議室中，您可以使用 Logitech Scribe 內容相機和 Teams 中的 Intelligent Capture 功能輕鬆地將類比白板共用至 Teams 會議中。
 
-- **Windows 上的 Microsoft Teams 會議室：即時反應：** 在Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。 會議室使用者還可以從會議室主控台的中心傳送反應。
+- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。
 
 - **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。 
 
 - **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
 
-- **Windows 上的 Teams 會議室：更新的會議名冊：** 更新後的會議名册 (在 Teams Rooms 主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。 還有從邀請清單或聊天，邀請其他人參加會議的功能。
+- **Windows 上的 Microsoft Teams 會議室: 更新的會議名冊:** 更新後的會議名册 (在 Teams 會議室主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。還有從邀請清單或聊天，邀請其他人參加會議的功能。
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
@@ -1405,7 +1516,7 @@ ms.locfileid: "62864130"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -1752,7 +1863,7 @@ ms.locfileid: "62864130"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2150,7 +2261,7 @@ ms.locfileid: "62864130"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **利用簡報者教練排練簡報：** 取得有助於維持對象參與的項目方面的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **使用「簡報者教練」排練簡報:** 取得有助於維持對象參與的項目的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="visio"></a>Visio
 
@@ -2211,6 +2322,7 @@ ms.locfileid: "62864130"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.14931.20120|version-2202-february-28|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20198|version-2201-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
@@ -2220,5 +2332,4 @@ ms.locfileid: "62864130"
 [//]: # (|Win32|CC|Production| |16.0.14729.20250|version-2112-january-11|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20194|version-2112-january-04|)
 [//]: # (|Win32|CC|Production| |16.0.14701.20262|version-2111-december-16|)
-[//]: # (|Win32|CC|Production| |16.0.14701.20248|version-2111-december-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

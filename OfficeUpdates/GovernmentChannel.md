@@ -1,26 +1,26 @@
 ---
 title: 政府通道發行版本的 Microsoft Teams 版本資訊
-ms.author: v-aveliz
-author: AVeliz2
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: government
 ms.topic: reference
 ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 3b37fcbbba76d2ad2da5b91229048f085f9dd4bc
-ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
+ms.openlocfilehash: 17a958ec3d85698cb99db4cd8f272724ddf5e3d8
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62770957"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073718"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-february-10"></a>Teams 系統管理員和 Teams 應用程式: 2 月 10 日
+## <a name="teams-admin-and-teams-app-february-24"></a>Teams 系統管理員和 Teams 應用程式: 2 月 24 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
@@ -43,9 +43,26 @@ ms.locfileid: "62770957"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
+- **新增至人員設定檔的本地時間:** 您現在可以知道您要共同合作之人員的本地時間。
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+
+## <a name="teams-admin-february-24"></a>Teams 系統管理員: 2 月 24 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Microsoft Teams 的索引標籤動作將會移動:** Microsoft Teams 的索引標籤動作會移出索引標籤標頭列，並移至索引標籤下拉式清單，以提升使用者體驗。 這會影響所有應用程式索引標籤，例如作業、成績、Planner 及 [網站] 索引標籤。選取索引標籤名稱以顯示下拉式選單，即可找到這些索引標籤動作。
+
+- **應用程式設定原則的小組作業:** 應用程式設定原則允許系統管理員預先安裝應用程式，並將其釘選至應用程式列。現在您便可以將應用程式安裝原則指派給群組。
+
+- **會議期間將通知設為靜音:** 該功能可讓使用者在會議期間將通知設為靜音，以協助在會議期間專注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
+
+## <a name="teams-admin-and-teams-app-february-10"></a>Teams 系統管理員和 Teams 應用程式: 2 月 10 日
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
 
 ## <a name="teams-admin-february-10"></a>Teams 系統管理員: 2 月 10 日
 
@@ -58,6 +75,7 @@ ms.locfileid: "62770957"
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
+
 ### <a name="gcc-customers"></a>GCC 客戶:
 
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
@@ -81,7 +99,7 @@ ms.locfileid: "62770957"
 
 - **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
 
-- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal)
+- **自訂背景:** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。[深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal)
 
 - **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
 
@@ -349,7 +367,7 @@ ms.locfileid: "62770957"
 
 - **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
 
-- **Windows 上的 Microsoft Teams 會議室：即時反應：** 在Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。 會議室使用者還可以從會議室主控台的中心傳送反應。 
+- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。 
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: 3a0b67bd8e8f697eb2d7174167dfe6508a9375ff
-ms.sourcegitcommit: 0208a090133fdc501af7caaf4f28d05100b01808
+ms.openlocfilehash: e1d18c21e9e5c16869012ce61e543bb01bdfa9f4
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/02/2022
-ms.locfileid: "62319209"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073568"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -25,6 +25,11 @@ ms.locfileid: "62319209"
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="march-1-2022"></a>2022 年 3 月 1 日
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB5002160](https://support.microsoft.com/help/5002160)) </br>
+商務用 Skype 2016 更新 ([KB5002106](https://support.microsoft.com/help/5002106)) </br>
 
 ## <a name="february-1-2022"></a>2022 年 2 月 1 日
 **Office 2016**<br/>
@@ -51,12 +56,5 @@ Microsoft Outlook 2016 的更新 ([KB5001998](https://support.microsoft.com/help
 ## <a name="september-7-2021"></a>2021 年 9 月 7 日
 **Office 2016**<br/>
 Microsoft Office 2016 更新 ([KB4484467](https://support.microsoft.com/help/4484467)) </br>
-
-## <a name="august-3-2021"></a>2021 年 8 月 3 日
-**Office 2016**<br/>
-Microsoft Visio 2016 的更新 ([KB4504718](https://support.microsoft.com/help/4504718)) </br>
-
-**Office 2013**<br/>
-Microsoft Visio 2013 的更新 ([KB4504728](https://support.microsoft.com/help/4504728)) </br>
 
 </br>
