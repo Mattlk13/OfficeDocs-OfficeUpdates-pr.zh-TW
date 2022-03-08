@@ -1,20 +1,20 @@
 ---
 title: 2022 年半年企業通道 (預覽) 版本的版本資訊
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: d6e9c0d018f18fa73b3f98fc3bc5311cee9e952e
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: 9dc49accf1c7494c1ab88ffc7f1793ba0b2d46a9
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62465993"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073708"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -44,7 +44,7 @@ ms.locfileid: "62465993"
 - 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字遭到重設的問題。
 
 
-- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，該物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。 已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
+- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，該物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
 
 
 ### <a name="outlook"></a>Outlook
@@ -122,8 +122,7 @@ ms.locfileid: "62465993"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
-[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="excel"></a>Excel
@@ -320,7 +319,7 @@ ms.locfileid: "62465993"
 
 - **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
@@ -391,7 +390,7 @@ ms.locfileid: "62465993"
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
 
@@ -1347,7 +1346,7 @@ ms.locfileid: "62465993"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
