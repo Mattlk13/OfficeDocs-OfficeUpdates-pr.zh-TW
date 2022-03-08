@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: b68b9fd1cc8acf5ff9b44aa2303f267cf0269fb2
-ms.sourcegitcommit: 500d918679708a2fd631d0b169e3dbff97f9f431
+ms.openlocfilehash: 31dd4dee77cf1ab9af97fd6270bd0462832238a1
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2022
-ms.locfileid: "62771163"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073588"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,21 @@ ms.locfileid: "62771163"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="february-10-2022"></a>2022年2月10日
+## <a name="february-24-2022"></a>2022年2月24日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們已拓展了使用者在舞臺上自行插上影片的能力。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
+
+- **新增至人員設定檔的本機時間：** 您現在可以知道您要共同合作之人員的當地時間。
+
+- **Microsoft Teams：職涯教練工作市場趨勢：** 教職員和教職員工授權擁有者現在可以在職涯教練中查看位置型工作市場趨勢。 這種體驗是由 LinkedIn 工作力聘用資料所供電。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="february-10-2022"></a>2022年2月10日
 
 - **資訊秘訣新增至預定的新功能：** 當新功能新增至預約（如 SMS 和行動瀏覽器加入）時，將會通知使用者這些功能的含義。
 
@@ -46,9 +56,7 @@ ms.locfileid: "62771163"
 
 - **會議期間的靜音通知：** 該功能可讓使用者在會議期間靜音通知，以協助在會議期間進行關注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-## <a name="january-27-2022"></a>2022年1月27日
+## <a name="january-27-2022"></a>2022 年 1 月 27 日
 
 - **Teams 會議錄製到期:** 儲存至 OneDrive 和 SharePoint 的 Teams 會議錄製, 您現在可以在自動刪除錄製之前, 定義預設保留錄製內容的天數。 使用者將會收到其錄製內容到期日將至的通知, 並能夠複寫每個錄製檔的到期日。
 
@@ -152,7 +160,7 @@ ms.locfileid: "62771163"
 
 - **從 Teams 系統管理中心登出：** 租使用者系統管理員將可以從 Teams 系統管理中心的遠端登出。 稍後，租用戶系統管理員將能夠從 Teams 系統管理中心遠端從顯示器登出。
 
-- **Teams 審核記錄中的會議活動：** 此對 Microsoft Teams 審核記錄檔的更新會新增會議活動，以進一步協助組織有效回應安全性事件。 審核記錄會有 Teams 會議的相關資訊，包括開始時間、結束時間，以及加入會議的 URL。 會議參與者的相關資訊，包括每位參與者的使用者識別碼、每位參與者加入會議的時間，以及每位參與者離開會議的時間。
+- **Teams 稽核記錄中的會議活動:** Microsoft Teams 稽核記錄中的此更新會新增會議活動，進一步協助組織有效地回應安全性事件。 稽核記錄將會包含 Teams 會議相關資訊，包括開始時間、結束時間，以及加入會議的 URL。 也包含會議參與者的資訊，包括每個參與者的使用者識別碼、每個參與者加入會議的時間，以及每個參與者離開會議的時間。
 
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
@@ -258,7 +266,7 @@ ms.locfileid: "62771163"
 
 - **職涯教練 - 改進的協助工具與次要更新：** 職涯教練將收到有關複製和效能的次要更新。 該應用程式還將為鍵盤瀏覽和螢幕助讀程式提供更高等級的協助工具。
 
-## <a name="september-15-2021"></a>2021年9月15日
+## <a name="september-15-2021"></a>2021 年 9 月 15 日
 
 - **TAC 中的會議室佔有資訊：** IT 系統管理員可以查看會議室在特定會議上的使用方式，以及針對安裝裝置之特定會議室所允許的容量平均佔有。
 
@@ -497,7 +505,7 @@ ms.locfileid: "62771163"
 
 - **在 Teams (預覽中自訂應用程式) ：** Microsoft Teams 提供應用程式自訂，以增強 Teams 體驗。 系統管理員可以根據組織的需求，使用 Teams 系統管理中心的 [管理應用程式] 頁面自訂或才能重塑應用程式屬性。 [深入了解](/Microsoftteams/customize-apps)。
 
-## <a name="march-29-2021"></a>2021年3月29日
+## <a name="march-29-2021"></a>2021 年 3 月 29 日
 
 - **Teams android 裝置的遠端布建和登入：** IT 系統管理員可以遠端布建和登入 Teams Android 裝置。 若要以遠端方式布建裝置，系統管理員必須上傳已布建之裝置的 MAC IDs，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個程式。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
 
@@ -525,7 +533,7 @@ ms.locfileid: "62771163"
 
 - **會議反應原則：** 會議反應預設為關閉。 關閉使用者的反應並不表示使用者無法在其排程的會議中使用反應。 不管預設設定為何，會議召集人仍然可以從會議選項頁面開啟反應。 [深入了解。](/Microsoftteams/meeting-policies-in-teams)
 
-## <a name="february-11-2021"></a>2021年2月11日
+## <a name="february-11-2021"></a>2021 年 2 月 11 日
 
 - **僅供查看會議體驗：** Microsoft Teams 允許最多10000出席者加入 Teams 會議。 到達主會議的容量後，額外的出席者將會加入只供查看的體驗。 [深入了解](/Microsoftteams/view-only-meeting-experience)。
 
@@ -611,7 +619,7 @@ ms.locfileid: "62771163"
 
 - **會議原則設定：** 在 Teams 會議原則中新增兩個 ip 音訊和 ip 影片的原則設定： ip 音訊的模式和 ip 影片的模式。 您現在可以在 Teams 的會議原則中設定傳入和傳出的 ip 音訊和 ip 影片。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
 
-## <a name="september-27-2020"></a>2020年9月27日
+## <a name="september-27-2020"></a>2020 年 9 月 27 日
 
 - **簡化通知設定：** 使用者現在可以使用增強的功能，以更簡化的方式管理其通知設定。
 

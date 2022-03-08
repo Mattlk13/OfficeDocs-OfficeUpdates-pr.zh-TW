@@ -1,7 +1,7 @@
 ---
 title: Office 365 專業增強版的已知問題
-ms.author: anankani
-author: anankani
+ms.author: nidos
+author: nidos
 manager: andrewmo
 ms.audience: ITPro
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 提供 Office 365 專業增強版已知問題的相關資訊
-ms.openlocfilehash: 1df36a1075244db033b2967f4dc94f3046e2232b6dee8c6e96c2e86fb1a38bc0
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+ms.openlocfilehash: a827b69eda21148caa22c5bfc42fe91c4fe77f3b
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522711"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073598"
 ---
 # <a name="microsoft-365-apps-known-issues"></a>Microsoft 365 Apps 的已知問題
 
