@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 53d9f55ccb53c85532e9dd504f7abe7c3792bd55
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: 80abfb1c27bc252a58e8ec5ac083b6e25fef1f56
+ms.sourcegitcommit: 1038fb2654f916a40a2ed5a1f4ab8b0273076fa3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466073"
+ms.lasthandoff: 03/09/2022
+ms.locfileid: "63393025"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,114 @@ ms.locfileid: "62466073"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2201-march-08"></a>版本 2201: 3 月 8 日
+*版本 2201 (組建 14827.20220)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **即將推出登場:** 搭配即將推出，未來就是現在。 嘗試即將推出的增強功能，在變更永久化之前分享早期意見反應。 [深入了解](https://support.office.com/article/800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。
+
+- **Excel 4.0 (XML) 巨集會預設停用以提升 Microsoft 365 客戶的安全性。:** 為協助保護客戶，Excel 4.0 (XML) 巨集在 Microsoft 365 中會預設停用。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
+
+- **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **即將推出登場:** 搭配即將推出，未來就是現在。 嘗試即將推出的增強功能，在變更永久化之前分享早期意見反應。 [深入了解](https://support.office.com/article/800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。
+
+- **使用「簡報者教練」排練簡報:** 取得有助於維持對象參與的項目的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />在[部落格文章](https://insider.office.com/en-us/blog/presenter-coach-windows)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **即將推出登場:** 搭配即將推出，未來就是現在。 嘗試即將推出的增強功能，在變更永久化之前分享早期意見反應。 [深入了解](https://support.office.com/article/800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。
+
+- **解碼縮寫，而不需離開 Word：** 當您遇到縮寫時，Word 會試著根據其他人的使用方式來給予定義。[深入了解](https://support.office.com/article/89062352-e1ce-4f59-b58c-f94869521404)
+
+- **使用編輯器來校對選取的文字:** 檢查拼寫、語法，並只對文件中選取的文字取得撰寫建議。<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
+
+### <a name="office-suite"></a>Office 套件
+
+- **使用您的語音來傳送電子郵件和 @提及：** 新語音命令可讓您在聽寫時傳送郵件並 @提及其他人。<br />在[部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了執行應用程式時可能導致錯誤的問題。
+
+
+- 此更新修正了應用程式停止運作的問題，並產生錯誤訊息，例如「無法開啟其他資料庫」；此問題也可能會導致 Access 無法正確關閉。
+
+
+### <a name="excel"></a>Excel
+
+- 我們修正了當樞紐分析表中有隱藏的欄位時，小計最佳化的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了造成使用者無法開啟已套用數位版權管理原則之郵件的問題。
+
+
+- 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
+
+
+- 我們修正了載入角色時導致停止回應的問題。
+
+
+- 我們已修正導致螢幕助讀程式無法存取特定的 [智慧連結] 圖說文字上的問題。
+
+
+- 我們已修正了資料夾階層未能同步處理超大型主要信箱 (超過 10000 個資料夾) 所有資料夾的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用者進入無法儲存的狀態問題。 此修正使得使用者一律可以儲存其工作。
+
+
+- 我們已修正一個問題，使用者現在可以將專案儲存至 Project Web 應用程式，即使離線檔案中資源的名稱符合企業資源亦然。
+
+
+### <a name="word"></a>Word
+
+- 我們修正了重複樣式會套用 Normal，而不是重複樣式的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更新修正 AIP UL 用戶端使用時受保護共同撰寫中的安全性問題。
+
+
+- 我們修正了在無視窗模式中以程式化方式開啟簡報時，可能無法載入連結影像的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2112-march-08"></a>版本 2112: 3 月 8 日
+*版本 2112 (組建 14729.20360)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2112-february-08"></a>版本 2112：2 月 8 日
 *版本 2112 (組建 14729.20322)*
@@ -42,7 +150,7 @@ ms.locfileid: "62466073"
 
 ### <a name="outlook"></a>Outlook
 
-- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。 [深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
+- **語文法檢查鼎力相助**：Outlook 會在你鍵入時標記文法錯誤，因此你只需按一下就可以套用建議。[深入了解](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />在[部落格文章](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)中查看詳細資料
 
 - **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
 
@@ -82,7 +190,7 @@ ms.locfileid: "62466073"
 - 這項變更可啟用針對 Outlook 增益集 1.11 和 1.9 需求集合的完全支援。
 
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們已修正使用多個執行緒連線到 Access 或 Jet 資料庫時會導致應用程式意外關閉的問題。
@@ -99,7 +207,7 @@ ms.locfileid: "62466073"
 - 在含兩個儲存格編輯方塊的多顯示器設定對話方塊中，會在選取儲存格時對使用者隱藏資料。 這個修正會取消隱藏 UI 對話方塊中的資料。 此變更會影響三個監視器安裝上的條件式格式設定或資料數列選取對話方塊。
 
 
-- 當您在另一個應用程式 (例如 Word 文件) 內嵌 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將它轉換成 Microsoft Excel 的工作表 (Office OpenXML) 物件，必須直到您開啟內嵌物件並對其進行變更時，才會一直完成轉換。  已修正這個問題，因此使用 [轉換] 功能時，物件會完全轉換。
+- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，該物件不一定會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。已修正此項目，因此使用 [轉換] 功能時，可完全轉換物件。
 
 
 - 我們修正了搜尋文字會在樞紐分析表欄位選取工作窗格中重設的問題。
@@ -151,19 +259,16 @@ ms.locfileid: "62466073"
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
 <br/>
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="excel"></a>Excel
@@ -239,8 +344,8 @@ ms.locfileid: "62466073"
 
 
 - 我們已修正完成下列變更的問題: 
-1. Outlook 中存在一個問題，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。 現在會顯示內容。
-2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。 此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
+1. Outlook 中存在一個問題，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。現在這些內容都會顯示。
+2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
 
 
 
@@ -259,8 +364,7 @@ ms.locfileid: "62466073"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
-[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -287,7 +391,7 @@ ms.locfileid: "62466073"
 
 - **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
 
-- **針對郵件和行事曆撰寫之展開的 GAL 人員建議：** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 現在將從完整 GAL 傳回結果。 (例如：將某人新增到新電子郵件的 [收件者] 行)
+- **針對郵件和行事曆撰寫之展開的 GAL 人員建議:** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 將從完整的 GAL 傳回結果。(例如: 將某人新增到新電子郵件的 [收件者] 行)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1321,7 +1425,7 @@ ms.locfileid: "62466073"
 ## <a name="version-2102-april-13"></a>版本 2102：4 月 13 日
 *版本 2102 (組建 13801.20506)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](/officeupdates/microsoft365-apps-security-updates)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -1462,7 +1566,7 @@ ms.locfileid: "62466073"
 ## <a name="version-2101-april-13"></a>版本 2101：4 月 13 日
 *版本 2101 (組建 13628.20664)*
 
-安全性更新列於[此處](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)
+安全性更新列於[此處](/officeupdates/microsoft365-apps-security-updates)
 
 ## <a name="version-2101-march-09"></a>版本 2101：3 月 9 日
 *版本 2101 (組建 13628.20528)*
@@ -1610,7 +1714,7 @@ ms.locfileid: "62466073"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
@@ -1647,7 +1751,7 @@ ms.locfileid: "62466073"
 - 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
@@ -1831,6 +1935,7 @@ ms.locfileid: "62466073"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14827.20220|version-2201-march-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
@@ -1840,5 +1945,4 @@ ms.locfileid: "62466073"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
 [//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
