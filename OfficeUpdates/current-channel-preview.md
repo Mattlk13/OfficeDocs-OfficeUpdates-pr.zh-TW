@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ac648a5c45718fdcb52298b3cc40b73e53b46073
-ms.sourcegitcommit: c573514d7fc096c10496e37969bfb62416c7cd07
+ms.openlocfilehash: 2666149ce26420ce3a06524d05f18ffd78ae98e6
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/15/2022
-ms.locfileid: "62816326"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073688"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,108 @@ ms.locfileid: "62816326"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2202-march-07"></a>版本 2202：3 月 07 日
+*版本 2202 (組建 14931.20132)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正導致使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
+
+
+- 我們已修正導致較新版本的 Viva Insights 增益集載入效率較低的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在切換資料夾時因檢視設定損毀而出現效能問題之問題。
+
+
+- 我們已修正導致附加郵件顯示預設圖示，而預期是出現自訂圖示的問題。
+
+
+- 我們已修正導致連絡人卡片成員資格清單不會正確顯示的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正應用程式在插入圖表時停止回應的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2202-february-28"></a>版本 2202：2 月 28 日
+*版本 2202 (組建 14931.20120)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **消費者客戶的新式註解：** 我們的新增新式註解功能包括新功能，例如已解決的註解。
+
+### <a name="office-suite"></a>Office 套件
+
+- **應用程式內續約：** 為使用者提供一種在應用程式內更新其訂閱的方式。
+
+- **已取消佈建使用者的應用程式內購買：** 提供使用者停留在應用程式內購買 Office 的選項。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 此項更新會調整瀑布圖中數列的填滿方式，與直條圖中數列的填滿方式保持一致。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
+
+
+- 我們已修正導致螢幕助讀程式無法存取特定的 [智慧連結] 圖說文字上的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 此修正會顯示從 C2R 安裝的 PowerPoint 在 [資訊] | [屬性] | [進階屬性] 對話方塊中的公司資訊。
+
+
+### <a name="project"></a>Project
+
+- 使用者在列印甘特圖上的進度線時，應該不會再遇到問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Outlook 預覽窗格中的問題，允許 SVG 影像正確呈現。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2202-february-22"></a>版本 2202：2 月 22 日
+*版本 2202 (組建 14931.20094)*
+* 各種錯誤和效能修正。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **快速尋找您要搜尋的資訊：** 當您搜尋諸如事件、人員、航班等內容時，它們會出現在搜尋結果的頂端。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="version-2202-february-14"></a>版本 2202：2 月 14 日
 *版本 2202 (組建 14931.20072)*
@@ -57,7 +159,7 @@ ms.locfileid: "62816326"
 - 我們已修正當使用者嘗試將超過 8,000 位元組的資料新增到 varchar(max) 欄位時，某些 SQL Server 驅動程式會顯示 [字串資料，右截斷 (#0)] 錯誤的問題。
 
 
-- 我們已修復此問題：在使用包括 DFS 命名空間、短檔案名或對應磁碟機的網路路徑時，無法讓多個使用者開啟資料庫。 [深入了解](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正在使用包括 DFS 命名空間、簡短檔案名稱或對應磁碟機的網路路徑時，會防止多個使用者開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 這項變更可啟用針對 Outlook 增益集 1.11 和 1.9 需求集合的完全支援。
@@ -373,7 +475,7 @@ ms.locfileid: "62816326"
 - 我們已修正當連續使用多個執行緒連接 Access 或 Jet 資料庫時，可能導致應用程式停止回應的問題。
 
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="excel"></a>Excel
@@ -396,7 +498,7 @@ ms.locfileid: "62816326"
 - 已修正以下問題：在多重監視器設定中，當使用者選取儲存格時，對話方塊中的一些資料被隱藏。
 
 
-- 已修正以下問題：當您具有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更。 現在使用 [轉換] 功能時，物件會完全轉換。
+- 我們已修正當您擁有內嵌於其他應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，除非您開啟内嵌的物件並對其進行變更，物件才能完成轉換的問題。現在，當您使用 [轉換] 功能時，即可以完全轉換物件。
 
 
 - 已修正搜尋結果在樞紐分析表欄位清單工作窗格中遺失的問題。
@@ -712,8 +814,8 @@ ms.locfileid: "62816326"
 ### <a name="office-suite"></a>Office 套件
 
 - 這會修正兩件事：
-1. Outlook 中存在一個錯誤，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。 現在會顯示內容。
-2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。 此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
+1. Outlook 中存在一個錯誤，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。現在這些內容都會顯示。
+2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
 
 
 
@@ -2338,7 +2440,7 @@ ms.locfileid: "62816326"
 
 ### <a name="visio"></a>Visio
 
-- 此超連結瀏覽問題現在已在最新組建中修正。 使用者可以使用 CTRL + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
+- 此超連結瀏覽問題現在已在最新組建中修正。使用者可以使用 CTRL + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
 
 
 ### <a name="word"></a>Word
@@ -2530,7 +2632,7 @@ ms.locfileid: "62816326"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2762,7 +2864,7 @@ ms.locfileid: "62816326"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼：
+    - 登錄機碼:
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -3340,7 +3442,7 @@ ms.locfileid: "62816326"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -4796,7 +4898,7 @@ ms.locfileid: "62816326"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用簡報者教練排練您的簡報：** 獲得可協助吸引對象的項目，例如節奏、過度使用的文字、肢體語言等等的指導。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **使用簡報者教練排練您的簡報：** 獲得可協助吸引對象的項目，例如節奏、過度使用的文字、肢體語言等等的指導。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="word"></a>Word
 
@@ -4828,15 +4930,15 @@ ms.locfileid: "62816326"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="word"></a>Word
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6036,7 +6138,7 @@ ms.locfileid: "62816326"
 
 - 我們已修正某張投影片的投影片編輯工具會在下一張投影片上重疊的問題。
 
-### <a name="project"></a>Project
+### <a name="project"></a>專案
 
 - 修正當專案摘要工作-或是專案[開始/工作]欄位有變更時，ProjectBeforeTaskChange 事件不會觸發的問題。
 
