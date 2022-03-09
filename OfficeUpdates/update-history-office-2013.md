@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 1bba5adc45753ce8dd06bbe5fbbfb11f55dbd98a
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: 0912c6a9b759b3825dcbfa4dda65cedcce2356af
+ms.sourcegitcommit: 4f55fc6f036124a1aef0a2db21ded7f275c3e73a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466103"
+ms.lasthandoff: 03/09/2022
+ms.locfileid: "63391139"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 
 特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   
 > [!NOTE]
-> Office 2013 目前最新的版本是 **15.0.5423.1000**，於 2022 年 2 月 8 日發行。
+> 最新版的 Office 2013 是 **15.0.5431.1000**，發行時間為 2022 年 3 月 8 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -45,7 +45,8 @@ ms.locfileid: "62466103"
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2022|2 月 8 日|15.0.5423.1000|[KB 5002073](https://support.microsoft.com/help/5002073)
+|2022|3 月 8 日|15.0.5431.1000|[KB 5002074](https://support.microsoft.com/help/5002074)
+||2 月 8 日|15.0.5423.1000|[KB 5002073](https://support.microsoft.com/help/5002073)
 ||1 月 11 日|15.0.5415.1001|[KB 5001970](https://support.microsoft.com/help/5001970)
 |2021|12 月 14 日|15.0.5407.1000|[KB 5001969](https://support.microsoft.com/help/5001969)
 ||11 月 9 日|15.0.5397.1002|[KB 5001968](https://support.microsoft.com/help/5001968)

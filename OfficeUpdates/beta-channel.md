@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 000e5f5e6acb36ea6c00af8f34dfcb17cbc40ee5
-ms.sourcegitcommit: 528608cbb6b91d2077cd8a2dcb156ca92f5cbafd
+ms.openlocfilehash: 058e1882df2b9fb577da75ac372b8f4e86457d70
+ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62897768"
+ms.lasthandoff: 03/08/2022
+ms.locfileid: "63073698"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
 本文包含 Word、Excel、PowerPoint、Outlook、Access 和適用於 Windows 電腦的 Project 的 Beta 版通道組建版本資訊。 每週，我們都會強調有趣的新功能、重要修正，以及我們想讓您知道的重大問題。 請注意，我們通常每隔一段時間會推出 Beta 版通道新功能 (某些時候還有修正)。 這樣可讓我們確保功能都運作順利，然後才推出給更廣泛的對象。 因此，如果您沒有在以下描述的內容中看到某些項目，請不用擔心，您最終還是會看到它。  
 
 > [!IMPORTANT]
-> 我們會變更 Microsoft 365 應用程式的更新通道，包括新增新的更新通道 (每月企業通道)，並變更現有的更新通道名稱。 如需深入了解，[請閱讀本文](/DeployOffice/update-channels-changes)。
+> 我們正在對 Microsoft 365 Apps 的更新通道進行一些變更，包括新增新的更新通道 (每月企業通道) 和變更現有更新通道的名稱。如需深入了解，請 [閱讀本文](/DeployOffice/update-channels-changes)。
 
 > [!NOTE]
 > - 版本資訊會每週發佈，可能是多個組建的編譯。
@@ -30,6 +30,54 @@ ms.locfileid: "62897768"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2203-february-25"></a>版本 2203：2 月 25 日
+*版本 2203 (組建 15018.20008)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當縮放層級增加時，文字出現在資料類型影像旁空白儲存格中的問題。
+
+
+- 我們已修正使用自訂命令列可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正敏感度標籤的工具提示顯示的位置離標籤本身太遠的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在刪除週期性工作之後，看到一次性工作意外出現的問題。
+
+
+- 我們已修正將外寄郵件寄給特定人員的規則在 Exchange 快取記憶體模式中無法正常運作的問題。
+
+
+- 我們已修正除非是在草稿模式中查看大型影像，否則大型影像不會在郵件中顯示的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 PowerPoint 在 [檔案] > [資訊] 下無法顯示公司名稱的問題。
+
+
+- 我們已修正敏感度標籤的工具提示顯示的位置離標籤本身太遠的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正敏感度標籤的工具提示顯示的位置離標籤本身太遠的問題。
+
+
+- 我們已修正除非是在草稿模式中查看大型影像，否則大型影像不會在郵件中顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-february-18"></a>版本 2203: 2 月 18 日
 *版本 2203 (組建 15012.20000)*
@@ -64,7 +112,7 @@ ms.locfileid: "62897768"
 - 我們已修正使用實體 % Complete 追蹤方法時，無法計算工作上大於 10，000，000，000 的 BCWP 值的問題。
 
 
-- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。 現在，對話方塊只會在有使用中連結時出現。
+- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
 
 
 - 我們已修正為各種基準欄位進行存存時，間歇性資料遺失的問題。
@@ -336,7 +384,7 @@ ms.locfileid: "62897768"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們已修復此問題：在使用包括 DFS 命名空間、短檔案名或對應磁碟機的網路路徑時，無法讓多個使用者開啟資料庫。 [深入了解](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正在使用包括 DFS 命名空間、簡短檔案名稱或對應磁碟機的網路路徑時，會防止多個使用者開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="excel"></a>Excel
@@ -525,7 +573,7 @@ ms.locfileid: "62897768"
 - 已修正以下問題：在多重監視器設定中，當使用者選取儲存格時，對話方塊中的一些資料被隱藏。
 
 
-- 已修正以下問題：當您具有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更。 現在使用 [轉換] 功能時，物件會完全轉換。
+- 我們已修正當您擁有內嵌於其他應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更。現在，當您使用 [轉換] 功能時，即可以完全轉換物件。
 
 
 - 已修正與 SVG 轉譯中文字錨定相關的問題。
@@ -659,7 +707,7 @@ ms.locfileid: "62897768"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **記錄：** 使用旁白錄製影片，使簡報更具影響力。 [深入了解](https://support.office.com/article/ddc4432c-79f6-4add-b85e-1009815d955c)
+- **記錄：** 使用旁白錄製影片，使簡報更具影響力。[深入了解](https://support.office.com/article/ddc4432c-79f6-4add-b85e-1009815d955c)
 
 
 - **匯出：** 將簡報的所有元件彙集在一起，以便輕鬆共用和檢視。 匯出的影片包括所有錄製的時間、旁白、筆墨和雷射筆筆勢。 影片也會保留動畫、轉場和媒體。
@@ -3467,7 +3515,7 @@ ms.locfileid: "62897768"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **利用簡報者教練排練簡報：** 取得有助於維持對象參與的項目方面的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。 [深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **使用「簡報者教練」排練簡報:** 取得有助於維持對象參與的項目的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -5184,6 +5232,7 @@ ms.locfileid: "62897768"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
@@ -5193,5 +5242,4 @@ ms.locfileid: "62897768"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14809.20000|version-2201-december-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
