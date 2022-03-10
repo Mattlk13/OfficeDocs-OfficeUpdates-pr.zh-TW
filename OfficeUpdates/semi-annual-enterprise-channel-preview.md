@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: f722ab0197fbda00f15ba5cd1fa4f76e1b017825
-ms.sourcegitcommit: 4f55fc6f036124a1aef0a2db21ded7f275c3e73a
+ms.openlocfilehash: 5547bf60621de523a19e3c2238a50aa224e4728e
+ms.sourcegitcommit: 1038fb2654f916a40a2ed5a1f4ab8b0273076fa3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/09/2022
-ms.locfileid: "63391159"
+ms.locfileid: "63393051"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -75,7 +75,7 @@ ms.locfileid: "63391159"
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦 [深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
-- **支援 Windows 10 大型文字設定：** 您可以使用 Windows 10 (版本1809和更新版本) 中的 [大型文字] 設定，讓文字變大，便於閱讀。  它在 Windows 版 PowerPoint 運作良好。
+- **支援 Windows 10 大型文字設定：** 您可以使用 Windows 10 (版本 1809 和更新版本) 中的 [大型文字] 設定，讓文字變大，便於閱讀。此功能在 Windows 版 PowerPoint 中運作良好。
 
 - **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
@@ -96,6 +96,8 @@ ms.locfileid: "63391159"
 ### <a name="office-suite"></a>Office 套件
 
 - **使用您的語音來傳送電子郵件和 @提及：** 新語音命令可讓您在聽寫時傳送郵件並 @提及其他人。<br />在[部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook)中查看詳細資料
+
+- **參與經驗：針對受保護通道上的企業客戶擴充支援：** 這項功能延伸了現有的功能，可協助使用者透過參與體驗到受保護的通道，從 Office 獲得最大價值。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -207,7 +209,7 @@ ms.locfileid: "63391159"
 - 在含兩個儲存格編輯方塊的多顯示器設定對話方塊中，會在選取儲存格時對使用者隱藏資料。 這個修正會取消隱藏 UI 對話方塊中的資料。 變更會影響三個監視器安裝上的條件式格式設定或資料數列選取對話方塊。
 
 
-- 當您在另一個應用程式 (例如 Word 文件) 內嵌 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將它轉換成 Microsoft Excel 的工作表 (Office OpenXML) 物件，直到您開啟內嵌物件並對其進行變更之前，無法完成轉換。  已修正這個問題，因此使用 [轉換] 功能時，物件會完全轉換。
+- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，該物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
 
 
 - 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字會重設的問題。
@@ -612,12 +614,6 @@ ms.locfileid: "63391159"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
-
-### <a name="feature-updates"></a>功能更新
-
-### <a name="office-suite"></a>Office 套件
-
-- **參與經驗：針對受保護通道上的企業客戶擴充支援：** 這項功能延伸了現有的功能，可協助使用者透過參與體驗到受保護的通道，從 Office 獲得最大價值。
 
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel

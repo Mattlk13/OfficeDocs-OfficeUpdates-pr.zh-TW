@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 68f7351787b56e8d36318bb2a8fbcd9a08bb441d
-ms.sourcegitcommit: 917e78595af049e7d7e5414e79653c16892587cc
+ms.openlocfilehash: 6cd3af970df6d931cf836864270ff479c5589e9f
+ms.sourcegitcommit: 1038fb2654f916a40a2ed5a1f4ab8b0273076fa3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62894304"
+ms.lasthandoff: 03/09/2022
+ms.locfileid: "63393046"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -27,6 +27,40 @@ ms.locfileid: "62894304"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2108-march-08"></a>版本 2108：3 月 08 日
+*版本 2108 (組建 14326.20852)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們修正了當樞紐分析表中有隱藏的欄位時，小計最佳化的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了導致會議約會檢視中的捲軸水平縮小的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修復將文件儲存至雲端時，Word、Excel 或 PowerPoint 會意外關閉的問題。
+
+- 我們修正了偶爾會導致應用程式在啟動時意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-march-08"></a>版本 2102：3 月 08 日
+*版本 2102 (組建 13801.21214)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2108-february-08"></a>版本 2108：2 月 8 日
 *版本 2108 (組建 14326.20784)*
@@ -51,7 +85,7 @@ ms.locfileid: "62894304"
 - 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字會重設的問題。
 
 
-- 當您具有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。 已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
+- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，該物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
 
 
 ### <a name="outlook"></a>Outlook
@@ -126,7 +160,7 @@ ms.locfileid: "62894304"
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
@@ -197,9 +231,9 @@ ms.locfileid: "62894304"
 
 - **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
 
-- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
+- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **協助保護您的資料免受惡意檔案的侵害：**[應用程式防護] 可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。 [深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
 
@@ -234,7 +268,7 @@ ms.locfileid: "62894304"
 - 我們已修正關閉時可能導致 Access 無法正常終止，而可能導致資料庫鎖定的問題。
 
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 [深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們已修正執行 SQL Server 傳遞查詢時，可能會導致「無效的游標狀態」錯誤的問題。
@@ -243,8 +277,7 @@ ms.locfileid: "62894304"
 - 我們已修正外部應用程式會要求協助工具介面的問題。 它會防止應用程式在釋出參考之前關閉。
 
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
-[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們已修正現在會啟用 Outlook 增益集事件的問題。
@@ -835,8 +868,7 @@ ms.locfileid: "62894304"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
-[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 
@@ -851,8 +883,7 @@ ms.locfileid: "62894304"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。
-[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 
@@ -2758,6 +2789,7 @@ ms.locfileid: "62894304"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21092|version-2102-december-17|)
@@ -2767,5 +2799,4 @@ ms.locfileid: "62894304"
 [//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20864|version-2102-august-10|)
-[//]: # (|Win32|DC|Production| |16.0.13801.20808|version-2102-july-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
