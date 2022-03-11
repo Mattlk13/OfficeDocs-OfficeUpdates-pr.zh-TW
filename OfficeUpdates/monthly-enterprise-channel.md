@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 80abfb1c27bc252a58e8ec5ac083b6e25fef1f56
-ms.sourcegitcommit: 1038fb2654f916a40a2ed5a1f4ab8b0273076fa3
+ms.openlocfilehash: ea647dc346b481b3ee5898b6ce17dc0ba6217c6d
+ms.sourcegitcommit: 56334cc7bdf9d0222d7da640d10c0884a0f515d8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2022
-ms.locfileid: "63393025"
+ms.lasthandoff: 03/10/2022
+ms.locfileid: "63418804"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -64,7 +64,8 @@ ms.locfileid: "63393025"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **使用您的語音來傳送電子郵件和 @提及：** 新語音命令可讓您在聽寫時傳送郵件並 @提及其他人。<br />在[部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook)中查看詳細資料
+- **使用您的語音來傳送電子郵件和 @提及：** 新語音命令可讓您在聽寫時傳送郵件並 @提及其他人。 
+<br />請參閱 [部落格文章](https://insider.office.com/en-us/blog/use-voice-commands-to-speed-up-email-dictation-in-outlook) 中的詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
