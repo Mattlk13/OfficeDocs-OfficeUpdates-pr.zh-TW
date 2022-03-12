@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: ea647dc346b481b3ee5898b6ce17dc0ba6217c6d
-ms.sourcegitcommit: 56334cc7bdf9d0222d7da640d10c0884a0f515d8
+ms.openlocfilehash: 59520e17cfeab106ab38abce3efc6d1fd961e095
+ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63418804"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63448936"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -36,27 +36,15 @@ ms.locfileid: "63418804"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **即將推出登場:** 搭配即將推出，未來就是現在。 嘗試即將推出的增強功能，在變更永久化之前分享早期意見反應。 [深入了解](https://support.office.com/article/800e0cf0-812f-475a-80aa-d47376e076f2)
-
-- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。
-
 - **Excel 4.0 (XML) 巨集會預設停用以提升 Microsoft 365 客戶的安全性。:** 為協助保護客戶，Excel 4.0 (XML) 巨集在 Microsoft 365 中會預設停用。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
 
 - **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **即將推出登場:** 搭配即將推出，未來就是現在。 嘗試即將推出的增強功能，在變更永久化之前分享早期意見反應。 [深入了解](https://support.office.com/article/800e0cf0-812f-475a-80aa-d47376e076f2)
-
-- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。
-
 - **使用「簡報者教練」排練簡報:** 取得有助於維持對象參與的項目的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />在[部落格文章](https://insider.office.com/en-us/blog/presenter-coach-windows)中查看詳細資料
 
 ### <a name="word"></a>Word
-
-- **即將推出登場:** 搭配即將推出，未來就是現在。 嘗試即將推出的增強功能，在變更永久化之前分享早期意見反應。 [深入了解](https://support.office.com/article/800e0cf0-812f-475a-80aa-d47376e076f2)
-
-- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。
 
 - **解碼縮寫，而不需離開 Word：** 當您遇到縮寫時，Word 會試著根據其他人的使用方式來給予定義。[深入了解](https://support.office.com/article/89062352-e1ce-4f59-b58c-f94869521404)
 
@@ -159,7 +147,7 @@ ms.locfileid: "63418804"
 
 - **讓所有人都可以存取您的訊息：** Outlook 會在您傳送訊息時，自動讓您知道訊息中何時有協助工具問題，並協助您修正問題。<br />在[部落格文章](https://insider.office.com/en-us/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
 
-- **開啟共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 開啟預覽，以更快速且更可靠地更新共用行事曆。<br />在[部落格文章](https://insider.office.com/en-us/blog/shared-calendars-improvements-in-outlook-for-windows)中查看詳細資料
+- **共用行事曆改良功能：** 針對 Office 365 中的共用行事曆，Outlook 可以使用 REST API 更新這些行事曆。 這項功能可提供更快速且更可靠的共用行事曆更新，現在會預設為開啟狀態。  [深入了解](https://support.microsoft.com/en-us/office/outlook-calendar-sharing-updates-c3aec5d3-55ce-4cea-84b0-80aab6d8dc26)
 
 - **改良的通訊錄搜尋：您現在可以在通訊錄中搜尋其他欄位，包括名稱、標題、位置等等。**<br />在[部落格文章](https://insider.office.com/en-us/blog/improved-search-experience-in-the-outlook-address-book)中查看詳細資料
 
