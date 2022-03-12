@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 8043890a8c9486ba94937c469925a7fdb956694d
-ms.sourcegitcommit: 56334cc7bdf9d0222d7da640d10c0884a0f515d8
+ms.openlocfilehash: 120217669c1e477f0b36557703ada6fbaf5b597e
+ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2022
-ms.locfileid: "63418814"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63448926"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -58,8 +58,6 @@ ms.locfileid: "63418814"
 - **在干擾較少的情況下閱讀訊息：** 開啟沈浸式閱讀程式，以自訂文字間距、頁面色彩、欄寬和行聚焦，讓您更輕鬆地專注於訊息。
 
 - **自動展開線上封存搜尋：** 啟用自動展開線上封存搜尋。 您可以在此找到與無限制封存相關的詳細資訊：[自動展開封存功能的概觀](/microsoft-365/compliance/unlimited-archiving)
-
-- **從您的收件匣中回應 Yammer 通知：** 讚、註解和回覆通知。
 
 - **瀏覽群組 OPX：** 瀏覽群組的 OPX 體驗以支援工程靈活度。
 

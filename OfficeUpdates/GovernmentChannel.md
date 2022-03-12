@@ -9,25 +9,28 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 17a958ec3d85698cb99db4cd8f272724ddf5e3d8
-ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
+ms.openlocfilehash: 7c6109fcc2c9b94e190d8fd13b1042502a3bc7b6
+ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63073718"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63448946"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-february-24"></a>Teams 系統管理員和 Teams 應用程式: 2 月 24 日
+
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
 [//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
 
+
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -37,15 +40,21 @@ ms.locfileid: "63073718"
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
 
+
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
 
+
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-and-teams-app-february-24"></a>Teams 系統管理員和 Teams 應用程式: 2 月 24 日
+
+
 ### <a name="gcc-customers"></a>GCC 客戶:
 
 - **新增至人員設定檔的本地時間:** 您現在可以知道您要共同合作之人員的本地時間。
-
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
 
 ## <a name="teams-admin-february-24"></a>Teams 系統管理員: 2 月 24 日
