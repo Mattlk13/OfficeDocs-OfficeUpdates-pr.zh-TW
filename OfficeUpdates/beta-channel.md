@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 058e1882df2b9fb577da75ac372b8f4e86457d70
-ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
+ms.openlocfilehash: c63072c12ae55124c50f56e97b6e282cb5041611
+ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63073698"
+ms.lasthandoff: 03/12/2022
+ms.locfileid: "63448957"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,82 @@ ms.locfileid: "63073698"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2203-march-11"></a>版本 2203：3 月 11 日
+*版本 2203 (組建 15028.20022)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **當儲存格包含唯一或重複的規則時，篩選速度更快：** 當活頁簿包含許多唯一或重複的條件式格式設定規則時，它通常會降低應用程式的效能。 不再是這樣了！ 透過優化基礎的比較演算法，我們提高了效能並加快了篩選程序。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **消費者對象現在可以使用新式註解：** PowerPoint 中的新式註解提供許多增强功能，可以改進簡報的共同作業程序，包括定位到特定文字的註解、在頁面邊界和註解窗格中可見的註解、解析討論串的能力、增强的 @提及功能等等。 以前僅限於 Office 的商業授權，現在 PowerPoint 使用者也可以使用新式註解！
+
+### <a name="word"></a>Word
+
+- **改進共同撰寫錯誤復原體驗：** 在 Word 中工作是許多使用者的重要生產力工具，而且中斷可能非常令人頭疼。 我們現在已開發出增強的復原經驗，可在發生共同撰寫錯誤之後，快速將使用者還原為已連線狀態。 這種自動更新會同步處理不同作者間的所有變更，因此您可以看到儘可能最新的文件。 不同作者之間的衝突以及未儲存到伺服器的變更將顯示為追蹤的變更。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正導致圖表資料數列的顯示名稱和趨勢線名稱無法在圖表設定窗格中編輯的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正當您開始鍵入值時，自訂篩選對話方塊中的文字欄位將自動完成的問題。
+
+
+- 我們已修正輸入雙位元組字元時，有兩個建議，其中一個會自動插入的問題。
+
+
+- 我們已修正按鈕表單控制項在插入或删除列或欄後會失去位置的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正應用程式因缺少寫入器執行緒而停止回應的問題。
+
+
+- 我們已修正「寄件者​​」帳戶選擇器下拉式功能表中缺少向下捲動按鈕的問題。
+
+
+- 我們已修正預期自訂圖示時，會為附加的郵件顯示預設圖示的問題。
+
+
+- 我們修正了導致使用者在切換資料夾時因檢視設定損毀而出現效能問題之問題。
+
+
+- 我們已修正導致連絡人卡片成員資格清單不會正確顯示的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在 PowerPoint 中建立新文件時未正確套用預設敏感度標籤的問題。
+
+
+- 我們修正了當使用者變更文件的敏感度標籤時，Excel、Word 和 PowerPoint 有時意外關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正問題，以便使用者在甘特圖中列印進度線時就不會再遇到問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-february-25"></a>版本 2203：2 月 25 日
 *版本 2203 (組建 15018.20008)*
@@ -3183,7 +3259,7 @@ ms.locfileid: "63073698"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -5232,6 +5308,7 @@ ms.locfileid: "63073698"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
@@ -5241,5 +5318,4 @@ ms.locfileid: "63073698"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14816.20004|version-2201-december-24|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
