@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 349ec598b6cd22d81861da84e9dd0b946e1e55b7
-ms.sourcegitcommit: 917e78595af049e7d7e5414e79653c16892587cc
+ms.openlocfilehash: e6d91ba2304c95e83845a142eb610239e24c758a
+ms.sourcegitcommit: 59ede164e5738a9dbe5943875c1c1f5768f5a1c6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/18/2022
-ms.locfileid: "62894284"
+ms.lasthandoff: 03/16/2022
+ms.locfileid: "63511732"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,33 @@ ms.locfileid: "62894284"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="march-2022-release"></a>2022 年 3 月發行版本
+
+**發行日期：** 2022 年 3 月 15 日
+
+*Microsoft AutoUpdate 4.45*
+
+**增強功能：**
+- Microsoft AutoUpdate 現在會偵測、下載並套用更新至 Microsoft Teams
+- Microsoft AutoUpdate 現在有額外的快取，以避免重複套件下載
+- [期限] 對話方塊只會在已分段更新，且準備好安裝時顯示
+
+**錯誤修正：**
+- Microsoft AutoUpdate 因憑證到期而無法套用更新的問題已修正
+- 使 macOS 無法正常關機及重新開機的問題已修正
+- Microsoft AutoUpdate 未在 72 小時後關閉並重新啟動的問題已修正
+- UpdateCheckFrequency 偏好設定未生效的問題已修正
+- Microsoft AutoUpdate 會在處理程序關閉時當機的問題已修正
+
+[下載 Microsoft AutoUpdate 4.45 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.45.22031300_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+61E75D795A3527D9870AEBCE071DE9A1635020A8489AA6273FF6C1B97621DE09
+
+
+
 ## <a name="february-2022-release"></a>2022 年 2 月發行版本
 
 **發行日期：** 2022 年 2 月 16 日
@@ -40,8 +67,7 @@ ms.locfileid: "62894284"
 - 已修正會導致 Microsoft AutoUpdate 在啟動時無限期停止回應的問題
 - 已修正在套用更新之後，會導致 Office 應用程式以隱藏狀態開啟的問題
 
-[下載 Microsoft AutoUpdate 4.44 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.44.22021501_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 0839300CECF910E03FE224B506DCE8F6E732F0C8FC474A8E26D6981C80E32E2B
@@ -56,8 +82,7 @@ ms.locfileid: "62894284"
 **錯誤修正：**
 - 已修正可能會導致 Microsoft AutoUpdate 提前終止的問題
 
-[下載 Microsoft AutoUpdate 4.43 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.43.22011101_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 E3F1EE36F7977F3AA52D31BAE9F7EC084606FDC059514F31A7B1856914C0B507
@@ -80,8 +105,7 @@ E3F1EE36F7977F3AA52D31BAE9F7EC084606FDC059514F31A7B1856914C0B507
 - 已修正在慢速裝置上 MAU 會提前終止的問題
 - 已修正如果已發出多個更新要求，導致 MAU 終止的問題
 
-[下載 Microsoft AutoUpdate 4.42 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.42.21121100_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 299DDCBFB071C287603B9602C94EFE8977EF82CF1C65C98F36B1BC9428CBC02B
@@ -101,8 +125,7 @@ E3F1EE36F7977F3AA52D31BAE9F7EC084606FDC059514F31A7B1856914C0B507
 
 
 
-[下載 Microsoft AutoUpdate 4.41 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.41.21111400_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 C634C99867D70524C090B1FA26DD9BCE747A04611DB88B68F6E35C58B7752516
@@ -119,8 +142,7 @@ C634C99867D70524C090B1FA26DD9BCE747A04611DB88B68F6E35C58B7752516
 - 修正某些更新案例可能會發生應用程式損壞的問題
 
 
-[下載 Microsoft AutoUpdate 4.40 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.40.21101001_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 F638F7E0DA9EE659C323F2EDE0F176804BFE9A615A8F8B6320BD2E69D91EF2B2
@@ -134,8 +156,7 @@ F638F7E0DA9EE659C323F2EDE0F176804BFE9A615A8F8B6320BD2E69D91EF2B2
 **錯誤修正及增強功能：**
 - 錯誤修正：如果未使用 MAU 命令提示字元終止應用程式，則在更新應用程式之後將無法重新啟動
 
-[下載 Microsoft AutoUpdate 4.39 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.39.21091200_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 E6D45F0F0010F67638F199CE8757739F26E703F3D472EF482BEC2175AB7D85B7
@@ -150,8 +171,7 @@ E6D45F0F0010F67638F199CE8757739F26E703F3D472EF482BEC2175AB7D85B7
 **錯誤修正及增強功能：**
 - 在更新套件以下載完成且準備就緒進行安裝之後，MAU 的 CLI 會立即顯示通知。 
 
-[下載 Microsoft AutoUpdate 4.38 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.38.21080801_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
@@ -168,8 +188,7 @@ FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
 - 修正 MAU 在套用更新後顯示舊應用程式版本的問題。
 - 修正啟動更新時未關閉 MAU 期限通知的問題。
 
-[下載 Microsoft AutoUpdate 4.37 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.37.21071101_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 2352BA7722ABCC92E9C05E2D50B1B6F71FEF7D91306D6E4EF765F042688F2BC4
@@ -184,8 +203,7 @@ FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
 - Docktile 進度指示器 - MAU 現在會在 Dock 中所顯示的圖示上展現進度指示。
 - 隨機更新完成 - MAU 會嘗試在裝置關機/重新開機期間套用延遲的更新。
 
-[下載 Microsoft AutoUpdate 4.36 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.36.21061301_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 0680414EA9553FEF6198B8414CFABABB6ED5B22A571138B98F6F3E4190630DB3
@@ -204,8 +222,7 @@ FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
 - Microsoft AutoUpdate 安裝程式/更新程式套件上的大小縮減。
 - 命令列介面 (CLI) 現在使用原生 xpc 與 Microsoft Update Assistant 通訊，而不是 Apple 事件。
 
-[下載 Microsoft AutoUpdate 4.35 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
@@ -219,8 +236,7 @@ FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
 **錯誤修正及增強功能：**
 - 對於使用手動更新模式的使用者，微小的 'Badging Notifications' 現在會指出更新的可用性，而不是傳統的作業系統通知提示。
 
-[下載 Microsoft AutoUpdate 4.34 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.34.21041102_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 98C6821D939A3FA78BE21B11919625A48EAE2A3CC87CB104BF06637D9B850D9C
@@ -239,8 +255,7 @@ FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
 - MAU UI 會在下載更新時顯示正確的更新大小。
 - MAU 現在可在不含 Rosetta 的 M1 macOS 裝置上安裝。
 
-[下載 Microsoft AutoUpdate 4.33 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.33.21031401_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
  8B851FD35B8172AB3220592E68ABCD6C302A55336FD7E9F8B5511683B372E7E1
@@ -259,8 +274,7 @@ FA603BA191C87A6E261475F7BCEA98176533C3C8760EB0F4B31118A845EC6DBB
 - 功能更新：MAU 的主功能表列現在有一個 [編輯] 選項，可允許鍵盤快速鍵。
 - 其他更新：MAU 的著作權年度已更新至 2021 年。
 
-[下載 Microsoft AutoUpdate 4.32 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
@@ -276,8 +290,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 **錯誤修正及增強功能：**
 - 針對未採用自動更新的裝置，Microsoft AutoUpdate 現在將透過通知 (而不是開啟 MAU UI) 來通知相關的新更新。
 
-[下載 Microsoft AutoUpdate 4.31 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 209B444D2831B879BB73C92041A1C7318C1D5BA58B4689F6C4FC842B0930B532
@@ -295,8 +308,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 **MAU 更新連結：**
 
-[下載 Microsoft AutoUpdate 4.30 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 9F4C49BE4FCC82DED7BD394F4F2057912B40D0083F754D15495B7BDE9E58EAC4
@@ -316,8 +328,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 **MAU 更新連結：**
 
-[下載 Microsoft AutoUpdate 4.29 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 7EDE97D524CE7E7869A4033D25270057E670588886F7A0E02628CC7FCB4F7851
@@ -337,8 +348,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 **MAU 更新連結：**
 
-[下載 Microsoft AutoUpdate 4.28 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
@@ -356,8 +366,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 **MAU 更新連結：**
 
-[下載 Microsoft AutoUpdate 4.27 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 7AF6ACDC5E1278CF4D227F305A127A6FE5A275094D945C1504DC108C2090F2CB
@@ -380,8 +389,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 **MAU 更新連結：**
 
-[下載 Microsoft AutoUpdate 4.26 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
