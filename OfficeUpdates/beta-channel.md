@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: c63072c12ae55124c50f56e97b6e282cb5041611
-ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
+ms.openlocfilehash: 079322a11762d4fe99da33fe6debdc850979212c
+ms.sourcegitcommit: 833a00ae02481df0d27fcd3d3bc3166692941aad
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63448957"
+ms.lasthandoff: 03/19/2022
+ms.locfileid: "63660841"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,6 +31,76 @@ ms.locfileid: "63448957"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2204-march-18"></a>版本 2204：3 月 18 日
+*版本 2204 (組建 15109.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正在使用 Access 資料庫引擎 OLEDB API 與包含 SharePoint 清單之連結的資料庫時，可能會導致應用程式意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正復原的檔案以唯讀方式開啟的問題。
+
+
+- 我們已修正當試圖透過 [編輯連結] 對話方塊變更連結時，應用程式可能意外關閉的問題。
+
+
+- 我們已修正應用程式無法從 Power BI 轉譯具名格式的問題。
+
+
+- 我們已修正在操作功能表中選擇搜尋命令會停用常用鍵盤快速鍵組合的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正重新傳送郵件會將郵件內文還原為純文字，並遺失所有變更 (資料遺失) 的問題。
+
+
+- 我們已修正影響受 RMS 保護之郵件的問題。
+
+
+- 進行了一項資料變更，在英國行事曆中包含了新的英國假日。
+
+
+- 我們已修正可能導致使用者無法停用 [交談] 檢視的問題。
+
+
+- 我們已修正啟用 REST 共用行事曆功能時，已移除的共用行事曆會再次出現的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正有關在 SVG 檔案中正確處理多個連續空間的問題。
+
+
+- 我們已修正了有關匯出錄製的簡報之穩定性問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正在高 DPI 系統上的問題：網狀圖上的節點被視為重疊或不可縮放，並且無法正確列印。
+
+
+- 我們已修正從 Project 用戶端儲存或發佈專案不會儲存對自訂欄位的變更。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正停用文件共同作業模式的問題。
+
+
+- 我們已修正 Word 在方程式中使用時無法列印可見選用連字號 (Alt+173) 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2203-march-11"></a>版本 2203：3 月 11 日
 *版本 2203 (組建 15028.20022)*
 
@@ -44,7 +114,7 @@ ms.locfileid: "63448957"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **消費者對象現在可以使用新式註解：** PowerPoint 中的新式註解提供許多增强功能，可以改進簡報的共同作業程序，包括定位到特定文字的註解、在頁面邊界和註解窗格中可見的註解、解析討論串的能力、增强的 @提及功能等等。 以前僅限於 Office 的商業授權，現在 PowerPoint 使用者也可以使用新式註解！
+- **消費者對象現在可以使用新式註解：** PowerPoint 中的新式註解提供許多增强功能，可以改進簡報的共同作業程序，包括定位到特定文字的註解、在頁面邊界和註解窗格中可見的註解、解析討論串的能力、增强的 @提及功能等等。以前僅限於 Office 的商業授權，現在 PowerPoint 使用者也可以使用新式註解！
 
 ### <a name="word"></a>Word
 
@@ -5308,6 +5378,7 @@ ms.locfileid: "63448957"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
@@ -5317,5 +5388,4 @@ ms.locfileid: "63448957"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14822.20000|version-2201-december-31|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
