@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理功能的版本資訊。
-ms.openlocfilehash: 6ccbdd4a734676c9115b647ecbb08f36c01cd552
-ms.sourcegitcommit: 969d29f47ffbacb7615cada10920fc4ae26f4f9a
+ms.openlocfilehash: fa62046076b2b7979307b32e1516ffecbbedb5d7
+ms.sourcegitcommit: 415e3333f2f3389d47e50b8f70ca7f6fe80e9938
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/15/2022
-ms.locfileid: "63494143"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64404405"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理功能的版本資訊
 
@@ -28,11 +28,25 @@ ms.locfileid: "63494143"
 
 [//]: # (不移除日期內容開始)
 
-## <a name="march-11-2022"></a>2022年3月11日
+## <a name="march-24-2022"></a>2022年3月24日
 
 [//]: # (不移除日期內容結束)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以將 Teams 清單匯出為從 Teams 系統管理中心的 CSV 檔案。
+
+- **非會議聊天的聊天篩選器：** [交談] 應用程式內會有新的聊天篩選器，可透過 bot 篩選會議聊天和聊天。 它會在一或群組聊天中的人員上篩選。
+
+- **在 Teams 系統管理中心搜尋：** 系統管理員可以使用 Teams 系統管理中心內的常見搜尋方塊搜尋使用者、小組、頁面和設定。
+
+- **漫遊頻寬控制:** 新的漫遊原則, 可提供其他原則中的特定設定, 這些原則必須根據 Teams 用戶端的位置, 以動態方式呈現。 會包含 TeamsMeetingPolicy 的初始兩項設定： AllowIPVideo 和 MediaBitRateKb。
+
+- **IT 系統管理員的多語言會議邀請控制權：** IT 管理員可以套用新的 Teams 會議原則，設定 Teams 會議邀請中的多種語言。 最多2種語言的控制權可以套用至使用者、群組或整個組織。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="march-11-2022"></a>2022年3月11日
 
 - **會議中的行事曆放映方式：** 召集人可以使用 [顯示為]，為會議設定空閒忙碌的狀態，並從 Teams 排程 OOF 會議。 此外，也會啟用私人會議功能，讓使用者可以在共用其行事歷時，隱藏其他使用者的會議詳細資料。
 
@@ -48,8 +62,8 @@ ms.locfileid: "63494143"
 
 - **Teams 系統管理中心：每位使用者的加入小組：** Teams 管理員可以查看使用者已加入的小組清單。
 
+- **管理員可以在郵件擴充中以固定的應用程式：** 透過 Teams 系統管理中心中的應用程式安裝原則，管理員現在可以將應用程式與 Teams 撰寫體驗中的郵件擴充功能進行鎖定。 [深入了解](/microsoftteams/teams-app-setup-policies)
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="february-24-2022"></a>2022年2月24日
 
 - **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
@@ -523,7 +537,7 @@ ms.locfileid: "63494143"
 
 ## <a name="march-29-2021"></a>2021 年 3 月 29 日
 
-- **Teams android 裝置的遠端布建和登入：** IT 系統管理員可以遠端布建和登入 Teams Android 裝置。 若要以遠端方式布建裝置，系統管理員必須上傳已布建之裝置的 MAC IDs，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個程式。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
+- **Teams android 裝置的遠端布建和登入：** IT 系統管理員可以遠端布建和登入 Teams Android 裝置。 若要以遠端方式布建裝置，系統管理員必須上傳已布建之裝置的 MAC IDs，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
 
 ## <a name="march-24-2021"></a>2021年3月24日
 
