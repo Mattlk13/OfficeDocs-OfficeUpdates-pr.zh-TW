@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 7c6109fcc2c9b94e190d8fd13b1042502a3bc7b6
-ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
+ms.openlocfilehash: c7b60b6ce0b993809e9ef4dbf92e81b4bb29ad90
+ms.sourcegitcommit: 415e3333f2f3389d47e50b8f70ca7f6fe80e9938
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63448946"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64404395"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -48,6 +48,36 @@ ms.locfileid: "63448946"
 
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-app-march-24"></a>Teams 應用程式：3月24日
+
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 儲存區中的工作流程範本：** 工作流程可讓 Teams 使用者自動化重複性的工作，以更有效地共同作業並完成更多工作。 使用者將能夠依類別查看所有工作流程範本、從頭建立工作流程，並從 Teams 存放區中深入了解功能。 在任何範本上按一下，將會引導使用者完成內容中的設定經驗。
+
+
+## <a name="teams-admin-march-24"></a>Teams 系統管理員: 3 月 24 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **會議期間將通知設為靜音:** 該功能可讓使用者在會議期間將通知設為靜音，以協助在會議期間專注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **會議期間將通知設為靜音:** 該功能可讓使用者在會議期間將通知設為靜音，以協助在會議期間專注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
+
+
+
+
+
+
+
+
 
 ## <a name="teams-admin-and-teams-app-february-24"></a>Teams 系統管理員和 Teams 應用程式: 2 月 24 日
 
