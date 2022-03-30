@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 079322a11762d4fe99da33fe6debdc850979212c
-ms.sourcegitcommit: 833a00ae02481df0d27fcd3d3bc3166692941aad
+ms.openlocfilehash: 072347f129eb44fbd98941d577d672a4e6e6f353
+ms.sourcegitcommit: 9627006b2ea1fefdc9d7d17ca146ac8c38b1dd5d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/19/2022
-ms.locfileid: "63660841"
+ms.lasthandoff: 03/25/2022
+ms.locfileid: "64464384"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,103 @@ ms.locfileid: "63660841"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2204-march-25"></a>版本 2204: 3 月 25 日
+*版本 2204 (組建 15121.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正如果記憶體需求成長過快，造成使用 DAO 或 OLEDB 介面的應用程式無法讀取 Access 資料庫，可能會導致應用程式意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正如果儲存後過早開啟，未受保護檔案上新增的標籤會遺失的問題。
+
+
+- 我們已修正在 Get Data (僅適用於 GCC 租用戶) 下遺失 PowerBI 資料類型的問題。
+
+
+- 我們已修正 OnPrem 的問題，即在具有敏感性標籤和除完全控制之外的所有權限的文件中，Get Data 將遭停用。
+
+
+- 我們已修正與線上進階內容庫中選取項目相關的問題。
+
+
+- 我們已修正當使用建議圖表作業插入圖表時，導致應用程式意外關閉的問題。
+
+
+- 我們已修正 [查看所有圖表] 按鈕的工具提示具有誤導性 ([查看所有圖表類型]) 的問題；行為實際上僅限於 [建議圖表]。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正檢視動畫 GIF 時的回應問題。
+
+
+- 我們已修正當資料夾移至線上封存時，會導致同步處理視窗外的資料夾項目遺失的問題。
+
+
+- 我們已修正在將多個郵件項目從 [焦點] 移至 [其他] 收件匣，或從 [其他] 移至 [焦點] 收件匣時，導致郵件子集無法移動的問題。
+
+
+- 我們已修正當電子郵件寄件者也位於 [寄件者:] 或 [副本:] 行時，回覆共用信箱中的郵件會發生的問題。 使用者的電子郵件地址會從回覆上的收件者清單中移除，導致主要電子郵件寄件者未收到任何對話回覆。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與在套用 3D 屬性的形狀中選擇文字相關的問題。
+
+
+- 我們已修正與線上進階內容庫中選取項目相關的問題。
+
+
+- 我們已修正一個問題，以讓 [編輯] 檢視和 [簡報者] 檢視中的貼上行為一致。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正影響 Project 中自訂檢視顯示的問題。
+
+
+- 我們已修正執行 [另存為 PDF] 命令時未顯示進度線的問題。
+
+
+- 我們已修正使用者無法開啟特定專案的問題；應用程式會意外關閉。
+
+
+- 我們已修正在篩選中用作分隔符號的星號 (*) 導致錯誤和意外行為的問題；請用管線 (|) 取代。
+
+
+- 我們已修正應用程式在未完成資源撫平時停止回應的問題。
+
+
+- 我們已修正應用程式開啟不再可用的畫面，導致專案隱藏的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正與線上進階內容庫中選取項目相關的問題。
+
+
+- 我們已修正 SVG 檔案可能會顯示為中斷連結的問題。
+
+
+- 我們已修正在插入電子郵件時，畫面延遲為零的 GIF 無法以動畫顯示的問題。
+
+
+- 我們已修正在 Mac 上插入的註解和 Windows 上不同主題中顯示錯誤字型大小色彩的問題。
+
+
+- 我們已修正從 Excel 貼上表格並儲存篩選的 HTML 後，文字部分顏色變為白色的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-march-18"></a>版本 2204：3 月 18 日
 *版本 2204 (組建 15109.20000)*
@@ -5378,6 +5475,7 @@ ms.locfileid: "63660841"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
@@ -5387,5 +5485,4 @@ ms.locfileid: "63660841"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14901.20000|version-2202-january-07|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
