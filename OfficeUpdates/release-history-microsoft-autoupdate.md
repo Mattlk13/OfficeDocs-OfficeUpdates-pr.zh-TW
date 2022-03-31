@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: e6d91ba2304c95e83845a142eb610239e24c758a
-ms.sourcegitcommit: 59ede164e5738a9dbe5943875c1c1f5768f5a1c6
+ms.openlocfilehash: fdd9ddbe875528a9c84761a8e785686bcccc46a6
+ms.sourcegitcommit: cc8de7a95dd2c758eb4cab9c6e6791f2a585a115
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/16/2022
-ms.locfileid: "63511732"
+ms.lasthandoff: 03/29/2022
+ms.locfileid: "64520380"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -52,7 +52,7 @@ ms.locfileid: "63511732"
 <br/>
 **SHA-256 雜湊：**
 
-61E75D795A3527D9870AEBCE071DE9A1635020A8489AA6273FF6C1B97621DE09
+6FCECBDF0348B67D925CE55D85E7CB223178DF2B157D72FD14F76C30FD3FC324
 
 
 

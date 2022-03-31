@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 2c660d2931bb0ab4f5214bbaa1d301bb47f13025
-ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
+ms.openlocfilehash: f5f1fbb99865653d75d1a3849eff685c126ca44f
+ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63073618"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64561807"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,67 @@ ms.locfileid: "63073618"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="march-30-2022"></a>2022 年 3 月 30 日
+
+[//]: # (請勿移除內容始於 2022 年 3 月 30 日)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2203 (組建 15028.20160)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2202 (組建 14931.20132) <br/> |2022 年 3 月 8 日 <br/> |151<br/> |
+|版本 2202 (組建 14931.20120) <br/> |2022 年 2 月 28 日 <br/> |151<br/> |
+
+
+[//]: # (請勿移除內容結束於 March 2022 年 3 月 30 日)
+
+## <a name="march-8-2022"></a>2022 年 3 月 8 日
+
+[//]: # (請勿移除內容始於 2022 年 3 月 8 日)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2202 (組建 14931.20132)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2202 (組建 14931.20120) <br/> |2022 年 2 月 28 日 <br/> |48<br/> |
+|版本 2201 (組建 14827.20198) <br/> |2022 年 2 月 16 日 <br/> |166<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業頻道
+
+最新的發行版本是版本 2201 (組建 14827.20220)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2112 (組建 14729.20322) <br/> |2022 年 2 月 8 日 <br/> |195<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+最新的版本是版本 2202 (組建 14931.20132)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20784) <br/> |2022 年 2 月 8 日 <br/> |320<br/> |
+|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |505<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+最新的版本是版本 2108 (組建 14326.20852)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20784) <br/> |2022 年 2 月 8 日 <br/> |59<br/> |
+|版本 2108 (組建 14326.20738) <br/> |2022 年 1 月 11 日 <br/> |73<br/> |
+
+
+[//]: # (請勿移除內容結束於 2022 年 3 月 8 日)
 
 ## <a name="february-28-2022"></a>2022 年 2 月 28 日
 

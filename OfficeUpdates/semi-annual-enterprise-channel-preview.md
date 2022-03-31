@@ -9,16 +9,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 120217669c1e477f0b36557703ada6fbaf5b597e
-ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
+ms.openlocfilehash: be5e01668340a71ad8696d29ae5e5418eaaf4473
+ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63448926"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64561767"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
-這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。 
+
+新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
 
 
 ## <a name="version-2202-march-08"></a>版本 2202：3 月 8 日
@@ -1883,7 +1885,7 @@ ms.locfileid: "63448926"
 - 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
