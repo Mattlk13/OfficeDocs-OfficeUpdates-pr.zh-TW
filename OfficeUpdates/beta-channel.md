@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 072347f129eb44fbd98941d577d672a4e6e6f353
-ms.sourcegitcommit: 9627006b2ea1fefdc9d7d17ca146ac8c38b1dd5d
+ms.openlocfilehash: 3e1484bfa73e7044bb88ea81d237aafc4b1c3595
+ms.sourcegitcommit: dfa46cf69a80464d364701b7419c781a2e2a185d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64464384"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "64615483"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,45 @@ ms.locfileid: "64464384"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2204-april-01"></a>版本 2204：4 月 01 日
+*版本 2204 (組建 15128.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正導致 Excel 耗用過多記憶體的問題。
+
+
+### <a name="project"></a>專案
+
+- 我們已修正無法完全顯示甘特圖類型視圖的問題；當視圖對它套用繪圖物件時，可能會發生此情況。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正即時預覽使用的縮放層級低於設定的問題。
+
+
+- 我們已修正當開啟追蹤修訂時新增重複內容控制項時，應用程式有時會停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 SVG 檔案中顯示線條和填滿屬性的問題。
+
+
+- 我們已修正涉及動畫時間時，[錄製投影片放映] 無法運作的問題。
+
+
+- 我們已修正工作階段與 RDS 工作階段主機中斷連接的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-march-25"></a>版本 2204: 3 月 25 日
 *版本 2204 (組建 15121.20000)*
@@ -5475,6 +5514,7 @@ ms.locfileid: "64464384"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
@@ -5484,5 +5524,4 @@ ms.locfileid: "64464384"
 [//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14907.20000|version-2202-january-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

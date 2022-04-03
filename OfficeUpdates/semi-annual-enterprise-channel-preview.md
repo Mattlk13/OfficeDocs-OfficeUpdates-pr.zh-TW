@@ -9,18 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: be5e01668340a71ad8696d29ae5e5418eaaf4473
-ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
+ms.openlocfilehash: 560a032b649f6d760b7ba58f0633bc36b839e421
+ms.sourcegitcommit: 24baddd58caf55365e6003e47f8ace2680cc27a1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64561767"
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64537027"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
-這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。 
-
-新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。新功能或更新功能會於 3 月和 9 月的第二個星期二釋出至半年企業通道 (預覽)。
 
 
 ## <a name="version-2202-march-08"></a>版本 2202：3 月 8 日

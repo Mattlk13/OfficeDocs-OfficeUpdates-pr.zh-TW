@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4883794480980ac3039eb3310c41bec5417f99db
-ms.sourcegitcommit: e370601f76d3b9c47fee0a61d6dabe2a72624d23
+ms.openlocfilehash: 157b812f4827ae2c03c8b033ce9e6e34fcd0df8f
+ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/22/2022
-ms.locfileid: "63712180"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64561777"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,67 @@ ms.locfileid: "63712180"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2203-march-30"></a>版本 2203：3 月 30 日
+*版本 2203 (組建 15028.20160)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Power BI 資料集要求存取改進功能：** 此更新會在使用者嘗試在 Excel 中重新整理連線至目前無法存取之資料集的樞紐分析表時，提供一種方法來要求存取 Power BI 資料集。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用 [僅加密] 和 [不要轉寄]範本的訊息透過物件模型傳回未預期權限的問題。
+
+
+- 我們已修正會導致某些切換類型選項在使用雲端設定時同步處理錯誤的問題。
+
+
+- 我們已修正導致使用者在部分診斷案例中在 Outlook 預期停止回應的問題。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在其他應用程式中顯示內嵌 Excel 試算表的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+- 我們已修正在 Word 中 SVG 檔案可能會顯示為中斷連結的問題 (Red-X)。
+
+
+- 我們已修正導致共用行事曆在新增後處於未選取狀態的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Project 中顯示自訂檢視的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-march-21"></a>版本 2203: 3 月 21 日
 *版本 2203 (組建 15028.20094)*
@@ -44,7 +105,7 @@ ms.locfileid: "63712180"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量快速成長的問題。  在某些情況下，這可能會導致異常程式終止。
+- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
 
 
 ### <a name="excel"></a>Excel

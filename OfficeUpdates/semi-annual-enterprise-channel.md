@@ -9,18 +9,16 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 4a082c77c29a1a4be6161bf24f13d90897701bab
-ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
+ms.openlocfilehash: 9d930a7bce9f9f7543413a86d01b122b47379b86
+ms.sourcegitcommit: 24baddd58caf55365e6003e47f8ace2680cc27a1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64561787"
+ms.lasthandoff: 03/30/2022
+ms.locfileid: "64537037"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
-這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道更新。 
-
-半年期企業通道中的新功能或更新功能，一年會發行兩次 (在一月和七月的第二個星期二)。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道更新。 半年期企業通道中的新功能或更新功能，一年會發行兩次 (在一月和七月的第二個星期二)。
 
 > [!NOTE]
 >

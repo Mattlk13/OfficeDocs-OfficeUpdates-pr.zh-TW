@@ -6,15 +6,15 @@ manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
-localization_priority: Critical
+ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: ff7d67679df8cbc9ff3691788519ecde9035c6a3
-ms.sourcegitcommit: 1fcd427f8bd19b7a2e3b06af4e0d238c5d1c82c4
+ms.openlocfilehash: 4419cb5d65fcc2d961b8c664ae22137db6acf57d
+ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/08/2022
-ms.locfileid: "63073627"
+ms.lasthandoff: 03/31/2022
+ms.locfileid: "64561747"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,163 @@ ms.locfileid: "63073627"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2203-march-30"></a>版本 2203：3 月 30 日
+*版本 2203 (組建 15028.20160)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **想要活頁簿為您提供入門瀏覽指引嗎？：** 了解活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽。[深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正導致使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
+
+
+- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。  在某些情況下，這可能會導致異常程式終止。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正使用自訂命令列可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正復原的檔案以唯讀方式開啟的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用 [僅加密] 和 [不要轉寄] 範本的訊息透過物件模型傳回非預期的權限的問題。
+
+
+- 我們已修正在使用雲端設定時，導致某些切換類型選項進行錯誤同步處理的問題。
+
+
+- 我們已修正導致「索引過期」訊息太常顯示的問題。
+
+
+- 我們已修正導致在部分診斷案例中，使用者在 Outlook 中預期停止回應的問題。
+
+
+- 我們已修正將多個訊息項目從 [焦點] 移至 [其他] 或從 [其他] 移至 [焦點] 時，導致使用者只看到訊息子集移動的問題。
+
+
+- 進行了一項資料變更，在英國行事曆中包含了新的英國假日。
+
+
+- 我們已修正啟用 REST 共用行事曆功能時，已移除的共用行事曆會再次出現的問題。
+
+
+- 我們已修正在某些情況下，導致 Outlook 在關機期間意外關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當使用者無法開啟專案時，導致應用程式意外關閉的問題。
+
+
+- 我們已修正應用程式在未完成資源撫平時停止回應的問題。
+
+
+- 我們已修正遮罩分隔符號與清單分隔符號相符時，會使用星號 (*) 的問題。 在篩選器中 * 用於規則運算式，如果其包含值，就會導致錯誤和意外行為。 管道 (|) 現在已使用。
+
+
+- 我們已修正應用程式開啟不再可用的畫面，導致專案隱藏的問題。
+
+
+- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在其他應用程式中顯示內嵌 Excel 試算表的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+- 我們已修正 Word 中 SVG 檔案可能會顯示為中斷連結 (Red-X) 的問題。
+
+
+- 我們已修正導致共用行事曆在新增後處於未選取狀態的問題。
+
+
+- 我們已修正當開啟具有數千個追蹤變更的 Word 檔時的效能問題。
+
+
+- 我們已修正傳送電子郵件通知給留言已獲得其他使用者回覆的使用者時的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正導致連絡人卡片無法適當顯示的問題。
+
+
+- 我們已修正影響在 Project 中自訂檢視顯示的問題。
+
+
+- 我們已修正在啟動或錄製投影片放映時，與 Power BI 控制項和表單做為投影片內容相關的穩定性問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2202-march-08"></a>版本 2202：3 月 8 日
+*版本 2202 (組建 14931.20132)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正會造成使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
+
+
+- 我們已修正導致較新版本的 Viva Insights 增益集載入效率較低的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者在切換資料夾時因檢視設定損毀而出現效能問題之問題。
+
+
+- 我們已修正在預期自訂圖示時，會針對附加的郵件顯示預設圖示的問題。
+
+
+- 我們已修正會導致成員資格清單無法針對連絡人卡片顯示的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修復此問題：使用者現在可以順利插入圖表，而不會出現應用程式意外關閉的任何問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-february-28"></a>版本 2202：2 月 28 日
 *版本 2202 (組建 14931.20120)*
@@ -79,7 +236,7 @@ ms.locfileid: "63073627"
 
 - **新增至人員設定檔的本地時間:** 您現在可以知道您要共同合作之人員的本地時間。
 
-- **Microsoft Teams：「職涯教練」- 工作市場趨勢:** 教職員和教職員工授權擁有者現在可以在「職涯教練」中查看地區性的工作市場趨勢。 這種體驗是由 LinkedIn 員工聘用資料所提供。
+- **Microsoft Teams：「職涯教練」- 工作市場趨勢:** 教職員工授權擁有者現在可以在「職涯教練」中查看地區性的工作市場趨勢。此體驗是由 LinkedIn 員工聘用資料所提供。
 
 - **Teams 表情圖示與反應將加入新的 Fluent 表情圖示樣式：** Teams 將加入 M365 和 Windows，將所有的表情圖示和反應更新至新的 Microsoft Fluent 表情圖示樣式，讓使用者的表情圖示體驗更生動豐富。
 
@@ -113,7 +270,7 @@ ms.locfileid: "63073627"
 - 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
 
 
-- 我們已修正導致螢幕閱讀器無法存取特定的智慧連結註標的問題。
+- 我們已修正導致螢幕助讀程式無法存取特定的 [智慧連結] 圖說文字上的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -472,7 +629,7 @@ ms.locfileid: "63073627"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -546,7 +703,7 @@ ms.locfileid: "63073627"
 - 我們已修正當使用者將原始直向和較大的紙張大小文件變更為較小的紙張大小 (例如，從 Letter 變更為 A5) 時，其列印可能會遭到截斷 (遺失資料) 的問題。
 
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 我們已修正在 Project 中重新排程工作時，手動排程的工作可能會早於其預定排程時間的問題。
 
@@ -1976,7 +2133,7 @@ ms.locfileid: "63073627"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -2286,7 +2443,7 @@ ms.locfileid: "63073627"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2322,6 +2479,8 @@ ms.locfileid: "63073627"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
+[//]: # (|Win32|CC|Production| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|CC|Production| |16.0.14931.20120|version-2202-february-28|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20198|version-2201-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
@@ -2330,6 +2489,4 @@ ms.locfileid: "63073627"
 [//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20254|version-2112-january-11|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20250|version-2112-january-11|)
-[//]: # (|Win32|CC|Production| |16.0.14729.20194|version-2112-january-04|)
-[//]: # (|Win32|CC|Production| |16.0.14701.20262|version-2111-december-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
