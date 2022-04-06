@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: 966bc9ff146608f75b2e799b5f0dfb74c3bc72fa
-ms.sourcegitcommit: 6a1eea905f62769760b75bfa21201b0fcbfb4009
+ms.openlocfilehash: b6e3bfa4e9f42622193c2c2d5fd39746d0dcfa48
+ms.sourcegitcommit: 769be997735f1a3362ef3357dc0862247852e6dc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/20/2021
-ms.locfileid: "60516143"
+ms.lasthandoff: 04/04/2022
+ms.locfileid: "64637167"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -46,6 +46,8 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 |不適用  <br/> |2017 年 11 月 PU <br/>[KB4011240](https://support.microsoft.com/help/4011240) <br/> |2021 年 10 月 PU <br/>[KB5001998](https://support.microsoft.com/help/5001998) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
+> [!IMPORTANT]
+> 我們將於 2023 年 4 月 11 日終止對 Office 2013 的支援。 如果您尚未開始將 Office 2013 環境升級至較新的 Office 版本，建議您立即開始。 如需詳細資訊，請參閱 [規劃從 Office 的舊版本升級至 Microsoft 365 Apps](/deployoffice/endofsupport/plan-upgrade-older-versions-office)。 
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
@@ -53,7 +55,7 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010 更新
 > [!IMPORTANT]
-> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。
+> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|

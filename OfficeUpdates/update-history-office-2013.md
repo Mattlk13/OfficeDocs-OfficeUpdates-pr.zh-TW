@@ -9,14 +9,16 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 0912c6a9b759b3825dcbfa4dda65cedcce2356af
-ms.sourcegitcommit: 4f55fc6f036124a1aef0a2db21ded7f275c3e73a
+ms.openlocfilehash: 92148b1682f2805d1110a6623355395f221ddb0b
+ms.sourcegitcommit: 769be997735f1a3362ef3357dc0862247852e6dc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/09/2022
-ms.locfileid: "63391139"
+ms.lasthandoff: 04/04/2022
+ms.locfileid: "64637187"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
+> [!IMPORTANT]
+> 我們將於 2023 年 4 月 11 日終止對 Office 2013 的支援。 如果您尚未開始將 Office 2013 環境升級至較新的 Office 版本，建議您立即開始。 如需詳細資訊，請參閱 [規劃從 Office 的舊版本升級至 Microsoft 365 Apps](/deployoffice/endofsupport/plan-upgrade-older-versions-office)。 
 
 特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
   

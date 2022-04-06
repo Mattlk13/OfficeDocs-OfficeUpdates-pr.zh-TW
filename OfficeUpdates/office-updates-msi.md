@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新更新資訊連結
-ms.openlocfilehash: 1eaeb48d0b9329174b5657add6c87fbf9fc0ed1c
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+ms.openlocfilehash: 4fd30c07d0db5a55a2dc7aa988bd334dd669aded
+ms.sourcegitcommit: 769be997735f1a3362ef3357dc0862247852e6dc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466053"
+ms.lasthandoff: 04/04/2022
+ms.locfileid: "64637177"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -31,17 +31,19 @@ ms.locfileid: "62466053"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2022 年 2 月 PU  <br/> [KB5002073](https://support.microsoft.com/help/5002073) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2022 年 3 月 PU  <br/> [KB5002074](https://support.microsoft.com/help/5002074) <br/> |
 
 ## <a name="office-2013-updates"></a>Office 2013 更新
+> [!IMPORTANT]
+> 我們將於 2023 年 4 月 11 日終止對 Office 2013 的支援。 如果您尚未開始將 Office 2013 環境升級至較新的 Office 版本，建議您立即開始。 如需詳細資訊，請參閱 [規劃從 Office 的舊版本升級至 Microsoft 365 Apps](/deployoffice/endofsupport/plan-upgrade-older-versions-office)。 
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 2 月 PU  <br/> [KB5002073](https://support.microsoft.com/help/5002073) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 3 月 PU  <br/> [KB5002074](https://support.microsoft.com/help/5002074) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 > [!IMPORTANT]
-> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如果您尚未開始升級您的 Office 2010 環境，建議您立即開始。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。 
+> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。 
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
@@ -50,6 +52,8 @@ ms.locfileid: "62466053"
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月發行的更新
+[2022 年 3 月的安全性和非安全性更新：KB5002074](https://support.microsoft.com/help/5002074)
+
 [2022 年 2 月的安全性與非安全性更新：KB5002073](https://support.microsoft.com/help/5002073)
 
 [2022 年 1 月的安全性和非安全性更新：KB5001970](https://support.microsoft.com/help/5001970)
@@ -62,7 +66,6 @@ ms.locfileid: "62466053"
 
 [2021 年 9 月的安全性和非安全性更新：KB5001966](https://support.microsoft.com/help/5001966)
 
-
 [2021 年 8 月的安全性和非安全性更新：KB5001965](https://support.microsoft.com/help/5001965)
 
 [2021 年 7 月的安全性和非安全性更新：KB5001964](https://support.microsoft.com/help/5001964)
@@ -72,24 +75,6 @@ ms.locfileid: "62466053"
 [2021 年 5 月的安全性和非安全性更新：KB5003427](https://support.microsoft.com/help/5003427)
 
 [2021 年 4 月的安全性和非安全性更新：KB5001778](https://support.microsoft.com/help/5001778)
-
-[2021 年 3 月的安全性和非安全性更新：KB5000635](https://support.microsoft.com/help/5000635)
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
 
 
 </br>

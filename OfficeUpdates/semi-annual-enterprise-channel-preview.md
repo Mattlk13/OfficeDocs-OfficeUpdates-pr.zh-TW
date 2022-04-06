@@ -9,16 +9,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 560a032b649f6d760b7ba58f0633bc36b839e421
-ms.sourcegitcommit: 24baddd58caf55365e6003e47f8ace2680cc27a1
-ms.translationtype: HT
+ms.openlocfilehash: e2f51b80faa519660d73e35a5065177560b960bd
+ms.sourcegitcommit: 5269bb4e3c7607e1396ed9ec9eee0124c66a88c4
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2022
-ms.locfileid: "64537027"
+ms.lasthandoff: 04/05/2022
+ms.locfileid: "64651049"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
-這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。新功能或更新功能會於 3 月和 9 月的第二個星期二釋出至半年企業通道 (預覽)。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。 
+
+新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
 
 
 ## <a name="version-2202-march-08"></a>版本 2202：3 月 8 日
@@ -38,8 +40,6 @@ ms.locfileid: "64537027"
 - **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
 - **敏感度標籤稽核記錄**：現在當使用者在文件和電子郵件上套用、變更或移除敏感度標籤時，系統就會將該資訊提供給 Microsoft 365 稽核記錄中的系統管理員使用。
-
-- **連結資料類型：實際生活中的真實資料：** 新的連結資料類型會提供有關數百個主題的事實和資料，幫助您直接在 Excel 中達成目標。
 
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
@@ -82,6 +82,8 @@ ms.locfileid: "64537027"
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 - **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+
+- **從 PowerPoint 到 Teams 進行展示：** PowerPoint 應用程式直接透過 PowerPoint Live 將您的幻燈片展示到 Teams 會議。
 
 ### <a name="word"></a>Word
 
@@ -1883,7 +1885,7 @@ ms.locfileid: "64537027"
 - 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
