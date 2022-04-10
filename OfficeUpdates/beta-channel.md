@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3e1484bfa73e7044bb88ea81d237aafc4b1c3595
-ms.sourcegitcommit: dfa46cf69a80464d364701b7419c781a2e2a185d
+ms.openlocfilehash: 53059f21d56a405324de0e88d9837aea6a4a0c5f
+ms.sourcegitcommit: 850849354157247c0cee8d84ffb4ccc68e8b2657
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "64615483"
+ms.lasthandoff: 04/09/2022
+ms.locfileid: "64743899"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,53 @@ ms.locfileid: "64615483"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2205-april-08"></a>版本 2205: 4 月 8 日
+*版本 2205 (組建 15130.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正使用 IVS 字元的語言可能會發生非預期分行符號的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在某些下拉式功能表中選取選取項目後，無法顯示或看不到的問題，特別是在深灰色主題中。
+
+
+- 我們已修正類似但不同的影像可能無法正確處理的問題。
+
+
+- 我們已修正嘗試瀏覽至儲存在 SharePoint 中的文件時可能會造成錯誤的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在某些下拉式功能表中選取選取項目後，無法顯示或看不到的問題，特別是在深灰色主題中。
+
+
+- 我們已修正類似但不同的影像可能無法正確處理的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在某些下拉式功能表中選取選取項目後，無法顯示或看不到的問題，特別是在深灰色主題中。
+
+
+- 我們已修正類似但不同的影像可能無法正確處理的問題。
+
+
+- 我們已修正合併衝突警示未提供捨棄目前變更的選項的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正大聲朗讀會導致應用程式意外關閉的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-april-01"></a>版本 2204：4 月 01 日
 *版本 2204 (組建 15128.20000)*
@@ -5514,6 +5561,7 @@ ms.locfileid: "64615483"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
@@ -5523,5 +5571,4 @@ ms.locfileid: "64615483"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14912.20000|version-2202-january-21|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
