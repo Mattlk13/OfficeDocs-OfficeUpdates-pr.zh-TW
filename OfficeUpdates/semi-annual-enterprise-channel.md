@@ -9,16 +9,18 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 9d930a7bce9f9f7543413a86d01b122b47379b86
-ms.sourcegitcommit: 24baddd58caf55365e6003e47f8ace2680cc27a1
+ms.openlocfilehash: 3bd841732d7aea8e4ee72d192935b729d5a54bdb
+ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2022
-ms.locfileid: "64537037"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64804470"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
-這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道更新。 半年期企業通道中的新功能或更新功能，一年會發行兩次 (在一月和七月的第二個星期二)。
+這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道更新。 
+
+半年期企業通道中的新功能或更新功能，一年會發行兩次 (在一月和七月的第二個星期二)。
 
 > [!NOTE]
 >
@@ -27,6 +29,75 @@ ms.locfileid: "64537037"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2108-april-12"></a>版本 2108: 4 月 12 日
+*版本 2108 (組建 14326.20910)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正使用自訂命令列可能會導致 Excel 意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正從 C2R 安裝之 PowerPoint 在 [資訊] | [屬性] | [進階屬性] 對話方塊中顯示公司資訊的問題。
+
+
+- 我們已修正在初始修改之後，PowerPoint 簡報無法使用/開啟插入為物件的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 此問題已在最新版中解決。 使用者可以繼續順暢地將圖表插入檔案中，而不會發生意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在初始修改之後，PowerPoint 簡報無法使用/開啟插入為物件的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用者開啟另一個使用者鎖定的不可共同撰寫檔案時的問題。 Office 用戶端未通知檔案已鎖定，且使用者可以編輯檔案。 編輯檔案已導致使用者無法上傳。 Office 用戶端現在會提示使用者檔案目前已鎖定，且使用者將無法更新檔案。
+
+- 我們已修正包含資料夾名稱開頭為「fl」的超連結 (例如 https://example.com/flight/index.htm) 無法從 Office 桌面應用程式開啟的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-april-12"></a>版本 2102：4 月 12 日
+*版本 2102 (組建 13801.21278)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 進行了一項資料變更，在英國行事曆中包含了新的英國假日。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正將圖表或特定增強型中繼檔插入 Visio 繪圖，或開啟包含圖表或特定增強型中繼檔的 Visio 繪圖時，Visio 突然關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2108-march-08"></a>版本 2108：3 月 08 日
 *版本 2108 (組建 14326.20852)*
@@ -2789,6 +2860,7 @@ ms.locfileid: "64537037"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14326.20910|version-2108-april-12|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20734|version-2108-january-11|)
@@ -2798,5 +2870,4 @@ ms.locfileid: "64537037"
 [//]: # (|Win32|DC|Production| |16.0.13801.21050|version-2102-november-09|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
 [//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
-[//]: # (|Win32|DC|Production| |16.0.13801.20864|version-2102-august-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

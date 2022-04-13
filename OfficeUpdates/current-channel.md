@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 4419cb5d65fcc2d961b8c664ae22137db6acf57d
-ms.sourcegitcommit: e274bf5f8a436b063f6f65aaaffe28388f999376
+ms.openlocfilehash: 1e8244fcca334fd6fc3ab8a9c3a520ed3e1f2a74
+ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/31/2022
-ms.locfileid: "64561747"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64804720"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,37 @@ ms.locfileid: "64561747"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2203-april-12"></a>版本 2203：4 月 12 日
+*版本 2203 (組建 15028.20204)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致「移至其他」功能停止正常運作的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正字型下拉式清單無法正確反映圖形中選取的字型的問題。
+
+
+- 我們已修正 Direct2D 和 Direct3D 互通性的多執行緒相關問題。
+
+
+- 我們已修正錄製投影片放映時的穩定性問題。
+
+
+- 我們已修正停止錄製投影片放映時的穩定性問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-march-30"></a>版本 2203：3 月 30 日
 *版本 2203 (組建 15028.20160)*
@@ -60,7 +91,7 @@ ms.locfileid: "64561747"
 - 我們已修正導致使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
 
 
-- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。  在某些情況下，這可能會導致異常程式終止。
+- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
 
 
 ### <a name="excel"></a>Excel
@@ -76,7 +107,7 @@ ms.locfileid: "64561747"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正使用 [僅加密] 和 [不要轉寄] 範本的訊息透過物件模型傳回非預期的權限的問題。
+- 我們已修正使用 [僅加密] 和 [不要轉寄]範本的訊息透過物件模型傳回未預期權限的問題。
 
 
 - 我們已修正在使用雲端設定時，導致某些切換類型選項進行錯誤同步處理的問題。
@@ -130,7 +161,7 @@ ms.locfileid: "64561747"
 - 我們已修正顯示某些 SVG 檔案的問題。
 
 
-- 我們已修正 Word 中 SVG 檔案可能會顯示為中斷連結 (Red-X) 的問題。
+- 我們已修正在 Word 中 SVG 檔案可能會顯示為中斷連結的問題 (Red-X)。
 
 
 - 我們已修正導致共用行事曆在新增後處於未選取狀態的問題。
@@ -629,7 +660,7 @@ ms.locfileid: "64561747"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -2443,7 +2474,7 @@ ms.locfileid: "64561747"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2479,6 +2510,7 @@ ms.locfileid: "64561747"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|CC|Production| |16.0.14931.20120|version-2202-february-28|)
@@ -2488,5 +2520,4 @@ ms.locfileid: "64561747"
 [//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20254|version-2112-january-11|)
-[//]: # (|Win32|CC|Production| |16.0.14729.20250|version-2112-january-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

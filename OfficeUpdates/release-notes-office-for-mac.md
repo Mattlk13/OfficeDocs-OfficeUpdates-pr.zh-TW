@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 1bab3556d40688e1e0240c9566beef586622e361
-ms.sourcegitcommit: 59ede164e5738a9dbe5943875c1c1f5768f5a1c6
+ms.openlocfilehash: fd1d5226031309b750ad9dbbf9548385fa74902d
+ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/16/2022
-ms.locfileid: "63511745"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64804510"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -46,6 +46,38 @@ ms.locfileid: "63511745"
 
 
 
+
+
+
+## <a name="april-12-2022"></a>2022 年 4 月 12 日
+*版本 16.60 (組建 22041000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **享受改良的搜尋體驗：** 在更新的 [尋找] 工具中，為您的搜尋取得更廣泛的一組結果。<br />在[部落格文章](https://insider.office.com/en-us/blog/find-all-in-excel-for-mac)中查看詳細資料
+
+
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2022-26901](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-26901)
+-   [CVE-2022-24473](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-24473)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="march-15-2022"></a>2022 年 3 月 15 日
 *版本 16.59 (組建 22031300)*
