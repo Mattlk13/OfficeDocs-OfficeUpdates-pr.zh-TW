@@ -1,6 +1,6 @@
 ---
 title: 2018 年每月通道版本的版本資訊
-ms.author: anankani
+ms.author: dacoulte
 author: andymosten
 manager: anankani
 ms.date: 3/19/2019
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: bf444a8e02c9f113791c34f2ff63b8f5ea46305d
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273394"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825707"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 

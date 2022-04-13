@@ -1,32 +1,32 @@
 ---
-title: 2017中每月通道版本的版本資訊
-ms.author: anankani
-author: andymosten
-manager: anankani
+title: 2017 年每月通道版本的版本資訊
+ms.author: dacoulte
+author: reids
+manager: reids
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供2017中 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+description: 為 IT 專業人員提供 2017 年 Office 365 專業增強版 每月通道版本的版本資訊
+ms.openlocfilehash: aa4e37f199738de425836b608b8abe600e01ba81
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273396"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825667"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017中每月通道版本的版本資訊
+# <a name="release-notes-for-monthly-channel-releases-in-2017"></a>2017 年每月通道版本的版本資訊
 
-這些版本資訊會提供2017中 Office 365 專業增強版每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊提供 2017 年每月通道更新中包含的新功能、安全性更新和非安全性更新Office 365 專業增強版相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 每月通道的名稱為目前通道9月2017日前。
+> - 每月通道在 2017 年 9 月之前命名為目前通道。
 
-## <a name="version-1711-december-12"></a>版本1711：12月12日
+## <a name="version-1711-december-12"></a>版本 1711：12 月 12 日
 *版本 1711 (組建 8730.2127)*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
@@ -37,7 +37,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1711-december-6"></a>版本1711：12月6日
+## <a name="version-1711-december-6"></a>版本 1711：12 月 6 日
 *版本 1711 (組建 8730.2122)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -75,7 +75,7 @@ ms.locfileid: "59273396"
 -   當啟用 Office COM 物件，讓 Office 365 用戶端更新由 Configuration Manager 管理，[立即更新] 選項會在 [檔案] \> [帳戶] \> [更新選項] 中隱藏。
 
 
-## <a name="version-1710-november-27"></a>版本1710：11月27日
+## <a name="version-1710-november-27"></a>版本 1710：11 月 27 日
 *版本 1710 (組建 8625.2139)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -86,7 +86,7 @@ ms.locfileid: "59273396"
 -   修正此問題：當使用者嘗試使用 [啟動 Office] 對話方塊來啟動 Office 時，Office 應用程式會當機。
 
 
-## <a name="version-1710-november-20"></a>版本1710：11月20日
+## <a name="version-1710-november-20"></a>版本 1710：11 月 20 日
 *版本 1710 (組建 8625.2132)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -109,7 +109,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1710-november-14"></a>版本1710：11月14日
+## <a name="version-1710-november-14"></a>版本 1710：11 月 14 日
 *版本 1710 (組建 8625.2127)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -128,7 +128,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1710-november-2"></a>版本1710：11月2日
+## <a name="version-1710-november-2"></a>版本 1710：11 月 2 日
 *版本 1710 (組建 8625.2121)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -174,7 +174,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1709-october-25"></a>版本1709：10月25日
+## <a name="version-1709-october-25"></a>版本 1709：10 月 25 日
 *版本 1709 (組建 8528.2147)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -198,7 +198,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1709-october-16"></a>版本1709：10月16日
+## <a name="version-1709-october-16"></a>版本 1709：10 月 16 日
 *版本 1709 (組建 8528.2139)*
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
@@ -225,7 +225,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1708-october-10"></a>版本1708：10月10日
+## <a name="version-1708-october-10"></a>版本 1708：10 月 10 日
 *版本 1708 (組建 8431.2107)*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
@@ -240,7 +240,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1708-october-4"></a>版本1708：10月4日
+## <a name="version-1708-october-4"></a>版本 1708：10 月 4 日
 *版本 1708 (組建 8431.2094)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -278,7 +278,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1708-september-18"></a>版本1708：9月18日
+## <a name="version-1708-september-18"></a>版本 1708：9 月 18 日
 *版本 1708 (組建 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -347,7 +347,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-september-12"></a>版本1707：9月12日
+## <a name="version-1707-september-12"></a>版本 1707：9 月 12 日
 *版本 1707 (組建 8326.2107)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -376,7 +376,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-august-29"></a>版本1707：8月29日
+## <a name="version-1707-august-29"></a>版本 1707：8 月 29 日
 *版本 1707 (組建 8326.2096)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
@@ -384,7 +384,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-august-24"></a>版本1707：8月24日
+## <a name="version-1707-august-24"></a>版本 1707：8 月 24 日
 *版本 1707 (組建 8326.2087)*
 
 ### <a name="visio-non-security-updates"></a>Visio：非安全性更新
@@ -397,7 +397,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-august-18"></a>版本1707：8月18日
+## <a name="version-1707-august-18"></a>版本 1707：8 月 18 日
 *版本 1707 (組建 8326.2076)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -410,7 +410,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-august-11"></a>版本1707：八月11
+## <a name="version-1707-august-11"></a>版本 1707：8 月 11 日
 *版本 1707 (組建 8326.2073)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -418,7 +418,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-august-7"></a>版本1707：八月7
+## <a name="version-1707-august-7"></a>版本 1707：8 月 7 日
 *版本 1707 (組建 8326.2070)*
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
@@ -426,7 +426,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-july-31"></a>版本1707：7月31日
+## <a name="version-1707-july-31"></a>版本 1707：7 月 31 日
 *版本 1707 (組建 8326.2062)*
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
@@ -434,7 +434,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-july-28"></a>版本1707：7月28日
+## <a name="version-1707-july-28"></a>版本 1707：7 月 28 日
 *版本 1707 (組建 8326.2059)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
@@ -442,7 +442,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1707-july-27"></a>版本1707：7月27日
+## <a name="version-1707-july-27"></a>版本 1707：7 月 27 日
 *版本 1707 (組建 8326.2058)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -451,7 +451,7 @@ ms.locfileid: "59273396"
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
 -   **共同作業編輯：** 在您的活頁簿中與他人同時作業。 [詳細資訊](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
--   **AutoSave：** 變更會自動儲存在雲端儲存的活頁簿中，您可以在幾秒內看到其他人的更新。 [詳細資訊](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+-   **自動儲存：** 對於儲存在雲端中的活頁簿，系統會自動儲存變更，而且您可以在幾秒內看到其他人的更新。 [詳細資訊](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 -   **有用的聲音可改善協助工具：** 開啟音訊提示可在作業時一面引導您。可在 [檔案] \> [選項] \> [輕鬆存取] 中找到此功能。無需增益集。 [詳細資訊](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **依帳戶的檔案位置：** 開啟或儲存檔案時，位置清單會依照與其相關聯的帳戶整理。
 
@@ -500,7 +500,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1706-july-19"></a>版本1706：7月19日
+## <a name="version-1706-july-19"></a>版本 1706：7 月 19 日
 *版本 1706 (組建 8229.2103)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -519,7 +519,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1706-july-13"></a>版本1706：7月13日
+## <a name="version-1706-july-13"></a>版本 1706：7 月 13 日
 *版本 1706 (組建 8229.2086)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -531,7 +531,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1706-june-28"></a>版本1706：6月28日
+## <a name="version-1706-june-28"></a>版本 1706：6 月 28 日
 *版本 1706 (組建 8229.2073)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -566,7 +566,7 @@ ms.locfileid: "59273396"
 - **畫筆自訂：** 針對筆跡選擇畫筆和螢光筆的個人集合。您的自訂集可在您所有的 Windows 電腦上使用。
 - **插入線上圖片：** 用以選取影像和屬性資訊的新登陸頁面會隨著影像自動插入。
 
-## <a name="version-1705-june-13"></a>版本1705：6月13日
+## <a name="version-1705-june-13"></a>版本 1705：6 月 13 日
 *版本 1705 (組建 8201.2102)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -592,7 +592,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1705-june-7"></a>版本1705：6月7日
+## <a name="version-1705-june-7"></a>版本 1705：6 月 7 日
 *版本 1705 (組建 8201.2075)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -648,7 +648,7 @@ ms.locfileid: "59273396"
 -   **Alt 文字建立︰** 雲端式服務會自動為文件中的圖片產生替代文字 (Alt 文字)。
 -   **Windows 資訊保護 (WIP) 支援：** Word 現在是已啟用的應用程式，而且可以區別公司與個人資料，根據設定的原則來正確判斷要保護的資料。 [詳細資訊](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
-## <a name="version-1704-june-1"></a>版本1704：6月1日
+## <a name="version-1704-june-1"></a>版本 1704：6 月 1 日
 *版本 1704 (組建 8067.2157)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -659,7 +659,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1704-may-18"></a>版本1704：5月18日
+## <a name="version-1704-may-18"></a>版本 1704：5 月 18 日
 *版本 1704 (組建 8067.2115)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -719,7 +719,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1703-may-9"></a>版本1703：9月9日
+## <a name="version-1703-may-9"></a>版本 1703：5 月 9 日
 *版本 1703 (組建 7967.2161)*
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
@@ -736,7 +736,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1703-april-21"></a>版本1703：四月21
+## <a name="version-1703-april-21"></a>版本 1703：4 月 21 日
 *版本 1703 (組建 7967.2139)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -791,7 +791,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1702-april-11"></a>版本1702：四月11
+## <a name="version-1702-april-11"></a>版本 1702：4 月 11 日
 *版本 1702 (組建 7870.2038)*
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
@@ -803,7 +803,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1702-march-27"></a>版本1702：3月27日
+## <a name="version-1702-march-27"></a>版本 1702：3 月 27 日
 *版本 1702 (組建 7870.2031)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -817,7 +817,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1702-march-14"></a>版本1702：3月14日
+## <a name="version-1702-march-14"></a>版本 1702：3 月 14 日
 *版本 1702 (組建 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -831,7 +831,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1702-march-9"></a>版本1702：3月9日
+## <a name="version-1702-march-9"></a>版本 1702：3 月 9 日
 *版本 1702 (組建 7870.2020)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -910,7 +910,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1701-february-23"></a>版本1701：2月23日
+## <a name="version-1701-february-23"></a>版本 1701：2 月 23 日
 *版本 1701 (組建 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -935,7 +935,7 @@ ms.locfileid: "59273396"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **Windows 通知樣式︰** 來電和交談的通知外觀變更。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **顧問式轉接：** 從來電內，在轉接呼叫到該使用者之前，透過 IM 或來電與其他使用者聯繫。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **傳送任務：** 從通話中，透過 IM 或來電洽詢另一位使用者，然後再將通話轉移給該使用者。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麥克風通知︰** 當麥克風在作業系統中處於靜音狀態，或如果麥克風未挑選任何音訊，則在交談視窗中顯示通知。
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
@@ -972,7 +972,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1612-january-31"></a>版本1612：1月31日
+## <a name="version-1612-january-31"></a>版本 1612：1 月 31 日
 *版本 1612 (組建 7668.2074)*
 
 ### <a name="onedrive-for-business-non-security-updates"></a>商務用 OneDrive：非安全性更新
@@ -983,7 +983,7 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1612-january-25"></a>版本1612：1月25日
+## <a name="version-1612-january-25"></a>版本 1612：1 月 25 日
 *版本 1612 (組建 7668.2066)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -1043,7 +1043,7 @@ ms.locfileid: "59273396"
 -   修正此問題：使用 Polycom CX100 裝置通話時，未偵測到麥克風。
 -   修正此問題：在 IM 訊息中擇類似 \\\\servername 或 file:// 的連結時，會導致錯誤訊息而不會開啟位置。
 -   修正此問題：在使用位置型路由的虛擬桌面基礎結構 (VDI) 環境中，使用者無法進行或接收 PSTN 通話，因為伺服器認為使用者位置不是有效的 PSTN 通話位置。
--   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向您傳送郵件時的商務用 Skype] 時，變更已錯過郵件之電子郵件的主旨行 \<Name\> 。
+-   當使用者的狀態設定為 [不打擾] 或 [簡報] 時，將針對遺漏郵件傳送的電子郵件主旨行變更為 [使用 \<name\> 遺漏的交談] 變更為 [ \<Name\> 在商務用 Skype中傳送郵件給您]。
 -   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
 
 ### <a name="visio-feature-updates"></a>Visio：功能更新
@@ -1062,10 +1062,10 @@ ms.locfileid: "59273396"
 
 
 
-## <a name="version-1611-january-4"></a>版本1611：年1月4日
+## <a name="version-1611-january-4"></a>版本 1611：1 月 4 日
 *版本 1611 (組建 7571.2109)*
 
-附注： Microsoft 安全佈告欄中所涵蓋的安全性更新 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) 不適用於此通道版本中的 Word 版本。
+注意：Microsoft 安全性佈告欄 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) 中涵蓋的安全性更新不適用於此通道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：儲存為 CSV 或 CSV UTF-8 格式時，無法正確匯出有文字的儲存格值和雙引號。

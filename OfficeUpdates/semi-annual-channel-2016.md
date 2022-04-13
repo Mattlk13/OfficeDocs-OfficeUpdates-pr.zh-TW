@@ -1,6 +1,6 @@
 ---
-title: 2016中 Semi-Annual 通道版本的發行附注
-ms.author: anankani
+title: 2016 年 Semi-Annual 通道版本的版本資訊
+ms.author: dacoulte
 author: andymosten
 manager: anankani
 ms.date: 12/13/2016
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供2016中 Office 365 專業增強版 Semi-Annual 通道版本的版本資訊
-ms.openlocfilehash: 2d0ac553e966ae4bc4f2ccaced99a2a8a77d9dbbb73e2d4ed5d769813663313e
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+description: 為 IT 專業人員提供 2016 年 Office 365 專業增強版 Semi-Annual 通道版本的版本資訊
+ms.openlocfilehash: 025eb4867db62d958940b47be8e01e7a588b3ddf
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522291"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825447"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016中 Semi-Annual 通道版本的發行附注
+# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>2016 年 Semi-Annual 通道版本的版本資訊
 
-這些版本資訊會提供2016中 Office 365 專業增強版 Semi-Annual 通道更新中所包含之新功能、安全性更新和非安全性更新的相關資訊。 
+這些版本資訊提供 2016 年Office 365 專業增強版Semi-Annual通道更新中包含的新功能、安全性更新和非安全性更新的相關資訊。 
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
 > - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
 
 
-## <a name="version-1605-december-13"></a>版本1605：12月13日
+## <a name="version-1605-december-13"></a>版本 1605：12 月 13 日
 *版本 1605 (組建 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -41,10 +41,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-december-13"></a>版本1602：12月13日
+## <a name="version-1602-december-13"></a>版本 1602：12 月 13 日
 *版本 1602 (組建 6741.2098)*
 
-*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本 1605 (組建 6965.2115) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 6 月起提供的延遲通道版本。它將繼續受到支援並接收安全性更新，直到 2017 年 2 月為止。但是，新的延遲通道版本現已推出 — 版本 1605 (組建 6965.2115) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 的安全性更新 (3204068)
@@ -54,7 +54,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1605-november-8"></a>版本1605：11月8日
+## <a name="version-1605-november-8"></a>版本 1605：11 月 8 日
 *版本 1605 (組建 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -68,10 +68,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-november-8"></a>版本1602：11月8日
+## <a name="version-1602-november-8"></a>版本 1602：11 月 8 日
 *版本 1602 (組建 6741.2088)*
 
-*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本 1605 (組建 6965.2105) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 6 月起提供的延遲通道版本。它將繼續受到支援並接收安全性更新，直到 2017 年 2 月為止。但是，新的延遲通道版本現已推出 — 版本 1605 (組建 6965.2105) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133)：Microsoft Office 的安全性更新 (3199168)
@@ -81,7 +81,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1605-october-11"></a>版本1605：10月11日
+## <a name="version-1605-october-11"></a>版本 1605：10 月 11 日
 *版本 1605 (組建 6965.2092)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -89,7 +89,7 @@ ms.locfileid: "54522291"
 -   修正此問題：[數字] 資料類型的 [欄位大小] 下拉式清單不會顯示任何值，禁止使用者在建立或修改資料表時指定 [數字] 欄位的類型。
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **取得 & 轉換改進功能：** 新增或改進的 Power Query 的資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **取得&轉換改善：** 適用于Power Query的新資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **額外資料連線：** JSON 和 Azure SQL 資料倉儲來源的查詢資料。
 -   **Power Query 改善功能︰** 改善的新資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **大量位址提示 (Large Address Aware) 支援︰** 32 位元版本的 Excel 可以使用更多的記憶體 (若適用)。 [詳細資訊](https://support.microsoft.com/kb/3160741)
@@ -239,10 +239,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-october-11"></a>版本1602：10月11日
+## <a name="version-1602-october-11"></a>版本 1602：10 月 11 日
 *版本 1602 (組建 6741.2081)*
 
-*這是自2016年6月以來提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到2017年2月為止。不過，目前已提供新的延期通道版本—版本 1605 (組建 6965.2092) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 6 月起提供的延遲通道版本。它將繼續受到支援並接收安全性更新，直到 2017 年 2 月為止。但是，新的延遲通道版本現已推出 — 版本 1605 (組建 6965.2092) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120)：Microsoft 圖形元件的安全性更新 (3192884)
@@ -252,7 +252,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-september-13"></a>版本1602：9月13日
+## <a name="version-1602-september-13"></a>版本 1602：9 月 13 日
 *版本 1602 (組建 6741.2071)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -272,10 +272,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-september-13"></a>版本1509：9月13日
+## <a name="version-1509-september-13"></a>版本 1509：9 月 13 日
 *版本 1509 (組建 6001.1090)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2071) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 2 月起提供的延遲通道版本。在 2016 年 10 月之前，它將繼續受到支援並接收安全性更新。不過，新的延遲通道版本現已推出 — 版本 1602 (組建 6741.2071) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107)：Microsoft Office 的安全性更新 (3185852)
@@ -288,7 +288,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-august-9"></a>版本1602：8月9日
+## <a name="version-1602-august-9"></a>版本 1602：8 月 9 日
 *版本 1602 (組建 6741.2063)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -311,10 +311,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-august-9"></a>版本1509：8月9日
+## <a name="version-1509-august-9"></a>版本 1509：8 月 9 日
 *版本 1509 (組建 6001.1087)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2063) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 2 月起提供的延遲通道版本。在 2016 年 10 月之前，它將繼續受到支援並接收安全性更新。不過，新的延遲通道版本現已推出 — 版本 1602 (組建 6741.2063) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正由目前安全性更新造成的問題：從不受信任的位置開啟 HTML 檔時，不是允許使用者在受保護的檢視中開啟檔案，而是開啟畫面空白 (沒有內容) 的 Excel，且沒有顯示錯誤。
@@ -336,7 +336,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-july-12"></a>版本1602：7月12日
+## <a name="version-1602-july-12"></a>版本 1602：7 月 12 日
 *版本 1602 (組建 6741.2056)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -350,10 +350,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-july-12"></a>版本1509：7月12日
+## <a name="version-1509-july-12"></a>版本 1509：7 月 12 日
 *版本 1509 (組建 6001.1085)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2056) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 2 月起提供的延遲通道版本。在 2016 年 10 月之前，它將繼續受到支援並接收安全性更新。不過，新的延遲通道版本現已推出 — 版本 1602 (組建 6741.2056) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088)：Microsoft Office 的安全性更新 (3170008)
@@ -366,7 +366,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1602-june-14"></a>版本1602：6月14日
+## <a name="version-1602-june-14"></a>版本 1602：6 月 14 日
 *版本 1602 (組建 6741.2048)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
@@ -451,7 +451,7 @@ ms.locfileid: "54522291"
 -   修正此問題：[寄件者] 下拉式清單中的項目在高對比模式下並未完全標示。
 -   修正此問題：當使用 SHIFT + 按一下來選取多個附件時，僅選取第一個附件。
 -   修正此問題：設定為使用 POP3 時，當 Outlook 下載郵件訊息後，伺服器上所有郵件訊息皆從收件匣中刪除。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
--   修正此問題：當設定成使用 POP3 時，郵件訊息會下載多次，造成重複的專案。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
+-   修正此問題：當設定為使用 POP3 時，會多次下載郵件訊息，導致專案重複。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
 -   修正此問題：使用者無法存取託管於 Exchange Server 2010 的公用資料夾。
 -   修正此問題：在高 dpi 裝置與正常的 dpi 監視器之間傳送郵件時，影像顯示的尺寸錯誤。
 -   修正此問題：在郵件清單中拖曳捲軸時會導致清單跳至清單結尾。
@@ -465,7 +465,7 @@ ms.locfileid: "54522291"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。 若要停用此功能，請[使用最新的群組原則系統管理範本](https://www.microsoft.com/download/details.aspx?id=49030)檔案，並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能，[請使用最新的群組原則系統管理範本檔案](https://www.microsoft.com/download/details.aspx?id=49030)，並啟用 [PowerPoint 設計工具選項] 設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
@@ -638,10 +638,10 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-june-14"></a>版本1509：6月14日
+## <a name="version-1509-june-14"></a>版本 1509：6 月 14 日
 *版本 1509 (組建 6001.1082)*
 
-*這是自2月2016以來可提供的延期通道版本。它會繼續受到支援並接收安全性更新，直到10月2016為止。不過，目前已提供新的延期通道版本—版本 1602 (組建 6741.2056) —其中包含了新功能、安全性更新和非安全性更新。*
+*這是自 2016 年 2 月起提供的延遲通道版本。在 2016 年 10 月之前，它將繼續受到支援並接收安全性更新。不過，新的延遲通道版本現已推出 — 版本 1602 (組建 6741.2056) — 其中包含新功能、安全性更新和非安全性更新。*
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正此問題：當使用者嘗試使用會議功能，例如白板或共用筆記時，收到錯誤訊息。 [此問題的相關資訊](https://support.microsoft.com/kb/3165438)
@@ -660,7 +660,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-may-10"></a>版本1509：10月10日
+## <a name="version-1509-may-10"></a>版本 1509：5 月 10 日
 *版本 1509 (組建 6001.1078)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
@@ -671,7 +671,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-april-12"></a>版本1509：4月12日
+## <a name="version-1509-april-12"></a>版本 1509：4 月 12 日
 *版本 1509 (組建 6001.1073)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -682,7 +682,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-march-8"></a>版本1509：3月8日
+## <a name="version-1509-march-8"></a>版本 1509：3 月 8 日
 *版本 1509 (組建 6001.1068)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
@@ -693,7 +693,7 @@ ms.locfileid: "54522291"
 
 
 
-## <a name="version-1509-february-9"></a>版本1509：2月9日
+## <a name="version-1509-february-9"></a>版本 1509：2 月 9 日
 *版本 1509 (組建 6001.1061)*
 
 這是此通道的最初發行版本。這個版本包含在 2015 年 9 月 22 日隨附於 Office 2016 中的相同功能。

@@ -1,32 +1,32 @@
 ---
-title: 2016中每月通道版本的版本資訊
-ms.author: anankani
-author: andymosten
-manager: anankani
+title: 2016 年每月通道版本的版本資訊
+ms.author: dacoulte
+author: reids
+manager: reids
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供2016中 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 5da9c49e4698f28c3b473b687c469fa9581a9e63c8398ca3fb9779a11d8e57af
-ms.sourcegitcommit: fc7e63223c75fb636a99ce077fcacc09b6a71deb
+description: 為 IT 專業人員提供 2016 年 Office 365 專業增強版每月通道版本的版本資訊
+ms.openlocfilehash: 89b0bb87f5b46d20eb760db1a874b30d9e090731
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54522621"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825694"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016中每月通道版本的版本資訊
+# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>2016 年每月通道版本的版本資訊
 
-這些版本資訊會提供2016中 Office 365 專業增強版每月通道更新所含之新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊提供 2016 年每月通道更新中包含的新功能、安全性更新和非安全性更新Office 365 專業增強版相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 每月通道的名稱為目前通道9月2017日前。
+> - 每月通道在 2017 年 9 月之前命名為目前通道。
 
-## <a name="version-1611-december-13"></a>版本1611：12月13日
+## <a name="version-1611-december-13"></a>版本 1611：12 月 13 日
 *版本 1611 (組建 7571.2075)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -36,7 +36,7 @@ ms.locfileid: "54522621"
 -   Microsoft 資訊安全佈告欄 [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148)：Microsoft Office 的安全性更新 (3204068)
 
 
-## <a name="version-1611-december-6"></a>版本1611：12月6日
+## <a name="version-1611-december-6"></a>版本 1611：12 月 6 日
 *版本 1611 (組建 7571.2072)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -60,7 +60,7 @@ ms.locfileid: "54522621"
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同撰寫時的即時輸入：** 查看其他人在簡報中的運作方式，並在輸入時查看變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **共同撰寫時的即時輸入：** 查看其他人在簡報中的工作位置，並在輸入時檢視變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
 -   **使用畫筆來選取並操作物件︰** 使用數位畫筆來移動、調整大小或旋轉物件，使用它們的控點，或使用套索工具筆跡支援的畫筆按鈕。
@@ -131,11 +131,11 @@ ms.locfileid: "54522621"
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 Configuration Manager 的更新 trigged 將登錄中的 UpdateChannel 設定變更為不是有效更新通道的內容。
+-   修正下列問題：Configuration Manager分級的更新會將登錄中的 UpdateChannel 設定變更為不是有效更新通道的設定。
 
 
 
-## <a name="version-1610-november-10"></a>版本1610：11月10日
+## <a name="version-1610-november-10"></a>版本 1610：11 月 10 日
 *版本 1610 (組建 7466.2038)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -198,7 +198,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1609-november-8"></a>版本1609：11月8日
+## <a name="version-1609-november-8"></a>版本 1609：11 月 8 日
 *版本 1609 (組建 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -209,7 +209,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1609-november-2"></a>版本1609：11月2日
+## <a name="version-1609-november-2"></a>版本 1609：11 月 2 日
 *版本 1609 (組建 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -245,7 +245,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1609-october-11"></a>版本1609：10月11日
+## <a name="version-1609-october-11"></a>版本 1609：10 月 11 日
 *版本 1609 (組建 7369.2038)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -262,7 +262,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1609-october-4"></a>版本1609：10月4日
+## <a name="version-1609-october-4"></a>版本 1609：10 月 4 日
 *版本 1609 (組建 7369.2024)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -279,7 +279,7 @@ ms.locfileid: "54522621"
 -   修正此問題：在搜尋標記時，[標記摘要] 面板只顯示文字行的多個標記中的第一個標記。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
--   **\@ 提及：** 請確認收件者已要求使用者輸入或採取動作，方法是在電子郵件或行事曆專案的正文中包含 @ 符號後接姓名。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   **\@ 提及：** 請確定收件者知道收到輸入或動作要求，方法是將 @ 符號後面接著該人員的名稱包含在電子郵件或行事曆專案的本文中。 這也會自動將他們新增至 [收件者] 行。 [詳細資訊](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：使用自訂信箋做為預設佈景主題時，有額外的分行符號新增至新的電子郵件訊息且字型設定為 Calibri。
@@ -330,7 +330,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1608-september-26"></a>版本1608：9月26日
+## <a name="version-1608-september-26"></a>版本 1608：9 月 26 日
 *版本 1608 (組建 7341.2035)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -342,7 +342,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1608-september-21"></a>版本1608：9月21日
+## <a name="version-1608-september-21"></a>版本 1608：9 月 21 日
 *版本 1608 (組建 7341.2032)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -389,7 +389,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1607-september-13"></a>版本1607：9月13日
+## <a name="version-1607-september-13"></a>版本 1607：9 月 13 日
 *版本 1607 (組建 7167.2060)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -406,7 +406,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1607-september-6"></a>版本1607：9月6日
+## <a name="version-1607-september-6"></a>版本 1607：9 月 6 日
 *版本 1607 (組建 7167.2055)*
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
@@ -414,7 +414,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1607-august-31"></a>版本1607：8月31日
+## <a name="version-1607-august-31"></a>版本 1607：8 月 31 日
 *版本 1607 (組建 7167.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -425,7 +425,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1607-august-16"></a>版本1607：8月16日
+## <a name="version-1607-august-16"></a>版本 1607：8 月 16 日
 *版本 1607 (組建 7167.2040)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -465,7 +465,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1606-august-9"></a>版本1606：8月9日
+## <a name="version-1606-august-9"></a>版本 1606：8 月 9 日
 *版本 1606 (組建 7070.2036)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -491,7 +491,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1606-july-26"></a>版本1606：7月26日
+## <a name="version-1606-july-26"></a>版本 1606：7 月 26 日
 *版本 1606 (組建 7070.2033)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -510,7 +510,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1606-july-20"></a>版本1606：7月20日
+## <a name="version-1606-july-20"></a>版本 1606：7 月 20 日
 *版本 1606 (組建 7070.2028)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -525,7 +525,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1606-july-12"></a>版本1606：7月12日
+## <a name="version-1606-july-12"></a>版本 1606：7 月 12 日
 *版本 1606 (組建 7070.2026)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -548,7 +548,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1606-july-5"></a>版本1606：7月5日
+## <a name="version-1606-july-5"></a>版本 1606：7 月 5 日
 *版本 1606 (組建 7070.2022)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -575,7 +575,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1605-june-30"></a>版本1605：6月30日
+## <a name="version-1605-june-30"></a>版本 1605：6 月 30 日
 *版本 1605 (組建 6965.2063)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -597,7 +597,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1605-june-14"></a>版本1605：6月14日
+## <a name="version-1605-june-14"></a>版本 1605：6 月 14 日
 *版本 1605 (組建 6965.2058)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -628,11 +628,11 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1605-june-6"></a>版本1605：6月6日
+## <a name="version-1605-june-6"></a>版本 1605：6 月 6 日
 *版本 1605 (組建 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **取得 & 轉換改進功能：** 新增或改進的 Power Query 的資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **取得&轉換改善：** 適用于Power Query的新資料轉換和資料連線功能。 [詳細資訊](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：資料驗證下拉式清單在有多個工作表的活頁簿中損毀及重複。
@@ -678,7 +678,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1604-may-23"></a>版本1604：5月23日
+## <a name="version-1604-may-23"></a>版本 1604：5 月 23 日
 *版本 1604 (組建 6868.2067)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -702,7 +702,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1604-may-10"></a>版本1604：10月10日
+## <a name="version-1604-may-10"></a>版本 1604：5 月 10 日
 *版本 1604 (組建 6868.2062)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
@@ -713,7 +713,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1604-may-4"></a>版本1604：5月4
+## <a name="version-1604-may-4"></a>版本 1604：5 月 4 日
 *版本 1604 (組建 6868.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -737,7 +737,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1603-april-28"></a>版本1603：四月28
+## <a name="version-1603-april-28"></a>版本 1603：4 月 28 日
 *版本 1603 (組建 6769.2040)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -746,7 +746,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1603-april-12"></a>版本1603：4月12日
+## <a name="version-1603-april-12"></a>版本 1603：4 月 12 日
 *版本 1603 (組建 6769.2017)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -757,7 +757,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1603-april-4"></a>版本1603：4月4日
+## <a name="version-1603-april-4"></a>版本 1603：4 月 4 日
 *版本 1603 (組建 6769.2015)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -785,7 +785,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1602-march-24"></a>版本1602：3月24日
+## <a name="version-1602-march-24"></a>版本 1602：3 月 24 日
 *版本 1602 (組建 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -793,7 +793,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1602-march-17"></a>版本1602：3月17日
+## <a name="version-1602-march-17"></a>版本 1602：3 月 17 日
 *版本 1602 (組建 6741.2017)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -834,16 +834,16 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1601-march-4"></a>版本1601：3月4日
+## <a name="version-1601-march-4"></a>版本 1601：3 月 4 日
 *版本 1601 (組建 6568.2036)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：設定為使用 POP3 時，當 Outlook 下載郵件訊息後，伺服器上所有郵件訊息皆從收件匣中刪除。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
--   修正此問題：當設定成使用 POP3 時，郵件訊息會下載多次，造成重複的專案。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
+-   修正此問題：當設定為使用 POP3 時，會多次下載郵件訊息，導致專案重複。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
 
 
 
-## <a name="version-1601-march-3"></a>版本1601：3月3日
+## <a name="version-1601-march-3"></a>版本 1601：3 月 3 日
 *版本 1601 (組建 6568.2034)*
 
 ### <a name="word-security-updates"></a>Word：安全性更新
@@ -857,7 +857,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1601-february-16"></a>版本1601：二月份16
+## <a name="version-1601-february-16"></a>版本 1601：2 月 16 日
 *版本 1601 (組建 6568.2025)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -913,7 +913,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1511-february-9"></a>版本1511：2月9日
+## <a name="version-1511-february-9"></a>版本 1511：2 月 9 日
 *版本 1511 (組建 6366.2068)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -924,7 +924,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1511-january-25"></a>版本1511：1月25日
+## <a name="version-1511-january-25"></a>版本 1511：1 月 25 日
 *版本 1511 (組建 6366.2062)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -935,7 +935,7 @@ ms.locfileid: "54522621"
 
 
 
-## <a name="version-1511-january-12"></a>版本1511：年1月12日
+## <a name="version-1511-january-12"></a>版本 1511：1 月 12 日
 *版本 1511 (組建 6366.2056)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新

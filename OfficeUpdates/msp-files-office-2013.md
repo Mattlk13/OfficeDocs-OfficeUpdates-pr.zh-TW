@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 針對使用 Windows Installer (MSI) 的 2013 Office永久版本，為 IT 專業人員提供最新的 .msp 檔案清單
-ms.openlocfilehash: 753fe24b6dc74b3892215c4312565862c78b477b
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: fc52a2edfb5d2f4f7d797a23e9b9bf2f9c0e7d73
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804530"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825517"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 產品最新的 .msp 檔案清單
 > [!IMPORTANT]
@@ -102,7 +102,7 @@ ms.locfileid: "64804530"
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |不適用  <br/> |不適用  <br/> |2016 年 3 月 8 日  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-none  <br/> |Office 2013  <br/> |2019 年 3 月 5 日  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |outlfltr-x-none  <br/> |Office 2013  <br/> |2016 年 8 月 2 日  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|outlook-x-none  <br/>|Outlook 2013  <br/>|2021 年 3 月 2 日<br/>|[4493174](https://support.microsoft.com/help/4493174) <br/>|2021 年 6 月 8 日 <br/>|[5001934](https://support.microsoft.com/help/5001934) <br/>|[4504733](https://support.microsoft.com/help/4504733) <br/>|[](https://support.microsoft.com/help/) <br/>|
+|outlook-x-none  <br/>|Outlook 2013  <br/>|2021 年 3 月 2 日<br/>|[4493174](https://support.microsoft.com/help/4493174) <br/>|2021 年 6 月 8 日 <br/>|[5001934](https://support.microsoft.com/help/5001934) <br/>|[4504733](https://support.microsoft.com/help/4504733) <br/>|
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |2015 年 9 月 8 日  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |2021 年 2 月 2 日  <br/> |[4493169](https://support.microsoft.com/help/4493169) <br/> |2021 年 3 月 9 日  <br/> |[4493227](https://support.microsoft.com/help/4493227) <br/> |[4484468](https://support.microsoft.com/help/4484468) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |2017 年 9 月 5 日  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |

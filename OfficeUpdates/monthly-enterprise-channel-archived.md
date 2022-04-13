@@ -1,20 +1,20 @@
 ---
 title: 每月企業通道版本的封存版本資訊
-ms.author: anankani
-author: anankani
-manager: anankani
+ms.author: nidos
+author: nidos
+manager: nidos
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版每月企業通道版本的版本資訊
-ms.openlocfilehash: e9ee18fdc49b5403533c2cf11dca870859b7a571
-ms.sourcegitcommit: 4316c3c786e7e08071ae09e2e5a1a3b5bf68c214
+ms.openlocfilehash: 5bf410c33d8d6049115783b26bd2aa8ff5db12aa
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "60477906"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825637"
 ---
 # <a name="archived-release-notes-for-monthly-enterprise-channel"></a>每月企業通道的封存版本資訊
 這些版本資訊可提供 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月企業通道更新所含新功能和非安全性更新的相關資訊。

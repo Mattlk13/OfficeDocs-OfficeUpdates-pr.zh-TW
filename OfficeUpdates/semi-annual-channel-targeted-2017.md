@@ -1,6 +1,6 @@
 ---
-title: 2017中 Semi-Annual 通道 () 目標的發行附注
-ms.author: anankani
+title: 2017 年Semi-Annual通道 (目標) 版本的版本資訊
+ms.author: dacoulte
 author: andymosten
 manager: anankani
 ms.date: 12/12/2017
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Semi-Annual 通道的發行附注 (針對2017中 Office 365 專業增強版的目標) 版本
-ms.openlocfilehash: 8a96d33a02d9e45bc107eff0e8461716d67796b1
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+description: 為 IT 專業人員提供 2017 年Semi-Annual通道 (目標) 版本的版本資訊Office 365 專業增強版
+ms.openlocfilehash: 07614f94f80ae409c706ccb60c43b58d5c8ab81f
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273391"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825437"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017中 Semi-Annual 通道 () 目標的發行附注
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>2017 年Semi-Annual通道 (目標) 版本的版本資訊
 
-這些版本資訊會提供 Semi-Annual 通道 (目標) 更新為2017中 Office 365 專業增強版的新功能、安全性更新和非安全性更新的相關資訊。
+這些版本資訊提供新功能、安全性更新和非安全性更新的相關資訊，這些更新包含在 2017 年Semi-Annual通道 (目標) 更新Office 365 專業增強版。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 在2017年9月之前，Semi-Annual (目標) 為延期通道的第一版。
+> - Semi-Annual通道 (目標) 在 2017 年 9 月之前命名為延後通道的第一個版本。
 
-## <a name="version-1708-december-12"></a>版本1708：12月12日
+## <a name="version-1708-december-12"></a>版本 1708：12 月 12 日
 *版本 1708 (組建 8431.2131)*
 
  ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -52,7 +52,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1708-november-14"></a>版本1708：11月14日
+## <a name="version-1708-november-14"></a>版本 1708：11 月 14 日
 *版本 1708 (組建 8431.2110)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -105,7 +105,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1708-october-10"></a>版本1708：10月10日
+## <a name="version-1708-october-10"></a>版本 1708：10 月 10 日
 *版本 1708 (組建 8431.2107)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -151,7 +151,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1708-september-12"></a>版本1708：9月12日
+## <a name="version-1708-september-12"></a>版本 1708：9 月 12 日
 *版本 1708 (組建 8431.2079)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -313,7 +313,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1705-august-8"></a>版本1705：8月8日
+## <a name="version-1705-august-8"></a>版本 1705：8 月 8 日
 *版本 1705 (組建 8201.2171)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -325,7 +325,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1705-july-27"></a>版本1705：7月27日
+## <a name="version-1705-july-27"></a>版本 1705：7 月 27 日
 *版本 1705 (組建 8201.2158)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -346,7 +346,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1705-july-13"></a>版本1705：7月13日
+## <a name="version-1705-july-13"></a>版本 1705：7 月 13 日
 *版本 1705 (組建 8201.2136)*
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
@@ -375,12 +375,12 @@ ms.locfileid: "59273391"
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570)：Microsoft Office 遠端程式碼執行弱點
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
--   修正此問題：在使用 Configuration Manager 時，導致 Office 2013 的自動升級 Office 2016 失敗。
+-   修正使用 Configuration Manager 時，導致自動升級 Office 2013 到 Office 2016 的問題。
 -   修正此問題：透過公司目錄從市集部署的舊版增益集不會載入。
 
 
 
-## <a name="version-1705-june-13"></a>版本1705：6月13日
+## <a name="version-1705-june-13"></a>版本 1705：6 月 13 日
 *版本 1705 (組建 8201.2102)*
 
 ### <a name="access-feature-updates"></a>Access：功能更新
@@ -461,7 +461,7 @@ ms.locfileid: "59273391"
 -   **背景移除：** 使用任意格式的繪圖工具移除圖片背景。
 -   **SVG 影像：** 插入並編輯簡報內的可縮放向量圖形 (SVG)。 [詳細資訊](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 -   **插入圖示：** 使用來自標準程式庫的可縮放向量圖形 (SVG) 檔案之圖示，方式為移至 [插入] \> [圖例] \> [圖示]。 [詳細資訊](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **共同撰寫時的即時輸入：** 查看其他人在簡報中的運作方式，並在輸入時查看變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **共同撰寫時的即時輸入：** 查看其他人在簡報中的工作位置，並在輸入時檢視變更。 [詳細資訊](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **儲存至最近使用的資料夾︰** 在您移至 [檔案] \> [另存新檔] 時，使用 [最近] 索引標籤來儲存簡報至最近使用的資料夾。
 -   **建立精確的筆跡圖形︰** 請拖曳線段橡皮擦來移除多餘的筆跡像素，並向最接近的線段貼齊。
 -   **使用畫筆來選取並操作物件︰** 使用數位畫筆來移動、調整大小或旋轉物件，使用它們的控點，或使用套索工具筆跡支援的畫筆按鈕。
@@ -599,7 +599,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1701-may-9"></a>版本1701：9月9日
+## <a name="version-1701-may-9"></a>版本 1701：5 月 9 日
 *版本 1701 (組建 7766.2084)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
@@ -625,7 +625,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1701-april-11"></a>版本1701：四月11
+## <a name="version-1701-april-11"></a>版本 1701：4 月 11 日
 *版本 1701 (組建 7766.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
@@ -649,7 +649,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1701-march-14"></a>版本1701：3月14日
+## <a name="version-1701-march-14"></a>版本 1701：3 月 14 日
 *版本 1701 (組建 7766.2071)*
 
 ### <a name="access-non-security-updates"></a>Access：非安全性更新
@@ -688,7 +688,7 @@ ms.locfileid: "59273391"
 
 
 
-## <a name="version-1701-february-22"></a>版本1701：2月22日
+## <a name="version-1701-february-22"></a>版本 1701：2 月 22 日
 *版本 1701 (組建 7766.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
@@ -789,7 +789,7 @@ ms.locfileid: "59273391"
 
 ### <a name="skype-for-business-feature-updates"></a>商務用 Skype：功能更新
 -   **Windows 通知樣式︰** 來電和交談的通知外觀變更。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/New-Skype-for-Business-2016-on-Windows-Notifications-look-and/ba-p/39885)
--   **顧問式轉接：** 從來電內，在轉接呼叫到該使用者之前，透過 IM 或來電與其他使用者聯繫。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
+-   **傳送任務：** 從通話中，透過 IM 或來電洽詢另一位使用者，然後再將通話轉移給該使用者。 [詳細資訊](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **麥克風通知︰** 當麥克風在作業系統中處於靜音狀態，或如果麥克風未挑選任何音訊，則在交談視窗中顯示通知。
 -   **停用「我的號碼」：** 使用 DisableDisplayMyNumber 登錄項目來停用撥號鍵台下的「我的號碼」。
 
@@ -820,7 +820,7 @@ ms.locfileid: "59273391"
 -   修正此問題：使用 Polycom CX100 裝置通話時，未偵測到麥克風。
 -   修正此問題：在 IM 訊息中擇類似 \\\\servername 或 file:// 的連結時，會導致錯誤訊息而不會開啟位置。
 -   修正此問題：在使用位置型路由的虛擬桌面基礎結構 (VDI) 環境中，使用者無法進行或接收 PSTN 通話，因為伺服器認為使用者位置不是有效的 PSTN 通話位置。
--   當使用者的狀態設定為 [請勿打擾] 或 [ \<name\> 向您傳送郵件時的商務用 Skype] 時，變更已錯過郵件之電子郵件的主旨行 \<Name\> 。
+-   當使用者的狀態設定為 [不打擾] 或 [簡報] 時，將針對遺漏郵件傳送的電子郵件主旨行變更為 [使用 \<name\> 遺漏的交談] 變更為 [ \<Name\> 在商務用 Skype中傳送郵件給您]。
 -   開始擷取裝置上第一次登入的時間戳記，做為 [普查資料的一部分，](/skypeforbusiness/legal-and-regulatory/data-collection-practices) 以協助識別登入可靠性的趨勢。
 -   修正此問題：在 Window 10 版本 1607 (也稱為「年度更新版」) 上，共用次要監視器的選項沒有在特定監視器設定中出現。
 -   修正此問題：當共用者使用 RDP 的協力廠商實作並聚焦至共用內容時，商務用 Skype 發生當機。
@@ -909,14 +909,14 @@ ms.locfileid: "59273391"
 -   修正此問題：在 Office 文件中插入 SVG 影像後，SVG 影像會在儲存和重新開啟文件時消失。
 -   修正此問題：非英文版使用者在啟動 Office 期間，顯示下列錯誤訊息：「產品金鑰的最大長度為 25 個字元。」
 -   修正此問題：VBA 表單造成框架圖層順序停止運作或顯示不正常的情況。
--   修正此問題：由 Configuration Manager 的更新 trigged 將登錄中的 UpdateChannel 設定變更為不是有效更新通道的內容。
+-   修正下列問題：Configuration Manager分級的更新會將登錄中的 UpdateChannel 設定變更為不是有效更新通道的設定。
 
 
 
-## <a name="version-1609-january-10"></a>版本1609：1月10日
+## <a name="version-1609-january-10"></a>版本 1609：1 月 10 日
 *版本 1609 (組建 7369.2102)*
 
-附注： Microsoft 安全佈告欄中所涵蓋的安全性更新 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) 不適用於此通道版本中的 Word 版本。
+注意：Microsoft 安全性佈告欄 [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) 中涵蓋的安全性更新不適用於此通道版本中的 Word 版本。
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：使用 [編輯量值] 對話方塊會造成 Excel 當機。

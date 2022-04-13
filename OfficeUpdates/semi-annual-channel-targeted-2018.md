@@ -1,6 +1,6 @@
 ---
 title: 2018 年半年通道 (已設定目標) 版本的版本資訊
-ms.author: anankani
+ms.author: dacoulte
 author: andymosten
 manager: anankani
 ms.date: 12/13/2018
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 116e590889d30fff7a2076865face01d45d17062
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 9d48e7bc08b3c91f3c88149afeccbc30063efa2a
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273393"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825417"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>2018 年半年通道 (已設定目標) 版本的版本資訊
 

@@ -1,6 +1,6 @@
 ---
 title: Microsoft 365 Apps 更新的版本資訊
-ms.author: anankani
+ms.author: dacoulte
 author: andymosten
 manager: anankani
 ms.date: 7/23/2019
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 在每個更新通道發行的最新更新清單，以及版本資訊和更新歷程記錄的連結
-ms.openlocfilehash: a3122186a3b7e78b58437532b2d89bf99b8f0b61
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 03f9bb9c4582c74af5d81d50da31356bd370db93
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273414"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825467"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的版本資訊
 
