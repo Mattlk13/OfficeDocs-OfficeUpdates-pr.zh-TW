@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: e2f51b80faa519660d73e35a5065177560b960bd
-ms.sourcegitcommit: 5269bb4e3c7607e1396ed9ec9eee0124c66a88c4
-ms.translationtype: MT
+ms.openlocfilehash: c9b6f0ecb936ba09fc7d6c051ce28c6feac96773
+ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "64651049"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64804500"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -22,6 +22,107 @@ ms.locfileid: "64651049"
 
 新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
 
+
+## <a name="version-2202-april-12"></a>版本 2202: 4 月 12 日
+*版本 2202 (組建 14931.20274)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當來源資料直接輸入圖表而非來自儲存格範圍時，圖表座標軸上的日期不會出現的問題。
+
+
+- 我們已修正使用自訂命令列可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用 [僅加密] 和 [不要轉寄]範本的訊息透過物件模型傳回未預期權限的問題。
+
+
+- 我們已修正在使用雲端設定時，導致某些切換類型選項進行錯誤同步處理的問題。
+
+
+- 我們已修正導致「索引過期」訊息太常顯示的問題。
+
+
+- 我們已修正導致在部分診斷案例中，使用者在 Outlook 中預期停止回應的問題。
+
+
+- 我們已修正啟用 REST 共用行事曆功能時，已移除的共用行事曆會再次出現的問題。
+
+
+- 進行了一項資料變更，在英國行事曆中包含了新的英國假日。
+
+
+- 我們已修正在某些情況下，導致 Outlook 在關機期間意外關閉的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修儲存 PPAM 檔案類型時造成問題的案例。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在其他應用程式中顯示內嵌 Excel 試算表的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+- 我們已修正在 Word 中 SVG 檔案可能會顯示為中斷連結的問題 (Red-X)。
+
+
+- 我們已修正導致共用行事曆在新增後處於未選取狀態的問題。
+
+
+- 我們已修正當開啟具有數千個追蹤變更的 Word 檔時的效能問題。
+
+
+- 我們已修正傳送電子郵件通知給留言已獲得其他使用者回覆的使用者時的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正字型下拉式清單無法正確反映圖形中選取的字型的問題。
+
+
+- 我們已修正記憶體可能損毀之輸入來源的捲動繫結相關問題。
+
+
+- 我們已修正影響在 Project 中自訂檢視顯示的問題。
+
+
+- 我們已修正在啟動或錄製投影片放映時，與 Power BI 控制項和表單做為投影片內容相關的穩定性問題。
+
+
+- 我們已修正 Direct2D 和 Direct3D 互通性的多執行緒相關問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-march-08"></a>版本 2202：3 月 8 日
 *版本 2202 (組建 14931.20132)*
@@ -2179,6 +2280,7 @@ ms.locfileid: "64651049"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20738|version-2108-january-11|)
@@ -2188,5 +2290,4 @@ ms.locfileid: "64651049"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20674|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20600|version-2108-november-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20508|version-2108-october-12|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20404|version-2108-september-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
