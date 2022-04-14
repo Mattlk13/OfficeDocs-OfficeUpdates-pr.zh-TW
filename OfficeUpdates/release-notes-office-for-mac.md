@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: fd1d5226031309b750ad9dbbf9548385fa74902d
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: 559f3efc20c9a65a304e19d3094ccc79070e1931
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804510"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825477"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -1007,18 +1007,18 @@ ms.locfileid: "64804510"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **可在簡報者模式中摺疊目前投影片視窗的功能：** 透過將行分隔線拖曳到畫面左側，即可以將目前的投影片檢視摺疊，使得您在簡報期間的檢視中只會看到 [下一張投影片]。
-- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?)
 
 
 
 ### <a name="word"></a>Word
 
-- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?)
 
 
 ### <a name="security-updates"></a>安全性更新
@@ -1698,8 +1698,8 @@ ms.locfileid: "64804510"
   
 此版本提供下列更新。
   
-|**應用程式**|**功能更新**|**安全性更新**|**非安全性更新**|
-|:-----|:-----|:-----|:-----|:-----|
+|應用程式|功能更新|安全性更新|非安全性更新|
+|:-----|:-----|:-----|:-----|
 |Word  <br/> |**焦點模式的功用更多樣化：** 現在，焦點模式會以您設定的縮放比例開啟，並在您捲動時顯示頁碼。  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907)：Microsoft Office Excel 安全性功能略過  <br/> |||
 |PowerPoint  <br/> |**內嵌字型：** 內嵌字型可確保簡報在每一部電腦上都會有相同的呈現，並且帶給使用者您想要給予的體驗。  <br/> ||||

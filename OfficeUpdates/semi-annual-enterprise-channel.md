@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 3bd841732d7aea8e4ee72d192935b729d5a54bdb
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: 0c7b6e3a8106f9f5aa967d71089b22fd5834078e
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804470"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825744"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -208,7 +208,7 @@ ms.locfileid: "64804470"
 ### <a name="access"></a>Access
 - 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。 此問題現在已針對所有剩餘的網路路徑修正，包括那些包含 DFS 命名空間、簡短檔案名稱和對應磁片磁碟機的網路路徑。 [深入了解](https://support.microsoft.com/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
-## <a name="version-2008-january-12"></a>版本 2008：1 月 12 日
+## <a name="version-2008-january-12-build-1312721856"></a>版本 2008：1 月 12 日 (組建 13127.21856) 
 *版本 2008 (組建 13127.21856)*
 
 安全性更新列於 [此處](microsoft365-apps-security-updates.md)
@@ -960,7 +960,7 @@ ms.locfileid: "64804470"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2102-december-14"></a>版本 2102：12 月 14 日
+## <a name="version-2102-december-14-build-1380121086"></a>版本 2102：12 月 14 日 (組建 13801.21086)
 *版本 2102 (組建 13801.21086)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)

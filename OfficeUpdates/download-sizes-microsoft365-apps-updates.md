@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 81e3b7d3222c9e2cefec523fb1d5abe2db402b27
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: 0957fc0c6aa6a3ba0c773dcdd6064df13254b997
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804540"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825727"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -595,7 +595,7 @@ ms.locfileid: "64804540"
 
 
 
-## <a name="october-6-2021"></a>2021 年 10 月 6 日
+## <a name="october-6-2021-build-1443020270"></a>2021 年 10 月 6 日 (組建 14430.20270) 
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 6, 2021)
 
@@ -611,7 +611,7 @@ ms.locfileid: "64804540"
 
 [//]: # (DO NOT REMOVE CONTENT ENDOctober 6, 2021)
 
-## <a name="october-6-2021"></a>2021 年 10 月 6 日
+## <a name="october-6-2021-build-1443020276"></a>2021 年 10 月 6 日 (組建 14430.20276) 
 
 [//]: # (DO NOT REMOVE CONTENT STARTOctober 6, 2021)
 
