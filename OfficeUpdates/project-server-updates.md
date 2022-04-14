@@ -11,13 +11,13 @@ ms.collection:
 - IT_ProjectAdmin
 - IT_ProjectAdmin_Top
 - RelNotes_Server
-description: 尋找及管理 Project Server 2013 的更新。 使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
-ms.openlocfilehash: 883dd18c098e68445fe7c550eb89eb4a508c6975
-ms.sourcegitcommit: 1e85af736c2d3fa89238cce342ffa614ec81e760
+description: 尋找及管理 Project Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
+ms.openlocfilehash: c5875f43f0b2885ee5a8c82cb378ff7b55f6f928
+ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2022
-ms.locfileid: "62466043"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64804520"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -28,6 +28,8 @@ ms.locfileid: "62466043"
 ## <a name="project-server-2013-update-history"></a>Project Server 2013 更新歷程記錄
 |**發行日期**|**KB 號碼**|
 |:-----|:-----|
+|2022 年 4 月 <br/>|[KB5002186](https://support.microsoft.com/help/5002186) <br/>|
+|2022 年 3 月 <br/>|[KB5002171](https://support.microsoft.com/help/5002171) <br/>|
 |2022 年 2 月 <br/>|[KB5002152](https://support.microsoft.com/help/5002152) <br/>|
 |2022 年 1 月 <br/>|[KB5002125](https://support.microsoft.com/help/5002125) <br/>|
 |2021 年 12 月 <br/>|[KB5002067](https://support.microsoft.com/help/5002067) <br/>|

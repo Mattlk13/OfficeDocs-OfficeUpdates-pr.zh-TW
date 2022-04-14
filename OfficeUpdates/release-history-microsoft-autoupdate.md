@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: fdd9ddbe875528a9c84761a8e785686bcccc46a6
-ms.sourcegitcommit: cc8de7a95dd2c758eb4cab9c6e6791f2a585a115
+ms.openlocfilehash: 66d8296ad72c89918c41be99be1cceee1ecb4ce5
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/29/2022
-ms.locfileid: "64520380"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825507"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,30 @@ ms.locfileid: "64520380"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="april-2022-release"></a>2022 年 4 月版本
+
+**發行日期:** 2022 年 4 月 12 日
+
+*Microsoft AutoUpdate 4.46*
+
+**增強功能：**
+- Microsoft AutoUpdate 現在將在系統重新啟動時完成應用程式更新
+- Microsoft AutoUpdate 現在會更新應用程式，即使應用程式已重新命名
+- Microsoft AutoUpdate 會自動修正使用者喜好設定檔案的權限問題
+
+**錯誤修正：**
+- 已修正 msupdate 命令列工具在流程關閉時當機的問題
+- Microsoft AutoUpdate GUI 會在處理程序關閉時當機的問題已修正
+- 已修正如果已鎖定快取套件，更新會失敗的問題
+
+[下載 Microsoft AutoUpdate 4.46 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.46.22041000_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+2AF0B460A3B4FBBCB24A50608EE1D43737093907F2C58A901E406B1A34A97E66
+
+
 
 ## <a name="march-2022-release"></a>2022 年 3 月發行版本
 
@@ -677,8 +701,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 ## <a name="release-history"></a>版本歷程記錄
 
-|**發行日期**|**版本**|**詳細資訊**||
-|:-----|:-----|:-----|:-----|
+|發行日期|版本|其他相關資訊|
+|:-----|:-----|:-----|
 |2019 年 9 月 10 日 <br/>|4.15 <br/> |  <br/> ||
 |2019 年 8 月 13 日 <br/>|4.14 <br/> |  <br/> ||
 |2019 年 7 月 18 日 <br/>|4.13 <br/> |  <br/> ||

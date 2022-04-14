@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 59520e17cfeab106ab38abce3efc6d1fd961e095
-ms.sourcegitcommit: 18c541c6e3f3cd2fcaf3cd52c5be164c7102424f
+ms.openlocfilehash: a222b91c670eafae3819ff0ed2a88da2bba50c39
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2022
-ms.locfileid: "63448936"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825617"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,183 @@ ms.locfileid: "63448936"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2202-april-12"></a>版本 2202: 4 月 12 日
+*版本 2202 (組建 14931.20274)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。<br />在[部落格文章](https://insider.office.com/en-us/blog/lambda-excel-custom-functions)中查看詳細資料
+
+- **Lambda: 協助程式函數:** 7 個運用 Lambdas 的新功能，以及在撰寫 Lambda 解決方案時提供協助!<br />在[部落格文章](https://insider.office.com/en-us/blog/new-lambda-functions-available-in-excel)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **錄製有旁白的影片：** 使用預先錄製的影片和旁白，讓您的下一次簡報更具活力且更吸引人。 或預先錄製整個簡報，以確保在簡報當天順利演講。 [深入了解](https://support.office.com/article/ddc4432c-79f6-4add-b85e-1009815d955c)<br />在[部落格文章](https://insider.office.com/en-us/blog/tell-your-story-with-video-recording-in-powerpoint)中查看詳細資料
+
+### <a name="office-suite"></a>Office 套件
+
+- **Office 應用程式的新視覺更新:** 我們很高興宣佈針對 Windows 11 版 Office 桌面應用程式進行完整的視覺更新! 根據客戶的意見，此更新在所有您最愛的 Office 應用程式中皆提供簡單且更一致的體驗，讓您能專注於工作。 全新的外觀以 [Fluent Design](https://medium.com/microsoft-design/m365future-815cf30a8be) 原則為基礎並與新的 Windows 11 具有一致性，能為您的電腦提供更順暢的體驗。 <br/>
+[深入了解](https://insider.office.com/blog/visual-update-in-office-for-windows-now-available-in-current-channel-preview)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們修正了應用程式停止運作的問題，並產生錯誤訊息，例如「無法開啟其他資料庫」；此問題也可能會導致 Access 無法正確關閉。
+
+
+- 我們已修正會造成使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+- 我們已修正使用自訂命令列可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正 [工作表] 檢視有時候會接收來自其他共同作者的排序和篩選的問題。
+
+
+- 我們已修正了一個問題，以調整瀑布圖中資料數列的漸層填滿與直條圖中資料數列的漸層填滿如何對齊。
+
+
+- 我們已修正當來源資料直接輸入圖表而非來自儲存格範圍時，圖表座標軸上的日期不會出現的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在某些情況下，導致 Outlook 在關機期間意外關閉的問題。
+
+
+- 我們已修正啟用 REST 共用行事曆功能時，已移除的共用行事曆會再次出現的問題。
+
+
+- 我們已修正導致連絡人卡片成員資格清單不會正確顯示的問題。
+
+
+- 我們修正了導致使用者在切換資料夾時因檢視設定損毀而出現效能問題之問題。
+
+
+- 我們已修正在預期自訂圖示時，會針對附加的郵件顯示預設圖示的問題。
+
+
+- 進行了一項資料變更，在英國行事曆中包含了新的英國假日。
+
+
+- 我們已修正導致在部分診斷案例中，使用者在 Outlook 中預期停止回應的問題。
+
+
+- 我們已修正導致螢幕閱讀器無法存取特定的智慧連結註標的問題。
+
+
+- 我們已修正導致「索引過期」訊息太常顯示的問題。
+
+
+- 我們已修正在使用雲端設定時，導致某些切換類型選項進行錯誤同步處理的問題。
+
+
+- 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
+
+
+- 我們已修正使用 [僅加密] 和 [不要轉寄]範本的訊息透過物件模型傳回未預期權限的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正從 C2R 安裝之 PowerPoint 在 [資訊] | [屬性] | [進階屬性] 對話方塊中顯示公司資訊的問題。
+
+
+- 我們已修正儲存 PPAM 檔案類型時造成問題的案例。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正問題，因此使用者在列印甘特圖上的進度線時，應該不會再遇到問題。
+
+
+- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修復此問題：使用者現在可以順利插入圖表，而不會出現應用程式意外關閉的任何問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正傳送電子郵件通知給留言已獲得其他使用者回覆的使用者時的問題。
+
+
+- 我們已修正當開啟具有數千個追蹤變更的 Word 檔時的效能問題。
+
+
+- 我們已修正導致共用行事曆在新增後處於未選取狀態的問題。
+
+
+- 我們已修正在 Word 中 SVG 檔案可能會顯示為中斷連結的問題 (Red-X)。
+
+
+- 我們已修正包含外部內容的 SVG 影像可能無法顯示的問題。
+
+
+- 我們已修正顯示某些 SVG 檔案的問題。
+
+
+- 我們已修正在其他應用程式中顯示內嵌 Excel 試算表的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在啟動或錄製投影片放映時，與 Power BI 控制項和表單做為投影片內容相關的穩定性問題。
+
+
+- 我們已修正 Direct2D 和 Direct3D 互通性的多執行緒相關問題。
+
+
+- 我們已在 Outlook 預覽窗格中修正問題，允許 SVG 影像正確地轉譯。
+
+
+- 我們已修正記憶體可能損毀之輸入來源的捲動繫結相關問題。
+
+
+- 我們已修正影響在 Project 中自訂檢視顯示的問題。
+
+
+- 我們已修正字型下拉式清單無法正確反映圖形中選取的字型的問題。
+
+
+- 我們已修正會導致連絡人卡片無法顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2201-april-12"></a>版本 2201: 4 月 12 日
+*版本 2201 (組建 14827.20246)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2201-march-08"></a>版本 2201: 3 月 8 日
 *版本 2201 (組建 14827.20220)*
@@ -1732,7 +1909,7 @@ ms.locfileid: "63448936"
 - 我們已修正會導致某些客戶在載入行事歷時遇到停滯的問題。
 
 
-- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1743,7 +1920,7 @@ ms.locfileid: "63448936"
 - 此變更解決了在方程式中正確顯示字型的問題。
 
 
-- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1924,6 +2101,7 @@ ms.locfileid: "63448936"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14827.20220|version-2201-march-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
@@ -1933,5 +2111,4 @@ ms.locfileid: "63448936"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
-[//]: # (|Win32|MEC|生產|功能|版本16.0.14026.20334|-2105-7-13|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
