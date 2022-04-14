@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新更新資訊連結
-ms.openlocfilehash: 4fd30c07d0db5a55a2dc7aa988bd334dd669aded
-ms.sourcegitcommit: 769be997735f1a3362ef3357dc0862247852e6dc
+ms.openlocfilehash: 35091223a71d4373e81dd3504d1ee89244df83a2
+ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/04/2022
-ms.locfileid: "64637177"
+ms.lasthandoff: 04/12/2022
+ms.locfileid: "64804660"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -31,7 +31,7 @@ ms.locfileid: "64637177"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2022 年 3 月 PU  <br/> [KB5002074](https://support.microsoft.com/help/5002074) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2022 年 4 月 PU  <br/> [KB5002075](https://support.microsoft.com/help/5002075) <br/> |
 
 ## <a name="office-2013-updates"></a>Office 2013 更新
 > [!IMPORTANT]
@@ -39,7 +39,7 @@ ms.locfileid: "64637177"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 3 月 PU  <br/> [KB5002074](https://support.microsoft.com/help/5002074) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 4 月 PU  <br/> [KB5002075](https://support.microsoft.com/help/5002075) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010 更新
 > [!IMPORTANT]
@@ -52,6 +52,8 @@ ms.locfileid: "64637177"
 
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月發行的更新
+[2022 年 4 月的安全性和非安全性更新: KB5002075](https://support.microsoft.com/help/5002075)
+
 [2022 年 3 月的安全性和非安全性更新：KB5002074](https://support.microsoft.com/help/5002074)
 
 [2022 年 2 月的安全性與非安全性更新：KB5002073](https://support.microsoft.com/help/5002073)
@@ -74,7 +76,7 @@ ms.locfileid: "64637177"
 
 [2021 年 5 月的安全性和非安全性更新：KB5003427](https://support.microsoft.com/help/5003427)
 
-[2021 年 4 月的安全性和非安全性更新：KB5001778](https://support.microsoft.com/help/5001778)
+
 
 
 </br>
