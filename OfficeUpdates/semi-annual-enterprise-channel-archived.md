@@ -1,6 +1,6 @@
 ---
 title: 半年通道版本的封存版本資訊
-ms.author: anankani
+ms.author: dacoulte
 author: anankani
 manager: anankani
 ms.audience: ITPro
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 983782e92fbcaeebe5bbcfceee691fee57134da3
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 08008a999c78aa51c583e4a297473d96b154618d
+ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273362"
+ms.lasthandoff: 04/13/2022
+ms.locfileid: "64825738"
 ---
 # <a name="archived-release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的封存版本資訊
 
@@ -271,15 +271,15 @@ ms.locfileid: "59273362"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **快速尋找連結資料表：** 新的搜尋方塊可讓您輕鬆尋找連結資料表。 [深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+- **快速尋找連結資料表：** 新的搜尋方塊可讓您輕鬆尋找連結資料表。[深入了解](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
 ### <a name="excel"></a>Excel
 
 - **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 
-- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **資料視覺化工具增益集：** 從 Excel 快速建立 Visio 流程圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。[深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
 
 - **符合您情境的更多圖示：** 我們新增了超過 300 個新圖示。 其位置：[插入] > [圖示]。 [深入了解](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -287,17 +287,17 @@ ms.locfileid: "59273362"
 
 - **專注於剩餘工作：** 選取 [解決] 來摺疊註解，使得開啟中的項目能夠突顯。
 
-- **輸入會傳回多個值的公式**：現在您可以快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。 [深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
+- **輸入會傳回多個值的公式:** 快速輸入公式來傳回多個值，並且值會自動溢出至相鄰的儲存格。[深入了解](https://support.office.com/article/5c2c9cbb-def8-409a-b380-2fbf91b20aa3)<br />在[部落格文章](https://blog-insider.office.com/2019/06/13/dynamic-arrays-and-new-functions-in-excel/)中查看詳細資料
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
 
-- **勾勒草圖：** 為活頁簿中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[部落格文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看詳細資料
+- **勾勒草圖：** 為活頁簿中的 Office 圖形提供隨意的手繪外觀。[深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[部落格文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看詳細資料
 
-- **找到您要尋找的項目：** 搜尋命令、人員、檔案、相片、網頁文章等。 [深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **尋找您要的內容：** 搜尋命令、人員、檔案、相片、網頁文章等。[Learn more](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。 [深入了解](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
+- **六個功能強大的函數：** 我們新增了六個新的函數，讓您的試算表功能更強大：FILTER、SORT、SORTBY、UNIQUE、SEQUENCE 和 RANDARRAY。[深入了解](https://support.office.com/article/003df6c7-1dcb-4388-8e2e-0fe77a0887bc)
 
-- **向左看，向右看... XLOOKUP 在這裡！：** 一列接著一列，在含有 XLOOKUP 的表格或範圍中尋找您需要的項目。 [深入了解](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[部落格文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看詳細資料
+- **向左看，向右看... XLOOKUP 在這裡!:** 依列在表格或範圍中使用 XLOOKUP 來尋找您需要的項目。[深入了解](https://support.office.com/article/b7fd680e-6d10-43e6-84f9-88eae8bf5929)<br />在[部落格文章](https://blog-insider.office.com/2019/08/29/announcing-xlookup/)中查看詳細資料
 
 - **整理您的大型活頁簿：** 儲存格、公式、圖表、表格... 利用「活頁簿統計資料」來取得活頁簿的快照。
 
@@ -307,19 +307,19 @@ ms.locfileid: "59273362"
 
 ### <a name="outlook"></a>Outlook
 
-- **在螢幕上容納更多郵件：** 選取 [檢視] > [使用更緊密的間距] 來調整郵件之間的間距。 [深入了解](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
+- **在螢幕上容納更多郵件：** 選取 [檢視] > [使用較緊密的間距] 來調整郵件之間的間距。[深入了解](https://support.office.com/article/7aedcfaf-03de-49ad-9bf8-8730134f1f3b)
 
 - **符合您情境的更多圖示：** 我們新增了超過 300 個新圖示。 其位置：[插入] > [圖示]。 [深入了解](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
-- **讓我繪製：** 使用筆跡在圖片上徒手畫或新增繪圖畫布來傳達您的想法。 [深入了解](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
+- **讓我繪圖：** 使用筆跡在圖片上徒手畫或新增繪圖畫布來傳達您的想法。[深入了解](https://support.office.com/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
-- **取得位置建議：** 排程約會和會議時，請在 [位置] 中開始輸入，Outlook 會建議會議室、地址，以及其他最近使用的位置。 [深入了解](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />在[部落格文章](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)中查看詳細資料
+- **取得位置建議：** 排程約會和會議時，請在 [位置] 中開始輸入，Outlook 會建議會議室、地址，以及其他最近使用的位置。[深入了解](https://support.office.com/article/1d8631be-611a-4e3d-9109-b153e4622d53)<br />在[部落格文章](https://blog-insider.office.com/2019/07/08/location-suggestions-in-outlook-for-windows/)中查看詳細資料
 
 - **抵禦攻擊的進階防護：** 使用 Office 365 進階威脅防護，您會受到保護，不受電子郵件主旨、附加的郵件、簽署的郵件、網路路徑內超連結的攻擊。
 
 - **Outlook 中的 [插入連結] 功能表會插入含有租用戶系統管理員所定義的權限的連結：** Outlook 中使用 [插入連結] 所插入的連結，只有具有連結權限的使用者可使用。 這常會造成使用者來回傳送電子郵件，要求對方授與文件的存取權。 我們已更新這項體驗，現在插入的連結將具有由租用戶系統管理員設定的預設權限。針對 MSIT，這是「組織可以編輯」，使得以此方式收到共用連結的所有內部使用者將可以存取它。
 
-- **在不同燈光下查看郵件：** 使用太陽/月亮按鈕以在讀取窗格中於淺色和深色背景之間切換。 [深入了解](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+- **在不同燈光下查看郵件：** 使用 [太陽/月亮] 按鈕以在讀取窗格中於淺色和深色背景之間切換。[深入了解](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
 - **網路釣魚郵件很容易找到：** 垃圾郵件和網路釣魚訊息的外觀不同，因此您可以從收件匣輕鬆找出並加以清除。
 
@@ -327,7 +327,7 @@ ms.locfileid: "59273362"
 
 - **具有拼字問題或錯字的搜尋：** 即使您的拼寫不相符，Outlook 也會找到您要尋找的內容。
 
-- **將您的 LinkedIn 人際網路連接至 Outlook：** 安全地將您的 LinkedIn 帳戶與 Microsoft 帳戶連結，以直接在人員卡片中查看 LinkedIn 個人資料中的資訊。 [深入了解](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
+- **將您的 LinkedIn 社交網路連接至 Outlook：** 安全地將您的 LinkedIn 帳戶與 Microsoft 帳戶連結，以直接在人員卡片中查看 LinkedIn 個人資料中的資訊。[深入了解](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
 - **在搜尋結果中查看相關郵件：** Outlook 會分析搜尋字詞，然後在搜尋結果的最上方顯示最相關的電子郵件。 您也可以在 [最佳結果] 區段中查看依日期排列順序的所有結果。 [深入了解](https://support.office.com/article/67656bfc-4294-4dea-8422-de6382c49317)
 
@@ -335,17 +335,17 @@ ms.locfileid: "59273362"
 
 - **您來計算，格式設定交給我們** 我們能將難懂的手寫數學運算式變更為標準字元。只要選擇 [筆跡轉換數學]，然後選取您的手寫筆記，即可開始使用。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
-- **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等。 [深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **尋找您要的內容:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
 - **運用筆跡製作精彩的投影片：** 將筆跡轉換成標準圖形和文字，然後從 PowerPoint 設計工具吸取智慧的投影片設計概念。[深入了解](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-- **勾勒草圖：** 為簡報中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[部落格文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看詳細資料
+- **勾勒草圖:** 為簡報中的 Office 圖形提供隨意的手繪外觀。[深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[部落格文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看詳細資料
 
-- **筆跡立即重播：** 當您在投影片上進行手寫時，套用重播動畫可在投影片放映期間重播真實手繪的筆跡。 [深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />在[部落格文章](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)中查看詳細資料
+- **筆跡立即重播：** 當您在投影片上進行手寫時，套用重播動畫可在投影片放映期間重播真實手繪的筆跡。[深入了解](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)<br />在[部落格文章](https://blog-insider.office.com/2019/07/02/be-more-expressive-in-your-presentations-by-using-ink-replay-in-powerpoint/)中查看詳細資料
 
 - **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。
 
-- **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。 [深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **將圖例另存成 SVG：** 將圖表、圖形或其他圖例另存成可縮放向量圖形，其可調整大小，且不損失影像品質。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **列印講義上的投影片編號：** 投影片編號會自動包含在講義上。 由您決定將其保留或關閉。 [深入了解](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
@@ -363,39 +363,39 @@ ms.locfileid: "59273362"
 
 - **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。
 
-- **新的校對工具：** 不著重您的文字。 PowerPoint 現在提供文法及書寫建議。 [深入了解](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **新的校對工具：** 不必對您的文筆沒信心。PowerPoint 現在提供文法及書寫建議。[深入了解](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-- **即時的輔助字幕和翻譯字幕：** 簡報者的文字會自動顯示為畫面上的標題，或翻譯為所選語言的字幕。 [深入了解](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
+- **即時輔助字幕和翻譯字幕：** 簡報者的文字會自動顯示為畫面上的標題，或翻譯為所選語言的字幕。[深入了解](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **最佳化您的簡報：** 協助工具檢查程式可協助您以螢幕閱讀器為中心，在投影片上排列物件。<br />在[部落格文章](https://blog-insider.office.com/2019/10/15/reach-more-people-by-making-your-powerpoint-slides-work-with-a-screen-reader/)中查看詳細資料
 
-- **當您可以重複使用時為什麼要重新打造？** 重複使用您所建立的投影片或其他人與您共用的投影片來以節省時間。 [深入了解](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
+- **如果可以重複使用，為何要重新打造？** 重複使用您所建立的投影片或其他人與您共用的投影片以節省時間。[深入了解](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 ### <a name="visio"></a>Visio
 
-- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 - **回到犯罪場景：** 在犯罪場景調查範本中使用新的證據、室內、室外樣板，重建犯罪場景的細節。
 
 ### <a name="word"></a>Word
 
-- **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。 [深入了解](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
+- **更安全的影片體驗：** 安全性增強功能可讓您擁有更安全的線上影片體驗。[深入了解](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。 [深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
+- **建立更易於存取的 PDF：** 建立 PDF 檔案，在儲存之前，協助工具檢查程式會指出應該修正的協助工具問題。[深入了解](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />在[部落格文章](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/)中查看詳細資料
 
 - **更快速共用檔案：** 不需開啟檔案，即可從最近使用清單直接共用您的檔案。
 
 - **符合您情境的更多圖示：** 我們新增了超過 300 個新圖示。 其位置：[插入] > [圖示]。 [深入了解](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)<br />在[部落格文章](https://blog-insider.office.com/2019/04/24/your-feedback-in-action-new-insertable-icons/)中查看詳細資料
 
-- **精確橡皮擦：** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。 [深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **精確橡皮擦:** 從兩個橡皮擦尺寸中選擇，以修正小型筆跡缺陷。[深入了解](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **轉換檔案，以改善協助工具功能：** 將您的檔案升級為現代格式，讓所有人更容易存取。<br />在[部落格文章](https://blog-insider.office.com/2019/10/07/take-full-advantage-of-accessibility-in-office-documents/)中查看詳細資料
 
-- **勾勒草圖：** 為文件中的 Office 圖形提供隨意的手繪外觀。 [深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[部落格文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看詳細資料
+- **勾勒草圖：** 為文件中的 Office 圖形提供隨意的手繪外觀。[深入了解](https://support.office.com/article/ec2e4491-d3bf-4266-beac-f6298fdfde9f)<br />在[部落格文章](https://blog-insider.office.com/2019/07/03/sketchy-shapes-for-word-powerpoint-and-excel/)中查看詳細資料
 
-- **尋找您要尋找的項目：** 使用搜尋方塊來尋找文字、命令、說明等。 [深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
+- **尋找您要的內容:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
 
-- **不必再來回往返瀏覽器：** 您決定開啟 Office 文件連結的方式：在瀏覽器或應用程式中開啟。 [深入了解](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
+- **不會再從瀏覽器彈出了：** 由您決定開啟 Office 文件連結的方式：在瀏覽器或是應用程式中開啟。[深入了解](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
 - **簡歷編輯器加入 LinkedIn 簡歷小幫手：** 簡歷編輯器提供特別為簡歷量身打造的文法和樣式檢查選項，讓您的寫作更準確且更專業。
 
@@ -413,7 +413,7 @@ ms.locfileid: "59273362"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **在 Office 365 的 PowerPoint 中將手寫筆跡變更為圖形、文字或數學：** 從任意格式的筆跡變成 Office 圖形、文字，或以幾個筆劃變成數學運算式。 [深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **在 Office 365 的 PowerPoint 中將手寫筆跡變更為圖形、文字或數學：** 從任意格式的筆跡變成 Office 圖形、文字，或以幾個筆劃變成數學運算式。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1459,21 +1459,21 @@ ms.locfileid: "59273362"
 
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
 
-- **觀看工作表生動地呈現：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在工作表內橫衝直撞。 [深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
+- **看您的工作表變得栩栩如生：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個畫面橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 - **更深入地探索您的資料：** 新的 [構想] 按鈕可尋找資料的模式，並使用模式建立更有智慧且個人化的建議。[深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
 - **共同作業變得更容易：** 共同撰寫的增強功能代表的是使用條件式格式設定、儲存格樣式等等時，您的變更會與共同作業者的變更順暢地合併。
 
-- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，取得及轉換 (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對)。 [深入了解](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+- **聯結類似欄位上的表格：** 在比較合併表格的欄位時，[取得及轉換] (Power Query) 現在具有近似文字比對邏輯 (也稱為模糊比對) 的功能。[深入了解](https://support.office.com/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
-- **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。 同時輕鬆探索函數、資料行和參數。
+- **使用 Power Query 的增強功能快速撰寫程式碼：** 使用自動完成和語法色彩快速完成程式碼。同時輕鬆探索函數、資料行和參數。
 
 - **搜尋並享受：** 我們新增了 [搜尋以插入] 圖示，讓您輕鬆找到您要的圖示。 而當您選取時，[插入] 按鈕會告知您已經選取的數量。 [深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook"></a>Outlook
 
-- **我們已為您更新 Outlook 使用者體驗：** 先前利用「即將推出」提供預覽的簡化體驗，專門設計來幫助您專注於最重要的事物上。 [深入了解](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
+- **我們已為您更新 Outlook 使用者體驗：** 先前利用「即將推出」提供預覽的簡化體驗，設計目的為幫助您專注於最重要的事物上。[Learn more](https://support.office.com/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
 - **簡化且也能自訂的功能區：** 輕鬆使用簡化、以單一列方式陳列的常用按鈕。 輕鬆在傳統與 [簡化] 檢視之間切換，以及釘選/取消釘選命令。 [深入了解](https://support.office.com/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
@@ -1485,7 +1485,7 @@ ms.locfileid: "59273362"
 
 - **他們會看到您的 meme：** 如果使用文字或靜態影像還不足以清楚表達您的想法，您可以使用動畫 GIF。[深入了解](https://support.office.com/article/114bb251-861f-41cd-b20f-7e7289630c5b)
 
-- **更快速新增帳戶的方式：** 由於帳戶設定已改善，您現在可以更輕鬆地將使用雙因素驗證的 Outlook.com 和 Gmail 帳戶新增到 Outlook。 [深入了解](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+- **更快速新增帳戶的方式：** 已改善帳戶設定，您現在可以更快速地將使用雙因素驗證的 Outlook.com 和 Gmail 帳戶新增到 Outlook。[深入了解](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
 
 - **不再受限於同步處理限制：** Outlook 的增強功能指出資料夾限制已不存在，因此您可以開始將您的共用信箱同步處理。
 
@@ -1493,7 +1493,7 @@ ms.locfileid: "59273362"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **較佳變形效果：** 命名您的圖形以便加強掌控其轉化方式。 [深入了解](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
+- **較佳變形效果：** 命名您的圖形以便加強掌控其轉化方式。[深入了解](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **快速找到該檔案：** 想要尋找最近使用過的檔案嗎？ 只要在 [檔案] > [常用] 頁面的 [搜尋] 方塊中輸入，就能找到所需的檔案。
 
@@ -1517,9 +1517,9 @@ ms.locfileid: "59273362"
 
 ### <a name="visio"></a>Visio
 
-- **將進度圖表匯出到 Word：** 在 Word 文件中自動新增圖表內容，如圖案和中繼資料。 然後，自訂文件來建立程序指導方針和操作手冊。 [深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **從將進度圖表匯出到 Word：** 自動將圖表內容 (包括圖形和中繼資料) 新增至 Word 文件。然後自訂文件以建立程序指導方針和操作手冊。[深入了解](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
-- **資料流程圖上的 Double-Take：** 資料視覺化工具流程圖美觀的新版面配置，既清新、簡潔且更易於了解。 按一下 [設計] 索引標籤來取得選項。
+- **資料流程圖上發生 Double-Take：** 資料視覺化工具流程圖美觀的新版面配置，既乾淨且俐落，又易於了解。按一下 [設計] 索引標籤來取得選項。
 
 - **內建的 Azure 樣板：** 使用數十種 Azure 樣板來設計雲端應用程式或規劃架構。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
@@ -1527,7 +1527,7 @@ ms.locfileid: "59273362"
 
 - **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **從 Power BI 匯出 Visio 視覺效果：** 當匯出 Power BI 報表為 PDF 或 PowerPoint 等檔案時，Power BI Visio 視覺效果會正常顯示。 [深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+- **從 Power BI 匯出 Visio 視覺效果：** 當匯出 Power BI 報表為 PDF 或 PowerPoint 等檔案時，Power BI Visio 視覺效果會正常顯示。[深入了解](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
 ### <a name="word"></a>Word
 
@@ -1557,11 +1557,11 @@ ms.locfileid: "59273362"
 
 - **隨時儲存變更：** 將檔案上傳至 OneDrive，確保所有的更新都會自動儲存。
 
-- **隱私權控制：** 用於診斷資料和連線體驗的新增、更新及改良的控制項。 [深入了解](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
+- **隱私權控制:** 用於診斷資料和連線體驗的新增、已更新和改良的控制項。[深入了解](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Office 圖示有新的外觀：** Office 圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。
 
-- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的現有安裝中，預設會安裝 Microsoft Teams。 [深入了解](/DeployOffice/teams-install)
+- **安裝 Microsoft Teams：** 在 Office 365 專業增強版的現有裝中，預設會安裝 Microsoft Teams。[深入了解](/DeployOffice/teams-install)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1690,7 +1690,7 @@ ms.locfileid: "59273362"
 
 - 已解決導致使用者嘗試從「未接的交談」建立規則時遇到當機的問題。
 
-- 已修正 SMIME 演算法選取的問題。
+- 修正 SMIME 演算法選取的問題。
 
 - 已解決使用其他寄件者時導致無法顯示原則提示的問題。
 
@@ -1847,7 +1847,7 @@ ms.locfileid: "59273362"
 
 ### <a name="outlook"></a>Outlook
 
-- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook 中明年的行事曆項目可能會顯示不正確的時間。[深入了解](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 - 解決會導致客戶嘗試從「未接的交談」&quot;&quot;郵件建立規則時遇到當機的問題。
 
@@ -1861,7 +1861,7 @@ ms.locfileid: "59273362"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- Outlook 中明年的行事曆項目可能會顯示不正確。 [深入了解](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
+- Outlook 中明年的行事曆項目可能會顯示不正確的時間。[深入了解](/outlook/troubleshoot/calendars/calendar-items-display-incorrect-time)
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -2098,9 +2098,9 @@ ms.locfileid: "59273362"
 - **停止看到過去事件的提醒：** 您可以設定行事曆，在事件結束之後自動關閉事件的提醒。[深入了解](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 - **查看安全連結背後的 URL：** 安全連結可保護您防範在電子郵件中收到但隱藏原始 URL 的惡意 URL。 若要查看原始 URL，請將滑鼠游標移到 URL 上。 需要進階威脅防護授權。 [深入了解](https://products.office.com/exchange/advance-threat-protection)
 - **縮放與搖桿：** 選擇要用於所有郵件的預設值，而不用在每次讀取郵件時調整 [縮放]。[深入了解](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
-- **郵件加密：僅加密 IRM 原則：**[選項] > [權限] 功能表上的全新僅加密選項，供 Office 365 郵件加密使用者使用。 這個選項可讓您加密郵件，並將郵件傳送給組織內外的任何人。
+- **郵件加密：僅加密 IRM 原則：**[選項] > [權限] 選單上的全新僅加密選項，供 Office 365 郵件加密使用者使用。此選項可讓您加密郵件，並將郵件傳送給組織內外的任何人。
 - **當您被列於密件副本時，顯示提醒：** 當您不小心回覆所有人，而將自己列於密件副本時，密件副本資訊提示會顯示提醒。
-- **更智慧的 [收件者:] 行：** 當您按一下 [收件者:] 行來撰寫郵件時，我們會建議您可能要選擇的收件者。 此外，還可以看到收件者的相片，讓您知道要傳送的對象是正確的。 [深入了解](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
+- **更聰明的 [收件者：] 行：** 當您按一下 [收件者：] 來撰寫郵件時，我們會建議您可能要選擇的收件者。此外，還可以看到收件者相片，讓您知道要傳送的對象是正確的。[深入了解](https://support.office.com/article/147208AF-CA8E-4CDF-B71F-77BA81A54069)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **改善了對高解析度顯示器的支援：** 現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式在每個顯示器上都會順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。[深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
@@ -2110,12 +2110,12 @@ ms.locfileid: "59273362"
 - **免用手輸入：** 您有麥克風嗎？ 按一下 [聽寫] 並看看 PowerPoint 如何在您說話的同時輸入您說話的內容。 [深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
 - **功能區圖示有了嶄新的外觀：** 別擔心，一切照舊，而且它們在各種尺寸的螢幕上看起來都很棒。[深入了解](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **改善了對高解析度顯示器的支援：** 現在，如果您使用多部監視器或筆記型電腦基座，Office 應用程式在每個顯示器上都會順暢清晰地呈現，即使顯示器使用不同的縮放設定亦然。[深入了解](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
-- **色彩生動的超連結：** 超連結不再只是藍色的。 您可以套用您喜歡的任何字型色彩。 [深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
+- **色彩生動的超連結：** 超連結不再只是藍色的。您可以套用您喜歡的任何字型色彩。[深入了解](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 - **生動地觀看您的投影片：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個畫面橫衝直撞。[深入了解](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **您素描，我修飾：** 我們可將手繪文字和形狀變為更精緻的圖表。只需選取您的筆跡線條即可開始。[深入了解](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **顯示圖片後面的內容：** 將圖片放在工作表中、挑選您的預設，並觀看透明度變更。就這麼簡單！[深入了解](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。 [深入了解](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
-- **匯出為 4K 影片：** 您現在可以在將簡報匯出為影片時選取 4K 解析度。  [深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
+- **發佈到 Microsoft Stream：** 透過使用 Microsoft Stream，在組織內更安全地以影片形式共用簡報。[深入了解](https://support.office.com/article/C140551F-CB37-4818-B5D4-3E30815C3E83)
+- **匯出為 4K 影片：** 您現在可以在將簡報匯出為影片時選取 4K 解析度。[深入了解](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **能在套用篩選時插入 SVG：** Office 使用者現在可以在套用篩選的同時，插入 SVG。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **大型檔案現在會以更快速度開啟：** 現在開啟儲存在 OneDrive 或 SharePoint 上的檔案時，會在背景下載影像、影片及其他大型元素。
 
@@ -2222,7 +2222,7 @@ ms.locfileid: "59273362"
  - 已修正似乎為 Windows 10 上的許多使用者清除最近使用的檔案清單的問題。
  - 已修正即使已有系統管理員觸發的更新進行中，仍導致使用者看到 Office 更新業務列的問題。
  - 已修正與間歇性的空白登入提示相關的問題。
- - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。 [深入了解](/windows/deployment/update/waas-delivery-optimization)
+ - 已修正部分 Office 更新未使用傳遞最佳化對等快取的問題。[深入了解](/windows/deployment/update/waas-delivery-optimization)
 - 修正如果使用 Office 部署工具安裝 Office，並發生大小寫不相符時，可能導致移除產品或未啟用的錯誤。
 - 已修正導致 Windows 10 (版本 1803 或更高版本) 裝置上出現過多登入提示的問題。
 - 已修正下載連結圖片時，造成懸置的迴歸。
