@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 53059f21d56a405324de0e88d9837aea6a4a0c5f
-ms.sourcegitcommit: 850849354157247c0cee8d84ffb4ccc68e8b2657
+ms.openlocfilehash: ca7e27aa5c4a3ed45caaab51660da88c16b1b71d
+ms.sourcegitcommit: 60341017f3f3f46ac035dd94caca3c98338577d1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/09/2022
-ms.locfileid: "64743899"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64883827"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,72 @@ ms.locfileid: "64743899"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2205-april-15"></a>版本 2205: 4 月 15 日
+*版本 2205 (組建 15209.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **改進的建議樞紐分析表體驗：** 建議的樞紐分析表現在更聰明且更容易使用！ 對話方塊介面已由重新設計的面板取代，更容易在插入建議的樞紐分析表之前，檢視所有選項，並更輕鬆地變更資料選取範圍。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正新增標籤時對應圖表會重新著色的問題。
+
+
+- 我們已修正使用 TEXTSPLIT 函數與特定引數時可能會發生的問題。
+
+
+- 我們已修正當參照儲存格中包含公式 =IF(1) 的定義名稱時，應用程式停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正應用程式在呼叫 ResolveContacts 數千次之後，嘗試回應特定連絡人時會停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正多行敏感度標籤頁腳會定位，讓只有第一行會出現在投影片底部的問題。
+
+
+- 我們已修正使用者在插入另一個 PowerPoint 檔案做為連結化物件時看到空白區塊的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Word 中新式註解問題，將從 OneNote 複製的註解文字插入影像。
+
+
+- 我們已修正讓表格內的圖示在調整大小時能正確顯示的問題。
+
+
+- 我們已修正在 Word 中張貼新的新式註解之後，信任中心設定視窗無法開啟的問題。
+
+
+- 我們已修正關閉註解時，擱置中的書簽也會關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Backstage 中具有更新視覺效果的客戶在特定應用程式和主題中看不到他們所選擇的 Office 背景的問題。
+
+
+- 我們已修正當使用者暫停 [大聲朗讀] 功能時，應用程式在重新啟動時會跳到下一個段落的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-april-08"></a>版本 2205: 4 月 8 日
 *版本 2205 (組建 15130.20000)*
@@ -3512,7 +3578,7 @@ ms.locfileid: "64743899"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -5561,6 +5627,7 @@ ms.locfileid: "64743899"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
@@ -5570,5 +5637,4 @@ ms.locfileid: "64743899"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14922.20000|version-2202-january-26|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
