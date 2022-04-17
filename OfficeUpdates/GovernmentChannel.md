@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: c7b60b6ce0b993809e9ef4dbf92e81b4bb29ad90
-ms.sourcegitcommit: 415e3333f2f3389d47e50b8f70ca7f6fe80e9938
+ms.openlocfilehash: 487944cb665e0529923d746acc034958f029cdc2
+ms.sourcegitcommit: 60341017f3f3f46ac035dd94caca3c98338577d1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/25/2022
-ms.locfileid: "64404395"
+ms.lasthandoff: 04/15/2022
+ms.locfileid: "64883768"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -46,8 +46,60 @@ ms.locfileid: "64404395"
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
 
 
-
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-app-april-14"></a>Teams 應用程式：4 月 14 日
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **語言翻譯喜好設定：** 語言翻譯喜好設定即將推出至聊天和頻道訊息。 在訊息上啟動「翻譯」時，使用者將能夠指定一種慣用語言，以便將傳入訊息翻譯成該語言。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **會議邀請語言的會議召集人控制項：** 此功能可讓會議召集人從 Windows Outlook 排程會議時，選取 Teams 會議邀請語言。
+
+- **語言翻譯喜好設定：** 語言翻譯喜好設定即將推出至聊天和頻道訊息。 在訊息上啟動「翻譯」時，使用者將能夠指定一種慣用語言，以便將傳入訊息翻譯成該語言。
+
+## <a name="teams-admin-april-14"></a>Teams 系統管理員：4 月 14 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **Surface Hub 的 Teams 裝置管理：** 系統管理員將能夠透過 Teams 系統管理中心來設定、管理及監視其 Surface Hub。
+
+- **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
+
+- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制項套用至訴訟、群組或整個組織。
+
+- **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
+
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Surface Hub 的 Teams 裝置管理：** 系統管理員將能夠透過 Teams 系統管理中心來設定、管理及監視其 Surface Hub。
+
+- **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
+
+- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制項套用至訴訟、群組或整個組織。
+
+- **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
+
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Surface Hub 的 Teams 裝置管理：** 系統管理員將能夠透過 Teams 系統管理中心來設定、管理及監視其 Surface Hub。
+
+- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制項套用至訴訟、群組或整個組織。
+
+- **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
+
+- **在 Citrix 適用的 VDI 上的即時輔助字幕支援:** 虛擬機器上的使用者將可以使用即時字幕。 即時字幕會顯示通話中音訊的文字版本。
+
+
+
+
+
+
+
 
 ## <a name="teams-app-march-24"></a>Teams 應用程式：3月24日
 
