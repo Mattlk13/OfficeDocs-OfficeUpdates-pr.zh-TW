@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d736af017ee9b31a85e4ad8c8ba57944b59256a7
-ms.sourcegitcommit: 60341017f3f3f46ac035dd94caca3c98338577d1
+ms.openlocfilehash: e4905e5dd1e7fc00b7fdd60e75b86e4c269a3f2f
+ms.sourcegitcommit: 0f5602b07e6a26e2e64979b8e01ad39670f2fdc7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64883838"
+ms.lasthandoff: 04/20/2022
+ms.locfileid: "64961080"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,23 @@ ms.locfileid: "64883838"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2204-april-19"></a>版本 2204: 4 月 19 日
+*版本 2204 (組建 15128.20146)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
+
+
+- 我們已修正會導致使用者在嘗試回應特定連絡人時，遇到意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-april-15"></a>版本 2204: 4 月 15 日
 *版本 2204 (組建 15128.20126)*
@@ -1411,7 +1428,7 @@ ms.locfileid: "64883838"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -4379,7 +4396,7 @@ ms.locfileid: "64883838"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -5141,7 +5158,7 @@ ms.locfileid: "64883838"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
