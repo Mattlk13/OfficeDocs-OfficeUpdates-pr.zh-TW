@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 1e8244fcca334fd6fc3ab8a9c3a520ed3e1f2a74
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: 5872f63d08ec751a458e6fae928e21ff1a589000
+ms.sourcegitcommit: ff7ebc4558f0e0857c62692cfa00fa34854ff088
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804720"
+ms.lasthandoff: 04/21/2022
+ms.locfileid: "65016024"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -35,11 +35,44 @@ ms.locfileid: "64804720"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
+## <a name="version-2203-april-20"></a>版本 2203: 4 月 20 日
+*版本 2203 (組建 15028.20228)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
+
+
+- 我們已修正會導致使用者在回應特定連絡人時，遇到停止回應的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2203-april-12"></a>版本 2203：4 月 12 日
 *版本 2203 (組建 15028.20204)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="teams"></a>Teams
+
+- **電腦音訊的語音等候音樂：** 這項功能可確保音樂可以在電腦音訊暫留時播放。
+ 
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -77,8 +110,25 @@ ms.locfileid: "64804720"
 - **想要活頁簿為您提供入門瀏覽指引嗎？：** 了解活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽。[深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
 
 
+### <a name="teams"></a>Teams
+
+- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
 
 
+- **Teams 儲存區中的工作流程範本：** 工作流程可讓 Teams 使用者自動化重複性的工作，以更有效地共同作業並完成更多工作。 使用者將能夠依類別查看所有工作流程範本、從頭建立工作流程，並從 Teams 存放區中深入了解功能。 在任何範本上按一下，將會引導使用者完成內容中的設定經驗。
+
+
+- **表單與 Bookings 整合：** 將表單範本與 Booking 服務建立關聯，以在加入 Booking 約會之前，先傳送表單以取得來自出席者的資料。
+
+
+- **Teams 系統管理中心的 Teams 裝置存放區：** Teams 裝置存放區會透過 Teams 系統管理中心提供直接採購，系統管理員可以在其中探索、購買及佈建 Teams 認證的裝置。 這項功能將可供美國和加拿大的中小型組織使用。 未來會將此功能擴充給更多客戶。
+
+
+- **Microsoft Teams：從 Teams 桌面用戶端轉換成 Microsoft Teams 會議室：** 對於不需要設定正式會議的快速臨機操作工作模式，人員可以使用 Teams 投射，以無線方式連線到 Teams 會議室並顯示來自 Teams 桌面用戶端 (Windows和 Mac) 的內容。 使用者可以廣播其畫面，並投射儲存在使用者本機電腦上或經由 Office 365 存取的內容。
+
+
+ - **Teams 中工作流程的訊息動作進入點：** 訊息型工作流程對於共同作業和效率來說是非常強大的。 透過訊息動作進入點，使用者可以檢視/搜尋適當的工作流程，以及觸發預先設置的訊息動作溢出區功能表工作流程。
+ 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
@@ -1704,7 +1754,7 @@ ms.locfileid: "64804720"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2051,7 +2101,7 @@ ms.locfileid: "64804720"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2164,7 +2214,7 @@ ms.locfileid: "64804720"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
+- 已修正在包含數學方程式的文字內使用朗讀程式時可能發生的問題。
 
 
 
@@ -2510,6 +2560,7 @@ ms.locfileid: "64804720"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.14931.20132|version-2202-march-08|)
@@ -2519,5 +2570,4 @@ ms.locfileid: "64804720"
 [//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
-[//]: # (|Win32|CC|Production| |16.0.14729.20254|version-2112-january-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
