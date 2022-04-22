@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 66d8296ad72c89918c41be99be1cceee1ecb4ce5
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: 1827403f652b1361acfa51e115602b50e85c8dc7
+ms.sourcegitcommit: d454b0bfdf2719ea0c1607f3598974f98a6c7190
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825507"
+ms.lasthandoff: 04/22/2022
+ms.locfileid: "65033493"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -31,6 +31,21 @@ ms.locfileid: "64825507"
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
 ## <a name="april-2022-release"></a>2022 年 4 月版本
+
+**發行日期:** 2022 年 4 月 21 日
+
+*Microsoft AutoUpdate 4.46*
+
+
+**錯誤修正：**
+- 已修正應用程式在重新開機 macOS 之後不會更新的問題
+
+[下載 Microsoft AutoUpdate 4.46 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.46.22042001_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+C55FB506525B625D5539385F9AF267B1ECC0B6534BF9461A7CF04FAECAF82FFB
+
 
 **發行日期:** 2022 年 4 月 12 日
 
