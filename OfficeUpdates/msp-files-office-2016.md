@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的 2016 Office永久版本最新 .msp 檔案清單
-ms.openlocfilehash: 46a554c7c047e7e1d61c24970ad91337ee222155
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: 22c8274e751603b6cfd8fedc3f5fdc2ebecb3710
+ms.sourcegitcommit: 673590ccf305668fa2b1752ba0286d269ff984ed
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804670"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65070765"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品最新的 .msp 檔案清單
 
@@ -97,7 +97,7 @@ ms.locfileid: "64804670"
 |project-x-none  <br/>|Project 2016  <br/>|2022 年 4 月 5 日 <br/>|[5002132](https://support.microsoft.com/help/5002132) <br/>|2020 年 7 月 14 日  <br/>|[4484441](https://support.microsoft.com/help/4484441) <br/>|[4484399](https://support.microsoft.com/help/4484399) <br/>|
 |proof-x-none  <br/> |Office 2016  <br/> |2019 年 5 月 7 日  <br/> |[4464538](https://support.microsoft.com/help/4464538) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |protocolhndlr-x-none  <br/> |Office 2016  <br/> |2019 年 9 月 3 日  <br/> |[3114852](https://support.microsoft.com/help/3114852) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|publisher-x-none  <br/> |Publisher 2016  <br/> |2017 年 12 月 1 日  <br/> |[4484334](https://support.microsoft.com/help/4484334) <br/> |2020 年 4 月 14 日  <br/> |[4011097](https://support.microsoft.com/help/4011097) <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |
+|publisher-x-none  <br/> |Publisher 2016  <br/> |2020 年 12 月 1 日  <br/> |[4484334](https://support.microsoft.com/help/4484334) <br/> |2020 年 4 月 14 日  <br/> |[4011097](https://support.microsoft.com/help/4011097) <br/> |[2920680](https://support.microsoft.com/help/2920680) <br/> |
 |riched20-x-none  <br/>|Office 2016  <br/>|2018 年 10 月 2 日  <br/>|[4011669](https://support.microsoft.com/help/4011669) <br/>|2021 年 10 月 12 日 <br/>|[4461476](https://support.microsoft.com/help/4461476) <br/>|不適用  <br/>|
 |seguiemj-x-none  <br/> |Office 2016  <br/> |2019 年 7 月 2 日  <br/> |[4032236](https://support.microsoft.com/help/4032236) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> ||
 |setupexe-x-none  <br/> |Office 2016  <br/> |2019 年 8 月 6 日  <br/> |[3141456](https://support.microsoft.com/help/3141456) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
