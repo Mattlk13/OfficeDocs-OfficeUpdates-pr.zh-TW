@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 5872f63d08ec751a458e6fae928e21ff1a589000
-ms.sourcegitcommit: ff7ebc4558f0e0857c62692cfa00fa34854ff088
+ms.openlocfilehash: eb37cb51d2a20d09694b323883bdc14e9cb0a6e8
+ms.sourcegitcommit: 7ddfff5c2ad3b92d6d4a5a8fcb650e7c0fb509aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65016024"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65076791"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,62 @@ ms.locfileid: "65016024"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2204-april-26"></a>版本 2204: 4 月 26 日
+*版本 2204 (組建 15128.20178)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **減少條件式格式設定規則的不必要片段：** 我們將在將複製的儲存格貼到該儲存格範圍時，減少連續儲存格範圍中條件式格式設定規則的片段。
+
+- **Power BI 資料集要求存取改進功能：** 此更新會在使用者嘗試在 Excel 中重新整理連線至目前無法存取之資料集的樞紐分析表時，提供使用者一種方法來要求存取 Power BI 資料集。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
+
+
+- 這項變更可協助使用者找到正確的設定，以管理協力廠商會議提供者的預設線上會議選項。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在連線到沒有服務 URL 的商務用 OneDrive端點時，導致 Outlook 在啟動期間意外關閉的問題。
+
+
+- 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
+
+
+- 我們已修正會導致使用者在嘗試回應特定連絡人時，遇到意外關閉的問題。
+
+
+- 我們已修正導致使用者在刪除資料時意外遇到關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正字型下拉式清單無法正確反映圖形中選取的字型的問題。
+
+
+- 我們已修正在按一下滑桿時，允許新增漸層停駐點的問題。
+
+
+- 我們已修正 Direct2D 和 Direct3D 互通性的多執行緒相關問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-april-20"></a>版本 2203: 4 月 20 日
 *版本 2203 (組建 15028.20228)*
@@ -124,7 +180,7 @@ ms.locfileid: "65016024"
 - **Teams 系統管理中心的 Teams 裝置存放區：** Teams 裝置存放區會透過 Teams 系統管理中心提供直接採購，系統管理員可以在其中探索、購買及佈建 Teams 認證的裝置。 這項功能將可供美國和加拿大的中小型組織使用。 未來會將此功能擴充給更多客戶。
 
 
-- **Microsoft Teams：從 Teams 桌面用戶端轉換成 Microsoft Teams 會議室：** 對於不需要設定正式會議的快速臨機操作工作模式，人員可以使用 Teams 投射，以無線方式連線到 Teams 會議室並顯示來自 Teams 桌面用戶端 (Windows和 Mac) 的內容。 使用者可以廣播其畫面，並投射儲存在使用者本機電腦上或經由 Office 365 存取的內容。
+- **Microsoft Teams：從 Teams 桌面用戶端投射到 Microsoft Teams 會議室：** 對於不需要設定正式會議的快速臨機操作工作模式，人員可以使用 Teams 投射，以無線方式連線到 Teams 會議室並顯示來自 Teams 桌面用戶端 (Windows和 Mac) 的內容。使用者可以廣播其畫面，並投射儲存在使用者本機電腦上或經由 Office 365 存取的內容。
 
 
  - **Teams 中工作流程的訊息動作進入點：** 訊息型工作流程對於共同作業和效率來說是非常強大的。 透過訊息動作進入點，使用者可以檢視/搜尋適當的工作流程，以及觸發預先設置的訊息動作溢出區功能表工作流程。
@@ -2560,6 +2616,7 @@ ms.locfileid: "65016024"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
@@ -2569,5 +2626,4 @@ ms.locfileid: "65016024"
 [//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
-[//]: # (|Win32|CC|Production| |16.0.14729.20248|version-2112-january-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
