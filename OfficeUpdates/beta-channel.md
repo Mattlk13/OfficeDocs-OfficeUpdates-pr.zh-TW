@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ca7e27aa5c4a3ed45caaab51660da88c16b1b71d
-ms.sourcegitcommit: 60341017f3f3f46ac035dd94caca3c98338577d1
+ms.openlocfilehash: a3f449a70b53999fcb2548940355ea1d3cb3ddc0
+ms.sourcegitcommit: 673590ccf305668fa2b1752ba0286d269ff984ed
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64883827"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65070805"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,6 +31,9 @@ ms.locfileid: "64883827"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2205-april-22"></a>版本 2205: 4 月 22 日
+*版本 2205 (組建 15211.20000)*
+
 ## <a name="version-2205-april-15"></a>版本 2205: 4 月 15 日
 *版本 2205 (組建 15209.20000)*
 
@@ -40,7 +43,7 @@ ms.locfileid: "64883827"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **改進的建議樞紐分析表體驗：** 建議的樞紐分析表現在更聰明且更容易使用！ 對話方塊介面已由重新設計的面板取代，更容易在插入建議的樞紐分析表之前，檢視所有選項，並更輕鬆地變更資料選取範圍。
+- **改進的建議樞紐分析表體驗：** 建議的樞紐分析表現在更聰明且更容易使用！對話方塊介面已由重新設計的面板取代，更容易在插入建議的樞紐分析表之前檢視所有選項，並更輕鬆地變更資料選取範圍。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -5627,6 +5630,7 @@ ms.locfileid: "64883827"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
@@ -5636,5 +5640,4 @@ ms.locfileid: "64883827"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14931.20010|version-2202-february-04|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

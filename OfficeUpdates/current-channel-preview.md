@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e4905e5dd1e7fc00b7fdd60e75b86e4c269a3f2f
-ms.sourcegitcommit: 0f5602b07e6a26e2e64979b8e01ad39670f2fdc7
+ms.openlocfilehash: dfa3fafbfec62dbeafc5f6ca9272db8ced4543de
+ms.sourcegitcommit: 673590ccf305668fa2b1752ba0286d269ff984ed
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/20/2022
-ms.locfileid: "64961080"
+ms.lasthandoff: 04/27/2022
+ms.locfileid: "65070795"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,20 @@ ms.locfileid: "64961080"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2204-april-25"></a>版本 2204: 4 月 25 日
+*版本 2204 (組建 15128.20178)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 這項變更可協助使用者找到正確的設定，以管理協力廠商會議提供者的預設線上會議選項。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-april-19"></a>版本 2204: 4 月 19 日
 *版本 2204 (組建 15128.20146)*
@@ -1428,7 +1442,7 @@ ms.locfileid: "64961080"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -4396,7 +4410,7 @@ ms.locfileid: "64961080"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -5158,7 +5172,7 @@ ms.locfileid: "64961080"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -6888,7 +6902,7 @@ ms.locfileid: "64961080"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
