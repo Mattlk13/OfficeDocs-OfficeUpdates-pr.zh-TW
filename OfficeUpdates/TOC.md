@@ -55,6 +55,7 @@
 # Teams
 ## [Teams 系統管理員版本資訊](teams-admin.md)
 ## [政府雲端版本資訊](GovernmentChannel.md)
+## [Teams 應用程式版本](Teams-App-Versioning.md)
 
 # Office 伺服器產品
 ## [Exchange Server 更新](/Exchange/new-features/build-numbers-and-release-dates)

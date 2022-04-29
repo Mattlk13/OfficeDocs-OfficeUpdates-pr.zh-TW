@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: a222b91c670eafae3819ff0ed2a88da2bba50c39
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: 90d3f034978a699b3e7aba6094f8a6d25a208ce9
+ms.sourcegitcommit: eed715a4343f402bf53cd09d212229a2cd7194ae
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825617"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65125946"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -48,6 +48,8 @@ ms.locfileid: "64825617"
 
 - **Office 應用程式的新視覺更新:** 我們很高興宣佈針對 Windows 11 版 Office 桌面應用程式進行完整的視覺更新! 根據客戶的意見，此更新在所有您最愛的 Office 應用程式中皆提供簡單且更一致的體驗，讓您能專注於工作。 全新的外觀以 [Fluent Design](https://medium.com/microsoft-design/m365future-815cf30a8be) 原則為基礎並與新的 Windows 11 具有一致性，能為您的電腦提供更順暢的體驗。 <br/>
 [深入了解](https://insider.office.com/blog/visual-update-in-office-for-windows-now-available-in-current-channel-preview)
+
+- **參與經驗：針對受保護通道上的企業客戶擴充支援：** 這項功能延伸了現有的功能，可協助使用者透過參與體驗到受保護的通道，從 Office 獲得最大價值。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -1311,7 +1313,7 @@ ms.locfileid: "64825617"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
     
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -1909,7 +1911,7 @@ ms.locfileid: "64825617"
 - 我們已修正會導致某些客戶在載入行事歷時遇到停滯的問題。
 
 
-- 我們已修正導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
+- 我們修正了導致在其設定檔中具有大型階層的共用或委派信箱的使用者遇到停止回應的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -1920,7 +1922,7 @@ ms.locfileid: "64825617"
 - 此變更解決了在方程式中正確顯示字型的問題。
 
 
-- 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
+- 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
