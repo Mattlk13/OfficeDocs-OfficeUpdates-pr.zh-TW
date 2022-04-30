@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams系統管理員功能的版本資訊。
-ms.openlocfilehash: ed7234b4ee5bdb206b5fe5ca8bd40587ae4b7ed4
-ms.sourcegitcommit: 60341017f3f3f46ac035dd94caca3c98338577d1
+ms.openlocfilehash: f3d83963ec7296c093e53fd344a56a688b0f37ab
+ms.sourcegitcommit: f2d1684eb7cddf275bd274eaf18b44605f014797
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/15/2022
-ms.locfileid: "64883818"
+ms.lasthandoff: 04/30/2022
+ms.locfileid: "65144886"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams系統管理員功能的版本資訊
 
@@ -28,11 +28,16 @@ ms.locfileid: "64883818"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="april-14-2022"></a>2022 年 4 月 14 日
+## <a name="april-28-2022"></a>2022 年 4 月 28 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **Cortana圖示的主控台首頁更新，在Windows Microsoft Teams 會議室上將 Share (也稱為 [簡報) ] 按鈕：** Windows上的Teams 會議室會將 [簡報] 按鈕帶回主控台主畫面，並將它重新命名為 [共用]，以便在會議外和會議內共用之間保持一致經驗。 Cortana推播到交談按鈕會移至主畫面底部，讓客戶能夠繼續使用Cortana，而不需要變更其工作流程，即可從會議Teams 會議室裝置呈現 HDMI 內容。 如果已針對Teams 會議室啟用Cortana語音協助原則，則適用Cortana設計變更。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="april-14-2022"></a>2022 年 4 月 14 日
 
 - **支援虛擬桌面基礎結構上 Citrix 的Teams** 轉譯：一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
 
@@ -44,8 +49,6 @@ ms.locfileid: "64883818"
 
 - **會議室容量警告 (根據 Android 上Teams會議室的人員計算支援的相機) ：** 當Teams面板部署在Teams 會議室支援人員計數的會議室中時，Teams面板可以在會議室位於或超過容量時顯示警告訊息，以通知會議室已滿。 Android 上的Teams 會議室會在會議室容量過高時，在會議室顯示器的前面顯示警告訊息。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="march-24-2022"></a>2022 年 3 月 24 日
 
 - **從Teams系統管理中心匯出Teams清單：** 系統管理員可以從 Teams 系統管理中心將Teams清單匯出為 CSV 檔案。
@@ -56,7 +59,7 @@ ms.locfileid: "64883818"
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
 
-- **適用于 IT 系統管理員的多語言會議邀請控制項：** IT 系統管理員可以套用新的Teams會議原則，以Teams會議邀請設定多種語言。 最多可以將 2 種語言的控制套用至使用者、群組或整個組織。
+- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制套用至使用者、群組或整個組織。
 
 ## <a name="march-11-2022"></a>2022 年 3 月 11 日
 
@@ -188,7 +191,7 @@ ms.locfileid: "64883818"
 
 - **EHR 整合式虛擬就診的 SMS 病患通知：** 讓患者能夠接收 SMS 通知以進行確認，以及其 EHR 整合式虛擬就診的其餘部分。
 
-- **Teams Surface Hub 的裝置管理：** 系統管理員將能夠透過Teams系統管理中心來設定、管理及監視其 Surface Hub。
+- **Surface Hub 的 Teams 裝置管理：** 系統管理員將能夠透過 Teams 系統管理中心來設定、管理及監視其 Surface Hub。
 
 - **互動式大型資源庫：** 一次最多檢視 49 位影片參與者，並透過釘選和焦點等動作與其互動，並觀察他們的會議活動，例如舉手和反應。
 
