@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a3f449a70b53999fcb2548940355ea1d3cb3ddc0
-ms.sourcegitcommit: 673590ccf305668fa2b1752ba0286d269ff984ed
+ms.openlocfilehash: 3f9fae7af93a0d1cb9e35d795b867eea4b53be34
+ms.sourcegitcommit: fced7e029230519f2ef64e16c1f84b6fd10343df
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65070805"
+ms.lasthandoff: 04/29/2022
+ms.locfileid: "65137634"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,104 @@ ms.locfileid: "65070805"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2205-april-29"></a>版本 2205: 4 月 29 日
+*版本 2205 (組建 15225.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Power BI 要求存取的改良功能:** 我們已為建立連接到 Power BI 資料集之樞紐分析表的使用者升級體驗。 在改善的體驗之前，當使用者嘗試重新更新連接到他們無法存取之資料集的樞紐分析表時，不會發生任何改變。 現在會出現一個對話方塊，通知使用者他們沒有資料集的存取權，並允許他們按一下連結以要求擁有者的存取權。 一旦獲得存取權，使用者就可以返回樞紐分析表，然後重新更新以繼續分析。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當應用程式無法處理連結資料表上的大型 .csv 檔案時，產生的 Access 2016 錯誤「您的電腦磁碟空間不足」的問題。
+
+
+- 我們已修正此問題，讓新式圖表在格式化貨幣值時，現在會顯示當地語系化貨幣符號。
+
+
+- 我們已修正當使用者切換資料夾，並且使用釘選的網頁增益集時，讀取窗格可能會消失的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正字母 「j」 未正確插入的問題。
+
+
+- 我們已修正當視窗調整大小時，功能區中的某些按鈕無法正確繪製的問題。
+
+
+- 我們目前正在從資料驗證自動完成下拉式清單中移除重複項目。
+
+
+- 我們已修正導致 Excel 耗用過多記憶體的問題。
+
+
+- 我們已修正應用程式會因為 PowerQuery 資料處理而意外關閉的問題。
+
+
+- 我們已修正 LET 函數中的名稱引數與欄參照相同，且資料列為絕對值的問題。
+
+
+- 我們已修正「重新連結清單至新網站」對話方塊的問題，其不允許重新連結至超過 63 個字元的新 SharePoint 清單 URL。
+
+
+- 我們已修正在巨集建立器中停用關閉按鈕的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正應用程式針對特定工作使用超過 500 個執行緒的問題。
+
+
+- 我們已修正使用者在離線模式下按一下 「傳送\接收所有資料夾」時，會收到錯誤訊息的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正關閉受標籤保護的檔案時，會發生 OneDrive 衝突的問題。
+
+
+- 我們已修正按一下「上一步」和「下一步」時，註解在迴圈中不正確顯示的問題。
+
+
+- 我們已修正刪除段落標記之後，游標會卷至文件尾端的問題。
+
+
+- 我們已修正在 LaTex 等式中切換 Linear 和 Professional 可能會導致顯示錯誤的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正已設定為僅啟用/停用狀態的四個策略現在設定為接受數值並寫入 HKCU 的問題。
+
+
+- 我們已修正與特定範例文字相關的問題，此問題會因為 RICH-edit HTML 忽略 HTML 小元素，且未重設超連結結尾的字元格式遮罩而顯示不佳。
+
+
+- 我們已修正在更新期間造成「發佈封裝失敗」錯誤，導致檔案類型關聯遺失的問題。
+
+
+- 我們已修正當 PowerShell 停用時，使用者無法安裝 M365 應用程式的問題。
+
+
+- 我們已修正 OCPS 用戶端程式代碼的問題，方法為啟用正確 URL 的 config 服務來代表 Federation Check。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-april-22"></a>版本 2205: 4 月 22 日
 *版本 2205 (組建 15211.20000)*
@@ -5630,6 +5728,7 @@ ms.locfileid: "65070805"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
@@ -5639,5 +5738,4 @@ ms.locfileid: "65070805"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15003.20004|version-2203-february-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
