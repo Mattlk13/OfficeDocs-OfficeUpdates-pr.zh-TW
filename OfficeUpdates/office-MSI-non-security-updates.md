@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: fdc3958479f4e9998a56b6468aee9535c741d150
-ms.sourcegitcommit: 5269bb4e3c7607e1396ed9ec9eee0124c66a88c4
-ms.translationtype: MT
+ms.openlocfilehash: 908bce1b1195b3e60375acc717d9128f5ec44bd0
+ms.sourcegitcommit: c35a9fa39e3fba147dfbcf7c956e2a02d999286f
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/05/2022
-ms.locfileid: "64651029"
+ms.lasthandoff: 05/03/2022
+ms.locfileid: "65182406"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -27,10 +27,14 @@ ms.locfileid: "64651029"
 <br/><br/>
 
 
+## <a name="may-3-2022"></a>2022 年 5 月 3 日
+**Office 2016**<br/>
+Microsoft Access 2016 更新 ([KB5002048](https://support.microsoft.com/help/5002048)) </br>
+
 ## <a name="april-5-2022"></a>2022 年 4 月 5 日
 **Office 2016**<br/>
-Microsoft Office 2016 ([KB5002141](https://support.microsoft.com/help/5002141))  </br>
-Microsoft Project 2016 ([KB5002132](https://support.microsoft.com/help/5002132))  </br>
+Microsoft Office 2016 的更新 ([KB5002141](https://support.microsoft.com/help/5002141)) </br>
+Microsoft Project 2016 的更新 ([KB5002132](https://support.microsoft.com/help/5002132)) </br>
 
 ## <a name="march-1-2022"></a>2022 年 3 月 1 日
 **Office 2016**<br/>
@@ -50,14 +54,6 @@ Microsoft Project 2016 的更新 ([KB4504713](https://support.microsoft.com/help
 ## <a name="december-7-2021"></a>2021 年 12 月 7 日
 **Office 2016**<br/>
 商務用 Skype 2016 的更新 ([KB5001940](https://support.microsoft.com/help/5001940))
-
-## <a name="october-5-2021"></a>2021 年 10 月 5 日
-**Office 2016**<br/>
-Microsoft Access 2016 ([KB5001978](https://support.microsoft.com/help/5001978)) </br>
-Microsoft Office 2016 更新 ([KB3114524](https://support.microsoft.com/help/3114524)) </br>
-Microsoft Office 2016 更新 ([KB4462197](https://support.microsoft.com/help/4462197)) </br>
-Microsoft Office 2016 的更新（[KB4486711](https://support.microsoft.com/help/4486711)） </br>
-Microsoft Outlook 2016 的更新 ([KB5001998](https://support.microsoft.com/help/5001998)) </br>
 
 
 </br>
