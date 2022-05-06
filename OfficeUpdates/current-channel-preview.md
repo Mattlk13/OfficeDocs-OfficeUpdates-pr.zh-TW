@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: dfa3fafbfec62dbeafc5f6ca9272db8ced4543de
-ms.sourcegitcommit: 673590ccf305668fa2b1752ba0286d269ff984ed
+ms.openlocfilehash: 9f8156fb7f8b1aa5e623382c1846aaebb5baebfc
+ms.sourcegitcommit: 600d756f64629790fd051b1b2a88ea1fac9111f7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65070795"
+ms.lasthandoff: 05/05/2022
+ms.locfileid: "65214267"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,40 @@ ms.locfileid: "65070795"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2204-may-04"></a>版本 2204：5 月 4 日
+*版本 2204 (組建 15128.20206)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **只追蹤您在文件中的變更：** 當您共同作業時，有時候您只想追蹤自己的變更，而不想強制此設定追蹤其他人的部分。 若只要追蹤您的變更，請前往 [校閱] 索引標籤，選取 [追蹤修訂]，然後選擇 [只有我]。<br />在[部落格文章](https://insider.office.com/en-us/blog/track-just-your-changes-in-word)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+
+- 我們已修正導致 Excel 耗用過多記憶體的問題。
+
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正刪除段落標記之後，文件會捲動至結尾的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-april-25"></a>版本 2204: 4 月 25 日
 *版本 2204 (組建 15128.20178)*
@@ -1442,7 +1476,7 @@ ms.locfileid: "65070795"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -3171,7 +3205,7 @@ ms.locfileid: "65070795"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -3403,7 +3437,7 @@ ms.locfileid: "65070795"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼：
+    - 登錄機碼:
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -3981,7 +4015,7 @@ ms.locfileid: "65070795"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -5971,7 +6005,7 @@ ms.locfileid: "65070795"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-27"></a>版本2008：8月27日
-*版本2008（組建13127.20296）*
+*版本 2008 (組建 13127.20296)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -6498,7 +6532,7 @@ ms.locfileid: "65070795"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-25"></a>版本 2006：6 月 25 日
-*版本2006（組建13001.20266）*
+*版本 2006 (組建 13001.20266)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -6902,7 +6936,7 @@ ms.locfileid: "65070795"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
