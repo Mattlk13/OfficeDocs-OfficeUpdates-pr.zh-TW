@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3f9fae7af93a0d1cb9e35d795b867eea4b53be34
-ms.sourcegitcommit: fced7e029230519f2ef64e16c1f84b6fd10343df
+ms.openlocfilehash: dc0135317f320cdcd40855e52df6f43c994f45c2
+ms.sourcegitcommit: 8c916ba9f8c3133a9e32dc59eb9e40f21a97d14c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65137634"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "65249715"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,50 @@ ms.locfileid: "65137634"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2206-may-06"></a>版本 2206：5 月 6 日
+*版本 2206 (組建 15227.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **自動篩選更快且更有效率:** 自動篩選功能現在明顯更快了! 這些改善是藉由減少記憶體使用量，以及優化篩選條件比較演算法所進行的呼叫所達成。 在記憶體較少或 CPU 記憶體輸送量較慢的低階裝置上，優化特別明顯。
+
+- **在資源受限的裝置上優化 Excel 重新計算:** 在資源受限的裝置上，(兩個核心或少於 8 GB 的 RAM 或更少)，Excel 現在預設會在單一線程上執行計算，讓重新計算更加優化。 在大部分情況下，使用者應該會看到這些裝置上的計算速度明顯變快。 請注意，在某些情況下需要大量計算，使用者可能會想要將計算執行緒數目設定為 2，以覆蓋此預設值。 如需詳細資訊，請參閱 Microsoft 支援服務網站上 [[進階選項]](https://support.microsoft.com/en-us/office/advanced-options-33244b32-fe79-4579-91a6-48b3be0377c4) 頁面的 [公式] 區段。
+
+- **加速公式輸入:** 我們已藉由減少記憶體使用量、進行更有效率的記憶體配置呼叫，以及優化所編輯儲存格周圍可見範圍的重新繪製，來加快在儲存格中輸入公式所需的時間。 這些優化在記憶體較慢或 CPU 記憶體輸送量較慢的裝置上更明顯，例如低成本裝置。
+
+### <a name="onenote"></a>OneNote
+
+- **只使用語音搭配聽寫功能進行記事:** 使用您的聲音來聽寫內容，是一種快速且免操作便可將您的想法輸入記事中的方法，顯示速度更比打字輸入還快三倍! 透過 OneNote 的聽寫功能，您現在可以直接說出自己的想法，來建立內容。 若要存取此功能，只要按一下 [首頁] 索引標籤的 [聽寫] 麥克風圖示，即可開始聽寫您的記事。 [深入了解](https://support.office.com/article/2f5d1549-afe1-4abd-95ff-829a839e3d00)
+
+### <a name="office-suite"></a>Office 套件
+
+- **輕鬆存取桌面上的共用文件:** [登入組織] 選項可讓來賓使用者使用一次性密碼或協力廠商聯盟，存取已在其桌面版 Office 應用程式上與之共用的文件。 這項功能先前已在 Office 網頁版中提供，現在也是 Office 桌面應用程式的選項。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正將記錄插入已結合至 ADO 記錄集的表單時，先前建立的記錄會顯示為空白的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在具有圖表工作表的活頁簿上執行 VBA 指令碼/增益集時，可能會導致應用程式意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-april-29"></a>版本 2205: 4 月 29 日
 *版本 2205 (組建 15225.20000)*
@@ -5728,6 +5772,7 @@ ms.locfileid: "65137634"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
@@ -5737,5 +5782,4 @@ ms.locfileid: "65137634"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15018.20008|version-2203-february-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15012.20000|version-2203-february-18|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

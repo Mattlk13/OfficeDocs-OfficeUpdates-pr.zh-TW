@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 0ac5802d3998aa0f1c0dc783aa59d20994f5e68b
-ms.sourcegitcommit: 600d756f64629790fd051b1b2a88ea1fac9111f7
+ms.openlocfilehash: 7a97799f8eca9c2d2675e0d07472bc8efa5c974d
+ms.sourcegitcommit: 8c916ba9f8c3133a9e32dc59eb9e40f21a97d14c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2022
-ms.locfileid: "65214268"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "65249705"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -54,7 +54,7 @@ ms.locfileid: "65214268"
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |2022|4 月 26 日|[版本 2204 (組建 15128.20178)](current-channel.md#version-2204-april-26)| | | |
 |2022|4 月 20 日|[版本 2203 (組建 15028.20228)](current-channel.md#version-2203-april-20)| | | |
-|2022|4 月 18 日| |[版本 2201 (組建 14827.20246)](monthly-enterprise-channel.md#version-2201-april-18)| | |
+|2022|4 月 18 日| |[版本 2201 (組建 14827.20246)](monthly-enterprise-channel.md#version-2201-april-12)| | |
 |2022|4 月 12 日|[版本 2203 (組建 15028.20204)](current-channel.md#version-2203-april-12)|[版本 2202 (組建 14931.20274)](monthly-enterprise-channel.md#version-2202-april-12)|[版本 2202 (組建 14931.20274)](semi-annual-enterprise-channel-preview.md#version-2202-april-12)|[版本 2108 (組建 14326.20910)](semi-annual-enterprise-channel.md#version-2108-april-12)<br/>[版本 2102 (組建 13801.21278)](semi-annual-enterprise-channel.md#version-2102-april-12)|
 |2022|3 月 30 日|[版本 2203 (組建 15028.20160)](current-channel.md#version-2203-march-30)| | | |
 |2022|3 月 8 日|[版本 2202 (組建 14931.20132)](current-channel.md#version-2202-march-08)|[版本 2201 (組建 14827.20220)](monthly-enterprise-channel.md#version-2201-march-08)<br/>[版本 2112 (組建 14729.20360)](monthly-enterprise-channel.md#version-2112-march-08)|[版本 2202 (組建 14931.20132)](semi-annual-enterprise-channel-preview.md#version-2202-march-08)|[版本 2108 (組建 14326.20852)](semi-annual-enterprise-channel.md#version-2108-march-08)<br/>[版本 2102 (組建 13801.21214)](semi-annual-enterprise-channel.md#version-2102-march-08)|

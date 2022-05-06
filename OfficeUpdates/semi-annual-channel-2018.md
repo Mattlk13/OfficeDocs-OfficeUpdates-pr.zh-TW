@@ -1,8 +1,8 @@
 ---
 title: 2018 年半年通道版本的版本資訊
-ms.author: anankani
+ms.author: nidos
 author: andymosten
-manager: anankani
+manager: nidos
 ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: 87396dc4b6c0b6ba955d76eb8ce9e486073b1016
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 75a8029ce2d8d8856fbe71b98c62c08f5c261f46
+ms.sourcegitcommit: 8c916ba9f8c3133a9e32dc59eb9e40f21a97d14c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273430"
+ms.lasthandoff: 05/06/2022
+ms.locfileid: "65249695"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
