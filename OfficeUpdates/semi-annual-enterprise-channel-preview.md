@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 2d497de089ac80100302bb700c4989680fb72794
-ms.sourcegitcommit: e9eba22b8f522380882f0eb5dc623fb7bfa9f23a
+ms.openlocfilehash: 5651167cc0ecaba8150e5fa6c442dd291872baa4
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/11/2022
-ms.locfileid: "65321200"
+ms.locfileid: "65305180"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -2322,7 +2322,7 @@ ms.locfileid: "65321200"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
-[//]: # (|Win32|FRDC|測試人員| |16.0.14931.20392|version-2202-may-10|)
+[//]: # (|Win32|FRDC|測試人員| |16.0.14931.20374|version-2202-may-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
