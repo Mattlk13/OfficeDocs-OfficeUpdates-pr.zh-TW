@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 0c7b6e3a8106f9f5aa967d71089b22fd5834078e
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: 91d89864bee7de0e4be4e7ced85b902489e860d7
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825744"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305170"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -29,6 +29,62 @@ ms.locfileid: "64825744"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2108-may-10"></a>版本 2108：5 月 10 日
+*版本 2108 (組建 14326.20962)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正當事件型增益集在背景中執行時，在回覆或轉寄電子郵件時應用程式意外關閉的問題。
+
+
+- 我們已修正導致較新版本的 Viva Insights 增益集載入效率較低的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在特定情況下，記憶體流失可能導致 Excel 意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修儲存 PPAM 檔案類型時造成問題的案例。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正具有大型數字合併欄位之檔案的捲動效能問題。
+
+
+- 我們已修正 Outlook 可能會停止在電子郵件訊息中捲動回應的問題。
+
+
+- 我們已修正交叉參照使用自動編號顯示錯誤數字的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Outlook 預覽窗格中的問題，允許 SVG 影像正確呈現。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-may-10"></a>版本 2102: 5 月 10 日
+*版本 2102 (組建 13801.21334)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2108-april-12"></a>版本 2108: 4 月 12 日
 *版本 2108 (組建 14326.20910)*
@@ -2860,6 +2916,7 @@ ms.locfileid: "64825744"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14326.20962|version-2108-may-10|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20910|version-2108-april-12|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
@@ -2869,5 +2926,4 @@ ms.locfileid: "64825744"
 [//]: # (|Win32|DC|Production| |16.0.13801.21076|version-2102-december-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21050|version-2102-november-09|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
-[//]: # (|Win32|DC|Production| |16.0.13801.20960|version-2102-september-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: c9b6f0ecb936ba09fc7d6c051ce28c6feac96773
-ms.sourcegitcommit: f5418d940de44d8bdde80ca4806cc6b9198595a3
+ms.openlocfilehash: 2d497de089ac80100302bb700c4989680fb72794
+ms.sourcegitcommit: e9eba22b8f522380882f0eb5dc623fb7bfa9f23a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/12/2022
-ms.locfileid: "64804500"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65321200"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -22,6 +22,48 @@ ms.locfileid: "64804500"
 
 新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
 
+
+## <a name="version-2202-may-10"></a>版本 2202：5 月 10 日
+*版本 2202 (組建 14931.20392)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正 Outlook 在呼叫 ResolveContacts 數千次之後，嘗試回應特定連絡人時會停止回應的問題。
+
+
+- 我們已修正在會議自動儲存之後，會傳送給出席者，但不會儲存在召集人行事曆上的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正應用程式開啟不再可用的畫面，導致專案隱藏的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用 97-2003 檔案格式載入 PowerPoint 檔案時，無法辨識 VBA 專案數位簽章的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Outlook 事件型增益集的跨原始來源要求意外停止運作的情況。
+
+
+- 我們已修正改善 ARM64 上 Office 可靠性和安全性的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-april-12"></a>版本 2202: 4 月 12 日
 *版本 2202 (組建 14931.20274)*
@@ -1986,7 +2028,7 @@ ms.locfileid: "64804500"
 - 此變更解決對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
@@ -2055,7 +2097,7 @@ ms.locfileid: "64804500"
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -2280,6 +2322,7 @@ ms.locfileid: "64804500"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|測試人員| |16.0.14931.20392|version-2202-may-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
@@ -2289,5 +2332,4 @@ ms.locfileid: "64804500"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20692|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20674|version-2108-december-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20600|version-2108-november-09|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20508|version-2108-october-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

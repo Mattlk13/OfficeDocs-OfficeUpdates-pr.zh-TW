@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 90d3f034978a699b3e7aba6094f8a6d25a208ce9
-ms.sourcegitcommit: eed715a4343f402bf53cd09d212229a2cd7194ae
+ms.openlocfilehash: df9a3434d4b879ab2e0b23c02eaa4ec4af20f67b
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2022
-ms.locfileid: "65125946"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65304960"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -23,6 +23,119 @@ ms.locfileid: "65125946"
 
 [//]: # (DO NOT REMOVE)
 
+
+
+## <a name="version-2203-may-10"></a>版本 2203：5 月 10 日
+*版本 2203 (組建 15028.20248)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **Power BI 要求存取的改良功能:** 我們已為建立連接到 Power BI 資料集之樞紐分析表的使用者升級體驗。 在改善體驗之前，當使用者嘗試重新整理連接到他們無法存取之資料集的樞紐分析表時，會看到一般錯誤訊息。 現在會出現一個對話方塊，通知使用者他們沒有資料集的存取權，並允許他們點擊連結以向擁有者要求存取權。 一旦獲得存取權，使用者就可以返回樞紐分析表，然後重新更新以繼續分析。
+
+### <a name="outlook"></a>Outlook
+
+- **撰寫郵件時節省時間：** Outlook 會顯示書寫建議，協助您快速撰寫郵件。 若要接受建議，只需使用 Tab 鍵。<br />在[部落格文章](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>存取
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
+
+
+- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
+
+
+- 我們已修正導致使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+- 我們已修正復原的檔案以唯讀方式開啟的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正將多個訊息項目從 [焦點] 移至 [其他] 或從 [其他] 移至 [焦點] 時，導致使用者只看到訊息子集移動的問題。
+
+
+- 我們已修正會導致使用者在回應特定連絡人時，遇到停止回應的問題。
+
+
+- 我們已修正導致在部分診斷案例中，使用者在 Outlook 中預期停止回應的問題。
+
+
+- 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
+
+
+- 我們已修正在使用雲端設定時，導致某些切換類型選項進行錯誤同步處理的問題。
+
+
+- 我們已修正使用 [僅加密] 和 [不要轉寄]範本的訊息透過物件模型傳回未預期權限的問題。
+
+
+- 我們已修正導致「移至其他」功能停止正常回應的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正應用程式在未完成資源撫平時停止回應的問題。
+
+
+- 我們已修正遮罩分隔符號與清單分隔符號相符時，會使用星號 (*) 的問題。 在篩選器中 * 用於規則運算式，如果其包含值，就會導致錯誤和意外行為。 管道 (|) 現在已使用。
+
+
+- 我們已修正應用程式開啟不再可用的畫面，導致專案隱藏的問題。
+
+
+- 我們已修正當使用者無法開啟專案時，導致應用程式意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正導致共用行事曆在新增後處於未選取狀態的問題。
+
+
+- 我們已修正在其他應用程式中顯示內嵌 Excel 試算表的問題。
+
+
+- 已修正使用 97-2003 檔案格式載入PowerPoint檔案時，無法辨識 VBA 專案數位簽章的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正錄製投影片放映時的穩定性問題。
+
+
+- 我們已修正停止錄製投影片放映時的穩定性問題。
+
+
+- 我們已修正 Direct2D 和 Direct3D 互通性的多執行緒相關問題。
+
+
+- 我們已修正字型下拉式清單無法正確反映圖形中選取的字型的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2202-may-10"></a>版本 2202：5 月 10 日
+*版本 2202 (組建 14931.20392)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 
 ## <a name="version-2202-april-12"></a>版本 2202: 4 月 12 日
@@ -1313,7 +1426,7 @@ ms.locfileid: "65125946"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
     
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -1882,7 +1995,7 @@ ms.locfileid: "65125946"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
@@ -1919,7 +2032,7 @@ ms.locfileid: "65125946"
 - 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
@@ -2103,6 +2216,7 @@ ms.locfileid: "65125946"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|生產|Feature|16.0.15028.20248|version-2203-may-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14827.20220|version-2201-march-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
@@ -2112,5 +2226,4 @@ ms.locfileid: "65125946"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.14131.20360|version-2106-august-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
