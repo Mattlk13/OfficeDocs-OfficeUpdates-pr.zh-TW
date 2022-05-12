@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 661fa753489ce3262ccf71681125d34895dbc77d
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: b5b6a76f4f1bb7285e2178f305c9031514c748f9
+ms.sourcegitcommit: 186c096bfb901a55c45e319eb74c8c94976de395
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/11/2022
-ms.locfileid: "65304950"
+ms.locfileid: "65313684"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -71,26 +71,8 @@ ms.locfileid: "65304950"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-### <a name="resolved-issues"></a>解決的問題
-### <a name="excel"></a>Excel
-
-- 我們已修正導致 Excel 耗用過多記憶體的問題。
 
 
-- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
-
-
-### <a name="outlook"></a>Outlook
-
-- 我們已修正導致使用者從委派分組討論區信箱轉寄出的所有會議邀請上看到特定「不需要回應」的問題。
-
-
-### <a name="word"></a>Word
-
-- 我們已修正刪除段落標記之後，文件會捲動至結尾的問題。
-
-
-- 已解決未登入使用者的 [大聲朗讀] 當機問題。
 
 
 
@@ -102,6 +84,11 @@ ms.locfileid: "65304950"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
+### <a name="access"></a>Access
+
+- **Dataverse 和 Power Platform 的連接器：** 雖然 Access 已透過 Sharepoint 和 SQL 與雲端整合，但 Dataverse 和 Power Platform 的新連接器可為開發人員啟用全新的案例，為可以立即建立適用於行動裝置和 MS Teams 的自訂應用程式的開發人員帶來好處，加上自動化以及使用 Power Platform 和 Dataverse 為 Teams 建置的聊天機器人，直接使用其 Access 資料和 Dataverse。 [深入了解](https://aka.ms/AccessAndPowerPlatform)
+
+
 ### <a name="excel"></a>Excel
 
 - **減少條件式格式設定規則的不必要片段：** 我們將在將複製的儲存格貼到該儲存格範圍時，減少連續儲存格範圍中條件式格式設定規則的片段。
@@ -827,7 +814,7 @@ ms.locfileid: "65304950"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -2677,7 +2664,6 @@ ms.locfileid: "65304950"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
-[//]: # (|Win32|CC|Production| |16.0.15128.20226|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
