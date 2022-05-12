@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 559f3efc20c9a65a304e19d3094ccc79070e1931
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: 3be87991fa29937286c7d9696531feabd7e0dfec
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825477"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305140"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -49,6 +49,10 @@ ms.locfileid: "64825477"
 
 
 
+
+
+## <a name="may-10-2022"></a>2022 年 5 月 10 日
+*版本 16.61 (組建 22050700)*
 ## <a name="april-12-2022"></a>2022 年 4 月 12 日
 *版本 16.60 (組建 22041000)*
 
@@ -1386,7 +1390,7 @@ ms.locfileid: "64825477"
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。 <br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**生動地觀看您的文件：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個頁面橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)<br/>|<br/><br/> |[Word 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.24.19041401_Updater.pkg) <br/>|
-|Excel  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/> <br/>**呼叫所有巨集使用者：** 使用相關的參考來錄製巨集。 當您播放時，其運作方式與作用中儲存格相關，而不是用來錄製的儲存格。 [深入了解](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**方便使用常用命令:** 快速且輕鬆存取常用的動作，例如 [尋找與選取]、[縮放至選取範圍]、[並排顯示] 以及更多。在功能區中找到它們。[深入了解](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**生動地觀看您的工作表：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個工作表橫衝直撞。 [深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)：Microsoft Excel 遠端程式碼執行弱點 |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
+|Excel  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/> <br/>**呼叫所有巨集使用者：** 使用相關的參考來錄製巨集。 當您播放時，其運作方式與作用中儲存格相關，而不是用來錄製的儲存格。 [深入了解](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**方便使用常用命令:** 快速且輕鬆存取常用的動作，例如 [尋找與選取]、[縮放至選取範圍]、[並排顯示] 以及更多。在功能區中找到它們。[深入了解](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**觀看您的工作表變得有趣：** 插入動畫式 3D 圖形，查看心跳、行星軌道，以及暴龍在整個活頁簿中橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)：Microsoft Excel 遠端程式碼執行弱點 |[Excel 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。<br/><br/>**更快速開始：** 根據您的活動以及您周圍的其他人所處理的項目來取得建議。<br/><br/>**輕鬆地儲存內嵌的媒體:** 只要按 CTRL+按一下，即可儲存音訊和視訊。[深入了解](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**生動地觀看您的投影片：** 插入動畫 3D 圖形，來查看心跳、行星軌道，以及暴龍在整個畫面橫衝直撞。[深入了解](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[PowerPoint 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**新的 Office 應用程式圖示：** 重新設計的應用程式圖示，可反映簡單、功能強大且智慧型的 Office 體驗。 <br/><br/>**安全連結：** 支援進階威脅防護 (ATP) 安全連結。  ||[Outlook 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.10<br/>|**複製時安裝功能增強功能：** 針對 SSD 裝置，針對使用中的應用程式推出複製時更新，因此可減少由於更新造成的應用程式停機時間。 <br/><br/>**安裝最佳化：** 更新程序會使用平行化複製，這樣就會減少因更新造成的應用程式停機時間。|<br/> | [Microsoft AutoUpdate 更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|

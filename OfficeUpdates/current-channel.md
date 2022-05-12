@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: eb37cb51d2a20d09694b323883bdc14e9cb0a6e8
-ms.sourcegitcommit: 7ddfff5c2ad3b92d6d4a5a8fcb650e7c0fb509aa
+ms.openlocfilehash: 661fa753489ce3262ccf71681125d34895dbc77d
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65076791"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65304950"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,67 @@ ms.locfileid: "65076791"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2204-may-10"></a>版本 2204；5 月 10 日
+*版本 2204 (組建 15128.20224)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正導致 Excel 耗用過多記憶體的問題。
+
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者從委派分組討論區信箱轉寄出的所有會議邀請上看到特定「不需要回應」的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正刪除段落標記之後，文件會捲動至結尾的問題。
+
+
+- 我們已修正未登入使用者的 [大聲朗讀] 會意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正導致 Excel 耗用過多記憶體的問題。
+
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致使用者從委派分組討論區信箱轉寄出的所有會議邀請上看到特定「不需要回應」的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正刪除段落標記之後，文件會捲動至結尾的問題。
+
+
+- 已解決未登入使用者的 [大聲朗讀] 當機問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-april-26"></a>版本 2204: 4 月 26 日
 *版本 2204 (組建 15128.20178)*
@@ -1810,7 +1871,7 @@ ms.locfileid: "65076791"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2157,7 +2218,7 @@ ms.locfileid: "65076791"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2580,7 +2641,7 @@ ms.locfileid: "65076791"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2593,7 +2654,7 @@ ms.locfileid: "65076791"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
@@ -2616,6 +2677,8 @@ ms.locfileid: "65076791"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15128.20226|version-2204-may-10|)
+[//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
@@ -2624,6 +2687,4 @@ ms.locfileid: "65076791"
 [//]: # (|Win32|CC|Production| |16.0.14931.20120|version-2202-february-28|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20198|version-2201-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
-[//]: # (|Win32|CC|Production| |16.0.14827.20158|version-2201-january-26|)
-[//]: # (|Win32|CC|Production| |16.0.14729.20260|version-2112-january-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

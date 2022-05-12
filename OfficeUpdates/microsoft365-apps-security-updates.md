@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 6b0806c29ba8e7c9efd7593d731a7d2c2ab17ce4
-ms.sourcegitcommit: 0f5602b07e6a26e2e64979b8e01ad39670f2fdc7
+ms.openlocfilehash: 24514949b78d97fab02e264601eb2ce3ba1c7d0a
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/20/2022
-ms.locfileid: "64961110"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65304970"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,35 @@ ms.locfileid: "64961110"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="may-10-2022"></a>2022 年 5 月 10 日
+目前通道：版本 2204 (組建 15128.20224)  
+每月企業通道：版本 2203 (組建 15028.20248)  
+每月企業通道：版本 2202 (組建 14931.20392)  
+半年企業通道 (預覽): 版本 2202 (組建 14931.20392)  
+半年企業通道：版本 2108 (組建 14326.20962)  
+半年企業通道：版本 2102 (組建 13801.21334)  
+Windows 7 上的 Microsoft 365 Apps：版本 2002 (組建 12527.22145)  
+Office 2021 零售版：版本 2204 (組建 15128.20224)  
+Office 2019 零售版：版本 2204 (組建 15128.20224)  
+Office 2016 零售版：版本 2204 (組建 15128.20224)  
+Office LTSC 2021 大量授權版：版本 2108 (組建 14332.20303)  
+Office 2019 大量授權版：版本 1808 (組建 10386.20017)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2022-29109](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-29109)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-29107](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-29107)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="april-12-2022"></a>2022 年 4 月 12 日
 目前通道：版本 2203 (組建 15028.20204)  

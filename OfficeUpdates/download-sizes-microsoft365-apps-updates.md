@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: f059b63eed163188081decfee1d63ff8771cc0f8
-ms.sourcegitcommit: 7ddfff5c2ad3b92d6d4a5a8fcb650e7c0fb509aa
+ms.openlocfilehash: 290d7f30b3253933f3b6187ce24bf79eb5f42fc9
+ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/27/2022
-ms.locfileid: "65076803"
+ms.lasthandoff: 05/11/2022
+ms.locfileid: "65305160"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,52 @@ ms.locfileid: "65076803"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="may-10-2022"></a>2022 年 5 月 10 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTMay 10, 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2204 (組建 15128.20224)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2204 (組建 15128.20178) <br/> |2022 年 4 月 26 日 <br/> |53<br/> |
+|版本 2203 (組建 15028.20228) <br/> |2022 年 4 月 20 日 <br/> |133<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業頻道
+
+最新的版本是版本 2203 (組建 15028.20248).
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2202 (組建 14931.20274) <br/> |2022 年 4 月 12 日 <br/> |150<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+最新的版本是版本 2202 (組建 14931.20392)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2202 (組建 14931.20274) <br/> |2022 年 4 月 12 日 <br/> |66<br/> |
+|版本 2202 (組建 14931.20132) <br/> |2022 年 3 月 8 日 <br/> |70<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+最新的版本是版本 2108 (組建 14326.20962)。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2108 (組建 14326.20910) <br/> |2022 年 4 月 12 日 <br/> |61<br/> |
+|版本 2108 (組建 14326.20852) <br/> |2022 年 3 月 8 日 <br/> |63<br/> |
+
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDMay 10, 2022)
 
 ## <a name="april-26-2022"></a>2022 年 4 月 26 日
 
