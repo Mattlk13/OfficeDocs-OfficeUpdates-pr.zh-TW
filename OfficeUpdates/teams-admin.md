@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams系統管理員功能的版本資訊。
-ms.openlocfilehash: f3d83963ec7296c093e53fd344a56a688b0f37ab
-ms.sourcegitcommit: f2d1684eb7cddf275bd274eaf18b44605f014797
+ms.openlocfilehash: 983e9451915e81ef8c076c54a0227e49b06e855d
+ms.sourcegitcommit: 22601734d615f9524d15095393195c3e527ba290
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/30/2022
-ms.locfileid: "65144886"
+ms.lasthandoff: 05/13/2022
+ms.locfileid: "65396767"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams系統管理員功能的版本資訊
 
@@ -28,15 +28,18 @@ ms.locfileid: "65144886"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="april-28-2022"></a>2022 年 4 月 28 日
+## <a name="may-12-2022"></a>2022 年 5 月 12 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+- **Microsoft Teams：職涯教練 - 學生參與深入解析：** 教職員授權持有者現在可以在職涯教練中檢視匯總的學生參與見解。 這些深入解析將包括參與的學生人數、參與的學生會話、繼續上傳，以及從職涯教練內的文字記錄上傳。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="april-28-2022"></a>2022 年 4 月 28 日
 
 - **Cortana圖示的主控台首頁更新，在Windows Microsoft Teams 會議室上將 Share (也稱為 [簡報) ] 按鈕：** Windows上的Teams 會議室會將 [簡報] 按鈕帶回主控台主畫面，並將它重新命名為 [共用]，以便在會議外和會議內共用之間保持一致經驗。 Cortana推播到交談按鈕會移至主畫面底部，讓客戶能夠繼續使用Cortana，而不需要變更其工作流程，即可從會議Teams 會議室裝置呈現 HDMI 內容。 如果已針對Teams 會議室啟用Cortana語音協助原則，則適用Cortana設計變更。
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="april-14-2022"></a>2022 年 4 月 14 日
 
 - **支援虛擬桌面基礎結構上 Citrix 的Teams** 轉譯：一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
@@ -45,9 +48,9 @@ ms.locfileid: "65144886"
 
 - **支援虛擬桌面基礎結構上的 Azure 虛擬桌面Teams** 轉譯：一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
 
-- **網頁瀏覽器聯結：** 在任何裝置上從網頁瀏覽器加入虛擬約會。
+- **網頁瀏覽器聯結：** 從任何裝置上的網頁瀏覽器加入虛擬約會。
 
-- **會議室容量警告 (根據 Android 上Teams會議室的人員計算支援的相機) ：** 當Teams面板部署在Teams 會議室支援人員計數的會議室中時，Teams面板可以在會議室位於或超過容量時顯示警告訊息，以通知會議室已滿。 Android 上的Teams 會議室會在會議室容量過高時，在會議室顯示器的前面顯示警告訊息。
+- **會議室容量警告 (Teams根據Android計算支援相機) Android人員的會議室：** 當Teams面板部署在Teams 會議室支援人員計數的會議室中時，Teams面板可以在會議室位於或超過容量時顯示警告訊息，以通知會議室已滿。 Android上的Teams 會議室會在會議室容量過高時，在會議室顯示器的前面顯示警告訊息。
 
 ## <a name="march-24-2022"></a>2022 年 3 月 24 日
 
@@ -71,7 +74,7 @@ ms.locfileid: "65144886"
 
 - **VDI 的從家工作動態緊急電話 - Citrix：** 此功能可讓虛擬機器上的使用者驗證當在家工作的個人撥打緊急電話時，將會與緊急回應者通訊的位址。
 
-- **使用 iOS 裝置的視訊自動回答：** 此功能可讓 iOS 裝置在開啟或不播放影片的情況下，自動回答傳入的會議微調。 使用者的功能可用性是透過 AutoAnswerwithVideo Powershell 原則來控制。
+- **使用iOS裝置的視訊自動回答：** 這項功能可讓iOS裝置在開啟或不使用影片的情況下自動回答傳入的會議微調。 使用者的功能可用性是透過 AutoAnswerwithVideo Powershell 原則來控制。
 
 - **Azure 虛擬桌面上的 VDI 的在家工作動態緊急通話:** 這項功能可讓使用者在家工作時，在 Azure 虛擬桌面上的 VDI 上進行緊急通話。 它可讓使用者驗證 (以及在必要時，編輯) 將與緊急回應程式進行通訊的電子郵件地址。
 
@@ -89,9 +92,9 @@ ms.locfileid: "65144886"
 
 ## <a name="february-10-2022"></a>2022 年 2 月 10 日
 
-- **新增至Bookings中新功能的資訊提示：** 將新功能新增至 SMS 和行動瀏覽器加入等Bookings時，使用者會收到這些功能的意義。
+- **新增至Bookings中新功能的資訊提示：** 將新功能新增至簡訊和行動瀏覽器加入等Bookings時，使用者會收到這些功能的意義。
 
-- **約會檢視中的新功能通知：** 將 SMS 或 WebRTC 等新功能新增至Bookings時，使用者會在約會中看到切換開關的「新」吋。
+- **約會檢視中的新功能通知：** 將 簡訊 或 WebRTC 等新功能新增至Bookings時，使用者會在約會中看到切換開關的「新」吋吋。
 
 - **標籤可在 DOD 中使用：** Teams中的標記可讓使用者快速觸達一組人員，而不需要@mention或鍵入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
 
@@ -151,7 +154,7 @@ ms.locfileid: "65144886"
 
 - **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
 
-- **跨雲端驗證會議加入 (Android 和 iOS) ：** 針對 iOS 啟用跨雲端的已驗證會議加入體驗，特別是針對 GOV 案例所需的體驗。
+- **跨雲端驗證會議加入 (Android和iOS) ：** 針對iOS啟用跨雲端的已驗證會議加入體驗，特別是針對 GOV 案例所需要。
 
 - **Teams上的熱門桌面支援顯示：** 經常性桌面功能可讓使用者以特定方式在選擇的位置中坐著一小段時間，並透過創新和共同作業來提高工作效率。
 
@@ -163,7 +166,7 @@ ms.locfileid: "65144886"
 
 - **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
 
-- **自訂背景：** Microsoft 提供的自訂背景和使用者上傳的自訂背景現在可在具有可用晶片組的 OS10 和 OS11 上的 Android 裝置上使用。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
+- **自訂背景：** Microsoft 提供的自訂背景和使用者上傳的自訂背景現在可在具有可用晶片組的 OS10 和 OS11 上Android裝置上使用。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
 
 - **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
 
@@ -171,7 +174,7 @@ ms.locfileid: "65144886"
 
 - **從Teams系統管理中心匯出Teams清單：** 系統管理員可以從 Teams 系統管理中心將Teams清單匯出為 CSV 檔案。
 
-- **iOS 和 Android 的速度撥號：** 這項功能可讓您使用一次點選撥號，輕鬆存取最常用的通話連絡人。
+- **iOS和Android的快速撥號：** 這項功能可讓您使用最常用的通話連絡人，只要點一下撥號即可輕鬆存取。
 
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
@@ -189,7 +192,7 @@ ms.locfileid: "65144886"
 
 - **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
-- **EHR 整合式虛擬就診的 SMS 病患通知：** 讓患者能夠接收 SMS 通知以進行確認，以及其 EHR 整合式虛擬就診的其餘部分。
+- **簡訊 EHR 整合式虛擬就診的病患通知：** 讓患者能夠接收確認的簡訊通知，以及其 EHR 整合式虛擬就診的其餘部分。
 
 - **Surface Hub 的 Teams 裝置管理：** 系統管理員將能夠透過 Teams 系統管理中心來設定、管理及監視其 Surface Hub。
 
@@ -273,7 +276,7 @@ ms.locfileid: "65144886"
 
 - **對主權雲端 (GCC-H) 的 Teams 來賓存取支援：** Teams 現在在主權雲端中支援來賓存取。
 
-- **Teams中來自Bookings應用程式的簡訊通知：** 您可以從 Teams 中的Bookings應用程式建立具有約會Teams會議連結的簡訊確認和提醒。
+- 簡訊Teams中 **來自Bookings應用程式的通知 簡訊：** 您可以從 Teams 中的Bookings應用程式建立具有約會Teams會議連結的確認和提醒。
 
 - **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.Microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。
 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
@@ -351,7 +354,7 @@ ms.locfileid: "65144886"
 
 ## <a name="august-24-2021"></a>2021 年 8 月 24 日
 
-- **Walkie Talkie iOS (Preview) ：** Walkie Talkie 是一種推播到交談的體驗，可讓您透過雲端進行清楚且安全的語音通訊，讓小組能夠立即通訊，並一律保持在相同的頁面上。 Teams中的這個原生內建應用程式會將員工或公司擁有的 iOS 智慧型手機和 Tablet 轉換成逐步解說工具，減少員工必須攜帶的裝置數目，並降低 IT 的成本。 [深入了解](/MicrosoftTeams/walkie-talkie)
+- **Walkie Talkie iOS (預覽) ：** Walkie Talkie 是一種推播式對話體驗，可透過雲端進行清楚且安全的語音通訊，可讓小組立即通訊，並一律保持在相同的頁面上。 Teams中的這個原生內建應用程式會將員工或公司擁有的iOS智慧型手機和 Tablet 轉換成逐步解說工具，減少員工必須攜帶的裝置數目，並降低 IT 的成本。 [深入了解](/MicrosoftTeams/walkie-talkie)
 
 ## <a name="august-16-2021"></a>2021 年 8 月 16 日
 
@@ -393,7 +396,7 @@ ms.locfileid: "65144886"
 
 ## <a name="july-21-2021"></a>2021 年 7 月 21 日
 
-- **Teams Advisor 中量身打造的 EDU 部署計畫：** EDU IT 系統管理員可以使用量身訂做的方案，將Teams部署至其組織。
+- **Teams 建議程式中量身打造的 EDU 部署計畫：** EDU IT 系統管理員可以使用量身訂做的方案，將Teams部署到其組織。
 
 ## <a name="july-20-2021"></a>2021 年 7 月 20 日
 
@@ -517,7 +520,7 @@ ms.locfileid: "65144886"
 
 ## <a name="april-26-2021"></a>2021 年 4 月 26 日
 
-- **自訂背景：** Microsoft 提供的和使用者上傳的自訂背景現在可在 iOS 上取得。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
+- **自訂背景：** Microsoft 提供的和使用者上傳的自訂背景現在可在iOS上取得。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
 - **匿名使用者可以顯示：** 裝載Teams實況活動時，我們新增了匿名使用者加入即時活動的能力，讓他們也可以在活動期間出現。 [深入了解](/Microsoftteams/teams-live-events/plan-for-teams-live-events)。 
 
 ## <a name="april-16-2021"></a>2021 年 4 月 16 日
@@ -552,7 +555,7 @@ ms.locfileid: "65144886"
 
 ## <a name="march-29-2021"></a>2021 年 3 月 29 日
 
-- **Teams Android 裝置的遠端布建和登入：** IT 系統管理員可以從遠端布建並登入Teams Android 裝置。 若要從遠端布建裝置，系統管理員必須上傳所布建裝置的 MAC 識別碼，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
+- **Teams Android裝置的遠端布建和登入：** IT 系統管理員可以從遠端布建並登入Teams Android裝置。 若要從遠端布建裝置，系統管理員必須上傳所布建裝置的 MAC 識別碼，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
 
 ## <a name="march-24-2021"></a>2021 年 3 月 24 日
 
@@ -616,7 +619,7 @@ ms.locfileid: "65144886"
 
 ## <a name="december-9-2020"></a>2020 年 12 月 9 日
 
-- **使用Microsoft 365 Learning路徑Teams建議程式：** Microsoft 365學習路徑是隨選學習解決方案，您可以自訂此解決方案來訓練使用者，並增加組織中Teams的使用量和採用。 使用學習路徑搭配 Advisor for Teams，讓使用者快速啟動並執行，並推動採用。 Learning路徑可讓您SharePoint線上網站範本，以及輕鬆地為使用者建置學習網站的能力。 您可以自訂學習路徑訓練入口網站，以包含特定于使用者需求的訓練和支援內容。 使用 Microsoft 線上目錄中的Teams播放清單，並新增您自己的播放清單。 [深入了解](/Microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-Microsoft-365-learning-pathways)。
+- **Microsoft 365 Learning路徑Teams建議程式：** Microsoft 365學習路徑是隨選學習解決方案，您可以自訂此解決方案來訓練使用者，並增加組織中Teams的使用量和採用。 使用學習路徑搭配建議程式，Teams讓使用者快速啟動並執行，並推動採用。 Learning路徑可讓您SharePoint線上網站範本，以及輕鬆地為使用者建置學習網站的能力。 您可以自訂學習路徑訓練入口網站，以包含特定于使用者需求的訓練和支援內容。 使用 Microsoft 線上目錄中的Teams播放清單，並新增您自己的播放清單。 [深入了解](/Microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-Microsoft-365-learning-pathways)。
 
 ## <a name="october-28-2020"></a>2020 年 10 月 28 日
 
@@ -638,7 +641,7 @@ ms.locfileid: "65144886"
 
 - **管理使用者的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype設定。  移至使用者詳細資料頁面上的 [商務用 Skype] 索引標籤。 您可以從這裡管理個別使用者的外部存取和會議設定。 [深入了解](/Microsoftteams/skype-for-business-settings)。
 
-- **管理組織的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype功能。 移至 **全組織設定**  >  **商務用 Skype**。 您可以從這裡管理Skype會議廣播、目前狀態和行動裝置通知。 [深入了解](/Microsoftteams/skype-for-business-settings)。
+- **管理組織的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype功能。 移至 **全組織設定**  >  **商務用 Skype**。 您可以從這裡管理Skype 會議廣播、目前狀態和行動裝置通知。 [深入了解](/Microsoftteams/skype-for-business-settings)。
 
 ## <a name="october-16-2020"></a>2020 年 10 月 16 日
 
@@ -654,7 +657,7 @@ ms.locfileid: "65144886"
 
 - **針對會議錄製使用商務用 OneDrive和SharePoint：** Microsoft Teams有儲存會議錄製的新方法。 做為從傳統 Microsoft Stream 轉換為新 Stream的第一階段，此方法會將錄製檔儲存在 Microsoft 商務用 OneDrive 和 Microsoft 365 的 SharePoint 中，並提供許多優點。 [深入了解](/Microsoftteams/tmr-meeting-recording-change)。
 
-- **適用于中小型企業的免費音訊會議：** 如果您是一家擁有最多 300 位使用者且目前沒有任何音訊會議授權的中小型企業，您可以免費取得一年的音訊會議。 此免費供應專案從 2020 年 10 月 1 日開始提供。 [深入了解](/Microsoftteams/audio-conferencing-smb)。
+- **適用于中小型企業的免費音訊會議：** 如果您是一家擁有最多 300 位使用者且目前沒有任何音訊會議授權的中小型企業，您可以免費取得音訊會議一年。 此免費供應專案從 2020 年 10 月 1 日開始提供。 [深入了解](/Microsoftteams/audio-conferencing-smb)。
 
 - **在Microsoft Teams系統管理中心檢視應用程式許可權並授與系統管理員同意：** 現在在Teams系統管理中心，全域系統管理員將能夠檢閱並授與圖形 API許可權的同意Azure Active Directory，代表整個租使用者取得應用程式要求的許可權，例如讀取儲存在小組中的資訊，或代表使用者傳送電子郵件。 現在，IT 系統管理員將能夠檢閱資源特定的同意， (RSC) Teams系統管理中心內應用程式的許可權。 透過該系統管理員，他們將能夠針對已檢閱並核准在組織中使用的協力廠商應用程式，解除封鎖其使用者。 [深入了解](/Microsoftteams/app-permissions-admin-center)。
 
@@ -670,7 +673,7 @@ ms.locfileid: "65144886"
 
 ## <a name="september-24-2020"></a>2020 年 9 月 24 日
 
-- **Teams與 Android 連絡人整合：** 直接透過 Android Phonebook 使用Teams來電。
+- **Teams與Android連絡人整合：** 直接透過Android Phonebook 使用Teams來電。
 
 ## <a name="september-21-2020"></a>2020 年 9 月 21 日
 
@@ -698,7 +701,7 @@ ms.locfileid: "65144886"
 
 ## <a name="september-1-2020"></a>2020年9月1日
 
-- **Android 中的隨選翻譯：** 內嵌訊息翻譯是Microsoft Teams功能，可讓使用者將Teams訊息翻譯成其個人語言設定所指定的語言。 轉譯設定預設為 **[開啟** ]。 [深入了解](/Microsoftteams/inline-message-translation-teams)。
+- Android中的隨 **選翻譯：** 內嵌訊息翻譯是Microsoft Teams功能，可讓使用者將Teams訊息翻譯成其個人語言設定所指定的語言。 轉譯設定預設為 **[開啟** ]。 [深入了解](/Microsoftteams/inline-message-translation-teams)。
 
 ## <a name="august-17-2020"></a>2020 年 8 月 17 日
 
@@ -788,7 +791,7 @@ ms.locfileid: "65144886"
 
 ## <a name="june-21-2020"></a>2020 年 6 月 21 日
 
-- **Android 和 iOS 使用者的登入限制：** 如果使用者未在其他地方登入其Microsoft 365帳戶，系統會要求他們提供單一因素或多重要素驗證 (SFA 或 MFA) ，視貴組織針對行動裝置登入原則所設定的內容而定。 [深入了解](/Microsoftteams/sign-in-teams)。
+- **Android和iOS使用者** 的登入限制：如果使用者未在任何其他位置登入其Microsoft 365帳戶，系統會要求他們提供單一因素或多重要素驗證 (SFA 或 MFA) ，視貴組織針對行動裝置登入原則所設定的內容而定。 [深入了解](/Microsoftteams/sign-in-teams)。
 
 ## <a name="june-15-2020"></a>2020 年 6 月 15 日
 
