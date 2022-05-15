@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 806d41b1ddf4b06a229adfe52b11b08c9b73832d
-ms.sourcegitcommit: 116f3244d327004f8a157d246c3bc34ca83695df
+ms.openlocfilehash: 8e5e8817d0414f60baf16e5bdcb8f1b1c1154906
+ms.sourcegitcommit: 82cd9f1b3d14e5aa4137d1c6898dfe41deace2db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/14/2022
-ms.locfileid: "65413859"
+ms.locfileid: "65414538"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -41,7 +41,7 @@ ms.locfileid: "65413859"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="office-suite"></a>Office 套件
 
-- **回應數目上限已擴充至 5 百萬個** 個別表單或測驗允許的回應總數已從 50,000 個增加到 500 萬個。 這項變更不需要使用多個表單來收集超過 50,000 個回應。 表單擁有者現在可以在單一表單上收集最多 5 百萬個回應，也可以將結果匯出為 .csv 檔案以供進一步分析。
+- **回應數目上限已擴充至 5 百萬個** 個別表單或測驗允許的回應總數已從 50,000 個增加為 500 萬個。 這項變更不需要使用多個表單來收集超過 50,000 個回應。 表單擁有者現在可以在單一表單上收集最多 500 萬個回應，也可以將結果匯出為 .csv 檔案以供進一步分析。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -54,7 +54,7 @@ ms.locfileid: "65413859"
 
 - 我們已修正在 VBA 巨集中執行程式碼以關閉 Application.ScreenUpdating 時，使用中的工作表會顯示空白的問題。
 
-- 我們已修正當連結的 Excel 檔案開啟時，使用者無法更新 PowerPoint 中的連結的問題。
+- 我們已修正當連結的 Excel 檔案開啟時，使用者無法更新 PowerPoint 中連結的問題。
 
 - 我們已修正開啟從 SharePoint 清單匯出的 .iqy 檔案時，應用程式會意外關閉的問題。
 
@@ -64,15 +64,15 @@ ms.locfileid: "65413859"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正使用 [全部重新執行] 按鈕時發生錯誤指出作業失敗的問題。
+- 我們已修正使用 [重新顯示全部] 按鈕時發生錯誤指出作業失敗的問題。
 
-- 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉送會議邀請上顯示「不需要回應」的問題。
+- 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉寄會議邀請上顯示「不需要回應」的問題。
 
 ### <a name="project"></a>Project
 
-- 我們已修正捲動雙向語言區域相關的問題。
+- 我們已修正 [工作資訊] 等對話方塊內的資料行未以從右至左語言顯示的問題，例如希伯來文。
 
-- 我們已修正當搭配應用程式 Proxy 伺服器使用 FBA 時，應用程式無法連線到專案伺服器的問題。
+- 我們已修正當表單型驗證與 Azure 應用程式 Proxy 搭配使用時，Project 無法連線至 Project Server 的問題。
 
 
 
