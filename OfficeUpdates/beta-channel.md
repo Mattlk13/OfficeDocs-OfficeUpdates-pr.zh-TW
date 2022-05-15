@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: dc0135317f320cdcd40855e52df6f43c994f45c2
-ms.sourcegitcommit: 8c916ba9f8c3133a9e32dc59eb9e40f21a97d14c
+ms.openlocfilehash: 806d41b1ddf4b06a229adfe52b11b08c9b73832d
+ms.sourcegitcommit: 116f3244d327004f8a157d246c3bc34ca83695df
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2022
-ms.locfileid: "65249715"
+ms.lasthandoff: 05/14/2022
+ms.locfileid: "65413859"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,6 +31,53 @@ ms.locfileid: "65249715"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2206-may-13"></a>版本 2206：5 月 13 日
+*版本 2206 (組建 15310.20004)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="office-suite"></a>Office 套件
+
+- **回應數目上限已擴充至 5 百萬個** 個別表單或測驗允許的回應總數已從 50,000 個增加到 500 萬個。 這項變更不需要使用多個表單來收集超過 50,000 個回應。 表單擁有者現在可以在單一表單上收集最多 5 百萬個回應，也可以將結果匯出為 .csv 檔案以供進一步分析。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正在 VBA 巨集中執行程式碼以關閉 Application.ScreenUpdating 時，使用中的工作表會顯示空白的問題。
+
+- 我們已修正當連結的 Excel 檔案開啟時，使用者無法更新 PowerPoint 中的連結的問題。
+
+- 我們已修正開啟從 SharePoint 清單匯出的 .iqy 檔案時，應用程式會意外關閉的問題。
+
+- 我們已修正 .xls 格式的共用活頁簿可能會不當合併變更的問題。
+
+- 我們已修正 AMSI 掃描會導致應用程式意外關閉的問題。
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用 [全部重新執行] 按鈕時發生錯誤指出作業失敗的問題。
+
+- 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉送會議邀請上顯示「不需要回應」的問題。
+
+### <a name="project"></a>Project
+
+- 我們已修正捲動雙向語言區域相關的問題。
+
+- 我們已修正當搭配應用程式 Proxy 伺服器使用 FBA 時，應用程式無法連線到專案伺服器的問題。
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
 ## <a name="version-2206-may-06"></a>版本 2206：5 月 6 日
 *版本 2206 (組建 15227.20000)*
 
@@ -44,7 +91,7 @@ ms.locfileid: "65249715"
 
 - **在資源受限的裝置上優化 Excel 重新計算:** 在資源受限的裝置上，(兩個核心或少於 8 GB 的 RAM 或更少)，Excel 現在預設會在單一線程上執行計算，讓重新計算更加優化。 在大部分情況下，使用者應該會看到這些裝置上的計算速度明顯變快。 請注意，在某些情況下需要大量計算，使用者可能會想要將計算執行緒數目設定為 2，以覆蓋此預設值。 如需詳細資訊，請參閱 Microsoft 支援服務網站上 [[進階選項]](https://support.microsoft.com/en-us/office/advanced-options-33244b32-fe79-4579-91a6-48b3be0377c4) 頁面的 [公式] 區段。
 
-- **加速公式輸入:** 我們已藉由減少記憶體使用量、進行更有效率的記憶體配置呼叫，以及優化所編輯儲存格周圍可見範圍的重新繪製，來加快在儲存格中輸入公式所需的時間。 這些優化在記憶體較慢或 CPU 記憶體輸送量較慢的裝置上更明顯，例如低成本裝置。
+- **加速公式輸入:** 我們已藉由減少記憶體使用量、進行更有效率的記憶體配置呼叫，以及優化所編輯儲存格周圍可見範圍的重新繪製，來加快在儲存格中輸入公式所需的時間。這些優化在記憶體較慢或 CPU 記憶體輸送量較慢的裝置上更明顯，例如低成本裝置。
 
 ### <a name="onenote"></a>OneNote
 
@@ -3339,7 +3386,7 @@ ms.locfileid: "65249715"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3979,7 +4026,7 @@ ms.locfileid: "65249715"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -4064,7 +4111,7 @@ ms.locfileid: "65249715"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -4589,7 +4636,7 @@ ms.locfileid: "65249715"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
