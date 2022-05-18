@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1e8a53e1bf9962ed42a9466f68679fe11137d123
-ms.sourcegitcommit: 09146a1e2e8b91eb52a02ff8e36009402e6a8620
+ms.openlocfilehash: 92307a1e098d2fc69c24174c7f2ed328c9e680dc
+ms.sourcegitcommit: 21359a7d03d2287568361f7b458c2ca0027865fc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/10/2022
-ms.locfileid: "65296719"
+ms.lasthandoff: 05/17/2022
+ms.locfileid: "65442671"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,28 @@ ms.locfileid: "65296719"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2205-may-16"></a>版本 2205：5 月 16 日
+*版本 2205 (組建 15225.20150)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
+
+
+- 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-may-09"></a>版本 2205：5 月 9 日
 *版本 2205 (組建 15225.20092)*
