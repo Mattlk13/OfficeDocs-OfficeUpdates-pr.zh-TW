@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b5b6a76f4f1bb7285e2178f305c9031514c748f9
-ms.sourcegitcommit: 186c096bfb901a55c45e319eb74c8c94976de395
+ms.openlocfilehash: 9784036e0663d47880aa096f38f22f0d881028ee
+ms.sourcegitcommit: 2fdaaad7b50b9ef3dff1216a300057964e6a355a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65313684"
+ms.lasthandoff: 05/18/2022
+ms.locfileid: "65462969"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,38 @@ ms.locfileid: "65313684"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2204-may-17"></a>版本 2204：5 月 17 日
+*版本 2204 (組建 15128.20248)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
+
+
+- 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Office「插入螢幕擷取畫面」 顯示 Office Apps 的空白/不完整螢幕擷取畫面的問題；我們已修正 Office 應用程式的部分 Windows 工作列縮圖螢幕擷取畫面可能會顯示空白的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正針對不支援字型服務的端點發出字型下載要求的問題。 已知這些要求會針對這些端點停止執行，因此我們甚至不應該嘗試針對不支援的端點發出這些要求。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-may-10"></a>版本 2204；5 月 10 日
 *版本 2204 (組建 15128.20224)*
@@ -2205,7 +2237,7 @@ ms.locfileid: "65313684"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2664,6 +2696,7 @@ ms.locfileid: "65313684"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15128.20248|version-2204-may-17|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
