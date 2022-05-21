@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2016 年 Office 365 專業增強版 Semi-Annual 通道 (目標) 版本的版本資訊
-ms.openlocfilehash: b5ca90cfe54f2f6c7e0771d403458f151afdd9cd
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: a8173daecfaa016f3aa15e35b9c500296bc9c55b
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825427"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620214"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>2016 年Semi-Annual通道 (目標) 版本的版本資訊
 
@@ -667,7 +667,7 @@ ms.locfileid: "64825427"
 -   **新的邏輯函數**：現在可使用兩個新的邏輯函數： [IFS](https://support.office.com/article/36329a26-37b2-467c-972b-4a39bd951d45)和 [SWITCH](https://support.office.com/article/47ab33c0-28ce-4530-8a45-d532ec4aa25e)
 -   **新的統計函數**：現在可使用兩個新的統計函數： [MAXIFS](https://support.office.com/article/dfd611e6-da2c-488a-919b-9b6376b28883)和 [MINIFS](https://support.office.com/article/6ca1ddaa-079b-4e74-80cc-72eef32e6599)
 -   **傳送選項**：從 [共用] 窗格，以附件或以 PDF 格式的方式傳送文件。 [詳細資訊](https://support.office.com/article/8d8a52bb-03c3-4933-ab6c-330aabf1e589)
--   **BI 範本**：善用 Excel 之商業智慧 (BI) 功能的三個新範本。 [行事曆深入資訊](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、 [股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、 [我的現金流](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 範本**：善用 Excel 之商業智慧 (BI) 功能的三個新範本。 行事曆Insights、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、我的現金流
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
 -   Microsoft 資訊安全佈告欄 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3089664)
@@ -728,8 +728,8 @@ ms.locfileid: "64825427"
 -   修正此問題：使用 [全部貼上] 以從行事曆剪貼簿中複製地址到新會議。
 -   修正此問題：[寄件者] 下拉式清單中的項目在高對比模式下並未完全標示。
 -   修正此問題：當使用 SHIFT + 按一下來選取多個附件時，僅選取第一個附件。
--   修正此問題：設定為使用 POP3 時，當 Outlook 下載郵件訊息後，伺服器上所有郵件訊息皆從收件匣中刪除。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
--   修正此問題：當設定為使用 POP3 時，會多次下載郵件訊息，導致專案重複。 [此問題的相關資訊](https://support.microsoft.com/kb/3145116)
+-   修正此問題：設定為使用 POP3 時，當 Outlook 下載郵件訊息後，伺服器上所有郵件訊息皆從收件匣中刪除。
+-   修正此問題：當設定為使用 POP3 時，會多次下載郵件訊息，導致專案重複。
 -   修正此問題：使用者無法存取託管於 Exchange Server 2010 的公用資料夾。
 -   修正此問題：在高 dpi 裝置與正常的 dpi 監視器之間傳送郵件時，影像顯示的尺寸錯誤。
 -   修正此問題：在郵件清單中拖曳捲軸時會導致清單跳至清單結尾。

@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 715fca07792569a879059141db642d72d460be07
-ms.sourcegitcommit: 22601734d615f9524d15095393195c3e527ba290
+ms.openlocfilehash: b90fed0710a25f7df9e84139da726daac5f4c662
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65396757"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620445"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -373,8 +373,6 @@ ms.locfileid: "65396757"
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
 
 - **系統管理員可以使用系統管理單位委派 Teams 管理：** 系統管理員可以指定其他系統管理員來管理其 Teams 組織的子集。
-
-- **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
 - **在 PowerShell 中將原則套件指派給群組：** 在 PowerShell 中使用群組指派簡化原則套件的指派。 群組指派讓系統管理員能夠將一個原則套件指派給群組，而不是個別使用者。
 

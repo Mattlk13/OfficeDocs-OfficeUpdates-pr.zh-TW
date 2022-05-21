@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2010 永久版本的更新歷程記錄
-ms.openlocfilehash: c99f3b4602deb5c72cea8b5b813101ef5af5f86a
-ms.sourcegitcommit: cf2e99223e6d8678d60c01ee8c8959d6f9c8f8a9
+ms.openlocfilehash: 380803369c3442f53a78a7035da52aa0c6f6fcba
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59273458"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620153"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Office 2010 隨選即用產品更新歷程記錄
 
@@ -33,7 +33,7 @@ ms.locfileid: "59273458"
 如果您使用這其中一項產品，而您想要確認使用的是最新版本，請視需要查看您的 Office 版本號碼，並手動更新 Office。
   
 > [!NOTE]
-> 最新版本的 Office 2010 是 **14.0.7261.5000**，也就是在 2020 10 月13日發行。
+> 最新的 Office 2010 版本是 **14.0.7261.5000**，發行于 2020 年 10 月 13 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -141,9 +141,9 @@ ms.locfileid: "59273458"
 ||11 月 9 日  <br/> |14.0.5128.5002  <br/> |[KB 2289161](https://support.microsoft.com/kb/2289161) <br/> Office 2010 的定義更新  <br/> |
 ||10 月 12 日  <br/> |14.0.5123.5005  <br/> |[KB 2345000](https://support.microsoft.com/kb/2345000) <br/> Office 2010 的定義更新  <br/> |
 ||9 月 14 日  <br/> |14.0.5123.5002  <br/> |[KB 2202188](https://support.microsoft.com/kb/2202188) <br/> [KB 2288640](https://support.microsoft.com/kb/2288640) <br/> Outlook Social Connector 2010 的更新  <br/> Office 2010 的定義更新  <br/> |
-||7 月 13 日  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> [KB 2078278](https://support.microsoft.com/kb/2078278) <br/> Office 2010 的定義更新  <br/> |
+||7 月 13 日  <br/> |14.0.5114.5002  <br/> |[KB 983403](https://support.microsoft.com/kb/983403) <br/> KB 2078278 <br/> Office 2010 的定義更新  <br/> |
 ||4 月 15 日  <br/> |14.0.4763.1000  <br/> |這是 Office 2010 的「釋出以便製造」(RTM) 版本。  <br/> |
-||2 月 11 日  <br/> |14.0.4545.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 980028](https://support.microsoft.com/kb/980028) <br/> |
-|2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (搶鮮版 (Beta))  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> [KB 976133](https://support.microsoft.com/kb/976133) <br/> |
+||2 月 11 日  <br/> |14.0.4545.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> KB 980028 <br/> |
+|2009  <br/> |12 月 8 日  <br/> |14.0.4541.1000 (搶鮮版 (Beta))  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> KB 976133 <br/> |
 ||11 月 18 日  <br/> |14.0.4536.1000  <br/> |這是 Office 2010 的搶鮮版 (Beta)。  <br/> |
    

@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams系統管理員功能的版本資訊。
-ms.openlocfilehash: 983e9451915e81ef8c076c54a0227e49b06e855d
-ms.sourcegitcommit: 22601734d615f9524d15095393195c3e527ba290
+ms.openlocfilehash: 92d2cd86a2109708303079efa0a4705094d84325
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2022
-ms.locfileid: "65396767"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620253"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams系統管理員功能的版本資訊
 
@@ -555,7 +555,7 @@ ms.locfileid: "65396767"
 
 ## <a name="march-29-2021"></a>2021 年 3 月 29 日
 
-- **Teams Android裝置的遠端布建和登入：** IT 系統管理員可以從遠端布建並登入Teams Android裝置。 若要從遠端布建裝置，系統管理員必須上傳所布建裝置的 MAC 識別碼，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
+- **Teams Android裝置的遠端布建和登入：** IT 系統管理員可以從遠端布建並登入Teams Android裝置。 若要以遠端方式佈建裝置，系統管理員必須上傳已佈建之裝置的 MAC 識別碼，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
 
 ## <a name="march-24-2021"></a>2021 年 3 月 24 日
 
@@ -737,7 +737,7 @@ ms.locfileid: "65396767"
 
 - **使用裝置標記功能增強管理性：** 作為增強管理性的一部分，我們將發行裝置標記功能。 它可讓 IT 系統管理員使用使用者產生的標籤將特定的裝置集合分組，並在相同的上執行動作。 [深入了解](/Microsoftteams/manage-tags)。
 
-- **會議中僅限檢視：** 僅限檢視可讓最多 20，000 名只接聽參與者加入會議，召集人擁有進階通訊附加元件 SKU 的授權。1 這是預覽或早期發行功能。 [深入了解](/MicrosoftTeams/limits-specifications-teams-preview#meetings-and-calls)。
+- **會議中僅限檢視：** 僅限檢視可讓最多 20，000 名只接聽參與者加入會議，召集人擁有進階通訊附加元件 SKU 的授權。1 這是預覽或早期發行功能。 [深入了解](/microsoftteams/limits-specifications-teams#meetings-and-calls)。
 
 ## <a name="july-28-2020"></a>2020 年 7 月 28 日
 

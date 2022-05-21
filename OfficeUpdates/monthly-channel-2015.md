@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2015 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: a47b985ed088f63501f762ad07bd75be23e1fecc
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: 4fae2d161587113a4ac490d44347f6cad275b92e
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825686"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620428"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015 年每月通道版本的版本資訊
 
@@ -30,7 +30,7 @@ ms.locfileid: "64825686"
 *版本 1511 (組建 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **BI 範本：** 利用商業智慧 (BI) 功能的三個新範本Excel：[行事曆Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、[我的現金流](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 範本：** 利用商業智慧 (BI) 功能的三個新範本Excel：行事曆Insights、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、我的現金流
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：對於由數字格式化為完整日期的儲存格，在拖曳其填滿控點時會造成 Excel 毀損。

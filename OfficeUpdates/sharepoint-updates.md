@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 訂閱版本、SharePoint Server 2019、SharePoint Server 2016 及 SharePoint Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: 7f045970406a69be90d40ce2581b5bb77be10651
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: 2e5f6dcd4a2f8dd582baa981b9d66df71346c552
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305119"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620279"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -74,7 +74,7 @@ ms.locfileid: "65305119"
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484400](https://support.microsoft.com/help/4484400) <br/> [KB 4484404](https://support.microsoft.com/help/4484404) <br/> |16.0.10361.12114|2020 年 6 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484332](https://support.microsoft.com/help/4484332) <br/> [KB 4484331](https://support.microsoft.com/help/4484331) <br/> |16.0.10359.20000|2020 年 5 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484292](https://support.microsoft.com/help/4484292) <br/> [KB 4484291](https://support.microsoft.com/help/4484291) <br/> |16.0.10358.20000|2020 年 4 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484271](https://support.microsoft.com/help/4484271) <br/> [KB 4484277](https://support.microsoft.com/help/4484277) <br/> |16.0.10357.20002|2020 年 3 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484271](https://support.microsoft.com/help/4484271) <br/> [KB 4484277](https://www.microsoft.com/download/details.aspx?id=100994) <br/> |16.0.10357.20002|2020 年 3 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484259](https://support.microsoft.com/help/4484259) <br/> [KB 4484225](https://support.microsoft.com/help/4484225) <br/> |16.0.10355.20000|2020 年 2 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4484224](https://support.microsoft.com/help/4484224)  <br/> |16.0.10354.20001|2020 年 1 月  <br/> |
 |SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4484177](https://support.microsoft.com/help/4484177) <br/> [KB 4484176](https://support.microsoft.com/help/4484176) <br/> |16.0.10353.20001|2019 年 12 月  <br/> |
@@ -264,7 +264,8 @@ ms.locfileid: "65305119"
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3114339](https://support.microsoft.com/kb/3114339) <br/> [KB3114345](https://support.microsoft.com/kb/3114345) <br/> ||2015 年 12 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3101368](https://support.microsoft.com/kb/3101368) <br/> [KB3101373](https://support.microsoft.com/kb/3101373) <br/> ||2015 年 11 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3085488](https://support.microsoft.com/kb/3085488) <br/> [KB3085492](https://support.microsoft.com/kb/3085492) <br/> ||2015 年 10 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB2975894](https://support.microsoft.com/kb/2975894) <br/> [KB2986213](https://support.microsoft.com/kb/2986213) <br/> ||2015 年 9 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |KB2975894 <br/> 
+[KB2986213](https://support.microsoft.com/kb/2986213) <br/> ||2015 年 9 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3055004](https://support.microsoft.com/kb/3055004) <br/> [KB3055009](https://support.microsoft.com/kb/3055009) <br/> ||2015 年 8 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3054931](https://support.microsoft.com/kb/3054931) <br/> [KB3054937](https://support.microsoft.com/kb/3054937) <br/> ||2015 年 7 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB3054864](https://support.microsoft.com/kb/3054864) <br/> [KB3054866](https://support.microsoft.com/kb/3054866) <br/> ||2015 年 6 月  <br/> |
@@ -273,13 +274,14 @@ ms.locfileid: "65305119"
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2956159](https://support.microsoft.com/kb/2956159) <br/> [KB 2956166](https://support.microsoft.com/kb/2956166) <br/> ||2015 年 3 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2920801](https://support.microsoft.com/kb/2920801) <br/> [KB 2920804](https://support.microsoft.com/kb/2920804) <br/> ||2015 年 2 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2910945](https://support.microsoft.com/kb/2910945) <br/> [KB 2910938](https://support.microsoft.com/kb/2910938) <br/> ||2014 年 12 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2899468](https://support.microsoft.com/kb/2899468) <br/> [KB 2889944](https://support.microsoft.com/kb/2889944) <br/> ||2014 年 11 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2883087](https://support.microsoft.com/kb/2883087) <br/> [KB 2883068](https://support.microsoft.com/kb/2883068) <br/> ||2014 年 9 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2882999](https://support.microsoft.com/kb/2882999) <br/> [KB 2882989](https://support.microsoft.com/kb/2882989) <br/> ||2014 年 7 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |KB 2899468 <br/> KB 2889944 <br/> ||2014 年 11 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |KB 2883087 <br/> 
+[KB 2883068](https://support.microsoft.com/kb/2883068) <br/> ||2014 年 9 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2882999](https://support.microsoft.com/kb/2882999) <br/> KB 2882989 <br/> ||2014 年 7 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2881063](https://support.microsoft.com/kb/2881063) <br/> [KB 2881061](https://support.microsoft.com/kb/2881061) <br/> ||2014 年 6 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2863892](https://support.microsoft.com/kb/2863892) <br/> [KB 2878240](https://support.microsoft.com/kb/2878240) <br/> ||2014 年 5 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2880551 (SP1)](https://support.microsoft.com/kb/2880551) <br/> [KB 2880552 (SP1)](https://support.microsoft.com/kb/2880552) <br/> ||Service Pack 1          2014 年 4 月  <br/> |
-|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2849961](https://support.microsoft.com/kb/2849961) <br/> [KB 2850024](https://support.microsoft.com/kb/2850024) <br/> ||2013 年 12 月  <br/> |
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2849961](https://support.microsoft.com/kb/2849961) <br/> KB 2850024 <br/> ||2013 年 12 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2825674](https://support.microsoft.com/kb/2825674) <br/> [KB 2825647](https://support.microsoft.com/kb/2825647) <br/> ||2013 年 10 月  <br/> |
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/> |[KB 2817517](https://support.microsoft.com/kb/2817517) <br/> [KB 2817616](https://support.microsoft.com/kb/2817616) <br/> ||2013 年 8 月  <br/> |
    
@@ -350,9 +352,9 @@ ms.locfileid: "65305119"
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3055049](https://support.microsoft.com/kb/3055049) <br/> [KB3055040](https://support.microsoft.com/kb/3055040) <br/> ||2015 年 8 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB3054983](https://support.microsoft.com/kb/3054983) <br/> [KB3054975](https://support.microsoft.com/kb/3054975) <br/> ||2015 年 7 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |6 月沒有更新。  <br/> [KB3054880](https://support.microsoft.com/kb/3054880) <br/> ||2015 年 6 月  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |5 月沒有更新。  <br/> [KB3015569](https://www.microsoft.com/download/details.aspx?id=47135) <br/> ||2015 年 5 月  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |5 月沒有更新。  <br/> [KB3015569](https://support.microsoft.com/topic/may-12-2015-cumulative-update-for-sharepoint-server-2010-kb3015569-d6f2324a-3cb7-a2ae-b640-ea040afa84d6) <br/> ||2015 年 5 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |4 月沒有更新。  <br/> [KB 2965294](https://support.microsoft.com/kb/2965294) <br/> ||2015 年 4 月  <br/> |
-|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2956208](https://support.microsoft.com/kb/2956208) <br/> [KB 2956201](https://support.microsoft.com/kb/2956201) <br/> ||2015 年 3 月  <br/> |
+|SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |KB 2956208 <br/> [KB 2956201](https://support.microsoft.com/kb/2956201) <br/> ||2015 年 3 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2910904](https://support.microsoft.com/kb/2910904) <br/> [KB 2899558](https://support.microsoft.com/kb/2899558) <br/> ||2015 年 2 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2899585](https://support.microsoft.com/kb/2899585) <br/> [KB 2899583](https://support.microsoft.com/kb/2899583) <br/> ||2014 年 12 月  <br/> |
 |SharePoint Foundation 2010  <br/> SharePoint Server 2010  <br/> |[KB 2889933](https://support.microsoft.com/kb/2889933) <br/> [KB 2899478](https://support.microsoft.com/kb/2899478) <br/> ||2014 年 11 月  <br/> |

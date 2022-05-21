@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 3be87991fa29937286c7d9696531feabd7e0dfec
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: 3f03ddd49555ff40360c7d460ddf18d3bb623be2
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305140"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620250"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -902,7 +902,7 @@ ms.locfileid: "65305140"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **從相片提取資料:** 從圖片、[插入] 索引標籤或直接從您的 iPhone 新增表格資料。[深入了解](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />在[部落格文章](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)中查看詳細資料
+- **從相片提取資料:** 從圖片、[插入] 索引標籤或直接從您的 iPhone 新增表格資料。[深入了解](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />在[部落格文章](https://insider.office.com/blog/data-from-picture-in-excel)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -910,7 +910,7 @@ ms.locfileid: "65305140"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。<br />在[部落格文章](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)中查看詳細資料
+- **在簡報時同步處理變更：** 即使簡報處於投影片放映模式，仍可即時同步處理所做的變更。<br />在[部落格文章](https://insider.office.com/blog/synchronize-changes-while-presenting)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -948,9 +948,9 @@ ms.locfileid: "65305140"
 
 - **真實的發問：** 您對資料有任何問題嗎？ 在 Excel 構想中，只要輸入問題，我們會為您提供解答。 [深入了解](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
-- **尋找您要尋找的項目:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
+- **尋找您要尋找的項目:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://insider.office.com/blog/tell-me-in-excel-word-and-powerpoint-for-mac)中查看詳細資料
 
-- **新增儲存格的更快方式**：**啟用 [按一下以新增] 模式**，然後輸入 = 並選取部分儲存格以快速建立新增儲存格值的公式。在 [功能表 **]** > [喜好設定 **]** > [編輯 **]** 中找到該選項。[深入了解](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)中查看詳細資料
+- **新增儲存格的更快方式**：**啟用 [按一下以新增] 模式**，然後輸入 = 並選取部分儲存格以快速建立新增儲存格值的公式。在 [功能表 **]** > [喜好設定 **]** > [編輯 **]** 中找到該選項。[深入了解](https://support.office.com/en-us/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />在[部落格文章](https://insider.office.com/blog/click-to-add-mode-feedback-in-action)中查看詳細資料
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -962,7 +962,7 @@ ms.locfileid: "65305140"
 
 ### <a name="word"></a>Word
 
-- **語音輸入：** 您有麥克風嗎？ 按一下 [聽寫] 並看看 Word 如何在您說話的同時輸入您說話的內容。 [深入了解](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[部落格文章](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/)中查看詳細資料
+- **語音輸入：** 您有麥克風嗎？ 按一下 [聽寫] 並看看 Word 如何在您說話的同時輸入您說話的內容。 [深入了解](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />在[部落格文章](https://insider.office.com/blog/dictate-your-documents-in-word-on-mac)中查看詳細資料
 
 
 - **尋找您要尋找的項目:** 使用搜尋方塊來尋找文字、命令、說明等項目。[深入了解](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />在[部落格文章](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)中查看詳細資料
@@ -1661,7 +1661,7 @@ ms.locfileid: "65305140"
   
 |**應用程式**|**功能更新**|**安全性更新**|**更新套件的下載連結**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/> |**在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Word。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **插入和編輯圖示：** 使用圖示在您的文件中新增視覺效果，有多達 500 個圖示可供您插入及編輯。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **利用 LinkedIn 的撰寫理想的簡歷或履歷表：** 簡歷小幫手會為您顯示特定角色的工作經驗、專長技能和其他資訊。這些資訊位於 [校閱] 索引標籤上。[深入了解](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **內建的協助工具：** 使用鍵盤快速存取功能區，以及格式化您剛剛插入的文字或圖片。  <br/> |||
+|Word  <br/> |**在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Word。[深入了解](https://support.microsoft.com/office/collaborate-on-word-documents-with-real-time-co-authoring-7dd3040c-3f30-4fdd-bab0-8586492a1f1d) <br/><br/> **插入和編輯圖示：** 使用圖示在您的文件中新增視覺效果，有多達 500 個圖示可供您插入及編輯。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/><br/> **利用 LinkedIn 的撰寫理想的簡歷或履歷表：** 簡歷小幫手會為您顯示特定角色的工作經驗、專長技能和其他資訊。這些資訊位於 [校閱] 索引標籤上。[深入了解](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a.aspx)<br/> <br/> **內建的協助工具：** 使用鍵盤快速存取功能區，以及格式化您剛剛插入的文字或圖片。  <br/> |||
 |Excel  <br/> |**在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/><br/> **插入和編輯圖示：** 使用圖示在您的活頁簿中新增視覺效果，有多達 500 個圖示可供您插入及編輯。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> <br/>**使用時間表篩選資料：** 輕輕滑動時間表篩選器的日期範圍，即可篩選樞紐分析表。[深入了解](https://support.office.com/article/d3956083-01be-408c-906d-6fc99d9fadfa) <br/> |[CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147)：Microsoft Excel 遠端程式碼執行弱點   <br/><br/> [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162)：Microsoft Excel 遠端程式碼執行弱點  <br/> ||
 |PowerPoint  <br/> |**在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 PowerPoint。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd.aspx) <br/> <br/>**插入和編輯圖示：** 使用圖示在您的簡報中新增視覺效果，有多達 500 個圖示可供您插入及編輯。[深入了解](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79) <br/> |[CVE-2018-8176](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8176)：Microsoft PowerPoint 遠端程式碼執行弱點  <br/> ||
 |Outlook  <br/> |**自訂撥動手勢：** 將向左撥動和向右撥動的手勢設定為您最常使用的動作。您可以選擇 [刪除]、[封存]、[標記為已讀取]、[標幟] 或 [無]。[深入了解](https://support.office.com/article/c8534c2e-1002-450d-a8f3-e53cc8e36b1d.aspx) <br/><br/> **支援 Google 日曆和連絡人：** 直接在 Outlook 中管理您的 Google 日曆和連絡人。*[深入了解](https://support.office.com/article/985f9e19-d308-4e85-9d1d-0c6f32f8e981#officeversion=outlook_2016_for_mac) <br/><br/> \**將這項功能提供給 Office 365 訂閱者需要一段時間，因此您可能不會立即看到這項功能。* |||

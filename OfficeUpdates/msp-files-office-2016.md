@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用 Windows Installer (MSI) 的 2016 Office永久版本最新 .msp 檔案清單
-ms.openlocfilehash: 2d55e91cd9df6aa870fd310384013d6e30adf981
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: b9a5a07737c501eb6a684894fa165214b9f732fe
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65304940"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620355"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Office 2016 產品最新的 .msp 檔案清單
 
@@ -68,7 +68,7 @@ ms.locfileid: "65304940"
 |ieawsdc-x-none  <br/> |Office 2016  <br/> |不適用  <br/> |不適用 <br/> |2015 年 10 月 13 日  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |不適用  <br/> |
 |kohhc-x-none  <br/> |Office 2016  <br/> |2017 年 6 月 6 日  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |*lip-ll-cc* <sup>1</sup> <br/> |Office 2016 語言介面套件  <br/> |2020 年 3 月 3 日  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
-|lync-x-none  <br/>|商務用 Skype 2016  <br/>|2022 年 3 月 1 日 <br/>|[5002106](https://support.microsoft.com/help/5002106) <br/>|2019 年 7 月 9 日  <br/>|[4475545](https://support.microsoft.com/help/4475545) <br/>|[4461473](https://support.microsoft.com/help/4461473)  <br/>|
+|lync-x-none  <br/>|商務用 Skype 2016  <br/>|2022 年 3 月 1 日 <br/>|[5002106](https://support.microsoft.com/help/5002106) <br/>|2019 年 7 月 9 日  <br/>|[4475545](https://support.microsoft.com/help/4475545) <br/>|[4461473](https://www.microsoft.com/download/details.aspx?id=575563)  <br/>|
 |mscomctlocx-x-none  <br/> |Office 2016  <br/> |不適用  <br/> |不適用  <br/> |2016 年 1 月 12 日  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |不適用  <br/> |
 |msmipc-x-none  <br/> |Office 2016  <br/> |2017 年 4 月 4 日  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |mso-x-none  <br/>|Office 2016  <br/>|2021 年 2 月 2 日  <br/>|[4493189](https://support.microsoft.com/help/4493189) <br/>|2022 年 2 月 08 日 <br/>|[5002140](https://support.microsoft.com/help/5002140) <br/>|[5002116](https://support.microsoft.com/help/5002116) <br/>|

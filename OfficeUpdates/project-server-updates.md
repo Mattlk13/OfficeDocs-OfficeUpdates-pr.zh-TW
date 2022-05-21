@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 尋找及管理 Project Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
-ms.openlocfilehash: 8dbad86b0b3bcd4817918c6ad47ffeedeb7fe724
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: dd47359cf73c57d4aeafc2b6a343816a8f3aeffa
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65304930"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620291"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -251,7 +251,7 @@ ms.locfileid: "65304930"
 |2016 年 3 月  <br/> |[KB3114876](https://support.microsoft.com/help/3114876) <br/> |
 |2016 年 3 月  <br/> |[KB3114754](https://support.microsoft.com/help/3114754) <br/> |
 |2016 年 1 月  <br/> |[KB3114556](https://support.microsoft.com/help/3114556) <br/> |
-|2015 年 12 月  <br/> |[KB3114405](https://support.microsoft.com/help/3114405) <br/> |
+|2015 年 12 月  <br/> |KB3114405 <br/> |
 |2015 年 11 月  <br/> |[KB3101530](https://support.microsoft.com/help/3101530) <br/> |
 |2015 年 10 月  <br/> |[KB3085598](https://support.microsoft.com/help/3085598) <br/> |
 |2015 年 9 月  <br/> |[KB3085517](https://support.microsoft.com/help/3085517) <br/> |
@@ -265,7 +265,7 @@ ms.locfileid: "65304930"
 |2014 年 12 月  <br/> |[KB2899587](https://support.microsoft.com/help/2899587) <br/> |
 |2014 年 11 月  <br/> |[KB2899479](https://support.microsoft.com/help/2899479) <br/> |
 |2014 年 9 月  <br/> |[KB2883006](https://support.microsoft.com/help/2883006) <br/> |
-|2014 年 8 月  <br/> |[KB2883021](https://support.microsoft.com/help/2883021) <br/> |
+|2014 年 8 月  <br/> |KB2883021 <br/> |
 |2014 年 6 月  <br/> |[KB2880974](https://support.microsoft.com/help/2880974) <br/> |
 |2014 年 2 月  <br/> |[KB2863917](https://support.microsoft.com/help/2863917) <br/> |
 |2013 年 12 月  <br/>  |[KB2849972](https://support.microsoft.com/help/2849972) <br/> |
