@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: bf444a8e02c9f113791c34f2ff63b8f5ea46305d
-ms.sourcegitcommit: dd346b30e044f8e27f3994f9266ff925e2217362
+ms.openlocfilehash: d42869669ea4e351276422a8362230b562dbc9a8
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/13/2022
-ms.locfileid: "64825707"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620435"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>2018 年每月通道版本的版本資訊
 
@@ -365,7 +365,7 @@ ms.locfileid: "64825707"
  - **使用新圖表以視覺化方式呈現資料：** 從 11 個圖表中選擇，並將其中一個新增至您的表單和報告，更有效地以視覺化方式呈現資料並進行明智的決策。[深入了解](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。請注意，某些地區不提供這項功能。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在編輯時與共同作者交談**：藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Excel。請注意，某些地區不提供這項功能。
 
 ### <a name="outlook-feature-updates"></a>Outlook：功能更新
  - **免操作輸入：** 使用您的語音直接聽寫以建立電子郵件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
@@ -376,7 +376,7 @@ ms.locfileid: "64825707"
 - 將共用行事曆邀請中的用語從「開啟此行事曆」變更為「接受」。
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 PowerPoint。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 PowerPoint。
  - **免操作輸入：** 使用您的語音直接聽寫以建立簡報。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Microsoft 表單：** 在投影片上進行測驗或問卷。Office 會收集並儲存存儲您的回應。[深入了解](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
@@ -388,7 +388,7 @@ ms.locfileid: "64825707"
  - **入門圖表：** 組織圖、腦力激盪和 SDL 範本有新的入門圖表可讓您快速啟動並執行。
 
 ### <a name="word-feature-updates"></a>Word：功能更新
- - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Word。[深入了解](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
+ - **在編輯時與共同作者交談：** 藉由與共同作者聊天，即可更有效率地共同作業而不需要離開 Word。
  - **免操作輸入：** 使用您的語音直接聽寫以建立文件。不需輸入。[深入了解](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **編輯當然是使用筆跡編輯：** 使用畫筆透過單一筆劃來分割或加入文字、新增新的一行，或插入文字。[深入了解](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)
 
