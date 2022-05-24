@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: b90fed0710a25f7df9e84139da726daac5f4c662
-ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
+ms.openlocfilehash: 1ca78a2fc4c3262202f44a28430beb3d2cb953d8
+ms.sourcegitcommit: 977e47f4aa40a04b8fce56e4773599f3e987204e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65620445"
+ms.lasthandoff: 05/24/2022
+ms.locfileid: "65650667"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -548,7 +548,7 @@ ms.locfileid: "65620445"
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
-- **網頁背景效果簡介:** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/officechange-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+- **網頁背景效果簡介:** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
