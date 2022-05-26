@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 9784036e0663d47880aa096f38f22f0d881028ee
-ms.sourcegitcommit: 2fdaaad7b50b9ef3dff1216a300057964e6a355a
+ms.openlocfilehash: 1b9ab9bf9024c88ae6db142569579952b3fd2d32
+ms.sourcegitcommit: d00241abb312ef5298f3a51d19ef9a14ef2beea3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/18/2022
-ms.locfileid: "65462969"
+ms.lasthandoff: 05/25/2022
+ms.locfileid: "65670883"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,101 @@ ms.locfileid: "65462969"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2205-may-24"></a>版本 2205：5 月 24 日
+*版本 2205 (組建 15225.20204)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **大聲朗讀功能變得更好：** 新的大聲朗讀工具列提供全新、聽起來很自然的語音選項。
+
+### <a name="teams"></a>Teams
+
+- **在虛擬桌面基礎結構上授與或取回 Citrix 控制權：** Citrix 上的使用者將能夠在通話和會議期間授與及取回控制權。 如果您希望另一個會議參與者變更檔案、協助您簡報，或示範某些項目，您可以授與控制權給該人員。 您與該人員可以同時控制分享，而且您可以隨時取回控制權。 若要在其他人分享時取得控制權，請選取 [要求控制]。 然後，分享的人員可以核准或拒絕您的要求。 取得控制權時，您可以對分享的畫面進行選取、編輯及其他修改。 完成時，請選取 [釋出控制權] 以停止分享控制權。
+
+- **Teams 中頻道文章的自動分組：** Teams 中將會提供新的自動分組做為頻道文章的使用建議。 例如，您可以在頻道 @TeamOwners 張貼內容，所有團隊擁有者都會收到通知。
+
+- **Microsoft Store 中的 Microsoft Teams 應用程式：** Microsoft Teams 公司、學校與生活用應用程式即將在我們專屬的 Microsoft Store 提供下載。 此應用程式將支援 Windows 10 上的公司、學校及消費者帳戶，以及 Windows 11 上的公司或學校帳戶。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正字母 「j」 未正確插入的問題。
+
+
+- 我們已修正在具有圖表工作表的活頁簿上執行 VBA 指令碼/增益集時，可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
+
+
+- 我們已修正即使具有正確權限，導致委派仍無法開啟共用連絡人資料夾的問題。
+
+
+- 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉寄會議邀請上顯示「不需要回應」的問題。
+
+
+- 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="project"></a>Project 
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Office 呈現程式碼中意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-may-17"></a>版本 2204：5 月 17 日
 *版本 2204 (組建 15128.20248)*
@@ -1815,11 +1910,11 @@ ms.locfileid: "65462969"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
 
 ### <a name="teams"></a>Teams
 
@@ -1859,7 +1954,7 @@ ms.locfileid: "65462969"
 
 ### <a name="word"></a>Word
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2237,7 +2332,7 @@ ms.locfileid: "65462969"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2696,6 +2791,7 @@ ms.locfileid: "65462969"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15225.20204|version-2205-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20248|version-2204-may-17|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
@@ -2705,5 +2801,4 @@ ms.locfileid: "65462969"
 [//]: # (|Win32|CC|Production| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|CC|Production| |16.0.14931.20120|version-2202-february-28|)
 [//]: # (|Win32|CC|Production| |16.0.14827.20198|version-2201-february-16|)
-[//]: # (|Win32|CC|Production| |16.0.14827.20192|version-2201-february-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
