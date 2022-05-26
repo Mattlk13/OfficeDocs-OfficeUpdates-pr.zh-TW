@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 3f03ddd49555ff40360c7d460ddf18d3bb623be2
-ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
+ms.openlocfilehash: cce7c7f528313e748a5c87274b61298cc825c37e
+ms.sourcegitcommit: aa2bec40733a16fbc8c909ad09f2a58f78ff6291
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65620250"
+ms.lasthandoff: 05/26/2022
+ms.locfileid: "65685137"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -35,24 +35,14 @@ ms.locfileid: "65620250"
 
 [//]: # (DO NOT REMOVE)
 
+## <a name="may-23-2022"></a>2022 年 5 月 23 日
+*版本 16.61.1 (組建 22052000)* <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+此更新僅適用於 Excel，並包含品質和效能改善。
 ## <a name="may-10-2022"></a>2022 年 5 月 10 日
 *版本 16.61 (組建 22050700)*
+
+此更新包含品質和效能改善。
 ## <a name="april-12-2022"></a>2022 年 4 月 12 日
 *版本 16.60 (組建 22041000)*
 
@@ -62,9 +52,6 @@ ms.locfileid: "65620250"
 ### <a name="excel"></a>Excel
 
 - **享受改良的搜尋體驗：** 在更新的 [尋找] 工具中，為您的搜尋取得更廣泛的一組結果。<br />在[部落格文章](https://insider.office.com/en-us/blog/find-all-in-excel-for-mac)中查看詳細資料
-
-
-
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -167,7 +154,7 @@ ms.locfileid: "65620250"
 
 - **使用 Power Query 從本地檔案中匯入資料:** 現在您可以使用 Power Query 從本地 Excel 活頁簿、文字和 CSV 檔案中匯入資料 [深入了解](https://support.office.com/article/7b2f337d-e7d2-4fdf-bf00-3dfbb1e5e9c5)<br />在[部落格文章](https://insider.office.com/en-us/blog/import-data-from-local-files-with-power-query-in-excel-for-mac)中查看詳細資料
 
-- **螢幕畫面保護:** Office 現在會針對使用 Microsoft 資訊保護原則保護的敏感性文件，防止螢幕畫面擷取及螢幕畫面共用。
+- **畫面剪輯保護:** Office 現在會針對使用 Microsoft Purview 資訊保護原則所保護的敏感性文件，防止畫面剪輯及畫面共用。
 
 - **Apple Silicon CPU 的裝置上完全支援 Excel:** Mac 版 Excel 中的 Power Query 現在原生支援 Apple Silicon 處理器。 如果您先前使用 Rosetta 模擬器執行 Excel，現在可以停用它，並原生地在裝置上執行 Excel。
 
@@ -177,13 +164,13 @@ ms.locfileid: "65620250"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **保護敏感性資訊:** Office 現在會針對使用 Microsoft 資訊保護原則保護的敏感性文件，防止螢幕畫面擷取及螢幕畫面共用。
+- **保護敏感性資訊:** Office 現在會針對使用 Microsoft Purview 資訊保護原則所保護的敏感性文件，防止畫面剪輯及畫面共用。
 
 ### <a name="word"></a>Word
 
-- **保護敏感性資訊:** Office 現在會針對使用 Microsoft 資訊保護原則保護的敏感性文件，防止螢幕畫面擷取及螢幕畫面共用。
+- **保護敏感性資訊:** Office 現在會針對使用 Microsoft Purview 資訊保護原則所保護的敏感性文件，防止畫面剪輯及畫面共用。
 
-- **共同作業時更快速地恢復工作:** 當您與其他人共同作業時中斷連線時，Word 會自動以最新的變更重新整理您的文件。
+- **共同作業時更快速地恢復工作：** 在與其他人共同作業時若中斷連線，Word 將會自動以最新的變更重新整理您的文件。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -395,7 +382,7 @@ ms.locfileid: "65620250"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 ### <a name="outlook"></a>Outlook
 
@@ -407,13 +394,13 @@ ms.locfileid: "65620250"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 - **影片庫：** 使用可在應用程式內取得的精心製作、免費的影片素材庫來提升您的文件
 
 ### <a name="word"></a>Word
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)

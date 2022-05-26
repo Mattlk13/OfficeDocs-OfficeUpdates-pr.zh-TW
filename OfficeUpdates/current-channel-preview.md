@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 92307a1e098d2fc69c24174c7f2ed328c9e680dc
-ms.sourcegitcommit: 21359a7d03d2287568361f7b458c2ca0027865fc
+ms.openlocfilehash: aff22ff7289cb642c91f90ae63a0731d30b7fa1b
+ms.sourcegitcommit: 977e47f4aa40a04b8fce56e4773599f3e987204e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/17/2022
-ms.locfileid: "65442671"
+ms.lasthandoff: 05/24/2022
+ms.locfileid: "65650687"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,73 @@ ms.locfileid: "65442671"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2205-may-23"></a>版本 2205：5 月 23 日
+*版本 2205 (組建 15225.20204)*
+* 各種錯誤和效能修正。
+
+## <a name="version-2205-may-20"></a>版本 2205：5 月 20 日
+*版本 2205 (組建 15225.20194)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **加速公式輸入：** Excel 藉由減少記憶體使用量、更有效率地利用配置的記憶體，以及最佳化重新繪製，明顯加快在儲存格中輸入公式的速度。 這些最佳化效果在慢速記憶體或慢速 CPU 記憶體輸送量的裝置上，以及較大的儲存格範圍上更為明顯。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正即使具有正確權限，導致委派仍無法開啟共用連絡人資料夾的問題。
+
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正導致在 Office 轉譯代碼中意外關閉的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-may-16"></a>版本 2205：5 月 16 日
 *版本 2205 (組建 15225.20150)*
@@ -4895,7 +4962,7 @@ ms.locfileid: "65442671"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -6218,7 +6285,7 @@ ms.locfileid: "65442671"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-27"></a>版本2008：8月27日
-*版本 2008 (組建 13127.20296)*
+*版本2008（組建13127.20296）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -6238,7 +6305,7 @@ ms.locfileid: "65442671"
 
 - 修正了當與雲端附件互動時，導致使用者偶爾當機的問題。
 
-- 修正編輯收件者時，導致使用者偶爾當機的問題。
+- 修正了編輯收件者時，導致使用者偶爾當機的問題。
 
 - 修正會導致使用者在使用壓縮模式時發生異常的問題。
 
@@ -6745,7 +6812,7 @@ ms.locfileid: "65442671"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-25"></a>版本 2006：6 月 25 日
-*版本 2006 (組建 13001.20266)*
+*版本2006（組建13001.20266）*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
