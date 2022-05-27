@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: aff22ff7289cb642c91f90ae63a0731d30b7fa1b
-ms.sourcegitcommit: 977e47f4aa40a04b8fce56e4773599f3e987204e
+ms.openlocfilehash: a30e9e4966cd064d4fbcf838912349a9b1f9d80c
+ms.sourcegitcommit: 3b7fbe28026409e7e4eb4148744e9f92ea659bee
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 05/24/2022
-ms.locfileid: "65650687"
+ms.locfileid: "65662846"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -1461,7 +1461,7 @@ ms.locfileid: "65650687"
 - 我們已修正 Office 在 SSO 和 ADFS DRS 環境中顯示帳戶錯誤的問題。
 
 
-- 已修正以下問題：如果停用 EnableAudit 設定，則不再產生 Microsoft 資訊保護敏感度標籤稽核資料。
+- 已修正以下問題：如果停用 EnableAudit 設定，則不再產生 Microsoft Purview 資訊保護敏感度標籤稽核資料。
 
 
 - 已修正在連續啟動和停止 [大聲朗讀] 時應用程式停止回應的問題。
@@ -4342,7 +4342,7 @@ ms.locfileid: "65650687"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 ### <a name="outlook"></a>Outlook
 
@@ -4350,7 +4350,7 @@ ms.locfileid: "65650687"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 ### <a name="teams"></a>Teams
 
@@ -4364,7 +4364,7 @@ ms.locfileid: "65650687"
 
 - **Word 文件的深色模式：** 深色模式有助於減輕眼睛疲勞，並可在處理文件時適應對光線的敏感度。
 
-- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
+- **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4492,7 +4492,7 @@ ms.locfileid: "65650687"
 
 ### <a name="word"></a>Word
 
-- 我們已修正開啟受 Microsoft 資訊保護 (MIP) 標籤保護的檔案時，如果使用者未登錄可存取 MIP 受保護標籤的身分識別，則可能會無限期擱置的問題。 使用者必須取消開啟以顯示登錄提示，且開啟作業只會在這之後才成功。 允許在開啟/下載期間顯示登錄提示，以修正此問題。
+- 我們已修正開啟受 Microsoft Purview 資訊保護標籤保護的檔案時，如果使用者未登錄可存取 MIP 受保護標籤的身分識別，則可能會無限期擱置的問題。 使用者必須取消開啟以顯示登錄提示，且開啟作業只會在這之後才成功。 允許在開啟/下載期間顯示登錄提示，以修正此問題。
 
 
 - 我們已修正移除外部磁碟機時，可能會導致應用程式意外關閉的問題。
