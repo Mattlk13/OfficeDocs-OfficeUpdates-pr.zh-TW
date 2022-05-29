@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ca8b341c485c5235c574ae7b3ddb65820e0a1cb4
-ms.sourcegitcommit: 3b7fbe28026409e7e4eb4148744e9f92ea659bee
+ms.openlocfilehash: 4a4988c17d6d2450ef326647c2883a71b278445f
+ms.sourcegitcommit: 8b341ad58ff7a60199706ef1e543a5cb3813ae42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2022
-ms.locfileid: "65662856"
+ms.lasthandoff: 05/27/2022
+ms.locfileid: "65759623"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,80 @@ ms.locfileid: "65662856"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2206-may-27"></a>版本 2206：5 月 27
+*版本 2206 (組建 15321.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **[聽寫] 工具列經過重新設計，效率更高，外觀更簡潔：** Office 聽寫工具列經過了重新設計，具有新的視覺效果、回應更靈敏的使用者介面和更小的尺寸，為重要事項—您的内容騰出空間！
+
+
+### <a name="word"></a>Word
+
+- **[聽寫] 工具列經過重新設計，效率更高，外觀更簡潔：** Office 聽寫工具列經過了重新設計，具有新的視覺效果、回應更靈敏的使用者介面和更小的尺寸，為重要事項—您的内容騰出空間！
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正將 .csv 檔案匯入 Access 時影響效能的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們解决了當套用帶有加密的預設敏感度標籤時，圖表不會插入 PowerPoint 投影片或 Word 文件的問題。
+
+
+- 我們已修正在將列插入到方向爲從右至左的工作表中時出現之與圖形錨定相關的問題。
+
+
+- 我們已修正使用 [從剪貼簿變更圖片] 時出現的問題，以便 SVG 內容正確顯示。
+
+
+- 我們已修正有關將圖示轉換為圖形，以在儲存和重新開啟後保留可見度的問題。
+
+
+- 我們已修正提示「沒有目前記錄」錯誤和其他訊息的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正回覆電子郵件並變更主旨時，會移除參照及回覆至標頭的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Word 樣式視窗/窗格顯示為空白的問題。
+
+
+- 我們已修正 SVG 物件的問題，以便它們可以處理文字錨點結束屬性並正確維持目前文字位置。
+
+
+- 我們已修正使用 [從剪貼簿變更圖片] 時出現的問題，以便 SVG 內容正確顯示。
+
+
+- 我們已修正文件保護問題 (當例外清單僅包含電子郵件時，「尋找下一個區域...」和「顯示所有區域...」命令可能會停止正常運作)。
+
+
+- 我們已修正當檔案儲存為 PDF 並開啟 [追蹤修訂] 時，已删除影像上的紅線删除線未顯示的問題。
+
+
+- 我們已修正以中文 (台灣) Windows 顯示語言匯出 PDF 時，某些特殊字元顯示為其他字型的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-may-20"></a>版本 2206：5 月 20 日
 *版本 2206 (組建 15313.20000)*
@@ -5856,6 +5930,7 @@ ms.locfileid: "65662856"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
@@ -5865,5 +5940,4 @@ ms.locfileid: "65662856"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15028.20022|version-2203-march-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
