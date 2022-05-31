@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams系統管理員功能的版本資訊。
-ms.openlocfilehash: 92d2cd86a2109708303079efa0a4705094d84325
-ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
+ms.openlocfilehash: 56005ada42613b75663b32c8a70b6eed3fac545f
+ms.sourcegitcommit: a0189f39ce431180068bc25c7a204bfc6877b4f6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65620253"
+ms.lasthandoff: 05/31/2022
+ms.locfileid: "65790287"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams系統管理員功能的版本資訊
 
@@ -28,14 +28,21 @@ ms.locfileid: "65620253"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="may-12-2022"></a>2022 年 5 月 12 日
+## <a name="may-26-2022"></a>2022 年 5 月 26 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-- **Microsoft Teams：職涯教練 - 學生參與深入解析：** 教職員授權持有者現在可以在職涯教練中檢視匯總的學生參與見解。 這些深入解析將包括參與的學生人數、參與的學生會話、繼續上傳，以及從職涯教練內的文字記錄上傳。
+- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制項套用至訴訟、群組或整個組織。
+
+- **原則傳播 - 增強活動記錄：** 系統管理員可以在活動記錄中查看群組原則指派，以及其他原則作業。 活動記錄具有有關原則作業的增強詳細資料，可讓系統管理員更深入瞭解。
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="may-12-2022"></a>2022 年 5 月 12 日
+
+- **Microsoft Teams：職涯教練 - 學生參與深入解析：** 教職員授權持有者現在可以在職涯教練中檢視匯總的學生參與見解。 這些深入解析將包括參與的學生人數、參與的學生會話、繼續上傳，以及從職涯教練內的文字記錄上傳。
+
 ## <a name="april-28-2022"></a>2022 年 4 月 28 日
 
 - **Cortana圖示的主控台首頁更新，在Windows Microsoft Teams 會議室上將 Share (也稱為 [簡報) ] 按鈕：** Windows上的Teams 會議室會將 [簡報] 按鈕帶回主控台主畫面，並將它重新命名為 [共用]，以便在會議外和會議內共用之間保持一致經驗。 Cortana推播到交談按鈕會移至主畫面底部，讓客戶能夠繼續使用Cortana，而不需要變更其工作流程，即可從會議Teams 會議室裝置呈現 HDMI 內容。 如果已針對Teams 會議室啟用Cortana語音協助原則，則適用Cortana設計變更。
@@ -58,11 +65,9 @@ ms.locfileid: "65620253"
 
 - **非會議聊天的聊天篩選：** 聊天應用程式內會有新的聊天篩選器，可篩選出與 Bot 的會議聊天和聊天。 它會逐一篩選，並與人員進行群組聊天。
 
-- **在系統管理中心Teams搜尋：** 系統管理員可以使用 Teams 系統管理中心的一般搜尋方塊來搜尋使用者、小組、頁面和設定。
+- **在 Teams 管理員 中心搜尋：** 系統管理員可以使用 Teams 系統管理中心的一般搜尋方塊來搜尋使用者、小組、頁面和設定。
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
-
-- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制套用至使用者、群組或整個組織。
 
 ## <a name="march-11-2022"></a>2022 年 3 月 11 日
 
@@ -150,7 +155,7 @@ ms.locfileid: "65620253"
 
 - **與Teams使用者聊天，其帳戶不受組織管理：** 與Teams聊天可讓Teams使用者使用Teams個人帳戶與其工作網路外部的小組成員聊天，藉此擴充共同作業支援。 客戶可以邀請任何Teams使用者使用電子郵件地址或電話號碼聊天，並保留在其組織的安全性與合規性政策內。
 
-- **Microsoft Teams 職涯教練 – 改善的 IT 上線：** 將會更新職涯教練的Teams系統管理中心設定，以改善布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會導入控制項，以管理應用程式使用者職涯教練功能的發行。
+- **Microsoft Teams 職涯教練 – 改善的 IT 上線：** 將會更新職涯教練的Teams 管理員中心設定，以改善布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會導入控制項，以管理應用程式使用者職涯教練功能的發行。
 
 - **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
 
@@ -287,7 +292,7 @@ ms.locfileid: "65620253"
 
 - **webRTC 中的螢幕畫面分享：** 提供者可以在已啟用 webRTC 的會議中與病患分享其螢幕畫面。
 
-- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。[[深入了解]](/MicrosoftTeams/sensitivity-labels)
+- **範本和 Graph API 的敏感度標籤：** 透過 Graph API 和範本建立 Teams 時支援敏感度標籤。 [深入了解](/MicrosoftTeams/sensitivity-labels)
 
 - **Teams 手機上和顯示器上通話的更佳整合功能：** 更好的功能可讓 Microsoft Teams 裝置順暢地與您的電腦整合，為跨裝置互動帶來伴隨體驗。 有了新功能支援，使用者可以使用跨兩個裝置分散式通話體驗，從 Teams 裝置或電腦用戶端撥打和接聽電話。
 
@@ -332,7 +337,7 @@ ms.locfileid: "65620253"
 
 ## <a name="september-1-2021"></a>2021 年 9 月 1 日
 
-- **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
+- **小組範本：** 在 Microsoft 提供的預先定義小組結構中，使用更多應用程式和頻道重新整理 Team Templates 內容。 [深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
 ## <a name="august-31-2021"></a>2021 年 8 月 31 日
 
@@ -476,7 +481,7 @@ ms.locfileid: "65620253"
 ## <a name="may-31-2021"></a>2021 年 5 月 31 日
 
 - **會議提醒：** 會議提醒通知會在會議開始之前 x 分鐘，因此您永遠不會錯過下一個會議。 在會議 (之前，提醒的預設值為 15 分鐘，但您可以從通知設定) 加以自訂。 您可以直接加入會議，或從提醒與參與者聊天。
-- **DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者掌握 Microsoft Teams。 如果使用者不在Microsoft Teams，而且尚未檢閱其通知，就會產生遺漏的活動電子郵件。 使用者可以選擇透過移至 **設定**  >  **NotificationsChoosing**  >  **頻率** 來接收遺漏的活動電子郵件。 
+- **DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者掌握 Microsoft Teams。 如果使用者不在Microsoft Teams，而且尚未檢閱其通知，就會產生遺漏的活動電子郵件。 使用者可以選擇透過移至 **[設定**  >  ][**通知**  >  **選擇頻率]** 來接收 [遺漏的活動] 電子郵件。 
 
 ## <a name="may-26-2021"></a>2021 年 5 月 26 日
 
@@ -543,7 +548,7 @@ ms.locfileid: "65620253"
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 
-**新增影片篩選模式：** 將背景影片篩選模式新增至 Teams 系統管理中心。 因此，系統管理員可以從兩端Teams系統管理中心和 PowerShell 變更模式。 [深入了解](/Microsoftteams/meeting-policies-in-teams?WT.mc_id=TeamsAdminCenterCSH#bkcontentsharing)。
+**新增影片篩選模式：** 將背景視訊篩選模式新增至Teams 管理員中心。 因此，系統管理員可以從兩端的 Teams 管理員 Center 和 PowerShell 變更模式。 [深入了解](/Microsoftteams/meeting-policies-in-teams?WT.mc_id=TeamsAdminCenterCSH#bkcontentsharing)。
 
 ## <a name="march-31-2021"></a>2021 年 3 月 31 日
 
@@ -741,7 +746,7 @@ ms.locfileid: "65620253"
 
 ## <a name="july-28-2020"></a>2020 年 7 月 28 日
 
-- **建立您自己的Teams範本：** 您現在可以從管理主控台使用範本來建立您自己的Teams範本，或從現有的範本建立Teams範本。 [深入了解](/Microsoftteams/get-started-with-teams-templates-in-the-admin-console)。
+- **建立您自己的Teams範本：** 您現在可以從管理員主控台使用範本來建立您自己的Teams範本，或從現有的範本建立Teams範本。 [深入了解](/Microsoftteams/get-started-with-teams-templates-in-the-admin-console)。
 
 ## <a name="july-20-2020"></a>2020 年 7 月 20 日
 
@@ -841,7 +846,7 @@ ms.locfileid: "65620253"
 
 ## <a name="march-31-2020"></a>2020 年 3 月 31 日
 
-- **標籤，您就這樣：** 建立標籤並將人員指派給他們，讓您可以@mention群組、角色、部門等。團隊擁有者，請自行試試看。 移至小組，選取 **[更多選項**  >  ]**[管理標籤]**。 [深入了解](/Microsoftteams/manage-tags)。
+- **標籤，您就這樣：** 建立標籤並將人員指派給他們，讓您可以@mention群組、角色、部門等。團隊擁有者，請自行試試看。 移至小組，選取 **[更多選項**  >  **] [管理標籤]**。 [深入了解](/Microsoftteams/manage-tags)。
 
 ## <a name="march-30-2020"></a>2020 年 3 月 30 日
 

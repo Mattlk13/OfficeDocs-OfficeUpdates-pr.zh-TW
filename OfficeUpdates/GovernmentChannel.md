@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 1ca78a2fc4c3262202f44a28430beb3d2cb953d8
-ms.sourcegitcommit: 977e47f4aa40a04b8fce56e4773599f3e987204e
+ms.openlocfilehash: f2c85fd1175d827bff0b7581c5380fe1fd8f5670
+ms.sourcegitcommit: a0189f39ce431180068bc25c7a204bfc6877b4f6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2022
-ms.locfileid: "65650667"
+ms.lasthandoff: 05/31/2022
+ms.locfileid: "65790297"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -26,9 +26,7 @@ ms.locfileid: "65650667"
 [//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
 
 
 
@@ -39,17 +37,12 @@ ms.locfileid: "65650667"
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
 
-
-
-
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
 
 
-
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
-
 
 
 ## <a name="teams-app-april-14"></a>Teams 應用程式：4 月 14 日
