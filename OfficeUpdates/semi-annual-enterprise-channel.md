@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 91d89864bee7de0e4be4e7ced85b902489e860d7
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: 365a78aa32104c97910af87b05d9b909ea354d73
+ms.sourcegitcommit: 3887ad0264ad5c67c86d068a76c3aa63fd9ff5b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305170"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65795726"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -39,20 +39,18 @@ ms.locfileid: "65305170"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
-
-- 我們已修正當事件型增益集在背景中執行時，在回覆或轉寄電子郵件時應用程式意外關閉的問題。
-
-
-- 我們已修正導致較新版本的 Viva Insights 增益集載入效率較低的問題。
-
-
 ### <a name="excel"></a>Excel
 
 - 我們已修正在特定情況下，記憶體流失可能導致 Excel 意外關閉的問題。
 
 
 ### <a name="outlook"></a>Outlook
+
+- 我們已修正當事件型增益集在背景中執行時，在回覆或轉寄電子郵件時應用程式意外關閉的問題。
+
+
+- 我們已修正導致較新版本的 Viva Insights 增益集載入效率較低的問題。
+
 
 - 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
 

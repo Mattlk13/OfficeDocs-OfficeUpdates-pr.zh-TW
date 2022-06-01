@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 64c431be89987c00473c2b660a78b0496b4627c5
-ms.sourcegitcommit: d00241abb312ef5298f3a51d19ef9a14ef2beea3
+ms.openlocfilehash: 90669274146a1ec1ba5d75fc08e08730e11cf586
+ms.sourcegitcommit: 3887ad0264ad5c67c86d068a76c3aa63fd9ff5b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "65670873"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65795736"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -32,17 +32,15 @@ ms.locfileid: "65670873"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
-
-- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
-
-
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正 Outlook 在呼叫 ResolveContacts 數千次之後，嘗試回應特定連絡人時會停止回應的問題。
 
 
 - 我們已修正在會議自動儲存之後，會傳送給出席者，但不會儲存在召集人行事曆上的問題。
+
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
 
 
 ### <a name="project"></a>Project

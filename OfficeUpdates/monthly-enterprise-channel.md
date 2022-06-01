@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 67711841387631a34580068f0db814bacb3044fb
-ms.sourcegitcommit: 3b7fbe28026409e7e4eb4148744e9f92ea659bee
+ms.openlocfilehash: 2a2de275446275ff9da82a93686040e503d251e0
+ms.sourcegitcommit: 3887ad0264ad5c67c86d068a76c3aa63fd9ff5b9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2022
-ms.locfileid: "65662826"
+ms.lasthandoff: 06/01/2022
+ms.locfileid: "65795746"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -50,10 +50,7 @@ ms.locfileid: "65662826"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
-
-- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
-
+### <a name="access"></a>Access
 
 - 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
 
@@ -90,6 +87,9 @@ ms.locfileid: "65662826"
 
 
 - 我們已修正導致「移至其他」功能停止正常回應的問題。
+
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
 
 
 ### <a name="project"></a>Project
