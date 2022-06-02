@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 1b9ab9bf9024c88ae6db142569579952b3fd2d32
-ms.sourcegitcommit: d00241abb312ef5298f3a51d19ef9a14ef2beea3
+ms.openlocfilehash: 436de4540571550c9461c14d466ce8cb8555cb4f
+ms.sourcegitcommit: 27b4f87af97815ba9dc596159bcc2f84947a5c2b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "65670883"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65842643"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -61,11 +61,6 @@ ms.locfileid: "65670883"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
-
-- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
-
-
 ### <a name="excel"></a>Excel
 
 - 我們已修正字母 「j」 未正確插入的問題。
@@ -102,6 +97,9 @@ ms.locfileid: "65670883"
 - 我們已修正 Office 呈現程式碼中意外停止回應的問題。
 
 
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - 我們已修正 Office 呈現程式碼中意外停止回應的問題。
@@ -136,17 +134,15 @@ ms.locfileid: "65670883"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
-
-- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
-
-
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
 
 
 - 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
 
 
 ### <a name="word"></a>Word
@@ -941,7 +937,7 @@ ms.locfileid: "65670883"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。

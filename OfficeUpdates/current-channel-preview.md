@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a30e9e4966cd064d4fbcf838912349a9b1f9d80c
-ms.sourcegitcommit: 3b7fbe28026409e7e4eb4148744e9f92ea659bee
+ms.openlocfilehash: 3582bf3e36b2790b66cc877d0a7b6cfb05c8e941
+ms.sourcegitcommit: 27b4f87af97815ba9dc596159bcc2f84947a5c2b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2022
-ms.locfileid: "65662846"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65842633"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -102,17 +102,15 @@ ms.locfileid: "65662846"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
-
-- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
-
-
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
 
 
 - 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
 
 
 
@@ -145,9 +143,6 @@ ms.locfileid: "65662846"
 
 
 - 我們已修正使用 IVS 字元的語言可能會發生非預期分行符號的問題。
-
-
-- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
 
 
 - 我們已修正當使用者切換資料夾，並且使用釘選的網頁增益集時，讀取窗格可能會消失的問題。
@@ -218,6 +213,9 @@ ms.locfileid: "65662846"
 
 
 - 我們已修正導致使用者從委派分組討論區信箱轉寄出的所有會議邀請上看到特定「不需要回應」的問題。
+
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -408,9 +406,6 @@ ms.locfileid: "65662846"
 - 我們已修正如果記憶體需求成長過快，造成使用 DAO 或 OLEDB 介面的應用程式無法讀取 Access 資料庫，可能會導致應用程式意外關閉的問題。
 
 
-- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
-
-
 ### <a name="excel"></a>Excel
 
 - 我們已修正如果儲存後過早開啟，未受保護檔案上新增的標籤會遺失的問題。
@@ -463,6 +458,9 @@ ms.locfileid: "65662846"
 
 
 - 我們已修正檢視動畫 GIF 時的回應問題。
+
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
 
 
 - 我們已修正顯示某些 SVG 檔案的問題。
@@ -1756,7 +1754,7 @@ ms.locfileid: "65662846"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
