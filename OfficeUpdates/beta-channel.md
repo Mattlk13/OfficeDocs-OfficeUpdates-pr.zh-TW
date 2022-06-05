@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 4a4988c17d6d2450ef326647c2883a71b278445f
-ms.sourcegitcommit: 8b341ad58ff7a60199706ef1e543a5cb3813ae42
+ms.openlocfilehash: face8075f5baee558006bb3d7ba5134969c7c014
+ms.sourcegitcommit: 5bb8e548f4ff4628991116a5e6eab553b41a0e85
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/27/2022
-ms.locfileid: "65759623"
+ms.lasthandoff: 06/04/2022
+ms.locfileid: "65888431"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,80 @@ ms.locfileid: "65759623"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2206-june-03"></a>版本 2206：6 月 3 日
+*版本 2206 (組建 15330.20004)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正來自使用者先前執行未發生事件的現有程式碼耗費過長時間執行的效能問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正資料編輯列中的視覺問題。
+
+
+- 我們已修正類似但不同的影像可能無法正確處理的問題。
+
+
+- 我們已修正 [插入] 和 [取消] 標籤在高對比主題中未顯示的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正在畫布上插入圖形或線條之後，使用者無法拖曳或調整物件大小的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在某些情況下，會看到呈現多個共用行事曆複本的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正類似但不同的影像可能無法正確處理的問題。
+
+
+- 我們已修正 [插入] 和 [取消] 標籤在高對比主題中未顯示的問題。
+
+
+- 我們已修正將影像、圖示和影片匯出為 PDF 時，會顯示空白投影片的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用者開啟先前設定為 100% 完成的專案，但發現進度狀態還原為較低值的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正類似但不同的影像可能無法正確處理的問題。
+
+
+- 我們已修正 [插入] 和 [取消] 標籤在高對比主題中未顯示的問題。
+
+
+- 我們已修正當文件處於唯讀模式時，互動模式會顯示「編輯中」的問題。
+
+
+- 我們已修正將自動儲存切換為關閉之後，使用者無法將其重新啟用的問題。
+
+
+- 我們已修正會使得應用程式無法捨棄已停止回應的文件，導致週期性同步處理流程的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-may-27"></a>版本 2206：5 月 27
 *版本 2206 (組建 15321.20000)*
@@ -5930,6 +6004,7 @@ ms.locfileid: "65759623"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
@@ -5939,5 +6014,4 @@ ms.locfileid: "65759623"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15109.20000|version-2204-march-18|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
