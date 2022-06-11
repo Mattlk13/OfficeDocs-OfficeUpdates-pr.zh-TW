@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Mac 版 Office 最新更新的相關資訊，包括套件下載連結與更新歷程記錄
-ms.openlocfilehash: ed41b13ef5912a059facb32ac18c8b297d234943
-ms.sourcegitcommit: 3b7fbe28026409e7e4eb4148744e9f92ea659bee
+ms.openlocfilehash: 00dada1d954dfdad433525c692c806dcd73f745b
+ms.sourcegitcommit: d34a4cbf6763735ca17112ee00720c3caad1a251
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/24/2022
-ms.locfileid: "65662776"
+ms.lasthandoff: 06/11/2022
+ms.locfileid: "66020146"
 ---
 # <a name="update-history-for-office-for-mac"></a>Mac 版 Office 的更新歷程記錄
   
@@ -55,6 +55,7 @@ ms.locfileid: "65662776"
 |Office 套件 (使用 Teams)|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=2009112)|9B4C9E09021C75EE8CD01FC874868C1D114BE57ABE3E4221A1EF09877DBC291E|
 |Office 套件 (未使用 Teams)|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=525133)|8FD1593EF575E2C15CFFCA619AF7564B1F6D158C98F9348CCC1CE002E472FFC4|
 |Word|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=525134)<br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.61.22050700_Updater.pkg)|888A3011DE7D8326F9A8C02045656146AB594BC1BD1BBB99ABFAD6774E5C4711|
+|Excel|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=525135)|2A1BFEF7F002AA47ADD8F80711E59A78D88029F5D374CD8FF0CE9B7B3C3158F4|
 |PowerPoint|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=525136)<br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.61.22050700_Updater.pkg)|8908991FD5A4F9C8ECF32EA4EC14CEC4D84A99497E14FF261B249B982C7E2F21|
 |Outlook|[安裝套件](https://go.microsoft.com/fwlink/p/?linkid=525137)<br/>[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.61.22050700_Updater.pkg)|751F3C127488B77BA00B64786CD6B932F6E98768D6C589CF785A704769C22E45|
 |OneNote|[更新套件](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.61.22050700_Updater.pkg)|不適用|
