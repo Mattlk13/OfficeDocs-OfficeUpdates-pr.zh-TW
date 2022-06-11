@@ -9,26 +9,22 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: f2c85fd1175d827bff0b7581c5380fe1fd8f5670
-ms.sourcegitcommit: a0189f39ce431180068bc25c7a204bfc6877b4f6
+ms.openlocfilehash: 76914ce4631ca5e10d7da61889e5e698a06f9235
+ms.sourcegitcommit: d34a4cbf6763735ca17112ee00720c3caad1a251
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/31/2022
-ms.locfileid: "65790297"
+ms.lasthandoff: 06/11/2022
+ms.locfileid: "66020106"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
 [//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
-
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -36,14 +32,25 @@ ms.locfileid: "65790297"
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
-
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
 
-
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
+## <a name="teams-admin-june-09"></a>Teams 系統管理員：6 月 9 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **適用於前線工作者的釘選的應用程式**：我們將為 Teams 中的前線工作者提供量身打造的體驗！ 利用此功能，擁有 F 授權的使用者，其前線工作者應用程式將會預設釘選。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **適用於前線工作者的釘選的應用程式**：我們將為 Teams 中的前線工作者提供量身打造的體驗！ 利用此功能，擁有 F 授權的使用者，其前線工作者應用程式將會預設釘選。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **適用於前線工作者的釘選的應用程式**：我們將為 Teams 中的前線工作者提供量身打造的體驗！ 利用此功能，擁有 F 授權的使用者，其前線工作者應用程式將會預設釘選。
 
 ## <a name="teams-app-april-14"></a>Teams 應用程式：4 月 14 日
 
@@ -249,7 +256,7 @@ ms.locfileid: "65790297"
 
 - **自訂原則套件：** 使用自訂原則套件來管理和簡化原則指派。 此功能可讓系統管理員為其組織中的使用者量身定制自己的原則套件集合。
 
-- **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
+- **通道現在支援索引標籤：** Teams Connect 共用頻道現在支援索引標籤。
 
 - **Windows 上 Teams 會議室 AAD 條件式存取支援：** Windows 上的 Microsoft Teams 會議室現在支援 Azure Active Directory 條件式存取。 系統管理員可以根據裝置合規性狀態，設定 Teams 會議室裝置對 Microsoft Teams 和 Microsoft Exchange 線上服務的存取。 此外，為了讓客戶更輕鬆，系統會將 Azure Active Directory Premium 1 授權新增至會議室系統標準版和會議室系統進階版，以及各種這些針對教育、政府客戶的 SKU 差異項目。 將會發佈有關如何設定 Windows 版 Teams 會議室以使用 AAD 條件式存取功能的詳細文件，供 IT 系統管理員率先開始設定該功能。
 
@@ -383,7 +390,7 @@ ms.locfileid: "65790297"
 
 - **自 Teams 系統管理中心匯出 Teams 清單:** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 csv 檔案。
 
-- **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
+- **通道現在支援索引標籤：** Teams Connect 共用頻道現在支援索引標籤。
 
 - **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
 
@@ -537,31 +544,31 @@ ms.locfileid: "65790297"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知：** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
-- **網頁背景效果簡介:** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+- **網頁背景效果簡介：** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知：** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
-- **網頁背景效果簡介:** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+- **網頁背景效果簡介：** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知：** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
 
 - **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
-- **網頁背景效果簡介:** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
+- **網頁背景效果簡介：** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **聊天室主管的訊息刪除:** 這項功能是為我們的 Teams 教育版使用者所設計, 讓聊天室主管可以在聊天中刪除任何人的訊息。
 
@@ -625,7 +632,7 @@ ms.locfileid: "65790297"
 
 - **垃圾郵件來電通知:** 垃圾郵件來電通知讓可能為垃圾郵件的來電在通話快顯通知中識別出來。 所有接聽或錯過的可能為垃圾郵件的通話, 也會在通話記錄畫面中分別反映出來。
 
-- **Teams 現在可在 CarPlay 上使用:** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
+- **Teams 現在可在 CarPlay 上使用：** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
@@ -641,7 +648,7 @@ ms.locfileid: "65790297"
 
 - **垃圾郵件來電通知:** 垃圾郵件來電通知讓可能為垃圾郵件的來電在通話快顯通知中識別出來。 所有接聽或錯過的可能為垃圾郵件的通話, 也會在通話記錄畫面中分別反映出來。
 
-- **Teams 現在可在 CarPlay 上使用:** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
+- **Teams 現在可在 CarPlay 上使用：** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
@@ -657,7 +664,7 @@ ms.locfileid: "65790297"
 
 - **垃圾郵件來電通知:** 垃圾郵件來電通知讓可能為垃圾郵件的來電在通話快顯通知中識別出來。 所有接聽或錯過的可能為垃圾郵件的通話, 也會在通話記錄畫面中分別反映出來。
 
-- **Teams 現在可在 CarPlay 上使用:** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
+- **Teams 現在可在 CarPlay 上使用：** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
 
 ## <a name="teams-admin-august-30"></a>Teams 系統管理員：8 月 30 日
 
@@ -685,9 +692,9 @@ ms.locfileid: "65790297"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **Power Automate 流程建議與 1P 團隊範本:** 適用於從 1P 團隊範本所建立之團隊的 Surface 電源自動化流程範本。
+- **Power Automate 流程建議與 1P 團隊範本：** 適用於從 1P 團隊範本所建立之團隊的 Surface 電源自動化流程範本。
 
-- **加入會議並傳送語音輸入訊息:** 您現在可以在 Teams 行動裝置中使用 「嗨 Cortana」 來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
+- **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb。
 
@@ -699,7 +706,7 @@ ms.locfileid: "65790297"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **加入會議並傳送語音輸入訊息:** 您現在可以在 Teams 行動裝置中使用 「嗨 Cortana」 來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
+- **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb。
 
@@ -711,7 +718,7 @@ ms.locfileid: "65790297"
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **加入會議並傳送語音輸入訊息:** 您現在可以在 Teams 行動裝置中使用 「嗨 Cortana」 來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
+- **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb
 
