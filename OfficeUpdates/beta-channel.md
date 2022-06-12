@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: face8075f5baee558006bb3d7ba5134969c7c014
-ms.sourcegitcommit: 5bb8e548f4ff4628991116a5e6eab553b41a0e85
+ms.openlocfilehash: b72c98a2e6bc30042f02d9abd983a6cfbb2d976a
+ms.sourcegitcommit: d34a4cbf6763735ca17112ee00720c3caad1a251
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2022
-ms.locfileid: "65888431"
+ms.lasthandoff: 06/11/2022
+ms.locfileid: "66020116"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,41 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2207-june-10"></a>版本 2207：6 月 10 日
+*版本 2207 (組建 15402.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用資料來自圖片從影像新增資料表資料：** 將書面資料轉譯為 Excel 可能是緩慢且令人挫折的過程。 只要拍攝資訊的圖片，再將資訊匯入到您的工作表，不是比較容易嗎？ 現在您做得到，只要使用「資料來自圖片」功能！ 若要利用這個強大的功能，只要前往 [資料 **]** 索引標籤，並選取 [來自圖片 **]**，然後選擇來源；如有需要，您也可以在將資料插入工作表之前，先加以檢閱並更正。
+
+### <a name="visio"></a>Visio
+
+- **查看其他人與您共用的檔案：** 現在在 Visio 中使用「與我共用」清單尋找重要文件變得更容易。 與您共用的任何文件都會自動顯示在您的清單中；一般來說，與您最相關的文件會出現在清單頂端。 請注意，您只會看到人員選擇與您共用的特定檔案，因此他們的其他檔案會保持安全。 若要體驗此功能，只要按一下 [常用] 索引標籤或 [開啟] 索引標籤並選取 [與我共用]。
+
+### <a name="office-suite"></a>Office 套件
+
+- **新增 SketchUp 檔案至 Office 作品**：SketchUp 是熱門的 3D 圖形程式，可輕鬆地建立可共用的概念設計，例如工業設計、產品設計，以及土木和機械工程中所使用的脈絡完整的架構模型和其他圖形。 現在，這是第一次可以將 SketchUp 圖形 (.skp 檔案) 整合至您在 Word、Excel、PowerPoint 和 Outlook 中您的作品！<br />在[部落格文章](https://insider.office.com/en-us/blog/add-sketchup-files-to-office-creations)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用者建立並共用的連絡人資料夾，已為收件者啟用可編輯連絡人資訊，但收到的資料夾具有僅檢視權限的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-june-03"></a>版本 2206：6 月 3 日
 *版本 2206 (組建 15330.20004)*
@@ -136,7 +171,7 @@ ms.locfileid: "65888431"
 
 ### <a name="excel"></a>Excel
 
-- 我們解决了當套用帶有加密的預設敏感度標籤時，圖表不會插入 PowerPoint 投影片或 Word 文件的問題。
+- 我們已解決當套用帶有加密的預設敏感度標籤時，圖表不會插入 PowerPoint 投影片或 Word 文件的問題。
 
 
 - 我們已修正在將列插入到方向爲從右至左的工作表中時出現之與圖形錨定相關的問題。
@@ -533,7 +568,7 @@ ms.locfileid: "65888431"
 - 我們已修正導致 Excel 耗用過多記憶體的問題。
 
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 我們已修正無法完全顯示甘特圖類型視圖的問題；當視圖對它套用繪圖物件時，可能會發生此情況。
 
@@ -1546,7 +1581,7 @@ ms.locfileid: "65888431"
 - 我們已修正使用者寄給自己 (相同電子郵件地址) 所收到的電子郵件呈現空白郵件內文的問題。
 
 
-### <a name="project"></a>專案
+### <a name="project"></a>Project
 
 - 我們已修正當摘要任務完成 0% 時，進度線無法正確繪製的問題。
 
@@ -3571,7 +3606,7 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -4211,7 +4246,7 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -4296,7 +4331,7 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -4628,7 +4663,7 @@ ms.locfileid: "65888431"
 
 ### <a name="word"></a>Word
 
-- 修正當使用者在點擊追蹤的變更（插入/刪除）時，會彈出註解的問題。
+- 修正當使用者在點擊追蹤的變更 (插入/刪除) 時，會彈出註解的問題。
 
 
 - 我們已修正 Word 中刪除註解圖說文字的問題。
@@ -4707,7 +4742,7 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2010-september-04"></a>版本 2010：9 月 4 日
-*版本 2010（組建13301.20004）*
+*版本 2010 (組建 13301.20004)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -4746,10 +4781,10 @@ ms.locfileid: "65888431"
 - 我們已修正一個問題, 讓您可透過群組政策來啟用/停用預設的登入選項。
 - 我們已修正電子郵件草稿在助理和經理權限移動時, 寄件者的舊網域名稱仍被保留和顯示的問題。
 - 我們已修正一個問題，其導致某些使用者看到 Outlook 在離線狀態下啟動，直到他們手動選擇線上工作。
-- 我們已修正在啟用單行功能區（SLR）後，執行 VBA 程式碼 ActiveInspector （"ShowSchedulingPage"）會導致執行階段錯誤的問題。
+- 我們已修正在啟用單行功能區 (SLR) 後，執行 VBA 程式碼 ActiveInspector ("ShowSchedulingPage") 會導致執行階段錯誤的問題。
 - 我們已修正一個問題, 即Automatic Replies自動回復對話方塊上的確定和取消按鈕以高解析度 (例如 1750 x 1920) 及較大文字 (例如 175%) 顯示的系統上的錯誤。
 - 我們修正一個情況, 即將會議請求從空的聯繫人群組發送到另一個聯繫人組會導致當機。
-- 我們解決了導致使用者在打開某些很大的電子郵件時發生當機的問題。
+- 我們已解決導致使用者在開啟某些很大的電子郵件時發生當機的問題。
 - 我們已修正一個問題, 它使的群組政策要求始終啟用增益集, 則 監視增益集的功能則無法使用，以防止使用者禁用增益集,。
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -4821,7 +4856,7 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>Access
+### <a name="access"></a>存取
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -4969,7 +5004,7 @@ ms.locfileid: "65888431"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-july-17"></a>版本 2008：7 月 17 日
-*版本 2008（組建13115.20000）*
+*版本 2008 (組建 13115.20000)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -6004,6 +6039,7 @@ ms.locfileid: "65888431"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
@@ -6013,5 +6049,4 @@ ms.locfileid: "65888431"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15121.20000|version-2204-march-25|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
