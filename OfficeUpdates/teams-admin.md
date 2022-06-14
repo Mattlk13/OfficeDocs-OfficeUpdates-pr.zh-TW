@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams系統管理員功能的版本資訊。
-ms.openlocfilehash: 34ab6f78b12efeef54d4a4363965055a8fef5c28
-ms.sourcegitcommit: d34a4cbf6763735ca17112ee00720c3caad1a251
+ms.openlocfilehash: 5148d3dcd1457d35c7c5175732a219bac4285f09
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2022
-ms.locfileid: "66020126"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077527"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams系統管理員功能的版本資訊
 
@@ -35,7 +35,7 @@ ms.locfileid: "66020126"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="may-26-2022"></a>2022 年 5 月 26 日
 
-- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制項套用至訴訟、群組或整個組織。
+- **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制套用至使用者、群組或整個組織。
 
 - **原則傳播 - 增強活動記錄：** 系統管理員可以在活動記錄中查看群組原則指派，以及其他原則作業。 活動記錄具有有關原則作業的增強詳細資料，可讓系統管理員更深入瞭解。
 
@@ -65,7 +65,7 @@ ms.locfileid: "66020126"
 
 - **非會議聊天的聊天篩選：** 聊天應用程式內會有新的聊天篩選器，可篩選出與 Bot 的會議聊天和聊天。 它會逐一篩選，並與人員進行群組聊天。
 
-- **在系統管理中心Teams搜尋：** 系統管理員可以使用 Teams 系統管理中心的一般搜尋方塊來搜尋使用者、小組、頁面和設定。
+- **在 Teams 管理員 中心搜尋：** 系統管理員可以使用 Teams 系統管理中心的一般搜尋方塊來搜尋使用者、小組、頁面和設定。
 
 - **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
 
@@ -155,7 +155,7 @@ ms.locfileid: "66020126"
 
 - **與Teams使用者聊天，其帳戶不受組織管理：** 與Teams聊天可讓Teams使用者使用Teams個人帳戶與其工作網路外部的小組成員聊天，藉此擴充共同作業支援。 客戶可以邀請任何Teams使用者使用電子郵件地址或電話號碼聊天，並保留在其組織的安全性與合規性政策內。
 
-- **Microsoft Teams 職涯教練 – 改善的 IT 上線：** 將會更新職涯教練的Teams系統管理中心設定，以改善布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會導入控制項，以管理應用程式使用者職涯教練功能的發行。
+- **Microsoft Teams 職涯教練 – 改善的 IT 上線：** 將會更新職涯教練的Teams 管理員中心設定，以改善布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會導入控制項，以管理應用程式使用者職涯教練功能的發行。
 
 - **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
 
@@ -207,7 +207,7 @@ ms.locfileid: "66020126"
 
 ## <a name="november-11-2021"></a>2021 年 11 月 11 日
 
-- **通道現在支援索引標籤:** Teams Connect 共用頻道現在支援索引標籤。
+- **通道現在支援索引標籤：** Teams Connect 共用頻道現在支援索引標籤。
 
 - **Teams 聊天中的流體元件：** Teams 聊天中的流體元件可讓終端使用者傳送帶有可由内部所有人共同撰寫和編輯表格、動作項目或清單的訊息。
 
@@ -341,7 +341,7 @@ ms.locfileid: "66020126"
 
 ## <a name="august-31-2021"></a>2021 年 8 月 31 日
 
-- **Teams 現在可在 CarPlay 上使用:** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
+- **Teams 現在可在 CarPlay 上使用：** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
 
 - **一次對大量裝置執行作業：** IT 系統管理員將可以在大量裝置上一併執行任何作業或執行任何命令。目前他們必須在分頁檢視中手動選取裝置。
 
@@ -405,11 +405,11 @@ ms.locfileid: "66020126"
 
 ## <a name="july-20-2021"></a>2021 年 7 月 20 日
 
-- **Power Automate 流程建議與 1P 團隊範本:** 適用於從 1P 團隊範本所建立之團隊的 Surface 電源自動化流程範本。
+- **Power Automate 流程建議與 1P 團隊範本：** 適用於從 1P 團隊範本所建立之團隊的 Surface 電源自動化流程範本。
 
 ## <a name="july-19-2021"></a>2021 年 7 月 19 日
 
-- **加入會議並傳送語音輸入訊息:** 您現在可以在 Teams 行動裝置中使用 「嗨 Cortana」 來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
+- **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
 ## <a name="july-18-2021"></a>2021 年 7 月 18 日
 
@@ -548,7 +548,7 @@ ms.locfileid: "66020126"
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 
-**新增影片篩選模式：** 將背景影片篩選模式新增至 Teams 系統管理中心。 因此，系統管理員可以從兩端Teams系統管理中心和 PowerShell 變更模式。 [深入了解](/Microsoftteams/meeting-policies-in-teams?WT.mc_id=TeamsAdminCenterCSH#bkcontentsharing)。
+**新增影片篩選模式：** 將背景視訊篩選模式新增至Teams 管理員中心。 因此，系統管理員可以從兩端的 Teams 管理員 Center 和 PowerShell 變更模式。 [深入了解](/Microsoftteams/meeting-policies-in-teams?WT.mc_id=TeamsAdminCenterCSH#bkcontentsharing)。
 
 ## <a name="march-31-2021"></a>2021 年 3 月 31 日
 
@@ -646,7 +646,7 @@ ms.locfileid: "66020126"
 
 - **管理使用者的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype設定。  移至使用者詳細資料頁面上的 [商務用 Skype] 索引標籤。 您可以從這裡管理個別使用者的外部存取和會議設定。 [深入了解](/Microsoftteams/skype-for-business-settings)。
 
-- **管理組織的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype功能。 移至 **全組織設定**  >  **商務用 Skype**。 您可以從這裡管理Skype會議廣播、目前狀態和行動裝置通知。 [深入了解](/Microsoftteams/skype-for-business-settings)。
+- **管理組織的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype功能。 移至 **全組織設定**  >  **商務用 Skype**。 您可以從這裡管理Skype 會議廣播、目前狀態和行動裝置通知。 [深入了解](/Microsoftteams/skype-for-business-settings)。
 
 ## <a name="october-16-2020"></a>2020 年 10 月 16 日
 
@@ -662,7 +662,7 @@ ms.locfileid: "66020126"
 
 - **針對會議錄製使用商務用 OneDrive和SharePoint：** Microsoft Teams有儲存會議錄製的新方法。 做為從傳統 Microsoft Stream 轉換為新 Stream的第一階段，此方法會將錄製檔儲存在 Microsoft 商務用 OneDrive 和 Microsoft 365 的 SharePoint 中，並提供許多優點。 [深入了解](/Microsoftteams/tmr-meeting-recording-change)。
 
-- **適用于中小型企業的免費音訊會議：** 如果您是一家擁有最多 300 位使用者且目前沒有任何音訊會議授權的中小型企業，您可以免費取得一年的音訊會議。 此免費供應專案從 2020 年 10 月 1 日開始提供。 [深入了解](/Microsoftteams/audio-conferencing-smb)。
+- **適用于中小型企業的免費音訊會議：** 如果您是一家擁有最多 300 位使用者且目前沒有任何音訊會議授權的中小型企業，您可以免費取得音訊會議一年。 此免費供應專案從 2020 年 10 月 1 日開始提供。 [深入了解](/Microsoftteams/audio-conferencing-smb)。
 
 - **在Microsoft Teams系統管理中心檢視應用程式許可權並授與系統管理員同意：** 現在在Teams系統管理中心，全域系統管理員將能夠檢閱並授與圖形 API許可權的同意Azure Active Directory，代表整個租使用者取得應用程式要求的許可權，例如讀取儲存在小組中的資訊，或代表使用者傳送電子郵件。 現在，IT 系統管理員將能夠檢閱資源特定的同意， (RSC) Teams系統管理中心內應用程式的許可權。 透過該系統管理員，他們將能夠針對已檢閱並核准在組織中使用的協力廠商應用程式，解除封鎖其使用者。 [深入了解](/Microsoftteams/app-permissions-admin-center)。
 
@@ -746,7 +746,7 @@ ms.locfileid: "66020126"
 
 ## <a name="july-28-2020"></a>2020 年 7 月 28 日
 
-- **建立您自己的Teams範本：** 您現在可以從管理主控台使用範本來建立您自己的Teams範本，或從現有的範本建立Teams範本。 [深入了解](/Microsoftteams/get-started-with-teams-templates-in-the-admin-console)。
+- **建立您自己的Teams範本：** 您現在可以從管理員主控台使用範本來建立您自己的Teams範本，或從現有的範本建立Teams範本。 [深入了解](/Microsoftteams/get-started-with-teams-templates-in-the-admin-console)。
 
 ## <a name="july-20-2020"></a>2020 年 7 月 20 日
 
