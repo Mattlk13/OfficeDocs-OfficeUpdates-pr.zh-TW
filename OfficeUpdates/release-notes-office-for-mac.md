@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: cce7c7f528313e748a5c87274b61298cc825c37e
-ms.sourcegitcommit: aa2bec40733a16fbc8c909ad09f2a58f78ff6291
+ms.openlocfilehash: e6e82357309e25f122e56ea40f448488c3b89202
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/26/2022
-ms.locfileid: "65685137"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077497"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -34,6 +34,29 @@ ms.locfileid: "65685137"
 
 
 [//]: # (DO NOT REMOVE)
+
+
+
+## <a name="june-14-2022"></a>2022 年 6 月 14 日
+*版本 16.62 (組建 22061100)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **復原傳送：** 新 Mac 版 Outlook 中的復原傳送。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **PowerPoint 中取消隱藏投影片：** 我們已更新命令名稱，因此當選取的幻燈片目前遭到隱藏時，命令名稱會念出 [取消隱藏投影片]。<br />在[部落格文章](https://insider.office.com/en-us/blog/feedback-in-action-unhide-slides-in-powerpoint)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **編輯器：** 適用於 Outlook 的新編輯器窗格。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="may-23-2022"></a>2022 年 5 月 23 日
 *版本 16.61.1 (組建 22052000)* <br>

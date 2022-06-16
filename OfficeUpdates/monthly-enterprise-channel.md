@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 2a2de275446275ff9da82a93686040e503d251e0
-ms.sourcegitcommit: 3887ad0264ad5c67c86d068a76c3aa63fd9ff5b9
+ms.openlocfilehash: e08a1bff0fbdb7b42fbe44bbd7a88d2006bbef5d
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65795746"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077347"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,124 @@ ms.locfileid: "65795746"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2204-june-14"></a>版本 2204：6 月 14 日
+*版本 2204 (組建 15128.20280)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **只追蹤您在文件中的變更：** 當您共同作業時，有時候您只想追蹤自己的變更，而不想強制此設定追蹤其他人的部分。 若只要追蹤您的變更，請前往 [校閱] 索引標籤，選取 [追蹤修訂]，然後選擇 [只有我]。 
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+- 我們已修正在具有圖表工作表的活頁簿上執行 VBA 指令碼/增益集時，可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正導致 Excel 耗用過多記憶體的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
+
+
+- 我們已修正協助使用者找到正確的設定，以管理協力廠商會議提供者的預設線上會議選項的問題。
+
+
+- 我們已修正當事件型增益集在背景中執行時，在回覆或轉寄電子郵件時應用程式意外關閉的問題。
+
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
+
+
+- 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+- 我們已修正導致使用者在刪除資料時意外遇到關閉的問題。
+
+
+- 我們已修正會導致使用者在嘗試回應特定連絡人時，遇到意外關閉的問題。
+
+
+- 我們已修正導致使用者從委派分組討論區信箱轉寄出的所有會議邀請上看到特定「不需要回應」的問題。
+
+
+- 我們已修正使用者在嘗試開啟具有編輯者或委派權限的共用連絡人資料夾時收到錯誤訊息的問題。
+
+
+- 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
+
+
+- 我們已修正在連線到沒有服務 URL 的商務用 OneDrive端點時，導致 Outlook 在啟動期間意外關閉的問題。
+
+
+- 我們已修正會導致歐盟使用者看到人員卡片中遺失資訊的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正未登入使用者的 [大聲朗讀] 會意外關閉的問題。
+
+
+- 我們已修正刪除段落標記之後，文件會捲動至結尾的問題。
+
+
+- 我們已修正 Office「插入螢幕擷取畫面」 顯示 Office Apps 的空白/不完整螢幕擷取畫面的問題；我們已修正 Office 應用程式的部分 Windows 工作列縮圖螢幕擷取畫面可能會顯示空白的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 Direct2D 和 Direct3D 互通性的多執行緒相關問題。
+
+
+- 我們已修正在按一下滑桿時，允許新增漸層停駐點的問題。
+
+
+- 我們已修正當 PowerShell 停用時，使用者會無法安裝 M365 應用程式的問題。
+
+
+- 我們已修正在更新期間造成「發佈套件失敗」錯誤，導致檔案類型關聯遺失的問題。
+
+
+- 我們已修正字型下拉式清單無法正確反映圖形中選取的字型的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2203-june-14"></a>版本 2203：6 月 14 日
+*版本 2203 (組建 15028.20282)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當事件型增益集在背景中執行時，在回覆或轉寄電子郵件時應用程式意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2203-may-10"></a>版本 2203：5 月 10 日
 *版本 2203 (組建 15028.20248)*
@@ -2216,6 +2334,7 @@ ms.locfileid: "65795746"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.15128.20280|version-2204-june-14|)
 [//]: # (|Win32|MEC|生產|Feature|16.0.15028.20248|version-2203-may-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14827.20220|version-2201-march-08|)
@@ -2225,5 +2344,4 @@ ms.locfileid: "65795746"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.14228.20324|version-2107-september-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

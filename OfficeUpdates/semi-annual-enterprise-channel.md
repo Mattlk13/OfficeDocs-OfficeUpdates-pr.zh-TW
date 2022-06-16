@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 365a78aa32104c97910af87b05d9b909ea354d73
-ms.sourcegitcommit: 3887ad0264ad5c67c86d068a76c3aa63fd9ff5b9
+ms.openlocfilehash: 35355444f3ec750e482192f05e37cee8a7666e8b
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65795726"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077566"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -29,6 +29,33 @@ ms.locfileid: "65795726"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2108-june-14"></a>版本 2108：6 月 14 日
+*版本 2108 (組建 14326.21018)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使 Outlook 事件型增益集無法正常運作的問題。
+
+
+- 我們已修正在會議自動儲存之後，會傳送給出席者，但不會儲存在召集人行事曆上的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-june-14"></a>版本 2102：6 月 14 日
+*版本 2102 (組建 13801.21418)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2108-may-10"></a>版本 2108：5 月 10 日
 *版本 2108 (組建 14326.20962)*
@@ -2914,6 +2941,8 @@ ms.locfileid: "65795726"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14326.21018|version-2108-june-14|)
+[//]: # (|Win32|DC|Production| |16.0.14326.21006|version-2108-june-14|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20962|version-2108-may-10|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20910|version-2108-april-12|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
@@ -2922,6 +2951,4 @@ ms.locfileid: "65795726"
 [//]: # (|Win32|DC|Production| |16.0.13801.21092|version-2102-december-17|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21086|version-2102-december-14|)
 [//]: # (|Win32|DC|Production| |16.0.13801.21076|version-2102-december-14|)
-[//]: # (|Win32|DC|Production| |16.0.13801.21050|version-2102-november-09|)
-[//]: # (|Win32|DC|Production| |16.0.13801.21004|version-2102-october-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
