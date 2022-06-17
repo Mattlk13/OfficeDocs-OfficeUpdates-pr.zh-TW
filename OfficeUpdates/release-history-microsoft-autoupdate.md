@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 0e82dd560b2f3135aa37749a96e92a1a88631c6d
-ms.sourcegitcommit: caa2b0e6fd962019be923b545301a7aaba74a353
+ms.openlocfilehash: 4ba9f254422399c0d683ac89aaaec0e086c8c1c6
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/11/2022
-ms.locfileid: "65305130"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077297"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -30,6 +30,32 @@ ms.locfileid: "65305130"
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="june-2022-release"></a>2022 年 6 月版本
+
+**發行日期:** 2022 年 6 月 14 日
+
+*Microsoft AutoUpdate 4.48*
+
+**增強功能：**
+- IT 系統管理員現在可以透過 UpdateDeadline.FinalCountDown 喜好設定來覆蓋 60 分鐘的預設期限時間
+- 在不同網路連接間切換時，Microsoft AutoUpdate 現在擁有更好的重試邏輯
+- 如果資料夾許可權不正確或缺少協助程式工具，Microsoft AutoUpdate 現在會顯示說明連結
+- Microsoft AutoUpdate 使用者介面將不再停止，並要求使用者關閉應用程式 (如果應用程式目前開啟)
+- 使用 Microsoft AutoUpdate 使用者介面時 VoiceOver 的增強功能
+
+
+**錯誤修正：**
+- 安裝程式套件現在正確地指定 macOS 10.12 做為安裝的最低作業系統
+- 已修正下載和安裝應用程式更新期間可能發生的各種當機問題
+- 已修正法文使用者按鈕文字被截斷的問題
+
+[下載 Microsoft AutoUpdate 4.48 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.48.22061100_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+52823A753D1E221D3ADFB4023A8FE284005D1B1C37EE104EAFB526C8C809E03C
+<br><br>
+
 ## <a name="may-2022-release"></a>2022 年 5 月發行版本
 
 **發行日期：** 2022 年 5 月 10 日
@@ -42,8 +68,7 @@ ms.locfileid: "65305130"
 - 已修正在還原複製時，Microsoft AutoUpdate 可能會當機的問題
 - 已修正在叫用 msupdate 命令列公用程式時，圖示會在擴充座中顯示的問題
 
-[下載 Microsoft AutoUpdate 4.47 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.47.22050700_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 82873FEA5AC7D5FDC86A1CA66F6064858BD635CFED00072A013A6949DDDAAA24

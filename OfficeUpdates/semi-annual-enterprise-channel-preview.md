@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 90669274146a1ec1ba5d75fc08e08730e11cf586
-ms.sourcegitcommit: 3887ad0264ad5c67c86d068a76c3aa63fd9ff5b9
+ms.openlocfilehash: 9f5e4460827dd33019745935438ddf84eebe872f
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2022
-ms.locfileid: "65795736"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077577"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -22,6 +22,82 @@ ms.locfileid: "65795736"
 
 新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
 
+
+## <a name="version-2202-june-14"></a>版本 2202: 6 月 14 日
+*版本 2202 (組建 14931.20494)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正嘗試在唯一識別碼欄中支援 Unicode 字元時所造成的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正使用 Inquire 巨集的比較檔案功能，或從開始處運行試算表比較時，在某些情況下無法偵測到巨集差異的問題。
+
+
+- 我們已修正在具有圖表工作表的活頁簿上執行 VBA 指令碼/增益集時，可能會導致 Excel 意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當事件型增益集在背景中執行時，在回覆或轉寄電子郵件時應用程式意外關閉的問題。
+
+
+- 我們修正了使用者嘗試從功能區按鈕、資訊列或 Outlook win32 中可採取動作的郵件開啟增益集 (Viva Insights) 時，看到灰色方塊 (Viva Insights 的增益集載入體驗) 的問題。 只有在使用信任的沙箱來託管 Viva Insights 時，才會發生此問題。
+
+
+- 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉寄會議邀請上顯示「不需要回應」的問題。
+
+
+- 我們已修正使用者在嘗試開啟具有編輯者或委派權限的共用連絡人資料夾時收到錯誤訊息的問題。
+
+
+- 我們已修正導致使用者的問題，因此請參閱錯誤訊息「嘗試的操作失敗。 搜尋 LDAP 通訊錄時找不到物件」。
+
+
+- 我們已修正導致未啟用的「在電話上播放」按鈕啟用的問題。
+
+
+- 我們已修正導致使用者在某些情況下，會看到呈現多個共用行事曆複本的問題。
+
+
+- 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正遮罩分隔符號與清單分隔符號相符時，會使用星號 (*) 的問題。 在篩選器中 * 用於規則運算式，如果其包含值，就會導致錯誤和意外行為。 管道 (|) 現在已使用。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用巨集在 Word 文件集合中查看頁面時，發生意外關閉的問題。
+
+
+- 我們已修正刪除段落標記之後，游標會卷至文件尾端的問題。
+
+
+- 我們已修正在大型 Word 文件中搜尋關鍵字時的潛在績效問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Excel 中開啟字型大小下拉式清單時，強調顯示字型大小不是文件中目前選取的字型大小的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-may-10"></a>版本 2202：5 月 10 日
 *版本 2202 (組建 14931.20392)*
@@ -2318,6 +2394,8 @@ ms.locfileid: "65795736"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14931.20494|version-2202-june-14|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14931.20482|version-2202-june-14|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.14931.20392|version-2202-may-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20132|version-2202-march-08|)
@@ -2326,6 +2404,4 @@ ms.locfileid: "65795736"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20702|version-2108-december-17|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20692|version-2108-december-14|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20674|version-2108-december-14|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20600|version-2108-november-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

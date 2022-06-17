@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 436de4540571550c9461c14d466ce8cb8555cb4f
-ms.sourcegitcommit: 27b4f87af97815ba9dc596159bcc2f84947a5c2b
+ms.openlocfilehash: 71e4e5b211fe6e165a5e65262505a8b7f153e094
+ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/02/2022
-ms.locfileid: "65842643"
+ms.lasthandoff: 06/14/2022
+ms.locfileid: "66077457"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,65 @@ ms.locfileid: "65842643"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2205-june-14"></a>版本 2205: 6 月 14 日
+*版本 2205 (組建 15225.20288)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正 Dataverse 在 2019 功能區中顯示的問題。
+
+
+- 我們已修正在使用 Access 資料庫引擎 OLEDB API 與包含 SharePoint 清單之連結的資料庫時，可能會導致應用程式意外關閉的問題。
+
+
+- 我們已修正嘗試在唯一識別碼欄中支援 Unicode 字元時所造成的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些 Outlook 使用者在間歇性地開機之後，突然遇到關閉的問題。
+
+
+- 我們已修正導致使用者在開啟線上保存或共用信箱時意外遇到關閉的問題。
+
+
+- 我們已修正導致使用者在某些情況下，會看到呈現多個共用行事曆複本的問題。
+
+
+- 我們已修正導致使用者的問題，因此請參閱錯誤訊息「嘗試的操作失敗。 搜尋 LDAP 通訊錄時找不到物件」。
+
+
+- 我們已修正造成內部部署 Exchange 使用者不必要的網路流量的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正在少數共同撰寫者實例中，某些註解的回復直到下次開啟文件時才會顯示的問題。
+
+
+- 我們已修正了減少與具有相同超連結之檔的合併衝突的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Excel 中開啟字型大小下拉式清單時，強調顯示字型大小不是文件中目前選取的字型大小的問題。
+
+
+- 我們已修正 SVG 物件的問題，以處理文字錨點結束屬性並正確維持目前文字位置。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-may-24"></a>版本 2205：5 月 24 日
 *版本 2205 (組建 15225.20204)*
@@ -2787,6 +2846,8 @@ ms.locfileid: "65842643"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
+[//]: # (|Win32|CC|Production| |16.0.15225.20288|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20204|version-2205-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20248|version-2204-may-17|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
@@ -2795,6 +2856,4 @@ ms.locfileid: "65842643"
 [//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.14931.20132|version-2202-march-08|)
-[//]: # (|Win32|CC|Production| |16.0.14931.20120|version-2202-february-28|)
-[//]: # (|Win32|CC|Production| |16.0.14827.20198|version-2201-february-16|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
