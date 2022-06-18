@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b74a2c3700bd9e351c78ba31a4a6746f01ac1a83
-ms.sourcegitcommit: 936d51bb51dde55898e89ee35d6fd71999f97d1a
+ms.openlocfilehash: 1c97644646f71a889120b7af51c6b1bb09b4a77f
+ms.sourcegitcommit: cc8cd7d6cc587db8eab8f34ff9dae6153993fb3e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2022
-ms.locfileid: "66104591"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66149694"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -202,7 +202,7 @@ ms.locfileid: "66104591"
 - 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉寄會議邀請上顯示「不需要回應」的問題。
 
 
-- 我們已修正導致使用者的問題，因此請參閱錯誤訊息「嘗試的操作失敗。 搜尋 LDAP 通訊錄時找不到物件」。
+- 我們已修正導致使用者看到「嘗試的操作失敗」錯誤訊息的問題。 搜尋 LDAP 通訊錄時找不到物件」。
 
 
 - 我們已修正導致使用者在某些情況下，會看到呈現多個共用行事曆複本的問題。
@@ -323,13 +323,13 @@ ms.locfileid: "66104591"
 - 我們已修正在 Excel 中開啟字型大小下拉式清單時，強調顯示字型大小不是文件中目前選取的字型大小的問題。
 
 
-- 我們已修正 Office 呈現程式碼中關閉的問題。
+- 我們已修正 Office 呈現程式碼中意外關閉的問題。
 
 
 - 我們已修正 SVG 物件的問題，以處理文字錨點結束屬性並正確維持目前文字位置。
 
 
-- 我們已修正使用相機進紙時錄製簡報的問題。
+- 我們已修正使用相機摘要錄製簡報時出現的問題。
 
 
 
@@ -5266,7 +5266,7 @@ ms.locfileid: "66104591"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -6589,7 +6589,7 @@ ms.locfileid: "66104591"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2008-august-27"></a>版本2008：8月27日
-*版本2008（組建13127.20296）*
+*版本 2008 (組建 13127.20296)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -7116,7 +7116,7 @@ ms.locfileid: "66104591"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2006-june-25"></a>版本 2006：6 月 25 日
-*版本2006（組建13001.20266）*
+*版本 2006 (組建 13001.20266)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
