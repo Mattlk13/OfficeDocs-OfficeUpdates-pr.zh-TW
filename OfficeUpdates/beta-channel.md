@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b72c98a2e6bc30042f02d9abd983a6cfbb2d976a
-ms.sourcegitcommit: d34a4cbf6763735ca17112ee00720c3caad1a251
+ms.openlocfilehash: 45aac2c35b1dd62fdbe73f119fc07c6b508b2994
+ms.sourcegitcommit: cc8cd7d6cc587db8eab8f34ff9dae6153993fb3e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2022
-ms.locfileid: "66020116"
+ms.lasthandoff: 06/17/2022
+ms.locfileid: "66149684"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,34 @@ ms.locfileid: "66020116"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2207-june-17"></a>版本 2207：6 月 17 日
+*版本 2207 (組建 15407.20000)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正應用程式會針對特定電腦上的特定檔案產生錯誤，指出「無法在受保護的檢視中開啟檔案」的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正應用程式產生錯誤訊息的問題，指出「嘗試的作業失敗」。 搜尋 LDAP 通訊錄時找不到物件」。
+
+
+- 我們已修正導致未啟用的「在電話上播放」按鈕啟用的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用包含輔色字元的小型大寫字時，字元大小不正確的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2207-june-10"></a>版本 2207：6 月 10 日
 *版本 2207 (組建 15402.20002)*
@@ -3606,7 +3634,7 @@ ms.locfileid: "66020116"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 您現在會在 Access 中看到已選取的索引標籤。
 
@@ -3990,7 +4018,7 @@ ms.locfileid: "66020116"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正了以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
+- 修正以下問題：Excel 錯誤地顯示檔案新版本可用的訊息列，並強制使用者將變更儲存到活頁簿的副本中或捨棄變更。
 
 
 - 修正了 Selection.Parent.Copy 通話后切換分隔符號的問題。
@@ -4246,7 +4274,7 @@ ms.locfileid: "66020116"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正從非 Office 應用程式使用 DAO 時，會導致應用程式意外關閉的問題。
 
@@ -4331,7 +4359,7 @@ ms.locfileid: "66020116"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 修正某些使用者在嘗試從其同步處理的 OneDrive 資料夾匯出査詢時看到「系統資源滿載」錯誤的問題。
 
@@ -4856,7 +4884,7 @@ ms.locfileid: "66020116"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 ### <a name="resolved-issues"></a>解決的問題
-### <a name="access"></a>存取
+### <a name="access"></a>Access
 
 - 我們已修正 ODBC 資料庫的連線對協力廠商應用程式沒有作用的問題。
 
@@ -6039,6 +6067,7 @@ ms.locfileid: "66020116"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
@@ -6048,5 +6077,4 @@ ms.locfileid: "66020116"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15128.20000|version-2204-april-01|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
