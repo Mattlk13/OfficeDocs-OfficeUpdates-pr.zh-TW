@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 1c97644646f71a889120b7af51c6b1bb09b4a77f
-ms.sourcegitcommit: cc8cd7d6cc587db8eab8f34ff9dae6153993fb3e
+ms.openlocfilehash: 9a2dd2ad343451905b2eb907917f6431625bdade
+ms.sourcegitcommit: 37e9d05c60c753930bde605969c1ae298033ade1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66149694"
+ms.lasthandoff: 06/22/2022
+ms.locfileid: "66199292"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -28,6 +28,20 @@ ms.locfileid: "66149694"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2206-june-21"></a>版本 2206：6 月 21 日
+*版本 2206 (組建 15330.20158)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在 GCC-High 環境中導致會議室尋找工具無法載入的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-june-14"></a>版本 2206：6 月 14 日
 *版本 2206 (組建 15330.20114)*
