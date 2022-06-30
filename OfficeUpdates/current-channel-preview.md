@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 9a2dd2ad343451905b2eb907917f6431625bdade
-ms.sourcegitcommit: 37e9d05c60c753930bde605969c1ae298033ade1
+ms.openlocfilehash: 8d454ace1b39246f649e5b2b997a9d4278d01627
+ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2022
-ms.locfileid: "66199292"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66553617"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -29,8 +29,17 @@ ms.locfileid: "66199292"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2206-june-21"></a>版本 2206：6 月 21 日
-*版本 2206 (組建 15330.20158)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2206-june-24"></a>版本 2206：6 月 24 日
+*版本 2206 (組建 15330.20196)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -38,6 +47,9 @@ ms.locfileid: "66199292"
 ### <a name="outlook"></a>Outlook
 
 - 我們已修正在 GCC-High 環境中導致會議室尋找工具無法載入的問題。
+
+
+- 我們已修正使用者無法將會議室信箱新增至行事曆的問題。
 
 
 
@@ -2074,7 +2086,7 @@ ms.locfileid: "66199292"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -4613,7 +4625,7 @@ ms.locfileid: "66199292"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -7534,7 +7546,7 @@ ms.locfileid: "66199292"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

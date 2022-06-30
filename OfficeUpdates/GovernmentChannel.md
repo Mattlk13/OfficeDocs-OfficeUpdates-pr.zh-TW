@@ -9,22 +9,29 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 76914ce4631ca5e10d7da61889e5e698a06f9235
-ms.sourcegitcommit: d34a4cbf6763735ca17112ee00720c3caad1a251
+ms.openlocfilehash: e28a6a9011e50087ac8b96b047a4aac5162f9088
+ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/11/2022
-ms.locfileid: "66020106"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66553647"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
+
+
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
 [//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
+
+
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -32,11 +39,36 @@ ms.locfileid: "66020106"
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
+
+
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
 
+
+
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-june-23"></a>Teams 系統管理員：6 月 23 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
+
+- **支援虛擬桌面基礎結構上的 Azure 虛擬桌面 Teams 的文字記錄：** 虛擬機器上的使用者可以使用文字記錄。 會議之後，文字記錄檔案會自動儲存在該會議的聊天索引標籤中。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
+
+- **支援虛擬桌面基礎結構上的 Azure 虛擬桌面 Teams 的文字記錄：** 虛擬機器上的使用者可以使用文字記錄。 會議之後，文字記錄檔案會自動儲存在該會議的聊天索引標籤中。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
+
+- **支援虛擬桌面基礎結構上的 Azure 虛擬桌面 Teams 的文字記錄：** 虛擬機器上的使用者可以使用文字記錄。 會議之後，文字記錄檔案會自動儲存在該會議的聊天索引標籤中。
+
 
 ## <a name="teams-admin-june-09"></a>Teams 系統管理員：6 月 9 日
 

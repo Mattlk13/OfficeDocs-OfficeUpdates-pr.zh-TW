@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: ab254bd29127a80e212707adcc34b6aa85648f0d
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: 702b253f269a77e680b6c690d682a1bc999d6195
+ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077512"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66553667"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,7 +33,7 @@ ms.locfileid: "66077512"
 
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2205<br/>|15225.20288<br/>|2022 年 6 月 14 日<br/>|2022 年 5 月 24 日<br/>|版本 2206 已發行<br/>|
+|目前通道<br/>|2206<br/>|15330.20196<br/>|2022 年 6 月 29 日<br/>|2022 年 6 月 29 日<br/>|版本 2207 已發行<br/>|
 |每月企業頻道<br/>|2204<br/>|15128.20280<br/>|2022 年 6 月 14 日<br/>|2022 年 6 月 14 日<br/>|2022 年 8 月 9 日<br/>|
 |每月企業頻道<br/>|2203<br/>|15028.20282<br/>|2022 年 6 月 14 日<br/>|2022 年 5 月 10 日<br/>|2022 年 7 月 12 日<br/>|
 |半年企業通道 (預覽)<br/>|2202<br/>|14931.20494<br/>|2022 年 6 月 14 日<br/>|2022 年 3 月 8 日<br/>|2022 年 9 月 13 日<br/>|
@@ -52,6 +52,7 @@ ms.locfileid: "66077512"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2022|6 月 29 日|[版本 2206 (組建 15330.20196)](current-channel.md#version-2206-june-29)| | | |
 |2022|6 月 14 日|[版本 2205 (組建 15225.20288)](current-channel.md#version-2205-june-14)|[版本 2204 (組建 15128.20280)](monthly-enterprise-channel.md#version-2204-june-14)<br/>[版本 2203 (組建 15028.20282)](monthly-enterprise-channel.md#version-2203-june-14)|[版本 2202 (組建 14931.20494)](semi-annual-enterprise-channel-preview.md#version-2202-june-14)|[版本 2108 (組建 14326.21018)](semi-annual-enterprise-channel.md#version-2108-june-14)<br/>[版本 2102 (組建 13801.21418)](semi-annual-enterprise-channel.md#version-2102-june-14)|
 |2022|5 月 24 日|[版本 2205 (組建 15225.20204)](current-channel.md#version-2205-may-24)| | | |
 |2022|5 月 17 日|[版本 2204 (組建 15128.20248)](current-channel.md#version-2204-may-17)| | | |
