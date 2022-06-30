@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams的版本資訊
+title: Microsoft Teams 的版本資訊
 author: tonysmit
 ms.author: tonysmit
 manager: serdars
@@ -14,25 +14,36 @@ ms.collection:
 - M365-collaboration
 appliesto:
 - Microsoft Teams
-description: Microsoft Teams系統管理員功能的版本資訊。
-ms.openlocfilehash: 5148d3dcd1457d35c7c5175732a219bac4285f09
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+description: Microsoft Teams 系統管理員功能的版本資訊。
+ms.openlocfilehash: e3efdb837dcfff135103d4db1340bd1556925230
+ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077527"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66553657"
 ---
-# <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams系統管理員功能的版本資訊
+# <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
-這些版本資訊提供適用于Microsoft Teams的新系統管理功能相關資訊。
+這些版本資訊提供 Microsoft Teams 新系統管理員功能的相關資訊。
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
+
+## <a name="june-23-2022"></a>2022 年 6 月 23 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 
+- **通話佇列代理程式的動態呼叫端識別碼：** 通話佇列代理程式現在可以使用通話佇列電話號碼作為來電者識別碼，從通話應用程式撥打電話。 這可確保收件者正確識別通話，而且回呼號碼是通話佇列號碼，而不是代理程式的個人行。
+
+- **Moodle LMS 與 Microsoft Teams 整合：** 除了與 Canvas 和 Blackboard 整合之外，Microsoft 現在還與 Moodle LMS 合作，以提供順暢的整合式學習體驗。 現在可以在 Moodle 中使用 Microsoft Teams 會議 LTI 和 Teams 班級 LTI 應用程式。 [深入瞭解 Moodle LMS 整合](/microsoft-365/lti/moodle-plugin-configuration)
+
+
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+
+
 ## <a name="may-26-2022"></a>2022 年 5 月 26 日
 
 - **IT 系統管理員適用的多種語言會議邀請控制項：** IT 系統管理員可以套用新的 Teams 會議原則，以在 Teams 會議邀請中設定多種語言。 最多可以將 2 種語言的控制套用至使用者、群組或整個組織。
@@ -41,27 +52,27 @@ ms.locfileid: "66077527"
 
 ## <a name="may-12-2022"></a>2022 年 5 月 12 日
 
-- **Microsoft Teams：職涯教練 - 學生參與深入解析：** 教職員授權持有者現在可以在職涯教練中檢視匯總的學生參與見解。 這些深入解析將包括參與的學生人數、參與的學生會話、繼續上傳，以及從職涯教練內的文字記錄上傳。
+- **Microsoft Teams：職涯教練 - 學生參與深入解析：** 教職員授權持有者現在可以在職涯教練中檢視匯總的學生參與見解。 這些深入解析將包括參與的學生人數、參與的學生會話、繼續上傳，以及從職涯教練內上傳的文字記錄。
 
 ## <a name="april-28-2022"></a>2022 年 4 月 28 日
 
-- **Cortana圖示的主控台首頁更新，在Windows Microsoft Teams 會議室上將 Share (也稱為 [簡報) ] 按鈕：** Windows上的Teams 會議室會將 [簡報] 按鈕帶回主控台主畫面，並將它重新命名為 [共用]，以便在會議外和會議內共用之間保持一致經驗。 Cortana推播到交談按鈕會移至主畫面底部，讓客戶能夠繼續使用Cortana，而不需要變更其工作流程，即可從會議Teams 會議室裝置呈現 HDMI 內容。 如果已針對Teams 會議室啟用Cortana語音協助原則，則適用Cortana設計變更。
+- **Cortana 圖示的主控台首頁更新，將 Windows 上Microsoft Teams 會議室 Teams 會議室上的 [共用] (也稱為 [簡報) ] 按鈕** 帶回主控台主畫面，並將它重新命名為 [共用]，以在會議外和會議內共用體驗之間保持一致。 Cortana 推播到交談按鈕會移至主畫面底部，讓客戶能夠繼續使用 Cortana，而不需要變更其工作流程，即可從會議Teams 會議室裝置呈現 HDMI 內容。 如果已針對Teams 會議室啟用 Cortana 語音協助原則，則適用 Cortana 設計變更。
 
 ## <a name="april-14-2022"></a>2022 年 4 月 14 日
 
-- **支援虛擬桌面基礎結構上 Citrix 的Teams** 轉譯：一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
+- **虛擬桌面基礎結構上適用于 Citrix 的 Teams 轉譯支援：** 一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
 
 - **透過 IP 通話的語音等候音樂。：** 這項功能可確保當語音透過 IP 通話暫留時，可以播放音樂。
 
-- **支援虛擬桌面基礎結構上的 Azure 虛擬桌面Teams** 轉譯：一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
+- **支援虛擬桌面基礎結構上適用于 Azure 虛擬桌面的 Teams 轉譯：** 一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
 
 - **網頁瀏覽器聯結：** 從任何裝置上的網頁瀏覽器加入虛擬約會。
 
-- **會議室容量警告 (Teams根據Android計算支援相機) Android人員的會議室：** 當Teams面板部署在Teams 會議室支援人員計數的會議室中時，Teams面板可以在會議室位於或超過容量時顯示警告訊息，以通知會議室已滿。 Android上的Teams 會議室會在會議室容量過高時，在會議室顯示器的前面顯示警告訊息。
+- **會議室容量警告 (根據 Android 上的 Teams 會議室人員計算支援的相機) ：** 當 Teams 面板部署在Teams 會議室支援人員計數的會議室中時，Teams 面板可以在會議室的容量或容量過高時顯示警告訊息，以通知會議室已滿的會議室。 Android 上的Teams 會議室會在會議室容量過高時，在會議室顯示器的前面顯示警告訊息。
 
 ## <a name="march-24-2022"></a>2022 年 3 月 24 日
 
-- **從Teams系統管理中心匯出Teams清單：** 系統管理員可以從 Teams 系統管理中心將Teams清單匯出為 CSV 檔案。
+- **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
 
 - **非會議聊天的聊天篩選：** 聊天應用程式內會有新的聊天篩選器，可篩選出與 Bot 的會議聊天和聊天。 它會逐一篩選，並與人員進行群組聊天。
 
@@ -71,21 +82,21 @@ ms.locfileid: "66077527"
 
 ## <a name="march-11-2022"></a>2022 年 3 月 11 日
 
-- **行事曆在會議中顯示為：** 使用顯示身分，召集人可以設定會議的空閒忙碌狀態，並從Teams排程 OOF 會議。 此外，也會啟用私人會議功能，讓使用者在共用行事歷時，隱藏其他使用者的會議詳細資料。
+- **行事曆在會議中顯示為：** 使用顯示身分，召集人可以設定會議的空閒忙碌狀態，並從 Teams 排程 OOF 會議。 此外，也會啟用私人會議功能，讓使用者在共用行事歷時，隱藏其他使用者的會議詳細資料。
 
-- **Teams中核准應用程式的強制** 批註：Teams系統管理員和核准範本建立者可以在核准者回應要求時啟用強制批註。
+- **Teams 中核准應用程式的必要批註：** Teams 系統管理員和核准範本建立者可以在核准者回應要求時啟用強制批註。
 
 - **頻道會議中的應用程式：** 讓 EDU 使用者能夠使用 Forms 和 Sli.do 等應用程式來改善參與度。
 
 - **VDI 的從家工作動態緊急電話 - Citrix：** 此功能可讓虛擬機器上的使用者驗證當在家工作的個人撥打緊急電話時，將會與緊急回應者通訊的位址。
 
-- **使用iOS裝置的視訊自動回答：** 這項功能可讓iOS裝置在開啟或不使用影片的情況下自動回答傳入的會議微調。 使用者的功能可用性是透過 AutoAnswerwithVideo Powershell 原則來控制。
+- **使用 iOS 裝置的視訊自動回答：** 此功能可讓 iOS 裝置在開啟或不播放影片的情況下，自動回答傳入的會議微調。 使用者的功能可用性是透過 AutoAnswerwithVideo Powershell 原則來控制。
 
 - **Azure 虛擬桌面上的 VDI 的在家工作動態緊急通話:** 這項功能可讓使用者在家工作時，在 Azure 虛擬桌面上的 VDI 上進行緊急通話。 它可讓使用者驗證 (以及在必要時，編輯) 將與緊急回應程式進行通訊的電子郵件地址。
 
-- **Teams系統管理中心：每位使用者加入的小組：** Teams系統管理員可以檢視使用者已加入的小組清單。
+- **Teams 系統管理中心：每位使用者已加入的團隊：** Teams 系統管理員可以檢視使用者已加入的小組清單。
 
-- **系統管理員可以在傳訊擴充功能中釘選應用程式：** 透過Teams系統管理中心的應用程式設定原則，系統管理員現在可以在撰寫體驗中使用傳訊擴充功能釘選應用程式Teams。 [深入了解](/microsoftteams/teams-app-setup-policies)
+- **系統管理員可以在傳訊擴充功能中釘選應用程式：** 透過 Teams 系統管理中心的應用程式設定原則，系統管理員現在可以在 Teams 撰寫體驗中釘選具有傳訊擴充功能的應用程式。 [深入了解](/microsoftteams/teams-app-setup-policies)
 
 ## <a name="february-24-2022"></a>2022 年 2 月 24 日
 
@@ -97,11 +108,11 @@ ms.locfileid: "66077527"
 
 ## <a name="february-10-2022"></a>2022 年 2 月 10 日
 
-- **新增至 Bookings 新功能的資訊提示：** 將新功能新增至 Bookings，例如簡訊和行動瀏覽器加入時，使用者會收到這些功能的意義。
+- **新增至 Bookings 新功能的資訊提示：** 當新功能新增至 Bookings，例如 SMS 和行動瀏覽器加入時，使用者會收到這些功能的意義。
 
-- **約會檢視中的新功能通知：** 將 簡訊 或 WebRTC 等新功能新增至 Bookings 時，使用者會在約會中看到切換開關的「新」吋。
+- **約會檢視中的新功能通知：** 當 SMS 或 WebRTC 等新功能新增至 Bookings 時，使用者會在約會中看到切換開關的「新」吋吋。
 
-- **標籤可在 DOD 中使用：** Teams中的標記可讓使用者快速觸達一組人員，而不需要@mention或鍵入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
+- **標籤可在 DOD 中使用：** Teams 中的標籤可讓使用者快速觸達一組人員，而不需要@mention或鍵入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
 
 - **Microsoft Teams 教育版：職涯教練 - edX 學習內容：** 職涯教練現在會在學習體驗中提供 edX 內容。
 
@@ -119,7 +130,7 @@ ms.locfileid: "66077527"
 
 - **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
 
-- **Cortana現在支援 en-language (en-au、en-ca、en-gb、en-in) ：** 我們已將Cortana支援擴充至設定為不同地區設定語言的裝置。 目前支援的地區設定為：en-us、en-ca、en-au、en-in、en-gb (US、Canada、Australia、India、Great Canada) 。
+- **Cortana 現在支援 en-languages (en-au、en-ca、en-gb、en-in) ：** 我們已將 Cortana 支援擴充到設定為不同地區設定語言的裝置。 目前支援的地區設定為：en-us、en-ca、en-au、en-in、en-gb (US、Canada、Australia、India、Great Canada) 。
 
 - **Microsoft Teams 教育版：職涯教練 - 系統管理功能啟用：** IT 系統管理員可以在 Teams 系統管理中心中取得控制項，以啟用其學校的新職涯教練功能。
 
@@ -129,67 +140,67 @@ ms.locfileid: "66077527"
 
 - **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
 
-- **Microsoft Teams 會議室Windows：在多部攝影機之間切換：** 可讓Teams室在會議空間中的多個攝影機之間切換。
+- **windows 上的Microsoft Teams 會議室：在多部攝影機之間切換：** Teams 會議室能夠在會議空間中的多個攝影機之間切換。
 
-- **Microsoft Teams：立即開會支援Windows上的Teams 會議室：** Windows上的Teams 會議室會對齊 [立即開會] 體驗，以Teams桌面以 [ (立即開會]) 取代Teams會議室主控台上的新會議控制項。 透過 [開會]，使用者可以透過單一點選來開始臨機操作會議，並邀請參與者加入會議。 只有在Teams室僅以Microsoft Teams或Microsoft Teams (預設) 和商務用 Skype模式執行時，才適用此變更。 透過這項變更，所有 P2P 呼叫和群組呼叫功能都會移至呼叫應用程式底下。
+- **Microsoft Teams：立即開會支援 Windows 上的Teams 會議室：Windows 上的** Teams 會議室會將 [立即開會] 體驗與 Teams 桌面對齊，將 Teams 會議室主控台上的新會議控制項取代為 [立即開會] () 。 透過 [開會]，使用者可以透過單一點選來開始臨機操作會議，並邀請參與者加入會議。 只有在 Teams 會議室僅在 Microsoft Teams 中執行，或 Microsoft Teams (預設) 和商務用 Skype模式時，才適用此變更。 透過這項變更，所有 P2P 呼叫和群組呼叫功能都會移至呼叫應用程式底下。
 
-- **Microsoft Teams：在Windows上呼叫Teams 會議室的應用程式更新：** Windows上的Teams 會議室會對齊呼叫體驗，以Teams桌面以 Call 取代Teams室主控台上的 Dial pad 控制項。 通話應用程式可讓使用者在可用的情況下撥打 PSTN 通話，以及啟用 P2P Teams呼叫、群組Teams呼叫和 P2P 同盟使用者呼叫的進入點。 只有在Teams室僅以Microsoft Teams或Microsoft Teams (預設) 和商務用 Skype模式執行時，才適用此變更。 透過這項變更，先前在 [新增會議] 按鈕下的所有 P2P 通話和群組通話功能都會移至 [通話] 底下。 針對透過 商務用 Skype 使用 SIP URI 呼叫的客戶，輸入 SIP URI 進入點可在預設) 和商務用 Skype模式Microsoft Teams (使用。
+- **Microsoft Teams：針對 Windows 上的Teams 會議室呼叫應用程式更新：Windows 上的** Teams 會議室會對應 Teams 桌面的通話體驗，並將 Teams 會議室主控台上的 Dial pad 控制項取代為 [通話]。 通話應用程式可讓使用者在可用的情況下撥打 PSTN 通話，以及啟用 P2P Teams 通話、群組 Teams 通話和 P2P 同盟使用者通話的進入點。 只有在 Teams 會議室僅在 Microsoft Teams 中執行，或 Microsoft Teams (預設) 和商務用 Skype模式時，才適用此變更。 透過這項變更，先前在 [新增會議] 按鈕下的所有 P2P 通話和群組通話功能都會移至 [通話] 底下。 對於透過 商務用 Skype 使用 SIP URI 呼叫的客戶，您可以在 Microsoft Teams 中使用輸入 SIP URI 進入點， (預設) 和商務用 Skype模式。
 
 
 
 ## <a name="january-13-2022"></a>2022 年 1 月 13 日
 
-- **Teams系統管理中心：敏感度標籤支援：** Teams系統管理員可以在建立Teams時指派敏感度標籤。
+- **Teams 系統管理中心：敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
 
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
-- **父應用程式：** 教師可以在Teams中使用聊天來連絡學生的家長和守護者。
+- **父應用程式：** 教師可以在 Teams 中使用聊天，連絡學生的家長和守護者。
 
 - **網頁背景效果簡介：** 當您在網頁上使用 Teams 時，您可以模糊背景或完全取代為您的視訊會議或通話中提供的影像。 注意：模糊或取代您的背景可能無法防止其他人在通話或會議中看見敏感性資訊。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 - **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
 
-- 與 IT 受控 **組織外部Teams中的使用者同盟和外部存取：** 此功能會擴充Teams 連線供應專案，同時允許 IT 受控組織中的使用者從 1：1 開始，並與 IT 管理組織外部的使用者進行群組聊天， (TFL) 。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
+- **在 IT 受控組織外部的 Teams 中與使用者同盟和外部存取：** 此功能會擴充 Teams Connect 供應專案，讓 IT 受控組織中的使用者從 1：1 開始，並與 IT 管理組織外部的使用者進行群組聊天， (TFL) 。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
 
 ## <a name="december-23-2021"></a>2021 年 12 月 23 日
 
-- **與Teams使用者聊天，其帳戶不受組織管理：** 與Teams聊天可讓Teams使用者使用Teams個人帳戶與其工作網路外部的小組成員聊天，藉此擴充共同作業支援。 客戶可以邀請任何Teams使用者使用電子郵件地址或電話號碼聊天，並保留在其組織的安全性與合規性政策內。
+- **使用不受組織管理的帳戶與 Teams 使用者聊天：** 與 Teams 聊天可讓 Teams 使用者使用 Teams 個人帳戶與其工作網路外部的小組成員聊天，藉此擴充共同作業支援。 客戶可以邀請任何 Teams 使用者使用電子郵件地址或電話號碼聊天，並保留在其組織的安全性與合規性政策內。
 
-- **Microsoft Teams 職涯教練 – 改善的 IT 上線：** 將會更新職涯教練的Teams 管理員中心設定，以改善布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會導入控制項，以管理應用程式使用者職涯教練功能的發行。
+- **Microsoft Teams 職涯教練 – 改善的 IT 上線：** 將會更新職涯教練的 Teams 管理員 Center 設定，以改善布建和設定程式，以及新增更具描述性的欄位驗證和錯誤訊息。 設定更新也會為應用程式使用者導入管理職涯教練功能版本的控制項。
 
 - **透過 Teams 網頁用戶端同時共用影片和畫面內容：** 使用者可以透過 Teams 網頁用戶端，在通話或會議期間同時共用畫面內容和視訊。
 
-- **跨雲端驗證會議加入 (Android和iOS) ：** 針對iOS啟用跨雲端的已驗證會議加入體驗，特別是針對 GOV 案例所需要。
+- **跨雲端驗證會議加入 (Android 和 iOS) ：** 針對 iOS 啟用跨雲端的已驗證會議加入體驗，特別是針對 GOV 案例所需的體驗。
 
-- **Teams上的熱門桌面支援顯示：** 經常性桌面功能可讓使用者以特定方式在選擇的位置中坐著一小段時間，並透過創新和共同作業來提高工作效率。
+- **Teams 上的經常性桌面支援會顯示：** 經常性桌面功能可讓使用者在選擇的位置中，以特定方式進行一小段時間，並在使用創新和共同作業時提高生產力。
 
-- **Teams中的** 標籤：Teams中的標籤可讓使用者快速觸達一組人員，而不需要@mention或鍵入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
+- **Teams 中的標籤：** Teams 中的標籤可讓使用者快速觸達一組人員，而不需要@mention或鍵入所有人。 如需 Teams 中標記的相關資訊，請參閱在 Teams 中使用標記。
 
 ## <a name="december-09-2021"></a>2021 年 12 月 9 日
 
-- **Teams系統管理中心：每位使用者加入的小組：** Teams系統管理員可以檢視使用者已加入的小組清單。
+- **Teams 系統管理中心：每位使用者已加入的團隊：** Teams 系統管理員可以檢視使用者已加入的小組清單。
 
 - **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
 
-- **自訂背景：** Microsoft 提供的自訂背景和使用者上傳的自訂背景現在可在具有可用晶片組的 OS10 和 OS11 上Android裝置上使用。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
+- **自訂背景：** Microsoft 提供的自訂背景和使用者上傳的自訂背景現在可在具有可用晶片組的 OS10 和 OS11 上的 Android 裝置上使用。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal/)
 
 - **Windows 上的 Microsoft Teams 會議室：跨多個螢幕分割視訊版面配置：** 在不共用內容的情况下，能够在 Teams 會議室中的所有可用顯示器上分割視訊庫，最大限度地擴大螢幕空間，並增加遠端加入人員的關注度。
 
 ## <a name="november-25-2021"></a>2021 年 11 月 25 日
 
-- **從Teams系統管理中心匯出Teams清單：** 系統管理員可以從 Teams 系統管理中心將Teams清單匯出為 CSV 檔案。
+- **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
 
-- **iOS和Android的快速撥號：** 這項功能可讓您使用最常用的通話連絡人，只要點一下撥號即可輕鬆存取。
+- **iOS 和 Android 的速度撥號：** 這項功能可讓您使用一次點選撥號，輕鬆存取最常用的通話連絡人。
 
 - **透過 AJA 或 Blackmagic 設計硬體將視訊串流送出：** 隔離的視訊串流可以透過 AJA 和 Blackmagic Design 硬體裝置從 Teams 會議送出。
 
 - **Microsoft Teams 的索引標籤動作將會移動:** Microsoft Teams 的索引標籤動作會移出索引標籤標頭列，並移至索引標籤下拉式清單，以提升使用者體驗。 這會影響所有應用程式索引標籤，例如 [工作分派]、[成績]、[Planner] 或 [網站] 索引標籤。按一下索引標籤名稱以顯示下拉式功能表，即可找到這些索引標籤動作。 這些動作包括：[重載] 索引標籤、[移至網站]、[複製索引標籤的連結]、[快顯] 索引標籤和 [關於此索引標籤]。在索引標籤標頭列中依賴這些索引標籤動作的使用者，可能很難找到這些常見的動作。 系統會提供一次性教育指導標記泡泡，以教育使用者有關變更的相關資訊，因此請考慮讓使用者瞭解這項變更。
 
-- **Cortana現在可供國際市場的 EDU 客戶使用：** Teams行動裝置應用程式和Microsoft Teams顯示器中Cortana語音協助，現在已擴充國際市場的 EDU 支援，以協助您使用口語自然語言來簡化學校的通訊、共同作業和班級相關工作。 透過Cortana語音協助，您可以呼叫某人或執行與班級相關的工作，您可以傳送訊息給某人或將訊息傳送至您的類別。 此外，您也可以尋找並共用檔案，以及在Teams行動裝置應用程式或Microsoft Teams顯示器中搜尋或流覽。 初始版本將會是英國、印度、加拿大和澳洲。 這是美國 EDU 客戶先前版本的版本。
+- **Cortana 現在適用于國際市場的 EDU 客戶：** Teams 行動應用程式和 Microsoft Teams 顯示器中的 Cortana 語音協助，現在已擴充國際市場的 EDU 支援，以協助您使用口語自然語言來簡化學校的通訊、共同作業和班級相關工作。 透過 Cortana 語音協助，您可以呼叫某人或執行類別相關工作，您可以傳送訊息給某人或將訊息傳送至您的類別。 此外，您可以尋找並共用檔案，並在 Teams 行動裝置應用程式或 Microsoft Teams 顯示器中搜尋或流覽。 初始版本將會是英國、印度、加拿大和澳洲。 這是美國 EDU 客戶先前版本的版本。
 
-- **匿名使用者加入原則：** Teams控制在會議召集人層級允許匿名使用者的會議原則。
+- **匿名使用者加入原則：** 控制在會議召集人層級上允許匿名使用者的 Teams 會議原則。
 
-- **與Teams使用者聊天時，其帳戶不受組織管理：** 與Teams聊天可讓Teams使用者使用Teams個人帳戶與其工作網路外部的小組成員聊天，藉此擴充共同作業支援。 客戶可以邀請任何Teams使用者使用電子郵件地址或電話號碼聊天，並保留在其組織的安全性與合規性政策內。
+- **使用不受組織管理的帳戶與 Teams 使用者聊天：** 與 Teams 聊天可讓 Teams 使用者使用 Teams 個人帳戶與其工作網路外部的小組成員聊天，藉此擴充共同作業支援。 客戶可以邀請任何 Teams 使用者使用電子郵件地址或電話號碼聊天，並保留在其組織的安全性與合規性政策內。
 
 - **與外部使用者聊天和會議中的應用程式：** 完成時，我們將支援與外部使用者進行會議和群組聊天的應用程式。
 
@@ -197,13 +208,13 @@ ms.locfileid: "66077527"
 
 - **用於 SIP 裝置的 Teams 裝置管理：** IT 系統管理員可以透過 Teams 系統管理中心來管理其組織的 Teams SIP 裝置。
 
-- **簡訊 EHR 整合式虛擬就診的病患通知：** 讓患者能夠接收確認的簡訊通知，以及其 EHR 整合式虛擬就診的其餘部分。
+- **EHR 整合式虛擬就診的 SMS 病患通知：** 讓患者能夠接收 SMS 通知以進行確認，以及其 EHR 整合式虛擬就診的其餘部分。
 
 - **Surface Hub 的 Teams 裝置管理：** 系統管理員將能夠透過 Teams 系統管理中心來設定、管理及監視其 Surface Hub。
 
 - **互動式大型資源庫：** 一次最多檢視 49 位影片參與者，並透過釘選和焦點等動作與其互動，並觀察他們的會議活動，例如舉手和反應。
 
-- **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能夠在Teams系統管理中心內關閉此連接器。
+- **[核准] eSignature DocuSign 整合：** 使用者現在可以在 Approvals 中建立 eSignature 要求時選擇 DocuSign 作為其 eSign 提供者。 系統管理員將能夠在 Teams 系統管理中心內關閉此連接器。
 
 ## <a name="november-11-2021"></a>2021 年 11 月 11 日
 
@@ -211,13 +222,13 @@ ms.locfileid: "66077527"
 
 - **Teams 聊天中的流體元件：** Teams 聊天中的流體元件可讓終端使用者傳送帶有可由内部所有人共同撰寫和編輯表格、動作項目或清單的訊息。
 
-- **從Teams系統管理中心登出：** 租使用者系統管理員將能夠從Teams系統管理中心從手機遠端登出。 稍後，租用戶系統管理員將能夠從 Teams 系統管理中心遠端從顯示器登出。
+- **從 Teams 系統管理中心登出：** 租使用者系統管理員將能夠從 Teams 系統管理中心從手機遠端登出。 稍後，租用戶系統管理員將能夠從 Teams 系統管理中心遠端從顯示器登出。
 
 - **Teams 稽核記錄中的會議活動:** Microsoft Teams 稽核記錄中的此更新會新增會議活動，進一步協助組織有效地回應安全性事件。 稽核記錄將會包含 Teams 會議相關資訊，包括開始時間、結束時間，以及加入會議的 URL。 也包含會議參與者的資訊，包括每個參與者的使用者識別碼、每個參與者加入會議的時間，以及每個參與者離開會議的時間。
 
 - **新的搜尋結果頁面體驗：** Teams 中的新搜尋結果頁面體驗可讓您更快速、更直觀地尋找郵件、人員、答案和檔案。 新的 [所有] 頁面會顯示每個網域的熱門結果、[書籤] 和 [縮略字答案]、整齊的搜尋結果片段、預覽訊息結果以取得更多內容、更多可探索的篩選條件、檔案預覽，以及根據 Teams 和其他 Microsoft 365 服務中大部分參與之人員與內容提供更好的相關性。
 
-- **Viva Connections內核准卡片：** 系統管理員現在可以在其組織內將核准卡釘選Viva Connections儀表板。 使用者接著可以輕鬆地檢視其所有擱置中的核准要求，或快速建立新的核准要求。
+- **Viva Connections內的核准卡片：** 系統管理員現在可以將核准卡片釘選在其組織內Viva Connections儀表板。 使用者接著可以輕鬆地檢視其所有擱置中的核准要求，或快速建立新的核准要求。
 
 ## <a name="november-05-2021"></a>2021 年 11 月 5 日
 
@@ -229,7 +240,7 @@ ms.locfileid: "66077527"
 
 - **支援 CART 和人工輸入字幕：** Teams 會議現在支援來自 3P CART 服務提供者的内嵌 CART (通訊存取即時翻譯) 字幕。 CART 使用者現在不必開啟次要瀏覽器視窗來串流 CART 字幕。 這將協助失聰或聽力障礙的出席者參與會議，並使其簡單化，因為會議簡報者和會議內容位於同一處。
 
-- **Teams主機租使用者所管理認證的來賓使用者支援：** 支援內部來賓使用者其認證由資源租使用者管理 (這之前稱為狀態 3 和 4 個來賓帳戶) 
+- **具有主機租使用者所管理認證的來賓使用者 Teams 支援：** 支援內部來賓使用者其認證由資源租使用者管理 (這之前稱為狀態 3 和 4 來賓帳戶) 
 
 ## <a name="october-15-2021"></a>2021 年 10 月 15 日
 
@@ -275,13 +286,13 @@ ms.locfileid: "66077527"
 
 - **Microsoft Teams - Safari 中網路會議的圖庫檢視提供 2x2 視訊：** 圖庫檢視現在可在 Safari 瀏覽器中的會議期間顯示最多四個參與者視訊。
 
-- **Teams Q&A：** Teams 網路研討會和會議的問題&解答應用程式可用性。 藉由將此應用程式新增至任何Teams網路研討會或會議，使用者將能夠建立仲裁或非仲裁的 Q&A 體驗。  
+- **Teams Q&A：** Teams 網路研討會和會議的問題&解答應用程式可用性。 藉由將此應用程式新增至任何 Teams 網路研討會或會議，使用者將能夠建立仲裁或非仲裁的 Q&A 體驗。  
 
 - **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
 
 - **對主權雲端 (GCC-H) 的 Teams 來賓存取支援：** Teams 現在在主權雲端中支援來賓存取。
 
-- **Teams中從 Bookings 應用程式簡訊通知：** 簡訊可從 Teams 中的 Bookings 應用程式建立具有約會Teams會議連結的確認和提醒。
+- **Teams 中 Bookings 應用程式的簡訊通知：** 您可以從 Teams 中的 Bookings 應用程式，使用 Teams 會議連結建立約會的簡訊確認和提醒。
 
 - **用於 Teams 中標記的 Graph API：** 這組 API 可用來以程式設計方式為使用者指派 Teams 中的標記，讓標記建立與維護更快速且更容易。 Teams 中的標記可讓使用者快速連絡一組人員，而不需要 @提及或輸入所有人。 如需 Teams 中標記的相關資訊，請參閱[在 Teams 中使用標記](https://support.Microsoft.com/office/using-tags-in-teams-667bd56f-32b8-4118-9a0b-56807c96d91e)。
 使用這些新 API，開發人員現在可以在團隊中建立標記並指派使用者，取得團隊中標記的清單、更新標記和刪除標記。
@@ -359,11 +370,11 @@ ms.locfileid: "66077527"
 
 ## <a name="august-24-2021"></a>2021 年 8 月 24 日
 
-- **Walkie Talkie iOS (預覽) ：** Walkie Talkie 是一種推播式對話體驗，可透過雲端進行清楚且安全的語音通訊，可讓小組立即通訊，並一律保持在相同的頁面上。 Teams中的這個原生內建應用程式會將員工或公司擁有的iOS智慧型手機和 Tablet 轉換成逐步解說工具，減少員工必須攜帶的裝置數目，並降低 IT 的成本。 [深入了解](/MicrosoftTeams/walkie-talkie)
+- **Walkie Talkie iOS (Preview) ：** Walkie Talkie 是一種推播到交談的體驗，可讓您透過雲端進行清楚且安全的語音通訊，讓小組能夠立即通訊，並一律保持在相同的頁面上。 Teams 中的這個原生內建應用程式會將員工或公司擁有的 iOS 智慧型手機和電腦轉換成逐步解說工具，減少員工必須攜帶的裝置數目，並降低 IT 的成本。 [深入了解](/MicrosoftTeams/walkie-talkie)
 
 ## <a name="august-16-2021"></a>2021 年 8 月 16 日
 
-- **DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者掌握 Microsoft Teams。 如果使用者不在Microsoft Teams，而且尚未檢閱其通知，就會產生遺漏的活動電子郵件。 使用者可以選擇透過移至 [選擇頻率] >設定 > [通知] 來接收 [遺漏的活動] 電子郵件。
+- **DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者掌握 Microsoft Teams。 如果使用者離開 Microsoft Teams 且尚未檢閱其通知，就會產生遺漏的活動電子郵件。 使用者可以前往 [設定] > [通知] >選擇頻率，以選擇接收遺漏的活動電子郵件。
 
 ## <a name="august-9-2021"></a>2021 年 8 月 9 日
 
@@ -391,17 +402,17 @@ ms.locfileid: "66077527"
 
 ## <a name="july-29-2021"></a>2021 年 7 月 29 日
 
-- **行動裝置上跨 Microsoft 應用程式的無訊息時間：** 在Microsoft Teams或Outlook行動裝置應用程式上設定週期性無訊息時數或天數，這兩個應用程式的通知將會在這些期間遭到封鎖。
+- **行動裝置上跨 Microsoft 應用程式的無訊息時間：** 在 Microsoft Teams 或 Outlook 行動裝置應用程式上設定週期性無訊息時數或天數，這兩個應用程式的通知在這兩個期間將會遭到封鎖。
 
 ## <a name="july-26-2021"></a>2021 年 7 月 26 日
 
-- **適用于Teams的 ATP 安全連結：** Teams 中的 ATP 保管庫連結可為 E5 和 ATP 客戶提供額外的保護。 
+- **Teams 的 ATP 安全連結：** Teams 中的 ATP 安全連結可為 E5 和 ATP 客戶提供額外的保護。 
 
-- **Cortana現在可供 EDU 客戶使用：** Teams行動裝置應用程式中的Cortana語音協助現在可供 en-US 中的 EDU 客戶使用，以協助您使用口語自然語言來簡化學校中的通訊、共同作業和班級相關工作。 透過Cortana語音協助，您可以呼叫某人或執行與班級相關的工作，您可以傳送訊息給某人或將訊息傳送至您的類別。 此外，您也可以尋找和共用檔案，並在Teams行動裝置應用程式內搜尋或流覽。
+- **Cortana 現在可供 EDU 客戶使用：** Teams 行動應用程式中的 Cortana 語音協助現在可供 en-US 中的 EDU 客戶使用，以協助您使用口語自然語言來簡化學校中的通訊、共同作業和班級相關工作。 透過 Cortana 語音協助，您可以呼叫某人或執行類別相關工作，您可以傳送訊息給某人或將訊息傳送至您的類別。 此外，您可以在 Teams 行動裝置應用程式中尋找和共用檔案，以及搜尋或流覽。
 
 ## <a name="july-21-2021"></a>2021 年 7 月 21 日
 
-- **Teams 建議程式中量身打造的 EDU 部署計畫：** EDU IT 系統管理員可以使用量身訂做的方案，將Teams部署到其組織。
+- **Teams Advisor 中量身打造的 EDU 部署計畫：** EDU IT 系統管理員可以使用量身訂做的方案，將 Teams 部署到其組織。
 
 ## <a name="july-20-2021"></a>2021 年 7 月 20 日
 
@@ -451,15 +462,15 @@ ms.locfileid: "66077527"
 
 ## <a name="june-30-2021"></a>2021 年 6 月 30 日
 
-- **Teams會議自動錄製：** 此功能可讓使用者在會議選項中選擇自動錄製選項，以自動錄製會議。
+- **Teams 會議自動錄製：** 此功能可讓使用者在會議選項中選擇自動錄製選項，以自動錄製會議。
 
 ## <a name="june-29-2021"></a>2021 年 6 月 29 日
 
-- **GCC中的核准：** 核准應用程式現在可在GCC環境中使用。 
+- **GCC 中的核准：** 核准應用程式現在可在 GCC 環境中使用。 
 
 ## <a name="june-28-2021"></a>2021 年 6 月 28 日
 
-- **Teams 通話的端對端加密：** 端對端加密是對其來源的資訊進行加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 E2EE 是即時媒體共同作業的選擇性模式，其中兩方之間的一對一Teams呼叫會進行端對端加密。
+- **Teams 通話的端對端加密：** 端對端加密是對其來源的資訊進行加密，並在其預定目的地解密，而不需要進行中間節點解密的能力。 E2EE 是即時媒體共同作業的選擇性模式，其中兩方之間的一對一 Teams 通話會進行端對端加密。
 
 ## <a name="june-25-2021"></a>2021 年 6 月 25 日
 
@@ -475,17 +486,17 @@ ms.locfileid: "66077527"
 
 ## <a name="june-4-2021"></a>2021 年 6 月 4 日
 
-- **宣佈出席資料儀表板檢視：** 您不需要手動下載報表。 Teams現在可讓您在單鍵儀表板檢視中檢視所有匯總的資料。
+- **宣佈出席資料儀表板檢視：** 您不需要手動下載報表。 Teams 現在可讓您在單鍵儀表板檢視中檢視所有匯總的資料。
 - **與外部使用者的會議聊天中的應用程式：** 我們現在支援原生使用者新增的應用程式， (主機) 與其他網域的使用者 (使用者進行會議聊天) 。
 
 ## <a name="may-31-2021"></a>2021 年 5 月 31 日
 
 - **會議提醒：** 會議提醒通知會在會議開始之前 x 分鐘，因此您永遠不會錯過下一個會議。 在會議 (之前，提醒的預設值為 15 分鐘，但您可以從通知設定) 加以自訂。 您可以直接加入會議，或從提醒與參與者聊天。
-- **DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者掌握 Microsoft Teams。 如果使用者不在Microsoft Teams，而且尚未檢閱其通知，就會產生遺漏的活動電子郵件。 使用者可以選擇透過移至 **[設定**  >  ][**通知**  >  **選擇頻率]** 來接收 [遺漏的活動] 電子郵件。 
+- **DOD 中錯過的活動電子郵件：** 錯過的活動電子郵件可讓使用者掌握 Microsoft Teams。 如果使用者離開 Microsoft Teams 且尚未檢閱其通知，就會產生遺漏的活動電子郵件。 使用者可以前往 [設定 **通知**  >  選擇 **頻率**] 來選擇接收遺漏的活動電子郵件  >  。 
 
 ## <a name="may-26-2021"></a>2021 年 5 月 26 日
 
-- **控制Microsoft Teams中的選擇性連線體驗：** 在此版本中，如果使用者的系統管理員允許，使用者將能夠手動停用與選用的外部服務連線，例如 URL 預覽和 Giphys。 [深入了解](/MicrosoftTeams/teams-privacy-oce-overview)。
+- **在 Microsoft Teams 中控制選擇性的連線體驗：** 在此版本中，如果使用者的系統管理員允許，使用者將能夠手動停用與 URL 預覽和 Giphys 等選擇性外部服務的連線。 [深入了解](/MicrosoftTeams/teams-privacy-oce-overview)。
 
 ## <a name="may-21-2021"></a>2021 年 5 月 21 日
 
@@ -498,17 +509,17 @@ ms.locfileid: "66077527"
 
 ## <a name="may-18-2021"></a>2021 年 5 月 18 日
 
-- **核准應用程式 - 與協力廠商提供者的 eSignature 整合：** 有時候您可能需要核准並記錄具有更正式證明的專案，而且需要將簽章新增至核准程式。 我們正與主要合作夥伴密切合作，以允許您在核准應用程式內原生使用 Adobe Sign、DocuSign 和其他協力廠商提供者來建立電子簽章核准。 只要選擇您的電子簽名提供者並新增詳細資料即可。 提交之後，簽署者會收到電子郵件通知，而且可以輕鬆地檢閱和簽署。 核准會直接在Teams的內容中追蹤整個工作流程。
-- **在群組聊天中與外部使用者聊天：** 透過這項功能，使用者可以使用建立包含組織外部人員的群組聊天，Teams (要求所有使用者) 啟用外部存取功能。
+- **核准應用程式 - 與協力廠商提供者的 eSignature 整合：** 有時候，您可能需要核准並記錄具有更正式證明的內容，而且必須將簽章新增至核准程式。 我們正與主要合作夥伴密切合作，以允許您在核准應用程式內原生使用 Adobe Sign、DocuSign 和其他協力廠商提供者來建立電子簽章核准。 只要選擇您的電子簽名提供者並新增詳細資料即可。 提交之後，簽署者會收到電子郵件通知，而且可以輕鬆地檢閱和簽署。 核准會在 Teams 的內容中追蹤整個工作流程。
+- **在群組聊天中與外部使用者聊天：** 透過這項功能，使用者可以使用 Teams 建立包含組織外部人員的群組聊天 (要求所有使用者都啟用外部存取功能) 。
 
 ## <a name="may-17-2021"></a>2021 年 5 月 17 日
 
-- **核准範本：** 使用者可以在建立新的核准要求時，直接選擇其租使用者系統管理員或小組擁有者所提供的範本。
+- **核准範本：** 使用者在建立新的核准要求時，可以直接選擇其租使用者系統管理員或小組擁有者所提供的範本。
 - **使用 Teams 範本建立團隊：** 使用 Teams 中的範本，使用者可在建立新的團隊時從各種可自訂的範本中選擇，協助他們快速開始使用。 IT 系統管理員也可以為其組織建立新的自訂範本，讓他們能標準化團隊結構、預先安裝相關應用程式，以及擴大最佳做法。 IT 系統管理員可以選擇要在 Teams 系統管理中心向使用者顯示哪些團隊範本，也可以將 URL 新增到團隊範本中的網站索引標籤，以預先設定網站頁面。 [深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)。
 
 ## <a name="may-7-2021"></a>2021 年 5 月 7 日
 
-- **在Microsoft Teams中自訂應用程式：** 應用程式自訂功能可讓開發人員指定其Teams應用程式的特定屬性，並允許 IT 系統管理員在 Teams 系統管理中心中將這些屬性命名為品牌。 例如，IT 系統管理員可以從 ServiceNow 自訂 Now Virtual Agent 應用程式的名稱、描述和圖示，以符合其組織的獨特需求。[深入瞭解](/Microsoftteams/customize-your-app-store)。
+- **在 Microsoft Teams 中自訂應用程式：** 應用程式自訂功能可讓開發人員指定可自訂其 Teams 應用程式的特定屬性，並允許 IT 系統管理員在 Teams 系統管理中心將這些屬性的任何一個重新命名為品牌。 例如，IT 系統管理員可以從 ServiceNow 自訂 Now Virtual Agent 應用程式的名稱、描述和圖示，以符合其組織的獨特需求。[深入瞭解](/Microsoftteams/customize-your-app-store)。
  
 ## <a name="may-3-2021"></a>2021 年 5 月 3 日
 
@@ -516,7 +527,7 @@ ms.locfileid: "66077527"
 
 ## <a name="april-30-2021"></a>2021 年 4 月 30 日
 
-- **VDI 上Teams的通話佇列功能：VDI 上** Teams的通話佇列功能。 通話佇列提供方法，將來電者路由傳送給組織中可協助解決特定問題的人。 通話會依序發佈給佇列中的人員 (稱為專員)。
+- **VDI 上 Teams 的通話佇列功能：** VDI 上 Teams 的通話佇列功能。 通話佇列提供方法，將來電者路由傳送給組織中可協助解決特定問題的人。 通話會依序發佈給佇列中的人員 (稱為專員)。
 
 ## <a name="april-29-2021"></a>2021 年 4 月 29 日
 
@@ -525,22 +536,22 @@ ms.locfileid: "66077527"
 
 ## <a name="april-26-2021"></a>2021 年 4 月 26 日
 
-- **自訂背景：** Microsoft 提供的和使用者上傳的自訂背景現在可在iOS上取得。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
-- **匿名使用者可以顯示：** 裝載Teams實況活動時，我們新增了匿名使用者加入即時活動的能力，讓他們也可以在活動期間出現。 [深入了解](/Microsoftteams/teams-live-events/plan-for-teams-live-events)。 
+- **自訂背景：** Microsoft 提供的和使用者上傳的自訂背景現在可在 iOS 上取得。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
+- **匿名使用者可以顯示：** 在裝載 Teams 即時活動時，我們新增了匿名使用者加入即時活動的能力，讓他們也可以在活動期間出現。 [深入了解](/Microsoftteams/teams-live-events/plan-for-teams-live-events)。 
 
 ## <a name="april-16-2021"></a>2021 年 4 月 16 日
 
-- **自訂 (LOB) 索引標籤可供 DoD 客戶使用：** 現在，DoD 客戶可以上傳和部署自己的自訂 (LOB) Teams應用程式。 
+- **自訂 (LOB) 索引標籤可供 DoD 客戶使用：** 現在，DoD 客戶可以上傳和部署自己的自訂 (LOB) Teams 應用程式。 
 
 ## <a name="april-15-2021"></a>2021 年 4 月 15 日
 
 - **在 PowerShell 中將原則套件指派給群組：** 在 PowerShell 中使用群組指派簡化原則套件的指派。 群組指派讓系統管理員能夠將一個原則套件指派給群組，而不是個別使用者。 
-- **不Office：** 設定訊息，讓其他人知道您不在工作或休假，因此當其他人傳送聊天訊息時，您無法回復。 您的辦公室外狀態也會與您Outlook行事曆中找到的自動回復同步。
+- **不在辦公室：** 設定訊息，讓其他人知道您不在工作或休假，因此當其他人傳送聊天訊息時，您無法回復。 您的不在辦公室狀態也會與 Outlook 行事曆中找到的自動回復同步。
 
 ## <a name="april-12-2021"></a>2021 年 4 月 12 日
 
 - **新的略過大廳選項：** 會議原則具有可讓使用者略過會議大廳的設定。 我們新增了組織中人員的選項，但不包括來賓使用者。 [深入了解](/Microsoftteams/meeting-policies-in-teams)。
-- **在 GCCH 和 DOD 客戶的 Microsoft Teams 系統管理中心啟用 [管理應用程式] 頁面：身為** 系統管理員，Microsoft Teams系統管理中心的 [管理應用程式] 頁面可讓您檢視和管理貴組織的所有Teams應用程式。 在這裡，您可以查看應用程式的組織層級狀態和屬性、核准或上傳新的自訂應用程式至組織的應用程式市集、封鎖或允許組織層級的應用程式、將應用程式新增至小組、購買協力廠商應用程式的服務、檢視應用程式要求的許可權、授與系統管理員同意給應用程式，以及管理全組織應用程式設定。[深入瞭解](/MicrosoftTeams/manage-apps)。
+- **在適用于 GCCH 和 DOD 客戶的 Microsoft Teams 系統管理中心啟用 [管理應用程式] 頁面：** 身為系統管理員，Microsoft Teams 系統管理中心的 [管理應用程式] 頁面可讓您檢視及管理組織的所有 Teams 應用程式。 在這裡，您可以查看應用程式的組織層級狀態和屬性、核准或上傳新的自訂應用程式至組織的應用程式市集、封鎖或允許組織層級的應用程式、將應用程式新增至小組、購買協力廠商應用程式的服務、檢視應用程式要求的許可權、授與系統管理員同意給應用程式，以及管理全組織應用程式設定。[深入瞭解](/MicrosoftTeams/manage-apps)。
 
 ## <a name="april-5-2021"></a>2021 年 4 月 5 日
 
@@ -548,23 +559,23 @@ ms.locfileid: "66077527"
 
 ## <a name="april-2-2021"></a>2021 年 4 月 2 日
 
-**新增影片篩選模式：** 將背景視訊篩選模式新增至Teams 管理員中心。 因此，系統管理員可以從兩端的 Teams 管理員 Center 和 PowerShell 變更模式。 [深入了解](/Microsoftteams/meeting-policies-in-teams?WT.mc_id=TeamsAdminCenterCSH#bkcontentsharing)。
+**新增影片篩選模式：** 將背景影片篩選模式新增至 Teams 管理員中心。 因此，系統管理員可以在兩端從 Teams 管理員 Center 和 PowerShell 變更模式。 [深入了解](/Microsoftteams/meeting-policies-in-teams?WT.mc_id=TeamsAdminCenterCSH#bkcontentsharing)。
 
 ## <a name="march-31-2021"></a>2021 年 3 月 31 日
 
-- **從 Outlook 共用至 Teams：** 從 Outlook 共用至 Teams 可讓您將電子郵件或交談 (包括附件) 的複本傳送至 Teams 聊天和頻道。 在Outlook功能區或電子郵件的動作功能表中尋找 [**共用以Teams**] 選項。 [共用至 Teams] 支援 Outlook 網頁版、Windows 版 Outlook 和新 Mac 版 Outlook Preview。 [深入了解](/Microsoftteams/teams-outlook-share-teams)。
+- **從 Outlook 共用至 Teams：** 從 Outlook 共用至 Teams 可讓您將電子郵件或交談 (包括附件) 的複本傳送至 Teams 聊天和頻道。 在 Outlook 功能區或電子郵件的動作功能表中尋找 **[共用至 Teams** ] 選項。 [共用至 Teams] 支援 Outlook 網頁版、Windows 版 Outlook 和新 Mac 版 Outlook Preview。 [深入了解](/Microsoftteams/teams-outlook-share-teams)。
 
 ## <a name="march-30-2021"></a>2021 年 3 月 30 日
 
-- **在Teams (預覽) 中自訂應用程式：** Microsoft Teams提供應用程式自訂來增強Teams體驗。 系統管理員可以使用 [Teams 系統管理應用程式] 頁面，根據組織需求自訂或重新命名應用程式屬性。 [深入了解](/Microsoftteams/customize-apps)。
+- **在 Teams (預覽) 中自訂應用程式：** Microsoft Teams 提供應用程式自訂，以增強 Teams 體驗。 系統管理員可以使用 Teams 系統管理中心 [管理應用程式] 頁面，根據組織需求自訂或重新命名應用程式屬性。 [深入了解](/Microsoftteams/customize-apps)。
 
 ## <a name="march-29-2021"></a>2021 年 3 月 29 日
 
-- **Teams Android裝置的遠端布建和登入：** IT 系統管理員可以從遠端布建並登入Teams Android裝置。 若要以遠端方式佈建裝置，系統管理員必須上傳已佈建之裝置的 MAC 識別碼，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
+- **Teams Android 裝置的遠端布建和登入：** IT 系統管理員可以從遠端布建並登入 Teams Android 裝置。 若要以遠端方式佈建裝置，系統管理員必須上傳已佈建之裝置的 MAC 識別碼，並建立驗證碼。 您可以從 Teams 系統管理中心遠端完成整個流程。 [深入了解](/Microsoftteams/devices/remote-provision-remote-login)。
 
 ## <a name="march-24-2021"></a>2021 年 3 月 24 日
 
-- **在Teams中啟用即時文字記錄：** 這是每位使用者的原則，並且會在會議期間套用。 此設定可讓使用者在參加會議期間開啟或關閉即時輔助字幕。 [深入了解](/Microsoftteams/meeting-policies-participants-and-guests#enable-live-captions)。
+- **在 Teams 中啟用即時文字記錄：** 這是每位使用者的原則，並且會在會議期間套用。 此設定可讓使用者在參加會議期間開啟或關閉即時輔助字幕。 [深入了解](/Microsoftteams/meeting-policies-participants-and-guests#enable-live-captions)。
 
 ## <a name="march-23-2021"></a>2021 年 3 月 23 日
 
@@ -576,11 +587,11 @@ ms.locfileid: "66077527"
 
 ## <a name="march-1-2021"></a>2021 年 3 月 1 日
 
-- **Teams即時活動中的其他 GoLocal 支援：** 已將南非、南韓、瑞士、法國、德國和巴西的支援新增至即時活動。 [深入了解](/Microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)。
+- **Teams 即時活動中的其他 GoLocal 支援：** 已將南非、南韓、瑞士、法國、德國和巴西的支援新增至即時活動。 [深入了解](/Microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)。
 
 ## <a name="february-22-2021"></a>2021 年 2 月 22 日
 
-- **自訂 (LOB) 索引標籤可供 DoD 客戶使用：** 現在，DoD 客戶可以上傳和部署自己的自訂 (LOB) Teams應用程式。
+- **自訂 (LOB) 索引標籤可供 DoD 客戶使用：** 現在，DoD 客戶可以上傳和部署自己的自訂 (LOB) Teams 應用程式。
 
 ## <a name="february-18-2021"></a>2021 年 2 月 18 日
 
@@ -588,11 +599,11 @@ ms.locfileid: "66077527"
 
 ## <a name="february-11-2021"></a>2021 年 2 月 11 日
 
-- 僅限檢 **視的會議體驗：** Microsoft Teams最多可讓 10，000 位出席者加入Teams會議。 達到主要會議的容量之後，額外的出席者將會以僅限檢視體驗加入。 [深入了解](/Microsoftteams/view-only-meeting-experience)。
+- **僅限檢視會議體驗：** Microsoft Teams 最多可讓 10，000 位出席者加入 Teams 會議。 達到主要會議的容量之後，額外的出席者將會以僅限檢視體驗加入。 [深入了解](/Microsoftteams/view-only-meeting-experience)。
 
 ## <a name="january-27-2021"></a>2021 年 1 月 27 日
 
-- **使用Teams的虛擬就診 - 整合到 EHR：** 我們已更新Microsoft Teams電子健康記錄 (EHR) 連接器的介面，以及可讓臨床醫生直接從 EHR 系統啟動虛擬病患造訪或諮詢Teams另一個提供者的介面。 [深入了解](/Microsoftteams/expand-teams-across-your-org/healthcare/ehr-admin)。
+- **使用 Teams 的虛擬造訪 - 整合到 EHR：** 我們已更新 Microsoft Teams 電子健康情況記錄 (EHR) 連接器的介面，以及可讓臨床醫生輕鬆啟動虛擬病患造訪，或直接從 EHR 系統與 Teams 中的另一個提供者諮詢的連接器。 [深入了解](/Microsoftteams/expand-teams-across-your-org/healthcare/ehr-admin)。
 
 ## <a name="january-22-2021"></a>2021 年 1 月 22 日
 
@@ -600,15 +611,15 @@ ms.locfileid: "66077527"
 
 ## <a name="january-21-2021"></a>2021 年 1 月 21 日
 
-- **離線檔：** 即使您離線或在低頻寬條件下執行，Teams仍會繼續執行。 Teams會將現有聊天的所有未傳送訊息儲存 (最多 24 小時) ，並在您重新上線後立即傳送。 [深入了解](/Microsoftteams/connectivity-issues)。
+- **離線檔：** 即使您離線或在低頻寬情況下執行，Teams 仍會持續執行。 Teams 會將您所有未傳送的訊息儲存 (最多 24 小時) ，並在您重新上線後立即傳送。 [深入了解](/Microsoftteams/connectivity-issues)。
 
 ## <a name="january-19-2021"></a>2021 年 1 月 19 日
 
-- **Teams 核准應用程式可用性：** 核准應用程式可作為個人應用程式提供給所有Microsoft Teams使用者。 核准應用程式提供簡單的方法，將稽核、合規性、責任和工作流程帶入Teams中的結構化和非結構化核准。 [深入了解](/Microsoftteams/approval-admin)。
+- **Teams 核准應用程式可用性：** 核准應用程式可作為所有 Microsoft Teams 使用者的個人應用程式使用。 核准應用程式提供簡單的方法，將稽核、合規性、責任和工作流程帶入 Teams 中的結構化和非結構化核准。 [深入了解](/Microsoftteams/approval-admin)。
 
 ## <a name="january-15-2021"></a>2021 年 1 月 15 日
 
-- **設定 Google Workspace 的Microsoft Teams會議附加** 元件：Microsoft Teams Google Workspace 的會議附加元件必須由Teams系統管理員啟用，租使用者使用者才能存取應用程式。 [深入了解](/Microsoftteams/google-workspace-addon-teams)。
+- **設定 Google Workspace 的 Microsoft Teams 會議附加** 元件：Google Workspace 的 Microsoft Teams 會議附加元件必須由 Teams 系統管理員啟用，租使用者使用者才能存取應用程式。 [深入了解](/Microsoftteams/google-workspace-addon-teams)。
 
 ## <a name="january-4-2021"></a>2021 年 1 月 4 日
 
@@ -620,18 +631,18 @@ ms.locfileid: "66077527"
 
 ## <a name="december-18-2020"></a>2020 年 12 月 18 日
 
-- **已更新分組會議室的會議設定原則：** Teams中的分組會議室可用來將會議分割成個別、較小的會議室。 此設定可控制會議召集人是否可以選擇在排程或啟動的會議中建立和管理分組會議室。 此原則設定會影響所有會議，包括「立即開會」會議。 [深入了解](/Microsoftteams/meeting-policies-in-teams)。
+- **已更新分組會議室的會議設定原則：** Teams 中的分組會議室可用來將會議分割成個別、較小的會議室。 此設定可控制會議召集人是否可以選擇在排程或啟動的會議中建立和管理分組會議室。 此原則設定會影響所有會議，包括「立即開會」會議。 [深入了解](/Microsoftteams/meeting-policies-in-teams)。
 
 ## <a name="december-9-2020"></a>2020 年 12 月 9 日
 
-- **Microsoft 365 Learning路徑Teams建議程式：** Microsoft 365學習路徑是隨選學習解決方案，您可以自訂此解決方案來訓練使用者，並增加組織中Teams的使用量和採用。 使用學習路徑搭配建議程式，Teams讓使用者快速啟動並執行，並推動採用。 Learning路徑可讓您SharePoint線上網站範本，以及輕鬆地為使用者建置學習網站的能力。 您可以自訂學習路徑訓練入口網站，以包含特定于使用者需求的訓練和支援內容。 使用 Microsoft 線上目錄中的Teams播放清單，並新增您自己的播放清單。 [深入了解](/Microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-Microsoft-365-learning-pathways)。
+- **Advisor for Teams with Microsoft 365 Learning 路徑：** Microsoft 365 學習路徑是隨選學習解決方案，您可以自訂此解決方案來訓練使用者，並增加組織中 Teams 的使用量和採用。 搭配 Advisor for Teams 使用學習路徑，讓使用者快速啟動並執行，並推動採用。 學習路徑可為您提供 SharePoint Online 網站範本，以及輕鬆地為使用者建置學習網站的能力。 您可以自訂學習路徑訓練入口網站，以包含特定于使用者需求的訓練和支援內容。 使用 Microsoft 線上目錄中的 Teams 播放清單，並新增您自己的播放清單。 [深入了解](/Microsoftteams/use-advisor-teams-roll-out#advisor-for-teams-and-Microsoft-365-learning-pathways)。
 
 ## <a name="october-28-2020"></a>2020 年 10 月 28 日
 
-- **開始醫療保健中的Teams：** Microsoft Teams提供許多適用于醫院和其他醫療保健組織的功能，包括：
+- **開始使用醫療保健中的 Teams：** Microsoft Teams 提供許多適用于醫院和其他醫療保健組織的功能，包括：
 
   - 虛擬就診和電子醫療保健記錄 (EHR) 整合
-  - Teams原則套件
+  - Teams 原則套件
   - 保護傳訊的安全
   - Teams 範本
   - 照護協調與共同作業
@@ -640,37 +651,37 @@ ms.locfileid: "66077527"
 
 ## <a name="october-27-2020"></a>2020 年 10 月 27 日
 
-- **Teams顯示器：** Microsoft Teams顯示器是具有環境觸控螢幕的一體專用Teams裝置類別，以及由Cortana提供的免持式體驗。 [深入了解](/Microsoftteams/devices/teams-displays)。
+- **Teams 會顯示：** Microsoft Teams 顯示器是一種全合一專用 Teams 裝置的類別，可提供環境觸控畫面，以及 Cortana 提供的免持式體驗。 [深入了解](/Microsoftteams/devices/teams-displays)。
 
 ## <a name="october-22-2020"></a>2020 年 10 月 22 日
 
-- **管理使用者的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype設定。  移至使用者詳細資料頁面上的 [商務用 Skype] 索引標籤。 您可以從這裡管理個別使用者的外部存取和會議設定。 [深入了解](/Microsoftteams/skype-for-business-settings)。
+- **管理使用者的商務用 Skype設定：** 您可以在 Microsoft Teams 系統管理中心管理組織中商務用 Skype使用者的商務用 Skype設定。  移至使用者詳細資料頁面上的 [商務用 Skype] 索引標籤。 您可以從這裡管理個別使用者的外部存取和會議設定。 [深入了解](/Microsoftteams/skype-for-business-settings)。
 
-- **管理組織的商務用 Skype設定：** 您可以在Microsoft Teams系統管理中心管理組織中商務用 Skype使用者的商務用 Skype功能。 移至 **全組織設定**  >  **商務用 Skype**。 您可以從這裡管理Skype 會議廣播、目前狀態和行動裝置通知。 [深入了解](/Microsoftteams/skype-for-business-settings)。
+- **管理組織的商務用 Skype設定：** 您可以在 Microsoft Teams 系統管理中心管理組織中商務用 Skype使用者的商務用 Skype功能。 移至 **全組織設定**  >  **商務用 Skype**。 您可以從這裡管理Skype 會議廣播、目前狀態和行動裝置通知。 [深入了解](/Microsoftteams/skype-for-business-settings)。
 
 ## <a name="october-16-2020"></a>2020 年 10 月 16 日
 
-- **管理一線員工的班次式存取：** 身為系統管理員，您可以將Teams設定為顯示一組班次型狀態，讓組織中的一線員工指出輪班和輪班時間。 使用班次型存取，您可以在一線員工脫班時管理對Teams的存取。 例如，您可以將Teams設定為顯示一則訊息，讓第一線工作者在未排程輪班時，必須先確認才能使用Teams。 [深入了解](/Microsoftteams/expand-teams-across-your-org/shifts/manage-shift-based-access-flw)。
+- **管理一線員工的班次式存取：** 身為系統管理員，您可以設定 Teams 為組織中的一線員工顯示一組班次型狀態，以指出他們何時輪班。 使用班次型存取時，您可以在一線員工輪班時管理 Teams 的存取權。 例如，您可以將 Teams 設定為顯示一則訊息，讓一線員工在未排程輪班時，必須先確認才能使用 Teams。 [深入了解](/Microsoftteams/expand-teams-across-your-org/shifts/manage-shift-based-access-flw)。
 
 ## <a name="october-15-2020"></a>2020 年 10 月 15 日
 
 - **自訂原則套件：***這項功能處於私人預覽狀態*。自訂原則套件可讓您為組織中具有類似角色的使用者組合您自己的一組原則。 新增您需要的原則類型和原則，以建立您自己的原則套件。 [深入了解](/Microsoftteams/manage-policy-packages#custom-policy-packages)。
 
-- **將應用程式新增至Microsoft Teams系統管理中心的小組：在Microsoft Teams** 系統管理中心的 [管理應用程式] 頁面上，您可以使用 [**新增至小組**] 按鈕將應用程式安裝至小組。 [深入了解](/Microsoftteams/manage-apps)。
+- **在 Microsoft Teams 系統管理中心將應用程式新增至小組：** 在 Microsoft Teams 系統管理中心的 [管理應用程式] 頁面上，您可以使用 [ **新增至小組** ] 按鈕將應用程式安裝至小組。 [深入了解](/Microsoftteams/manage-apps)。
 
 ## <a name="october-1-2020"></a>2020 年 10 月 1 日
 
-- **針對會議錄製使用商務用 OneDrive和SharePoint：** Microsoft Teams有儲存會議錄製的新方法。 做為從傳統 Microsoft Stream 轉換為新 Stream的第一階段，此方法會將錄製檔儲存在 Microsoft 商務用 OneDrive 和 Microsoft 365 的 SharePoint 中，並提供許多優點。 [深入了解](/Microsoftteams/tmr-meeting-recording-change)。
+- **使用 商務用 OneDrive 和 SharePoint 進行會議錄製：** Microsoft Teams 有儲存會議錄製的新方法。 做為從傳統 Microsoft Stream 轉換為新 Stream的第一階段，此方法會將錄製檔儲存在 Microsoft 商務用 OneDrive 和 Microsoft 365 的 SharePoint 中，並提供許多優點。 [深入了解](/Microsoftteams/tmr-meeting-recording-change)。
 
-- **適用于中小型企業的免費音訊會議：** 如果您是一家擁有最多 300 位使用者且目前沒有任何音訊會議授權的中小型企業，您可以免費取得音訊會議一年。 此免費供應專案從 2020 年 10 月 1 日開始提供。 [深入了解](/Microsoftteams/audio-conferencing-smb)。
+- **適用于中小型企業的免費音訊會議：** 如果您是一家擁有最多 300 位使用者且目前沒有任何音訊會議授權的中小型企業，您可以免費取得一年的音訊會議。 此免費供應專案從 2020 年 10 月 1 日開始提供。 [深入了解](/Microsoftteams/audio-conferencing-smb)。
 
-- **在Microsoft Teams系統管理中心檢視應用程式許可權並授與系統管理員同意：** 現在在Teams系統管理中心，全域系統管理員將能夠檢閱並授與圖形 API許可權的同意Azure Active Directory，代表整個租使用者取得應用程式要求的許可權，例如讀取儲存在小組中的資訊，或代表使用者傳送電子郵件。 現在，IT 系統管理員將能夠檢閱資源特定的同意， (RSC) Teams系統管理中心內應用程式的許可權。 透過該系統管理員，他們將能夠針對已檢閱並核准在組織中使用的協力廠商應用程式，解除封鎖其使用者。 [深入了解](/Microsoftteams/app-permissions-admin-center)。
+- **在 Microsoft Teams 系統管理中心檢視應用程式許可權並授與系統管理員同意：** 現在在 Teams 系統管理中心，全域系統管理員將能夠檢閱並授與同意，以圖形 API在 Azure Active Directory 中註冊的許可權，代表整個租使用者取得應用程式要求的許可權，例如讀取儲存在小組中的資訊，或代表使用者傳送電子郵件。 現在，IT 系統管理員將能夠檢閱資源特定的同意 (RSC) Teams 系統管理中心內應用程式的許可權。 透過該系統管理員，他們將能夠針對已檢閱並核准在組織中使用的協力廠商應用程式，解除封鎖其使用者。 [深入了解](/Microsoftteams/app-permissions-admin-center)。
 
 - **對奧地利、丹麥、義大利、葡萄牙、瑞典和瑞士的通話方案支援：** 我們最近新增了對奧地利、丹麥、義大利、葡萄牙、瑞典和瑞士的通話方案支援。  [深入了解](/Microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization)。
 
 ## <a name="september-29-2020"></a>2020 年 9 月 29 日
 
-- **會議原則設定：** 在Teams會議原則中新增 IP 音訊和 IP 視訊的兩個原則設定：IP 音訊模式和 IP 視訊模式。 您現在可以在Teams會議原則中設定傳入和傳出 IP 音訊和 IP 視訊。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
+- **會議原則設定：** 在 Teams 會議原則中新增 IP 音訊和 IP 視訊的兩個原則設定：IP 音訊模式和 IP 視訊模式。 您現在可以在 Teams 會議原則中設定傳入和傳出 IP 音訊和 IP 視訊。 [深入了解](/Microsoftteams/meeting-policies-audio-and-video)。
 
 ## <a name="september-27-2020"></a>2020 年 9 月 27 日
 
@@ -678,23 +689,23 @@ ms.locfileid: "66077527"
 
 ## <a name="september-24-2020"></a>2020 年 9 月 24 日
 
-- **Teams與Android連絡人整合：** 直接透過Android Phonebook 使用Teams來電。
+- **Teams 與 Android 連絡人整合：** 直接透過 Android Phonebook 使用 Teams 通話。
 
 ## <a name="september-21-2020"></a>2020 年 9 月 21 日
 
-- **在Microsoft Teams系統管理中心管理 Microsoft Power Platform 應用程式：** 身為系統管理員，您可以在 Teams 的 [應用程式] 頁面上，控制使用者是否可以看到並安裝由同事建置的 Microsoft Power Platform 應用程式。 您可以在 [[管理](/Microsoftteams/manage-apps)應用程式] 頁面的組織層級，或針對使用應用程式許可權原則的特定使用者，共同封鎖或允許在 Power Virtual Agents Power Apps 中建立的所有應用程式，或在組織層級建立的所有[應用程式](/Microsoftteams/teams-app-permission-policies)。 [深入了解](/Microsoftteams/manage-power-platform-apps)。
+- **在 Microsoft Teams 系統管理中心管理 Microsoft Power Platform 應用程式：** 身為系統管理員，您可以控制使用者是否可以在 Teams 的 [應用程式] 頁面上看到並安裝由同事建置的 Microsoft Power Platform 應用程式。 您可以共同封鎖或允許在 Power Apps 中建立的所有應用程式，或在 [ [管理應用程式](/Microsoftteams/manage-apps) ] 頁面的組織層級，或針對使用 [應用程式許可權](/Microsoftteams/teams-app-permission-policies)原則的特定使用者，在 Power Virtual Agents 中建立的所有應用程式。 [深入了解](/Microsoftteams/manage-power-platform-apps)。
 
 ## <a name="september-19-2020"></a>2020 年 9 月 19 日
 
-- **在Microsoft Teams中共用檔案：** 在Microsoft Teams中，使用者可以與組織內外的其他Teams使用者共用內容。 Teams中的共用是以SharePoint和OneDrive中設定的設定為基礎，因此，您為SharePoint和OneDrive設定的任何專案也會控制Teams中的共用。 [深入了解](/Microsoftteams/sharing-files-in-teams)。
+- **在 Microsoft Teams 中共用檔案：** 在 Microsoft Teams 中，使用者可以與組織內外的其他 Teams 使用者共用內容。 Teams 中的共用是以 SharePoint 和 OneDrive 中設定的設定為基礎，因此您為 SharePoint 和 OneDrive 設定的任何專案也會控制 Teams 中的共用。 [深入了解](/Microsoftteams/sharing-files-in-teams)。
 
 ## <a name="september-16-2020"></a>2020 年 9 月 16 日
 
-- **新的協力廠商影片提供者 Riverbed：** 使用Teams即時活動設定來設定組織中所保留即時活動的設定。 您可以設定支援 URL 並設定協力廠商視訊發佈提供者。 這些設定適用于您組織中建立的所有即時活動。 Riverbed 是新的協力廠商提供者。 [深入了解](/Microsoftteams/teams-live-events/configure-teams-live-events#configure-a-third-party-video-distribution-provider)。
+- **新的協力廠商影片提供者 Riverbed：** 使用 Teams 即時活動設定來設定組織中所保留即時活動的設定。 您可以設定支援 URL 並設定協力廠商視訊發佈提供者。 這些設定適用于您組織中建立的所有即時活動。 Riverbed 是新的協力廠商提供者。 [深入了解](/Microsoftteams/teams-live-events/configure-teams-live-events#configure-a-third-party-video-distribution-provider)。
 
 ## <a name="september-15-2020"></a>2020 年 9 月 15 日
 
-- **商務用 Skype整合至 Teams PowerShell 模組的 Online Connector：** 最新的 Teams PowerShell 公開版本與 商務用 Skype Online Connector 整合，提供單一模組來Teams PowerShell 管理。 [深入了解](/Microsoftteams/teams-PowerShell-overview#manage-teams-with-PowerShell)。
+- **商務用 Skype與 Teams PowerShell 模組整合的 Online Connector：** 最新的 Teams PowerShell 公開發行版已與 商務用 Skype Online Connector 整合，為 Teams PowerShell 管理提供單一模組。 [深入了解](/Microsoftteams/teams-PowerShell-overview#manage-teams-with-PowerShell)。
 
 ## <a name="september-8-2020"></a>2020 年 9 月 8 日
 
@@ -702,41 +713,41 @@ ms.locfileid: "66077527"
 
 ## <a name="september-3-2020"></a>2020 年 9 月 3 日
 
-- **Microsoft Teams中的自訂應用程式存放區：** 現在您可以使用組織商標自訂 Teams Apps 市集，方法是新增您的標誌、自訂背景和自訂文字色彩，使其更吸引使用者。 [深入了解](/Microsoftteams/customize-your-app-store)。
+- **Microsoft Teams 中的自訂應用程式存放區：** 現在您可以藉由新增標誌、自訂背景和自訂文字色彩，以使用組織商標自訂 Teams Apps 市集，使其更吸引使用者。 [深入了解](/Microsoftteams/customize-your-app-store)。
 
 ## <a name="september-1-2020"></a>2020年9月1日
 
-- Android中的隨 **選翻譯：** 內嵌訊息翻譯是Microsoft Teams功能，可讓使用者將Teams訊息翻譯成其個人語言設定所指定的語言。 轉譯設定預設為 **[開啟** ]。 [深入了解](/Microsoftteams/inline-message-translation-teams)。
+- **Android 中的隨選翻譯：** 內嵌訊息翻譯是一項 Microsoft Teams 功能，可讓使用者將 Teams 訊息翻譯成其個人語言設定所指定的語言。 轉譯設定預設為 **[開啟** ]。 [深入了解](/Microsoftteams/inline-message-translation-teams)。
 
 ## <a name="august-17-2020"></a>2020 年 8 月 17 日
 
 - **群組聊天大小增加：** 我們新增了現在在群組聊天中擁有 250 位參與者的功能。 [深入了解](/Microsoftteams/limits-specifications-teams)。
 
-- **管理稱讚應用程式：** Microsoft Teams中的稱讚應用程式可協助使用者向組織或教室的成員顯示感謝。 稱讚應用程式有選取的徽章集合可供選擇，並提供建立您自己的徽章選項。 稱讚是設計來協助辨識Teams使用者所執行之各種工作的工作，從授課者到一線員工。 [深入了解](/Microsoftteams/manage-praise-app)。
+- **管理感謝應用程式：** Microsoft Teams 中的感謝應用程式可協助使用者向組織或教室的成員表達感謝。 [感謝] 應用程式有精選的徽章集可供選擇，並提供建立您自己的徽章的選項。 感謝旨在協助辨識 Teams 使用者所執行之各種工作的工作，從授課者到一線員工。 [深入了解](/Microsoftteams/manage-praise-app)。
 
-- **使用Microsoft Teams 會議室和Surface Hub設定協調會議：** 如果您在會議室中有一或多個Microsoft Teams 會議室裝置或 Surface Hub，您可以設定協調會議。 協調會議可讓您設定Teams 會議室裝置和 Surface Hub，如此一來，當您在一部裝置上加入會議時，會議室中的其他裝置也會加入相同的會議。 [深入了解](/Microsoftteams/rooms/coordinated-meetings)。
+- **使用 Microsoft Teams 會議室 和 Surface Hub 設定協調會議：** 如果您在會議室中有一或多個Microsoft Teams 會議室裝置或 Surface Hub，您可以設定協調會議。 協調會議可讓您設定Teams 會議室裝置和 Surface Hub，如此一來，當您在一部裝置上加入會議時，會議室中的其他裝置也會加入相同的會議。 [深入了解](/Microsoftteams/rooms/coordinated-meetings)。
 
-- **依班次標記：** 使用這項功能時，系統會在Teams的 Shifts 應用程式中，自動指派符合其排程和班次組名的標籤。 [深入了解](/Microsoftteams/manage-tags)。
+- **依班次標記：** 透過這項功能，系統會在 Teams 的 Shifts 應用程式中自動指派符合其排程和班次組名的標籤。 [深入了解](/Microsoftteams/manage-tags)。
 
 ## <a name="august-14-2020"></a>2020 年 8 月 14 日
 
-- **在Teams中Cortana語音技能：** Teams行動裝置應用程式中的Cortana語音技能可協助使用者只使用口語自然語言來執行會議、通訊和共同作業工作。 使用者可以在Teams應用程式中點擊麥克風按鈕與Cortana交談, 而且當他們困在家務中或遛狗或一般外出需與某人聯繫時, 可以發出諸如“打電話給Megan”或“對我的下一個會議發送訊息”之類的請求. 使用者只要說「加入我的下一個會議」即可加入會議，或者詢問「我今天早上有什麼事」來檢查行事曆。 在會議或通話中，他們可以從會議主持者的 [溢出] 功能表中調用 Cortana，並執行典型的會議中任務，例如按照姓名或電話號碼（「將 Megan 新增至通話」）、投影片瀏覽（「顯示季度檢閱投影片瀏覽」）或檢視投影片（「移至投影片備忘稿」）。 此功能支援的其他事項包括尋找及共用檔案、搜尋及流覽Teams應用程式 (「開啟與 John 的聊天、移至未讀取的活動、移至我的提及等) 。 Teams 的Cortana 對Cortana 企業服務來說說符合對 Cortana 企業服務相同的的企業級隱私、安全性和合規性承諾，並反映在 [線上服務條款（OST）](https://www.Microsoft.com/licensing/product-licensing/products?rtc=1)中。 [深入了解](/Microsoftteams/cortana-in-teams)。
+- **Teams 中的 Cortana 語音技能：** Teams 行動應用程式中的 Cortana 語音技能可協助使用者只使用口語自然語言來執行會議、通訊和共同作業工作。 使用者可以在Teams應用程式中點擊麥克風按鈕與Cortana交談, 而且當他們困在家務中或遛狗或一般外出需與某人聯繫時, 可以發出諸如“打電話給Megan”或“對我的下一個會議發送訊息”之類的請求. 使用者只要說「加入我的下一個會議」即可加入會議，或者詢問「我今天早上有什麼事」來檢查行事曆。 在會議或通話中，他們可以從會議主持者的 [溢出] 功能表中調用 Cortana，並執行典型的會議中任務，例如按照姓名或電話號碼（「將 Megan 新增至通話」）、投影片瀏覽（「顯示季度檢閱投影片瀏覽」）或檢視投影片（「移至投影片備忘稿」）。 此功能支援的其他功能包括尋找及共用檔案、搜尋及流覽 Teams 應用程式 (「開啟與 John 的聊天、移至未讀取的活動、移至我的提及等) 。 Teams 的Cortana 對Cortana 企業服務來說說符合對 Cortana 企業服務相同的的企業級隱私、安全性和合規性承諾，並反映在 [線上服務條款（OST）](https://www.Microsoft.com/licensing/product-licensing/products?rtc=1)中。 [深入了解](/Microsoftteams/cortana-in-teams)。
 
-- **Teams裝置系統管理員：** 具有此角色的使用者可以從 Teams 系統管理中心管理Teams認證的裝置。 他們可以檢查每個裝置的詳細資料，包括已登入的帳戶，以及裝置的製造和型號。 他們可以變更裝置上的設定、更新軟體，以及從遠端重新開機裝置。 [深入了解](/Microsoftteams/using-admin-roles)。
+- **Teams 裝置系統管理員：** 具有此角色的使用者可以從 Teams 系統管理中心管理 Teams 認證的裝置。 他們可以檢查每個裝置的詳細資料，包括已登入的帳戶，以及裝置的製造和型號。 他們可以變更裝置上的設定、更新軟體，以及從遠端重新開機裝置。 [深入了解](/Microsoftteams/using-admin-roles)。
 
 ## <a name="august-12-2020"></a>2020 年 8 月 12 日
 
-- **列出Teams中的應用程式：** Teams使用者現在可以使用 [清單應用程式] 索引標籤直接管理、建立及維護其清單。清單應用程式可在所有Teams用戶端上運作，並可針對清單專案進行共同作業和通訊。 [深入了解](/Microsoftteams/manage-lists-app)。
+- **列出 Teams 中的應用程式：** Teams 使用者現在可以使用 [清單] 應用程式索引標籤直接管理、建立及維護其清單。清單應用程式可在所有 Teams 用戶端上運作，並可讓您針對清單專案進行共同作業和通訊。 [深入了解](/Microsoftteams/manage-lists-app)。
 
 ## <a name="august-6-2020"></a>2020年8月6日
 
-- **核准自訂應用程式：** 核准透過Teams應用程式提交 API 提交的自訂應用程式。 [深入了解](/Microsoftteams/submit-approve-custom-apps)。
+- **核准自訂應用程式：** 核准透過 Teams 應用程式提交 API 提交的自訂應用程式。 [深入了解](/Microsoftteams/submit-approve-custom-apps)。
 
 ## <a name="august-3-2020"></a>2020 年 8 月 3 日
 
-- Microsoft Teams系統管理 **中心內Teams協力廠商應用程式的購買服務：** Teams應用程式可以免費安裝，有些應用程式可能需要購買服務訂用帳戶，才能體驗應用程式的完整功能和範圍。 這些服務訂用帳戶稱為軟體即服務 (SaaS) 供應專案，可透過 AppSource 購買，現在可透過 Microsoft Teams 系統管理中心購買。 [深入了解](/Microsoftteams/purchase-third-party-apps)。
+- **在 Microsoft Teams 系統管理中心購買 Teams 協力廠商應用程式的服務：** Teams 應用程式可以免費安裝，有些應用程式可能需要購買服務訂用帳戶，才能體驗應用程式的完整功能和範圍。 這些服務訂用帳戶稱為軟體即服務 (SaaS) 供應專案，可透過 AppSource 購買，現在可透過 Microsoft Teams 系統管理中心購買。 [深入了解](/Microsoftteams/purchase-third-party-apps)。
 
-- **發佈透過Teams應用程式提交 API 提交的自訂應用程式：** 開發人員可以使用Teams應用程式提交 API，將自訂應用程式直接提交至 Microsoft Teams 系統管理中心，讓系統管理員檢閱和核准。 [深入了解](/Microsoftteams/submit-approve-custom-apps)。
+- **發佈透過 Teams 應用程式提交 API 提交的自訂應用程式：** 開發人員可以使用 Teams 應用程式提交 API，將自訂應用程式直接提交至 Microsoft Teams 系統管理中心，供系統管理員檢閱和核准。 [深入了解](/Microsoftteams/submit-approve-custom-apps)。
 
 ## <a name="july-29-2020"></a>2020 年 7 月 29 日
 
@@ -746,7 +757,7 @@ ms.locfileid: "66077527"
 
 ## <a name="july-28-2020"></a>2020 年 7 月 28 日
 
-- **建立您自己的Teams範本：** 您現在可以從管理員主控台使用範本來建立您自己的Teams範本，或從現有的範本建立Teams範本。 [深入了解](/Microsoftteams/get-started-with-teams-templates-in-the-admin-console)。
+- **建立您自己的 Teams 範本：** 您現在可以從 管理員 主控台使用範本來建立您自己的 Teams 範本，或從現有的範本建立 Teams 範本。 [深入了解](/Microsoftteams/get-started-with-teams-templates-in-the-admin-console)。
 
 ## <a name="july-20-2020"></a>2020 年 7 月 20 日
 
@@ -754,7 +765,7 @@ ms.locfileid: "66077527"
 
 ## <a name="july-17-2020"></a>2020 年 7 月 17 日
 
-- **Teams會議的 NDI-out：** 我們新增了啟用NDI-Out至Teams會議的能力。 NDI-Out可讓視訊生產工具使用會議的音訊和視訊。 [深入了解](/Microsoftteams/use-ndi-in-meetings)。
+- **Teams 會議的 NDI 輸出：** 我們新增了啟用 Teams 會議NDI-Out功能。 NDI-Out可讓視訊生產工具使用會議的音訊和視訊。 [深入了解](/Microsoftteams/use-ndi-in-meetings)。
 
 ## <a name="july-15-2020"></a>2020 年 7 月 15 日
 
@@ -770,7 +781,7 @@ ms.locfileid: "66077527"
 
 ## <a name="july-7-2020"></a>2020 年 7 月 7 日
 
-- **Teams的敏感度標籤：** 敏感度標籤可讓Teams系統管理員規範對小組內共同作業期間所建立敏感性組織內容的存取。 [深入了解](/Microsoftteams/sensitivity-labels)。
+- **Teams 的敏感度標籤：** 敏感度標籤可讓 Teams 系統管理員規範對小組內共同作業期間所建立敏感組織內容的存取。 [深入了解](/Microsoftteams/sensitivity-labels)。
 
 ## <a name="july-2-2020"></a>2020 年 7 月 2 日
 
@@ -780,23 +791,23 @@ ms.locfileid: "66077527"
 
 ## <a name="june-30-2020"></a>2020 年 6 月 30 日
 
-- **代表其他人安裝應用程式：** 當使用者開始Teams時，您會選擇預設會為使用者安裝哪些應用程式。 [深入了解](/Microsoftteams/teams-app-setup-policies)。
+- **代表其他人安裝應用程式：** 當使用者啟動 Teams 時，您會選擇預設會為使用者安裝哪些應用程式。 [深入了解](/Microsoftteams/teams-app-setup-policies)。
 
 - **代表其他人進行螢幕分享：** 許多 IT 系統管理員都抱怨在停用 AllowPrivateCalling 原則時，他們無法讓員工從聊天畫面分享。 這項功能已使啟動畫面 Hare 與 AllowPrivateCalling 原則的聊天功能分離，但如果使用者的 AllowPrivateCalling 原則已停用，仍會封鎖使用者將音訊/視訊新增至螢幕共用會話。
 
 ## <a name="june-29-2020"></a>2020 年 6 月 29 日
 
-- **Microsoft Teams中的 Walkie Talkie 應用程式：** 使用推播到交談的即時語音通訊。 [深入了解](/Microsoftteams/walkie-talkie)。
+- **Microsoft Teams 中的 Walkie Talkie 應用程式：** 使用推播到交談的即時語音通訊。 [深入了解](/Microsoftteams/walkie-talkie)。
 
 ## <a name="june-25-2020"></a>2020 年 6 月 25 日
 
-- **Teams篩選選項：** 我們在命令列中新增了篩選選項，讓您可以在搜尋特定小組時設定特定參數。
+- **Teams 篩選選項：** 我們在命令列中新增了篩選選項，讓您可以在搜尋特定小組時設定特定參數。
 
 - **使用者小工具：** 我們新增了新的使用者摘要小工具，可在您新增團隊和頻道時使用。
 
 ## <a name="june-21-2020"></a>2020 年 6 月 21 日
 
-- **Android和iOS使用者** 的登入限制：如果使用者未在任何其他位置登入其Microsoft 365帳戶，系統會要求他們提供單一因素或多重要素驗證 (SFA 或 MFA) ，視貴組織針對行動裝置登入原則所設定的內容而定。 [深入了解](/Microsoftteams/sign-in-teams)。
+- **Android 和 iOS 使用者的登入限制：** 如果使用者未在任何其他位置登入其 Microsoft 365 帳戶，系統會要求他們提供單一因素或多重要素驗證 (SFA 或 MFA) ，視貴組織針對行動裝置登入原則所設定的內容而定。 [深入了解](/Microsoftteams/sign-in-teams)。
 
 ## <a name="june-15-2020"></a>2020 年 6 月 15 日
 
@@ -820,9 +831,9 @@ ms.locfileid: "66077527"
 
 ## <a name="may-5-2020"></a>2020 年 5 月 5 日
 
-- **輕鬆地從進行中的Teams會議存取會議選項：** 我們可讓會議召集人更輕鬆地在Teams會議開始時快速且輕鬆地變更其簡報者和大廳設定，方法是直接在參與者窗格中提供輕鬆存取連結。 這項新功能將同時用於已排程和「立即開會」會議。
+- **輕鬆地從進行中的 Teams 會議存取會議選項：** 我們讓會議召集人更輕鬆地在 Teams 會議開始後快速且輕鬆地變更其簡報者和大廳設定，方法是直接在參與者窗格中提供輕鬆存取連結。 這項新功能將同時用於已排程和「立即開會」會議。
 
-- **在Teams會議中下載參與者報告：** 會議召集人，尤其是教師，通常需要知道誰已加入其Teams會議。 您很快就可以下載參與者報告，可在包含參與者加入和離開時間的名冊檢視中找到。 在名冊檢視中，會議召集人可以下載報表，其中包含召集人出席時加入的使用者。 只有在會議處於作用中狀態時，才能在會議中使用此功能。 可在桌面 (Windows和 Mac) 和 Web 上使用。 [深入了解](/Microsoftteams/teams-analytics-and-reports/meeting-attendance-report)。
+- **在 Teams 會議中下載參與者報告：** 會議召集人，尤其是教師，通常需要知道誰已加入 Teams 會議。 您很快就可以下載參與者報告，可在包含參與者加入和離開時間的名冊檢視中找到。 在名冊檢視中，會議召集人可以下載報表，其中包含召集人出席時加入的使用者。 只有在會議處於作用中狀態時，才能在會議中使用此功能。 可在傳統型 (Windows 和 Mac) 和 Web 上使用。 [深入了解](/Microsoftteams/teams-analytics-and-reports/meeting-attendance-report)。
 
 ## <a name="april-26-2020"></a>2020 年 4 月 26 日
 
@@ -842,7 +853,7 @@ ms.locfileid: "66077527"
 
 ## <a name="april-1-2020"></a>2020 年 4 月 1 日
 
-- **RealWear Teams：RealWear** 的Microsoft Teams用戶端可讓使用 RealWear 耐用頭戴式穿戴式裝置的一線員工Teams 100% 免持手操作，並使用Teams視訊通話向專家尋求遠端協助。 [深入了解](/Microsoftteams/flw-realwear)。
+- **適用于 RealWear 的 Teams：** 適用于 RealWear 的 Microsoft Teams 用戶端可讓一線員工使用 RealWear 的耐用式頭戴式穿戴式裝置來操作 Teams 100% 免持式操作，並使用 Teams 視訊通話向專家尋求遠端協助。 [深入了解](/Microsoftteams/flw-realwear)。
 
 ## <a name="march-31-2020"></a>2020 年 3 月 31 日
 
@@ -850,8 +861,8 @@ ms.locfileid: "66077527"
 
 ## <a name="march-30-2020"></a>2020 年 3 月 30 日
 
-- **Teams通話和會議的原則式錄製：** 此功能可透過 Microsoft 認證的軟體廠商，啟用Teams通話和會議的自動原則式錄製。
+- **Teams 通話和會議的原則式錄製：** 此功能可讓您透過 Microsoft 認證的軟體廠商自動錄製 Teams 通話和會議的原則。
 
 ## <a name="march-25-2020"></a>2020 年 3 月 25 日
 
-- **在Microsoft Teams中管理您的共同作業列裝置：** 身為系統管理員，您想要從 Microsoft Teams 系統管理中心管理所有共同作業列裝置。 您可以檢視裝置清查、在裝置上採取特定動作，以及從遠端將命令提供給所有裝置。
+- **在 Microsoft Teams 中管理您的共同作業列裝置：** 身為系統管理員，您想要從 Microsoft Teams 系統管理中心管理所有共同作業列裝置。 您可以檢視裝置清查、在裝置上採取特定動作，以及從遠端將命令提供給所有裝置。
