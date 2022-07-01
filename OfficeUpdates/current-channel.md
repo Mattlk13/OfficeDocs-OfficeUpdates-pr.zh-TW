@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 71e4e5b211fe6e165a5e65262505a8b7f153e094
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: 38c3f4baf9e8f534bb61fa2bfab133e9e8e5f385
+ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077457"
+ms.lasthandoff: 06/30/2022
+ms.locfileid: "66553607"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,72 @@ ms.locfileid: "66077457"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2206-june-29"></a>版本 2206：6 月 29 日
+*版本 2206 (組建 15330.20196)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **從狀態列複製資料：** 從狀態列快速複製彙總的資訊，例如「Sum」、「Average」和「Count」。<br />在[部落格文章](https://insider.office.com/en-us/blog/copy-values-quickly-from-the-status-bar-in-excel-for-windows)中查看詳細資料
+
+- **更快找到資料：** 自動篩選功能現在明顯加快了! 這些改善是藉由減少記憶體使用量，以及優化篩選條件比較演算法所進行的呼叫所達成。 在記憶體較少或 CPU 記憶體輸送量較慢的低階裝置上，優化特別明顯。 [深入了解](https://support.office.com/article/7d87d63e-ebd0-424b-8106-e2ab61133d92)
+
+- **加速公式輸入：** Excel 藉由減少記憶體使用量、更有效率地利用配置的記憶體，以及最佳化重新繪製，明顯加快在儲存格中輸入公式的速度。 這些最佳化效果在慢速記憶體或慢速 CPU 記憶體輸送量的裝置上，以及較大的儲存格範圍上更為明顯。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **文字錨定註解：** 客戶現在可以將註解錨定到特定範圍的文字，這是 PowerPoint 新式註解的一部分。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 .xls 格式的共用活頁簿可能會不當合併變更的問題。
+
+
+- 我們已修正 AMSI 掃描會導致應用程式意外關閉的問題。
+
+
+- 我們已修正導致 Excel 在顯示圖表即時預覽時意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在 GCC-High 環境中導致會議室尋找工具無法載入的問題。
+
+
+- 我們已修正使用者無法將會議室信箱新增至行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當其他人共同撰寫時，變更文件的敏感度標籤，可能會失去挑選的敏感度標籤的問題。
+
+
+- 我們已修正使用瀏覽至位置時，儲存為不需要強制敏感度標籤的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正標頭巢狀欄位在捲動時顯示不正確的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在已知且預期字型下載在下載期間停止運作時嘗試下載字型的問題，這會造成使用不必要的資源。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2205-june-14"></a>版本 2205: 6 月 14 日
 *版本 2205 (組建 15225.20288)*
@@ -2846,6 +2912,7 @@ ms.locfileid: "66077457"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20288|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20204|version-2205-may-24|)
@@ -2855,5 +2922,4 @@ ms.locfileid: "66077457"
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
-[//]: # (|Win32|CC|Production| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
