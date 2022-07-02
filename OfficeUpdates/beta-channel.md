@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 45aac2c35b1dd62fdbe73f119fc07c6b508b2994
-ms.sourcegitcommit: cc8cd7d6cc587db8eab8f34ff9dae6153993fb3e
+ms.openlocfilehash: 879b29e3bd47971f94a8b2d7fbd34e83fcb03dfe
+ms.sourcegitcommit: 498d9728ce287301dc302f0943fd39a70a80daac
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2022
-ms.locfileid: "66149684"
+ms.lasthandoff: 07/02/2022
+ms.locfileid: "66606538"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,131 @@ ms.locfileid: "66149684"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2207-july-01"></a>版本 2207：7 月 1 日
+*版本 2207 (組建 15427.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **修正 Excel 如何「自動轉換」使用者輸入的資料：** 為使用者提供視需要啟用/停用特定資料轉換的選項。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正嘗試在唯一識別碼欄中支援 Unicode 字元時會發生的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在某些情況下，在啟動 Excel 且 [開始] 畫面已停用之後，開啟活頁簿時，公式列背景的某些部分會不正確地顯示為白色的問題。
+
+
+- 我們已修正當使用者在儲存和關閉之後立即重新開啟應用程式時，受保護標籤停止運作的問題。
+
+
+- 我們已修正圖表中儲存格參照顯示不正確的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正導致應用程式意外關閉的問題。
+
+
+- 我們已修正在畫布上插入圖形或線條之後，選取圖形或線條來移動或調整大小時，游標不會變更的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在 GCC High 環境中導致會議室尋找工具無法載入的問題。
+
+
+- 我們已修正下列問題：如果在使用 Outlook 的 [插入連結] 選項插入的連結上，使用者的預設連結權限類型設定為「特定人員」，權限未如預期般授與收件者 (可能會產生錯誤)。
+
+
+- 我們已修正應用程式會錯誤地為設定檔中其他 Exchange 帳戶建立新群組組態的問題。
+
+
+- 我們已修正當使用者在未要求回應時，從讀取窗格按兩下會議的 [暫訂] 回應按鈕，應用程式會意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正自訂文件屬性的變更不一定會反映在使用者介面中的問題。
+
+
+- 我們已修正表格樣式選項有時會由於資訊版權管理而不正確地停用的問題。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正將 3D 效果套用至應用程式中的圖片時所發生的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 UI 有時候停止在 ARM64 裝置上呈現的問題。
+
+
+- 我們已修正將 3D 效果套用至應用程式中的圖片時所發生的問題。
+
+
+- 我們已修正導致應用程式未正確重新整理的問題。
+
+
+- 我們已修正將檔案儲存為 Adobe PDF 時，應用程式會意外關閉的問題。
+
+
+- 我們已修正當使用者按兩下以隱藏空白字元時，隱藏內容的問題。
+
+
+- 我們已修正內建標籤所新增的頁尾不正確地移動現有、手動新增頁尾的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用筆跡進行數學運算時，應用程式會意外關閉的問題。
+
+
+- 我們已修正在某些情況下，CLP 保護檔案的背景上傳會導致資料遺失或保護遺失的問題。
+
+
+- 我們已修正在儲存於 SharePoint Online 或 OneDrive 的檔案中工作時，CPU 記憶體會遞增，直到耗盡電腦整個容量為止的問題。
+
+
+- 我們已修正功能區選項功能表未在 Excel 中轉譯的問題。
+
+
+- 我們已修正按一下 [檔案] 索引標籤開啟 Backstage 時，Office 應用程式的視覺雜訊問題。
+
+
+- 我們已修正裁剪的影像在預覽列印中顯示模糊的問題。
+
+
+- 我們已修正問題，以便正確辨識並插入來自 Adobe 和 Inkscape 的 SVG 格式。
+
+
+- 我們已修正會影響從各種網站辨識和插入 SVG 檔案的問題。
+
+
+- 我們已修正此問題，讓共同撰寫功能的線上使用者在他們沒有存取權限的敏感度標籤由其他使用者套用時收到通知。
+
+
+- 我們已修正開啟儲存在 OneDrive 和 SharePoint Online 上的 Excel 檔案時，應用程式會意外關閉，而且可能會發生資料遺失的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2207-june-17"></a>版本 2207：6 月 17 日
 *版本 2207 (組建 15407.20000)*
@@ -6067,6 +6192,7 @@ ms.locfileid: "66149684"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
@@ -6076,5 +6202,4 @@ ms.locfileid: "66149684"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15130.20000|version-2205-april-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
