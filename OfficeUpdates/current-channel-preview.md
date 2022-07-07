@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 8d454ace1b39246f649e5b2b997a9d4278d01627
-ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
+ms.openlocfilehash: d3effc9fcb1816415fae9b57ddf9988344c80851
+ms.sourcegitcommit: 7c7f63c3f5c98155ff26c7269afb2dbf95b3607a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2022
-ms.locfileid: "66553617"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "66661807"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -33,6 +33,25 @@ ms.locfileid: "66553617"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2206-july-06"></a>版本 2206: 7 月 6 日
+*版本 2206 (組建 15330.20230)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正資料編輯列中的視覺問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正 Visio 中導致應用程式在重複放大和縮小時停止回應的問題。
 
 
 
@@ -2086,7 +2105,7 @@ ms.locfileid: "66553617"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -4625,7 +4644,7 @@ ms.locfileid: "66553617"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -7546,7 +7565,7 @@ ms.locfileid: "66553617"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 38c3f4baf9e8f534bb61fa2bfab133e9e8e5f385
-ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
+ms.openlocfilehash: c1b3e0aa4f07f1c753ec84cb3f9687867fc85b78
+ms.sourcegitcommit: 7c7f63c3f5c98155ff26c7269afb2dbf95b3607a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2022
-ms.locfileid: "66553607"
+ms.lasthandoff: 07/07/2022
+ms.locfileid: "66661787"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -34,6 +34,67 @@ ms.locfileid: "66553607"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+## <a name="version-2206-july-06"></a>版本 2206: 7 月 6 日
+*版本 2206 (組建 15330.20230)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 .xls 格式的共用活頁簿可能會不當合併變更的問題。
+
+
+- 我們已修正 AMSI 掃描會導致應用程式意外關閉的問題。
+
+
+- 我們已修正資料編輯列中的視覺問題。
+
+
+- 我們已修正導致 Excel 在顯示圖表即時預覽時意外關閉的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正導致應用程式意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在 GCC-High 環境中導致會議室尋找工具無法載入的問題。
+
+
+- 我們已修正使用者無法將會議室信箱新增至行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當其他人共同撰寫時，變更文件的敏感度標籤，可能會失去挑選的敏感度標籤的問題。
+
+
+- 我們已修正使用瀏覽至位置時，儲存為不需要強制敏感度標籤的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正 Visio 中導致應用程式在重複放大和縮小時停止回應的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正標頭巢狀欄位在捲動時顯示不正確的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在已知且預期字型下載在下載期間停止運作時嘗試下載字型的問題，這會造成使用不必要的資源。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-june-29"></a>版本 2206：6 月 29 日
 *版本 2206 (組建 15330.20196)*
@@ -2912,6 +2973,7 @@ ms.locfileid: "66553607"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20288|version-2205-june-14|)
@@ -2921,5 +2983,4 @@ ms.locfileid: "66553607"
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
-[//]: # (|Win32|CC|Production| |16.0.15028.20160|version-2203-march-30|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
