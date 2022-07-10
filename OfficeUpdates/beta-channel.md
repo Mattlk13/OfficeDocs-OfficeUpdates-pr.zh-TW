@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 879b29e3bd47971f94a8b2d7fbd34e83fcb03dfe
-ms.sourcegitcommit: 498d9728ce287301dc302f0943fd39a70a80daac
+ms.openlocfilehash: 2976c80e9c2af15aafd97ae49e5b07335e0ff4c8
+ms.sourcegitcommit: 20ef17243af9aa4a0039183af58b782c4ec32a6a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2022
-ms.locfileid: "66606538"
+ms.lasthandoff: 07/08/2022
+ms.locfileid: "66692852"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,60 @@ ms.locfileid: "66606538"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2208-july-08"></a>版本 2208：7 月 8 日
+*版本 2208 (組建 15505.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="outlook"></a>Outlook
+
+- **使用新的 [通知] 窗格取得相關警示：** 別讓重要資訊埋藏於您的收件匣中。 Outlook 中的新 [通知] 窗格會根據您一般電子郵件的內容，提供與您相關的通知。 窗格可賦予您自訂想接收通知類型的能力，其包括電子郵件和文件 @提及、出差更新、傳遞等。 [深入了解](https://insider.office.com/blog/new-notifications-pane-in-outlook-helps-you-stay-on-task)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已透過對快速存取工具列進行微幅更新以修正問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正時程表中的實際小時總計不一定會正確重新計算的問題。
+
+
+- 我們已修正問題，因此當向上和向下捲動檢視甘特圖時，進度線現在會隨著工作垂直捲動。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正應用程式在關閉文件後會封鎖其存取的問題，因此 OneDrive 在應用程式結束之前無法同步處理文件。
+
+
+- 我們已修正註解可能會在將文件匯出為 PDF 後，從第二頁開始消失的問題。
+
+
+- 我們已修正在 Word 文件中列印多個頁面範圍的複本時，可能無法運作的問題。
+
+
+- 我們已修正篇幅較長且具有欄位的文件效能可能會變慢的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正安全性標籤所指定的保護以及套用至文件的實際保護不對齊的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2207-july-01"></a>版本 2207：7 月 1 日
 *版本 2207 (組建 15427.20000)*
@@ -6192,6 +6246,7 @@ ms.locfileid: "66606538"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
@@ -6201,5 +6256,4 @@ ms.locfileid: "66606538"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15209.20000|version-2205-april-15|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
