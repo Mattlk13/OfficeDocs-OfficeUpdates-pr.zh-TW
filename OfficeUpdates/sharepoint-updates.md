@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 訂閱版本、SharePoint Server 2019、SharePoint Server 2016 及 SharePoint Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: a2732f358bbdc3e6f216d34ae8bf797864063a19
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: fbdea48b8698cdb2332efb37098c4990557fd194
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077547"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767595"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -36,6 +36,7 @@ ms.locfileid: "66077547"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 訂閱版本<br/>|[KB 5002234](https://support.microsoft.com/help/5002234)<br/>|16.0.14931.20502|2022 年 7 月|
 |SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002224](https://support.microsoft.com/help/5002224)<br/>[KB 5002225](https://support.microsoft.com/help/5002225)<br/>|16.0.14931.20418|2022 年 6 月|
 |SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002194](https://support.microsoft.com/help/5002194)<br/>[KB 5002144](https://support.microsoft.com/help/5002144)<br/>|16.0.14931.20286|2022 年 5 月|
 |SharePoint Server 訂閱版本<br/>|[KB 5002191](https://support.microsoft.com/help/5002191)<br/>|16.0.14931.20196|2022 年 4 月|
@@ -50,6 +51,7 @@ ms.locfileid: "66077547"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002229](https://support.microsoft.com/help/5002229)<br/>[KB 5002230](https://support.microsoft.com/help/5002230)<br/>|16.0.10388.20004|2022 年 7 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002212](https://support.microsoft.com/help/5002212)<br/>[KB 5002211](https://support.microsoft.com/help/5002211)<br/>|16.0.10387.20008|2022 年 6 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002207](https://support.microsoft.com/help/5002207)<br/>[KB 5002206](https://support.microsoft.com/help/5002206)<br/>|16.0.10386.20011 <br/>16.0.10386.20015|2022 年 5 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002180](https://support.microsoft.com/help/5002180)<br/>[KB 5002164](https://support.microsoft.com/help/5002164)<br/>|16.0.10385.20001|2022 年 4 月|
@@ -100,6 +102,7 @@ ms.locfileid: "66077547"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>|[KB 5002231](https://support.microsoft.com/help/5002231) <br/>|16.0.5344.1000|2022 年 7 月|
 |SharePoint Server 2016  <br/>|[KB 5002222](https://support.microsoft.com/help/5002222) <br/>|16.0.5332.1001|2022 年 6 月|
 |SharePoint Server 2016  <br/>|[KB 5002195](https://support.microsoft.com/help/5002195) <br/>|16.0.5317.1000|2022 年 5 月|
 |SharePoint Server 2016  <br/>|[KB 5002183](https://support.microsoft.com/help/5002183) <br/>|16.0 5305.1000|2022 年 4 月|

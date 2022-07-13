@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: c1b3e0aa4f07f1c753ec84cb3f9687867fc85b78
-ms.sourcegitcommit: 7c7f63c3f5c98155ff26c7269afb2dbf95b3607a
+ms.openlocfilehash: 3def80beda2ec4c59aabe4ec3ad2c639894209f5
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2022
-ms.locfileid: "66661787"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767339"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -30,10 +30,27 @@ ms.locfileid: "66661787"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
+## <a name="version-2206-july-12"></a>版本 2206: 7 月 12 日
+*版本 2206 (組建 15330.20246)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正應用程式與字型互動時意外關閉檔案的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-july-06"></a>版本 2206: 7 月 6 日
 *版本 2206 (組建 15330.20230)*
@@ -2973,6 +2990,7 @@ ms.locfileid: "66661787"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
@@ -2982,5 +3000,4 @@ ms.locfileid: "66661787"
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
-[//]: # (|Win32|CC|Production| |16.0.15028.20204|version-2203-april-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

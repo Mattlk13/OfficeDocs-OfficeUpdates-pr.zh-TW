@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: e08a1bff0fbdb7b42fbe44bbd7a88d2006bbef5d
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: fbee347f2da32ea83ffef298af270240da65403a
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077347"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767369"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -24,6 +24,170 @@ ms.locfileid: "66077347"
 [//]: # (DO NOT REMOVE)
 
 
+
+## <a name="version-2205-july-12"></a>版本 2205: 7 月 12 日
+*版本 2205 (組建 15225.20356)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **更快找到資料：** 自動篩選功能現在明顯加快了! 這些改善是藉由減少記憶體使用量，以及優化篩選條件比較演算法所進行的呼叫所達成。 在記憶體較少或 CPU 記憶體輸送量較慢的低階裝置上，優化特別明顯。 [深入了解](https://support.office.com/article/7d87d63e-ebd0-424b-8106-e2ab61133d92)
+
+- **從狀態列複製資料：** 從狀態列快速從彙總複製資訊，例如「Sum」、「Average」和「Count」。<br />在[部落格文章](https://insider.office.com/en-us/blog/copy-values-quickly-from-the-status-bar-in-excel-for-windows)中查看詳細資料
+
+### <a name="outlook"></a>Outlook
+
+- **組織總管:** 視覺化並探索貴公司的內部結構、工作小組和個別角色<br />在[部落格文章](https://insider.office.com/en-us/blog/visualize-people-and-teams-with-org-explorer-in-outlook)中查看詳細資料
+
+- **在行事曆上更快速地尋找活動：** 行事曆搜尋的改良功能表示可以更快速且更輕鬆地尋找事件，例如數列的下一個項目。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正在嘗試開啟 Viva Insights 增益集時，導致某些客戶看到灰色方塊的問題。
+
+
+- 我們已修正來自使用者先前在 SA 頻道能即時執行的現有程式碼，在目前的頻道卻需花 13 分鐘來執行的問題。
+
+
+- 我們已修正在使用 Access 資料庫引擎 OLEDB API 與包含 SharePoint 清單之連結的資料庫時，可能會導致應用程式意外關閉的問題。
+
+
+- 我們已修正嘗試在唯一識別碼欄中支援 Unicode 字元時所造成的問題。
+
+
+- 我們已修正 Dataverse 在 2019 功能區中顯示的問題。
+
+
+- 我們已修正提示「沒有目前記錄」錯誤和其他訊息的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+- 我們已修正使用特定舊版 Windows 11 時，在 Excel 和 Project 中呈現的問題。
+
+
+- 我們已修正在具有圖表工作表的活頁簿上執行 VBA 指令碼/增益集時，可能會導致 Excel 意外關閉的問題。
+
+
+- 我們已修正 .xls 格式的共用活頁簿可能會不當合併變更的問題。
+
+
+- 我們已修正 AMSI 掃描會導致應用程式意外關閉的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用 [開啟共用行事曆] 時，未在瀏覽窗格中選取行事曆的問題。
+
+
+- 我們已修正使用者無法將會議室信箱新增至行事曆的問題。
+
+
+- 我們已修正在 GCC-High 環境中導致會議室尋找工具無法載入的問題。
+
+
+- 我們已修正導致使用者的問題，因此請參閱錯誤訊息「嘗試的操作失敗。 搜尋 LDAP 通訊錄時找不到物件」。
+
+
+- 我們已修正啟用共用行事曆改進功能時，導致給會議室信箱代理人的所有轉寄會議邀請上顯示「不需要回應」的問題。
+
+
+- 我們已修正導致使用者在某些情況下，會看到呈現多個共用行事曆複本的問題。
+
+
+- 我們已修正即使具有正確權限，導致委派仍無法開啟共用連絡人資料夾的問題。
+
+
+- 我們已修正會導致使用者看到「無法執行要求的作業...」錯誤的問題當嘗試展開本機連絡人群組時。
+
+
+- 我們已修正導致某些 Outlook 使用者在間歇性地開機之後，突然遇到關閉的問題。
+
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正了減少與具有相同超連結之檔的合併衝突的問題。
+
+
+- 我們已修正標頭巢狀欄位在捲動時顯示不正確的問題。
+
+
+- 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+- 我們已修正 UI 有時候停止在 arm64 裝置上演繹的問題。
+
+
+- 我們已修正在少數共同撰寫者實例中，某些註解的回復直到下次開啟文件時才會顯示的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正 SVG 物件的問題，以處理文字錨點結束屬性並正確維持目前文字位置。
+
+
+- 我們已修正 Office 呈現程式碼中關閉的問題。
+
+
+- 我們已修正在已知且預期字型下載在下載期間停止運作時嘗試下載字型的問題，這會造成使用不必要的資源。
+
+
+- 我們已修正在 Excel 中開啟字型大小下拉式清單時，強調顯示字型大小不是文件中目前選取的字型大小的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2204-july-12"></a>版本 2204: 7 月 12 日
+*版本 2204 (組建 15128.20312)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2204-june-14"></a>版本 2204：6 月 14 日
 *版本 2204 (組建 15128.20280)*
@@ -2334,8 +2498,9 @@ ms.locfileid: "66077347"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.15225.20356|version-2205-july-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15128.20280|version-2204-june-14|)
-[//]: # (|Win32|MEC|生產|Feature|16.0.15028.20248|version-2203-may-10|)
+[//]: # (|Win32|MEC|Production|Feature|16.0.15028.20248|version-2203-may-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14827.20220|version-2201-march-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
@@ -2343,5 +2508,4 @@ ms.locfileid: "66077347"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.14326.20508|version-2108-october-12|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
