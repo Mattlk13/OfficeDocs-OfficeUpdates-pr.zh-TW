@@ -8,19 +8,19 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
-description: 針對使用 Windows Installer (MSI) 的 2013 Office永久版本，為 IT 專業人員提供最新的 .msp 檔案清單
-ms.openlocfilehash: 3c93a57f1bce64ffd8631522f13a7364ea3447a7
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+description: '針對使用 Windows Installer (MSI 的 Office 2013 永久版本，為 IT 專業人員提供最新的 .msp 檔案清單) '
+ms.openlocfilehash: d9859ca5b74ae07a3ca0824d694129ee15fee5cb
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077327"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767379"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Office 2013 產品最新的 .msp 檔案清單
 > [!IMPORTANT]
 > 我們將於 2023 年 4 月 11 日終止對 Office 2013 的支援。 如果您尚未開始將 Office 2013 環境升級至較新的 Office 版本，建議您立即開始。 如需詳細資訊，請參閱 [規劃從 Office 的舊版本升級至 Microsoft 365 Apps](/deployoffice/endofsupport/plan-upgrade-older-versions-office)。 
 
-下列資訊提供 IT 專業人員在為 Office 2013 產品建立安裝映射時所需的最新 .msp 檔案清單，包括 Visio 2013 和 Project 2013。 藉由包含這些 .msp 檔案，當使用者安裝 Office 2013 產品時，最新的安全性和非安全性更新會自動套用至Office安裝。
+下列資訊提供 IT 專業人員為 Office 2013 產品建立安裝映射時所需的最新 .msp 檔案清單，包括 Visio 2013 和 Project 2013。 藉由包含這些 .msp 檔案，當使用者安裝 Office 2013 產品時，最新的安全性和非安全性更新會自動套用至 Office 安裝。
   
 此資訊僅適用于使用 Windows Installer (MSI) 安裝技術的 Office 2013 產品。 例如，Office 專業增強版 2013 和 Visio 標準版 2013 的大量授權版本使用 MSI。
   
@@ -28,7 +28,7 @@ ms.locfileid: "66077327"
 
 [//]: # (DO NOT REMOVE CONTENT START)
 
-下表列出 **2022 年 6 月** 更新的 .msp 檔案。
+下表列出 **2022 年 7 月** 更新的 .msp 檔案。
 
 [//]: # (DO NOT REMOVE CONTENT END)
 
@@ -36,13 +36,13 @@ ms.locfileid: "66077327"
 
 |非安全性更新*]|安全性更新*]|
 |:-----|:-----|
-| |excel-x-none|
+| |vbe7-x-none|
 
 [//]: # (DO NOT REMOVE MSP CONTENT END)
 
 ## <a name="list-of-all-msp-files"></a>所有 .msp 檔案的清單
 
-下表列出自 2014 年 2 月發行 Office 2013 Service Pack 1 (SP1) 以來發行的所有 .msp 檔案。 如果 .msp 檔案的安全性發行日期大於非安全性發行日期，則不需要非安全性版本，因為它已被安全性版本取代。
+下表列出自 Office 2013 Service Pack 1 (SP1) 于 2014 年 2 月發行以來已發行的所有 .msp 檔案。 如果 .msp 檔案的安全性發行日期大於非安全性發行日期，則不需要非安全性版本，因為它已被安全性版本取代。
 
 [//]: # (DO NOT REMOVE HISTORY CONTENT START)
 
@@ -115,7 +115,7 @@ ms.locfileid: "66077327"
 |spdcore-x-none  <br/> |SharePoint Designer 2013  <br/> |不適用  <br/> |不適用  <br/> |13.05.14  <br/> |[2752096](https://support.microsoft.com/kb/2752096) <br/> |不適用  <br/> |
 |spdevsdk-x-none  <br/> |SharePoint Designer 2013 用戶端元件 SDK  <br/> |2017 年 8 月 1 日  <br/> |[3213571](https://support.microsoft.com/help/3213571) <br/> |13.05.14  <br/> |[2863854](https://support.microsoft.com/kb/2863854) <br/> |不適用  <br/> |
 |stslist-x-none  <br/>|Office 2013  <br/>|2019 年 2 月 5 日  <br/>|[3172473](https://support.microsoft.com/kb/3172473) <br/>|2022 年 1 月 11 日 <br/>|[4462205](https://support.microsoft.com/help/4462205) <br/>|不適用  <br/>|
-|vbe7-x-none  <br/>|Office 2013  <br/>|2020 年 6 月 2 日  <br/>|[4484356](https://support.microsoft.com/help/4484356) <br/>|2021 年 12 月 14 日 <br/>|[4486726](https://support.microsoft.com/help/4486726) <br/>|[4484435](https://support.microsoft.com/help/4484435) <br/>|
+|vbe7-x-none  <br/>|Office 2013  <br/>|2020 年 6 月 2 日  <br/>|[4484356](https://support.microsoft.com/help/4484356) <br/>|2022 年 7 月 12 日 <br/>|[5002121](https://support.microsoft.com/help/5002121) <br/>|[4486726](https://support.microsoft.com/help/4486726) <br/>|
 |visconv-x-none<sup>2</sup> <br/> |Visio 2013 相容性套件  <br/> |2015 年 7 月 14 日  <br/> |[3054828](https://support.microsoft.com/kb/3054828) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
 |visio-x-none  <br/>|Visio 2013  <br/>|2021 年 8 月 3 日 <br/>|[4504728](https://support.microsoft.com/help/4504728) <br/>|2021 年 3 月 9 日  <br/>|[4486673](https://support.microsoft.com/help/4486673) <br/>|[4464544](https://support.microsoft.com/help/4464544) <br/>|
 |vviewer-x-none  <br/> |Visio 檢視器 2013  <br/> |2014 年 4 月 8 日  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |不適用  <br/> |不適用  <br/> |不適用  <br/> |
@@ -127,9 +127,9 @@ ms.locfileid: "66077327"
 
 [//]: # (DO NOT REMOVE HISTORY CONTENT END)
 
-<sup>1</sup>此檔案僅適用于 2013 Office 64 位安裝。
+<sup>1</sup>此檔案僅適用于 Office 2013 的 64 位安裝。
   
-<sup>2</sup>此檔案僅適用于 2013 Office 32 位安裝。
+<sup>2</sup>此檔案僅適用于 Office 2013 的 32 位安裝。
   
 <sup>3</sup> *會*   -   *副本* 代表適當的語言，例如 en-us 或 ja-jp。 
   
