@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 4ba9f254422399c0d683ac89aaaec0e086c8c1c6
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: 32e734494b03da1c9cd9d904a01e701f28d9afff
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077297"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767409"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,28 @@ ms.locfileid: "66077297"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="july-2022-release"></a>2022 年 7 月發行版本
+
+**發行日期：** 2022 年 7 月 12 日
+
+*Microsoft AutoUpdate 4.49*
+
+**增強功能：**
+- 已改善透過 Microsoft AutoUpdate 使用者介面更新應用程式的工作流程
+
+**錯誤修正：**
+- 已修正當 GUI 上未顯示任何應用程式更新時，Microsoft AutoUpdate 使用者介面會啟動的問題
+- 已修正 Microsoft AutoUpdate 可能會在記憶體不足的情況下當機的問題
+- 已修正 Microsoft AutoUpdate 在啟動時可能沒有回應的問題
+
+[下載 Microsoft AutoUpdate 4.49 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.49.22070801_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+2749A0163267E8E24D212BE09012FCB2C09E840EBC2047507D5088DA9629EC04
+<br><br>
+
 
 ## <a name="june-2022-release"></a>2022 年 6 月版本
 
@@ -49,8 +71,7 @@ ms.locfileid: "66077297"
 - 已修正下載和安裝應用程式更新期間可能發生的各種當機問題
 - 已修正法文使用者按鈕文字被截斷的問題
 
-[下載 Microsoft AutoUpdate 4.48 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.48.22061100_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 52823A753D1E221D3ADFB4023A8FE284005D1B1C37EE104EAFB526C8C809E03C
