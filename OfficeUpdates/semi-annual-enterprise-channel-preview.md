@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 9f5e4460827dd33019745935438ddf84eebe872f
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: 492d5aef437f74b600b9271129751ead38ee8974
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077577"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767539"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -22,6 +22,72 @@ ms.locfileid: "66077577"
 
 新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
 
+
+## <a name="version-2202-july-12"></a>版本 2202：7 月 12 日
+*版本 2202 (組建 14931.20604)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正如果資料庫中有 SharePoint 清單的連結，PowerBI 有時會停止從 Access 資料庫重新整理資料的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正在使用 Power Pivot 時，嘗試連線到資料摘要時會發生錯誤的問題。
+
+
+- 我們已修正 .xls 格式的共用活頁簿可能會不當合併變更的問題。
+
+
+- 我們已修正 AMSI 掃描會導致應用程式意外關閉的問題。
+
+
+- 我們已修正啟用導致 XL4 巨集停用的群組原則時，求解器無法運作的問題。
+
+
+- 我們已修正使用使用者介面自動化和處理具有許多隱藏資料列和/或資料行的大型資料集時，效能緩慢或凍結的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在 GCC-High 環境中導致會議室尋找工具無法載入的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在 PowerPoint 中建立新文件時未正確套用預設敏感度標籤的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正特定的紙張在 Outlook 中列印時會重疊的問題。
+
+
+- 我們已修正從不同用戶端合併註解之後，Word 文件中註解的 UTC 時間戳記不一致的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 此更新修正了可能導致使用 Microsoft.ACE.OLEDB.12.0 或 Microsoft.ACE.OLEDB.16.0 提供者連線到 SharePoint 資料的應用程式意外關閉的問題。
+
+
+- 變更將允許 IT 系統管理員在 Microsoft 365 應用程健康情況的 [增益集健康情況] 頁面中，查看半年企業通道中裝置的私人增益集。 增益集是 Office 意外關閉的主要來源，而透過 [增益集健康情況] 頁面，系統管理員會看到其部署在其租用戶中的增益集健康情況，並辨識出潛在問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-june-14"></a>版本 2202: 6 月 14 日
 *版本 2202 (組建 14931.20494)*
@@ -2394,6 +2460,8 @@ ms.locfileid: "66077577"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14931.20604|version-2202-july-12|)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14931.20588|version-2202-july-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20494|version-2202-june-14|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20482|version-2202-june-14|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.14931.20392|version-2202-may-10|)
@@ -2402,6 +2470,4 @@ ms.locfileid: "66077577"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20738|version-2108-january-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20734|version-2108-january-11|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20702|version-2108-december-17|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20692|version-2108-december-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
