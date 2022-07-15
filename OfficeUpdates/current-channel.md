@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 3def80beda2ec4c59aabe4ec3ad2c639894209f5
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: 79bd47a8de939a68f45f7278b93f752f80212fe9
+ms.sourcegitcommit: 238419e709e3642e6bc0670b53cb7ad098537cbb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767339"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66800221"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -781,7 +781,7 @@ ms.locfileid: "66767339"
 - 我們已修正收到的電子郵件不會包含開啟郵件的連結的問題。
 
 
-- 我們已修正導致螢幕助讀程式無法存取特定的 [智慧連結] 圖說文字上的問題。
+- 我們已修正導致螢幕閱讀器無法存取特定的智慧連結註標的問題。
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -859,10 +859,6 @@ ms.locfileid: "66767339"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **享受改良的捲動體驗：** 當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。[深入了解](https://support.office.com/article/06fc34b8-64bb-4d78-9b62-34656d700f82)
-
 ### <a name="outlook"></a>Outlook
 
 - **改良的通訊錄搜尋：您現在可以在通訊錄中搜尋其他欄位，包括名稱、標題、位置等等。**<br />在[部落格文章](https://insider.office.com/en-us/blog/improved-search-experience-in-the-outlook-address-book)中查看詳細資料
@@ -2184,7 +2180,7 @@ ms.locfileid: "66767339"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2531,7 +2527,7 @@ ms.locfileid: "66767339"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -2954,7 +2950,7 @@ ms.locfileid: "66767339"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -2967,7 +2963,7 @@ ms.locfileid: "66767339"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
