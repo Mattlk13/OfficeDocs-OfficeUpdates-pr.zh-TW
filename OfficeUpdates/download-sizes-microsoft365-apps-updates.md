@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: fdbe0fe773937b3a7f405f124b796e3692b50ed0
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: 99ddc301f932bcb2e446de01313cf02b33c3d2ab
+ms.sourcegitcommit: 08191fcd85977d900f35c395a94f8878acca9287
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767389"
+ms.lasthandoff: 07/14/2022
+ms.locfileid: "66792475"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -41,8 +41,8 @@ ms.locfileid: "66767389"
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
-|版本 2206 (組建 15330.20196) <br/> |2022 年 6 月 29 日 <br/> | 39<br/> |
-|版本 2205 (組建 15225.20288) <br/> |2022 年 6 月 14 日 <br/> |134<br/> |
+|版本 2206 (組建 15330.20230) <br/> |2022 年 7 月 06 日 <br/> | 39<br/> |
+|版本 2205 (組建 15330.20196) <br/> |2022 年 6 月 29 日 <br/> | 49<br/> |
 
 
 

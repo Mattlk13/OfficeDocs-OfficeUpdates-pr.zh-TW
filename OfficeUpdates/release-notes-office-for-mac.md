@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: e6e82357309e25f122e56ea40f448488c3b89202
-ms.sourcegitcommit: fd3d1d2abbc4c44eb43747ec9edf4af6ccdc3746
+ms.openlocfilehash: d2f677668b471ba0324e53216d2aa80057dddf87
+ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/14/2022
-ms.locfileid: "66077497"
+ms.lasthandoff: 07/13/2022
+ms.locfileid: "66767399"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -36,6 +36,40 @@ ms.locfileid: "66077497"
 [//]: # (DO NOT REMOVE)
 
 
+
+
+
+## <a name="july-12-2022"></a>2022 年 7 月 12 日
+*版本 16.63 (組建 22070801)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **已增強對螢幕助讀程式的自動完成清單支援：** 當您輸入函數名稱時，Excel 會建議符合您所輸入內容的函數。 我們已新增支援，讓 VoiceOver 之類的螢幕助讀程式可以在您使用方向鍵向上或向下瀏覽清單時朗讀函數名稱。
+
+- **加速公式輸入：** Excel 藉由減少記憶體使用量、更有效率地利用配置的記憶體，以及最佳化重新繪製，明顯加快在儲存格中輸入公式的速度。 這些最佳化效果在慢速記憶體或慢速 CPU 記憶體輸送量的裝置上，以及較大的儲存格範圍上更為明顯。
+
+### <a name="outlook"></a>Outlook
+
+- **SMIME 作為 MIP 標籤：** 這項新功能可讓已部署功能性 S/MIME 基礎結構的組織，藉由針對其所有分類和保護需求使用標準 Microsoft 資訊保護標籤，以提供更一致的使用者體驗。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-26934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-26934)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="june-14-2022"></a>2022 年 6 月 14 日
 *版本 16.62 (組建 22061100)*
