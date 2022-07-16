@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理員功能的版本資訊。
-ms.openlocfilehash: e3efdb837dcfff135103d4db1340bd1556925230
-ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
+ms.openlocfilehash: cbc6c0e3b1ee4879f31f257356ef94cef4689652
+ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2022
-ms.locfileid: "66553657"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66826928"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
@@ -28,18 +28,23 @@ ms.locfileid: "66553657"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="june-23-2022"></a>2022 年 6 月 23 日
+## <a name="july-14-2022"></a>2022 年 7 月 14 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+- **停用匿名或未經驗證使用者的聊天寫入存取：** IT 系統管理員現在可以針對非同盟使用者和透過連結加入 Teams 會議的未經驗證使用者，停用原則層級的聊天寫入存取權，此連結必須與停用的會議聊天原則搭配使用，以提供額外的安全性來防止資料外泄。
+
+- **Microsoft Teams：Microsoft Teams Connect共用頻道：** 工作場所共同作業已逐漸成為數位和雲端式。 在我們的互連世界中，我們需要與組織以外的人員共同作業—與合作夥伴通訊、追蹤供應商，以及與客戶聯繫。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 透過 Teams Connect，我們可讓您更輕鬆地與組織內外的人員共同作業，協助您的擴充小組跨組織界限有效且有效率地工作。 透過共用通道，多個組織可以在共用空間中共同作業。 進行交談、排程會議、共用和共同撰寫檔案，以及在應用程式上共同作業，而不需要切換租使用者。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="june-23-2022"></a>2022 年 6 月 23 日
 
 - **通話佇列代理程式的動態呼叫端識別碼：** 通話佇列代理程式現在可以使用通話佇列電話號碼作為來電者識別碼，從通話應用程式撥打電話。 這可確保收件者正確識別通話，而且回呼號碼是通話佇列號碼，而不是代理程式的個人行。
 
 - **Moodle LMS 與 Microsoft Teams 整合：** 除了與 Canvas 和 Blackboard 整合之外，Microsoft 現在還與 Moodle LMS 合作，以提供順暢的整合式學習體驗。 現在可以在 Moodle 中使用 Microsoft Teams 會議 LTI 和 Teams 班級 LTI 應用程式。 [深入瞭解 Moodle LMS 整合](/microsoft-365/lti/moodle-plugin-configuration)
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 
 
@@ -60,11 +65,11 @@ ms.locfileid: "66553657"
 
 ## <a name="april-14-2022"></a>2022 年 4 月 14 日
 
-- **虛擬桌面基礎結構上適用于 Citrix 的 Teams 轉譯支援：** 一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
+- **虛擬桌面基礎結構上適用于 Citrix 的 Teams 轉譯支援：** 一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔案會自動儲存在該會議的聊天索引標籤中。
 
 - **透過 IP 通話的語音等候音樂。：** 這項功能可確保當語音透過 IP 通話暫留時，可以播放音樂。
 
-- **支援虛擬桌面基礎結構上適用于 Azure 虛擬桌面的 Teams 轉譯：** 一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔會自動儲存在該會議的聊天索引標籤中。
+- **支援虛擬桌面基礎結構上適用于 Azure 虛擬桌面的 Teams 轉譯：** 一旦功能可用，虛擬機器上的使用者就可以使用轉譯。 會議之後，文字記錄檔案會自動儲存在該會議的聊天索引標籤中。
 
 - **網頁瀏覽器聯結：** 從任何裝置上的網頁瀏覽器加入虛擬約會。
 
@@ -72,7 +77,7 @@ ms.locfileid: "66553657"
 
 ## <a name="march-24-2022"></a>2022 年 3 月 24 日
 
-- **從 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
+- **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
 
 - **非會議聊天的聊天篩選：** 聊天應用程式內會有新的聊天篩選器，可篩選出與 Bot 的會議聊天和聊天。 它會逐一篩選，並與人員進行群組聊天。
 
