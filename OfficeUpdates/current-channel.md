@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 79bd47a8de939a68f45f7278b93f752f80212fe9
-ms.sourcegitcommit: 238419e709e3642e6bc0670b53cb7ad098537cbb
+ms.openlocfilehash: 8b8aac1693528caa0752c60c3a16359a14ad21b5
+ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66800221"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66826918"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -30,7 +30,7 @@ ms.locfileid: "66800221"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-## <a name="version-2206-july-12"></a>版本 2206: 7 月 12 日
+## <a name="version-2206-july-12"></a>版本 2206：7 月 12 日
 *版本 2206 (組建 15330.20246)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
@@ -52,7 +52,7 @@ ms.locfileid: "66800221"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2206-july-06"></a>版本 2206: 7 月 6 日
+## <a name="version-2206-july-06"></a>版本 2206：7 月 6 日
 *版本 2206 (組建 15330.20230)*
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
@@ -130,6 +130,21 @@ ms.locfileid: "66800221"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **文字錨定註解：** 客戶現在可以將註解錨定到特定範圍的文字，這是 PowerPoint 新式註解的一部分。
+
+### <a name="teams"></a>Teams
+
+- **使用聊天、電子郵件或電話的家長連線：** 授課者按一下即可透過聊天、電子郵件或電話來與學生的監護人連絡。
+ 
+- **GCC-High 中的機器人：** GCC-High 客戶可以在他們的 Microsoft Teams 環境中建置和部署機器人。 此版本支援自訂的企業營運機器人。
+ 
+- **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
+ 
+- **Moodle LMS 與 Microsoft Teams 整合：** 除了與 Canvas 和 Blackboard 整合之外，Microsoft 現已與 Moodle LMS 合作，以提供順暢的整合式學習體驗。 Microsoft Teams 會議 LTI 和 Teams 課程 LTI 應用程式現在可在 Moodle 內使用。
+ 
+- **授與或控制虛擬桌面基礎結構上的 Azure Window Desktop：** Azure Window Desktop 上的使用者將能夠在通話和會議期間授與和取得控制。 如果您希望另一個會議參與者變更檔案、協助您簡報，或示範某些項目，您可以授與控制權給該人員。 您與該人員可以同時控制分享，而且您可以隨時取回控制權。 若要在其他人分享時取得控制權，請選取 [要求控制]。 然後，分享的人員可以核准或拒絕您的要求。 取得控制權時，您可以對分享的畫面進行選取、編輯及其他修改。 完成時，請選取 [釋出控制權] 以停止分享控制權。
+ 
+- **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
+ 
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)

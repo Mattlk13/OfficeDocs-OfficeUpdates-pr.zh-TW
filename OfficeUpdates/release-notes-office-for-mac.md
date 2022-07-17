@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: d2f677668b471ba0324e53216d2aa80057dddf87
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: cc1a7022824ba645704802adb0396d180735d0ce
+ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767399"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66826898"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -36,8 +36,21 @@ ms.locfileid: "66767399"
 [//]: # (DO NOT REMOVE)
 
 
+## <a name="july-15-2022"></a>2022 年 7 月 15 日
+*版本 16.63.1 (組建 22071401)*
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+- Bug 修正
 
-
+*版本 16.63.1 (組建 22071301)*
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+- 修正命令圖示和文字不正確地以中文 (簡體) 顯示的問題
+### <a name="excel"></a>Excel
+- 修正命令圖示和文字不正確地以中文 (簡體) 顯示的問題
+### <a name="onenote"></a>OneNote
+- 修正命令圖示和文字不正確地以中文 (簡體) 顯示的問題
+<br><br>
 
 ## <a name="july-12-2022"></a>2022 年 7 月 12 日
 *版本 16.63 (組建 22070801)*

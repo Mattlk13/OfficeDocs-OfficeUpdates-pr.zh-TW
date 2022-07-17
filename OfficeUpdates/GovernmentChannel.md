@@ -9,28 +9,31 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: e28a6a9011e50087ac8b96b047a4aac5162f9088
-ms.sourcegitcommit: bcdde949f6b803bcdbbd0e77785017bde3373e6a
+ms.openlocfilehash: 4cc93a8f483613ff4e6898b47f85758ee39c090b
+ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/30/2022
-ms.locfileid: "66553647"
+ms.lasthandoff: 07/16/2022
+ms.locfileid: "66826888"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-
+## <a name="teams-admin-and-teams-app-july-14"></a>Teams 管理員和 Teams 應用程式：7 月 14 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
 [//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
-
+### <a name="dod-customers"></a>DoD 客戶:
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 
+- **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
+
+- **Microsoft Teams：Microsoft Teams Connect 共用頻道：** 工作場所共同合作已逐漸變得數位化，並且以雲端為基礎。 在我們的互連世界中，我們需要與組織以外的人員共同作業，即與合作夥伴溝通、追蹤供應商，以及與客戶連絡。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 而有了 Teams Connect，您便可更容易地與組織內外的人員共同作業，協助您跨組織界限有效率地延伸團隊工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -39,15 +42,57 @@ ms.locfileid: "66553647"
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
+- **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
+
+- **Microsoft Teams：Microsoft Teams Connect 共用頻道：** 工作場所共同合作已逐漸變得數位化，並且以雲端為基礎。 在我們的互連世界中，我們需要與組織以外的人員共同作業，即與合作夥伴溝通、追蹤供應商，以及與客戶連絡。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 而有了 Teams Connect，您便可更容易地與組織內外的人員共同作業，協助您跨組織界限有效率地延伸團隊工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
 
+### <a name="gcc-customers"></a>GCC 客戶:
 
+- **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
+
+- **Microsoft Teams：Microsoft Teams Connect 共用頻道：** 工作場所共同合作已逐漸變得數位化，並且以雲端為基礎。 在我們的互連世界中，我們需要與組織以外的人員共同作業，即與合作夥伴溝通、追蹤供應商，以及與客戶連絡。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 而有了 Teams Connect，您便可更容易地與組織內外的人員共同作業，協助您跨組織界限有效率地延伸團隊工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-july-14"></a>Teams 系統管理員：7 月 14 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **Teams 系統管理中心：每個使用者加入的團隊：** Teams 系統管理員可以檢視使用者已加入的團隊清單。
+
+- **在 Teams 系統管理中心搜尋：** 系統管理員可以在 Teams 系統管理中心使用通用的搜尋方塊來搜尋使用者、團隊、頁面和設定。
+
+- **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Teams 系統管理中心：每個使用者加入的團隊：** Teams 系統管理員可以檢視使用者已加入的團隊清單。
+
+- **在 Teams 系統管理中心搜尋：** 系統管理員可以在 Teams 系統管理中心使用通用的搜尋方塊來搜尋使用者、團隊、頁面和設定。
+
+- **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams 系統管理中心：每個使用者加入的團隊：** Teams 系統管理員可以檢視使用者已加入的團隊清單。
+
+- **在 Teams 系統管理中心搜尋：** 系統管理員可以在 Teams 系統管理中心使用通用的搜尋方塊來搜尋使用者、團隊、頁面和設定。
+
+- **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
+
+
+
+
+
+
+
+
 
 ## <a name="teams-admin-june-23"></a>Teams 系統管理員：6 月 23 日
 
@@ -250,19 +295,13 @@ ms.locfileid: "66553647"
 
 - **Teams 系統管理中心：政府雲端中的敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
 
-- **在 Teams 系統管理中心搜尋：** Teams 系統管理員可以使用 Teams 系統管理中心內的一般搜尋方塊搜尋使用者、Teams、應用程式、裝置、頁面和設定。
-
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 - **Teams 系統管理中心：政府雲端中的敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
 
-- **在 Teams 系統管理中心搜尋：** Teams 系統管理員可以使用 Teams 系統管理中心內的一般搜尋方塊搜尋使用者、Teams、應用程式、裝置、頁面和設定。
-
 ### <a name="gcc-customers"></a>GCC 客戶:
 
 - **Teams 系統管理中心：政府雲端中的敏感度標籤支援：** Teams 系統管理員可以在建立 Teams 時指派敏感度標籤。
-
-- **在 Teams 系統管理中心搜尋：** Teams 系統管理員可以使用 Teams 系統管理中心內的一般搜尋方塊搜尋使用者、Teams、應用程式、裝置、頁面和設定。
 
 ## <a name="teams-app-december-23"></a>Teams 應用程式: 12 月 23 日
 
