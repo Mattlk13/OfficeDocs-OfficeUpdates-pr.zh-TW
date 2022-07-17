@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2976c80e9c2af15aafd97ae49e5b07335e0ff4c8
-ms.sourcegitcommit: 20ef17243af9aa4a0039183af58b782c4ec32a6a
+ms.openlocfilehash: 2edff2449c9dd8102c7828c53c5eb2331436adaf
+ms.sourcegitcommit: 60a4154305551c1470b34535662395191b25742c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/08/2022
-ms.locfileid: "66692852"
+ms.lasthandoff: 07/15/2022
+ms.locfileid: "66824966"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,38 @@ ms.locfileid: "66692852"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2208-july-15"></a>版本 2208：7 月 15 日
+*版本 2208 (組建 15511.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正嘗試擷取 EDP 電子郵件地址時影響 Windows 資訊保護 (WIP) 的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正區域自訂欄位在提示「刪除自訂欄位」對話方塊時停止運作，而且無法透過召集人刪除的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正「以連結貼上」可能無法自動更新的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2208-july-08"></a>版本 2208：7 月 8 日
 *版本 2208 (組建 15505.20000)*
@@ -6246,6 +6278,7 @@ ms.locfileid: "66692852"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15511.20000|version-2208-july-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
@@ -6255,5 +6288,4 @@ ms.locfileid: "66692852"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15211.20000|version-2205-april-22|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
