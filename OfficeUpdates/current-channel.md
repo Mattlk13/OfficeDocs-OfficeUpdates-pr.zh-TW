@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 8b8aac1693528caa0752c60c3a16359a14ad21b5
-ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
+ms.openlocfilehash: f90a13ca2aadba3fc9a13332b6d6353c56d7f27c
+ms.sourcegitcommit: c86b3c2f778d1e1e82a1278849355a95df41c47b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66826918"
+ms.lasthandoff: 07/19/2022
+ms.locfileid: "66853363"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,20 @@ ms.locfileid: "66826918"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+## <a name="version-2206-july-18"></a>版本 2206：7 月 18 日
+*版本 2206 (組建 15330.20264)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此更新修正了可能導致 Access 無法開啟 ACCDE 和 MDE 檔案的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-july-12"></a>版本 2206：7 月 12 日
 *版本 2206 (組建 15330.20246)*
@@ -3001,6 +3015,7 @@ ms.locfileid: "66826918"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15330.20264|version-2206-july-18|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
@@ -3010,5 +3025,4 @@ ms.locfileid: "66826918"
 [//]: # (|Win32|CC|Production| |16.0.15128.20248|version-2204-may-17|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
-[//]: # (|Win32|CC|Production| |16.0.15028.20228|version-2203-april-20|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
