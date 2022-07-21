@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: f90a13ca2aadba3fc9a13332b6d6353c56d7f27c
-ms.sourcegitcommit: c86b3c2f778d1e1e82a1278849355a95df41c47b
+ms.openlocfilehash: c96a838bfa985ff126e2d2bce5fd934dc19090be
+ms.sourcegitcommit: 7a356d1d7f284996ce0aeb80d2d5a0fa47b4a13c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66853363"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66892253"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -30,7 +30,7 @@ ms.locfileid: "66853363"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
-## <a name="version-2206-july-18"></a>版本 2206：7 月 18 日
+## <a name="version-2206-july-18"></a>版本 2206: 7 月 18 日
 *版本 2206 (組建 15330.20264)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
@@ -38,7 +38,7 @@ ms.locfileid: "66853363"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 此更新修正了可能導致 Access 無法開啟 ACCDE 和 MDE 檔案的問題。
+- 我們已修正開啟 ACCDE/MDE 檔案時的問題。 使用者可能會收到錯誤訊息，其文字為「要求的類型文件庫或精靈不是 VBA 專案」。 [深入了解](https://support.microsoft.com/en-us/topic/error-when-trying-to-open-an-accde-mde-file-created-in-a-different-version-of-access-f4cd36cd-549e-42ba-b75a-dfe964294a81)
 
 
 
