@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: f448a71d07ee753049d94c3b0b118af3efcbf04b
-ms.sourcegitcommit: 238419e709e3642e6bc0670b53cb7ad098537cbb
+ms.openlocfilehash: b6a2712d0a9fe62994597d7a5a8bf2a3381d14bb
+ms.sourcegitcommit: 7a356d1d7f284996ce0aeb80d2d5a0fa47b4a13c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66800241"
+ms.lasthandoff: 07/20/2022
+ms.locfileid: "66892263"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -33,6 +33,20 @@ ms.locfileid: "66800241"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2207-july-19"></a>版本 2207: 7 月 19 日
+*版本 2207 (組建 15427.20130)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正介紹新視覺效果的影片未顯示的問題。
 
 
 
@@ -176,7 +190,7 @@ ms.locfileid: "66800241"
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
-## <a name="version-2206-july-06"></a>版本 2206: 7 月 6 日
+## <a name="version-2206-july-06"></a>版本 2206：7 月 6 日
 *版本 2206 (組建 15330.20230)*
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
