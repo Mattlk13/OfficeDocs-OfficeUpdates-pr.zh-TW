@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 4cc93a8f483613ff4e6898b47f85758ee39c090b
-ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
+ms.openlocfilehash: 52e12adb5f233cf425b3a766ea412f7f94784706
+ms.sourcegitcommit: 20d6aeee3cb6cd16e7f8d6dd66a48c82d4049fb6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66826888"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66958017"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -28,25 +28,13 @@ ms.locfileid: "66826888"
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
-
-- **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
-
-- **Microsoft Teams：Microsoft Teams Connect 共用頻道：** 工作場所共同合作已逐漸變得數位化，並且以雲端為基礎。 在我們的互連世界中，我們需要與組織以外的人員共同作業，即與合作夥伴溝通、追蹤供應商，以及與客戶連絡。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 而有了 Teams Connect，您便可更容易地與組織內外的人員共同作業，協助您跨組織界限有效率地延伸團隊工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
 [//]: # (DO NOT REMOVE DoD CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
-
-- **Microsoft Teams：Microsoft Teams Connect 共用頻道：** 工作場所共同合作已逐漸變得數位化，並且以雲端為基礎。 在我們的互連世界中，我們需要與組織以外的人員共同作業，即與合作夥伴溝通、追蹤供應商，以及與客戶連絡。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 而有了 Teams Connect，您便可更容易地與組織內外的人員共同作業，協助您跨組織界限有效率地延伸團隊工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
+- **GCC-High 中的機器人：** GCC-High 客戶可以在他們的 Microsoft Teams 環境中建置和部署機器人。 此版本支援自訂的企業營運機器人。
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
@@ -525,13 +513,13 @@ ms.locfileid: "66826888"
 
 - **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
 
-- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。 
+- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
 
 - **Windows 上的 Microsoft Teams 會議室：精選多個視訊資料流：** 在 Teams 會議期間同時精選多個視視訊資料流 (最多 7 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
 
 - **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
 
-- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。 
+- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
@@ -543,7 +531,7 @@ ms.locfileid: "66826888"
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
-- **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。  
+- **使用前線員工上線精靈為前線試驗和部署 Teams：** 前線員工上線精靈可讓 IT 系統管理員以幾個快速步驟，便可建立團隊、指派授權和原則套件。
 
 - **開始與通訊群組、擁有郵件功能的安全性群組和 O365 群組的 Teams 聊天：** 不支援具有隱藏成員的 DL 和具有限制傳送存取 的 DL，因為它們不會在 DL 的 Graph API 中傳回，因此無法在 Teams 中搜尋。
 
@@ -551,7 +539,7 @@ ms.locfileid: "66826888"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **Teams 問與答：** Teams 網路研討會和會議的問題與回答應用程式。 將此應用程式新增到任何 Teams 網路研討會或會議後，使用者就能獲得經控管或未經控管問與答的體驗。  
+- **Teams 問與答：** Teams 網路研討會和會議的問題與回答應用程式。 將此應用程式新增到任何 Teams 網路研討會或會議後，使用者就能獲得經控管或未經控管問與答的體驗。
 
 - **Teams 中來自 Bookings 應用程式的簡訊通知：** 簡訊確認和提醒具有從 Teams 中的 Bookings 應用程式所建立約會的 Teams 會議連結。
 
@@ -601,7 +589,7 @@ ms.locfileid: "66826888"
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。 
+- **Teams 系統管理中心的自訂角色型存取控制 (RBAC) 支援：** 全域系統管理員將能挑選及選擇將指派給 Teams 系統管理員的權限，讓他們指定細微的存取限制。
 
 - **webRTC 中的螢幕畫面分享：** 提供者可以在已啟用 webRTC 的會議中與病患分享其螢幕畫面。
 
@@ -829,7 +817,7 @@ ms.locfileid: "66826888"
 
 - **開發人員可以選擇預設封鎖應用程式：** 推出新的應用程式狀態「已由發行者封鎖」，以允許開發人員預設封鎖應用程式，直到系統管理員在 Teams 系統管理中心中採取動作來允許應用程式為止。[深入了解](/MicrosoftTeams/manage-apps)
 
-- **Teams 的 ATP 安全連結：** Teams 中的 ATP 安全連結可為 E5 和 ATP 客戶提供更多保護。 
+- **Teams 的 ATP 安全連結：** Teams 中的 ATP 安全連結可為 E5 和 ATP 客戶提供更多保護。
 
 - **GCCH 中的來賓存取:** 在 GCCH 中啟用來賓存取。
 

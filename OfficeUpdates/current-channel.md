@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: c96a838bfa985ff126e2d2bce5fd934dc19090be
-ms.sourcegitcommit: 7a356d1d7f284996ce0aeb80d2d5a0fa47b4a13c
+ms.openlocfilehash: b401b571b0153c9ba5ed687413bfd6e41241522a
+ms.sourcegitcommit: 20d6aeee3cb6cd16e7f8d6dd66a48c82d4049fb6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66892253"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66958007"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -148,17 +148,15 @@ ms.locfileid: "66892253"
 ### <a name="teams"></a>Teams
 
 - **使用聊天、電子郵件或電話的家長連線：** 授課者按一下即可透過聊天、電子郵件或電話來與學生的監護人連絡。
- 
-- **GCC-High 中的機器人：** GCC-High 客戶可以在他們的 Microsoft Teams 環境中建置和部署機器人。 此版本支援自訂的企業營運機器人。
- 
+
 - **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
- 
+
 - **Moodle LMS 與 Microsoft Teams 整合：** 除了與 Canvas 和 Blackboard 整合之外，Microsoft 現已與 Moodle LMS 合作，以提供順暢的整合式學習體驗。 Microsoft Teams 會議 LTI 和 Teams 課程 LTI 應用程式現在可在 Moodle 內使用。
- 
+
 - **授與或控制虛擬桌面基礎結構上的 Azure Window Desktop：** Azure Window Desktop 上的使用者將能夠在通話和會議期間授與和取得控制。 如果您希望另一個會議參與者變更檔案、協助您簡報，或示範某些項目，您可以授與控制權給該人員。 您與該人員可以同時控制分享，而且您可以隨時取回控制權。 若要在其他人分享時取得控制權，請選取 [要求控制]。 然後，分享的人員可以核准或拒絕您的要求。 取得控制權時，您可以對分享的畫面進行選取、編輯及其他修改。 完成時，請選取 [釋出控制權] 以停止分享控制權。
- 
+
 - **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
- 
+
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -337,7 +335,7 @@ ms.locfileid: "66892253"
 - 我們已修正 Office 呈現程式碼中意外停止回應的問題。
 
 
-### <a name="project"></a>Project 
+### <a name="project"></a>Project
 
 - 我們已修正 Office 呈現程式碼中意外停止回應的問題。
 
@@ -527,7 +525,7 @@ ms.locfileid: "66892253"
 ### <a name="teams"></a>Teams
 
 - **電腦音訊的語音等候音樂：** 這項功能可確保音樂可以在電腦音訊暫留時播放。
- 
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -587,7 +585,7 @@ ms.locfileid: "66892253"
 
 
  - **Teams 中工作流程的訊息動作進入點：** 訊息型工作流程對於共同作業和效率來說是非常強大的。 透過訊息動作進入點，使用者可以檢視/搜尋適當的工作流程，以及觸發預先設置的訊息動作溢出區功能表工作流程。
- 
+
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 <br/>
@@ -1012,11 +1010,11 @@ ms.locfileid: "66892253"
 ### <a name="teams"></a>Teams
 
 - **在 Teams 會議中舉手：** 在會議期間，您可以虛擬地舉手，讓其他人知道您想要參與，而不會中斷交談。
-  
+
 - **Teams 中工作流程的通道進入點：** 可以有多個工作流程促進通道內或跨通道之間的共同作業。 透過通道型進入點，使用者可以檢視/搜尋適當的工作流程，以及從管理通道功能表及應用程式觸發預先設定的工作流程。 這可讓您在通道層級輕鬆探索及執行工作流程。
- 
+
 - **驚訝的表情符號：** 會議中的參與者現在可以傳送驚訝的表情符號。
-  
+
 - **Teams 的音樂模式：** 在音樂模式下，我們支援高達 32 kHz 的取樣率單聲道音訊 (128 kbps)，並最佳化內部音訊處理設定，以高逼真度再現音樂。 Teams 將根據可用頻寬自動調整音訊位元速率，在降至 48 kbps 的同時仍能提供良好的音質。 如有需要，我們還為使用者提供關閉回音消除、噪音抑制和增益控制等元件的選項。 若要從此提升的逼真度中獲益，專業麥克風和耳機或高品質外部喇叭是理想選擇 (勿使用藍牙耳機)。 膝上型電腦 (如 Surface Book) 上的內建式麥克風和喇叭也將提供良好體驗。
 
 ### <a name="word"></a>Word
@@ -1160,7 +1158,7 @@ ms.locfileid: "66892253"
 - 我們修正了一個問題，即當使用者開啟已儲存為其他名稱的專案時，已手動排程的工作被重新排程至更早的日期。 在開啟這些專案時，使用者不應再看到已手動排程的工作被重新排程。
 
 
-- 我們已修正載入自訂報告時某些專案會意外關閉的問題。 
+- 我們已修正載入自訂報告時某些專案會意外關閉的問題。
 
 
 ### <a name="word"></a>Word
@@ -1336,7 +1334,7 @@ ms.locfileid: "66892253"
 
 - **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。
 
-- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。 
+- **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
 
 - **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
 
@@ -2397,7 +2395,7 @@ ms.locfileid: "66892253"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 修正安裝 2021 年 4 月安全性更新之後，Excel 的自動化增益集無法載入的問題。 請針對未使用目前通道的使用者使用所提供的因應措施。[深入了解](https://support.microsoft.com/en-us/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。 
+- 修正安裝 2021 年 4 月安全性更新之後，Excel 的自動化增益集無法載入的問題。 請針對未使用目前通道的使用者使用所提供的因應措施。[深入了解](https://support.microsoft.com/en-us/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb)。
 
 
 ### <a name="outlook"></a>Outlook
