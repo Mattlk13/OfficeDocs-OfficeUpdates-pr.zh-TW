@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b6a2712d0a9fe62994597d7a5a8bf2a3381d14bb
-ms.sourcegitcommit: 7a356d1d7f284996ce0aeb80d2d5a0fa47b4a13c
+ms.openlocfilehash: 123de8ed63da76a00fd72cc2d13ee177f517ac37
+ms.sourcegitcommit: 653d1a5c060e62e9f7f87a8a2c6581734760f8f4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2022
-ms.locfileid: "66892263"
+ms.lasthandoff: 07/23/2022
+ms.locfileid: "66983468"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -33,6 +33,20 @@ ms.locfileid: "66892263"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2207-july-22"></a>版本 2207: 7 月 22 日
+*版本 2207 (組建 15427.20148)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="word"></a>Word
+
+- 我們已修正在列印含有索引的頁面時，可能無法列印的問題。
 
 
 
@@ -2257,7 +2271,7 @@ ms.locfileid: "66892263"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -7717,7 +7731,7 @@ ms.locfileid: "66892263"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
