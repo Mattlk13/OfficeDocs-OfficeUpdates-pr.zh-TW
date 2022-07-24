@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2edff2449c9dd8102c7828c53c5eb2331436adaf
-ms.sourcegitcommit: 60a4154305551c1470b34535662395191b25742c
+ms.openlocfilehash: b50a872810f16e7d294ceb41e12ca063d41c6a11
+ms.sourcegitcommit: 978f7f40e833be4f621c2fd481c4799b67b43f6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66824966"
+ms.lasthandoff: 07/22/2022
+ms.locfileid: "66964464"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -31,11 +31,55 @@ ms.locfileid: "66824966"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+## <a name="version-2208-july-22"></a>版本 2208: 7 月 22 日
+*版本 2208 (組建 15519.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致範本無法正確載入的敏感度標籤範本數量限制問題。
+
+
+- 我們已修正 Outlook 搜尋中，綠色的 [已回覆] 圖示未在已回覆電子郵件旁出現的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Outlook (WordMail) 訊息會在放大或縮小時出現白色背景閃爍的問題。
+
+
+- 我們已修正當相似性檢查程式無法使用時，新增使用者行為記錄的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 ## <a name="version-2208-july-15"></a>版本 2208：7 月 15 日
 *版本 2208 (組建 15511.20000)*
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **對 Power BI 中的資料模型做出改善：** 我們已對 Excel 中資料模型處理和 Power Pivot 中使用的分析服務元件進行部分升級。 這是資料模型引擎的維護更新，不會明顯變更與 Excel 資料模型相關的任何互動。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- **使用者定義的權限現在支援網域名稱限制：** 當使用者選擇針對使用者定義許可權設定的敏感度標籤時，他們現在可以使用網域名稱來限制特定個人或該網域所有人員的檔案存取權。 例如，您可以指定「someone@example.com」或「@example.com」，而權限將會根據這些參數而受到限制。
+
+
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6278,6 +6322,7 @@ ms.locfileid: "66824966"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15519.20000|version-2208-july-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15511.20000|version-2208-july-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
@@ -6287,5 +6332,4 @@ ms.locfileid: "66824966"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15225.20000|version-2205-april-29|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
