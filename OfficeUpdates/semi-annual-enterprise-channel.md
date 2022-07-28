@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 087993f823e80db8ab4cd7d72321c9830c90660f
-ms.sourcegitcommit: 238419e709e3642e6bc0670b53cb7ad098537cbb
+ms.openlocfilehash: bf0967d7254244a66c57507b06d16d3ae46d9342
+ms.sourcegitcommit: 44f51f3421544562c79a2ec3a3d9b72b203e78b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2022
-ms.locfileid: "66800231"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036882"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -25,6 +25,24 @@ ms.locfileid: "66800231"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 依預設將包括在其中。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+## <a name="version-2202-july-26"></a>版本 2202: 7 月 26 日
+*版本 2202 (組建 14931.20646)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+
+- 我們已修正嘗試開啟在 Access 中建立的 ACCDE 或 MDE 檔案時，導致錯誤的問題。 如需詳細資訊，請參閱 [嘗試開啟以不同 Access 版本建立之 ACCDE/MDE 檔案時發生錯誤。](https://support.microsoft.com/topic/f4cd36cd-549e-42ba-b75a-dfe964294a81)
+
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -2821,7 +2839,7 @@ ms.locfileid: "66800231"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -2829,7 +2847,7 @@ ms.locfileid: "66800231"
 
 ### <a name="word"></a>Word
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件

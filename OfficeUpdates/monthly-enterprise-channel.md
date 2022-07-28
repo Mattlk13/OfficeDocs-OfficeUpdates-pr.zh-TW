@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: fbee347f2da32ea83ffef298af270240da65403a
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: d21a88e552e8d2e2c839dd8f1bd18f449b3c0b37
+ms.sourcegitcommit: 44f51f3421544562c79a2ec3a3d9b72b203e78b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767369"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036862"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -23,6 +23,22 @@ ms.locfileid: "66767369"
 
 [//]: # (DO NOT REMOVE)
 
+## <a name="version-2205-july-26"></a>版本 2205: 7 月 26 日
+*版本 2205 (組建 15225.20370)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+
+- 我們已修正嘗試開啟在 Access 中建立的 ACCDE 或 MDE 檔案時，導致錯誤的問題。 如需詳細資訊，請參閱 [嘗試開啟以不同 Access 版本建立之 ACCDE/MDE 檔案時發生錯誤。](https://support.microsoft.com/topic/f4cd36cd-549e-42ba-b75a-dfe964294a81)
+
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 
 ## <a name="version-2205-july-12"></a>版本 2205: 7 月 12 日
@@ -1708,7 +1724,7 @@ ms.locfileid: "66767369"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
     
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
