@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 123de8ed63da76a00fd72cc2d13ee177f517ac37
-ms.sourcegitcommit: 653d1a5c060e62e9f7f87a8a2c6581734760f8f4
+ms.openlocfilehash: 90eb254b37b5ed0b589b149ab12ab94dd2ad2e49
+ms.sourcegitcommit: 44f51f3421544562c79a2ec3a3d9b72b203e78b6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2022
-ms.locfileid: "66983468"
+ms.lasthandoff: 07/27/2022
+ms.locfileid: "67036894"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -37,6 +37,10 @@ ms.locfileid: "66983468"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2207-july-25"></a>版本 2207: 7 月 25 日
+*版本 2207 (組建 15427.20156)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2207-july-22"></a>版本 2207: 7 月 22 日
 *版本 2207 (組建 15427.20148)*
