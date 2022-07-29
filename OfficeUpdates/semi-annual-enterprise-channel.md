@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: bf0967d7254244a66c57507b06d16d3ae46d9342
-ms.sourcegitcommit: 44f51f3421544562c79a2ec3a3d9b72b203e78b6
+ms.openlocfilehash: 8cb7a989c3627b6e4f4f783a947836ef6406972b
+ms.sourcegitcommit: e013c39c293e99bcdc1a28e98a210c0c7b13973b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2022
-ms.locfileid: "67036882"
+ms.lasthandoff: 07/28/2022
+ms.locfileid: "67055173"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -46,6 +46,16 @@ ms.locfileid: "67036882"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2108-july-27"></a>版本 2108: 7 月 27 日
+*版本 2108 (組建 14326.21080)*
+
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 
 ## <a name="version-2202-july-12"></a>版本 2202：7 月 12 日
