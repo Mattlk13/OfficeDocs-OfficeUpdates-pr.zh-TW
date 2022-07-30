@@ -44,7 +44,6 @@
 ## [Office LTSC 2021 和 Office 2021 更新 (C2R)](update-history-office-2021.md)
 ## [Office 2016 和 2019 更新 (C2R)](update-history-office-2019.md)
 ## [Office 2013 更新 (C2R)](update-history-office-2013.md)
-## [Office 2010 更新 (C2R)](update-history-office-2010-click-to-run.md)
 ## [Office 2013 和 2016 更新 (MSI)](office-updates-msi.md)
 ## [Outlook 2013 和 2016 更新 (MSI)](outlook-updates-msi.md)
 ## [Office 非安全性更新 (MSI)](office-MSI-non-security-updates.md)

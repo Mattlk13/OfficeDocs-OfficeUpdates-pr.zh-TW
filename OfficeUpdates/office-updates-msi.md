@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新更新資訊連結
-ms.openlocfilehash: e42b36aeb59eeeb2915bf671a36f5436986569ee
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: 551c30f92c10555bbc74e4c856a68869aa77a402
+ms.sourcegitcommit: 6ae6f7fb35630e2be78db09689484441ea51035f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767349"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67102166"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -40,16 +40,7 @@ ms.locfileid: "66767349"
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
 |**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 7 月 PU  <br/> [KB5002078](https://support.microsoft.com/help/5002078) <br/> |
-   
-## <a name="office-2010-updates"></a>Office 2010 更新
-> [!IMPORTANT]
-> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。 
-
-|**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
-|:-----|:-----|:-----|
-|**2010** <br/> Office 2010 套裝軟體  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010 伺服器  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010 產品  <br/> Project Server 2010  <br/> FAST Search Server 2010 for SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |2021 年 5 月 PU  <br/> [KB5002076](https://support.microsoft.com/help/5002076) <br/> |
-   
-
+      
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月發行的更新
 [2022 年 7 月的安全性和非安全性更新：KB5002078](https://support.microsoft.com/help/5002078)
