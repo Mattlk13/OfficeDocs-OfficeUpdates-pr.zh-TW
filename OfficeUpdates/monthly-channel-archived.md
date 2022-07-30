@@ -1,26 +1,23 @@
 ---
-title: 每月通道版本的封存版本資訊
-ms.author: dacoulte
-author: anankani
-manager: anankani
+title: 目前通道版本的已存檔版本資訊
+ms.author: TimDavenport
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: 為 IT 專業人員提供 Office 365 專業增強版每月通道版本的版本資訊
-ms.openlocfilehash: 02b3b278e71d17ee2e1f496e22a1bdd6ab0f5d87
-ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
+description: 為 IT 專業人員提供 Microsoft 365 Apps 目前通道版本的版本資訊
+ms.openlocfilehash: 5e39301bdd695c3deac51812fb3052dfa638a54d
+ms.sourcegitcommit: 3913e93fe9ba8b1d2447b92ba80bc54a2224b8f9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/20/2022
-ms.locfileid: "65620433"
+ms.lasthandoff: 07/29/2022
+ms.locfileid: "67071718"
 ---
-# <a name="archived-release-notes-for-monthly-channel"></a>每月通道的封存版本資訊
-這些版本資訊可提供 Office 365 專業增強版、Visio Pro for Office 365、Project Online 電腦版用戶端以及 Office 365 商務版的每月通道更新所含新功能和非安全性更新的相關資訊。
-
- > [!NOTE]
->- 我們通常會在一段時間每個月推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+# <a name="archived-release-notes-for-current-channel"></a>目前通道的已存檔版本資訊
+這些版本資訊提供有關 Microsoft 365 Apps 目前通道更新中包含的新功能和非安全性更新的資訊。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -2271,7 +2268,7 @@ ms.locfileid: "65620433"
 
 - **順暢地切換：** 全新的帳戶管理員會在同一個地方顯示您所有的 Office 365 公司和個人帳戶。 在帳戶間切換就是這麼簡單。 [深入了解](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。[深入了解](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+- **即將推出：** 查看 Office 即將推出的新鮮變更，立即試用並給予我們意見反應。 [深入了解](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
 
 - **在註解中使用 @Mentions 提及功能，讓共同作業更有效率：** 共同作業變得更容易了！ 現在您可以在文件註解中 @提及小組成員，而他們會自動收到電子郵件通知，並將他們帶至該文件中。
 
