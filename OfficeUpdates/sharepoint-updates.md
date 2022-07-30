@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 訂閱版本、SharePoint Server 2019、SharePoint Server 2016 及 SharePoint Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: fbdea48b8698cdb2332efb37098c4990557fd194
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: e9477a6a8f0574ff397330c336ad3cbfc94717f6
+ms.sourcegitcommit: 6ae6f7fb35630e2be78db09689484441ea51035f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767595"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67102167"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -295,6 +295,8 @@ ms.locfileid: "66767595"
 <a name="BKMK_2010"> </a>
 
 ## <a name="sharepoint-2010-update-history"></a>SharePoint 2010 更新歷程記錄
+> [!IMPORTANT]
+> SharePoint 2010 的支援已於 2021 年 4 月 13 日結束。 
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
