@@ -8,17 +8,17 @@ ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
-description: 為 IT 專業人員提供 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本的最新更新資訊連結
-ms.openlocfilehash: b6e3bfa4e9f42622193c2c2d5fd39746d0dcfa48
-ms.sourcegitcommit: 769be997735f1a3362ef3357dc0862247852e6dc
+description: 為 IT 專業人員提供 Outlook 2016 和 Outlook 2013 永久版本的最新更新資訊連結
+ms.openlocfilehash: a0ea95099f829f14712c993e331792bbedb5d401
+ms.sourcegitcommit: 6ae6f7fb35630e2be78db09689484441ea51035f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/04/2022
-ms.locfileid: "64637167"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67102202"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
-使用此頁面上的連結取得 Outlook 2016、Outlook 2013 和 Outlook 2010 永久版本最新更新的詳細資訊，並下載更新。
+使用此頁面上的連結取得 Outlook 2016 和 Outlook 2013 永久版本最新更新的詳細資訊，並下載更新。
   
 > [!NOTE]
 > - 本文中的資訊僅適用於使用 Windows Installer (MSI) 安裝技術的 Outlook 永久版本。例如，如果您安裝了 Outlook 大量授權版本，像是 Office 專業增強版 2016 隨附的 Outlook。
@@ -53,10 +53,3 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 |:-----|:-----|:-----|
 |SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2017 年 10 月 PU <br/>[KB4011178](https://support.microsoft.com/help/4011178) <br/> |2021 年 6 月 PU <br/>[KB5001934](https://support.microsoft.com/help/5001934)  |
    
-## <a name="outlook-2010-updates"></a>Outlook 2010 更新
-> [!IMPORTANT]
-> 我們已於 2020 年 10 月 13 日終止對 Office 2010 的支援。 如需詳細資訊，請參閱 [Office 2010 終止支援藍圖](/DeployOffice/office-2010-end-support-roadmap)。
-
-|**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
-|:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |2015 年 10 月 PU <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Office 2010 for MAPI/HTTP 2015 年 4 月 PU <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |2021 年 4 月 PU <br/>[KB4493185](https://support.microsoft.com/help/4493185) <br><br><br><br/>|
