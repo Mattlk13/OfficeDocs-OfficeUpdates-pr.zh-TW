@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: b50a872810f16e7d294ceb41e12ca063d41c6a11
-ms.sourcegitcommit: 978f7f40e833be4f621c2fd481c4799b67b43f6e
+ms.openlocfilehash: e1a8f8ac0839f21689c9af859fefbd2a2f7a311b
+ms.sourcegitcommit: 949cfe20aefa70a4b10dd6b699786e678345dc55
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66964464"
+ms.lasthandoff: 07/30/2022
+ms.locfileid: "67077663"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,54 @@ ms.locfileid: "66964464"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2208-july-29"></a>版本 2208: 7 月 29 日
+*版本 2208 (組建 15522.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="office-suite"></a>Office 套件
+
+- **已在「投票」應用程式中新增了新的「評等」問題：** 許多 Teams 使用者想要有個能快速取得會議出席者對於會議內容的滿意程度或對會議內容了解狀況的意見反應之方法。 因此，我們已在 Microsoft Teams 內的 [投票] 應用程式中新增 [評等] 問題類型。 會議擁有者可以輕鬆地建立和啟動評等投票，以增加參與度並收集會議出席者的意見反應，以及即時分享結果。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在安全性警告上按一下 [啟用內容] 之後，圖片的縮圖內容無法在投影片上正確轉譯的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當配置模式設定為手動時，在 [網狀圖] 檢視中向下卷動時不一定會繪製節點的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用者無法開啟指向 SPO/OD4B 上檔案書籤之本地受管理檔案的連結問題。
+
+
+- 我們已修正「追蹤修訂」中的內部連結呈現為「錯誤！ 超連結參考無效。」
+
+
+- 我們已修正應用程式在開啟 Outlook 郵件的 HTML 檔案版本時發生延遲的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正某些使用者無法存取 SPO 上託管的最新版本 Excel 檔案，並且看到「重新更新建議」錯誤訊息的問題。
+
+
+
+[//]: # (請勿移除 BUGDETAILS 內容結尾)
 
 ## <a name="version-2208-july-22"></a>版本 2208: 7 月 22 日
 *版本 2208 (組建 15519.20000)*
@@ -6322,6 +6370,7 @@ ms.locfileid: "66964464"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|Insiders| |16.0.15522.20000|version-2208-july-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15519.20000|version-2208-july-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15511.20000|version-2208-july-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
@@ -6331,5 +6380,4 @@ ms.locfileid: "66964464"
 [//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15227.20000|version-2206-may-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
