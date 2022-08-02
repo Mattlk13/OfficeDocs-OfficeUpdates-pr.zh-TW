@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理員功能的版本資訊。
-ms.openlocfilehash: cbc6c0e3b1ee4879f31f257356ef94cef4689652
-ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
+ms.openlocfilehash: c1f1d66915ccdbc2846d74bb2e54f62bf888fe3e
+ms.sourcegitcommit: ed41dc35c69ab71c8b2d1c1c417763f7514ff646
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66826928"
+ms.lasthandoff: 08/02/2022
+ms.locfileid: "67147495"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
@@ -28,22 +28,29 @@ ms.locfileid: "66826928"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="july-14-2022"></a>2022 年 7 月 14 日
+## <a name="july-28-2022"></a>2022 年 7 月 28 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-- **停用匿名或未經驗證使用者的聊天寫入存取：** IT 系統管理員現在可以針對非同盟使用者和透過連結加入 Teams 會議的未經驗證使用者，停用原則層級的聊天寫入存取權，此連結必須與停用的會議聊天原則搭配使用，以提供額外的安全性來防止資料外泄。
 
-- **Microsoft Teams：Microsoft Teams Connect共用頻道：** 工作場所共同作業已逐漸成為數位和雲端式。 在我們的互連世界中，我們需要與組織以外的人員共同作業—與合作夥伴通訊、追蹤供應商，以及與客戶聯繫。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 透過 Teams Connect，我們可讓您更輕鬆地與組織內外的人員共同作業，協助您的擴充小組跨組織界限有效且有效率地工作。 透過共用通道，多個組織可以在共用空間中共同作業。 進行交談、排程會議、共用和共同撰寫檔案，以及在應用程式上共同作業，而不需要切換租使用者。
+- **Brightspace (D2L) LMS 與 M365 整合：** Microsoft 現在已與 Brightspace (D2L) LMS 合作，以提供更順暢的整合式學習體驗。 現在可在 Brightspace 中使用 Microsoft Teams 會議 LTI 和班級 LTI 應用程式。  Teams 課程 LTI 可讓授課者使用課程的名冊資訊，為其 Brightspace 課程建立小組。 Teams 會議 LTI 可讓授課者和學生存取、排程及管理 Brightspace LMS 內的 Teams 會議。 [註冊 Microsoft 365 LMS LTI 整合](https://m365crmedu.powerappsportals.com/LMSSignup/)
+
+- **開啟與 M365 的 LMS 整合：** Microsoft 現在已與 Open LMS 合作，以提供更順暢的整合式學習體驗。 Microsoft Teams 會議 LTI 和班級 LTI 應用程式現在可在 Open LMS 中使用。  Teams 課程 LTI 可讓授課者使用課程的名冊資訊，為其 Open LMS 課程建立小組。 Teams 會議 LTI 可讓授課者和學生存取、排程及管理 Brightspace LMS 內的 Teams 會議。 [深入了解](/microsoft-365/lti/open-lms-plugin-configuration)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="july-14-2022"></a>2022 年 7 月 14 日
+
+- **停用匿名或未經驗證使用者的聊天寫入存取：** IT 系統管理員現在可以針對非同盟使用者和透過連結加入 Teams 會議的未經驗證使用者，停用原則層級的聊天寫入存取權，此連結必須與停用的會議聊天原則搭配使用，以提供額外的安全性來防止資料外泄。
+
+- **Microsoft Teams：Microsoft Teams Connect共用頻道：** 工作場所共同作業已逐漸成為數位和雲端式。 在我們的互連世界中，我們需要與組織以外的人員共同作業—與合作夥伴通訊、追蹤供應商，以及與客戶聯繫。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 透過 Teams Connect，我們可讓您更輕鬆地與組織內外的人員共同作業，協助您的擴充小組跨組織界限有效且有效率地工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
+
 ## <a name="june-23-2022"></a>2022 年 6 月 23 日
 
-- **通話佇列代理程式的動態呼叫端識別碼：** 通話佇列代理程式現在可以使用通話佇列電話號碼作為來電者識別碼，從通話應用程式撥打電話。 這可確保收件者正確識別通話，而且回呼號碼是通話佇列號碼，而不是代理程式的個人行。
+- **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
 
-- **Moodle LMS 與 Microsoft Teams 整合：** 除了與 Canvas 和 Blackboard 整合之外，Microsoft 現在還與 Moodle LMS 合作，以提供順暢的整合式學習體驗。 現在可以在 Moodle 中使用 Microsoft Teams 會議 LTI 和 Teams 班級 LTI 應用程式。 [深入瞭解 Moodle LMS 整合](/microsoft-365/lti/moodle-plugin-configuration)
+- **Moodle LMS 與 Microsoft Teams 整合：** 除了與 Canvas 和 Blackboard 整合之外，Microsoft 現已與 Moodle LMS 合作，以提供順暢的整合式學習體驗。 Microsoft Teams 會議 LTI 和 Teams 課程 LTI 應用程式現在可在 Moodle 內使用。 [深入瞭解 Moodle LMS 整合](/microsoft-365/lti/moodle-plugin-configuration)
 
 
 
@@ -99,7 +106,7 @@ ms.locfileid: "66826928"
 
 - **Azure 虛擬桌面上的 VDI 的在家工作動態緊急通話:** 這項功能可讓使用者在家工作時，在 Azure 虛擬桌面上的 VDI 上進行緊急通話。 它可讓使用者驗證 (以及在必要時，編輯) 將與緊急回應程式進行通訊的電子郵件地址。
 
-- **Teams 系統管理中心：每位使用者已加入的團隊：** Teams 系統管理員可以檢視使用者已加入的小組清單。
+- **Teams 系統管理中心：每個使用者加入的團隊：** Teams 系統管理員可以檢視使用者已加入的團隊清單。
 
 - **系統管理員可以在傳訊擴充功能中釘選應用程式：** 透過 Teams 系統管理中心的應用程式設定原則，系統管理員現在可以在 Teams 撰寫體驗中釘選具有傳訊擴充功能的應用程式。 [深入了解](/microsoftteams/teams-app-setup-policies)
 
@@ -183,7 +190,7 @@ ms.locfileid: "66826928"
 
 ## <a name="december-09-2021"></a>2021 年 12 月 9 日
 
-- **Teams 系統管理中心：每位使用者已加入的團隊：** Teams 系統管理員可以檢視使用者已加入的小組清單。
+- **Teams 系統管理中心：每個使用者加入的團隊：** Teams 系統管理員可以檢視使用者已加入的團隊清單。
 
 - **Teams 系統管理中心的首頁自訂：** IT 系統管理員可以在 Teams 系統管理中心自訂首頁。
 
