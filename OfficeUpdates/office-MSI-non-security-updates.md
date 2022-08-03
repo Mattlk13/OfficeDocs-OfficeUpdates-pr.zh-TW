@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: fa53ad222931942f62b26cff0ed08ffb7368026f
-ms.sourcegitcommit: 89b824bcb99fcfc33883d19bb3a2c57e8f17d8f0
+ms.openlocfilehash: b25ca1c60891c15f0e64ffa52a7e174dac555ddb
+ms.sourcegitcommit: 3e97a393e0a1025e1c057bc06702909e41e18ebc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/06/2022
-ms.locfileid: "66642828"
+ms.lasthandoff: 08/03/2022
+ms.locfileid: "67179884"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -25,6 +25,13 @@ ms.locfileid: "66642828"
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="august--2-2022"></a>2022 年 8 月 2 日
+**Office 2016**<br/>
+Microsoft Office 2016 的更新 ([KB5002248](https://support.microsoft.com/help/5002248)) </br>
+
+**Office 2013**<br/>
+Microsoft Office 2013 的更新 ([KB5002250](https://support.microsoft.com/help/5002250)) </br>
 
 ## <a name="july-5-2022"></a>2022 年 7 月 5 日
 **Office 2016**<br/>
@@ -50,11 +57,6 @@ Microsoft Project 2016 的更新 ([KB5002132](https://support.microsoft.com/help
 Microsoft Office 2016 的更新 ([KB5002160](https://support.microsoft.com/help/5002160)) </br>
 商務用 Skype 2016 更新 ([KB5002106](https://support.microsoft.com/help/5002106)) </br>
 
-## <a name="february-1-2022"></a>2022 年 2 月 1 日
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB5002138](https://support.microsoft.com/help/5002138)) </br>
 
-**Office 2013**<br/>
-Microsoft Office 2013 的更新 ([KB5002151](https://support.microsoft.com/help/5002151)) </br>
 
 </br>
