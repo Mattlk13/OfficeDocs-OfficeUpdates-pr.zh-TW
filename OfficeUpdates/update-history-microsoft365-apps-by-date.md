@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 21d03c66b140426104a044be8b64e7dd3d1574cf
-ms.sourcegitcommit: e013c39c293e99bcdc1a28e98a210c0c7b13973b
+ms.openlocfilehash: f524c01704d92498e13a1ad417a57a66031b33e7
+ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67055163"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "67242490"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,7 +33,7 @@ ms.locfileid: "67055163"
 
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2206<br/>|15330.20264<br/>|2022 年 7 月 18 日<br/>|2022 年 7 月 12 日<br/>|版本 2207 已發行<br/>|
+|目前通道<br/>|2207<br/>|15427.20194<br/>|2022 年 8 月 3 日<br/>|2022 年 8 月 3 日<br/>|版本 2208 已發行<br/>|
 |每月企業頻道<br/>|2205<br/>|15225.20370<br/>|2022 年 7 月 26 日<br/>|2022 年 7 月 12 日<br/>|2022 年 9 月 13 日<br/>|
 |每月企業頻道<br/>|2204<br/>|15128.20312<br/>|2022 年 7 月 12 日<br/>|2022 年 6 月 14 日<br/>|2022 年 8 月 9 日<br/>|
 |半年企業通道 (預覽)<br/>|2202<br/>|14931.20646<br/>|2022 年 7 月 26 日<br/>|2022 年 3 月 8 日<br/>|2022 年 9 月 13 日<br/>|
@@ -53,6 +53,7 @@ ms.locfileid: "67055163"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2022|8 月 3 日|[版本 2207 (組建 15427.20194)](current-channel.md#version-2207-august-03)| | | |
 |2022|7 月 27 日| | | |[版本 2108 (組建 14326.21080)](semi-annual-enterprise-channel.md#version-2108-july-27)|
 |2022|7 月 26 日| |[版本 2005 (組建 15225.20370)](monthly-enterprise-channel.md#version-2205-july-26) |[版本 2202 (組建 14931.20646)](semi-annual-enterprise-channel-preview.md#version-2202-july-26)|[版本 2202 (組建 14931.20646)](semi-annual-enterprise-channel.md#version-2202-july-26)|
 |2022|7 月 18 日|[版本 2206 (組建 15330.20264)](current-channel.md#version-2206-july-18)| | | |

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 永久版本的更新歷程記錄。
-ms.openlocfilehash: 6f61c28d6874d7cd0246f3fe1983a8ff74c5c71b
-ms.sourcegitcommit: c86b3c2f778d1e1e82a1278849355a95df41c47b
+ms.openlocfilehash: ced23a7d620fc39fdebf7301e49eb21c3177ea67
+ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/19/2022
-ms.locfileid: "66853333"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "67242460"
 ---
 # <a name="update-history-for-office-ltsc-2021-and-office-2021"></a>Office LTSC 2021 和 Office 2021 的更新歷程記錄
 
@@ -81,12 +81,12 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 8 月 3 日|版本 2207 (組建 15427.20194)|
 |2022 年 7 月 18 日|版本 2206 (組建 15330.20264)|
 |2022 年 7 月 12 日|版本 2206 (組建 15330.20246)|
 |2022 年 7 月 6 日|版本 2206 (組建 15330.20230)|
 |2022 年 6 月 29 日|版本 2206 (組建 15330.20196)|
 |2022 年 6 月 14 日|版本 2205 (組建 15225.20288)|
-|2022 年 5 月 24 日|版本 2205 (組建 15225.20204)|
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -100,6 +100,7 @@ Microsoft 發行 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 的安
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 5 月 24 日|版本 2205 (組建 15225.20204)|
 |2022 年 5 月 17 日|版本 2204 (組建 15128.20248)|
 |2022 年 5 月 10 日|版本 2204 (組建 15128.20224)|
 |2022 年 4 月 26 日|版本 2204 (組建 15128.20178)|
