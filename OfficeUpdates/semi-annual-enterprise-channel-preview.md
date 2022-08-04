@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: a4628901d0983c800b710957b5886104b40ebf4f
-ms.sourcegitcommit: 44f51f3421544562c79a2ec3a3d9b72b203e78b6
+ms.openlocfilehash: ee24f798b575e94c5e43484c9c2d27dde499693b
+ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2022
-ms.locfileid: "67036852"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "67242550"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -349,8 +349,6 @@ ms.locfileid: "67036852"
 - **Excel 4.0 (XML) 巨集會預設停用以提升 Microsoft 365 客戶的安全性。:** 為協助保護客戶，Excel 4.0 (XML) 巨集在 Microsoft 365 中會預設停用。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
 
 ### <a name="outlook"></a>Outlook
-
-- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動。
 
 - **Microsoft 搜尋支援的撰寫 (收件者/副本/密件副本) 建議**：將人員新增至收件者/副本行，現在會由 Microsoft 搜尋提供支援。
 
