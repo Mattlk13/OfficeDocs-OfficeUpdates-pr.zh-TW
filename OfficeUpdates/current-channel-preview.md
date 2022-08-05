@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: fe8adfd5f8c7a1b86cd0ce164a240ae262d62260
-ms.sourcegitcommit: ba109bbc494ec88793c371aa3ae7821db7970b16
+ms.openlocfilehash: fe997254d33a7fd339543e3503bf38a4a21c7301
+ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2022
-ms.locfileid: "67097112"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "67242540"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -33,6 +33,25 @@ ms.locfileid: "67097112"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2207-august-03"></a>版本 2207：8 月 03 日
+*版本 2207 (組建 15427.20194)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="project"></a>Project
+
+- 我們已修正一個問題：在檢視和報告關於指派時段實際成本值時，這些值的總和可能不等於純量值 (您在工作表檢視中看到的值)。 隨著時幅細微性從詳細 (例如每日) 變為較不詳細 (例如每年)，差異可能會增加。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Outlook (WordMail) 訊息會在放大或縮小時出現白色背景閃爍的問題。
 
 
 
@@ -2292,7 +2311,7 @@ ms.locfileid: "67097112"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -5826,7 +5845,7 @@ ms.locfileid: "67097112"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。
@@ -7752,7 +7771,7 @@ ms.locfileid: "67097112"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

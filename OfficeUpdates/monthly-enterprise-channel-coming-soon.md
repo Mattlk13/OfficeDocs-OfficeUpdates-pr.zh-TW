@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供即將在 Microsoft 365 Apps 的每月企業通道版本中推出的變更之預覽
-ms.openlocfilehash: 7ae2915e1989d6d766da895e0dbbf97ec85b813e
-ms.sourcegitcommit: 3e97a393e0a1025e1c057bc06702909e41e18ebc
+ms.openlocfilehash: 9644d12201d8978ec3269f3bfb31f27350900eb4
+ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2022
-ms.locfileid: "67179894"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "67242510"
 ---
 # <a name="coming-soon-to-the-monthly-enterprise-channel"></a>即將在每月企業通道中推出
 
@@ -29,7 +29,7 @@ ms.locfileid: "67179894"
 ### <a name="feature-updates"></a>功能更新
 
 
-本月預期不會有新功能。 如果這在 8 月 9 日之前變更，我們將更新頁面。
+這個月預計沒有新增功能。 如果此資訊在 8 月 9 日之前變更，我們將更新此頁面。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 

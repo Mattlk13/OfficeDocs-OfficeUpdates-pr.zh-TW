@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: b401b571b0153c9ba5ed687413bfd6e41241522a
-ms.sourcegitcommit: 20d6aeee3cb6cd16e7f8d6dd66a48c82d4049fb6
+ms.openlocfilehash: 69ee17bffef1ca7ee5d7db690969d7cfbcbd81ab
+ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66958007"
+ms.lasthandoff: 08/04/2022
+ms.locfileid: "67242530"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -29,6 +29,90 @@ ms.locfileid: "66958007"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+## <a name="version-2207-august-03"></a>版本 2207：8 月 03 日
+*版本 2207 (組建 15427.20194)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **在資源受限的裝置上優化 Excel 重新計算:** 在資源受限的裝置上，(兩個核心或少於 8 GB 的 RAM 或更少)，Excel 現在預設會在單一線程上執行計算，讓重新計算更加優化。 在大部分情況下，使用者應該會看到這些裝置上的計算速度明顯變快。 請注意，在某些情況下需要大量計算，使用者可能會想要將計算執行緒數目設定為 2，以覆蓋此預設值。 如需詳細資訊，請參閱 Microsoft 支援服務網站上 [[進階選項]](https://support.microsoft.com/en-us/office/advanced-options-33244b32-fe79-4579-91a6-48b3be0377c4) 頁面的 [公式] 區段。
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。[深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
+
+- **關閉建議回覆：** Outlook [使回覆更為簡單快速](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) 透過提供僅需幾個字回覆的簡短建議回覆郵件，讓回覆電子郵件更為快速。 部分使用者可能不想看到此選項，因此現在可以關閉此功能。 若要這麼做，請選取檔案 > 選項> 郵件，前往回覆和轉寄區段，然後清除顯示建議的回覆核取方塊。
+
+- **[聽寫] 工具列經過重新設計，效率更高，外觀更簡潔：** Office 聽寫工具列經過了重新設計，具有新的視覺效果、回應更靈敏的使用者介面和更小的尺寸，為重要事項—您的内容騰出空間！<br />在[部落格文章](https://insider.office.com/en-us/blog/redesigned-dictation-toolbar-keeps-the-focus-on-your-content)中查看詳細資料
+
+
+### <a name="word"></a>Word
+
+- **使用語音輸入變得更容易：** 現在，使用位於螢幕側邊的全新低設定檔聽寫工具列，可以更輕鬆地查看您正在輸入的內容。 此外，新的動畫可協助您確認已擷取每個文字。<br />在[部落格文章](https://insider.office.com/en-us/blog/redesigned-dictation-toolbar-keeps-the-focus-on-your-content)中查看詳細資料
+
+### <a name="office-suite"></a>Office 套件
+
+- **新增 SketchUp 檔案至 Office 作品**：SketchUp 是熱門的 3D 圖形程式，可輕鬆地建立可共用的概念設計，例如工業設計、產品設計，以及土木和機械工程中所使用的脈絡完整的架構模型和其他圖形。 現在，這是第一次可以將 SketchUp 圖形 (.skp 檔案) 整合至您在 Word、Excel、PowerPoint 和 Outlook 中您的作品！<br />在[部落格文章](https://insider.office.com/en-us/blog/add-sketchup-files-to-office-creations)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正圖表中儲存格參照顯示不正確的問題。
+
+
+- 我們已修正在選擇 [檔案] > [關閉] 或按 Ctrl+W 關閉最後一個活頁簿時，導致 Excel 完全關閉的問題。
+
+
+- 我們已修正在啟用凍結窗格時，Excel 會使用非預期的大量 CPU，但並非每個凍結窗格都在畫面上顯示的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在其左側滑軌導覽列中看到 [日誌] 模組的問題。
+
+
+- 我們已修正導致 Exchange 2019 使用者看到 Outlook 無法在搜尋結果中的郵件上顯示回覆指標圖示的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正一個問題：在檢視和報告關於指派時段實際成本值時，這些值的總和可能不等於純量值 (您在工作表檢視中看到的值)。 隨著時幅細微性從詳細 (例如每日) 變為較不詳細 (例如每年)，差異可能會增加。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Outlook (WordMail) 訊息會在放大或縮小時出現白色背景閃爍的問題。
+
+
+- 我們已修正在列印含有索引的頁面時，可能無法列印的問題。
+
+
+- 我們已修正「以連結貼上」可能無法自動更新的問題。
+
+
+- 我們已修正的連結不會自動更新為內嵌的 Word 文件的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在解決許多從 OneDrive 或 SharePoint 開啟 Word、Excel 或 PowerPoint 文件時，會導致意外關閉的案例問題。
+
+
+- 我們已修正引入新視覺效果的影片無法顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2206-july-18"></a>版本 2206: 7 月 18 日
 *版本 2206 (組建 15330.20264)*
@@ -1163,7 +1247,7 @@ ms.locfileid: "66958007"
 
 ### <a name="word"></a>Word
 
-- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -2977,7 +3061,7 @@ ms.locfileid: "66958007"
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 ### <a name="outlook"></a>Outlook
@@ -3013,6 +3097,7 @@ ms.locfileid: "66958007"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15427.20194|version-2207-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20264|version-2206-july-18|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
@@ -3022,5 +3107,4 @@ ms.locfileid: "66958007"
 [//]: # (|Win32|CC|Production| |16.0.15225.20204|version-2205-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20248|version-2204-may-17|)
 [//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
-[//]: # (|Win32|CC|Production| |16.0.15128.20178|version-2204-april-26|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
