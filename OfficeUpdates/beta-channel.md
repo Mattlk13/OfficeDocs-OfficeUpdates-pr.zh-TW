@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e1a8f8ac0839f21689c9af859fefbd2a2f7a311b
-ms.sourcegitcommit: 949cfe20aefa70a4b10dd6b699786e678345dc55
+ms.openlocfilehash: 2c345033be8235f81ace82bfd3ae353ac1afefa6
+ms.sourcegitcommit: c20cffbeef364e921b015868d3b4e827472fcd04
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2022
-ms.locfileid: "67077663"
+ms.lasthandoff: 08/06/2022
+ms.locfileid: "67264694"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -28,6 +28,52 @@ ms.locfileid: "67077663"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2208-august-5"></a>版本 2208：8 月 5 日
+*版本 2208 (組建 15601.20028)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正關閉資料庫時，[關閉時清除快取] 選項無法刪除快取的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正工作窗格中頁首格式的問題。
+
+
+- 我們修正了縮放超過 170% 時，Excel 圖表內容遺失的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了透過雲端設定進行設定時，導致某些郵件儲存空間相關的設定無法如預期般套用的問題。
+
+
+- 我們已修正使用 [搜尋人員] 方塊時 Outlook 意外關閉的問題。
+
+
+- 我們修正了嘗試展開群組時，商務用 Skype 意外關閉的問題。
+
+
+- 我們已修正使用者在 Outlook 郵件中選擇 [在瀏覽器中檢視] 選項後，導致檔案無法在 Edge 中開啟的問題。
+
+
+- 我們已修正導致在 Windows Server 2016 上對 Outlook 快顯通知執行的動作停止如預期方式執行的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
@@ -121,13 +167,6 @@ ms.locfileid: "67077663"
 ### <a name="excel"></a>Excel
 
 - **對 Power BI 中的資料模型做出改善：** 我們已對 Excel 中資料模型處理和 Power Pivot 中使用的分析服務元件進行部分升級。 這是資料模型引擎的維護更新，不會明顯變更與 Excel 資料模型相關的任何互動。
-
-
-### <a name="office-suite"></a>Office 套件
-
-- **使用者定義的權限現在支援網域名稱限制：** 當使用者選擇針對使用者定義許可權設定的敏感度標籤時，他們現在可以使用網域名稱來限制特定個人或該網域所有人員的檔案存取權。 例如，您可以指定「someone@example.com」或「@example.com」，而權限將會根據這些參數而受到限制。
-
-
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
