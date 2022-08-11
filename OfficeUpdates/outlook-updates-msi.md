@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Outlook 2016 和 Outlook 2013 永久版本的最新更新資訊連結
-ms.openlocfilehash: a0ea95099f829f14712c993e331792bbedb5d401
-ms.sourcegitcommit: 6ae6f7fb35630e2be78db09689484441ea51035f
+ms.openlocfilehash: 7351a8b9fe69ee02151a64e6cec3e429d48aa249
+ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2022
-ms.locfileid: "67102202"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67296537"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Outlook 版本的最新更新
 
@@ -43,7 +43,7 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|不適用  <br/> |2017 年 11 月 PU <br/>[KB4011240](https://support.microsoft.com/help/4011240) <br/> |2021 年 10 月 PU <br/>[KB5001998](https://support.microsoft.com/help/5001998) 
+|不適用  <br/> |2017 年 11 月 PU <br/>[KB4011240](https://support.microsoft.com/help/4011240) <br/> |2022 年 8 月 PU <br/>[KB5002051](https://support.microsoft.com/help/5002051) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013 更新
 > [!IMPORTANT]
@@ -51,5 +51,5 @@ Outlook 與 Microsof 365 的相容性及內部部署環境取決於您的部署�
 
 |**最新的 Service Pack (SP)**|**最低要求的更新**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2017 年 10 月 PU <br/>[KB4011178](https://support.microsoft.com/help/4011178) <br/> |2021 年 6 月 PU <br/>[KB5001934](https://support.microsoft.com/help/5001934)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |2017 年 10 月 PU <br/>[KB4011178](https://support.microsoft.com/help/4011178) <br/> |2022 年 8 月 PU <br/>[KB5001990](https://support.microsoft.com/help/5001990)  |
    

@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 訂閱版本、SharePoint Server 2019、SharePoint Server 2016 及 SharePoint Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: e9477a6a8f0574ff397330c336ad3cbfc94717f6
-ms.sourcegitcommit: 6ae6f7fb35630e2be78db09689484441ea51035f
+ms.openlocfilehash: ebbfe03940950436af611d8e060637a248a211f3
+ms.sourcegitcommit: a22479e50a1eea7c25c2d084ebaac324a48e6880
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2022
-ms.locfileid: "67102167"
+ms.lasthandoff: 08/10/2022
+ms.locfileid: "67301988"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -36,6 +36,7 @@ ms.locfileid: "67102167"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002247](https://support.microsoft.com/help/5002247)<br/>[KB 5002233](https://support.microsoft.com/help/5002233)<br/>|16.0.14931.20612|2022 年 8 月|
 |SharePoint Server 訂閱版本<br/>|[KB 5002234](https://support.microsoft.com/help/5002234)<br/>|16.0.14931.20502|2022 年 7 月|
 |SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002224](https://support.microsoft.com/help/5002224)<br/>[KB 5002225](https://support.microsoft.com/help/5002225)<br/>|16.0.14931.20418|2022 年 6 月|
 |SharePoint Server 訂閱版本 <br/> SharePoint Server 訂閱版本 MUI/語言修補程式   <br/>|[KB 5002194](https://support.microsoft.com/help/5002194)<br/>[KB 5002144](https://support.microsoft.com/help/5002144)<br/>|16.0.14931.20286|2022 年 5 月|
@@ -51,6 +52,7 @@ ms.locfileid: "67102167"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002246](https://support.microsoft.com/help/5002246)<br/>[KB 5002245](https://support.microsoft.com/help/5002245)<br/>|16.0.10389.20000|2022 年 8 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002229](https://support.microsoft.com/help/5002229)<br/>[KB 5002230](https://support.microsoft.com/help/5002230)<br/>|16.0.10388.20004|2022 年 7 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002212](https://support.microsoft.com/help/5002212)<br/>[KB 5002211](https://support.microsoft.com/help/5002211)<br/>|16.0.10387.20008|2022 年 6 月|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/語言修補程式  <br/>|[KB 5002207](https://support.microsoft.com/help/5002207)<br/>[KB 5002206](https://support.microsoft.com/help/5002206)<br/>|16.0.10386.20011 <br/>16.0.10386.20015|2022 年 5 月|
@@ -102,6 +104,7 @@ ms.locfileid: "67102167"
 
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>|[KB 5002249](https://support.microsoft.com/help/5002249) <br/>|16.0.5356.1000|2022 年 8 月|
 |SharePoint Server 2016  <br/>|[KB 5002231](https://support.microsoft.com/help/5002231) <br/>|16.0.5344.1000|2022 年 7 月|
 |SharePoint Server 2016  <br/>|[KB 5002222](https://support.microsoft.com/help/5002222) <br/>|16.0.5332.1001|2022 年 6 月|
 |SharePoint Server 2016  <br/>|[KB 5002195](https://support.microsoft.com/help/5002195) <br/>|16.0.5317.1000|2022 年 5 月|
@@ -192,6 +195,7 @@ ms.locfileid: "67102167"
     
 |**封裝名稱：**|**KB 號碼**|**版本**|**發行日期**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002238](https://support.microsoft.com/help/5002238) <br/>[KB 5002240](https://support.microsoft.com/help/5002240) <br/>|15.0.5475.1000|2022 年 8 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002215](https://support.microsoft.com/help/5002215) <br/>[KB 5002218](https://support.microsoft.com/help/5002218) <br/>|15.0.5459.1001|2022 年 6 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002200](https://support.microsoft.com/help/5002200) <br/>[KB 5002202](https://support.microsoft.com/help/5002202) <br/>|15.0.5449.1000|2022 年 5 月|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5002185](https://support.microsoft.com/help/5002185) <br/>[KB 5002188](https://support.microsoft.com/help/5002188) <br/>|15.0.5441.1000|2022 年 4 月|
