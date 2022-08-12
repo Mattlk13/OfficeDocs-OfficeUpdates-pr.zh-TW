@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 69ee17bffef1ca7ee5d7db690969d7cfbcbd81ab
-ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
+ms.openlocfilehash: d8ca2e8d2c42250a59c3a0d32f30ee3a6975ae62
+ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2022
-ms.locfileid: "67242530"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67296547"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -27,8 +27,27 @@ ms.locfileid: "67242530"
 
 
 
+## <a name="version-2207-august-09"></a>版本 2207：8 月 09 日
+*版本 2207 (組建 15427.20210)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些人員在開機之後，突然遇到關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正錄製簡報時發生錯誤且錄製會停止的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2207-august-03"></a>版本 2207：8 月 03 日
 *版本 2207 (組建 15427.20194)*
@@ -1247,7 +1266,7 @@ ms.locfileid: "67242530"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -2291,7 +2310,7 @@ ms.locfileid: "67242530"
 
 - 我們已新增一個登錄機碼，以可停用新會議室尋找工具體驗 (與網頁版 Outlook 相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2638,7 +2657,7 @@ ms.locfileid: "67242530"
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -3074,7 +3093,7 @@ ms.locfileid: "67242530"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解決了在方程式中正確顯示字型的問題。
+- 此變更解决了在方程式中正確顯示字型的問題。
 
 
 - 我們已修正在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小之問題。
@@ -3097,6 +3116,8 @@ ms.locfileid: "67242530"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15427.20212|version-2207-august-09|)
+[//]: # (|Win32|CC|Production| |16.0.15427.20210|version-2207-august-09|)
 [//]: # (|Win32|CC|Production| |16.0.15427.20194|version-2207-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20264|version-2206-july-18|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
@@ -3105,6 +3126,4 @@ ms.locfileid: "67242530"
 [//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20288|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20204|version-2205-may-24|)
-[//]: # (|Win32|CC|Production| |16.0.15128.20248|version-2204-may-17|)
-[//]: # (|Win32|CC|Production| |16.0.15128.20224|version-2204-may-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
