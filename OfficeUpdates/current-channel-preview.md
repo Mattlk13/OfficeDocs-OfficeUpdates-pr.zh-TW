@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: fe997254d33a7fd339543e3503bf38a4a21c7301
-ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
+ms.openlocfilehash: 3389b7d34f26c861d799c00fbb6c9950fce66feb
+ms.sourcegitcommit: ec4c21fae8e447c9cdf67eae3c1ffd080b04cc30
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2022
-ms.locfileid: "67242540"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67284550"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -33,6 +33,25 @@ ms.locfileid: "67242540"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2207-august-08"></a>版本 2207：8 月 08 日
+*版本 2207 (組建 15427.20210)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致某些人員在開機之後，突然遇到關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正錄製簡報時發生錯誤且錄製會停止的問題。
 
 
 
@@ -2311,7 +2330,7 @@ ms.locfileid: "67242540"
 
 ### <a name="word"></a>Word
 
-- 我們已修正無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
+- 我們修正了無法按一下某些彈出 UI 元素的問題，例如，Outlook 中的 [加入會議] 快顯視窗，或 PowerPoint 中的 [歡迎回來] 快顯視窗。
 
 
 - 我們修復了在匯出為 PDF 後，書籤和目錄連結無法運作的問題。
@@ -4040,7 +4059,7 @@ ms.locfileid: "67242540"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -4272,7 +4291,7 @@ ms.locfileid: "67242540"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼：
+    - 登錄機碼:
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -4850,7 +4869,7 @@ ms.locfileid: "67242540"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -7771,7 +7790,7 @@ ms.locfileid: "67242540"
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 
-- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函式中運作。
+- 在某些情況下，Application.Evaluate (VBA) 無法在使用者定義的函數中運作。
 
 - 在 Excel 2016 中使用數位簽章所儲存的活頁簿，會在於目前版本的 Excel 中開啟時導致簽章失效。
 

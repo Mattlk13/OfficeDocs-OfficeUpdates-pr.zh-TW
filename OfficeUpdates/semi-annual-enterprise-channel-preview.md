@@ -9,18 +9,53 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: ee24f798b575e94c5e43484c9c2d27dde499693b
-ms.sourcegitcommit: 395ff1d5621657b06b41cd0957ecb7f6f8314c7a
+ms.openlocfilehash: 36cad92bc42605b50fdd41375d17ecda6cb46828
+ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2022
-ms.locfileid: "67242550"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67296377"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。 
 
 新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
+
+## <a name="version-2202-august-09"></a>版本 2202：8 月 09 日
+*版本 2202 (組建 14931.20660)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 Excel 可能會顯示訊息列指出需要強制敏感度標籤的問題，即使檔案已經有標籤也一樣。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致半年通道 (版本 2202 中 Outlook Desktop 的使用者) 遇到設定檔損毀問題，導致共用資料夾和行事曆中的同步處理失敗、接收已傳遞訊息的 NDR，以及共用資料夾中的搜尋失敗等徵兆。  遇到此問題的使用者必須重新建立其設定檔，才能還原正常作業。
+
+
+- 我們已修正使用者無法將會議室信箱新增至行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用瀏覽至位置時，儲存為不需要強制敏感度標籤的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正複製和貼上編號清單可能不會產生正確編號的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2202-july-26"></a>版本 2202: 7 月 26 日
 *版本 2202 (組建 14931.20646)*
@@ -1785,7 +1820,7 @@ ms.locfileid: "67242550"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-  登錄機碼：
+  登錄機碼:
   
   > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
   > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2171,7 +2206,7 @@ ms.locfileid: "67242550"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -2474,6 +2509,7 @@ ms.locfileid: "67242550"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|Insiders| |16.0.14931.20660|version-2202-august-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20604|version-2202-july-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20588|version-2202-july-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20494|version-2202-june-14|)
@@ -2483,5 +2519,4 @@ ms.locfileid: "67242550"
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20132|version-2202-march-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14326.20738|version-2108-january-11|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

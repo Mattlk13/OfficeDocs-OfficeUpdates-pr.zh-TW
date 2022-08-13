@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: d7c2b9a89827893abd782065fdaaa5514428653e
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
+ms.openlocfilehash: 665dde102c6f937bf30d4a254659723cf00f4306
+ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767319"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67296337"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,41 @@ ms.locfileid: "66767319"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="august-09-2022"></a>2022 年 8 月 09 日
+目前通道：版本 2207 (組建 15427.20210)  
+每月企業通道：版本 2206 (組建 15330.20298)  
+每月企業通道：版本 2205 (組建 15225.20394)  
+半年企業通道 (預覽)：版本 2202 (組建 14931.20660)  
+半年企業通道：版本 2202 (組建 14931.20660)  
+半年企業通道：版本 2108 (組建 14326.21096)  
+半年企業通道：版本 2102 (組建 13801.21582)  
+Windows 7 上的 Microsoft 365 應用程式：版本 2002 (組建 12527.22197)  
+Office 2021 零售版：版本 2207 (組建 15427.20210)  
+Office 2019 零售版：版本 2207 (組建 15427.20210)  
+Office 2016 零售版：版本 2207 (組建 15427.20210)  
+Office LTSC 2021 大量授權版：版本 2108 (組建 14332.20358)  
+Office 2019 大量授權版：版本 1808 (組建 10389.20033)  
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2022-33631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-33631)
+-   此更新也包含額外的安全性增強功能。 已封鎖副檔名不正確或遺失的 Excel XLL 增益集。 如需詳細資訊，請參閱 [2022 年 8 月更新 (KB5017166) 中的 Microsoft Excel 安全性增強功能](https://prod.support.services.microsoft.com/topic/6f0b9b6a-fb15-49a5-be27-6801f27cb8a2)。
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2022-35742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-35742)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-34717](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-34717)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="july-12-2022"></a>2022 年 7 月 12 日
 目前通道：版本 2206 (組建 15330.20246)   

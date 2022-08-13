@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: d21a88e552e8d2e2c839dd8f1bd18f449b3c0b37
-ms.sourcegitcommit: 44f51f3421544562c79a2ec3a3d9b72b203e78b6
+ms.openlocfilehash: 00f0cc7dcbdb899cdb82b0dc99a44c2b354efb2f
+ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/27/2022
-ms.locfileid: "67036862"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67296407"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -22,6 +22,93 @@ ms.locfileid: "67036862"
 
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2206-august-09"></a>版本 2206：8 月 09 日
+*版本 2206 (組建 15330.20298)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **減少條件式格式設定規則的不必要片段：** 我們將在將複製的儲存格貼到該儲存格範圍時，減少連續儲存格範圍中條件式格式設定規則的片段。
+
+- **在資源受限的裝置上優化 Excel 重新計算:** 在資源受限的裝置上，(兩個核心或少於 8 GB 的 RAM 或更少)，Excel 現在預設會在單一線程上執行計算，讓重新計算更加優化。 在大部分情況下，使用者應該會看到這些裝置上的計算速度明顯變快。 請注意，在某些情況下需要大量計算，使用者可能會想要將計算執行緒數目設定為 2，以覆蓋此預設值。 如需詳細資訊，請參閱 Microsoft 支援服務網站上 [[進階選項]](https://support.microsoft.com/en-us/office/advanced-options-33244b32-fe79-4579-91a6-48b3be0377c4) 頁面的 [公式] 區段。
+
+### <a name="outlook"></a>Outlook
+
+- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。[深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
+
+- **關閉建議回覆：** Outlook [使回覆更為簡單快速](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) 透過提供僅需幾個字回覆的簡短建議回覆郵件，讓回覆電子郵件更為快速。 部分使用者可能不想看到此選項，因此現在可以關閉此功能。 若要這麼做，請選取檔案 > 選項> 郵件，前往回覆和轉寄區段，然後清除顯示建議的回覆核取方塊。
+
+### <a name="word"></a>Word
+
+- **使用新式註解來改善共同作業：** 您可以控制何時將註解傳送給共同作者、輕鬆 @提及通知，以及在 Word、Excel 和 PowerPoint 之間有一致的註解體驗來保持生產力。 [深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
+
+### <a name="office-suite"></a>Office 套件
+
+- **新增 SketchUp 檔案至 Office 作品**：SketchUp 是熱門的 3D 圖形程式，可輕鬆地建立可共用的概念設計，例如工業設計、產品設計，以及土木和機械工程中所使用的脈絡完整的架構模型和其他圖形。 現在，這是第一次可以將 SketchUp 圖形 (.skp 檔案) 整合至您在 Word、Excel、PowerPoint 和 Outlook 中您的作品！<br />在[部落格文章](https://insider.office.com/en-us/blog/add-sketchup-files-to-office-creations)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正開啟 ACCDE/MDE 檔案時的問題。 使用者可能會收到錯誤訊息，其文字為「要求的類型文件庫或精靈不是 VBA 專案」。 [深入了解](https://support.microsoft.com/en-us/topic/error-when-trying-to-open-an-accde-mde-file-created-in-a-different-version-of-access-f4cd36cd-549e-42ba-b75a-dfe964294a81)
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正資料編輯列中的視覺問題。
+
+
+- 我們已修正嘗試從大型 XML 資料來源使用 Power Query 重新整理資料時，可能會發生錯誤的問題。
+
+
+- 我們已修正在啟用凍結窗格時，Excel 會使用非預期的大量 CPU，但並非每個凍結窗格都在畫面上顯示的問題。
+
+
+- 我們已修正應用程式與字型互動時意外關閉檔案的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正導致應用程式意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用瀏覽至位置時，儲存為不需要強制敏感度標籤的問題。
+
+
+- 我們已修正當其他人共同撰寫時，變更文件的敏感度標籤，可能會失去挑選的敏感度標籤的問題。
+
+
+### <a name="visio"></a>Visio
+
+- 我們已修正 Visio 中導致應用程式在重複放大和縮小時停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在解決許多從 OneDrive 或 SharePoint 開啟 Word、Excel 或 PowerPoint 文件時，會導致意外關閉的案例問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2205-august-09"></a>版本 2205：8 月 09 日
+*版本 2205 (組建 15225.20394)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 ## <a name="version-2205-july-26"></a>版本 2205: 7 月 26 日
 *版本 2205 (組建 15225.20370)*
@@ -58,7 +145,6 @@ ms.locfileid: "67036862"
 
 ### <a name="outlook"></a>Outlook
 
-- **組織總管:** 視覺化並探索貴公司的內部結構、工作小組和個別角色<br />在[部落格文章](https://insider.office.com/en-us/blog/visualize-people-and-teams-with-org-explorer-in-outlook)中查看詳細資料
 
 - **在行事曆上更快速地尋找活動：** 行事曆搜尋的改良功能表示可以更快速且更輕鬆地尋找事件，例如數列的下一個項目。
 
@@ -1724,7 +1810,7 @@ ms.locfileid: "67036862"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
     
-    登錄機碼：
+    登錄機碼:
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2514,6 +2600,7 @@ ms.locfileid: "67036862"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|Production|Feature|16.0.15330.20298|version-2206-august-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15225.20356|version-2205-july-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15128.20280|version-2204-june-14|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15028.20248|version-2203-may-10|)
@@ -2523,5 +2610,4 @@ ms.locfileid: "67036862"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.14430.20342|version-2109-november-09|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 8cb7a989c3627b6e4f4f783a947836ef6406972b
-ms.sourcegitcommit: e013c39c293e99bcdc1a28e98a210c0c7b13973b
+ms.openlocfilehash: c0943f774aa5d734189bebcd3510b6ed7c838b71
+ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2022
-ms.locfileid: "67055173"
+ms.lasthandoff: 08/09/2022
+ms.locfileid: "67296507"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -28,6 +28,65 @@ ms.locfileid: "67055173"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+## <a name="version-2202-august-09"></a>版本 2202：8 月 09 日
+*版本 2202 (組建 14931.20660)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 Excel 可能會顯示訊息列指出需要強制敏感度標籤的問題，即使檔案已經有標籤也一樣。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致半年通道 (版本 2202) 中 Outlook Desktop 的使用者遇到設定檔損毀問題，導致同步處理停止在共用資料夾和行事曆中運作、接收已傳遞訊息的 NDR，以及搜尋停止在共用資料夾中運作的問題。  遇到此問題的使用者必須重新建立其設定檔，才能還原正常作業。
+
+
+- 我們已修正使用者無法將會議室信箱新增至行事曆的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正使用瀏覽至位置時，儲存為不需要強制敏感度標籤的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正複製和貼上編號清單可能不會產生正確編號的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-august-09"></a>版本 2108：8 月 09 日
+*版本 2108 (組建 14326.21096)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正使用使用者介面自動化和處理具有許多隱藏資料列和/或資料行的大型資料集時，效能緩慢或凍結的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2102-august-09"></a>版本 2102：8 月 09 日
+*版本 2102 (組建 13801.21582)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
 
 
 ## <a name="version-2202-july-26"></a>版本 2202: 7 月 26 日
@@ -3688,6 +3747,7 @@ ms.locfileid: "67055173"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14931.20660|version-2202-august-09|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20604|version-2202-july-12|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20588|version-2202-july-12|)
 [//]: # (|Win32|DC|Production| |16.0.14326.21018|version-2108-june-14|)
@@ -3697,5 +3757,4 @@ ms.locfileid: "67055173"
 [//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20734|version-2108-january-11|)
-[//]: # (|Win32|DC|Production| |16.0.13801.21092|version-2102-december-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
