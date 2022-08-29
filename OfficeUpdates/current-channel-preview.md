@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3389b7d34f26c861d799c00fbb6c9950fce66feb
-ms.sourcegitcommit: ec4c21fae8e447c9cdf67eae3c1ffd080b04cc30
-ms.translationtype: HT
+ms.openlocfilehash: e520013ba5ca546a4c225746712fdbfb1b9443c2
+ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2022
-ms.locfileid: "67284550"
+ms.lasthandoff: 08/27/2022
+ms.locfileid: "67446680"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -33,6 +33,205 @@ ms.locfileid: "67284550"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
 
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2208-august-26"></a>版本 2208：8 月 26 日
+*版本 2208 (組建 15601.20078)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在新應用程式行中以滑鼠右鍵按一下應用程式時，Outlook 有時會意外關閉的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2208-august-23"></a>版本 2208：8 月 23 日
+*版本 2208 (組建 15601.20064)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此更新修正了在 Excel 中逐一查看 VBA 程式碼中的 DAO 記錄集時，可能會導致記憶體流失的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正編輯新建立的檔案時，商務列標籤未正確上傳的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 此變更會啟用協力廠商會議應用程式的 [每個會議線上] 選項。
+
+
+- 我們已修正會導致使用者在回復或轉寄訊息時無法載入連結影像的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正無法再開啟之前正常運作的專案的問題。 在此情況下，Project 意外關閉。
+
+
+- 我們已修正此訊息的問題：「此專案包含一或多個可能不安全且已停用的資料來源連結。 您要啟用這些資料來源嗎？ 只有當您信任檔案的來源時，才能這麼做。」 開啟專案時可能會出現。 即使專案沒有任何作用中的貼上連結，訊息也會出現。 此外，在甘特圖類型檢視中找不到使用中的内嵌物件。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2208-august-16"></a>版本 2208：8 月 16 日
+*版本 2208 (組建 15601.20044)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正某些使用者無法搭配現有匯入/匯出規格使用 DoCmd.TransferText 的問題
+
+
+- 我們已修正關閉資料庫時，[關閉時清除快取] 選項不會刪除快取的問題。
+
+
+- 我們已修正可能導致綁定物件框架的 [班級] 屬性會返回空字串的問題，即使控制項有值也一樣。
+
+
+- 我們已修正客戶在匯出至 Excel 時，長文字欄位中的資料被截斷的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正應用程式與字型互動時意外關閉檔案的問題。
+
+
+- 我們已修正工作窗格中標頭格式的問題。
+
+
+- 我們已修正在放大 170% 以上時，Excel 圖表內容遺失的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們修正了透過雲端設定進行設定時，導致某些郵件儲存空間相關的設定無法如預期般套用的問題。
+
+
+- 我們已修正導致範本無法正確載入的敏感度標籤範本數量限制問題。
+
+
+- 我們已修正會導致使用者在其左側滑軌導覽列中看到 [日誌] 模組的問題。
+
+
+- 我們已修正 Outlook 搜尋中，綠色的 [已回覆] 圖示未在已回覆電子郵件旁出現的問題。
+
+
+- 我們已修正使用者在 Outlook 訊息中選擇 [在瀏覽器中檢視] 選項之後，導致檔案無法在 Edge 中開啟的問題。
+
+
+- 我們已修正導致在 Windows Server 2016 上對 Outlook 快顯通知執行的動作停止如預期方式執行的問題。
+
+
+- 我們已修正嘗試擷取 EDP 電子郵件地址時影響 Windows 資訊保護 (WIP) 的問題。
+
+
+- 我們已修正使用 [搜尋人員] 方塊時 Outlook 意外關閉的問題。
+
+
+- 我們修正了嘗試展開群組時，商務用 Skype 意外關閉的問題。
+
+
+- 我們已修正開啟、回復或轉寄一些包含複雜資料表的電子郵件，Outlook 停止回應的問題。 相同的資料表內容也會導致 Word 停止回應。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正在安全性警告上按一下 [啟用內容] 之後，圖片的縮圖內容無法在投影片上正確轉譯的問題。
+
+
+- 我們已透過對快速存取工具列進行微幅更新以修正問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正時程表中的實際小時總計不一定會正確重新計算的問題。
+
+
+- 我們已修正本機自訂欄位停止運作、提示 [刪除自訂欄位] 對話方塊，且無法透過召集人刪除的問題。
+
+
+- 我們已修正問題，因此當向上和向下捲動檢視甘特圖時，進度線現在會隨著工作垂直捲動。
+
+
+- 我們已修正當配置模式設定為手動時，在 [網狀圖] 檢視中向下卷動時不一定會繪製節點的問題。
+
+
+- 我們已修正在檢視和報告指派時段實際成本值時的問題。 這些值的總和可能不等於您在工作表檢視) 中看到的值 (純量值。 當時幅細微性從每日等非常詳細到較不詳細，例如每年，加總值和純量值之間的差異可能相當顯著。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正開啟、回復或轉寄一些包含複雜資料表的電子郵件，Outlook 停止回應的問題。 相同的資料表內容也會導致 Word 停止回應。
+
+
+- 我們已修正使用者無法開啟指向 SPO/OD4B 上檔案書籤之本地受管理檔案的連結問題。
+
+
+- 我們已修正導致 Word 中間歇性停止回應的問題。
+
+
+- 我們已修正應用程式在關閉文件後會封鎖其存取的問題，因此 OneDrive 在應用程式結束之前無法同步處理文件。
+
+
+- 我們已修正 Outlook (WordMail) 訊息會在放大或縮小時出現白色背景閃爍的問題。
+
+
+- 我們已修正註解可能會在將文件匯出為 PDF 後，從第二頁開始消失的問題。
+
+
+- 我們已修正當相似性檢查程式無法使用時，新增使用者行為記錄的問題。
+
+
+- 我們已修正在 Word 文件中列印多個頁面範圍的複本時，可能無法運作的問題。
+
+
+- 我們已修正「以連結貼上」可能無法自動更新的問題。
+
+
+- 我們已修正超連結可能會變更為錯誤的問題！ 超連結參考無效。」
+
+
+- 我們已修正應用程式在開啟 Outlook 郵件的 HTML 檔案版本時發生延遲的問題。
+
+
+- 我們已修正篇幅較長且具有欄位的文件效能可能會變慢的問題。
+
+
+- 我們已修正的連結不會自動更新為內嵌的 Word 文件的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正某些使用者無法存取 SPO 上託管的最新版本 Excel 檔案，並且看到「重新更新建議」錯誤訊息的問題。
+
+
+- 我們已修正開啟儲存在 OneDrive 和 SharePoint Online 上的 Excel 檔案時，應用程式可能會意外關閉，而且可能會發生資料遺失的問題。
+
+
+- 我們已修正導致某些人員在開機之後，突然遇到關閉的問題。
+
+
+- 我們已修正安全性標籤所指定的保護以及套用至文件的實際保護不對齊的問題。
 
 
 
@@ -4059,7 +4258,7 @@ ms.locfileid: "67284550"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
 
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -4291,7 +4490,7 @@ ms.locfileid: "67284550"
 
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
-    - 登錄機碼:
+    - 登錄機碼：
 
         > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
         > REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -4869,7 +5068,7 @@ ms.locfileid: "67284550"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
+- 我們已修正會導致某些使用者在同步處理資料夾階層變更時遇到 Outlook 意外關閉的問題。
 
 
 - 我們已修正會導致某些使用者在瀏覽窗格中看到主要和次要行事曆切換位置的問題。
@@ -5864,7 +6063,7 @@ ms.locfileid: "67284550"
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 此變更解決了處理載入影片期間可能發生錯誤的問題。

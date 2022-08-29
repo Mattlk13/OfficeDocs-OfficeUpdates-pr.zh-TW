@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2c345033be8235f81ace82bfd3ae353ac1afefa6
-ms.sourcegitcommit: c20cffbeef364e921b015868d3b4e827472fcd04
-ms.translationtype: HT
+ms.openlocfilehash: 523c87df80fdb187fca04ba37598fd2b58f1a975
+ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2022
-ms.locfileid: "67264694"
+ms.lasthandoff: 08/27/2022
+ms.locfileid: "67446690"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -28,9 +28,197 @@ ms.locfileid: "67264694"
 > - 版本資訊發佈日期可能與實際組建發行日期不相符。
 
 [//]: # (DO NOT REMOVE)
+
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
-## <a name="version-2208-august-5"></a>版本 2208：8 月 5 日
+## <a name="version-2209-august-26"></a>版本 2209：8 月 26 日
+*版本 2209 (組建 15619.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **減少條件式格式化規則的不必要片段：** 將條件式格式化規則套用至儲存格時，請查看改善的效能和更快速的計算。 在將複製的儲存格貼到該儲存格範圍時，我們藉由減少資料片段來完成此作業。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正使用 DAO 或 OLEDB 介面讀取 Access 資料庫時，如果記憶體需求成長速度太快，應用程式會意外關閉的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正特定功能表庫專案上顯示不正確背景色彩的問題。
+
+
+- 我們已修正當 [指導] 標記顯示在螢幕上時，使用者在選取 [插入資料表] 命令之後，無法選取資料表資料列和資料行的問題。
+
+
+- 我們已修正密碼快取函式無法與 MSQuery x64 組建搭配運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正啟用自動回復時，朗讀程式未讀取辦公室外狀態的協助工具問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正導致圖片裁剪無法正常運作的問題。
+
+
+- 我們已修正使用者因為加密許可權而無法結束應用程式的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正取消查詢變更時已解決同步處理問題的問題。
+
+
+- 我們已修正在儲存包含 3D 內容的檔時，應用程式會停止回應的問題。
+
+
+- 我們已修正從Microsoft 小畫家貼上圖片時，應用程式會顯示錯誤訊息的問題。
+
+
+- 我們已修正使用者無法將資料表的資料列從版本歷程記錄中的舊版複製到目前版本的問題。
+
+
+- 我們已修正使用追蹤變更時，應用程式無法接受所有變更的問題。
+
+
+- 我們已修正在許多檔使用工作管理員關閉，且稍後在 Word 再次開啟時還原之後，狀態列中的檢視模式切換器會在其中一份檔中停用，同時在所有其他檔中啟用的問題。
+
+
+- 我們已修正旋轉文字方塊中的內容變成水準，而文字藝術師文字效果在匯出至 PDF/A 時隱藏的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正嘗試將 Office 檔案或 Outlook 附件儲存至網路共用路徑時，狀態訊息會顯示並在螢幕上停留數分鐘的問題。
+
+
+- 我們已修正在工具列 (預覽) 與傳統之間切換命令模式時，模式切換不適用於所有作用中應用程式視窗的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-august-19"></a>版本 2209：8 月 19 日
+*版本 2209 (組建 15615.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **連線到 PowerBI 的樞紐分析表日期支援：** 在連線到 Power BI 資料集的樞紐分析表中，現在支援日期進行分析，因為資料類型不再是字串。 例如，現在可以篩選特定時間範圍的資料。<br />在[部落格文章](https://insider.office.com/en-us/blog/improvements-to-the-connected-power-bi-experience)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正導致上傳至已套用敏感度標籤且已進行編輯之新儲存檔案的 OneDrive 失敗的問題。
+
+
+- 我們已修正將文字轉換成資料行時，Excel 不正確地使用固定寬度而非全形空間的問題。
+
+
+- 我們已修正傳遞至 MAKEARRAY 中 Lambda 的索引變數類型錯誤，導致公式評估錯誤的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正回復或轉寄訊息時，連結的影像不會顯示的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正無法再開啟專案的問題，因為儲存專案時會產生新的工作和工作分派 GUID。
+
+
+- 我們已修正開啟未包含任何連結的專案時，訊息出現錯誤警告客戶可能不安全連結的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正 Outlook 無法開啟使用Outlook 網頁版傳送的訊息，且包含從 Word 複製的批註的問題。
+
+
+- 我們已修正因為忙碌的伺服器錯誤而導致變更無法合併到共用檔的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-august-12"></a>版本 2209：8 月 12 日
+*版本 2209 (組建 15606.20002)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+### <a name="feature-updates"></a>功能更新
+### <a name="word"></a>Word
+
+- **指派工作：** 您可以使用批註中的@mentions，直接從 Word 檔內建立和指派工作，以促進共同作業並保持井然有序。 您指派工作的人員將會收到電子郵件通知，讓他們知道他們需要採取動作。 準備好試試看了嗎？ 開啟儲存在 OneDrive 或 SharePoint 上的現有檔。 反白顯示包含您要批註資訊的文字、選取 [新增批註]、撰寫批註，然後輸入 @，後面接著您要標記的小組成員名稱。 然後，按 Ctrl + Enter 張貼您的批註，然後選取 [指派給] 核取方塊，將您的批註轉換成工作。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- **使用者定義許可權現在支援功能變數名稱限制：** 當您選擇為使用者定義許可權設定的敏感度標籤時，他們現在可以使用功能變數名稱來限制特定個人或該網域中所有人員的檔案存取。 例如，您可以指定「someone@example.com」或「@example.com」，而權限將會根據這些參數而受到限制。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正只影響日文語言使用者導致宏無法再運作的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正只影響希伯來文語言使用者的問題，其中 [任務資訊] 對話方塊中的 [資源] 索引標籤未在方格內顯示四個預期的資料行。
+
+
+- 我們已修正修改時幅時，可能會檢視和報告不正確的實際成本值的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正合併衝突期間商務列中的問題。
+
+
+- 我們已修正 [檔案>資訊] 下可能會顯示過期屬性值的問題。
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正當檔案開啟但未修改時，SharePoint 中的 [修改日期] 欄位已更新的問題。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2208-august-05"></a>版本 2208：8 月 5 日
 *版本 2208 (組建 15601.20028)*
 
 
@@ -66,7 +254,7 @@ ms.locfileid: "67264694"
 - 我們修正了嘗試展開群組時，商務用 Skype 意外關閉的問題。
 
 
-- 我們已修正使用者在 Outlook 郵件中選擇 [在瀏覽器中檢視] 選項後，導致檔案無法在 Edge 中開啟的問題。
+- 我們已修正使用者在 Outlook 訊息中選擇 [在瀏覽器中檢視] 選項之後，導致檔案無法在 Edge 中開啟的問題。
 
 
 - 我們已修正導致在 Windows Server 2016 上對 Outlook 快顯通知執行的動作停止如預期方式執行的問題。
@@ -6409,6 +6597,8 @@ ms.locfileid: "67264694"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15619.20000|version-2209-august-26|)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15615.20000|version-2209-august-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15522.20000|version-2208-july-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15519.20000|version-2208-july-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15511.20000|version-2208-july-15|)
@@ -6417,6 +6607,4 @@ ms.locfileid: "67264694"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15321.20000|version-2206-may-27|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15313.20000|version-2206-may-20|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

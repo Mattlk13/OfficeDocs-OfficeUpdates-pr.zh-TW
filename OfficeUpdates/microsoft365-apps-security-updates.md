@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 665dde102c6f937bf30d4a254659723cf00f4306
-ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
-ms.translationtype: HT
+ms.openlocfilehash: 4d91d1158302c782788772daa70c9e919b895122
+ms.sourcegitcommit: 95f6c2da1c18ff53c9fceb0bc1c3c7f73ec75238
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2022
-ms.locfileid: "67296337"
+ms.lasthandoff: 08/20/2022
+ms.locfileid: "67397445"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -27,7 +27,8 @@ ms.locfileid: "67296337"
 
 ## <a name="august-09-2022"></a>2022 年 8 月 09 日
 目前通道：版本 2207 (組建 15427.20210)  
-每月企業通道：版本 2206 (組建 15330.20298)  
+每月企業通道：版本 2206 (組建 15330.20306 于 2022 年 8 月 18 日發行)   
+每月企業通道：版本 2206 (組建 15330.20298 回復)   
 每月企業通道：版本 2205 (組建 15225.20394)  
 半年企業通道 (預覽)：版本 2202 (組建 14931.20660)  
 半年企業通道：版本 2202 (組建 14931.20660)  

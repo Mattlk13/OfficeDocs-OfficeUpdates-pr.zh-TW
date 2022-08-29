@@ -9,12 +9,12 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 52e12adb5f233cf425b3a766ea412f7f94784706
-ms.sourcegitcommit: 20d6aeee3cb6cd16e7f8d6dd66a48c82d4049fb6
-ms.translationtype: HT
+ms.openlocfilehash: 0ed85a35474578f7ea2f3ec177957cced86f0846
+ms.sourcegitcommit: b1db8610011975287e8b484abe8ea7f1dfdfd622
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2022
-ms.locfileid: "66958017"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67362619"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
@@ -27,6 +27,10 @@ ms.locfileid: "66958017"
 [//]: # (DO NOT REMOVE DoD CUSTOMERS START)
 
 ### <a name="dod-customers"></a>DoD 客戶:
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 [//]: # (DO NOT REMOVE DoD CUSTOMERS END)
 
@@ -43,8 +47,6 @@ ms.locfileid: "66958017"
 ### <a name="gcc-customers"></a>GCC 客戶:
 
 - **與自己聊天：** 使用者可以傳送筆記、訊息、檔案和影像/影片給自己；協助他們保持井然有序。
-
-- **Microsoft Teams：Microsoft Teams Connect 共用頻道：** 工作場所共同合作已逐漸變得數位化，並且以雲端為基礎。 在我們的互連世界中，我們需要與組織以外的人員共同作業，即與合作夥伴溝通、追蹤供應商，以及與客戶連絡。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 而有了 Teams Connect，您便可更容易地與組織內外的人員共同作業，協助您跨組織界限有效率地延伸團隊工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
@@ -73,7 +75,6 @@ ms.locfileid: "66958017"
 - **在 Teams 系統管理中心搜尋：** 系統管理員可以在 Teams 系統管理中心使用通用的搜尋方塊來搜尋使用者、團隊、頁面和設定。
 
 - **通話佇列專員的動態來電顯示：** 通話佇列專員現在可以使用通話佇列電話號碼做為來電顯示，透過通話應用程式撥打電話。 這可確保收件者能夠正確識別通話，而且回撥號碼是通話佇列號碼，而不是專員的個人線路。
-
 
 
 

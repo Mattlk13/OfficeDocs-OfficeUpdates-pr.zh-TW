@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理員功能的版本資訊。
-ms.openlocfilehash: c1f1d66915ccdbc2846d74bb2e54f62bf888fe3e
-ms.sourcegitcommit: ed41dc35c69ab71c8b2d1c1c417763f7514ff646
+ms.openlocfilehash: 144c9837da4b26c3aefd3f7c191e8de74b985cec
+ms.sourcegitcommit: ff3de71a12735a5a9a28ac8d4bd4c2abfa028481
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/02/2022
-ms.locfileid: "67147495"
+ms.lasthandoff: 08/12/2022
+ms.locfileid: "67321120"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
@@ -28,23 +28,33 @@ ms.locfileid: "67147495"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="july-28-2022"></a>2022 年 7 月 28 日
+## <a name="august-11-2022"></a>2022 年 8 月 11 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 
+- **Microsoft Teams：在 Windows 上的 Teams 會議室上共用內容體驗改進：** windows 上的Teams 會議室更新使用者介面，以在會議中共用 HDMI 和內容相機。 新體驗可為會議室內的使用者提供更佳的工作完成體驗和清晰度，確保使用者可以輕鬆地在會議中共用內容。
+
+- **Microsoft Teams：Windows 上Teams 會議室中一對一通話的端對端加密：Windows 上的** Teams 會議室可設定為加密所有人員對人 (P2P) 通話。 被呼叫者也必須開啟加密設定。 在加密的呼叫中，呼叫端和被呼叫者都可以驗證加密金鑰，以確保呼叫是端對端且安全的加密。
+
+- **Microsoft Teams：Windows 上Teams 會議室的靜音/取消靜音狀態圖示：** 若要確保會議室中的使用者知道會議室的靜音狀態，會將靜音圖示新增至會議室前方顯示器上的會議室視訊。
+
+- **透過直接藍牙連線的音訊裝置呼叫控制項：** 使用裝置按鈕來控制通話 (回應、結束、保留來自藍牙音訊裝置的) ，而不需要在連線到執行 Teams 桌面用戶端的 Windows 電腦時使用 USB 小管。 對於許多頭戴式裝置和喇叭，此通話控制功能將可運作，而不需要任何使用者動作，而不需要將頭戴式裝置與其電腦配對。 這項可行性是因為功能是以許多頭戴式裝置目前支援的業界標準 HFP 通訊協定為基礎所建置。 簡言之，如果您的頭戴式裝置能夠在行動裝置上接聽或結束行動資料呼叫，它應該可以使用這項功能。 請觀看我們的認證頁面，以瞭解即將測試的裝置，以符合所有具有直接藍牙連線 (的認證準則，而不需要 USB 容器) 。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="july-28-2022"></a>2022 年 7 月 28 日
+
 - **Brightspace (D2L) LMS 與 M365 整合：** Microsoft 現在已與 Brightspace (D2L) LMS 合作，以提供更順暢的整合式學習體驗。 現在可在 Brightspace 中使用 Microsoft Teams 會議 LTI 和班級 LTI 應用程式。  Teams 課程 LTI 可讓授課者使用課程的名冊資訊，為其 Brightspace 課程建立小組。 Teams 會議 LTI 可讓授課者和學生存取、排程及管理 Brightspace LMS 內的 Teams 會議。 [註冊 Microsoft 365 LMS LTI 整合](https://m365crmedu.powerappsportals.com/LMSSignup/)
 
 - **開啟與 M365 的 LMS 整合：** Microsoft 現在已與 Open LMS 合作，以提供更順暢的整合式學習體驗。 Microsoft Teams 會議 LTI 和班級 LTI 應用程式現在可在 Open LMS 中使用。  Teams 課程 LTI 可讓授課者使用課程的名冊資訊，為其 Open LMS 課程建立小組。 Teams 會議 LTI 可讓授課者和學生存取、排程及管理 Brightspace LMS 內的 Teams 會議。 [深入了解](/microsoft-365/lti/open-lms-plugin-configuration)
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="july-14-2022"></a>2022 年 7 月 14 日
 
 - **停用匿名或未經驗證使用者的聊天寫入存取：** IT 系統管理員現在可以針對非同盟使用者和透過連結加入 Teams 會議的未經驗證使用者，停用原則層級的聊天寫入存取權，此連結必須與停用的會議聊天原則搭配使用，以提供額外的安全性來防止資料外泄。
 
-- **Microsoft Teams：Microsoft Teams Connect共用頻道：** 工作場所共同作業已逐漸成為數位和雲端式。 在我們的互連世界中，我們需要與組織以外的人員共同作業—與合作夥伴通訊、追蹤供應商，以及與客戶聯繫。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 透過 Teams Connect，我們可讓您更輕鬆地與組織內外的人員共同作業，協助您的擴充小組跨組織界限有效且有效率地工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
+- **Microsoft Teams：Microsoft Teams Connect共用頻道：** 工作場所共同作業已逐漸成為數位和雲端式。 在我們的互連世界中，我們需要與組織以外的人員共同作業—與合作夥伴通訊、追蹤供應商，以及與客戶聯繫。 透過 Microsoft Teams，您可以安全地與外部專案關係人共同作業。 透過Teams Connect，我們可讓您更輕鬆地與組織內外的人員共同作業，協助您的擴充小組跨組織界限有效且有效率地工作。 有了共用頻道，多個組織可以在共用的空間中共同作業。 在應用程式上交談、排程會議、共用及共同撰寫檔案，以及共同作業，而從不需切換租用戶。
 
 ## <a name="june-23-2022"></a>2022 年 6 月 23 日
 
@@ -172,7 +182,7 @@ ms.locfileid: "67147495"
 
 - **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
 
-- **在 IT 受控組織外部的 Teams 中與使用者同盟和外部存取：** 此功能會擴充 Teams Connect 供應專案，讓 IT 受控組織中的使用者從 1：1 開始，並與 IT 管理組織外部的使用者進行群組聊天， (TFL) 。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
+- **在 IT 受控組織外部的 Teams 中與使用者同盟和外部存取：** 此功能擴充Teams Connect供應專案，讓 IT 受控組織中的使用者從 1：1 開始，並與 IT 管理組織外部的使用者進行群組聊天， (TFL) 。 此版本不支援會議、TFL 使用者開始聊天或通話。 最初僅 EDU 租用戶支援此功能。
 
 ## <a name="december-23-2021"></a>2021 年 12 月 23 日
 
@@ -757,7 +767,7 @@ ms.locfileid: "67147495"
 
 ## <a name="august-3-2020"></a>2020 年 8 月 3 日
 
-- **在 Microsoft Teams 系統管理中心購買 Teams 協力廠商應用程式的服務：** Teams 應用程式可以免費安裝，有些應用程式可能需要購買服務訂用帳戶，才能體驗應用程式的完整功能和範圍。 這些服務訂用帳戶稱為軟體即服務 (SaaS) 供應專案，可透過 AppSource 購買，現在可透過 Microsoft Teams 系統管理中心購買。 [深入了解](/Microsoftteams/purchase-third-party-apps)。
+- **在 Microsoft Teams 系統管理中心購買 Teams 協力廠商應用程式的服務：** Teams 應用程式可以免費安裝，有些應用程式可能需要購買服務訂用帳戶，才能體驗應用程式的完整功能和範圍。 這些服務訂閱稱為軟體即服務 (SaaS) 方案，可透過 AppSource 購買，而現在可透過 Microsoft Teams 系統管理中心購買。 [深入了解](/Microsoftteams/purchase-third-party-apps)。
 
 - **發佈透過 Teams 應用程式提交 API 提交的自訂應用程式：** 開發人員可以使用 Teams 應用程式提交 API，將自訂應用程式直接提交至 Microsoft Teams 系統管理中心，供系統管理員檢閱和核准。 [深入了解](/Microsoftteams/submit-approve-custom-apps)。
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 32e734494b03da1c9cd9d904a01e701f28d9afff
-ms.sourcegitcommit: 9de6a870701ddab17b3ca9f9c33302edf3220dec
-ms.translationtype: HT
+ms.openlocfilehash: c54c583dbee03622a709902b36835384a306643a
+ms.sourcegitcommit: b1db8610011975287e8b484abe8ea7f1dfdfd622
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2022
-ms.locfileid: "66767409"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67362589"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -30,6 +30,34 @@ ms.locfileid: "66767409"
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
 
+## <a name="august-2022-release"></a>2022 年 8 月版本
+
+**發行日期：** 2022 年 8 月 16 日
+
+*Microsoft AutoUpdate 4.50*
+
+**增強功能：**
+- 期限功能的增強功能，以便在使用者看到最終倒數計時之前更新並驗證複製。 這可大幅減少應用程式更新的停機時間量
+- 預設檢查間隔已從 12 小時變更為 13 小時，因此更新時間會錯開
+- .noindex 的尾碼已新增至 Clones 預備資料夾，以防止焦點編制暫存應用程式套件組合的索引
+- IT 系統管理員現在可以設定名為 GuardAgainstAppModification 的新布林值式喜好設定，以便在協力廠商應用程式修改應用程式套件組合時套用二進位差異更新
+
+**錯誤修正：**
+- 已修正複製作業失敗時，差異更新未正確套用的問題
+- 已修正取消更新無法運作的問題
+- 已修正倒數計時器無法顯示超過 99 分鐘的問題
+- 已修正 [在尋找程式中顯示] 選項會失敗的問題
+- 已修正如果已設定不正確日期/時間，Microsoft AutoUpdate 可能會當機的問題
+- 修正了建構下載 URL 時，Microsoft AutoUpdate 可能會當機的問題
+
+[下載 Microsoft AutoUpdate 4.50 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.50.22081401_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+28F675FA2D1B21CB01DE005DAD1EE6182536DD05489C98AEAADF8BC7550AACD9
+<br><br>
+
+
 ## <a name="july-2022-release"></a>2022 年 7 月發行版本
 
 **發行日期：** 2022 年 7 月 12 日
@@ -44,8 +72,6 @@ ms.locfileid: "66767409"
 - 已修正 Microsoft AutoUpdate 可能會在記憶體不足的情況下當機的問題
 - 已修正 Microsoft AutoUpdate 在啟動時可能沒有回應的問題
 
-[下載 Microsoft AutoUpdate 4.49 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.49.22070801_Updater.pkg)<br/>
-<br/>
 **SHA-256 雜湊：**
 
 2749A0163267E8E24D212BE09012FCB2C09E840EBC2047507D5088DA9629EC04

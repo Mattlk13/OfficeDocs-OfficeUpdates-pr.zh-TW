@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: cc1a7022824ba645704802adb0396d180735d0ce
-ms.sourcegitcommit: c5747b25641226f6c253b5e8df6c16761c9eec17
-ms.translationtype: HT
+ms.openlocfilehash: c0afe1ceb1c19879a87c46b86795a9fb76b573d4
+ms.sourcegitcommit: b1db8610011975287e8b484abe8ea7f1dfdfd622
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/16/2022
-ms.locfileid: "66826898"
+ms.lasthandoff: 08/16/2022
+ms.locfileid: "67362579"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -35,6 +35,36 @@ ms.locfileid: "66826898"
 
 [//]: # (DO NOT REMOVE)
 
+
+
+
+## <a name="august-16-2022"></a>2022 年 8 月 16 日
+*版本 16.64 (組建22081401)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="office-suite"></a>Office 套件
+
+- **在編輯器中檢閱選取專案：** 使用編輯器窗格檢閱選取範圍內的拼字和文法
+
+
+### <a name="outlook"></a>Outlook
+
+- **Office 聽寫工具列有一個新的回應式介面：** 較小的工具列可讓您聽寫您的檔和電子郵件，而不會妨礙您。  您永遠不必猜測它是否正在接聽，而且您可以在需要時將它移開。<br />在[部落格文章](https://insider.office.com/en-us/blog/redesigned-dictation-toolbar-keeps-the-focus-on-your-content)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **將隱藏式輔助字幕新增至簡報中的內嵌影片：** 藉由新增隱藏式輔助字幕，讓以非原生語言觀看內嵌影片的人、學習閱讀的人，以及聽障或聽障人士更容易閱讀。 若要試用，請選取影片，選擇 [播放]，然後選取 [插入標題]。 [深入了解](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)<br />在[部落格文章](https://insider.office.com/en-us/blog/make-powerpoint-presentations-more-accessible-with-closed-captions-in-embedded-videos)中查看詳細資料
+
+- **建立更吸引人的簡報：** 將即時相機摘要直接插入投影片中，讓觀眾看到您的視訊，讓您的觀眾能夠看到您的影片，<br />在[部落格文章](https://insider.office.com/en-us/blog/add-a-live-camera-feed-with-cameo-in-powerpoint-for-mac)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **使用您的語音鍵入變得更容易：** 查看您在畫面側邊的新低設定檔聽寫工具列所輸入的內容。 此外，新的動畫可協助您確認已擷取每個文字。<br />在[部落格文章](https://insider.office.com/en-us/blog/redesigned-dictation-toolbar-keeps-the-focus-on-your-content)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
 ## <a name="july-15-2022"></a>2022 年 7 月 15 日
 *版本 16.63.1 (組建 22071401)*

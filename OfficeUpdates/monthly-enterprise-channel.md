@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 00f0cc7dcbdb899cdb82b0dc99a44c2b354efb2f
-ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
-ms.translationtype: HT
+ms.openlocfilehash: 539f6105167ac28784629b3bbcb14a55d3dfdcdc
+ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2022
-ms.locfileid: "67296407"
+ms.lasthandoff: 08/27/2022
+ms.locfileid: "67446630"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -23,14 +23,13 @@ ms.locfileid: "67296407"
 
 [//]: # (DO NOT REMOVE)
 
-## <a name="version-2206-august-09"></a>版本 2206：8 月 09 日
-*版本 2206 (組建 15330.20298)*
+## <a name="version-2206-august-18"></a>版本 2206：8 月 18 日
+*版本 2206 (組建 15330.20306)*
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
@@ -102,9 +101,6 @@ ms.locfileid: "67296407"
 - 我們已修正在解決許多從 OneDrive 或 SharePoint 開啟 Word、Excel 或 PowerPoint 文件時，會導致意外關閉的案例問題。
 
 
-
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
-
 ## <a name="version-2205-august-09"></a>版本 2205：8 月 09 日
 *版本 2205 (組建 15225.20394)*
 
@@ -148,6 +144,29 @@ ms.locfileid: "67296407"
 
 - **在行事曆上更快速地尋找活動：** 行事曆搜尋的改良功能表示可以更快速且更輕鬆地尋找事件，例如數列的下一個項目。
 
+
+### <a name="project"></a>Project
+
+- **未授權的使用者現在會處於檢視器模式：** 若為共用電腦啟用，如果裝置上也啟用了檢視器模式，未授權的使用者將會處於檢視器模式，而不是降低功能模式。
+
+
+- **檢視器模式可辨識授權的使用者：** 檢視器模式現在會辨識使用者是否具有產品的有效授權，並將為使用者提供已啟用且功能完整的產品版本。 裝置上其他未授權的產品將維持在檢視器模式。
+
+
+### <a name="visio"></a>Visio
+
+- **未授權的使用者現在會處於檢視器模式：** 若為共用電腦啟用，如果裝置上也啟用了檢視器模式，未授權的使用者將會處於檢視器模式，而不是降低功能模式。
+
+
+- **檢視器模式可辨識授權的使用者：** 檢視器模式現在會辨識使用者是否具有產品的有效授權，並將為使用者提供已啟用且功能完整的產品版本。 裝置上其他未授權的產品將維持在檢視器模式。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- **未授權的使用者現在會處於檢視器模式：** 若為共用電腦啟用，如果裝置上也啟用了檢視器模式，未授權的使用者將會處於檢視器模式，而不是降低功能模式。
+
+
+- **檢視器模式可辨識授權的使用者：** 檢視器模式現在會辨識使用者是否具有產品的有效授權，並將為使用者提供已啟用且功能完整的產品版本。 裝置上其他未授權的產品將維持在檢視器模式。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -240,9 +259,15 @@ ms.locfileid: "67296407"
 - 我們已修正 Office 呈現程式碼中意外停止回應的問題。
 
 
+- 已修正在已啟用共用電腦啟用和檢視器模式的裝置上，授權使用者不正確地置於檢視器模式的問題。
+
+
 ### <a name="visio"></a>Visio
 
 - 我們已修正 Office 呈現程式碼中意外停止回應的問題。
+
+
+- 已修正在已啟用共用電腦啟用和檢視器模式的裝置上，授權使用者不正確地置於檢視器模式的問題。
 
 
 ### <a name="word"></a>Word
@@ -275,6 +300,8 @@ ms.locfileid: "67296407"
 
 - 我們已修正在 Excel 中開啟字型大小下拉式清單時，強調顯示字型大小不是文件中目前選取的字型大小的問題。
 
+
+- 已修正在已啟用共用電腦啟用和檢視器模式的裝置上，授權使用者不正確地置於檢視器模式的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -712,7 +739,7 @@ ms.locfileid: "67296407"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Excel 4.0 (XML) 巨集會預設停用以提升 Microsoft 365 客戶的安全性。:** 為協助保護客戶，Excel 4.0 (XML) 巨集在 Microsoft 365 中會預設停用。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
+- **預設會停用 Excel 4.0 (XLM) 宏，以改善 Microsoft 365 客戶的安全性。** 為了協助保護客戶，預設會在 Microsoft 365 中停用 Excel 4.0 (XLM) 宏。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
 
 - **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
@@ -1217,12 +1244,9 @@ ms.locfileid: "67296407"
 
 - **自動展開線上封存搜尋：** 啟用自動展開線上封存搜尋。 您可以在此找到與無限制封存相關的詳細資訊：[自動展開封存功能的概觀](/microsoft-365/compliance/unlimited-archiving)
 
-- **上次登入/可疑的登入：** Outlook 現在會告知您上次登入帳戶的時間及位置，並警示您是否偵測到任何可疑的登入活動。
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
-<br/>
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -1810,7 +1834,7 @@ ms.locfileid: "67296407"
 
 - 我們已新增一個登錄機碼，以停用新會議室尋找工具體驗 (與 Outlook 網頁版相同的體驗)，並啟用具有建議的時間的傳統會議室尋找工具。
     
-    登錄機碼:
+    登錄機碼：
 
     >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
     >REG_DWORD “ShowLegacyRoomFinder”</br></br>
@@ -2379,7 +2403,7 @@ ms.locfileid: "67296407"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 修正當某些使用者在共同撰寫時會錯誤地看到通知他們檔案新版本的訊息列之問題。
@@ -2416,7 +2440,7 @@ ms.locfileid: "67296407"
 - 我們已修正一個問題，即在 QAT 中新增的字型大小命令在更新時，會自動完成到最接近的已定義字型大小。
 
 
-- 此變更解决了在方程式中正確顯示字型的問題。
+- 此變更解決了在方程式中正確顯示字型的問題。
 
 
 - 此變更解决對某些幾何圖形套用 [合併圖案] 作業時路徑填充的問題。
@@ -2427,7 +2451,7 @@ ms.locfileid: "67296407"
 - Anaheim WebView 目前尚不支援 Windows 資訊保護(WIP)。 有了此修正程式，Office addin 平臺便會回到處於 WIP 啟用環境中的低層級 WebView。 根據客戶的電腦環境，這可以是 Edge Spartan WebView 或 Trident WebView。 兩個低層級 WebViews 皆支援 WIP。
 
 
-- 優化的二進位大小。
+- 最佳化的二進位大小。
 
 
 - 修正檔案關閉順序，使所有相互依存的元件都能正常關閉。
