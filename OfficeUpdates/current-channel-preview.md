@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e520013ba5ca546a4c225746712fdbfb1b9443c2
-ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.openlocfilehash: 0057619832834b744ab6aac99b852b912e4bdd97
+ms.sourcegitcommit: e37debc0399c6de5eb944b5fead219b0b07b7801
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "67446680"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67458737"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -31,6 +31,20 @@ ms.locfileid: "67446680"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2208-august-29"></a>版本 2208：8 月 29 日
+*版本 2208 (組建 15601.20088)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="word"></a>Word
+
+- 我們已修正使用者無法將資料表的資料列從版本歷程記錄中的舊版複製到目前版本的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -5046,7 +5060,7 @@ ms.locfileid: "67446680"
 *版本 2103 (組建 13901.20336)*
 * 各種錯誤和效能修正。
 
-## <a name="version-2103-april-1"></a>版本 2103：4 月 1 日
+## <a name="version-2103-april-01"></a>版本 2103：4 月 1 日
 *版本 2103 (組建 13901.20148)*
 
 ### <a name="feature-updates"></a>功能更新

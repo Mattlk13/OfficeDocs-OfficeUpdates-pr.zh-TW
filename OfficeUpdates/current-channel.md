@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 3507cff0cb1891dd107bfdc8616cc0dc9cabd3c7
-ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.openlocfilehash: 032860f45fb9fc06238b9950897d616425c1755d
+ms.sourcegitcommit: e37debc0399c6de5eb944b5fead219b0b07b7801
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "67446670"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67458727"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 

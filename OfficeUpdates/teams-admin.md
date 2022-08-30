@@ -15,12 +15,12 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理員功能的版本資訊。
-ms.openlocfilehash: 144c9837da4b26c3aefd3f7c191e8de74b985cec
-ms.sourcegitcommit: ff3de71a12735a5a9a28ac8d4bd4c2abfa028481
+ms.openlocfilehash: f9b7774d2f5b11c51535f6630d95410357a08898
+ms.sourcegitcommit: e37debc0399c6de5eb944b5fead219b0b07b7801
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2022
-ms.locfileid: "67321120"
+ms.lasthandoff: 08/30/2022
+ms.locfileid: "67458747"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
@@ -28,11 +28,35 @@ ms.locfileid: "67321120"
 
 [//]: # (DO NOT REMOVE DATE CONTENT START)
 
-## <a name="august-11-2022"></a>2022 年 8 月 11 日
+## <a name="august-25-2022"></a>2022 年 8 月 25 日
 
 [//]: # (DO NOT REMOVE DATE CONTENT END)
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **將通道成員預先指派給分組會議室：** 讓召集人能夠在頻道會議中預先指派參與者，明確指派未受邀參加會議的通道成員。
+
+- 如果 [自動 **錄製] 會議選項已開啟，轉譯會與錄製一起開啟：** 如果會議召集人已將會議的 [自動錄製] 會議選項設定為 [**開** 啟]，則如果系統管理員允許轉譯，則會在會議開始時將轉譯與錄製一起開啟。 這項功能可讓錄製播放體驗可供存取。
+
+- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+
+- **Teams Mobile 中的智慧型翻譯：** Teams iOS 現在會提示您翻譯不在設定語言中的訊息。
+
+- **Microsoft Teams：透過會議識別碼和密碼從 Windows 上的 Teams 會議室加入 Teams 會議：** 使用者可以使用 Windows 上的 Teams 會議室，使用會議識別碼和密碼加入 Teams 會議。 這項功能可大幅改善租使用者間會議的會議加入體驗，或會議室未受邀參加會議的體驗。
+
+- **Teams Mobile 中的智慧型翻譯：** Teams Android 現在會提示您翻譯不在您語言中的訊息。
+
+- **檢視 Microsoft Teams for Android 的出席報告：** 您現在可以檢查一般會議或網路研討會的出席資訊，以及 Microsoft Teams for Android 網路研討會之前的註冊資訊。
+
+- **在 Microsoft Teams for Android 和 iOS 上檢視會議記錄：** 您現在可以開始轉錄會議，並在 iOS 版 Microsoft Teams 會議之後檢視會議記錄。
+
+- **Microsoft Teams：在 Teams 認證的 Android 裝置上直接加入 Zoom 和 WebEx 會議來賓：** 直接來賓加入 (也稱為協力廠商會議加入) 是從 Microsoft Teams 加入其他會議提供者的會議的能力。 協力廠商會議會出現在 Teams 行事曆上，而且使用者能夠以加入任何其他 Teams 會議的相同方式加入會議。 這項功能僅限於已啟用視訊的 Teams 認證 Android 裝置，且僅支援 Zoom 和 Webex 會議。
+
+- **現在可以在任何行動裝置的 Teams 核准中建立電子簽名核准要求：** 使用者現在可以在任何行動裝置的 Teams 核准中建立電子簽名要求。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+## <a name="august-11-2022"></a>2022 年 8 月 11 日
 
 - **Microsoft Teams：在 Windows 上的 Teams 會議室上共用內容體驗改進：** windows 上的Teams 會議室更新使用者介面，以在會議中共用 HDMI 和內容相機。 新體驗可為會議室內的使用者提供更佳的工作完成體驗和清晰度，確保使用者可以輕鬆地在會議中共用內容。
 
@@ -42,8 +66,6 @@ ms.locfileid: "67321120"
 
 - **透過直接藍牙連線的音訊裝置呼叫控制項：** 使用裝置按鈕來控制通話 (回應、結束、保留來自藍牙音訊裝置的) ，而不需要在連線到執行 Teams 桌面用戶端的 Windows 電腦時使用 USB 小管。 對於許多頭戴式裝置和喇叭，此通話控制功能將可運作，而不需要任何使用者動作，而不需要將頭戴式裝置與其電腦配對。 這項可行性是因為功能是以許多頭戴式裝置目前支援的業界標準 HFP 通訊協定為基礎所建置。 簡言之，如果您的頭戴式裝置能夠在行動裝置上接聽或結束行動資料呼叫，它應該可以使用這項功能。 請觀看我們的認證頁面，以瞭解即將測試的裝置，以符合所有具有直接藍牙連線 (的認證準則，而不需要 USB 容器) 。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="july-28-2022"></a>2022 年 7 月 28 日
 
 - **Brightspace (D2L) LMS 與 M365 整合：** Microsoft 現在已與 Brightspace (D2L) LMS 合作，以提供更順暢的整合式學習體驗。 現在可在 Brightspace 中使用 Microsoft Teams 會議 LTI 和班級 LTI 應用程式。  Teams 課程 LTI 可讓授課者使用課程的名冊資訊，為其 Brightspace 課程建立小組。 Teams 會議 LTI 可讓授課者和學生存取、排程及管理 Brightspace LMS 內的 Teams 會議。 [註冊 Microsoft 365 LMS LTI 整合](https://m365crmedu.powerappsportals.com/LMSSignup/)
