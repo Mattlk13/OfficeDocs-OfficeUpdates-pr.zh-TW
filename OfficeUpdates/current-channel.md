@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 032860f45fb9fc06238b9950897d616425c1755d
-ms.sourcegitcommit: e37debc0399c6de5eb944b5fead219b0b07b7801
+ms.openlocfilehash: e6d8c33d95f66f12a74294dabd102e2668c43722
+ms.sourcegitcommit: 2e9c1dd418675dea7f383801401fb07c1ac9d8c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2022
-ms.locfileid: "67458727"
+ms.lasthandoff: 09/01/2022
+ms.locfileid: "67494760"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -26,6 +26,104 @@ ms.locfileid: "67458727"
 >- Microsoft Teams 功能可能會與最新的目前通道中發行的功能不同，因為後者的發行頻率較高。
 
 
+
+## <a name="version-2208-august-31"></a>版本 2208：8 月 31 日
+*版本 2208 (組建 15601.20088)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用十四個新的文字和陣列函式來強化您的工作表：** 使用十四個功能強大的新函式，輕鬆分割文字並重新排列資料。 請嘗試使用 TEXTSPLIT 來分割文字或 VSTACK，以結合多個陣列。<br />在[部落格文章](https://insider.office.com/en-us/blog/text-and-array-manipulation-functions-in-excel)中查看詳細資料
+
+- **保護您的 PDF：** 敏感度標籤現在可用來保護您的 PDF 免于未經授權的存取。 適用于在 Word、Excel 或 PowerPoint 中建立的檔案。<br />在[部落格文章](https://insider.office.com/en-us/blog/apply-sensitivity-labels-to-pdfs-created-with-office-apps)中查看詳細資料
+
+### <a name="onenote"></a>OneNote
+
+- **以您的聲音記下筆記：** 使用語音轉換文字，而不是使用聽寫鍵入，更快速地記下筆記。 在功能區上，選取麥克風，然後授與 OneNote 使用麥克風的許可權。 [深入了解](https://support.office.com/article/2f5d1549-afe1-4abd-95ff-829a839e3d00)<br />在[部落格文章](https://insider.office.com/en-us/blog/capture-notes-quickly-with-dictate-in-onenote)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **保護您的 PDF：** 敏感度標籤現在可用來保護您的 PDF 免于未經授權的存取。 適用于在 Word、Excel 或 PowerPoint 中建立的檔案。<br />在[部落格文章](https://insider.office.com/en-us/blog/apply-sensitivity-labels-to-pdfs-created-with-office-apps)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **Microsoft Teams：透過會議識別碼和密碼從 Windows 上的 Teams 會議室加入 Teams 會議：** 使用者可以使用 Windows 上的 Teams 會議室，使用會議識別碼和密碼加入 Teams 會議。 這可大幅改善租使用者間會議或會議室未受邀參加會議的會議加入體驗。
+
+- 如果 [自動 **錄製] 會議選項已開啟，轉譯會與錄製一起開啟：** 如果會議召集人將會議的 [自動錄製] 會議選項設定為 [開啟]，如果系統管理員允許轉譯，則會在會議開始時將轉譯與錄製一起開啟。 這可讓錄製播放體驗可供存取。
+
+### <a name="word"></a>Word
+
+- **保護您的 PDF：** 敏感度標籤現在可用來保護您的 PDF 免于未經授權的存取。 適用于在 Word、Excel 或 PowerPoint 中建立的檔案。<br />在[部落格文章](https://insider.office.com/en-us/blog/apply-sensitivity-labels-to-pdfs-created-with-office-apps)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 選取 [附件] 或 [多重值] 欄位的資料表時，啟動 [報表]、[標籤] 或 [查詢精靈] 可能會導致 Access 沒有回應。  此更新會修正此問題，讓這些精靈在所有資料表中再次正常運作。
+
+
+- 我們已修正某些使用者無法搭配現有匯入/匯出規格使用 DoCmd.TransferText 的最近回歸。
+
+
+- 此更新修正了在 Excel 中逐一查看 VBA 程式碼中的 DAO 記錄集時，可能會導致記憶體流失的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正編輯新建立的檔案時，商務列標籤未正確上傳的問題。
+
+
+- 我們已修正 Excel 中包含在篩選或隱藏儲存格中的影像問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 此變更會啟用協力廠商會議應用程式的 [每個會議線上] 選項。
+
+
+- 我們已修正在新應用程式行中以滑鼠右鍵按一下應用程式時，Outlook 有時會意外關閉的問題。
+
+
+- 我們已修正會導致使用者在回復或轉寄訊息時無法載入連結影像的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正無法再開啟之前正常運作的專案的問題。 在此情況下，Project 意外關閉。
+
+
+- 我們已修正訊息「此專案包含一或多個可能不安全且已停用的資料來源連結的問題。 您要啟用這些資料來源嗎？ 只有當您信任檔案的來源時，才能這麼做。」 開啟專案時可能會出現。 即使專案沒有任何作用中的貼上連結，訊息也會出現。 此外，在甘特圖類型檢視中找不到使用中的内嵌物件。
+
+
+- 我們已修正在檢視和報告指派時段實際成本值時的問題。 這些值的總和可能不等於您在工作表檢視) 中看到的值 (純量值。 當時幅細微性從每日等非常詳細到較不詳細，例如每年，加總值和純量值之間的差異可能相當顯著。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正導致 Word 中間歇性停止回應的問題。
+
+
+- 我們已修正使用者無法將資料表的資料列從版本歷程記錄中的舊版複製到目前版本的問題。
+
+
+- 我們已修正 Outlook 無法開啟使用Outlook 網頁版傳送的訊息，且包含從 Word 複製的批註的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正作業會重新安裝 Office 的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2207-august-09"></a>版本 2207：8 月 09 日
 *版本 2207 (組建 15427.20210)*
@@ -3114,6 +3212,7 @@ ms.locfileid: "67458727"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15601.20088|version-2208-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.15427.20212|version-2207-august-09|)
 [//]: # (|Win32|CC|Production| |16.0.15427.20210|version-2207-august-09|)
 [//]: # (|Win32|CC|Production| |16.0.15427.20194|version-2207-august-03|)
@@ -3123,5 +3222,4 @@ ms.locfileid: "67458727"
 [//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
 [//]: # (|Win32|CC|Production| |16.0.15225.20288|version-2205-june-14|)
-[//]: # (|Win32|CC|Production| |16.0.15225.20204|version-2205-may-24|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

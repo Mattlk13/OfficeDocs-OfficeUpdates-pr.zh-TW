@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 539f6105167ac28784629b3bbcb14a55d3dfdcdc
-ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.openlocfilehash: de813c92b906d505cc319df221f2cbd5e7dd3a5f
+ms.sourcegitcommit: 2e9c1dd418675dea7f383801401fb07c1ac9d8c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "67446630"
+ms.lasthandoff: 09/01/2022
+ms.locfileid: "67494775"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -25,6 +25,12 @@ ms.locfileid: "67446630"
 
 ## <a name="version-2206-august-18"></a>版本 2206：8 月 18 日
 *版本 2206 (組建 15330.20306)*
+
+
+
+注意：此版本的可用性有限，因為其發佈時間超出當月第二個星期二的一般發行頻率。 當每月企業通道版本在頻外發佈時，我們不會將它們推送至客戶，而是改為讓它們可供隨選安裝。 使用工具來管理部署的客戶可以使用這些工具，將此組建散發給其組織。 使用者也可以檢查更新，以手動 [方式更新](https://support.microsoft.com/office/install-office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5)裝置。
+
+
 
 安全性更新列於[此處](microsoft365-apps-security-updates.md)
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 37b0818b6bab4858443ab8cebe8b5a59f93888c4
-ms.sourcegitcommit: 95f6c2da1c18ff53c9fceb0bc1c3c7f73ec75238
+ms.openlocfilehash: 0bb902500a4e2841f9d53b332eeb93984a9756c4
+ms.sourcegitcommit: 2e9c1dd418675dea7f383801401fb07c1ac9d8c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2022
-ms.locfileid: "67397456"
+ms.lasthandoff: 09/01/2022
+ms.locfileid: "67494800"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,8 +33,7 @@ ms.locfileid: "67397456"
 
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2207<br/>|15427.20210<br/>|2022 年 8 月 9 日<br/>|2022 年 8 月 3 日<br/>|版本 2208 已發行<br/>|
-|每月企業頻道<br/>|2206<br/>|15330.20306<br/>|2022 年 8 月 18 日<br/>|2022 年 8 月 18 日<br/>|2022 年 10 月 11 日<br/>|
+|目前通道<br/>|2208<br/>|15601.20088<br/>|2022 年 8 月 31 日<br/>|2022 年 8 月 31 日<br/>|版本 2209 已發行<br/>|
 |每月企業頻道<br/>|2205<br/>|15225.20394<br/>|2022 年 8 月 9 日<br/>|2022 年 7 月 26 日<br/>|2022 年 9 月 13 日<br/>|
 |半年企業通道 (預覽)<br/>|2202<br/>|14931.20660<br/>|2022 年 8 月 9 日<br/>|2022 年 3 月 8 日<br/>|2022 年 9 月 13 日<br/>|
 |半年企業通道<br/>|2202<br/>|14931.20660<br/>|2022 年 8 月 9 日<br/>|2022 年 7 月 12 日<br/>|2023 年 9 月 12 日<br/>|
@@ -53,6 +52,7 @@ ms.locfileid: "67397456"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2022|8 月 31 日|[版本 2208 (組建 15601.20088) ](current-channel.md#version-2208-august-31)| | | |
 |2022|8 月 18 日| |[版本 2206 (組建 15330.20306) ](monthly-enterprise-channel.md#version-2206-august-18)| | |
 |2022|8 月 09 日|[版本 2207 (組建 15427.20210)](current-channel.md#version-2207-august-09)|[版本 2205 (組建 15225.20394)](monthly-enterprise-channel.md#version-2205-august-09)|[版本 2202 (組建 14931.20660)](semi-annual-enterprise-channel-preview.md#version-2202-august-09)|[版本 2202 (組建 14931.20660)](semi-annual-enterprise-channel.md#version-2202-august-09)<br/>[版本 2108 (組建 14326.21096)](semi-annual-enterprise-channel.md#version-2108-august-09)<br/>[版本 2102 (組建 13801.21582)](semi-annual-enterprise-channel.md#version-2102-august-09)|
 |2022|8 月 3 日|[版本 2207 (組建 15427.20194)](current-channel.md#version-2207-august-03)| | | |
