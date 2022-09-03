@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: e6d8c33d95f66f12a74294dabd102e2668c43722
-ms.sourcegitcommit: 2e9c1dd418675dea7f383801401fb07c1ac9d8c6
+ms.openlocfilehash: 8dad1782b4eb85e8ad7f4fa89cd6f7273a094b73
+ms.sourcegitcommit: a4ba502347c4035df79b54846a8e2d59a0c26149
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2022
-ms.locfileid: "67494760"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67587532"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -52,6 +52,15 @@ ms.locfileid: "67494760"
 - **Microsoft Teams：透過會議識別碼和密碼從 Windows 上的 Teams 會議室加入 Teams 會議：** 使用者可以使用 Windows 上的 Teams 會議室，使用會議識別碼和密碼加入 Teams 會議。 這可大幅改善租使用者間會議或會議室未受邀參加會議的會議加入體驗。
 
 - 如果 [自動 **錄製] 會議選項已開啟，轉譯會與錄製一起開啟：** 如果會議召集人將會議的 [自動錄製] 會議選項設定為 [開啟]，如果系統管理員允許轉譯，則會在會議開始時將轉譯與錄製一起開啟。 這可讓錄製播放體驗可供存取。
+
+
+- **Teams 教育版班級小組的首頁：** 首頁為班級小組提供最新公告、資源、即將進行的指派、班級檔案和會議的中央目的地。
+
+
+- **Microsoft Teams：釘選和隱藏 Windows 上Teams 會議室的會議室視訊：Windows 上的** Teams 會議室可讓會議室使用者釘選或隱藏會議室畫面前方的會議室視訊。 會議室內參與者可以從主控台上的名冊中選取會議室來控制這些選項。 這項新增功能可讓會議室使用者更進一步個人化，讓室內使用者覺得會議室視訊可能會造成干擾或不需要。
+
+
+- **Microsoft eCDN：** Microsoft eCDN 是企業內容傳遞網路，可優化 Microsoft Teams 和其他影片產品的串流體驗。 此以 WebRTC 為基礎的解決方案可減少頻寬使用量，以協助減輕對網路和企業營運的影響， (LOB) 應用程式。 其網格網路會自我平衡，並隨著檢視者數目增加而自動調整。 這項技術不需要在使用者端點上進行額外安裝，或變更實體網路基礎結構。
 
 ### <a name="word"></a>Word
 

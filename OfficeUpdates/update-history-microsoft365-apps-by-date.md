@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 0bb902500a4e2841f9d53b332eeb93984a9756c4
-ms.sourcegitcommit: 2e9c1dd418675dea7f383801401fb07c1ac9d8c6
+ms.openlocfilehash: 6153c6436e17cbe0ae84dca754956b5a881b4001
+ms.sourcegitcommit: a4ba502347c4035df79b54846a8e2d59a0c26149
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2022
-ms.locfileid: "67494800"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67587552"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -34,7 +34,8 @@ ms.locfileid: "67494800"
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |目前通道<br/>|2208<br/>|15601.20088<br/>|2022 年 8 月 31 日<br/>|2022 年 8 月 31 日<br/>|版本 2209 已發行<br/>|
-|每月企業頻道<br/>|2205<br/>|15225.20394<br/>|2022 年 8 月 9 日<br/>|2022 年 7 月 26 日<br/>|2022 年 9 月 13 日<br/>|
+|每月企業頻道<br/>|2206<br/>|15330.20306<br/>|2022 年 8 月 18 日<br/>|2022 年 8 月 18 日<br/>|2022 年 10 月 11 日<br/>|
+|每月企業頻道<br/>|2205<br/>|15225.20394<br/>|2022 年 8 月 9 日<br/>|2022 年 7 月 26 日<br/>|2022 年 10 月 11 日<br/>|
 |半年企業通道 (預覽)<br/>|2202<br/>|14931.20660<br/>|2022 年 8 月 9 日<br/>|2022 年 3 月 8 日<br/>|2022 年 9 月 13 日<br/>|
 |半年企業通道<br/>|2202<br/>|14931.20660<br/>|2022 年 8 月 9 日<br/>|2022 年 7 月 12 日<br/>|2023 年 9 月 12 日<br/>|
 |半年企業通道<br/>|2108<br/>|14326.21096<br/>|2022 年 8 月 9 日<br/>|2022 年 1 月 11 日<br/>|2023 年 1 月 14 日<br/>|

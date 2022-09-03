@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 1256785a479766eee2985e37321a1ceb046b2c1a
-ms.sourcegitcommit: 5fc83279084b9ad66ed4327ec764b99c96468a5e
+ms.openlocfilehash: d53335eb31a41aba958db68438ff27c2b207df85
+ms.sourcegitcommit: a4ba502347c4035df79b54846a8e2d59a0c26149
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2022
-ms.locfileid: "67508600"
+ms.lasthandoff: 09/02/2022
+ms.locfileid: "67587542"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -104,7 +104,7 @@ ms.locfileid: "67508600"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 我們已修正當您將滑鼠停留在人員名稱上以顯示連絡人卡片時，導致 Office 應用程式當機的問題。
+- 我們已修正當您將滑鼠停留在人員名稱上以顯示連絡人卡片時，導致 Office 應用程式意外關閉的問題。
 
 - 我們已修正在解決許多從 OneDrive 或 SharePoint 開啟 Word、Excel 或 PowerPoint 文件時，會導致意外關閉的案例問題。
 
