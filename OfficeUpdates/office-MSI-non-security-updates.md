@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: b25ca1c60891c15f0e64ffa52a7e174dac555ddb
-ms.sourcegitcommit: 3e97a393e0a1025e1c057bc06702909e41e18ebc
-ms.translationtype: HT
+ms.openlocfilehash: 670ad22a3a0e010cb9326aa85ed5294c72b64b27
+ms.sourcegitcommit: 384897973b6ce5c02fbc872eb572efa371882906
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2022
-ms.locfileid: "67179884"
+ms.lasthandoff: 09/07/2022
+ms.locfileid: "67610544"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
@@ -26,7 +26,15 @@ ms.locfileid: "67179884"
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
 
-## <a name="august--2-2022"></a>2022 年 8 月 2 日
+## <a name="september-6-2022"></a>2022 年 9 月 6 日
+**Office 2016**<br/>
+Microsoft Office 2016 ([KB5002251](https://support.microsoft.com/help/5002251))  </br>
+
+**Office 2013**<br/>
+Microsoft Excel 2013 ([KB5002268](https://support.microsoft.com/help/5002268)) 更新 </br>
+Microsoft Office 2013 更新 ([KB5002252](https://support.microsoft.com/help/5002252))  </br>
+
+## <a name="august-2-2022"></a>2022 年 8 月 2 日
 **Office 2016**<br/>
 Microsoft Office 2016 的更新 ([KB5002248](https://support.microsoft.com/help/5002248)) </br>
 
@@ -51,12 +59,5 @@ Microsoft Access 2016 更新 ([KB5002048](https://support.microsoft.com/help/500
 **Office 2016**<br/>
 Microsoft Office 2016 的更新 ([KB5002141](https://support.microsoft.com/help/5002141)) </br>
 Microsoft Project 2016 的更新 ([KB5002132](https://support.microsoft.com/help/5002132)) </br>
-
-## <a name="march-1-2022"></a>2022 年 3 月 1 日
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB5002160](https://support.microsoft.com/help/5002160)) </br>
-商務用 Skype 2016 更新 ([KB5002106](https://support.microsoft.com/help/5002106)) </br>
-
-
 
 </br>
