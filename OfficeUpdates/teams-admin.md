@@ -15,24 +15,19 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理員功能的版本資訊。
-ms.openlocfilehash: f9b7774d2f5b11c51535f6630d95410357a08898
-ms.sourcegitcommit: e37debc0399c6de5eb944b5fead219b0b07b7801
+ms.openlocfilehash: 9de74bbd55deb5b935065979202a9889c01db86e
+ms.sourcegitcommit: 41759a1d58770998eeef2ab569c25b8a8635d2fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2022
-ms.locfileid: "67458747"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "67639278"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
 這些版本資訊提供 Microsoft Teams 新系統管理員功能的相關資訊。
 
-[//]: # (DO NOT REMOVE DATE CONTENT START)
-
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="august-25-2022"></a>2022 年 8 月 25 日
-
-[//]: # (DO NOT REMOVE DATE CONTENT END)
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
-
 
 - **將通道成員預先指派給分組會議室：** 讓召集人能夠在頻道會議中預先指派參與者，明確指派未受邀參加會議的通道成員。
 
@@ -54,8 +49,6 @@ ms.locfileid: "67458747"
 
 - **現在可以在任何行動裝置的 Teams 核准中建立電子簽名核准要求：** 使用者現在可以在任何行動裝置的 Teams 核准中建立電子簽名要求。
 
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="august-11-2022"></a>2022 年 8 月 11 日
 
 - **Microsoft Teams：在 Windows 上的 Teams 會議室上共用內容體驗改進：** windows 上的Teams 會議室更新使用者介面，以在會議中共用 HDMI 和內容相機。 新體驗可為會議室內的使用者提供更佳的工作完成體驗和清晰度，確保使用者可以輕鬆地在會議中共用內容。

@@ -9,18 +9,18 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 48c9398997d421a89f61d53764d1b6677826a366
-ms.sourcegitcommit: e37debc0399c6de5eb944b5fead219b0b07b7801
+ms.openlocfilehash: 282db70c36084bf17a72459900dde596aedef9cf
+ms.sourcegitcommit: 41759a1d58770998eeef2ab569c25b8a8635d2fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/30/2022
-ms.locfileid: "67458717"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "67639298"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-august-25"></a>Teams 管理員和 Teams 應用程式：8 月 25 日
+## <a name="teams-admin-and-teams-app-september-08"></a>Teams 管理員和 Teams 應用程式：9 月 8 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
@@ -30,6 +30,41 @@ ms.locfileid: "67458717"
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
+
+- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+
+[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+
+- **將通道成員預先指派給分組會議室：** 讓召集人能夠在頻道會議內預先指派參與者給未明確邀請會議的通道成員的分組會議室。 目前，只有受邀參加會議的參與者才能完成預先指派。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-admin-and-teams-app-august-25"></a>Teams 管理員和 Teams 應用程式：8 月 25 日
+
+### <a name="dod-customers"></a>DoD 客戶:
 
 - **在家工作的動態緊急電話：** 此功能可讓使用者驗證 (，並視需要編輯) 會在緊急電話由在家工作的個人撥打緊急電話時，與緊急回應者通訊的位址。
 
@@ -44,13 +79,6 @@ ms.locfileid: "67458717"
 - **出席者限制，可從政府雲端的聊天中移除另一位出席者：** 從聊天移除出席者現在僅限於召集人。
 
 - **頻道擁有者/s 可以刪除政府雲端頻道會議內的會議聊天訊息：** IT 系統管理員可以開啟「擁有者可以刪除已傳送的訊息」，並將此訊息原則指派給使用者或使用者群組。 您必須先套用此原則，通道擁有者才能透過管理小組 -> [設定] 查看 [成員許可權] 上的 [擁有者可以刪除已傳送的訊息] 選項。 如果啟用此選項，則獲指派原則的通道擁有者/s 將可刪除主視窗和會議視窗中的聊天訊息。
-
-
-[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
-
-[//]: # (DO NOT REMOVE DoD CUSTOMERS END)
-
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS START)
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
@@ -68,10 +96,6 @@ ms.locfileid: "67458717"
 
 - **頻道擁有者/s 可以刪除政府雲端頻道會議內的會議聊天訊息：** IT 系統管理員可以開啟「擁有者可以刪除已傳送的訊息」，並將此訊息原則指派給使用者或使用者群組。 您必須先套用此原則，通道擁有者才能透過管理小組 -> [設定] 查看 [成員許可權] 上的 [擁有者可以刪除已傳送的訊息] 選項。 如果啟用此選項，則獲指派原則的通道擁有者/s 將可刪除主視窗和會議視窗中的聊天訊息。
 
-[//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
-
-[//]: # (DO NOT REMOVE GCC CUSTOMERS START)
-
 ### <a name="gcc-customers"></a>GCC 客戶:
 
 - **在家工作的動態緊急電話：** 此功能可讓使用者驗證 (，並視需要編輯) 會在緊急電話由在家工作的個人撥打緊急電話時，與緊急回應者通訊的位址。
@@ -87,8 +111,6 @@ ms.locfileid: "67458717"
 - **出席者限制，可從政府雲端的聊天中移除另一位出席者：** 從聊天移除出席者現在僅限於召集人。
 
 - **頻道擁有者/s 可以刪除政府雲端頻道會議內的會議聊天訊息：** IT 系統管理員可以開啟「擁有者可以刪除已傳送的訊息」，並將此訊息原則指派給使用者或使用者群組。 您必須先套用此原則，通道擁有者才能透過管理小組 -> [設定] 查看 [成員許可權] 上的 [擁有者可以刪除已傳送的訊息] 選項。 如果啟用此選項，則獲指派原則的通道擁有者/s 將可刪除主視窗和會議視窗中的聊天訊息。
-
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
 ## <a name="teams-admin-august-25"></a>Teams 管理員：8 月 25 日
 

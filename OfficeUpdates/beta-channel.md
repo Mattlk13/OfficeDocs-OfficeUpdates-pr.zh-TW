@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 523c87df80fdb187fca04ba37598fd2b58f1a975
-ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.openlocfilehash: 7666923824f0d09a2c911e54bc86ea909899b25a
+ms.sourcegitcommit: 41759a1d58770998eeef2ab569c25b8a8635d2fe
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "67446690"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "67639288"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,74 @@ ms.locfileid: "67446690"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2209-september-09"></a>版本 2209：9 月 9 日
+*版本 2209 (組建 15629.20058)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用新的敏感度工具列，更輕鬆地防止資料外泄** 由Microsoft Purview 資訊保護提供的敏感度標籤現在會與應用程式標題列中的檔案名一起顯示，讓您輕鬆辨識並遵守組織的原則。 您也可以在儲存新檔或重新命名現有檔時使用敏感度工具列，協助您隨時掌握資訊安全性。
+
+- **Excel 樞紐分析表版本相容性使用者傳訊** Excel 現在會警示樞紐分析表相容性問題，並提供資訊性檔和因應措施。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **使用新的敏感度工具列，更輕鬆地防止資料外泄** 由Microsoft Purview 資訊保護提供的敏感度標籤現在會與應用程式標題列中的檔案名一起顯示，讓您輕鬆辨識並遵守組織的原則。 您也可以在儲存新檔或重新命名現有檔時使用敏感度工具列，協助您隨時掌握資訊安全性。
+
+### <a name="word"></a>Word
+
+- **使用新的敏感度工具列，更輕鬆地防止資料外泄** 由Microsoft Purview 資訊保護提供的敏感度標籤現在會與應用程式標題列中的檔案名一起顯示，讓您輕鬆辨識並遵守組織的原則。 您也可以在儲存新檔或重新命名現有檔時使用敏感度工具列，協助您隨時掌握資訊安全性。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正存取其中包含豐富實體的檔案時，應用程式意外關閉的問題。
+
+
+- 我們已修正自動化中樞紐分析表和 Office 腳本的問題，當 Office 腳本將樞紐分析表欄位新增至 Null 值時，應用程式會意外關閉。
+
+
+- 我們已修正在資料列或資料行座標軸上樞紐分析表的某些儲存格上設定格式 (例如填滿色彩) ，然後將這些欄位移至樞紐分析表的 [篩選] 區域之後，Excel 檔案可能會損毀的問題。
+
+
+- 我們已修正在從右至左方向使用工作表時，反轉工作表索引標籤導覽按鈕的問題。 此問題的原因是，Office UI 中左右按鈕的定義會翻轉，而且目前正在據以設定。
+
+
+- 我們已修正在選取錯誤檢查欄位錯誤的 OOUI 欄位選項時，應用程式會意外關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致自訂快速存取工具列檔案 (.exportedUI) 在使用簡化功能區時無法匯入的問題。
+
+
+- 我們已修正會導致使用者無法在 Outlook Desktop 中看到搜尋結果的到期日的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正使用者可能無法在追蹤變更中按一下超連結的問題。
+
+
+- 我們已修正批註可能無法載入的問題。
+
+
+- 我們已修正當所有開啟的檔案視窗最小化時，Word 可能不會顯示正確的檔案的問題
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2209-august-26"></a>版本 2209：8 月 26 日
 *版本 2209 (組建 15619.20000)*
@@ -6597,6 +6665,7 @@ ms.locfileid: "67446690"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15629.20058|version-2209-september-09|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15619.20000|version-2209-august-26|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15615.20000|version-2209-august-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15522.20000|version-2208-july-29|)
@@ -6606,5 +6675,4 @@ ms.locfileid: "67446690"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
-[//]: # (|Win32|DevMain|測試人員| |16.0.15330.20004|version-2206-june-03|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
