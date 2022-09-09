@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 7666923824f0d09a2c911e54bc86ea909899b25a
-ms.sourcegitcommit: 41759a1d58770998eeef2ab569c25b8a8635d2fe
+ms.openlocfilehash: a2c249c9dd0c3cd2b0c92374276450a702c91f2c
+ms.sourcegitcommit: 157071197719e3b0100682d2531708c78504ba79
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/09/2022
-ms.locfileid: "67639288"
+ms.locfileid: "67640097"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -42,7 +42,23 @@ ms.locfileid: "67639288"
 
 - **使用新的敏感度工具列，更輕鬆地防止資料外泄** 由Microsoft Purview 資訊保護提供的敏感度標籤現在會與應用程式標題列中的檔案名一起顯示，讓您輕鬆辨識並遵守組織的原則。 您也可以在儲存新檔或重新命名現有檔時使用敏感度工具列，協助您隨時掌握資訊安全性。
 
-- **Excel 樞紐分析表版本相容性使用者傳訊** Excel 現在會警示樞紐分析表相容性問題，並提供資訊性檔和因應措施。
+
+- **Excel 樞紐分析表版本相容性使用者傳訊：** Excel 現在會提供有關樞紐分析表相容性問題的警示，並提供資訊性檔和因應措施。 當您的 Excel 版本無法讀取活頁簿中的資料時，我們會向使用者提供檔，以提供主動疑難排解和解決問題的選項。 此外，我們也允許使用者將其 Excel 檔上傳至 OneDrive，以便在Excel 網頁版中順暢地開啟檔案。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們新增了登錄機碼，可隱藏 [試用新的 Outlook] 切換開關。 
+
+    登錄機碼：
+
+    HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Options\General</br>
+    「HideNewOutlookToggle」 0 (預設) - [試用新的 Outlook] 切換，如果可在選取的更新通道中使用，則會向使用者顯示。   
+
+    1 - 隱藏 [試用新的 Outlook] 切換。
+
+  若要深入瞭解新的 Windows 版 Outlook，請 [按一下這裡](https://support.microsoft.com/office/getting-started-with-the-new-outlook-for-windows-656bb8d9-5a60-49b2-a98b-ba7822bc7627)。 如需管理新 Windows 版 Outlook 信箱存取的其他資訊，請 [按一下這裡](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/enable-disable-employee-access-new-outlook)。 
+
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -62,39 +78,29 @@ ms.locfileid: "67639288"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="excel"></a>Excel
 
-- 我們已修正存取其中包含豐富實體的檔案時，應用程式意外關閉的問題。
+- 我們已修正存取包含豐富實體的檔案時，應用程式意外關閉的問題。
 
-
-- 我們已修正自動化中樞紐分析表和 Office 腳本的問題，當 Office 腳本將樞紐分析表欄位新增至 Null 值時，應用程式會意外關閉。
-
+- 我們已修正使用 Office 腳本操作樞紐分析表欄位時，Excel 可能會意外關閉的問題。
 
 - 我們已修正在資料列或資料行座標軸上樞紐分析表的某些儲存格上設定格式 (例如填滿色彩) ，然後將這些欄位移至樞紐分析表的 [篩選] 區域之後，Excel 檔案可能會損毀的問題。
 
+- 我們已修正工作表導覽按鈕的問題，該按鈕在使用由右至左方向工作表時翻轉。
 
-- 我們已修正在從右至左方向使用工作表時，反轉工作表索引標籤導覽按鈕的問題。 此問題的原因是，Office UI 中左右按鈕的定義會翻轉，而且目前正在據以設定。
-
-
-- 我們已修正在選取錯誤檢查欄位錯誤的 OOUI 欄位選項時，應用程式會意外關閉的問題。
-
+- 我們已修正選取錯誤#FIELD時，應用程式會意外關閉的問題！ 工作表中的儲存格，然後開啟 [欄位錯誤的錯誤檢查 OOUI 欄位] 選項。
 
 ### <a name="outlook"></a>Outlook
 
-- 我們已修正導致自訂快速存取工具列檔案 (.exportedUI) 在使用簡化功能區時無法匯入的問題。
-
+- 我們已修正在使用簡化功能區時，自訂快速存取工具列檔案 (.exportedUI) 無法匯入的問題。
 
 - 我們已修正會導致使用者無法在 Outlook Desktop 中看到搜尋結果的到期日的問題。
 
-
 ### <a name="word"></a>Word
 
-- 我們已修正使用者可能無法在追蹤變更中按一下超連結的問題。
-
+- 我們已修正使用者無法在追蹤變更中按一下超連結的問題。
 
 - 我們已修正批註可能無法載入的問題。
 
-
-- 我們已修正當所有開啟的檔案視窗最小化時，Word 可能不會顯示正確的檔案的問題
-
+- 我們已修正當所有開啟的檔案視窗都已最小化時，Word 可能不會顯示正確的檔案的問題。
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
