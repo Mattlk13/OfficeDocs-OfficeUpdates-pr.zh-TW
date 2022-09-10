@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: a2c249c9dd0c3cd2b0c92374276450a702c91f2c
-ms.sourcegitcommit: 157071197719e3b0100682d2531708c78504ba79
+ms.openlocfilehash: ae859ec52ae546762780622d92ef7907efca1526
+ms.sourcegitcommit: 4bb42b507cd68301e0afbcff3ad11c44e17abf75
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "67640097"
+ms.lasthandoff: 09/10/2022
+ms.locfileid: "67642745"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -52,12 +52,13 @@ ms.locfileid: "67640097"
 
     登錄機碼：
 
-    HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Options\General</br>
-    「HideNewOutlookToggle」 0 (預設) - [試用新的 Outlook] 切換，如果可在選取的更新通道中使用，則會向使用者顯示。   
+    >HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Options\General</br>
+    >「HideNewOutlookToggle」</br></br>
+    >0 (預設) - [試用新的 Outlook] 切換，如果可在選取的更新通道中使用，則會向使用者顯示。</br>
+    >1 - 隱藏 [試用新的 Outlook] 切換。
 
-    1 - 隱藏 [試用新的 Outlook] 切換。
+  若要深入瞭解新的 Windows 版 Outlook，請 [按一下這裡](https://support.microsoft.com/office/getting-started-with-the-new-outlook-for-windows-656bb8d9-5a60-49b2-a98b-ba7822bc7627)。 如需管理新 Windows 版 Outlook 信箱存取的其他資訊，請 [按一下這裡](/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/enable-disable-employee-access-new-outlook)。 
 
-  若要深入瞭解新的 Windows 版 Outlook，請 [按一下這裡](https://support.microsoft.com/office/getting-started-with-the-new-outlook-for-windows-656bb8d9-5a60-49b2-a98b-ba7822bc7627)。 如需管理新 Windows 版 Outlook 信箱存取的其他資訊，請 [按一下這裡](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/enable-disable-employee-access-new-outlook)。 
 
 
 ### <a name="powerpoint"></a>PowerPoint
