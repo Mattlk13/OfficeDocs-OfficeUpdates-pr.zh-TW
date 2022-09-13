@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: d53335eb31a41aba958db68438ff27c2b207df85
-ms.sourcegitcommit: a4ba502347c4035df79b54846a8e2d59a0c26149
+ms.openlocfilehash: 24a75e76e35f923293ca36d1156a16d3fbdb2d23
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "67587542"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666401"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -22,6 +22,91 @@ ms.locfileid: "67587542"
 
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2207-september-13"></a>版本 2207：9 月 13 日
+*版本 2207 (組建 15427.20284)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 我們已修正某些使用者無法搭配現有匯入/匯出規格使用 DoCmd.TransferText 的最近問題。
+
+
+- 選取 [附件] 或 [多重值] 欄位的資料表時，啟動 [報表]、[標籤] 或 [查詢精靈] 可能會導致 Access 沒有回應。  此更新會修正此問題，讓這些精靈在所有資料表中再次正常運作。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正 Excel 中包含在篩選或隱藏儲存格中的影像問題。
+
+
+- 我們已修正在某些情況下，當資料格有資料驗證規則時，可能會影響效能的問題。
+
+
+- 我們已修正在選擇 [檔案] > [關閉] 或按 Ctrl+W 關閉最後一個活頁簿時，導致 Excel 完全關閉的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致 Exchange 2019 使用者在搜尋結果中看到 Outlook 未在郵件上顯示回復指標圖示的問題。
+
+
+- 我們已修正導致某些人在開機後很快就會遇到非預期關閉的問題。
+
+
+- 我們已修正會導致使用者在其左側滑軌導覽列中看到 [日誌] 模組的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正在檢視和報告指派時段實際成本值時，這些值的總和可能不等於純量值， (您在工作表檢視中看到的值) 。 隨著時幅細微性從詳細 (例如每日) 變為較不詳細 (例如每年)，差異可能會增加。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正連結不會自動更新至內嵌 Word 檔的問題。
+
+
+- 我們已修正「以連結貼上」可能無法自動更新的問題。
+
+
+- 我們已修正列印含有索引的頁面可能無法列印的問題。
+
+
+- 我們已修正 Outlook (WordMail) 訊息會在放大或縮小時出現白色背景閃爍的問題。
+
+
+- 我們已修正導致 Word 中間歇性停止回應的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正錄製簡報時發生錯誤且錄製會停止的問題。
+
+
+- 我們已修正作業會重新安裝 Office 的問題。
+
+
+- 我們已修正引入新視覺效果的影片無法顯示的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2205-september-13"></a>版本 2205：9 月 13 日
+*版本 2205 (組建 15225.20422)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+注意：2206 版不會再有更新。 2207 版和 2205 版提供 9 月 13 日的所有目前安全性修正。 如果您需要從 2207 版執行復原，唯一可用的版本將是 2205。
+
+
 
 ## <a name="version-2206-august-18"></a>版本 2206：8 月 18 日
 *版本 2206 (組建 15330.20306)*
@@ -2632,6 +2717,7 @@ ms.locfileid: "67587542"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|生產|Feature|16.0.15427.20284|version-2207-september-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15330.20298|version-2206-august-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15225.20356|version-2205-july-12|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15128.20280|version-2204-june-14|)
@@ -2641,5 +2727,4 @@ ms.locfileid: "67587542"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.14527.20340|version-2110-december-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

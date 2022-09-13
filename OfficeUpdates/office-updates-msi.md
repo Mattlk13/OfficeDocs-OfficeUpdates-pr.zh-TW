@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新更新資訊連結
-ms.openlocfilehash: 88204533e96f682f8b96ad03986eef3cd334cd9f
-ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
-ms.translationtype: HT
+ms.openlocfilehash: 02d89e55cfe57b6bb1b0f1f1c851a2007bd11552
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2022
-ms.locfileid: "67296397"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666351"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新更新
 
@@ -31,7 +31,7 @@ ms.locfileid: "67296397"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2022 年 8 月 PU  <br/> [KB5002079](https://support.microsoft.com/help/5002079) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |不適用  <br/> |2022 年 9 月 PU  <br/> [KB5002080](https://support.microsoft.com/help/5002080) <br/> |
 
 ## <a name="office-2013-updates"></a>Office 2013 更新
 > [!IMPORTANT]
@@ -39,10 +39,12 @@ ms.locfileid: "67296397"
 
 |**版本和產品**|**最新的 Service Pack (SP)**|**最新的 Public Update (PU)**|
 |:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 8 月 PU  <br/> [KB5002079](https://support.microsoft.com/help/5002079) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |2022 年 9 月 PU  <br/> [KB5002080](https://support.microsoft.com/help/5002080) <br/> |
       
    
 ## <a name="updates-released-in-past-12-months"></a>過去 12 個月發行的更新
+[2022 年 9 月的安全性和非安全性更新：KB5002080](https://support.microsoft.com/help/5002080)
+
 [2022 年 8 月的安全性和非安全性更新: KB5002079](https://support.microsoft.com/help/5002079)
 
 [2022 年 7 月的安全性和非安全性更新：KB5002078](https://support.microsoft.com/help/5002078)
@@ -65,7 +67,6 @@ ms.locfileid: "67296397"
 
 [2021 年 10 月的安全性和非安全性更新：KB5001967](https://support.microsoft.com/help/5001967)
 
-[2021 年 9 月的安全性和非安全性更新：KB5001966](https://support.microsoft.com/help/5001966)
 
 
 

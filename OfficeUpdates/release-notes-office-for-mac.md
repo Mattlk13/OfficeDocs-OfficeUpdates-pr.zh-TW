@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: c0afe1ceb1c19879a87c46b86795a9fb76b573d4
-ms.sourcegitcommit: b1db8610011975287e8b484abe8ea7f1dfdfd622
+ms.openlocfilehash: 129cb788ad97747a423383d24318259f512c4de2
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2022
-ms.locfileid: "67362579"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666341"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -37,6 +37,34 @@ ms.locfileid: "67362579"
 
 
 
+
+
+
+## <a name="september-13-2022"></a>2022 年 9 月 13 日
+*版本 16.65 (組建22091101)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **使用十四個新的文字和陣列函式來強化您的工作表：** 使用十四個功能強大的新函式，輕鬆分割文字並重新排列資料。 請嘗試使用 TEXTSPLIT 來分割文字或 VSTACK，以結合多個陣列。<br />在[部落格文章](https://insider.office.com/en-us/blog/text-and-array-manipulation-functions-in-excel)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="security-updates"></a>安全性更新
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2022-37962](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-37962)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
 
 ## <a name="august-16-2022"></a>2022 年 8 月 16 日
 *版本 16.64 (組建22081401)*

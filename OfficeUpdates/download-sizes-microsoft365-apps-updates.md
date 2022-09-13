@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: abeca5bd98a7de524052a918df911156fdb1fe1a
-ms.sourcegitcommit: 95f6c2da1c18ff53c9fceb0bc1c3c7f73ec75238
+ms.openlocfilehash: 88119d34c826bbc7b2e4142ca82241766ec66afd
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/20/2022
-ms.locfileid: "67397485"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666421"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -30,6 +30,67 @@ ms.locfileid: "67397485"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="september-13-2022"></a>2022 年 9 月 13 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 13， 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2208 (組建 15601.20148) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2208 (組建 15601.20088)  <br/> |2022 年 8 月 31 日 <br/> |53<br/> |
+|版本 2207 (組建 15427.20210) <br/> |2022 年 8 月 9 日 <br/> |130<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>每月企業頻道
+
+最新的版本是版本 2207 (組建 15427.20284) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2205 (組建 15225.20394) <br/> |2022 年 8 月 9 日 <br/> |170<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
+
+最新的版本是版本 2208 (組建 15601.20148) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2202 (組建 14931.20660) <br/> |2022 年 8 月 9 日 <br/> |260<br/> |
+|版本 2202 (組建 14931.20646) <br/> |2022 年 7 月 26 日 <br/> |485<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>半年企業通道
+
+最新的版本是版本 2202 (組建 14931.20724) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2202 (組建 14931.20660) <br/> |2022 年 8 月 9 日 <br/> |64<br/> |
+|版本 2202 (組建 14931.20646) <br/> |2022 年 7 月 26 日 <br/> |67<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 13， 2022)
+
+## <a name="august-31-2022"></a>2022 年 8 月 31 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTAugust 31， 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2208 (組建 15601.20088) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2207 (組建 15427.20210) <br/> |2022 年 8 月 9 日 <br/> |130<br/> |
+|版本 2207 (組建 15427.20194) <br/> |2022 年 8 月 3 日 <br/> |132<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDAugust 31， 2022)
 
 ## <a name="august-18-2022"></a>2022 年 8 月 18 日
 

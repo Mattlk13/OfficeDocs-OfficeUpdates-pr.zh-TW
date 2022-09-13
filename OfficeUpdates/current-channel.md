@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 8dad1782b4eb85e8ad7f4fa89cd6f7273a094b73
-ms.sourcegitcommit: a4ba502347c4035df79b54846a8e2d59a0c26149
+ms.openlocfilehash: 08701c7055c813e826c19c141c687cd6299d03cc
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2022
-ms.locfileid: "67587532"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666530"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -26,6 +26,73 @@ ms.locfileid: "67587532"
 >- Microsoft Teams 功能可能會與最新的目前通道中發行的功能不同，因為後者的發行頻率較高。
 
 
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2208-september-13"></a>版本 2208：9 月 13 日
+*版本 2208 (組建 15601.20148)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 在 Office 2016 和 Office 365 Visual Refresh 中，已改善工作窗格和對話方塊中彩色和白色主題中暫留和按下滑杆的可見度。
+
+
+- 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。
+
+
+- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致自訂快速存取工具列檔案 (.exportedUI) 在使用簡化功能區時無法匯入的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 在 Office 2016 和 Office 365 Visual Refresh 中，已改善工作窗格和對話方塊中彩色和白色主題中暫留和按下滑杆的可見度。
+
+
+- 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。
+
+
+- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+
+
+### <a name="word"></a>Word
+
+- 在 Office 2016 和 Office 365 Visual Refresh 中，已改善工作窗格和對話方塊中彩色和白色主題中暫留和按下滑杆的可見度。
+
+
+- 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。
+
+
+- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+
+
+- 我們已修正共同撰寫時移除標頭樣式的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正使用圖形和 SmartArt 的色彩選擇器文字選取案例中的問題。
+
+
+- 我們已修正與使用者介面動畫相關的不穩定問題。
+
+
+- 我們已修正在 Outlook 中轉譯 SVG 圖形的相關問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2208-august-31"></a>版本 2208：8 月 31 日
 *版本 2208 (組建 15601.20088)*
@@ -3221,6 +3288,8 @@ ms.locfileid: "67587532"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15601.20150|version-2208-september-13|)
+[//]: # (|Win32|CC|Production| |16.0.15601.20148|version-2208-september-13|)
 [//]: # (|Win32|CC|Production| |16.0.15601.20088|version-2208-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.15427.20212|version-2207-august-09|)
 [//]: # (|Win32|CC|Production| |16.0.15427.20210|version-2207-august-09|)
@@ -3229,6 +3298,4 @@ ms.locfileid: "67587532"
 [//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
-[//]: # (|Win32|CC|Production| |16.0.15225.20290|version-2205-june-14|)
-[//]: # (|Win32|CC|Production| |16.0.15225.20288|version-2205-june-14|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

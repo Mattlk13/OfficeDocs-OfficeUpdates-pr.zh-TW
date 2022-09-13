@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: c54c583dbee03622a709902b36835384a306643a
-ms.sourcegitcommit: b1db8610011975287e8b484abe8ea7f1dfdfd622
+ms.openlocfilehash: 4d24ebe19e00d4e34cd6daae006ba8e350bbd405
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/16/2022
-ms.locfileid: "67362589"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666331"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
@@ -29,6 +29,28 @@ ms.locfileid: "67362589"
 > - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="september-2022-release"></a>2022 年 9 月版本
+
+**發行日期：** 2022 年 9 月 13 日
+
+*Microsoft AutoUpdate 4.51*
+
+**增強功能：**
+-   如果在 macOS Ventura 上停用在背景中執行，AutoUpdate 現在會顯示警告
+- 改善圖形使用者介面中的協助工具
+- 期限功能的增強可靠性
+
+**錯誤修正：**
+-   修正在設定 GuardAgainstAppModification 時，複製的應用程式在啟動時不正確移除的問題
+- 已修正當複製資料夾遺失時，更新小幫手意外關閉的問題
+
+[下載 Microsoft AutoUpdate 4.51 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.51.22091101_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+EA9E59EB60604AD9785CB0C81BD490DE5C7D32527F1DA7064D4F77226E2DC907
+<br><br>
 
 ## <a name="august-2022-release"></a>2022 年 8 月版本
 
@@ -50,8 +72,8 @@ ms.locfileid: "67362589"
 - 已修正如果已設定不正確日期/時間，Microsoft AutoUpdate 可能會當機的問題
 - 修正了建構下載 URL 時，Microsoft AutoUpdate 可能會當機的問題
 
-[下載 Microsoft AutoUpdate 4.50 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.50.22081401_Updater.pkg)<br/>
-<br/>
+
+
 **SHA-256 雜湊：**
 
 28F675FA2D1B21CB01DE005DAD1EE6182536DD05489C98AEAADF8BC7550AACD9

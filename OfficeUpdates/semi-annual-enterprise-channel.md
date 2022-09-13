@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: fa3a7a25676dbd8f96419f7c47ebc550710823d9
-ms.sourcegitcommit: 9627cf891a272ba43523bfc29761b62c746cf3c7
+ms.openlocfilehash: ff6434a605cbb6df48cfdba5b6279740245391c8
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2022
-ms.locfileid: "67446700"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666591"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -25,6 +25,82 @@ ms.locfileid: "67446700"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 依預設將包括在其中。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2202-september-13"></a>版本 2202：9 月 13 日
+*版本 2202 (組建 14931.20724)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當人員嘗試在不受支援區域中使用地圖圖表時提供詳細資訊的問題。
+
+
+- 我們已修正針對不支援的區域更正 3D 地圖顯示的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正當人員嘗試在不受支援區域中使用地圖圖表時提供詳細資訊的問題。
+
+
+- 我們已修正回覆電子郵件並變更主旨時，會移除參照及回覆至標頭的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當人員嘗試在不受支援區域中使用地圖圖表時提供詳細資訊的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正與語音存取相關的協助工具問題，其中資料行標題號碼不會出現在 [排程詳細資料] 頁面等方格中。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正當人員嘗試在不受支援區域中使用地圖圖表時提供詳細資訊的問題。
+
+
+- 我們已修正使用中文匯出至 PDF 時，某些特殊字元會顯示替代字型的問題 (傳統) Windows 顯示語言。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正與 SVG 圖形內的文字配置相關的問題。
+
+
+- 我們已修正在儲存檔案期間，Web 增益集中的設定可能會遺失的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-september-13"></a>版本 2108：9 月 13 日
+*版本 2108 (組建 14326.21142)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="onenote"></a>OneNote
+
+- 將 OneNote UWP 資訊清單更新為不使用 OneNote 名稱，請改用 OneNote 作為Windows 10。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在 Outlook 中轉譯 SVG 圖形的相關問題。
+
+
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -2902,7 +2978,7 @@ ms.locfileid: "67446700"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -2910,7 +2986,7 @@ ms.locfileid: "67446700"
 
 ### <a name="word"></a>Word
 
-- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -3741,6 +3817,7 @@ ms.locfileid: "67446700"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14931.20724|version-2202-september-13|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20660|version-2202-august-09|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20604|version-2202-july-12|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20588|version-2202-july-12|)
@@ -3750,5 +3827,4 @@ ms.locfileid: "67446700"
 [//]: # (|Win32|DC|Production| |16.0.14326.20910|version-2108-april-12|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
-[//]: # (|Win32|DC|Production| |16.0.14326.20734|version-2108-january-11|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

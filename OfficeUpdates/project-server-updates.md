@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: 尋找及管理 Project Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，並下載更新本身。
-ms.openlocfilehash: db20cff0de278b4a79514352eb9e97d4f9a23eba
-ms.sourcegitcommit: 55134bd473ef594082a83fed2672f17480c8f72c
-ms.translationtype: HT
+ms.openlocfilehash: de641fa3316ff9035ea1795363a7d83f8929cdf0
+ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/09/2022
-ms.locfileid: "67296357"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "67666381"
 ---
 # <a name="project-server-updates"></a>Project Server 更新
 
@@ -31,6 +31,7 @@ ms.locfileid: "67296357"
 
 |**發行日期**|**KB 號碼**|
 |:-----|:-----|
+| 2022 年 9 月 <br/> |[KB5002263](https://support.microsoft.com/help/5002263) <br/>|
 |2022 年 8 月 <br/>|[KB5002239](https://support.microsoft.com/help/5002239) <br/>|
 |2022 年 6 月 <br/>|[KB5002216](https://support.microsoft.com/help/5002216) <br/>|
 |2022 年 5 月 <br/>|[KB5002201](https://support.microsoft.com/help/5002201) <br/>|
@@ -196,7 +197,7 @@ ms.locfileid: "67296357"
 |2014 年 9 月  <br/>  |[KB2883072](https://support.microsoft.com/help/2883072) <br/> |
 
 [//]: # (DO NOT REMOVE CONTENT END)
-   
+
 ## <a name="project-server-2010-update-history"></a>Project Server 2010 更新歷程記錄
 > [!IMPORTANT]
 > Project Server 2010 的支援已於 2021 年 4 月 13 日結束。 
