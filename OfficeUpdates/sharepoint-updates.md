@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: 在單一位置尋找及管理 SharePoint Server 訂閱版本、SharePoint Server 2019、SharePoint Server 2016 及 SharePoint Server 2013 的更新。使用此頁面上的連結取得更新的詳細資訊，然後下載更新。
-ms.openlocfilehash: c5b4f2ceae7aaf662cfbe399a1f24d33c69522ff
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 1588579c678c36bff4d5d8f36fc3f2d276a47f4f
+ms.sourcegitcommit: b4b9e8e726e5b5b8300402a2a95fa26d7d4091ea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666391"
+ms.lasthandoff: 09/15/2022
+ms.locfileid: "67708437"
 ---
 # <a name="sharepoint-updates"></a>SharePoint 更新
 
@@ -93,12 +93,12 @@ ms.locfileid: "67666391"
 |SharePoint Server 2019  <br/>  |[KB 4475529](https://support.microsoft.com/help/4475529)  <br/> |16.0.10348.12104|2019 年 7 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4475512](https://support.microsoft.com/help/4475512)  <br/> |16.0.10346.20001|2019 年 6 月  <br/> |
 |SharePoint Server 2019  <br/>  |[KB 4464556](https://support.microsoft.com/help/4464556)  <br/> |16.0.10345.12101|2019 年 5 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4464518](https://support.microsoft.com/help/4464518) <br/> [KB 4462221](https://support.microsoft.com/help/4462221) <br/> ||2019 年 4 月  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/help/4462199)  <br/> ||2019 年 3 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4462171](https://support.microsoft.com/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/help/4462170) <br/> ||2019 年 2 月  <br/> |
-|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4461634](https://support.microsoft.com/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/help/4461514) <br/> ||2019 年 1 月  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> ||2018 年 12 月  <br/> |
-|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> ||2018 年 11 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4464518](https://support.microsoft.com/help/4464518) <br/> [KB 4462221](https://support.microsoft.com/help/4462221) <br/> |16.0.10343.20000|2019 年 4 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4462199](https://support.microsoft.com/help/4462199)  <br/> |16.0.10342.12113|2019 年 3 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4462171](https://support.microsoft.com/help/4462171) <br/> [KB 4462170](https://support.microsoft.com/help/4462170) <br/> |16.0.10341.20000|2019 年 2 月  <br/> |
+|SharePoint Server 2019  <br/> SharePoint Server 2019 MUI/語言修補程式  <br/> |[KB 4461634](https://support.microsoft.com/help/4461634) <br/> [KB 4461514](https://support.microsoft.com/help/4461514) <br/> |16.0.10340.12101 <br/> 16.0.10340.20015|2019 年 1 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461548](https://support.microsoft.com/help/4461548)  <br/> |16.0.10339.12102|2018 年 12 月  <br/> |
+|SharePoint Server 2019  <br/>  |[KB 4461513](https://support.microsoft.com/help/4461513)  <br/> |16.0.10338.12107|2018 年 11 月  <br/> |
 ## <a name="sharepoint-2016-update-history"></a>SharePoint 2016 更新歷程記錄
 
 > [!NOTE]
@@ -146,43 +146,43 @@ ms.locfileid: "67666391"
 |SharePoint Server 2016  <br/>  |[KB 4475520](https://support.microsoft.com/help/4475520) <br/>  |16.0.4873.1000|2019 年 7 月  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4464594](https://support.microsoft.com/help/4464594) <br/>  |16.0.4861.1000|2019 年 6 月  <br/> |
 |SharePoint Server 2016  <br/>  |[KB 4464549](https://support.microsoft.com/help/4464549) <br/> |16.0.4849.1000 |2019 年 5 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4464510](https://support.microsoft.com/help/4464510) <br/> [KB 4461507](https://support.microsoft.com/help/4461507) <br/> ||2019 年 4 月  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/help/4462211) <br/>  ||2019 年 3 月  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/help/4462155) <br/>  ||2019 年 2 月  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/help/4461598) <br/>  ||2019 年 1 月  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/help/4461541) <br/>  ||2018 年 12 月  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/help/4461501) <br/>  ||2018 年 11 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4461447](https://support.microsoft.com/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/help/4092463) <br/> ||2018 年 10 月  <br/> |
-|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/help/4092459) <br/>  ||2018 年 9 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4032256](https://support.microsoft.com/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/help/4022231) <br/> ||2018 年 8 月  <br/> |
-|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/help/4022228)  <br/> ||2018 年 7 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4022173](https://support.microsoft.com/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/help/4022178) <br/> ||2018 年 6 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4018381](https://support.microsoft.com/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/help/4018386) <br/> ||2018 年 5 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4018336](https://support.microsoft.com/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/help/4018340) <br/> ||2018 年 4 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4018293](https://support.microsoft.com/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/help/4011687) <br/> ||2018 年 3 月  <br/> |
-|SharePoint Server 2016  <br/> |[KB 4011680](https://support.microsoft.com/help/4011680) <br/> ||2018 年 2 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011642](https://support.microsoft.com/help/4011642) <br/> [KB 4011645](https://support.microsoft.com/help/4011645) <br/> ||2018 年 1 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011576](https://support.microsoft.com/help/4011576) <br/> [KB 4011578](https://support.microsoft.com/help/4011578) <br/> ||2017 年 12 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011244](https://support.microsoft.com/help/4011244) <br/> [KB 4011243](https://support.microsoft.com/help/4011243) <br/> ||2017 年 11 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011217](https://support.microsoft.com/help/4011217) <br/> [KB 4011161](https://support.microsoft.com/help/4011161) <br/> ||2017 年 10 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011127](https://support.microsoft.com/help/4011127) <br/> [KB 4011112](https://support.microsoft.com/help/4011112) <br/> ||2017 年 9 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011049](https://support.microsoft.com/help/4011049) <br/> [KB 4011053](https://support.microsoft.com/help/4011053) <br/> ||2017 年 8 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3213544](https://support.microsoft.com/help/3213544) <br/> [KB 3213543](https://support.microsoft.com/help/3213543) <br/> ||2017 年 7 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3203432](https://support.microsoft.com/help/3203432) <br/> [KB 3203433](https://support.microsoft.com/help/3203433) <br/> ||2017 年 6 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3191880](https://support.microsoft.com/help/3191880) <br/> [KB 3191884](https://support.microsoft.com/help/3191884) <br/> ||2017 年 5 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3178718](https://support.microsoft.com/help/3178718) <br/> [KB 3178721](https://support.microsoft.com/help/3178721)  <br/> ||2017 年 4 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3178672](https://support.microsoft.com/help/3178672) <br/> [KB3178675](https://support.microsoft.com/help/3178675) <br/> ||2017 年 3 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3141515](https://support.microsoft.com/help/3141515) <br/> [KB3141517](https://support.microsoft.com/help/3141517) <br/> ||2017 年 2 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3141486](https://support.microsoft.com/kb/3141486) <br/> [KB3141487](https://support.microsoft.com/kb/3141487) <br/> ||2017 年 1 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3128014](https://support.microsoft.com/kb/3128014) <br/> [KB3128017](https://support.microsoft.com/kb/3128017) <br/> ||2016 年 12 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3127940](https://support.microsoft.com/kb/3127940) <br/> [KB3127942](https://support.microsoft.com/kb/3127942) <br/> ||2016 年 11 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3118372](https://support.microsoft.com/kb/3118372) <br/> [KB3118376](https://support.microsoft.com/kb/3118376) <br/> ||2016 年 10 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3118289](https://support.microsoft.com/kb/3118289) <br/> [KB3118295](https://support.microsoft.com/kb/3118295) <br/> ||2016 年 9 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115437](https://support.microsoft.com/kb/3115437) <br/> [KB3115441](https://support.microsoft.com/kb/3115441) <br/> ||2016 年 8 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115299](https://support.microsoft.com/kb/3115299) <br/> [KB3115304](https://support.microsoft.com/kb/3115304) <br/> ||2016 年 7 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115181](https://support.microsoft.com/kb/3115181) <br/> [KB3115184](https://support.microsoft.com/kb/3115184) <br/> ||2016 年 6 月  <br/> |
-|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115088](https://support.microsoft.com/kb/3115088) <br/> [KB2920690](https://support.microsoft.com/kb/2920690) <br/> ||2016 年 5 月  <br/> |
-|SharePoint Server 2016  <br/> |[KB2920721](https://support.microsoft.com/kb/2920721) <br/> ||2016 年 4 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4464510](https://support.microsoft.com/help/4464510) <br/> [KB 4461507](https://support.microsoft.com/help/4461507) <br/> |16.0.4834.1000|2019 年 4 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462211](https://support.microsoft.com/help/4462211) <br/>  |16.0.4822.1001|2019 年 3 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4462155](https://support.microsoft.com/help/4462155) <br/>  |16.0.4810.1000|2019 年 2 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461598](https://support.microsoft.com/help/4461598) <br/>  |16.0.4795.1001|2019 年 1 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461541](https://support.microsoft.com/help/4461541) <br/>  |16.0.4783.1000|2018 年 12 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4461501](https://support.microsoft.com/help/4461501) <br/>  |16.0.4771.1000|2018 年 11 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4461447](https://support.microsoft.com/help/4461447) <br/> [KB 4092463](https://support.microsoft.com/help/4092463) <br/> |16.0.4756.1000|2018 年 10 月  <br/> |
+|SharePoint Server 2016  <br/>  |[KB 4092459](https://support.microsoft.com/help/4092459) <br/>  |16.0.4744.1000|2018 年 9 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4032256](https://support.microsoft.com/help/4032256) <br/> [KB 4022231](https://support.microsoft.com/help/4022231) <br/> |16.0.4732.1000 <br/> 16.0.4732.1001|2018 年 8 月  <br/> |
+|SharePoint Server 2016  <br/> |[KB 4022228](https://support.microsoft.com/help/4022228)  <br/> |16.0.4717.1000|2018 年 7 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4022173](https://support.microsoft.com/help/4022173) <br/> [KB 4022178](https://support.microsoft.com/help/4022178) <br/> |16.0.4705.1000|2018 年 6 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4018381](https://support.microsoft.com/help/4018381) <br/> [KB 4018386](https://support.microsoft.com/help/4018386) <br/> |16.0.4690.1000|2018 年 5 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4018336](https://support.microsoft.com/help/4018336) <br/> [KB 4018340](https://support.microsoft.com/help/4018340) <br/> |16.0.4678.1001 <br/> 16.0.4678.1000|2018 年 4 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4018293](https://support.microsoft.com/help/4018293) <br/> [KB 4011687](https://support.microsoft.com/help/4011687) <br/> |16.0.4666.1002 <br/> 16.0.4666.1000|2018 年 3 月  <br/> |
+|SharePoint Server 2016  <br/> |[KB 4011680](https://support.microsoft.com/help/4011680) <br/> |16.0.4654.1000|2018 年 2 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011642](https://support.microsoft.com/help/4011642) <br/> [KB 4011645](https://support.microsoft.com/help/4011645) <br/> |16.0.4639.1002 <br/> 16.0.4639.1001|2018 年 1 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011576](https://support.microsoft.com/help/4011576) <br/> [KB 4011578](https://support.microsoft.com/help/4011578) <br/> |16.0.4627.1000|2017 年 12 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011244](https://support.microsoft.com/help/4011244) <br/> [KB 4011243](https://support.microsoft.com/help/4011243) <br/> |16.0.4615.1000|2017 年 11 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011217](https://support.microsoft.com/help/4011217) <br/> [KB 4011161](https://support.microsoft.com/help/4011161) <br/> |16.0.4600.1002 <br/> 16.0.4600.1000|2017 年 10 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011127](https://support.microsoft.com/help/4011127) <br/> [KB 4011112](https://support.microsoft.com/help/4011112) <br/> |16.0.4588.1001 <br/> 16.0.4588.1000|2017 年 9 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 4011049](https://support.microsoft.com/help/4011049) <br/> [KB 4011053](https://support.microsoft.com/help/4011053) <br/> |16.0.4573.1002 <br/> 16.0.4573.1000|2017 年 8 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3213544](https://support.microsoft.com/help/3213544) <br/> [KB 3213543](https://support.microsoft.com/help/3213543) <br/> |16.0.4561.1000|2017 年 7 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3203432](https://support.microsoft.com/help/3203432) <br/> [KB 3203433](https://support.microsoft.com/help/3203433) <br/> |16.0.4549.1001 <br/> 16.0.4549.1000|2017 年 6 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3191880](https://support.microsoft.com/help/3191880) <br/> [KB 3191884](https://support.microsoft.com/help/3191884) <br/> |16.0.4534.1000|2017 年 5 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB 3178718](https://support.microsoft.com/help/3178718) <br/> [KB 3178721](https://support.microsoft.com/help/3178721)  <br/> |16.0.4522.1000|2017 年 4 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3178672](https://support.microsoft.com/help/3178672) <br/> [KB3178675](https://support.microsoft.com/help/3178675) <br/> |16.0.4510.1001|2017 年 3 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3141515](https://support.microsoft.com/help/3141515) <br/> [KB3141517](https://support.microsoft.com/help/3141517) <br/> |16.0.4498.1002|2017 年 2 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3141486](https://support.microsoft.com/kb/3141486) <br/> [KB3141487](https://support.microsoft.com/kb/3141487) <br/> |16.0.4483.1001|2017 年 1 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3128014](https://support.microsoft.com/kb/3128014) <br/> [KB3128017](https://support.microsoft.com/kb/3128017) <br/> |16.0.4471.1000|2016 年 12 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3127940](https://support.microsoft.com/kb/3127940) <br/> [KB3127942](https://support.microsoft.com/kb/3127942) <br/> |16.0.4456.1002 <br/> |2016 年 11 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 MUI/語言補充程式  <br/> |[KB3118372](https://support.microsoft.com/kb/3118372) <br/> [KB3118376](https://support.microsoft.com/kb/3118376) <br/> |16.0.4444.1004 <br/> 16.0.4444.1000|2016 年 10 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3118289](https://support.microsoft.com/kb/3118289) <br/> [KB3118295](https://support.microsoft.com/kb/3118295) <br/> |16.0.4432.1003|2016 年 9 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115437](https://support.microsoft.com/kb/3115437) <br/> [KB3115441](https://support.microsoft.com/kb/3115441) <br/> |16.0.4417.1002 <br/> 16.0.4417.1000|2016 年 8 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115299](https://support.microsoft.com/kb/3115299) <br/> [KB3115304](https://support.microsoft.com/kb/3115304) <br/> |16.0.4405.1001 <br/> 16.0.4405.1000|2016 年 7 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115181](https://support.microsoft.com/kb/3115181) <br/> [KB3115184](https://support.microsoft.com/kb/3115184) <br/> |16.0.4393.1000|2016 年 6 月  <br/> |
+|SharePoint Server 2016  <br/> SharePoint Server 2016 多語系使用者介面 (MUI)  <br/> |[KB3115088](https://support.microsoft.com/kb/3115088) <br/> [KB2920690](https://support.microsoft.com/kb/2920690) <br/> |16.0.4378.1000|2016 年 5 月  <br/> |
+|SharePoint Server 2016  <br/> |[KB2920721](https://support.microsoft.com/kb/2920721) <br/> |16.0.4366.1000|2016 年 4 月  <br/> |
    
 
 <a name="BKMK_2013"> </a>
