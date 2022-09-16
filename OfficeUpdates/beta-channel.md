@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: ae859ec52ae546762780622d92ef7907efca1526
-ms.sourcegitcommit: 4bb42b507cd68301e0afbcff3ad11c44e17abf75
+ms.openlocfilehash: 0fd6081f7ff4fead15089efbf620f3dbde3a20cf
+ms.sourcegitcommit: 2ff90ff80bfca723e60362dc6030424cc05f631d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/10/2022
-ms.locfileid: "67642745"
+ms.lasthandoff: 09/16/2022
+ms.locfileid: "67786888"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,61 @@ ms.locfileid: "67642745"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2210-september-16"></a>版本 2210：9 月 16 日
+*版本 2210 (組建 15709.20000)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **動態陣列與圖表整合：** 此功能可讓使用者將圖表連結至動態陣列計算，這會產生可變長度的結果。 重新計算陣列時，圖表會自動更新以擷取所有資料，而不是固定為特定數目的資料點。
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="onenote"></a>OneNote
+
+- 我們已修正在畫布上插入圖形或線條之後，使用者無法拖曳或調整物件大小的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正中斷 IMAP IDLE 會話連線導致 IMAP 同步停止，直到重新開機的問題。
+
+
+- 我們已修正 SharePoint 檔在附加為複本時，不會針對超過指定大小的 URL 下載的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當資源的名稱包含系統清單分隔符號時，有時無法將資源同步處理至 SharePoint 清單的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正大型 URL 的問題: 如果其長度超過特定字元限制, 在此情況下無法開啟連結。
+
+
+- 我們已修正共同撰寫時會移除標頭樣式的問題。
+
+
+- 我們已修正下列問題：如果內建標籤新增了頁尾，它會不正確地移動現有的手動新增頁尾。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在包含文字的某些 SVG 圖形上執行 [轉換成圖形] 時的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2209-september-09"></a>版本 2209：9 月 9 日
 *版本 2209 (組建 15629.20058)*
@@ -6672,6 +6727,7 @@ ms.locfileid: "67642745"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15709.20000|version-2210-september-16|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15629.20058|version-2209-september-09|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15619.20000|version-2209-august-26|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15615.20000|version-2209-august-19|)
@@ -6681,5 +6737,4 @@ ms.locfileid: "67642745"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15402.20002|version-2207-june-10|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
