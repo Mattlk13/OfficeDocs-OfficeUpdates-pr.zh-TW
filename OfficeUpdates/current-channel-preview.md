@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: df374717af0663e24197267b993be39e18ac034c
-ms.sourcegitcommit: d8a6d4dbd64c2abbbc510e05db2c46a75422892e
+ms.openlocfilehash: 2e1957411ca2c8b77a94480d7954d950b855ba71
+ms.sourcegitcommit: 73eb8a774e012c0c753fd76ed4177ffd5fbc5447
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67652607"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "67809058"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -31,6 +31,26 @@ ms.locfileid: "67652607"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-september-19"></a>版本 2209：9 月 19 日
+*版本 2209 (組建 15629.20118)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在行事曆模組中切換檢視時，導致使用者意外遇到關閉的問題。
+
+
+- 我們已修正導致使用者在開機後短暫意外關閉的問題。
+
+
+- 我們已修正提交意見反應時導致 Outlook 意外關閉的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
