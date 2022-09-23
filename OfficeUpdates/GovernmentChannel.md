@@ -9,18 +9,18 @@ ms.service: msteams
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為政府對象提供 Teams 系統管理員和 Teams 應用程式功能的最新清單。
-ms.openlocfilehash: 282db70c36084bf17a72459900dde596aedef9cf
-ms.sourcegitcommit: 41759a1d58770998eeef2ab569c25b8a8635d2fe
+ms.openlocfilehash: 984d74f14699b84116a83774b439a9855b9e4701
+ms.sourcegitcommit: 6c12c721c9fb189802dff8c9e8b8236e485f9ee0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "67639298"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "67990463"
 ---
 # <a name="release-notes-for-government-channel-releases"></a>政府通道發行版本的版本資訊
 
 [//]: # (DO NOT REMOVE APPNAME HEADER START)
 
-## <a name="teams-admin-and-teams-app-september-08"></a>Teams 管理員和 Teams 應用程式：9 月 8 日
+## <a name="teams-admin-and-teams-app-september-22"></a>Teams 管理員和 Teams 應用程式：9 月 22 日
 
 [//]: # (DO NOT REMOVE APPNAME HEADER END)
 
@@ -31,9 +31,9 @@ ms.locfileid: "67639298"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 
-- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+- **Teams：受控組織的外部存取邀請流程：** 接收新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 這也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前狀態和傳入訊息的存取權。
 
-- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+- **原生 Apple 晶片支援 - 通用二進位 Teams 版本：** Teams 現在是通用二進位 Mac，因此會在 Intel 和 Apple Silicon 型 Mac 裝置上以原生方式執行。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -44,13 +44,117 @@ ms.locfileid: "67639298"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+- **Teams：受控組織的外部存取邀請流程：** 接收新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 這也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前狀態和傳入訊息的存取權。
 
-- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+- **原生 Apple 晶片支援 - 通用二進位 Teams 版本：** Teams 現在是通用二進位 Mac，因此會在 Intel 和 Apple Silicon 型 Mac 裝置上以原生方式執行。
 
 [//]: # (DO NOT REMOVE GCC-H CUSTOMERS END)
 
 [//]: # (DO NOT REMOVE GCC CUSTOMERS START)
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **Teams：受控組織的外部存取邀請流程：** 接收新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 這也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前狀態和傳入訊息的存取權。
+
+- **將通道成員預先指派給分組會議室：** 讓召集人能夠將參與者預先指派給頻道會議內的分組會議室，讓頻道成員未明確受邀參加會議。 目前，只有受邀參加會議的參與者才能完成預先指派。
+
+- **原生 Apple 晶片支援 - 通用二進位 Teams 版本：** Teams 現在是通用二進位 Mac，因此會在 Intel 和 Apple Silicon 型 Mac 裝置上以原生方式執行。
+
+[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
+
+## <a name="teams-app-september-22"></a>Teams 應用程式：9 月 22 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **為所有人檢視 TogetherMode：** 會議召集人和簡報者將能夠在會議中為所有參與者啟動 [一起] 模式。
+
+- **適用于 GCC-High & DoD 的 Teams 會議即時文字記錄：** Teams 會議現在會在其會議期間提供即時文字記錄，以及會議後文字記錄。 這可協助使用者即時重新叫用會議期間所說出的內容，以及在事後檢閱會議。
+
+- **行事曆在會議中顯示為：** Teams 會議的召集人和參與者將能夠選擇行事曆顯示為狀態功能，例如空閒、忙碌或 OOF，以反映其排程會議的狀態。 此外，召集人也可以選取私人會議功能，讓使用者在共用行事歷時隱藏其他使用者的會議詳細資料。
+
+- **從 Teams 個人應用程式或索引標籤「共用至 Teams」：** 「共用至 Teams」現在可讓使用者從個人應用程式或索引標籤共用 URL 給 Teams 內的其他使用者或群組或頻道。 這會在快顯視窗/強制回應視窗中啟動「共用至 Teams」體驗，以提供更快速且順暢的共用體驗。
+
+- **共同召集人會議角色：** 召集人現在可以將新的「共同召集人」角色指派給他們邀請的人員，以共用控制權。 共同召集人幾乎擁有召集人的所有功能，包括會議選項的管理。
+
+- **在一起模式中指派基座：** 允許會議召集人將基座指派給在一起模式中的參與者
+
+- **Bookings 應用程式中排程的虛擬造訪佇列檢視：** 在 Bookings 應用程式中排程的虛擬流覽佇列檢視中，即時更新會議狀態
+
+- **每個人都能一起檢視模式：** 會議召集人和簡報者將能夠在會議中為所有參與者啟動 [一起] 模式。
+
+- **新的來賓使用者可用性改進功能可拒絕擱置中的邀請，並顯示/隱藏 Teams 應用程式帳戶設定中的來賓租用戶清單:** 來賓使用者現在可以從 Teams 應用程式中拒絕擱置的來賓邀請。 來賓使用者現在可以從 Teams 應用程式帳戶設定中離開組織。 來賓使用者也可以選擇從 Teams 帳戶設定隱藏/顯示來賓租用戶。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **為所有人檢視 TogetherMode：** 會議召集人和簡報者將能夠在會議中為所有參與者啟動 [一起] 模式。
+
+- **適用于 GCC-High & DoD 的 Teams 會議即時文字記錄：** Teams 會議現在會在其會議期間提供即時文字記錄，以及會議後文字記錄。 這可協助使用者即時重新叫用會議期間所說出的內容，以及在事後檢閱會議。
+
+- **行事曆在會議中顯示為：** Teams 會議的召集人和參與者將能夠選擇行事曆顯示為狀態功能，例如空閒、忙碌或 OOF，以反映其排程會議的狀態。 此外，召集人也可以選取私人會議功能，讓使用者在共用行事歷時隱藏其他使用者的會議詳細資料。
+
+- **從 Teams 個人應用程式或索引標籤「共用至 Teams」：** 「共用至 Teams」現在可讓使用者從個人應用程式或索引標籤共用 URL 給 Teams 內的其他使用者或群組或頻道。 這會在快顯視窗/強制回應視窗中啟動「共用至 Teams」體驗，以提供更快速且順暢的共用體驗。
+
+- **共同召集人會議角色：** 召集人現在可以將新的「共同召集人」角色指派給他們邀請的人員，以共用控制權。 共同召集人幾乎擁有召集人的所有功能，包括會議選項的管理。
+
+- **在一起模式中指派基座：** 允許會議召集人將基座指派給在一起模式中的參與者
+
+- **Bookings 應用程式中排程的虛擬造訪佇列檢視：** 在 Bookings 應用程式中排程的虛擬流覽佇列檢視中，即時更新會議狀態
+
+- **每個人都能一起檢視模式：** 會議召集人和簡報者將能夠在會議中為所有參與者啟動 [一起] 模式。
+
+- **新的來賓使用者可用性改進功能可拒絕擱置中的邀請，並顯示/隱藏 Teams 應用程式帳戶設定中的來賓租用戶清單:** 來賓使用者現在可以從 Teams 應用程式中拒絕擱置的來賓邀請。 來賓使用者現在可以從 Teams 應用程式帳戶設定中離開組織。 來賓使用者也可以選擇從 Teams 帳戶設定隱藏/顯示來賓租用戶。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **為所有人檢視 TogetherMode：** 會議召集人和簡報者將能夠在會議中為所有參與者啟動 [一起] 模式。
+
+- **適用于 GCC-High & DoD 的 Teams 會議即時文字記錄：** Teams 會議現在會在其會議期間提供即時文字記錄，以及會議後文字記錄。 這可協助使用者即時重新叫用會議期間所說出的內容，以及在事後檢閱會議。
+
+- **行事曆在會議中顯示為：** Teams 會議的召集人和參與者將能夠選擇行事曆顯示為狀態功能，例如空閒、忙碌或 OOF，以反映其排程會議的狀態。 此外，召集人也可以選取私人會議功能，讓使用者在共用行事歷時隱藏其他使用者的會議詳細資料。
+
+- **從 Teams 個人應用程式或索引標籤「共用至 Teams」：** 「共用至 Teams」現在可讓使用者從個人應用程式或索引標籤共用 URL 給 Teams 內的其他使用者或群組或頻道。 這會在快顯視窗/強制回應視窗中啟動「共用至 Teams」體驗，以提供更快速且順暢的共用體驗。
+
+- **共同召集人會議角色：** 召集人現在可以將新的「共同召集人」角色指派給他們邀請的人員，以共用控制權。 共同召集人幾乎擁有召集人的所有功能，包括會議選項的管理。
+
+- **在一起模式中指派基座：** 允許會議召集人將基座指派給在一起模式中的參與者
+
+- **Bookings 應用程式中排程的虛擬造訪佇列檢視：** 在 Bookings 應用程式中排程的虛擬流覽佇列檢視中，即時更新會議狀態
+
+- **每個人都能一起檢視模式：** 會議召集人和簡報者將能夠在會議中為所有參與者啟動 [一起] 模式。
+
+- **新的來賓使用者可用性改進功能可拒絕擱置中的邀請，並顯示/隱藏 Teams 應用程式帳戶設定中的來賓租用戶清單:** 來賓使用者現在可以從 Teams 應用程式中拒絕擱置的來賓邀請。 來賓使用者現在可以從 Teams 應用程式帳戶設定中離開組織。 來賓使用者也可以選擇從 Teams 帳戶設定隱藏/顯示來賓租用戶。
+
+## <a name="teams-admin-september-22"></a>Teams 管理員：9 月 22 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **建議的回復：** 建議的回復
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **建議的回復：** 建議的回復
+
+- **Microsoft Teams：釘選和隱藏 Windows 上Teams 會議室的會議室視訊：Windows 上的** Teams 會議室可讓會議室使用者釘選或隱藏會議室畫面前方的會議室視訊。 會議室內參與者可以從主控台上的名冊中選取會議室來控制這些選項。 這項新增功能可讓會議室使用者更進一步個人化，讓室內使用者覺得會議室視訊可能會造成干擾或不需要。
+
+### <a name="gcc-customers"></a>GCC 客戶:
+
+- **建議的回復：** 建議的回復
+
+- **Microsoft Teams：釘選和隱藏 Windows 上Teams 會議室的會議室視訊：Windows 上的** Teams 會議室可讓會議室使用者釘選或隱藏會議室畫面前方的會議室視訊。 會議室內參與者可以從主控台上的名冊中選取會議室來控制這些選項。 這項新增功能可讓會議室使用者更進一步個人化，讓室內使用者覺得會議室視訊可能會造成干擾或不需要。
+
+## <a name="teams-admin-and-teams-app-september-08"></a>Teams 管理員和 Teams 應用程式：9 月 8 日
+
+### <a name="dod-customers"></a>DoD 客戶:
+
+- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+
+### <a name="gcc-h-customers"></a>GCC-H 客戶:
+
+- **Teams：受控組織的外部存取邀請流程：** 收到新的外部 1：1 聊天時，使用者現在可以選擇接受聊天或封鎖外部使用者。 此功能也提供在任何時間點封鎖外部使用者的能力，這會撤銷對目前和傳入訊息的存取權。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
@@ -59,8 +163,6 @@ ms.locfileid: "67639298"
 - **將通道成員預先指派給分組會議室：** 讓召集人能夠在頻道會議內預先指派參與者給未明確邀請會議的通道成員的分組會議室。 目前，只有受邀參加會議的參與者才能完成預先指派。
 
 - **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
-
-[//]: # (DO NOT REMOVE GCC CUSTOMERS END)
 
 ## <a name="teams-admin-and-teams-app-august-25"></a>Teams 管理員和 Teams 應用程式：8 月 25 日
 
@@ -116,13 +218,9 @@ ms.locfileid: "67639298"
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **從 MTR-A 加入即時會議：** [ **加入]** 按鈕會出現在 [顯示使用者被指定為簡報者之裝置] 上的即時活動。   詳細資料：Microsoft Teams 即時活動是 Teams 會議的延伸模組，可讓使用者排程並產生活動，以串流至大量線上物件。 在進行中的即時活動中，Teams 電腦用戶端中的製作人、簡報者和出席者有 3 個不同的檢視。  Teams 顯示裝置現在已啟用即時活動出席者檢視，以允許製作人和簡報者使用快速加入連結加入，讓它們在顯示中具有與 Teams 行動應用程式相同的功能。 出席者可以使用行事曆詳細資料中提供的活動連結來存取即時活動。
-
 - **Microsoft Teams：Windows 上Teams 會議室中一對一通話的端對端加密：Windows 上的** Teams 會議室可設定為加密所有人員對人 (P2P) 通話。 被呼叫者也必須開啟加密設定。 在加密的呼叫中，呼叫端和被呼叫者都可以驗證加密金鑰，以確保呼叫是端對端加密且安全。
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
-
-- **從 MTR-A 加入即時會議：** [ **加入]** 按鈕會出現在 [顯示使用者被指定為簡報者之裝置] 上的即時活動。   詳細資料：Microsoft Teams 即時活動是 Teams 會議的延伸模組，可讓使用者排程並產生活動，以串流至大量線上物件。 在進行中的即時活動中，Teams 電腦用戶端中的製作人、簡報者和出席者有 3 個不同的檢視。  Teams 顯示裝置現在已啟用即時活動出席者檢視，以允許製作人和簡報者使用快速加入連結加入，讓它們在顯示中具有與 Teams 行動應用程式相同的功能。 出席者可以使用行事曆詳細資料中提供的活動連結來存取即時活動。
 
 - **Microsoft Teams：Windows 上Teams 會議室中一對一通話的端對端加密：Windows 上的** Teams 會議室可設定為加密所有人員對人 (P2P) 通話。 被呼叫者也必須開啟加密設定。 在加密的呼叫中，呼叫端和被呼叫者都可以驗證加密金鑰，以確保呼叫是端對端加密且安全。
 
@@ -283,7 +381,7 @@ ms.locfileid: "67639298"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
+- **Roaming bandwidth control:** A new roaming policy to provide specific settings from other policies which need to be rendered dynamically based upon the location of the Teams client. Initially two settings from the TeamsMeetingPolicy will be included: AllowIPVideo and MediaBitRateKb.
 
 
 
@@ -352,7 +450,7 @@ ms.locfileid: "67639298"
 
 - **Surface Hub 上的 Microsoft Teams 會議室：** Surface Hub 上的這個新一代 Teams 已經過重新設計，可將您喜好的功能從桌面和 Microsoft Teams 會議室帶到會議空間。
 
-- **自訂背景:** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。[深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal)
+- **自訂背景：** 現在可在搭載支援晶片組的 OS10 和 OS11 上的 Android 裝置上使用 Microsoft 提供的自訂背景和使用者上傳的自訂背景。 [深入了解](https://www.microsoft.com/microsoft-365/blog/2020/06/12/custom-backgrounds-microsoft-teams-video-meetings-fun-comfortable-personal)
 
 - **Teams 1:1 VoIP 通話的端對端加密選項 (Android 和 iOS)：** Microsoft Teams 將支援臨機操作 1:1 Teams VoIP 通話使用端到端加密 (E2EE) 的選項，為進行敏感性線上交談提供額外的選項。 為了支援客戶安全和合規性要求，IT 將完全控制可以在組織中使用 E2EE 的人員。 適用於 Teams 1:1 VoIP 通話的 E2EE 將於本行事曆年上的半年向商業客戶提供預覽版，稍後將擴大對線上會議的支援。 [深入了解](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/sharing-the-latest-microsoft-teams-security-and-compliance/ba-p/2941970)
 
@@ -612,7 +710,7 @@ ms.locfileid: "67639298"
 
 - **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
 
-- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。
+- **Microsoft Teams Rooms on Windows: Live reactions:** Ability to view live reactions sent by participants in a Teams meeting on the front of room display in a Teams Room. Room users can also send reaction from center of the room console.
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
@@ -696,9 +794,9 @@ ms.locfileid: "67639298"
 
 ### <a name="gcc-customers"></a>GCC 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知：** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **Changing default notification style to Native notification from Teams built-in for new users:** Native Notifications provide a host of benefits like support for action center, accessibility, and support for focus assist mode. Currently the default notification style for a new user in Microsoft Teams is Teams Purple. With this change, the default for new user will change to Native Notification.
 
-- **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
+- **小組範本：** 在 Microsoft 提供的預先定義小組結構中，使用更多應用程式和頻道重新整理 Team Templates 內容。 [深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
 - **網頁背景效果簡介：** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
@@ -706,9 +804,9 @@ ms.locfileid: "67639298"
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知：** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **Changing default notification style to Native notification from Teams built-in for new users:** Native Notifications provide a host of benefits like support for action center, accessibility, and support for focus assist mode. Currently the default notification style for a new user in Microsoft Teams is Teams Purple. With this change, the default for new user will change to Native Notification.
 
-- **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
+- **小組範本：** 在 Microsoft 提供的預先定義小組結構中，使用更多應用程式和頻道重新整理 Team Templates 內容。 [深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
 - **網頁背景效果簡介：** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
@@ -716,9 +814,9 @@ ms.locfileid: "67639298"
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知：** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **Changing default notification style to Native notification from Teams built-in for new users:** Native Notifications provide a host of benefits like support for action center, accessibility, and support for focus assist mode. Currently the default notification style for a new user in Microsoft Teams is Teams Purple. With this change,, the default for new user will change to Native Notification.
 
-- **團隊範本：** 以 Microsoft 提供的預先定義團隊結構，更新團隊範本內容，加入更多應用程式和頻道。[深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
+- **小組範本：** 在 Microsoft 提供的預先定義小組結構中，使用更多應用程式和頻道重新整理 Team Templates 內容。 [深入了解](/MicrosoftTeams/get-started-with-teams-templates-in-the-admin-console)
 
 - **網頁背景效果簡介：** 使用此功能時, 當您在網頁上使用 Teams 時, 您可以將背景模糊或完全取代為您的視訊會議或通話中提供的影像。 模糊或取代您的背景可能無法防止敏感性資訊對通話或會議中的其他人顯示。 [深入了解](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
@@ -824,13 +922,13 @@ ms.locfileid: "67639298"
 
 - **政府雲端中 Teams 的 Bookings 應用程式 (中):** GCC 中等環境中 Teams 的 Bookings 應用程式狀態。
 
-- **一次對大量裝置執行作業：** IT 系統管理員將可以在大量裝置上一併執行任何作業或執行任何命令。目前他們必須在分頁檢視中手動選取裝置。
+- **Perform operation on bulk set of devices in one go:** IT admins will be able to perform any operation or execute any command on a bulk set of devices in single go. Currently they have to select devices manually in pagination view.
 
 ### <a name="gcc-h-customers"></a>GCC-H 客戶:
 
 - **政府雲端中 Teams 的 Bookings 應用程式 (中):** GCC 中等環境中 Teams 的 Bookings 應用程式狀態。
 
-- **一次對大量裝置執行作業：** IT 系統管理員將可以在大量裝置上一併執行任何作業或執行任何命令。目前他們必須在分頁檢視中手動選取裝置。
+- **Perform operation on bulk set of devices in one go:** IT admins will be able to perform any operation or execute any command on a bulk set of devices in single go. Currently they have to select devices manually in pagination view.
 
 ### <a name="dod-customers"></a>DoD 客戶:
 
@@ -838,7 +936,7 @@ ms.locfileid: "67639298"
 
 - **政府雲端中 Teams 的 Bookings 應用程式 (中):** GCC 中等環境中 Teams 的 Bookings 應用程式狀態
 
-- **一次對大量裝置執行作業：** IT 系統管理員將可以在大量裝置上一併執行任何作業或執行任何命令。目前他們必須在分頁檢視中手動選取裝置。
+- **Perform operation on bulk set of devices in one go:** IT admins will be able to perform any operation or execute any command on a bulk set of devices in single go. Currently they have to select devices manually in pagination view.
 
 ## <a name="teams-admin-and-teams-app-july-30"></a>Teams 管理員和 Teams 應用程式: 7 月 30 日
 
@@ -848,7 +946,7 @@ ms.locfileid: "67639298"
 
 - **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
-- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb。
+- **Roaming bandwidth control:** A new roaming policy to provide specific settings from other policies, which need to be rendered dynamically based upon the location of the Teams client. Initially two settings from the TeamsMeetingPolicy will be included - AllowIPVideo, and MediaBitRateKb.
 
 - **翻譯投影片內容:** 在 PowerPoint Live 的 Teams 會議中私下翻譯投影片放映內容。
 
@@ -860,7 +958,7 @@ ms.locfileid: "67639298"
 
 - **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
-- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb。
+- **Roaming bandwidth control:** A new roaming policy to provide specific settings from other policies, which need to be rendered dynamically based upon the location of the Teams client. Initially two settings from the TeamsMeetingPolicy will be included - AllowIPVideo, and MediaBitRateKb.
 
 - **翻譯投影片內容:** 在 PowerPoint Live 的 Teams 會議中私下翻譯投影片放映內容。
 
@@ -872,7 +970,7 @@ ms.locfileid: "67639298"
 
 - **加入會議並傳送語音輸入訊息：** 您現在可以在 Teams 行動裝置中使用「嗨 Cortana」來啟動小幫手體驗。 在 Teams 行動裝置設定中啟用語音啟用功能時，您將能夠加入會議、傳送訊息，並在未點選麥克風的情況下進行語音輸入。
 
-- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定 - AllowIPVideo 和 MediaBitRateKb
+- **Roaming bandwidth control:** A new roaming policy to provide specific settings from other policies, which need to be rendered dynamically based upon the location of the Teams client. Initially two settings from the TeamsMeetingPolicy will be included - AllowIPVideo, and MediaBitRateKb
 
 - **翻譯投影片內容:** 在 PowerPoint Live 的 Teams 會議中私下翻譯投影片放映內容。
 
@@ -886,7 +984,7 @@ ms.locfileid: "67639298"
 
 - **憑證關聯：** 憑證關聯是指使用來自替代來源憑證鏈結的某些相關資訊，對服務提供的憑證鏈結進行其他驗證。 通常, 釘選憑證的公開金鑰是用來驗證鏈結包含預期的憑證。 需要這項功能來降低中間人攻擊的風險。
 
-- **開發人員可以選擇預設封鎖應用程式：** 推出新的應用程式狀態「已由發行者封鎖」，以允許開發人員預設封鎖應用程式，直到系統管理員在 Teams 系統管理中心中採取動作來允許應用程式為止。[深入了解](/MicrosoftTeams/manage-apps)
+- **Developers can select to Block the apps by default:** Introduce a new app status 'Blocked by publisher' to allow developers to block the app by default until admin takes an action in Teams admin center to allow the app. [Learn more](/MicrosoftTeams/manage-apps)
 
 - **Teams 的 ATP 安全連結：** Teams 中的 ATP 安全連結可為 E5 和 ATP 客戶提供更多保護。
 
@@ -894,9 +992,9 @@ ms.locfileid: "67639298"
 
 - **DOD 中的來賓存取:** 在 DOD 中啟用來賓存取。
 
-- **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
+- **Admin notifications for Custom app submissions:** When a developer submits a custom app for IT admin approval, admins will receive a notification in a dedicated Teams channel, so they can review and take next steps to publish the app. [Learn more](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Direct app purchases and invoice billing support in Teams admin center:** Admins can complete orders for paid app licenses directly within Teams admin center. Also, invoice billing is a new supported payment method.
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
@@ -908,7 +1006,7 @@ ms.locfileid: "67639298"
 
 - **憑證關聯：** 憑證關聯是指使用來自替代來源憑證鏈結的某些相關資訊，對服務提供的憑證鏈結進行其他驗證。 通常, 釘選憑證的公開金鑰是用來驗證鏈結包含預期的憑證。 需要這項功能來降低中間人攻擊的風險。
 
-- **開發人員可以選擇預設封鎖應用程式：** 推出新的應用程式狀態「已由發行者封鎖」，以允許開發人員預設封鎖應用程式，直到系統管理員在 Teams 系統管理中心中採取動作來允許應用程式為止。[深入了解](/MicrosoftTeams/manage-apps)
+- **Developers can select to Block the apps by default:** Introduce a new app status 'Blocked by publisher' to allow developers to block the app by default until admin takes an action in Teams admin center to allow the app. [Learn more](/MicrosoftTeams/manage-apps)
 
 - **Teams 的 ATP 安全連結：** Teams 中的 ATP 安全連結可為 E5 和 ATP 客戶提供更多保護。
 
@@ -916,9 +1014,9 @@ ms.locfileid: "67639298"
 
 - **DOD 中的來賓存取:** 在 DOD 中啟用來賓存取。
 
-- **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
+- **Admin notifications for Custom app submissions:** When a developer submits a custom app for IT admin approval, admins will receive a notification in a dedicated Teams channel, so they can review and take next steps to publish the app. [Learn more](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Direct app purchases and invoice billing support in Teams admin center:** Admins can complete orders for paid app licenses directly within Teams admin center. Also, invoice billing is a new supported payment method.
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 
@@ -930,7 +1028,7 @@ ms.locfileid: "67639298"
 
 - **憑證關聯：** 憑證關聯是指使用來自替代來源憑證鏈結的某些相關資訊，對服務提供的憑證鏈結進行其他驗證。 通常, 釘選憑證的公開金鑰是用來驗證鏈結包含預期的憑證。 需要這項功能來降低中間人攻擊的風險。
 
-- **開發人員可以選擇預設封鎖應用程式：** 推出新的應用程式狀態「已由發行者封鎖」，以允許開發人員預設封鎖應用程式，直到系統管理員在 Teams 系統管理中心中採取動作來允許應用程式為止。[深入了解](/MicrosoftTeams/manage-apps)
+- **Developers can select to Block the apps by default:** Introduce a new app status 'Blocked by publisher' to allow developers to block the app by default until admin takes an action in Teams admin center to allow the app. [Learn more](/MicrosoftTeams/manage-apps)
 
 - **Teams 的 ATP 安全連結：** Teams 中的 ATP 安全連結可為 E5 和 ATP 客戶提供更多保護。
 
@@ -938,9 +1036,9 @@ ms.locfileid: "67639298"
 
 - **DOD 中的來賓存取:** 在 DOD 中啟用來賓存取。
 
-- **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
+- **Admin notifications for Custom app submissions:** When a developer submits a custom app for IT admin approval, admins will receive a notification in a dedicated Teams channel, so they can review and take next steps to publish the app. [Learn more](/microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Direct app purchases and invoice billing support in Teams admin center:** Admins can complete orders for paid app licenses directly within Teams admin center. Also, invoice billing is a new supported payment method.
 
 - **應用程式保護原則 (APP) 依據條件式存取 (CA):** Teams 行動應用程式會啟動基於支援應用程式保護原則 (APP) 的條件式存取 (CA), 以提高安全性。
 

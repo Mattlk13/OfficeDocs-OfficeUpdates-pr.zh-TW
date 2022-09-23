@@ -15,16 +15,31 @@ ms.collection:
 appliesto:
 - Microsoft Teams
 description: Microsoft Teams 系統管理員功能的版本資訊。
-ms.openlocfilehash: 9de74bbd55deb5b935065979202a9889c01db86e
-ms.sourcegitcommit: 41759a1d58770998eeef2ab569c25b8a8635d2fe
+ms.openlocfilehash: 78ea5a176089f444489a725cc44e50867f3228d9
+ms.sourcegitcommit: 6c12c721c9fb189802dff8c9e8b8236e485f9ee0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "67639278"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "67990453"
 ---
 # <a name="release-notes-for-microsoft-teams-admin-features"></a>Microsoft Teams 系統管理員功能的版本資訊
 
-這些版本資訊提供 Microsoft Teams 新系統管理員功能的相關資訊。
+這些版本資訊提供 Microsoft Teams 和 Teams 管理員 中心新系統管理功能的相關資訊。
+
+[//]: # (DO NOT REMOVE DATE CONTENT START)
+
+## <a name="september-22-2022"></a>2022 年 9 月 22 日
+
+[//]: # (DO NOT REMOVE DATE CONTENT END)
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+- **原生 Apple 晶片支援 - 通用二進位 Teams 版本：** Teams 現在是通用二進位 Mac，因此會在 Intel 和 Apple Silicon 型 Mac 裝置上以原生方式執行。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+
+- **為一線員工大規模部署 Teams：** 您的組織可能有許多團隊可用來促進一線員工之間的通訊和共同作業，這些員工分散在不同的商店、位置和角色之間。 目前，沒有簡單的解決方案可大規模部署、設定及管理這些團隊和使用者。 我們正在建置解決方案，讓系統管理員能夠大規模部署和管理團隊。
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 ## <a name="august-25-2022"></a>2022 年 8 月 25 日
@@ -49,6 +64,7 @@ ms.locfileid: "67639278"
 
 - **現在可以在任何行動裝置的 Teams 核准中建立電子簽名核准要求：** 使用者現在可以在任何行動裝置的 Teams 核准中建立電子簽名要求。
 
+
 ## <a name="august-11-2022"></a>2022 年 8 月 11 日
 
 - **Microsoft Teams：在 Windows 上的 Teams 會議室上共用內容體驗改進：** windows 上的Teams 會議室更新使用者介面，以在會議中共用 HDMI 和內容相機。 新體驗可為會議室內的使用者提供更佳的工作完成體驗和清晰度，確保使用者可以輕鬆地在會議中共用內容。
@@ -66,6 +82,7 @@ ms.locfileid: "67639278"
 - **開啟與 M365 的 LMS 整合：** Microsoft 現在已與 Open LMS 合作，以提供更順暢的整合式學習體驗。 Microsoft Teams 會議 LTI 和班級 LTI 應用程式現在可在 Open LMS 中使用。  Teams 課程 LTI 可讓授課者使用課程的名冊資訊，為其 Open LMS 課程建立小組。 Teams 會議 LTI 可讓授課者和學生存取、排程及管理 Brightspace LMS 內的 Teams 會議。 [深入了解](/microsoft-365/lti/open-lms-plugin-configuration)
 
 ## <a name="july-14-2022"></a>2022 年 7 月 14 日
+
 
 - **停用匿名或未經驗證使用者的聊天寫入存取：** IT 系統管理員現在可以針對非同盟使用者和透過連結加入 Teams 會議的未經驗證使用者，停用原則層級的聊天寫入存取權，此連結必須與停用的會議聊天原則搭配使用，以提供額外的安全性來防止資料外泄。
 
@@ -115,7 +132,7 @@ ms.locfileid: "67639278"
 
 - **在 Teams 管理員 中心搜尋：** 系統管理員可以使用 Teams 系統管理中心的一般搜尋方塊來搜尋使用者、小組、頁面和設定。
 
-- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
+- **Roaming bandwidth control:** A new roaming policy to provide specific settings from other policies which need to be rendered dynamically based upon the location of the Teams client. Initially two settings from the TeamsMeetingPolicy will be included: AllowIPVideo and MediaBitRateKb.
 
 ## <a name="march-11-2022"></a>2022 年 3 月 11 日
 
@@ -141,7 +158,7 @@ ms.locfileid: "67639278"
 
 - **新增至人員設定檔的本地時間:** 您現在可以知道您要共同合作之人員的本地時間。
 
-- **Microsoft Teams：「職涯教練」- 工作市場趨勢:** 教職員工授權擁有者現在可以在「職涯教練」中查看地區性的工作市場趨勢。此體驗是由 LinkedIn 員工聘用資料所提供。
+- **Microsoft Teams: Career Coach - Job market trends:** Faculty and staff license holders will now be able to view location-based job market trends within Career Coach. This experience is powered by LinkedIn workforce hiring data.
 
 ## <a name="february-10-2022"></a>2022 年 2 月 10 日
 
@@ -153,7 +170,7 @@ ms.locfileid: "67639278"
 
 - **Microsoft Teams 教育版：職涯教練 - edX 學習內容：** 職涯教練現在會在學習體驗中提供 edX 內容。
 
-- **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/microsoftteams/submit-approve-custom-apps)
+- **Admin notifications for Custom app submissions:** When a developer submits a custom app for IT admin approval, admins will receive a notification in a dedicated Teams channel, so they can review and take next steps to publish the app. [Learn more](/microsoftteams/submit-approve-custom-apps)
 
 - **會議期間將通知設為靜音:** 該功能可讓使用者在會議期間將通知設為靜音，以協助在會議期間專注。 使用者可以針對每個會議，選擇為所有會議和 uBar 的全域通知設定設為靜音通知。
 
@@ -163,7 +180,7 @@ ms.locfileid: "67639278"
 
 - **在 Teams 會議中釘選您自己的影片：** 目前，使用者可以釘選影片摘要，以在自己的螢幕上增加所需影片的大小。 現在，我們還擴充了使用者將自己的影片釘選在舞台上的功能。 如此一來，使用者也可以在自己的螢幕上，觀看大小增加的影片。
 
-- **會議室前方顯示器及主控台的 Teams 會議室裝置上的 Cortana 圖解變更:** 在會議室前方顯示器和主控台 UI 會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。圖解已更新，以反映 Cortana 的虛擬人偶。
+- **Cortana iconography change on Teams Rooms devices in Front of Room display and console.:** For Front of Room display and console UI, there will be a new icon for Cortana to help distinguish its capability for push-to-talk (PTT). The iconography is updated to reflect Cortana's avatar.
 
 - **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
 
@@ -289,7 +306,7 @@ ms.locfileid: "67639278"
 
 - **Windows 上的 Microsoft Teams 會議室：鎖定會議支援：** 鎖定會議，防止其他參與者加入的能力。 試圖加入鎖定會議的使用者將被告知會議已鎖定。
 
-- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。 
+- **Microsoft Teams Rooms on Windows: Live reactions:** Ability to view live reactions sent by participants in a Teams meeting on the front of room display in a Teams Room. Room users can also send reaction from center of the room console. 
 
 - **Windows 上的 Teams 會議室：支援 Logitech Scribe 內容相機:** 在 Teams 會議室中，您可以使用 Logitech Scribe 內容相機和 Teams 中的 Intelligent Capture 功能輕鬆地將類比白板共用至 Teams 會議中。
 
@@ -297,7 +314,7 @@ ms.locfileid: "67639278"
 
 - **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
 
-- **Windows 上的 Microsoft Teams 會議室: 更新的會議名冊:** 更新後的會議名册 (在 Teams 會議室主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。還有從邀請清單或聊天，邀請其他人參加會議的功能。
+- **Microsoft Teams Rooms on Windows: Updated Meeting Roster:** The updated meeting roster (viewable on the Teams Rooms console) more closely aligns with the experience available through the Teams desktop app, and includes capabilities like participant grouping, sort roster by raised hand, integrated user search. As well as with ability to ask others to join meeting from invited list or from chat.
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
@@ -391,7 +408,7 @@ ms.locfileid: "67639278"
 
 - **Teams 現在可在 CarPlay 上使用：** 您現在可以將 Teams 連線到 CarPlay 進行語音輸入, 並加入您的下一次會議。
 
-- **一次對大量裝置執行作業：** IT 系統管理員將可以在大量裝置上一併執行任何作業或執行任何命令。目前他們必須在分頁檢視中手動選取裝置。
+- **Perform operation on bulk set of devices in one go:** IT admins will be able to perform any operation or execute any command on a bulk set of devices in single go. Currently they have to select devices manually in pagination view.
 
 ## <a name="august-30-2021"></a>2021 年 8 月 30 日
 
@@ -435,7 +452,7 @@ ms.locfileid: "67639278"
 
 - **與外部使用者聊天/會議中的應用程式：** 完成時，我們將支援在會議中與外部使用者進行群組聊天的應用程式， (來自其他 TFW 網域的使用者) 。
 
-- **開發人員可以選擇預設封鎖應用程式：** 推出新的應用程式狀態「已由發行者封鎖」，以允許開發人員預設封鎖應用程式，直到系統管理員在 Teams 系統管理中心中採取動作來允許應用程式為止。[深入了解](/MicrosoftTeams/manage-apps)
+- **Developers can select to Block the apps by default:** Introduce a new app status 'Blocked by publisher' to allow developers to block the app by default until admin takes an action in Teams admin center to allow the app. [Learn more](/MicrosoftTeams/manage-apps)
 
 ## <a name="july-29-2021"></a>2021 年 7 月 29 日
 
@@ -467,9 +484,9 @@ ms.locfileid: "67639278"
 
 ## <a name="july-16-2021"></a>2021 年 7 月 16 日
 
-- **自訂應用程式提交的系統管理通知：** 當開發人員提交自訂應用程式供 IT 系統管理員核准時，系統管理員會在專用的 Teams 頻道中接收通知，這樣他們就能檢視並採取後續步驟來發佈應用程式。[深入了解](/Microsoftteams/submit-approve-custom-apps)
+- **Admin notifications for Custom app submissions:** When a developer submits a custom app for IT admin approval, admins will receive a notification in a dedicated Teams channel, so they can review and take next steps to publish the app. [Learn more](/Microsoftteams/submit-approve-custom-apps)
 
-- **Teams 系統管理中心的直接應用程式購買和發票計費支援：** 系統管理員可以直接在 Teams 系統管理中心內完成付費應用程式授權的訂單。此外，發票計費是新支援的付款方式。
+- **Direct app purchases and invoice billing support in Teams Admin Center:** Admins can complete orders for paid app licenses directly within Teams Admin Center. Also, invoice billing is a new supported payment method.
 
 ## <a name="july-14-2021"></a>2021 年 7 月 14 日
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 0fd6081f7ff4fead15089efbf620f3dbde3a20cf
-ms.sourcegitcommit: 2ff90ff80bfca723e60362dc6030424cc05f631d
+ms.openlocfilehash: 90ae52b77386e3aef62a60727b7476ae009f9162
+ms.sourcegitcommit: ed3080f75396bc174b30f0a197a4bad97dda5ecf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/16/2022
-ms.locfileid: "67786888"
+ms.lasthandoff: 09/23/2022
+ms.locfileid: "68002355"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,71 @@ ms.locfileid: "67786888"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2210-september-23"></a>版本 2210：9 月 23 日
+*版本 2210 (組建 15715.20014)*
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正當 alttext 沒有值時，函式會用完資源或顯示錯誤錯誤訊息的問題。
+
+
+- 我們已修正應用程式在 RTL 工作表上進行觸控式縮放時，會停止回應並耗用大量記憶體的問題。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正使用者無法搭配手寫筆使用移動流覽工具的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正搜尋一律會從主要帳戶傳回結果，而不是從選取的帳戶傳回的結果的問題。
+
+
+- 我們已修正在將附件拖放至郵件訊息時，導致附件大小限制無法評估的問題。
+
+
+- 我們已修正關閉郵件控制台時，應用程式意外關閉的問題。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正當存取為 IOleObject 時，PowerPoint 無法關閉的問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正超連結無法運作，且顯示錯誤的問題。
+
+
+- 我們已修正應用程式防護在互動模式中的問題。
+
+
+- 我們已修正分割文件視窗之後，下方視窗不會捲動到游標下方的預期位置的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正當圖示大小更新時，QAT 中標籤的字型大小意外增加的問題。
+
+
+- 我們已修正客戶憑證未正確顯示為已撤銷的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2210-september-16"></a>版本 2210：9 月 16 日
 *版本 2210 (組建 15709.20000)*
@@ -6727,6 +6792,7 @@ ms.locfileid: "67786888"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15715.20014|version-2210-september-23|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15709.20000|version-2210-september-16|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15629.20058|version-2209-september-09|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15619.20000|version-2209-august-26|)
@@ -6736,5 +6802,4 @@ ms.locfileid: "67786888"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15511.20000|version-2208-july-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15427.20000|version-2207-july-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15407.20000|version-2207-june-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
