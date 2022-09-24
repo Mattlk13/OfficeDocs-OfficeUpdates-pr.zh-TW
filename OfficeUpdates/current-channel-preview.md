@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 2e1957411ca2c8b77a94480d7954d950b855ba71
-ms.sourcegitcommit: 73eb8a774e012c0c753fd76ed4177ffd5fbc5447
+ms.openlocfilehash: d9d3ee2f4ff314fcb66a43d1000dca505dc55c43
+ms.sourcegitcommit: 78e1b12fba78a99247e72b064b90dd20b62378da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/20/2022
-ms.locfileid: "67809058"
+ms.lasthandoff: 09/24/2022
+ms.locfileid: "68006081"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -31,6 +31,25 @@ ms.locfileid: "67809058"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-september-23"></a>版本 2209：9 月 23 日
+*版本 2209 (組建 15629.20152)*
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致停用服務通知的使用者看到已淘汰的 UI 顯示通知服務已停用的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正預設封鎖網際網路宏執行的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
