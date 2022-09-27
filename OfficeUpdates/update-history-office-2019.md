@@ -9,24 +9,24 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: 11de7ff1a801b5c3227c3bddd0bf54776043b242
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: e1c4b4c3d1405de8b41a79a5bbf734ebbc71619b
+ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666551"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "68024981"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
-Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限 C2R) 的安全性和品質更新。這些更新大約每個月發佈一次，通常在每個月的第二個星期二。
+Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
 
-如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。若要檢查 Office 版本，請執行下列步驟：
+If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
 
   1.    開啟任何 Office 應用程式，例如 Word 或 Excel。
   2.    選擇 **[檔案] > [帳戶]**。
   3.    在 **[產品資訊]** 下，記下 **[關於]** 區段下的版本號碼。
 
-如果該版本號碼符合最新版本，表示您所使用的是最新版本。如果不符，則可以手動更新以取得最新版的 Office。若要更新 Office，[請遵循這裡的步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
+If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
 下表提供大量 Office 2019 授權版的更新歷程記錄，以及優先列出最新發行日期的 Office 2016 C2R 和 Office 2019 零售版。
@@ -110,12 +110,12 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 9 月 26 日|版本 2209 (組建 15629.20156) |
 |2022 年 9 月 13 日|版本 2208 (組建 15601.20148) |
 |2022 年 8 月 31 日|版本 2208 (組建 15601.20088) |
 |2022 年 8 月 9 日|版本 2207 (組建 15427.20210)|
 |2022 年 8 月 3 日|版本 2207 (組建 15427.20194)|
 |2022 年 7 月 18 日|版本 2206 (組建 15330.20264)|
-|2022 年 7 月 12 日|版本 2206 (組建 15330.20246)|
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -129,6 +129,7 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 7 月 12 日|版本 2206 (組建 15330.20246)|
 |2022 年 7 月 6 日|版本 2206 (組建 15330.20230)|
 |2022 年 6 月 29 日|版本 2206 (組建 15330.20196)|
 |2022 年 6 月 14 日|版本 2205 (組建 15225.20288)|

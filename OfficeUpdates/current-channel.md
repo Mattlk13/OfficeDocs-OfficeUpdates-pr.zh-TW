@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 08701c7055c813e826c19c141c687cd6299d03cc
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 42b06d0d5203f891a1518d20f3b0b76ca7edc55d
+ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666530"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "68024958"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -25,6 +25,61 @@ ms.locfileid: "67666530"
 >- 我們通常會在一段時間對「目前」通道推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams 功能可能會與最新的目前通道中發行的功能不同，因為後者的發行頻率較高。
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-september-26"></a>版本 2209：9 月 26 日
+*版本 2209 (組建 15629.20156)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="visio"></a>Visio
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正在行事曆模組中切換檢視時，導致使用者意外遇到關閉的問題。
+
+
+- 我們已修正導致新式群組相關對話方塊嚴重中斷的問題。
+
+
+- 我們已修正導致使用者在開機後短暫意外關閉的問題。
+
+
+- 我們已修正會導致停用服務通知的使用者看到已淘汰的 UI 顯示通知服務已停用的問題。
+
+
+- 我們已修正提交意見反應時導致 Outlook 意外關閉的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正預設封鎖網際網路宏執行的問題。
 
 
 
@@ -235,7 +290,7 @@ ms.locfileid: "67666530"
 
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。[深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
+- **Use suggested replies in Outlook:** When you receive an email message that can be answered by a short response, Outlook can suggest three responses you can use to reply with just a couple of clicks. [Learn more](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
 
 - **關閉建議回覆：** Outlook [使回覆更為簡單快速](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook) 透過提供僅需幾個字回覆的簡短建議回覆郵件，讓回覆電子郵件更為快速。 部分使用者可能不想看到此選項，因此現在可以關閉此功能。 若要這麼做，請選取檔案 > 選項> 郵件，前往回覆和轉寄區段，然後清除顯示建議的回覆核取方塊。
 
@@ -716,7 +771,7 @@ ms.locfileid: "67666530"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="access"></a>Access
 
-- **Dataverse 和 Power Platform 的連接器：** 雖然 Access 已透過 Sharepoint 和 SQL 與雲端整合，但 Dataverse 和 Power Platform 的新連接器可為開發人員啟用全新的案例，為可以立即建立適用於行動裝置和 MS Teams 的自訂應用程式的開發人員帶來好處，加上自動化以及使用 Power Platform 和 Dataverse 為 Teams 建置的聊天機器人，直接使用其 Access 資料和 Dataverse。 [深入了解](https://aka.ms/AccessAndPowerPlatform)
+- **Connector for Dataverse and Power Platform:** While Access has been integrated with the cloud through Sharepoint and SQL, the new connector to Dataverse and the Power Platform  enables totally new scenarios that unlocks benefits for developers who can now create custom apps for Mobile and MS Teams, plus automations, and chatbots built with Power Platform and Dataverse for Teams that work directly with their Access data and Dataverse. [Learn more](https://aka.ms/AccessAndPowerPlatform)
 
 
 ### <a name="excel"></a>Excel
@@ -841,12 +896,12 @@ ms.locfileid: "67666530"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **想要活頁簿為您提供入門瀏覽指引嗎？：** 了解活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽。[深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+- **Want your workbook to take you places?:** Understand the layout of your workbook, see what elements exist, and navigate around quickly using the Navigation pane. [Learn more](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
 
 
 ### <a name="teams"></a>Teams
 
-- **漫遊頻寬控制：** 一個新的漫遊原則，用來提供來自其他原則的特定設定，必須根據 Teams 用戶端的位置動態呈現。一開始會包含來自 TeamsMeetingPolicy 的兩個設定：AllowIPVideo 和 MediaBitRateKb。
+- **Roaming bandwidth control:** A new roaming policy to provide specific settings from other policies which need to be rendered dynamically based upon the location of the Teams client. Initially two settings from the TeamsMeetingPolicy will be included: AllowIPVideo and MediaBitRateKb.
 
 
 - **Teams 儲存區中的工作流程範本：** 工作流程可讓 Teams 使用者自動化重複性的工作，以更有效地共同作業並完成更多工作。 使用者將能夠依類別查看所有工作流程範本、從頭建立工作流程，並從 Teams 存放區中深入了解功能。 在任何範本上按一下，將會引導使用者完成內容中的設定經驗。
@@ -858,7 +913,7 @@ ms.locfileid: "67666530"
 - **Teams 系統管理中心的 Teams 裝置存放區：** Teams 裝置存放區會透過 Teams 系統管理中心提供直接採購，系統管理員可以在其中探索、購買及佈建 Teams 認證的裝置。 這項功能將可供美國和加拿大的中小型組織使用。 未來會將此功能擴充給更多客戶。
 
 
-- **Microsoft Teams：從 Teams 桌面用戶端投射到 Microsoft Teams 會議室：** 對於不需要設定正式會議的快速臨機操作工作模式，人員可以使用 Teams 投射，以無線方式連線到 Teams 會議室並顯示來自 Teams 桌面用戶端 (Windows和 Mac) 的內容。使用者可以廣播其畫面，並投射儲存在使用者本機電腦上或經由 Office 365 存取的內容。
+- **Microsoft Teams: Casting from Teams desktop client to Microsoft Teams Rooms:** For quick ad-hoc sessions that don’t require setting up a formal meeting, people can use Teams casting to wirelessly connect to a Teams Room and display content from the Teams desktop client (Windows and Mac). Users can broadcast their screen and cast content stored locally on their computer or accessible via Office 365.
 
 
  - **Teams 中工作流程的訊息動作進入點：** 訊息型工作流程對於共同作業和效率來說是非常強大的。 透過訊息動作進入點，使用者可以檢視/搜尋適當的工作流程，以及觸發預先設置的訊息動作溢出區功能表工作流程。
@@ -875,7 +930,7 @@ ms.locfileid: "67666530"
 - 我們已修正導致使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
 
 
-- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
+- We fixed an issue that could have caused memory usage of an application that uses DAO or OLEDB interfaces to read Access databases to grow rapidly.  In some cases, this could cause abnormal program termination.
 
 
 ### <a name="excel"></a>Excel
@@ -929,7 +984,7 @@ ms.locfileid: "67666530"
 - 我們已修正應用程式開啟不再可用的畫面，導致專案隱藏的問題。
 
 
-- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
+- We fixed an issue where the user would see a security dialog stating that the project had links to one or more data sources, even though the project had no active links. Now, the dialog appears only when there are active links.
 
 
 ### <a name="publisher"></a>發行者
@@ -1021,7 +1076,7 @@ ms.locfileid: "67666530"
 
 - **Lambda: 協助程式函數:** 7 個運用 Lambdas 的新功能，以及在撰寫 Lambda 解決方案時提供協助!<br />在[部落格文章](https://insider.office.com/en-us/blog/new-lambda-functions-available-in-excel)中查看詳細資料
 
-- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。<br />在[部落格文章](https://insider.office.com/en-us/blog/lambda-excel-custom-functions)中查看詳細資料
+- **Lambda: Custom Functions Without Code:** The lambda function allows you to take any existing formula or expression and turn it into a custom function with a name. Easily reuse and update logic in your spreadsheet with the lambda function.<br />在[部落格文章](https://insider.office.com/en-us/blog/lambda-excel-custom-functions)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -1051,7 +1106,7 @@ ms.locfileid: "67666530"
 
 - **新增至人員設定檔的本地時間:** 您現在可以知道您要共同合作之人員的本地時間。
 
-- **Microsoft Teams：「職涯教練」- 工作市場趨勢:** 教職員工授權擁有者現在可以在「職涯教練」中查看地區性的工作市場趨勢。此體驗是由 LinkedIn 員工聘用資料所提供。
+- **Microsoft Teams: Career Coach - Job market trends:** Faculty and staff license holders will now be able to view location-based job market trends within Career Coach. This experience is powered by LinkedIn workforce hiring data.
 
 - **Teams 表情圖示與反應將加入新的 Fluent 表情圖示樣式：** Teams 將加入 M365 和 Windows，將所有的表情圖示和反應更新至新的 Microsoft Fluent 表情圖示樣式，讓使用者的表情圖示體驗更生動豐富。
 
@@ -1179,7 +1234,7 @@ ms.locfileid: "67666530"
 
 - **自 Teams 系統管理中心匯出 Teams 清單：** 系統管理員可以從 Teams 系統管理中心將 Teams 清單匯出為 CSV 檔案。
 
-- **會議室前方顯示器及主控台的 Teams 會議室裝置上的 Cortana 圖解變更:** 在會議室前方顯示器和主控台 UI 會有一個新的 Cortana 圖示，以協助區分其按下以講話 (PTT) 的功能。圖解已更新，以反映 Cortana 的虛擬人偶。
+- **Cortana iconography change on Teams Rooms devices in Front of Room display and console.:** For Front of Room display and console UI, there will be a new icon for Cortana to help distinguish its capability for push-to-talk (PTT). The iconography is updated to reflect Cortana's avatar.
 
 - **Cortana 預設會在 OOBE 中為新影像的 Teams 會議室裝置啟用語音啟用：** 我們正在對 Teams 會議室的 OOBE (全新體驗) 進行一些變更！ 預設會啟用 Cortana 語音啟動，但如有需要，IT 系統管理員可以決定關閉切換來退出宣告。
 
@@ -1197,7 +1252,7 @@ ms.locfileid: "67666530"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database on a network file share. [Learn More](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們修正了導致 Insights 增益集停止運作的問題。
@@ -1310,7 +1365,7 @@ ms.locfileid: "67666530"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database on a network file share. [Learn More](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們已修正使用多個執行緒連線到 Access 或 Jet 資料庫時會導致應用程式意外關閉的問題。
@@ -1357,7 +1412,7 @@ ms.locfileid: "67666530"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們修正了阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database on a network file share. [Learn More](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1558,16 +1613,16 @@ ms.locfileid: "67666530"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **DLP policy tips in Word/Excel/PowerPoint:** Additional sensitive information types configured as part of OneDrive and SharePoint data loss prevention (DLP) policies can now be detected by the app to show a policy tip. This update also brings accuracy improvements and globalization support. [Learn more](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 ### <a name="outlook"></a>Outlook
 
-- **針對郵件和行事曆撰寫之展開的 GAL 人員建議:** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 將從完整的 GAL 傳回結果。(例如: 將某人新增到新電子郵件的 [收件者] 行)
+- **Expanded GAL people suggestions for mail and calendar compose:** Outlook will now return results from the complete GAL when suggestions people for email and calendar compose. (Ex: Adding someone to the To line of a new email)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **DLP policy tips in Word/Excel/PowerPoint:** Additional sensitive information types configured as part of OneDrive and SharePoint data loss prevention (DLP) policies can now be detected by the app to show a policy tip. This update also brings accuracy improvements and globalization support. [Learn more](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="teams"></a>Teams
 
@@ -1575,7 +1630,7 @@ ms.locfileid: "67666530"
 
 - **明確的錄製開始/停止訊息，以改善錄製的可用性和可探索性：** 聊天中的錄製開始和停止訊息經過重新設計，以改善可探索性和可存取性。 要在會議聊天中尋找成功上傳的錄製內容也會更容易。
 
-- **Microsoft Teams: 會議室視訊符合畫面大小:** 根據預設，會議室視訊會調整至畫面大小，並在 Teams 桌面版應用程式上提供會議室的完整檢視。使用者可以視需要選擇將會議室視訊填滿畫面。
+- **Microsoft Teams: Room video fits to frame:** Conference room video fits to frame by default and provide a full view of the room on Teams desktop app. Users can choose to fill frame for room video as needed.
 
 - **Windows 上的 Microsoft Teams 會議室：聊天泡泡：** 能夠在 Teams 會議室的會議室前方檢視在 Teams 會議期間傳送的聊天，讓您注意會議同時發生的聊天交談。
 
@@ -1609,13 +1664,13 @@ ms.locfileid: "67666530"
 
 - **Windows 上的 Teams 會議室：支援 Logitech Scribe 內容相機:** 在 Teams 會議室中，您可以使用 Logitech Scribe 內容相機和 Teams 中的 Intelligent Capture 功能輕鬆地將類比白板共用至 Teams 會議中。
 
-- **Windows 上的 Microsoft Teams 會議室: 即時反應:** 在 Teams 會議室的會議室前方顯示器上檢視 Teams 會議參與者傳送的即時反應之能力。會議室使用者還可以從會議室主控台的中心傳送反應。
+- **Microsoft Teams Rooms on Windows: Live reactions:** Ability to view live reactions sent by participants in a Teams meeting on the front of room display in a Teams Room. Room users can also send reaction from center of the room console.
 
 - **Windows 上的 Microsoft Teams 會議室：釘選多個視訊資料流：** 在 Teams 會議期間同時釘選多個視視訊資料流 (最多 9 名參與者) 的能力。 使用者可以從會議室主控台的中心選取要釘選的參與者。
 
 - **Windows 上的 Microsoft Teams 會議室：簡報者模式支援：** 簡報者模式檢視能够顯示在 Teams 會議室的會議室前方顯示器。 簡報者模式是 PowerPoint Live 中的一項功能，可協助您自訂視訊摘要和內容在會議觀眾面前的顯示方式。
 
-- **Windows 上的 Microsoft Teams 會議室: 更新的會議名冊:** 更新後的會議名册 (在 Teams 會議室主控台上可檢視) 與透過 Teams 桌面版應用程式提供的體驗更加一致，包括出席者分組、依舉手排序名册、整合使用者搜尋等功能。還有從邀請清單或聊天，邀請其他人參加會議的功能。
+- **Microsoft Teams Rooms on Windows: Updated Meeting Roster:** The updated meeting roster (viewable on the Teams Rooms console) more closely aligns with the experience available through the Teams desktop app, and includes capabilities like participant grouping, sort roster by raised hand, integrated user search. As well as with ability to ask others to join meeting from invited list or from chat.
 
 - **Windows 上的 Microsoft Teams 會議室：單個顯示器和雙個顯示器上的動態檢視** 動態檢視自動最佳化 Teams 會議中的共用內容和影片參與者。 新控制項可讓您個人化檢視以滿足您的喜好和需要，例如能够並排顯示共用內容和特定參與者，或僅檢視內容或人員。
 
@@ -1627,9 +1682,9 @@ ms.locfileid: "67666530"
 
 - **大聲朗讀功能變得更好：** 新的大聲朗讀工具列提供全新、聽起來很自然的語音選項。</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
 
-- **大聲朗讀的更自然語音選項：** 在大聲朗讀工具列中試用全新、更自然的聲音。[深入了解](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
+- **More natural voice options for Read Aloud:** Try out a new, more natural sounding voice in the Read Aloud toolbar. [Learn more](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)</br>在[部落格文章](https://insider.office.com/en-us/blog/new-natural-sounding-voices-come-to-read-aloud)中查看詳細資料
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **DLP policy tips in Word/Excel/PowerPoint:** Additional sensitive information types configured as part of OneDrive and SharePoint data loss prevention (DLP) policies can now be detected by the app to show a policy tip. This update also brings accuracy improvements and globalization support. [Learn more](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -1756,7 +1811,7 @@ ms.locfileid: "67666530"
 
 - **適用于 VDI 的大型圖庫：** 大型圖庫功能可在 7x7=49 個使用者同時在 Teams 會議中進行視訊串流的情況下，使虛擬機器上的 Teams 會議參與者能够查看會議圖庫展開的檢視。
 
-- **若要將預設通知樣式變更為新使用者 Teams 內建的原生通知:** 原生通知提供的許多好處, 如支援動作中心、協助工具, 及支援「專注輔助」模式。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **Changing default notification style to Native notification from Teams built-in for new users:** Native Notifications provide a host of benefits like support for action center, accessibility, and support for focus assist mode. Currently the default notification style for a new user in Microsoft teams is Teams Purple. With this change the default for new user will change to Native Notification.
 
 - **Teams 政府雲端網路規劃中心:** 網路規劃中心可協助您決定及組織連線組織中所有 Microsoft Teams 使用者的網路需求。 提供網路詳細資料和 Teams 使用狀況時，網路規劃中心會計算在組織的實體位置間部署 Teams 與雲端語音的網路需求。
 
@@ -1786,7 +1841,7 @@ ms.locfileid: "67666530"
 - 我們已修正錯誤嘗試使用來自非 Office 應用程式的 DAO API 時，會停止回應並顯示訊息「作業系統目前未配置成執行此應用程式」的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 ### <a name="excel"></a>Excel
 
@@ -1799,7 +1854,7 @@ ms.locfileid: "67666530"
 - 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 ### <a name="onenote"></a>OneNote
@@ -1835,7 +1890,7 @@ ms.locfileid: "67666530"
 - 我們已修正 Word 存檔時，所花時間超過預期的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 ### <a name="skype"></a>Skype
@@ -1848,7 +1903,7 @@ ms.locfileid: "67666530"
 - 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 - 我們已修正插入線上影片按鈕被停用的問題。
@@ -1953,7 +2008,7 @@ ms.locfileid: "67666530"
 
 - **分組討論區預先會議室的建立和參與者指派:** 介紹召集人在會議開始之前，執行分組討論區設定和參與者指派的功能。
 
-- **Teams 會議之其他語言的 [即時輔助字幕]：** 以其中一種支援的語言所召開的會議現在會受到即時輔助字幕的支援。我們已從只提供英語 (US)，擴充為包含英文 (加拿大)、英文 (印度)、英文 (英國)、英文 (澳大利亞)、英文 (國際)、Deutsch (Deutschland)、Português (巴西)、Nederlands (Nederland)、Nederlands (比利時)、Français (法國)、Español (España, alfabetización internacional)、日本語 (日本)、Français (法國)、中文 (粵語 (傳統中文))、中文 (簡體中文)、印度文 (印度)、義大利文 (義大利)、韓文 (韓國)、西班牙文 (墨西哥)、瑞典文 (瑞典)、波蘭文 (波蘭)、阿拉伯文 (阿拉伯聯合大公國)、阿拉伯文 (沙烏地阿拉伯)。
+- **Live Captions in additional spoken languages for Teams Meetings:** Meetings held in one of the supported languages now are supported by real time captioning. We have expanded from just English (US) to include English (Canada), English (India), English (United Kingdom), English (Australia), English (International), Deutsch (Deutschland), Português (Brasil), Nederlands (Nederland), Nederlands (Belgium), Français (France), Español (España, alfabetización internacional), 日本語 (日本), Français (France), Chinese (Cantonese, Traditional), Chinese (Mandarin, Simplified), Hindi (India), Italian (Italy), Korean (Korea), Spanish (Mexico), Swedish (Sweden), Polish (Poland), Arabic (United Arab Emirates), Arabic (Saudi Arabia).
 
 - **將 Teams 會議串流至自訂 RTMP 端點：** 串流流讓貴組織擴展您的連絡範圍，並提供會議參與者更多會議選項。 當您啟用串流時，召集人可以透過提供即時訊息協定 (RTMP) URL 及 Teams 中內建 [自訂串流] 應用程式的金鑰，將會議和網路研討會串流送至外部端點。
 
@@ -1987,7 +2042,7 @@ ms.locfileid: "67666530"
 
 - **DOD 中 [錯過活動的電子郵件]：** 錯過活動的電子郵件可讓使用者全面掌握 Microsoft 團隊。 當使用者不在 Microsoft 團隊且尚未檢閱其通知時，就會產生錯過活動的電子郵件。 使用者可以移至 [設定] -> [通知] -> [選擇頻率] 來選擇接收 [錯過活動的電子郵件]。
 
-- **[搜尋自動建議] 中的熱門點閱：** 熱門點閱是搜尋中自動建議結果頂端的新區段，使用者可以在此查看所有人員、聊天、檔案等最相關的結果。這項功能會改善探索，並縮短搜尋時間。
+- **Top hits in Search Autosuggest:** Top hits is a new section at the top of the autosuggest results in search where users will see the most relevant results across people, chats, files and more. This feature will improve discovery and reduce search times.
 
 - **Teams 應用程式的 [管理裝置權限]：** 個人化權限以在每個應用程式內使用相機、位置及其他功能。
 
@@ -2128,7 +2183,7 @@ ms.locfileid: "67666530"
 - 我們已修正嘗試使用來自非 Office 應用程式的 DAO API 時，會停止回應並顯示「作業系統目前未配置成執行此應用程式」的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="excel"></a>Excel
@@ -2136,17 +2191,17 @@ ms.locfileid: "67666530"
 - 我們已修正可能造成某些連結 Dynamics 資料表停止回應的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="word"></a>Word
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 
@@ -2183,7 +2238,7 @@ ms.locfileid: "67666530"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Add Flipgrid videos to your presentation:** PowerPoint now supports Flipgrid videos along with other video types. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -2597,11 +2652,11 @@ ms.locfileid: "67666530"
 
 ### <a name="visio"></a>Visio
 
-- **適用於您的圖表的現成圖形：** 從可新增至 Visio 繪圖中的圖示、相片庫影像、人像紙板和圖戳的大型文件庫中進行選擇。[深入了解](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
+- **Ready-made graphics for your diagrams:** Choose from a large library of icons, stock photo images, cutout people, and stickers that you can add to your Visio drawings. [Learn more](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />在[部落格文章](https://insider.office.com/en-us/blog/access-illustrations-icons-in-visio)中查看詳細資料
 
 ### <a name="word"></a>Word
 
-- **使用新式註解來改善共同作業：** 將註解新增至物件、@提及同事，並解決留言討論串，以獲得更佳的共同作業體驗。[深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
+- **Better collaboration with modern comments:** Add comments to objects, @mention colleagues, and resolve comment threads for a better collaboration experience. [Learn more](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />在[部落格文章](https://insider.office.com/en-us/blog/modern-commenting-in-word)中查看詳細資料
 
 - **Word 文件的深色模式：** 深色模式有助於減輕眼睛疲勞，並可在處理文件時適應對光線的敏感度。<br />在[部落格文章](https://insider.office.com/en-us/blog/try-dark-mode-in-word)中查看詳細資料
 
@@ -2756,7 +2811,7 @@ ms.locfileid: "67666530"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2772,15 +2827,15 @@ ms.locfileid: "67666530"
 
 - **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="teams"></a>Teams
 
-- **會議反應：** 會議反應是在會議中互動的新方式。參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
+- **Meeting Reactions:** Meeting reactions are a new way to interact in meetings. Participants can send reactions and they'll be shown as a stream on content that is shared, and on the individual who sent the reaction if they're displayed on the meeting stage.
 
 - **在 Teams 會議中管理出席者音訊權限的改進：** 即使在出席者沒有舉手的情況下，會議簡報者和召集人現在可以允許出席者取消靜音。 以前，被禁止取消靜音 (停用麥克風) 的出席者必須舉手才能取消靜音。
 
@@ -2802,7 +2857,7 @@ ms.locfileid: "67666530"
 
 - **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -2956,9 +3011,9 @@ ms.locfileid: "67666530"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once. [Learn more](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click. [Learn more](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
@@ -2983,7 +3038,7 @@ ms.locfileid: "67666530"
 
 - **使用 Microsoft Forms 讓會議參與者投票：** Teams 會議的投票是可輕鬆探索且順暢的體驗，可協助您進行更吸引人且更具生產力的會議。 利用由 Microsoft Forms 提供支援的「投票」功能，會議簡報者可以分別在會議之前、期間和之後準備、啟動及評估投票，這一切都可以在 Teams 會議的一個索引標籤下進行。 身為會議簡報者，您可以將 Forms 應用程式新增為 Teams 會議中的索引標籤，然後從一個位置建立、啟動及評估您的投票。 建立投票以在會議期間啟動，甚至在會議開始之前啟動。 然後，在會議之後，您可以選擇在索引標籤中、在匯出的 Excel 活頁簿或在 Forms 應用程式的網頁上評估回應。 簡報者有各種不同的控制項，例如啟用匿名回應、關閉投票，以及將結果匯出至 Excel。 來自任何端點 (行動裝置、網頁、桌面) 的出席者可以在投票出現在會議畫面或會議聊天中時檢視和回答投票，以及即時查看非匿名的投票結果。
 
-- **會議反應：** 會議反應是在會議中互動的新方式。參與者可以傳送反應且反應會以資料流的形式顯示在共用的內容上，以及在傳送該反應的個人上 (如果他們有在會議階段上顯示)。
+- **Meeting reactions:** Meeting reactions are a new way to interact in meetings. Participants can send reactions and they'll be shown as a stream on content that is shared, and on the individual who sent the reaction if they're displayed on the meeting stage.
 
 - **桌面用戶端的歷程記錄功能表：** Teams 桌面用戶端中的歷程記錄功能表，可讓您輕鬆回到最近瀏覽過的位置。 只要將游標停留在桌面用戶端的下一頁或上一頁瀏覽選項上，然後選取位置即可。 也可使用鍵盤快速鍵來開啟功能表。
 
@@ -3103,33 +3158,33 @@ ms.locfileid: "67666530"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
 - **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
 
-- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- **Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default. [Learn more](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3227,11 +3282,11 @@ ms.locfileid: "67666530"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用「簡報者教練」排練簡報:** 取得有助於維持對象參與的項目的意見反應，例如節奏、語調、填充字詞、敏感詞語等等。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **Rehearse your presentation with Presenter Coach:** Get feedback on the things that help keep an audience engaged — like pacing, pitch, filler words, sensitive phrases, and more. [Learn more](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="visio"></a>Visio
 
-- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams. [Learn more](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3288,6 +3343,7 @@ ms.locfileid: "67666530"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15629.20156|version-2209-september-26|)
 [//]: # (|Win32|CC|Production| |16.0.15601.20150|version-2208-september-13|)
 [//]: # (|Win32|CC|Production| |16.0.15601.20148|version-2208-september-13|)
 [//]: # (|Win32|CC|Production| |16.0.15601.20088|version-2208-august-31|)
@@ -3297,5 +3353,4 @@ ms.locfileid: "67666530"
 [//]: # (|Win32|CC|Production| |16.0.15330.20264|version-2206-july-18|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
-[//]: # (|Win32|CC|Production| |16.0.15330.20196|version-2206-june-29|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

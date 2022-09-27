@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 的完整版本清單 (依日期編排) 以及版本資訊的連結
-ms.openlocfilehash: 8819d170f4e0bd3f16cd71139f1da91a5a12d623
-ms.sourcegitcommit: 060296934f75b200712b0ca10042b0302a503d84
+ms.openlocfilehash: 28d766853b4e5c5480c5327fbaae625e3bb1db6a
+ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67668451"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "68024952"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Microsoft 365 Apps 的更新歷程記錄 (依日期列出)
 
@@ -33,9 +33,8 @@ ms.locfileid: "67668451"
 
 |**通道**|**版本**|**組建**|**最新發行日期**|**版本可用性日期**|**終止服務**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|目前通道<br/>|2208<br/>|15601.20148<br/>|2022 年 9 月 13 日<br/>|2022 年 8 月 31 日<br/>|版本 2209 已發行<br/>|
+|目前通道<br/>|2209<br/>|15629.20156<br/>|2022 年 9 月 26 日<br/>|2022 年 9 月 26 日<br/>|版本 2210 已發行<br/>|
 |每月企業頻道<br/>|2207<br/>|15427.20284<br/>|2022 年 9 月 13 日<br/>|2022 年 9 月 13 日<br/>|2022 年 11 月 8 日<br/>|
-|每月企業頻道<br/>|2205**<br/>|15225.20422<br/>|2022 年 9 月 13 日<br/>|2022 年 7 月 26 日<br/>|2022 年 10 月 11 日<br/>|
 |半年企業通道 (預覽)<br/>|2208<br/>|15601.20148<br/>|2022 年 9 月 13 日<br/>|2022 年 9 月 13 日<br/>|2023 年 1 月 14 日<br/>|
 |半年企業通道<br/>|2202<br/>|14931.20724<br/>|2022 年 9 月 13 日<br/>|2022 年 7 月 12 日<br/>|2023 年 9 月 12 日<br/>|
 |半年企業通道<br/>|2108<br/>|14326.21142<br/>|2022 年 9 月 13 日<br/>|2022 年 1 月 11 日<br/>|2023 年 1 月 14 日<br/>|
@@ -50,7 +49,7 @@ ms.locfileid: "67668451"
 
 若想瞭解從舊版的 Microsoft 365 Apps 更新至最新版本的約略下載大小，請參閱[更新至 Microsoft 365 Apps 的下載大小](./download-sizes-microsoft365-apps-updates.md)。
 
-下表提供下列更新通道中發行的 Microsoft 365 Apps: 每個更新的版本和組建編號清單：目前、每月企業、半年企業 (預覽) 和半年企業。表格中的每個項目會直接連結到該版本的版本資訊。這些版本資訊提供 Microsoft 365 Apps 更新中包含的功能、安全性更新和非安全性更新的相關資訊。
+The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.
 
 ### <a name="version-history"></a>**版本歷程記錄**
 
@@ -58,6 +57,7 @@ ms.locfileid: "67668451"
 
 |**年**|**發行日期**|**目前通道**|**每月企業通道**|**半年企業通道 (預覽)**|**半年期企業通道**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2022|9 月 26 日|[版本 2209 (組建 15629.20156) ](current-channel.md#version-2209-september-26)| | | |
 |2022|9 月 13 日|[版本 2208 (組建 15601.20148) ](current-channel.md#version-2208-september-13)|[版本 2207 (組建 15427.20284) ](monthly-enterprise-channel.md#version-2207-september-13) <br/>[版本 2205 (組建 15225.20422) ](monthly-enterprise-channel.md#version-2205-september-13)|[版本 2208 (組建 15601.20148) ](semi-annual-enterprise-channel-preview.md#version-2208-september-13)|[版本 2202 (組建 14931.20724) ](semi-annual-enterprise-channel.md#version-2202-september-13)<br/>[版本 2108 (組建 14326.21142) ](semi-annual-enterprise-channel.md#version-2108-september-13)|
 |2022|8 月 31 日|[版本 2208 (組建 15601.20088) ](current-channel.md#version-2208-august-31)| | | |
 |2022|8 月 18 日| |[版本 2206 (組建 15330.20306) ](monthly-enterprise-channel.md#version-2206-august-18)| | |

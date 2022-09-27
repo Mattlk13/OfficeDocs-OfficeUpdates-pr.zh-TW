@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: 88119d34c826bbc7b2e4142ca82241766ec66afd
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 608735de1226dbc9d1b0f2c39d22f520480ac5c7
+ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666421"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "68024941"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -22,7 +22,7 @@ ms.locfileid: "67666421"
 
 下表顯示從舊版 Microsoft 365 Apps 更新至最新版本時，大約的下載大小。 實際下載大小可能有所不同，最多可達 50 MB。 如果您從舊版更新到最新版本時，下載大小可能會更大。
 
-如果您正在切換至不同的通道，例如從「半年通道 (已設定目標)」到「半年通道」，更新大小會遠超過表格中所列的大小。它可能需要完整下載，其可能為至少 1 GB。
+If you are switching to a different channel, for example from Semi-Annual Channel (Targeted) to Semi-Annual Channel, your update size could be considerably larger than what's listed in the table. It could entail a full download, which could be at least 1 GB.
 
 
 > [!NOTE]
@@ -30,6 +30,22 @@ ms.locfileid: "67666421"
 > - 會列出最近四個月的發行。
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="september-26-2022"></a>2022 年 9 月 26 日
+
+[//]: # (DO NOT REMOVE CONTENT STARTSeptember 26， 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2209 (組建 15629.20156) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2208 (組建 15601.20148)  <br/> |2022 年 9 月 13 日 <br/> |116<br/> |
+|版本 2208 (組建 15601.20088)  <br/> |2022 年 8 月 31 日 <br/> |122<br/> |
+
+
+[//]: # (DO NOT REMOVE CONTENT ENDSeptember 26， 2022)
 
 ## <a name="september-13-2022"></a>2022 年 9 月 13 日
 

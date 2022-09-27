@@ -9,20 +9,22 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「已設定目標」版本的更新歷程記錄
-ms.openlocfilehash: 680ba5f184d904899b2068cc1a7ec1ece74a37ac
-ms.sourcegitcommit: 78e1b12fba78a99247e72b064b90dd20b62378da
+ms.openlocfilehash: 184035e6b3018bf5f31b780dd2a20bf0c2e88d02
+ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2022
-ms.locfileid: "68006101"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "68025001"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Windows 版 Office 目前通道 (預覽) 更新歷程記錄
 
-測試人員，您好！如果想知道您是否已安裝最新的更新，或是正尋找最新目前通道 (預覽) 組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以取得有關測試人員計畫的詳細資訊。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Current Channel (Preview) builds, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Office 目前通道 (預覽) 版本和組建
 
-如果您已經註冊先前稱為「測試人員 - 慢」的目前通道 (預覽) 層級，您大約每個月會取得一次新的 Office 功能更新，加上包含重要修正或安全性更新的後續組建。以下清單顯示最新的目前通道 (預覽) 版本和組建，並將 **最新發行的組建優先列出**。新組建會包含先前組建內含的所有更新。若要尋找版本資訊，[請參閱此處](./current-channel-preview.md)。同時，您可以查看 [Office 測試人員的新功能](https://insider.office.com/en-us/releasenotes/windows/slow)。
+If you're enrolled in the Current Channel (Preview) level, which was formerly called Insider Slow, you get a new Office feature update approximately once a month, plus subsequent builds containing important fixes or security updates. The following list shows recent Current Channel (Preview) versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
+To find release notes, [see](./current-channel-preview.md). Also, you can see [What's new for Office Insiders](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 > [!NOTE]
 > - 此處的更新歷程記錄會列出發行的所有組建
@@ -31,6 +33,9 @@ ms.locfileid: "68006101"
 
 
 [//]: # (DO NOT REMOVE)
+
+**2022 年 9 月 26 日**<br/>
+版本 2209 (組建 15629.20156) <br/>
 
 **2022 年 9 月 23 日**<br/>
 版本 2209 (組建 15629.20152) <br/>

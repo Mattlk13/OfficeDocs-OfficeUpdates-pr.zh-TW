@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: d9d3ee2f4ff314fcb66a43d1000dca505dc55c43
-ms.sourcegitcommit: 78e1b12fba78a99247e72b064b90dd20b62378da
+ms.openlocfilehash: e3cd1c64e8a351b0770f3657794b9a86307f8bc2
+ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2022
-ms.locfileid: "68006081"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "68024971"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -34,6 +34,10 @@ ms.locfileid: "68006081"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-september-26"></a>版本 2209：9 月 26 日
+*版本 2209 (組建 15629.20156)*
+* 各種錯誤和效能修正。
 
 ## <a name="version-2209-september-23"></a>版本 2209：9 月 23 日
 *版本 2209 (組建 15629.20152)*
@@ -1717,7 +1721,7 @@ ms.locfileid: "68006081"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
+- We fixed an issue that could cause memory usage of an application that used DAO or OLEDB interfaces to read Access databases to grow rapidly.  In some cases, this could cause abnormal program termination.
 
 
 ### <a name="excel"></a>Excel
@@ -1839,7 +1843,7 @@ ms.locfileid: "68006081"
 - 我們已修正當使用者將伺服器型專案儲存為 MPP 檔案時，會覆寫本機格式設定的問題。
 
 
-- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
+- We fixed an issue where the user would see a security dialog stating that the project had links to one or more data sources, even though the project had no active links. Now, the dialog appears only when there are active links.
 
 
 - 我們已修正為各種基準欄位進行存存時，間歇性資料遺失的問題。
@@ -2028,7 +2032,7 @@ ms.locfileid: "68006081"
 - 我們已修正當使用者嘗試將超過 8,000 位元組的資料新增到 varchar(max) 欄位時，某些 SQL Server 驅動程式會顯示 [字串資料，右截斷 (#0)] 錯誤的問題。
 
 
-- 我們已修正在使用包括 DFS 命名空間、簡短檔案名稱或對應磁碟機的網路路徑時，會防止多個使用者開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database when using network paths that include DFS Namespaces, short file names, or mapped drives. [Learn More](https://support.microsoft.com/en-us/office/error-in-access-when-opening-a-database-on-a-network-file-share-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 這項變更可啟用針對 Outlook 增益集 1.11 和 1.9 需求集合的完全支援。
@@ -2288,7 +2292,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **想要活頁簿為您提供入門瀏覽指引嗎？：** 了解活頁簿的版面配置、查看具有哪些元素，並使用 [瀏覽] 窗格快速瀏覽。[深入了解](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
+- **Want your workbook to take you places?:** Understand the layout of your workbook, see what elements exist, and navigate around quickly using the Navigation pane. [Learn more](https://support.office.com/article/ddd037e7-22e3-41f0-8bbd-07f5479e92bf)<br />在[部落格文章](https://insider.office.com/en-us/blog/see-the-big-picture-with-navigation-pane-for-excel)中查看詳細資料
 
 ### <a name="outlook"></a>Outlook
 
@@ -2344,7 +2348,7 @@ ms.locfileid: "68006081"
 - 我們已修正當連續使用多個執行緒連接 Access 或 Jet 資料庫時，可能導致應用程式停止回應的問題。
 
 
-- 我們已修正阻止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database on a network file share. [Learn More](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="excel"></a>Excel
@@ -2367,7 +2371,7 @@ ms.locfileid: "68006081"
 - 已修正以下問題：在多重監視器設定中，當使用者選取儲存格時，對話方塊中的一些資料被隱藏。
 
 
-- 我們已修正當您擁有內嵌於其他應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，除非您開啟内嵌的物件並對其進行變更，物件才能完成轉換的問題。現在，當您使用 [轉換] 功能時，即可以完全轉換物件。
+- We fixed an issue where, when you had a Microsoft Excel 97-2003 Worksheet object embedded inside another application (such as a Word document), using the Convert feature to convert it to a Microsoft Excel Worksheet (Office OpenXML) object didn't complete the conversion until you opened the embedded object and made a change to it. The object is completely converted when using the Convert feature now.
 
 
 - 已修正搜尋結果在樞紐分析表欄位清單工作窗格中遺失的問題。
@@ -2678,8 +2682,8 @@ ms.locfileid: "68006081"
 ### <a name="office-suite"></a>Office 套件
 
 - 這會修正兩件事：
-1. Outlook 中存在一個錯誤，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。現在這些內容都會顯示。
-2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
+1. There was a bug in Outlook where the teaching callouts (tips) about the new look of Office did not appear. These will now appear.
+2. Many users of Word, Excel, PowerPoint, and OneNote have missed the teaching callouts about the new look of Office, which include information about what changed and how to change settings, or toggle off the experience. This change retriggers these teaching callouts for users to be notified about the changes.
 
 
 
@@ -2982,7 +2986,7 @@ ms.locfileid: "68006081"
 - 我們已修正「wdlor」+ GUID 查詢參數可能會新增到連結的結尾問題。
 
 
-- 我們已修正更新停止回應的問題。此更新會如預期開啟 [軟體中心]；它會啟動「下載並套用」階段，但之後會停止回應，並出現錯誤：0x87d00668 (「軟體更新在套用之後仍遭偵測為可採取動作」)。
+- We fixed an issue where an update would stop responding. The update would open Software Center as expected; it would start the "download and apply" phase, but then would stop responding and an error would appear: 0x87d00668 ("Software update still detected as actionable after apply").
 
 
 - 我們已修正會影響 MSI Office 2007 catalyst 偵測邏輯，導致 Visio 和 Project 遭到意外移除的問題。
@@ -3450,7 +3454,7 @@ ms.locfileid: "68006081"
 
 - 我們已修正錯誤訊息中包含特殊字元的問題。
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="excel"></a>Excel
@@ -3491,10 +3495,10 @@ ms.locfileid: "68006081"
 - 我們已修正圖形在重新計算期間的穩定性相關問題。
 
 
-- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- This version fixes an issue when the app closes unexpected. This happens during Save for some documents in tenants which have opted into protected coauthoring if the local file cache has tenant Id datum formatted incorrectly.
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="onenote"></a>OneNote
@@ -3557,10 +3561,10 @@ ms.locfileid: "68006081"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- This version fixes an issue when the app closes unexpected. This happens during Save for some documents in tenants which have opted into protected coauthoring if the local file cache has tenant Id datum formatted incorrectly.
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 - 已修正重新啟用 SmartArt 和 AutoShape 物件內圖片的「重設圖片和大小」的問題。
@@ -3594,10 +3598,10 @@ ms.locfileid: "68006081"
 
 ### <a name="word"></a>Word
 
-- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- This version fixes an issue when the app closes unexpected. This happens during Save for some documents in tenants which have opted into protected coauthoring if the local file cache has tenant Id datum formatted incorrectly.
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 - 我們修正了使用書簽儲存及開啟文件的問題。
@@ -3624,7 +3628,7 @@ ms.locfileid: "68006081"
 - 已修正當使用 [此裝置] 選項編輯與新增圖片相關之連絡人的問題。
 
 
-- 此版本修正了應用程式意外關閉的問題。如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
+- This version fixes an issue when the app closes unexpected. This happens during Save for some documents in tenants which have opted into protected coauthoring if the local file cache has tenant Id datum formatted incorrectly.
 
 
 - 我們已修正與應用程式在呼叫 DCompositionCreateDevice 時停止回應相關的問題。
@@ -3663,7 +3667,7 @@ ms.locfileid: "68006081"
 - 我們已修正與下列案例相關的問題: 使用建立視訊從預設 OneDrive 位置的簡報匯出視訊時，會出現錯誤訊息，指出該位置不可用。
 
 
-- 我們已改善將檔案儲存至需要使用者存取核准的位置時的行為。現在應該會顯示授權存取畫面，以允許使用者存取核准。
+- We improved behavior during file save to a location requiring user access approval. The Grant Access screen should now appear to allow user access approval.
 
 
 
@@ -3892,7 +3896,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="word"></a>Word
 
-- **校訂現在可用於 [文件] 中的已選取文字：** 有了這些變更，我們現在可以僅檢閲已選取文字的拼字、文法和其他智慧型書寫建議。此外，我們也可以檢視整份文件的建議。<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
+- **Proofing is now available for selected text within the Document:** With this change we can now review spelling, grammar and other intelligent writing suggestions for just the selected text. Additionally we can also review suggestions for the whole document.<br />在[部落格文章](https://insider.office.com/en-us/blog/proof-selected-text-in-a-word-document)中查看詳細資料
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -3905,7 +3909,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **Lambda：不含程式碼自訂函數：** Lambda 函數可讓您接受任何現有的公式或運算式，並將之轉換成具有名稱的自訂函數。使用 Lambda 函數輕鬆重複使用並更新試算表中的邏輯。
+- **Lambda: Custom Functions Without Code:** The lambda function allows you to take any existing formula or expression and turn it into a custom function with a name. Easily reuse and update logic in your spreadsheet with the lambda function.
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -3921,7 +3925,7 @@ ms.locfileid: "68006081"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 ### <a name="excel"></a>Excel
 
@@ -3953,7 +3957,7 @@ ms.locfileid: "68006081"
 - 我們已修正與文字游標動畫相關的穩定性問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 
@@ -4011,7 +4015,7 @@ ms.locfileid: "68006081"
 - 我們已修正 Word 存檔時，所花時間超過預期的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="project"></a>Project
@@ -4061,7 +4065,7 @@ ms.locfileid: "68006081"
 - 我們已修正 URL 剖析器不正確地解譯未以「/」 結尾的資料夾名稱的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may fail due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -4111,7 +4115,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **在簡報中新增 Flipgrid 影片：** PowerPoint 現在支援 Flipgrid 視訊與其他視訊類型。[深入了解](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+- **Add Flipgrid videos to your presentation:** PowerPoint now supports Flipgrid videos along with other video types. [Learn more](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4143,7 +4147,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中使用建議的回覆：** 當您收到可以簡短回覆的電子郵件訊息時，Outlook 可以建議三個回應，只要按幾下滑鼠即可回覆。[深入了解](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
+- **Use suggested replies in Outlook:** When you receive an email message that can be answered by a short response, Outlook can suggest three responses you can use to reply with just a couple of clicks. [Learn more](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />在[部落格文章](https://insider.office.com/en-us/blog/reply-faster-using-suggested-replies-in-outlook)中查看詳細資料
 
 - **建立 Outlook.com 帳戶的連結：** 新增帳戶至 Outlook 時，視窗中會顯示 outlook.com 帳戶的連結。
 
@@ -4211,19 +4215,19 @@ ms.locfileid: "68006081"
 
 - **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
-- **政府客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Government Customers: Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
-- **政府客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Government Customers: Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 ### <a name="word"></a>Word
 
-- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存為其他檔案類型。
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
-- **政府客戶：將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Government Customers: Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4304,7 +4308,7 @@ ms.locfileid: "68006081"
 
 ### <a name="visio"></a>Visio
 
-- 此超連結瀏覽問題現在已在最新組建中修正。使用者可以使用 CTRL + 按一下超連結的圖形，繼續順暢地存取超連結，以瀏覽到位於其商務用 OneDrive 中所需的連結檔案。
+- This hyperlink navigation issue has now been fixed in the latest build. Users can continue to access hyperlinks seamlessly to navigate to the desired linked file located in their OneDrive for business, using CTRL + click on the shape with the hyperlink.
 
 
 ### <a name="word"></a>Word
@@ -4678,7 +4682,7 @@ ms.locfileid: "68006081"
 
 ### <a name="visio"></a>Visio
 
-- **AWS 樣版和圖形：** 我們現在的樣版包含最新的 AWS 圖形，可協助您建立圖表。[深入了解](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+- **AWS stencils and shapes:** We now have stencils with the latest AWS shapes to help you create diagrams. [Learn more](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
 
 
 
@@ -4709,7 +4713,7 @@ ms.locfileid: "68006081"
 
 - **推出出席資料儀表板檢視**：您不再需要手動下載報告，Teams 現在可讓您按一下儀表板檢視即可檢視所有彙總資料
 
-- **應用程式的安全性、合規性和資料保護功能：** 對於 Microsoft 365 認證 Teams 應用程式，系統管理員可以在 Teams 系統管理中心應用程式詳細資料頁面的新索引標籤上檢視安全性、合規性和資料保護功能。此透明度使得 Microsoft 客戶能夠信任其組織中執行的應用程式。
+- **Security, compliance, and data protection capabilities for apps:** For Microsoft 365 Certified Teams apps, admins can view security, compliance, and data protection capabilities in a new tab on the app's detail page in the Teams Admin Center. This transparency gives Microsoft customers trust in the applications that run their organizations.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4754,7 +4758,7 @@ ms.locfileid: "68006081"
 
 - **Teams 網路研討會與 Dynamics 365 Marketing 整合，以啟用潛在客戶培養：** 利用這項功能，網路研討會召集人可以運用 D365 Marketing 促進與報名者在活動後的參與。 出席者參與資料會與 D365 Marketin 組織同步，並啟用自動化的使用者旅程
 
-- **智慧型喇叭：** 智慧型喇叭是 Windows 上 Microsoft Teams 會議室的智慧周邊設備。他們將為會議室中的參與者帶來歸屬於演講者的謄寫，讓出席者能減少記錄筆記的時間，並輕鬆追蹤在會議室中發言的人。
+- **Intelligent speakers:** Intelligent speakers are intelligent peripherals for Microsoft Teams Rooms on Windows. They will bring speaker attributed transcription for participants in the meeting room, enabling attendees to spend less time note-taking and easily follow along who said what in the room.
 
 - **讓 Teams 使用者能夠透過 Teams 用戶端購買 Teams 應用程式：** Teams 使用者現在可以從 Teams Store 購買 Teams 應用程式訂閱。
 
@@ -4863,11 +4867,11 @@ ms.locfileid: "68006081"
 
 - **從 PowerPoint 到 Teams 進行展示：** PowerPoint 應用程式直接透過 PowerPoint Live 將您的幻燈片展示到 Teams 會議。
 
-- **新的管理標籤體驗和其他增強功能：** Teams 中的標籤可讓使用者快速聯繫一組人員，而不需要 @mention 或輸入所有人。管理標籤體驗現在是一個索引標籤。標籤現在也有描述欄位，因此您可以在標籤中新增更多詳細資料。新的標籤索引標籤將是標籤通知和搜尋標籤的登入頁面，此網頁也即將推出。
+- **New manage tag experience and other enhancements:** Tags in Teams let users quickly reach a group of people without having to @mention or type out everyone.The manage tags experience is now a Tab. Tags also now have a description field so that you can add more details to a tag. The new Tags Tab will be the landing page for tag notifications and search for tags, which is also coming soon.
 
-- **智慧型喇叭：** 智慧型喇叭是 Windows 上 Microsoft Teams 會議室的智慧周邊設備。他們將為會議室中的參與者帶來歸屬於演講者的謄寫，讓出席者能減少記錄筆記的時間，並輕鬆追蹤在會議室中發言的人。
+- **Intelligent Speakers:** Intelligent speakers are intelligent peripherals for Microsoft Teams Rooms on Windows. They will bring speaker attributed transcription for participants in the meeting room, enabling attendees to spend less time note-taking and easily follow along who said what in the room.
 
-- **針對新使用者將預設從 Teams 紫色變更為原生通知：** 原生通知提供許多優點，例如支援控制中心、協助工具、專注輔助模式支援等。目前 Microsoft Teams 中新使用者的預設通知樣式為 Teams 紫色。變更後, 新使用者的預設會變更為原生通知。
+- **Changing default to native notification from teams purple for new users:** Native Notifications provide a host of benefits like support for action center, accessibility, support for focus assist mode e.t.c.Currently the default notification style for a new user in Microsoft teams is Teams Purple. With this change the default for new user will change to Native Notification.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -4909,7 +4913,7 @@ ms.locfileid: "68006081"
 - 我們已進行變更，讓名稱管理員可以在具有大量隱藏名稱的書籍上開啟。
 
 
-- 我們已修正支援舊版 Excel 的回溯相容性的問題。此問題可能會導致於較新版 Excel 中儲存的檔案無法在舊版 Excel 中正確載入，因為自 Office 2007 之後已將 IFERROR 和 XLOOKUP 等函數新增至 Excel。
+- We fixed an issue to support backward compatibility with older versions of Excel. The issue may cause a file that is saved in a more recent version of Excel failed to load properly in older versions of Excel due to  functions such as IFERROR and XLOOKUP added to Excel since Office 2007.
 
 
 - 我們已修正在某些情況下，使用選擇性貼上搭配格式時可能會導致 Excel 意外關閉的問題。
@@ -5092,7 +5096,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **從動態陣列匯入資料：** 您現在可以從目前活頁簿中的動態陣列中，匯出、製作及重新整理資料。[深入了解](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+- **Import data from dynamic arrays:** You can now import, shape and refresh data from dynamic arrays in the current workbook. [Learn more](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
 
 ### <a name="outlook"></a>Outlook
 
@@ -5179,7 +5183,7 @@ ms.locfileid: "68006081"
 
 ### <a name="word"></a>Word
 
-- 在此錯誤中，Office 未遵守特定原則 (在首頁上顯示了一組範本，但它們應該已遭到停用)。透過此修正，將會遵守原則。
+- In this bug, specific policies weren't being honored by Office (a group of templates were being shown on the Home Page when they should have been disabled). With this fix, the policies are being honored.
 
 
 - 共同撰寫文件時，若註解順序變更，不會清除作用中草稿。
@@ -5369,7 +5373,7 @@ ms.locfileid: "68006081"
 
 ### <a name="visio"></a>Visio
 
-- **Office 圖示有新的外觀：** 產品圖示經過重新設計，以反映簡單、功能強大且智慧型的 Office 體驗。[深入了解](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+- **Office icons have a new look:** The product icons have been redesigned to reflect simple, powerful, and intelligent Office experiences. [Learn more](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
 
 ### <a name="word"></a>Word
 
@@ -5710,7 +5714,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="teams"></a>Teams
 
-- **Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器上的 2x2 影片** 使用者可以在 Windows 和 Mac 上的 Edge 和 Chrome 瀏覽器中的 Teams 會議中查看最多 4 個參與者的影片。[深入了解](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+- **2x2 video on Edge and Chrome browsers on Windows and Mac** Users can see up to 4 participants' video in Teams meetings in Edge and Chrome browsers on Windows and Mac. [Learn more](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -5858,20 +5862,20 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)。
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels).
 
 
 ### <a name="word"></a>Word
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC 和 GCC-H 環境中的客戶使用。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC and GCC-H environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 
 ### <a name="resolved-issues"></a>解決的問題
@@ -5959,9 +5963,9 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once. [Learn more](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click. [Learn more](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6052,7 +6056,7 @@ ms.locfileid: "68006081"
 - 此問題是由於最近的迴歸而造成。 我們已解決此問題。 [另存成網頁] 對話方塊現在會根據使用者的輸入正確填入欄位，且使用者可以將其檔案順暢地儲存為網頁。
 
 
-- 修正此問題。您現在可以在其他 Office 應用程式 (例如 PowerPoint 和 Word) 中將 Visio 檔案內嵌為物件，並順暢地透過這些應用程式存取檔案。
+- This issue has been fixed. You can now embed Visio files as objects in other Office applications like PowerPoint and Word and seamlessly access them from within these applications.
 
 
 ### <a name="word"></a>Word
@@ -6141,21 +6145,21 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 ### <a name="outlook"></a>Outlook
 
-- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+- **Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default. [Learn more](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 ### <a name="word"></a>Word
 
-- **將敏感度標籤的相關稽核資料傳送給 M365 系統管理員：** 當使用者套用、變更或移除其文件和電子郵件上的敏感度標籤時，Office 會將稽核資料傳送到 M365 稽核後端，供系統管理員查看。此項幕後功能 (無 UI) 為系統管理員權益。
+- **Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6217,18 +6221,18 @@ ms.locfileid: "68006081"
 - **Citrix 與 VMWare VDI 的 Teams 會議 2X2 圖庫檢視：** Teams 用戶端在 VDI 最佳化模式中時，Teams 的 VDI 2x2 圖庫檢視功能會啟用，可讓您在 2x2 圖庫中檢視 Citrix、VMWare 之 VDI 用戶端的最多四個出席者影片。
 
 
-- **會議反應：** 會議反應是在會議中互動的新方式。參與者可以傳送以時間列表顯示的反應，其出現的地點為正在共用的內容上，以及有在會議階段上顯示之傳送反應的個人上。 
+- **Meeting Reactions:**  Meeting reactions are a new way to interact in meetings. Participants can send reactions which are shown as a stream on content that is being shared, and on the individual who sent the reaction if they're displayed on the meeting stage. 
 
 
 - **Web 會議的共聚模式和大型圖庫** 大型圖庫可讓您一次看到最多 49 個其他人員的影片。 當至少 10 人開啟相機時，即可使用此選項。 共聚模式可讓您感覺與會議中每個人處於相同的共用空間。 當會議中至少有五個人時，即可使用共聚模式。 
 
 
-- **通話合併** 通話合併可讓使用者將其撥打的新通話，或新來電合併到其 1 對 1 或群組通話中。這適用於 Teams VOIP 通話和 PSTN 通話。 
+- **Call Merge** Call Merge allows users to merge a new call they place, or a new incoming call, into their 1-1 or group call. This applies to Teams VOIP calls and PSTN calls. 
 
 
 ### <a name="visio"></a>Visio
 
-- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams. [Learn more](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6533,10 +6537,10 @@ ms.locfileid: "68006081"
 
 ### <a name="outlook"></a>Outlook
 
-- 解決在新增或儲存附件時，會導致 Outlook 偶爾停止運作的問題。
+- 解決在新增或儲存附件時，會導致 Outlook 停止運作的問題。
 
 
-- 我們已修正影像附件的快速列印會導致「Windows 找不到這張圖片。請檢查位置，然後再試一次」錯誤的問題。
+- We fixed an issue where quick print for image attachments resulted in error, "Windows can't find this picture. Check the location, and then try again".
 
 
 - 我們已修正會導致某些使用者看到 Outlook 在離線狀態下啟動，直到他們手動選擇線上工作的問題。
@@ -6650,15 +6654,15 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="outlook"></a>Outlook
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
@@ -6666,7 +6670,7 @@ ms.locfileid: "68006081"
 
 ### <a name="word"></a>Word
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6762,7 +6766,7 @@ ms.locfileid: "68006081"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用簡報者教練排練您的簡報：** 獲得可協助吸引對象的項目，例如節奏、過度使用的文字、肢體語言等等的指導。[深入了解](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+- **Practice your presentation with Presenter Coach:** Get coaching on the things that help keep an audience engaged — like pacing, overused words, body language, and more. [Learn more](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
 
 ### <a name="word"></a>Word
 
@@ -6794,15 +6798,15 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container. [Learn more](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container. [Learn more](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 ### <a name="word"></a>Word
 
-- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container. [Learn more](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -6942,7 +6946,7 @@ ms.locfileid: "68006081"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 當使用者從 Office 在噴墨印表機上列印任何文件/檔案且印表機墨水不足時，即使噴墨印表機並沒有碳粉，也會顯示「碳粉不足」或「無碳粉」訊息。變更訊息以顯示「碳粉/墨水不足」與「碳粉/墨水用完」。
+- When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners. Changing message to display "Toner/ink Low" & "No toner/ink".
 
 
 
@@ -6988,7 +6992,7 @@ ms.locfileid: "68006081"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 當使用者從 Office 在噴墨印表機上列印任何文件/檔案且印表機墨水不足時，即使噴墨印表機並沒有碳粉，也會顯示「碳粉不足」或「無碳粉」訊息。變更訊息以顯示「碳粉/墨水不足」與「碳粉/墨水用完」。
+- When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners. Changing message to display "Toner/ink Low" & "No toner/ink".
 
 
 
@@ -7024,7 +7028,7 @@ ms.locfileid: "68006081"
 
 ### <a name="excel"></a>Excel
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -7036,13 +7040,13 @@ ms.locfileid: "68006081"
 
 - **依訊息擁有者刪除交談：** 此功能可讓您依訊息擁有者刪除交談。
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -7060,7 +7064,7 @@ ms.locfileid: "68006081"
 
 ### <a name="word"></a>Word
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **自動切換 Office 佈景主題：** Office 可以自動切換佈景主題，以符合您的 Windows 10 佈景主題設定。 移至 [檔案] > [選項]，然後選取 [Office 佈景主題] 旁邊的 [使用系統設定]。 [深入了解](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -7121,7 +7125,7 @@ ms.locfileid: "68006081"
 - 已修正與 XLAM 增益集參照和具名範圍相關的意外關閉問題。
 
 
-- 我們已修正如果使用者將自訂樣式套用至動態陣列，就會收到「您不能只改變一個陣列中的一部分」錯誤的問題。這是已移除的舊版限制。
+- We fixed an issue where if a user applied a custom style to a dynamic array, they would get the error: "You can't change part of an array". This was a legacy restriction that has been removed.
 
 
 - 修正在還原檔案的舊版本後，指派給按鈕的巨集會中斷的問題。
@@ -7269,7 +7273,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **使用 Excel 手寫筆進行快速編輯：**[手寫筆工具] 可協助您手寫並快速編輯資料
 
@@ -7498,7 +7502,7 @@ ms.locfileid: "68006081"
 
 - 我們已修正 VBA 超連結集合中的超連結計數，在新增包含超連結的影像之後，未正確反覆運算的問題。
 
-- 針對舊版非 Web 服務的 [共用] 窗格，在開啟 [共用] 窗格的情況下關閉文件時，可能會導致當機。現已修正此問題。
+- For the old, non-web service based Share pane, upon closing the document while the Share pane is open could cause a crash. This is now fixed.
 
 - 我們已修正使用者從工作列開啟新應用程式視窗，並建立新的空白檔時，會造成額外檔案建立的問題。
 
@@ -7554,7 +7558,7 @@ ms.locfileid: "68006081"
 
 ### <a name="word"></a>Word
 
-- **使用新式註解來改善共同作業：** 將註解新增至物件、@提及同事，並解決留言討論串，以獲得更佳的共同作業體驗。[深入了解](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
+- **Better collaboration with modern comments:** Add comments to objects, @mention colleagues, and resolve comment threads for a better collaboration experience. [Learn more](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -7594,7 +7598,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **在 Excel 中製作精美的 Visio 圖表：** 將資料放在工作表上，以建立流程圖或組織圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Make polished Visio diagrams in Excel:** Create a flow chart or organizational chart by putting data on a worksheet. [Learn more](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -7665,7 +7669,7 @@ ms.locfileid: "68006081"
 - 解決在編輯經理行事曆上的現有行事曆約會時，導致代理人收到錯誤的問題。
 
 
-- 我們已修正會導致使用者在關閉先前儲存的約會時看到下列錯誤的問題：「項目無法儲存，因為已被其他使用者或已在其他視窗中變更過。您要在預設資料夾為這個項目建立複本?」
+- We fixed an issue that caused users to see the following error when closing an appointment that was previously saved "The item cannot be saved because it was changed by another user or in another window. Do you want to make a copy in the default folder for the item?"
 
 
 - 解決會導致若「未」核取 [下載共用資料夾]，共用行事曆會議的 [回應選項] 中會遺失 [允許轉寄] 選項的問題。
@@ -7781,7 +7785,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看詳細資料
 
@@ -7842,7 +7846,7 @@ ms.locfileid: "68006081"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 此問題現在已解決。請讓團隊知道您就此程序是否遇到更多問題。
+- This problem is now resolved. Please let the team know if you experience more issues with this process.
 
 
 ### <a name="outlook"></a>Outlook
@@ -7914,7 +7918,7 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="powerpoint"></a>PowerPoint
 
-- **改善 PowerPoint 中 Steam 影片效能：** 我們已改善 Microsoft Stream 影片的播放效能，將影片載入時間減至最少，以建立流暢的觀賞體驗。您可以在 Microsoft Stream 上使用公司影片來建立更完善的簡報。
+- **Improved Stream video performance in PowerPoint:** We’ve made improvements to the playback performance of Microsoft Stream videos to minimize video loading time and create a smooth viewing experience. Use your corporate videos from Microsoft Stream to create better presentations.
 
 ### <a name="word"></a>Word
 
@@ -8141,7 +8145,7 @@ ms.locfileid: "68006081"
 
 ### <a name="office-suite"></a>Office 套件
 
-- 當登錄機碼 HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth 設為零，且正在啟用增益集時，Office 主機會在 Windows 中當機。此變更可修正此問題。
+- The office host was crashing in windows, when an add-in is being activated while the registry key HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth is set to zero. This change would fix this issue.
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
@@ -8298,9 +8302,9 @@ ms.locfileid: "68006081"
 
 - 此變更修正在按一下 @ 提及時，[人員卡片] 會閃動的問題。
 
-- 啟用 [顯示書籤] 選項不會顯示書籤。已修正此問題。
+- Enabling the option "Show bookmarks" would not display bookmarks. This has been fixed.
 
-- 修正在關閉具有草稿註解的文件時，會提示使用者是否要在未儲存草稿註解的情況下關閉文件的問題。取消該提示會關閉文件，而非讓文件保持開啟。
+- Fixed the issue where closing a document with draft comments would prompt the user if they wanted to close the document without saving the draft comments. Cancelling the prompt would close the document rather than leaving it open.
 
 - 我們已修正複製及貼上標題的問題。
 
@@ -8308,7 +8312,7 @@ ms.locfileid: "68006081"
 
 - 此變更修正了下列問題：如果已啟用 [顯示功能變數代碼，而非其值] 選項，則含有超連結的文字可能不會顯示。
 
-- 在 Web 檢視/沉浸式閱讀程式中，即使是在檢視中，按一下提示也會捲動到最上方。已修正此問題。
+- In Web View/Immersive reader, clicking on a hint would scroll to the top even though it was already in view. This has been fixed.
 
 - 我們已修正一個問題，當嘗試使用新名稱儲存包含巨集的檔案時，無論使用者輸入什麼名稱，都會導致該檔案以.docx 副檔名和檔案名稱 WRO0004.docx 儲存，進而導致文件無法使用。
 
@@ -8341,7 +8345,7 @@ ms.locfileid: "68006081"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦。[深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Tell your stories with animated GIFs:** Animated GIFs are now supported in the Office editor - your documents just got snazzier.  [Learn more](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -8371,9 +8375,9 @@ ms.locfileid: "68006081"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="outlook"></a>Outlook
 
-- **最佳結果 - 立即出現：** 我們更新了搜尋體驗，讓它比以往更聰明、更快速，且更可靠。[深入了解](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+- **Better results—in a jiffy:** We've updated the Search experience to make it smarter, faster, and more reliable than ever. [Learn more](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows. [Learn more](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -8467,7 +8471,7 @@ ms.locfileid: "68006081"
 
 ### <a name="outlook"></a>Outlook
 
-- **在 Outlook 中撰寫郵件時，有新選項可停用 @ 提及建議：** 您是否覺得 @ 提及選擇器很麻煩且不是很好用？現在您可以視需要將其關閉了。
+- **New option to disable @ mention suggestions when composing mail in Outlook:** Do you find the @ mention picker more annoying than useful? Now you can turn it off if you prefer.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -8802,13 +8806,13 @@ ms.locfileid: "68006081"
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
-- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions. [Learn more](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions. [Learn more](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **敏感度標籤**：您現在可以套用組織設定用來提示您自訂權限的敏感度標籤。[深入了解](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
+- **Sensitivity labels**: You can now apply a sensitivity label that your organization has configured to prompt you for custom permissions. [Learn more](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 </br>
 
 ### <a name="resolved-issues"></a>解決的問題
@@ -8882,7 +8886,7 @@ ms.locfileid: "68006081"
 
 ### <a name="visio"></a>Visio
 
-- [圖形資訊] 窗格的 [圖案資料] 區段下顯示的詳細資料，與在 Visio 桌面版中開啟該檔案時所顯示的不一致。現已修正此問題。
+- Shape info pane was showing inconsistent details under Shape Data section, with respect to the file when opened in Visio Desktop. It has now been fixed.
 
 - 在 2016 之前版本中匯入的點陣圖，由於某些安全性檢查而未呈現。 我們已在 Visio 訂閱中修正此問題。
 
@@ -8894,7 +8898,7 @@ ms.locfileid: "68006081"
 
 - 修正 [檔案]\[選項] 對話方塊上的 [確定] 按鈕顯示為灰色停用狀態，但功能並未受影響的外觀問題。
 
-- 在使用中的文件共同撰寫工作階段期間，直接在註解卡片中新增影像可能會導致新增標籤。已修正此問題。
+- During an active document co-authoring session, adding an image directly in to a comment card may result in the addition of a tag. This issue has been fixed.
 
 - 在方程式中插入控制項 (例如文字內容控制項)，然後儲存再開啟檔案，便會導致內容無法讀取的錯誤。
 
@@ -8976,7 +8980,7 @@ ms.locfileid: "68006081"
 
 ### <a name="outlook"></a>Outlook
 
-- **針對網頁驗證 WiFi 網路的新體驗：** 您是否曾加入需要透過網頁登入的 WiFi 網路？Outlook 現在會偵測到這個情況，並協助您連線。
+- **New experience for captive wifi networks:** Have you ever joined a wifi network that required a web page to sign in with? Outlook now detects this and helps you get connected.
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -9047,7 +9051,7 @@ ms.locfileid: "68006081"
 
 - Access 範本應不再導致資料庫中的附件欄出現故障。 個體化範本後，您現在應該可以將附件欄新增至資料庫。
 
-- 此更新會修正使用 ADODB 的問題。VB 程式碼中的錄製程式物件可能會不正確地報告錯誤。
+- 此更新會修正使用 ADODB 的問題。 VB 程式碼中的記錄器物件可能會不正確地報告錯誤。
 
 - 此更新修正可能會導致 Microsoft Access 無法識別連結的 SQL Server 資料表中的識別資料行的問題，這可能會導致不正確地將資料列報告為已刪除。
 
