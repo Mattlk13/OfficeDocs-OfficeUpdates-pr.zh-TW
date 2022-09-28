@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 5389acbe5df0a0606a8c74255ca138f6901c4316
-ms.sourcegitcommit: e761909a935f24a4b6879305fa82fdcf55a3e6cf
+ms.openlocfilehash: 57ac0a7e99ae313bbf74128910f40a227fada484
+ms.sourcegitcommit: bd2667a0fd3cce36ee02b5d4170adf92931bf44c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "68048154"
+ms.lasthandoff: 09/28/2022
+ms.locfileid: "68093095"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -36,14 +36,6 @@ ms.locfileid: "68048154"
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
 
 ### <a name="feature-updates"></a>功能更新
-### <a name="excel"></a>Excel
-
-- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
-
 ### <a name="teams"></a>Teams
 
 - **在一起模式中指派基座：** 允許會議召集人將基座指派給在一起模式中的參與者。
@@ -55,15 +47,6 @@ ms.locfileid: "68048154"
 - **VMware 的 HID 支援：** 此功能支援在虛擬桌面基礎結構 (VDI) 的 Microsoft Teams 中使用人性化介面裝置 (HID) 。
 
 - **Microsoft Teams：** 管理員設定來關閉 Windows 上Teams 會議室的分割視訊版面配置。
-
-### <a name="visio"></a>Visio
-
-- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
-
-### <a name="word"></a>Word
-
-- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
-
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -92,7 +75,6 @@ ms.locfileid: "68048154"
 ### <a name="office-suite"></a>Office 套件
 
 - 我們已修正預設封鎖網際網路宏執行的問題。
-
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
