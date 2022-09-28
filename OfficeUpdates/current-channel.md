@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 42b06d0d5203f891a1518d20f3b0b76ca7edc55d
-ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
+ms.openlocfilehash: 5389acbe5df0a0606a8c74255ca138f6901c4316
+ms.sourcegitcommit: e761909a935f24a4b6879305fa82fdcf55a3e6cf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/27/2022
-ms.locfileid: "68024958"
+ms.locfileid: "68048154"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -43,6 +43,18 @@ ms.locfileid: "68024958"
 ### <a name="powerpoint"></a>PowerPoint
 
 - **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="teams"></a>Teams
+
+- **在一起模式中指派基座：** 允許會議召集人將基座指派給在一起模式中的參與者。
+
+- **群組聊天中的建議回復：** 建議的回復現在可在群組聊天中使用，可讓您在群組聊天中提及或在群組聊天中進行 1：1 交談時，選取快速回應。
+
+- **在 Teams 會議中自動檢視最多 49 個影片 (7x7) ：** 根據預設，Microsoft Teams 會議在畫面上最多支援 9 部影片 (3x3) ， (也就是資源庫檢視) 。 若要查看超過 9 部影片，使用者必須手動選取 [大型資源庫] 檢視。 透過此更新，使用者預設可以自動在其螢幕上看到最多 49 個影片 (7x7) ，而不需要明確動作。 使用者實際看到的影片數目將取決於硬體/裝置功能。
+
+- **VMware 的 HID 支援：** 此功能支援在虛擬桌面基礎結構 (VDI) 的 Microsoft Teams 中使用人性化介面裝置 (HID) 。
+
+- **Microsoft Teams：** 管理員設定來關閉 Windows 上Teams 會議室的分割視訊版面配置。
 
 ### <a name="visio"></a>Visio
 
