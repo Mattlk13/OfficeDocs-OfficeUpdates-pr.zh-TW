@@ -9,16 +9,17 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: bd2c7523f4d319ae14641a2882be58d65bf60e9e
-ms.sourcegitcommit: ed3080f75396bc174b30f0a197a4bad97dda5ecf
+ms.openlocfilehash: 0145c0d933b0fb40435c207669f186cea45e9431
+ms.sourcegitcommit: e00473cb9ab50bcd6970c2e0dc4f3fd414cb5a9e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2022
-ms.locfileid: "68002345"
+ms.lasthandoff: 09/29/2022
+ms.locfileid: "68141784"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
-測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
+Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
+Click [here](https://insider.office.com/) for more information on the Insiders Program.
 
 > [!NOTE]
 >
@@ -27,12 +28,15 @@ ms.locfileid: "68002345"
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office 搶先版通道版本和組建
 
-如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近搶先版通道和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。
+If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
 
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](./beta-channel.md)。
 
 
 [//]: # (DO NOT REMOVE)
+
+**2022 年 9 月 28 日**<br/>
+版本 2210 (組建 15726.20000) <br/>
 
 **2022 年 9 月 23 日**<br/>
 版本 2210 (組建 15715.20014) <br/>
