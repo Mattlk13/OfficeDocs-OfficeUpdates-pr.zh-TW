@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 57ac0a7e99ae313bbf74128910f40a227fada484
-ms.sourcegitcommit: bd2667a0fd3cce36ee02b5d4170adf92931bf44c
+ms.openlocfilehash: 374e4cb317d239fff7a4ad85074a381bcb49fa89
+ms.sourcegitcommit: 561e4afca5088d24c5955aed5c003dbd4ef81f9c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2022
-ms.locfileid: "68093095"
+ms.lasthandoff: 09/30/2022
+ms.locfileid: "68218782"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -96,7 +96,7 @@ ms.locfileid: "68093095"
 - 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。
 
 
-- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+- 在具有 [視覺重新整理深灰色] 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
 
 
 ### <a name="outlook"></a>Outlook
@@ -112,7 +112,7 @@ ms.locfileid: "68093095"
 - 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。
 
 
-- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+- 在具有 [視覺重新整理深灰色] 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
 
 
 ### <a name="word"></a>Word
@@ -123,7 +123,7 @@ ms.locfileid: "68093095"
 - 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。
 
 
-- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+- 在具有 [視覺重新整理深灰色] 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
 
 
 - 我們已修正共同撰寫時移除標頭樣式的問題。
