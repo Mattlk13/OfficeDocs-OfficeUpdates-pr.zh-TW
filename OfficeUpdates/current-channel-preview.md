@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 3fa721da9e49b95100b6b39b5630eb45eb857c67
-ms.sourcegitcommit: bd2667a0fd3cce36ee02b5d4170adf92931bf44c
+ms.openlocfilehash: 132b07462d2b57b74de4ef9b47ef6b980ff04104
+ms.sourcegitcommit: 22b3cfff2a0d6251d2f11fe0422089b81aa96ae3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2022
-ms.locfileid: "68093105"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68364170"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -31,6 +31,184 @@ ms.locfileid: "68093105"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2210-october-03"></a>版本 2210：10 月 3 日
+*版本 2210 (組建 15726.20000)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **動態陣列與圖表整合：** 此功能可讓使用者將圖表連結至動態陣列計算，這會產生可變長度的結果。 重新計算陣列時，圖表會自動更新以擷取所有資料，而不是固定為特定數目的資料點。
+
+### <a name="outlook"></a>Outlook
+
+- **封鎖數位列印：** 如果強制開啟，請針對已加上標籤的電子郵件封鎖所有列印到數位印表機。
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **編輯自動產生的替代文字：** 現在您可以在 PowerPoint 中編輯相片的智慧型替代文字。 [深入了解](https://support.office.com/article/6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
+
+- **第一類檔復原：** 這是 PowerPoint for Windows 簡報的簡化復原體驗，可協助使用者在非預期的應用程式結束時快速恢復生產力。
+
+### <a name="word"></a>Word
+
+- **在內容中接受和拒絕建議：** 只要按一下或點選建議，即可輕鬆預覽建議的變更。 請使用核取記號來接受 ，而 X 則會在檔內容中立即拒絕。<br />在[部落格文章](https://insider.office.com/en-us/blog/review-tracked-changes-with-new-cards-in-word)中查看詳細資料
+
+### <a name="office-suite"></a>Office 套件
+
+- **協力廠商登入的 WebView2：** 這項功能會將目前瀏覽器引擎的登入對話方塊從 Internet Explorer 更新為以 chromium 為基礎的 WebView2 (Microsoft Edge) 。
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正使用觸控板縮放之後，某些內容可能無法正確顯示的問題。
+
+
+- 我們已修正當 alttext 沒有值時，函式會用完資源或顯示錯誤錯誤訊息的問題。
+
+
+- 我們已修正文字格式設定導致 Excel 停止運作的問題。
+
+
+- 我們已修正應用程式在 RTL 工作表上進行觸控式縮放時，會停止回應並耗用大量記憶體的問題。
+
+
+- 我們已修正與圖形相關的間歇性、非預期關閉。
+
+
+### <a name="onenote"></a>OneNote
+
+- 我們已修正在畫布上插入圖形或線條之後，使用者無法拖曳或調整物件大小的問題。
+
+
+- 我們已修正使用者無法搭配手寫筆使用移動流覽工具的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正 Web 檢視在重新開機和取消時顯示錯誤訊息的問題。
+
+
+- 我們已修正讀取或撰寫訊息時看不到捲軸的問題。
+
+
+- 我們已修正讀取或撰寫訊息時看不到捲軸的問題。
+
+
+- 我們已修正中斷 IMAP IDLE 會話連線導致 IMAP 同步停止，直到重新開機的問題。
+
+
+- 我們已修正 SharePoint 檔在附加為複本時，不會針對超過指定大小的 URL 下載的問題。
+
+
+- 我們已修正搜尋一律會從主要帳戶傳回結果，而不是從選取的帳戶傳回的結果的問題。
+
+
+- 我們已修正在嘗試為連絡人圖片空白的人載入連絡人卡片時，導致使用者意外遇到關閉的問題。
+
+
+- 我們已修正導致使用者在開機後短暫意外關閉的問題。
+
+
+- 我們已修正提交意見反應時導致 Outlook 意外關閉的問題。
+
+
+- 我們已修正會導致停用服務通知的使用者看到已淘汰的 UI 顯示通知服務已停用的問題。
+
+
+- 我們已修正在將附件拖放至郵件訊息時，導致附件大小限制無法評估的問題。
+
+
+- 我們已修正關閉郵件控制台時，應用程式意外關閉的問題。
+
+
+- 我們已修正與圖形相關的間歇性、非預期關閉。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 我們已修正與圖形相關的間歇性、非預期關閉。
+
+
+- 我們已修正當存取為 IOleObject 時，PowerPoint 無法關閉的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正當資源的名稱包含系統清單分隔符號時，有時無法將資源同步處理至 SharePoint 清單的問題。
+
+
+- 我們已修正只套用一個跨專案連結選項的問題，即使已選取多個選項也一樣。
+
+
+### <a name="publisher"></a>發行者
+
+- 我們已修正與圖形相關的間歇性、非預期關閉。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正與圖形相關的間歇性、非預期關閉。
+
+
+- 我們已修正在 Windows Server 2016 上部署 Microsoft 365 時，無法使用大聲朗讀功能的問題。
+
+
+- 我們已修正大型 URL 的問題: 如果其長度超過特定字元限制, 在此情況下無法開啟連結。
+
+
+- 我們已修正超連結無法運作，且顯示錯誤的問題。
+
+
+- 我們已修正應用程式防護在互動模式中的問題。
+
+
+- 我們已修正使用輸入法編輯器 (輸入法) 時的即時輸入問題。
+
+
+- 我們已修正分割文件視窗之後，下方視窗不會捲動到游標下方的預期位置的問題。
+
+
+- 我們已修正共同撰寫時會移除標頭樣式的問題。
+
+
+- 我們已修正下列問題：如果內建標籤新增了頁尾，它會不正確地移動現有的手動新增頁尾。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正從 Sharepoint 2019 文件庫開啟的 Excel 檔案在 Windows 版 Excel 中間歇性開啟為唯讀的問題。
+
+
+- 我們已修正導致鎖定的 Word 和 Excel 檔案無法開啟的問題。
+
+
+- 我們已修正當圖示大小更新時，QAT 中標籤的字型大小意外增加的問題。
+
+
+- 根據預設，在生產環境中從網際網路啟用功能封鎖宏。
+
+
+- 我們已修正在包含文字的某些 SVG 圖形上執行 [轉換成圖形] 時的問題。
+
+
+- 我們已修正將 SVG 內容的 PowerPoint 投影片儲存速度變慢為元檔案格式的問題。
+
+
+- 我們已修正客戶憑證未正確顯示為已撤銷的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)

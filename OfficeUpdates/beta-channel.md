@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: e551b5cfe0a5b95de88e60ba0a3b321b7c84ede6
-ms.sourcegitcommit: d5b08a0e998b5347138201314cfaec49e674ef44
+ms.openlocfilehash: fb1f918654546cf7a937eef8adf379215e0d48c7
+ms.sourcegitcommit: 22b3cfff2a0d6251d2f11fe0422089b81aa96ae3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "68295902"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68364161"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -36,6 +36,11 @@ ms.locfileid: "68295902"
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+### <a name="feature-updates"></a>功能更新
+### <a name="powerpoint"></a>PowerPoint
+
+- **輕鬆編輯自動產生的替代文字：** 按一下標題列上的 [編輯]，輕鬆修改自動替代文字 [深入瞭解](https://support.office.com/article/6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25)
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
