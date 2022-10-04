@@ -9,22 +9,29 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office 2016 和 Office 2013 永久版本的最新非安全性更新資訊連結
-ms.openlocfilehash: 670ad22a3a0e010cb9326aa85ed5294c72b64b27
-ms.sourcegitcommit: 384897973b6ce5c02fbc872eb572efa371882906
+ms.openlocfilehash: 733bd6047e1d76a96c727aff3d1d7f66885cc913
+ms.sourcegitcommit: 42c7b9e54b67c801c10410d2449791fdacf6cc24
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/07/2022
-ms.locfileid: "67610544"
+ms.lasthandoff: 10/04/2022
+ms.locfileid: "68376664"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>使用 Windows Installer (MSI) 的 Office 版本最新非安全性更新
 
 本頁列出 Office 的非安全性更新，這個更新在每月的第一個星期二發行 (視需要)。
 
 > [!NOTE]
-> - 本文中的資訊僅適用於使用 Windows Installer (MSI) 安裝技術的 Office 永久版本。例如，Office 專業增強版 2016。
+> - The information in this article only applies to perpetual versions of Office that use the Windows Installer (MSI) installation technology. For example, Office Professional Plus 2016.
 > - 本文中的資訊不適用於 Microsoft 365 應用程式。
 > - 如需如何安裝 Office 更新的詳細資訊，請參閱[安裝 Office 更新](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
 <br/><br/>
+
+## <a name="october-4-2022"></a>2022 年 10 月 4 日
+**Office 2016**<br/>
+Microsoft Office 2016 更新 ([KB5002243](https://support.microsoft.com/help/5002243))  </br>
+
+**Office 2013**<br/>
+Microsoft Office 2013 更新 ([KB5002274](https://support.microsoft.com/help/5002274))  </br>
 
 ## <a name="september-6-2022"></a>2022 年 9 月 6 日
 **Office 2016**<br/>
@@ -54,10 +61,5 @@ Microsoft Office 2016 更新 ([KB4484104](https://support.microsoft.com/help/448
 ## <a name="may-3-2022"></a>2022 年 5 月 3 日
 **Office 2016**<br/>
 Microsoft Access 2016 更新 ([KB5002048](https://support.microsoft.com/help/5002048)) </br>
-
-## <a name="april-5-2022"></a>2022 年 4 月 5 日
-**Office 2016**<br/>
-Microsoft Office 2016 的更新 ([KB5002141](https://support.microsoft.com/help/5002141)) </br>
-Microsoft Project 2016 的更新 ([KB5002132](https://support.microsoft.com/help/5002132)) </br>
 
 </br>
