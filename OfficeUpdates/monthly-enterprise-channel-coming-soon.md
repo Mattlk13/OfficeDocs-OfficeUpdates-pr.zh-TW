@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供即將在 Microsoft 365 Apps 的每月企業通道版本中推出的變更之預覽
-ms.openlocfilehash: 5a7aa3f5f4699b844b46134d3ae87a229d2d97df
-ms.sourcegitcommit: 42c7b9e54b67c801c10410d2449791fdacf6cc24
+ms.openlocfilehash: 89829fd3ef5793617eddebf2a9e9fe376ad353e8
+ms.sourcegitcommit: 8cd255a75a3e9a3442cef520841590f62c9f3eaf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2022
-ms.locfileid: "68376674"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "68494490"
 ---
 # <a name="coming-soon-to-the-monthly-enterprise-channel"></a>即將在每月企業通道中推出
 
@@ -39,6 +39,8 @@ ms.locfileid: "68376674"
 
 - **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。
 
+
+- **享受改良的捲動體驗** ：當您瀏覽大型或極寬的儲存格時，您的工作表可捲動得更為順暢。
 
 ### <a name="powerpoint"></a>PowerPoint
 
