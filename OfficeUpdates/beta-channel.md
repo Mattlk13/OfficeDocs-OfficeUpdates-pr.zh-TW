@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: fb1f918654546cf7a937eef8adf379215e0d48c7
-ms.sourcegitcommit: 22b3cfff2a0d6251d2f11fe0422089b81aa96ae3
+ms.openlocfilehash: 601c608588dc7984b8383d585177c4635a9ffe60
+ms.sourcegitcommit: 93ac9920684d581ef0c62429a7e2b1b915e9527e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2022
-ms.locfileid: "68364161"
+ms.lasthandoff: 10/07/2022
+ms.locfileid: "68498098"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -30,6 +30,21 @@ ms.locfileid: "68364161"
 [//]: # (DO NOT REMOVE)
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+## <a name="version-2211-october-07"></a>版本 2211：10 月 7 日
+*版本 2211 (組建 15729.20002)*
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正使用多個 Exchange 帳戶搭配一個 Outlook 設定檔時，無法傳送訊息的問題。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2210-september-30"></a>版本 2210：9 月 30 日
 *版本 2210 (組建 15726.20000)*
@@ -6846,6 +6861,7 @@ ms.locfileid: "68364161"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DevMain|測試人員| |16.0.15729.20002|version-2211-october-07|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15726.20000|version-2210-september-30|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15715.20014|version-2210-september-23|)
 [//]: # (|Win32|DevMain|測試人員| |16.0.15709.20000|version-2210-september-16|)
@@ -6855,5 +6871,4 @@ ms.locfileid: "68364161"
 [//]: # (|Win32|DevMain|Insiders| |16.0.15522.20000|version-2208-july-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15519.20000|version-2208-july-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.15511.20000|version-2208-july-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.15505.20000|version-2208-july-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)
