@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 01ebb78dcbe2ae92dc23c668e0740df42b53898d
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 1065b2abb0dd3bfda264437e4e5a3d90e738de7c
+ms.sourcegitcommit: 5b2b61b61cec459202e11817d33a679c3ab57087
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666581"
+ms.lasthandoff: 10/08/2022
+ms.locfileid: "68502037"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
@@ -119,7 +119,7 @@ ms.locfileid: "67666581"
 - 此更新修正了在 Excel 中逐一查看 VBA 程式碼中的 DAO 記錄集時，可能會導致記憶體流失的問題。
 
 
-- 我們已修正可能導致使用 DAO 或 OLEDB 介面讀取 Access 資料庫的應用程式記憶體使用量成長快速的問題。在某些情況下，這可能會導致異常程式終止。
+- We fixed an issue that could cause memory usage of an application that uses DAO or OLEDB interfaces to read Access databases to grow rapidly.  In some cases, this could cause abnormal program termination.
 
 
 ### <a name="excel"></a>Excel
@@ -801,7 +801,7 @@ ms.locfileid: "67666581"
 
 ### <a name="project"></a>Project
 
-- 我們已修正使用者會看到安全性對話方塊，指出專案有一或多個資料來源的連結，即使專案沒有使用中連結的問題。現在，對話方塊只會在有使用中連結時出現。
+- We fixed an issue where the user would see a security dialog stating that the project had links to one or more data sources, even though the project had no active links. Now, the dialog appears only when there are active links.
 
 
 ### <a name="publisher"></a>發行者
@@ -861,7 +861,7 @@ ms.locfileid: "67666581"
 
 ### <a name="excel"></a>Excel
 
-- **在 Power Query 中建立自訂資料類型:** 使用任何資料來源建立自訂資料類型，可讓您將多個相關資訊部分載入到一個欄位。[深入了解](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
+- **Create a custom data type in Power Query:** Use any data source to create a custom data type that lets you load multiple related pieces of information into one column. [Learn more](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />在[部落格文章](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)中查看詳細資料
 
 - **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
@@ -870,7 +870,7 @@ ms.locfileid: "67666581"
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **DLP policy tips in Word/Excel/PowerPoint:** Additional sensitive information types configured as part of OneDrive and SharePoint data loss prevention (DLP) policies can now be detected by the app to show a policy tip. This update also brings accuracy improvements and globalization support. [Learn more](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 - **Excel 4.0 (XML) 巨集會預設停用以提升 Microsoft 365 客戶的安全性。:** 為協助保護客戶，Excel 4.0 (XML) 巨集在 Microsoft 365 中會預設停用。 我們建議您將這些巨集遷移至最新版本的 Microsoft Visual Basic for Applications (VBA)。 [深入了解](https://support.office.com/article/ba8924d4-e157-4bb2-8d76-2c07ff02e0b8)
 
@@ -890,13 +890,13 @@ ms.locfileid: "67666581"
 
 - **讓所有人都可以存取您的訊息：** Outlook 會在您傳送訊息時，自動讓您知道訊息中何時有協助工具問題，並協助您修正問題。<br />在[部落格文章](https://insider.office.com/en-us/blog/sending-accessible-emails-in-outlook-for-windows)中查看詳細資料
 
-- **針對郵件和行事曆撰寫之展開的 GAL 人員建議:** 現在，在為電子郵件和行事曆撰寫建議人員時，Outlook 將從完整的 GAL 傳回結果。(例如: 將某人新增到新電子郵件的 [收件者] 行)
+- **Expanded GAL people suggestions for mail and calendar compose:** Outlook will now return results from the complete GAL when suggestions people for email and calendar compose. (Ex: Adding someone to the To line of a new email)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦 [深入了解](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
-- **支援 Windows 10 大型文字設定：** 您可以使用 Windows 10 (版本 1809 和更新版本) 中的 [大型文字] 設定，讓文字變大，便於閱讀。這在 Windows 版 PowerPoint 中運作良好。
+- **Support for Windows 10 Large Text setting:** You can use the Large Text setting in Windows 10 (version 1809 and later) to make text larger so that it is easier to read.  It works well in PowerPoint for Windows.
 
 - **Office 應用程式現在支援 OpenDocument 格式 (ODF) 1.3：** ODF 1.3 對 OpenDocument 格式帶來許多改良功能，而且這些功能現在都可在 Word、Excel 及 PowerPoint (副檔名 .odt、.ods 和 .odp) 中受到支援。<br />在[部落格文章](https://insider.office.com/en-us/blog/office-apps-now-support-opendocument-format-odf-1-3)中查看詳細資料
 
@@ -904,7 +904,7 @@ ms.locfileid: "67666581"
 
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **DLP policy tips in Word/Excel/PowerPoint:** Additional sensitive information types configured as part of OneDrive and SharePoint data loss prevention (DLP) policies can now be detected by the app to show a policy tip. This update also brings accuracy improvements and globalization support. [Learn more](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 - **從 PowerPoint 到 Teams 進行展示：** PowerPoint 應用程式直接透過 PowerPoint Live 將您的幻燈片展示到 Teams 會議。
 
@@ -914,12 +914,12 @@ ms.locfileid: "67666581"
 
 - **自動儲存並在敏感性加密文件上進行共同撰寫：** 不要為了安全性而犧牲生產力。 有了 Microsoft Purview 資訊保護，使用敏感度標籤加密的文件現在可以自動儲存，並與他人進行即時共同撰寫，就彷彿文件未加密一樣便利。 需要租用戶選擇加入 (詳細資訊： https://aka.ms/mipcoauth)。
 
-- **Word/Excel/PowerPoint 中的 DLP 原則提示:** 現在可以透過應用程式偵測到其他已設定為 OneDrive 和 SharePoint 資料外洩防護 (DLP) 部分原則的敏感性資訊類型, 以顯示原則提示。此更新也會提供準確性改善和全球化支援。 [[深入了解]](/microsoft-365/compliance/sensitive-information-type-learn-about)
+- **DLP policy tips in Word/Excel/PowerPoint:** Additional sensitive information types configured as part of OneDrive and SharePoint data loss prevention (DLP) policies can now be detected by the app to show a policy tip. This update also brings accuracy improvements and globalization support. [Learn more](/microsoft-365/compliance/sensitive-information-type-learn-about)
 
 ### <a name="office-suite"></a>Office 套件
 
 
-- **參與經驗：針對受保護通道上的企業客戶擴充支援：** 這項功能延伸了現有的功能，可協助使用者透過參與體驗到受保護的通道，從 Office 獲得最大價值。
+- **首頁橫幅可讓 Microsoft 在其裝置上推薦使用者在其Microsoft 365 Apps 企業版中擁有的功能：** 從 2202 版開始，從每月企業通道取得更新的使用者、Semi-Annual Enterprise Channel (Preview) 和 Semi-Annual Enterprise Channel 也會看到這些建議。 當使用者按一下 [檔案] 功能表時，[首頁] 索引標籤可能會顯示具有功能建議的橫幅。 每個建議都會隨附 [學習] 按鈕，讓使用者前往說明檔或功能相關教學課程。 另外還有關閉橫幅的 [關閉] 選項。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -945,7 +945,7 @@ ms.locfileid: "67666581"
 - 我們已修正會造成使用 OLEDB 介面的自訂應用程式開啟包含 SharePoint 清單連結的 Access 資料庫意外關閉的問題。
 
 
-- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database on a network file share. [Learn More](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 - 我們修正了執行應用程式時可能導致錯誤的問題。
@@ -960,7 +960,7 @@ ms.locfileid: "67666581"
 - 我們修正了導致更新版本 Viva Insights 增益集載入效率較低的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 - 我們已修正當我們開啟隱私權設定視窗時，應用程式停止回應的問題，因為對話方塊管理員是空白的新增不是空白檢查做為檢查。
@@ -1031,7 +1031,7 @@ ms.locfileid: "67666581"
 - 在含兩個儲存格編輯方塊的多顯示器設定對話方塊中，會在選取儲存格時對使用者隱藏資料。 這個修正會取消隱藏 UI 對話方塊中的資料。 變更會影響三個監視器安裝上的條件式格式設定或資料數列選取對話方塊。
 
 
-- 當您在另一個應用程式 (例如 Word 文件) 內嵌 Microsoft Excel 97-2003 工作表物件時，使用 [轉換] 功能將它轉換成 Microsoft Excel 工作表 (Office OpenXML) 物件，直到您開啟內嵌物件並對其進行變更之前，無法完成轉換。已修正這個問題，因此使用 [轉換] 功能時，物件會完全轉換。
+- When you have an Microsoft Excel 97-2003 Worksheet object embedded inside another application such as a Word document, using the Convert feature to convert it to an Microsoft Excel Worksheet (Office OpenXML) object doesn't complete the conversion until you open the embedded object and make a change to it.  This has been fixed so that the object is completely converted upon using the Convert feature.
 
 
 - 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字會重設的問題。
@@ -1055,7 +1055,7 @@ ms.locfileid: "67666581"
 - 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 - 我們已修復在 Office 應用程式之間，以不同方式轉譯 BizUD Gothic 日文字型的問題。
@@ -1205,7 +1205,7 @@ ms.locfileid: "67666581"
 - 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而失敗。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would fail due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 - 我們已修正 Word 存檔時，所花時間超過預期的問題。
@@ -1273,7 +1273,7 @@ ms.locfileid: "67666581"
 - 此版本修正了在儲存租用戶中的某些文件時發生的意外關閉問題，如果本地檔案快取的租用戶識別碼資材格式不正確，在 [儲存] 租用戶選擇加入保護共同撰寫的一些文件時，就會發生此情況。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式會因為最近的更新而停止運作。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it was discovered that document exports to PDF or XPS formats from Office would stop working due to recent updates. This update fixed these regressions and reenabled export to these formats.
 
 
 - 我們已修正與應用程式在呼叫 DCompositionCreateDevice 時停止回應相關的問題。
@@ -1330,8 +1330,8 @@ ms.locfileid: "67666581"
 
 
 - 我們已修正完成下列變更的問題:
-1. Outlook 中存在一個錯誤，即未顯示有關 Office 新外觀的教學圖說內容 (提示)。這些現在會顯示。
-2. 許多 Word、Excel、PowerPoint 和 OneNote 使用者都錯過了有關 Office 新外觀的教學圖說內容，其中包括有關變更內容以及如何變更設定或關閉體驗的資訊。此變更會重新觸發這些教學圖說內容，讓使用者收到有關變更的通知。
+1. There was a bug in Outlook where the teaching callouts (tips) about the new look of Office did not appear. These will now appear.
+2. Many users of Word, Excel, PowerPoint, and OneNote have missed the teaching callouts about the new look of Office, which include information about what changed and how to change settings, or toggle off the experience. This change retriggers these teaching callouts for users to be notified about the changes.
 
 
 - 我們已修正有關 Office 新外觀的教學圖說內容 (提示) 未出現在 Outlook 中的問題。  現在，Word、Excel、PowerPoint 和 OneNote 的使用者會收到 Office 新外觀變更的通知，其中包含變更內容以及如何變更設定或切換體驗的資訊。
@@ -1395,7 +1395,7 @@ ms.locfileid: "67666581"
 - 我們已修正在樞紐分析表欄位選取工作窗格中，搜尋文字遭到重設的問題。
 
 
-- 當您有內嵌於另一個應用程式 (如 Word 文件) 中的 Microsoft Excel 97-2003 工作表物件，使用 [轉換] 功能將其轉換為 Microsoft Excel 工作表 (Office OpenXML) 時，在某些情況下，該物件不會完成轉換，直到您開啟内嵌的物件並對其進行變更為止。已修正此問題，因此使用 [轉換] 功能時，可完全轉換物件。
+- When you had a Microsoft Excel 97-2003 Worksheet object embedded inside another application such as a Word document, using the Convert feature to convert it to an Microsoft Excel Worksheet (Office OpenXML) , in some cases, the object didn't complete the conversion until you opened the embedded object and made a change to it. This issue has been fixed so that the object is completely converted upon using the Convert feature.
 
 
 ### <a name="outlook"></a>Outlook
@@ -1473,7 +1473,8 @@ ms.locfileid: "67666581"
 ### <a name="resolved-issues"></a>解決的問題
 ### <a name="access"></a>Access
 
-- 我們已修正會防止多個使用者在網路檔案共用上開啟資料庫的問題。[深入了解](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
+- We fixed an issue that would prevent multiple users from opening a database on a network file share.
+[Learn More](https://support.microsoft.com/en-us/office/access-error-could-not-use-path-to-database-accdb-file-already-in-use-6cbc1560-62c2-46e7-9980-d079a46f5acc)
 
 
 ### <a name="excel"></a>Excel
@@ -1658,25 +1659,25 @@ ms.locfileid: "67666581"
 ### <a name="feature-updates"></a>功能更新
 ### <a name="excel"></a>Excel
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
-- **自動使用新的資料類型**：當您輸入類似股票或地理位置的資料值時，Excel 會將它轉換為成正確的連線資料類型 - 股票或地理位置。。[深入了解](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **Automatically use new data types:** When you type a data value that resembles a stock or a geographic location, Excel offers to convert it to the right connected data type - Stocks or Geography. [Learn more](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
-- **同時取消隱藏多個工作表:** 不再需要一次取消隱藏一個工作表，可以一次取消隱藏多個隱藏的工作表。[深入了解](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+- **Unhide many sheets at the same time:** No need to unhide one sheet at a time anymore -- unhide multiple hidden sheets at once. [Learn more](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
-- **改善 [條件式格式設定] 對話方塊：**[條件式格式設定] 對話方塊的大小可調整，並且只要按一下就能複製規則。[深入了解](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+- **Improved Conditional Formatting dialogs:** Conditional Formatting dialogs are now resizable, and now you can duplicate the rule with a single click. [Learn more](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
 
-- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container. [Learn more](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC, GCC-H and DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1686,7 +1687,7 @@ ms.locfileid: "67666581"
 
 - **焦點收件匣設定在不同裝置之間會保持相同：** 您的焦點收件匣喜好設定現在會儲存在雲端。 這麼一來，當您在任何電腦上使用 Windows 版 Outlook 和 Outlook 網頁版時便可享有相同的體驗。 [深入了解](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。 [深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
@@ -1694,7 +1695,7 @@ ms.locfileid: "67666581"
 
 - **挑選搜尋的位置：** 新的搜尋範圍下拉式清單，可讓您更輕鬆地修改搜尋，並在目前資料夾和目前信箱之間切換。 感謝每個在 [即將推出] 為 [頂極體驗] 的 新 [搜尋] 提供意見反應的人。 因為有這份意見反應，才有這項設計與更新！
 
-- **在連續的會議之間騰出時間：** 將會議預設晚 5-10 分鐘開始，讓出席者有時間休息，或移至不同的位置。[深入了解](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
+- **Build in time between back-to-back meetings:** Give attendees time to catch their breath or travel between locations by setting meetings to start 5-10 min late by default. [Learn more](https://support.office.com/article/ebb4c4c9-6992-4ea7-9772-8b5883df8500)
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
@@ -1707,19 +1708,19 @@ ms.locfileid: "67666581"
 
 - **共用至 Teams：** 將 Outlook 的郵件與 Teams 中的某個人員或頻道共用。
 
-- **使用語音草擬郵件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來撰寫郵件。[深入了解](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
+- **Draft messages with your voice:** Use the new dictation toolbar, voice commands, auto-punctuation, and more to compose messages. [Learn more](https://support.office.com/article/4010d238-bb25-45e9-89f6-8f9b54fcc0fc)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC, GCC-H and DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 - **建立 Outlook.com 帳戶的連結：** 將帳戶新增至 Outlook 時，視窗中會顯示建立新的 outlook.com 帳戶的連結。
 
 - **每個線上會議** 更新行事曆設定，使您建立的每個會議都預設為 Teams 會議，這樣您就不必再記得按一下 [Teams 會議] 選項。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />在[部落格文章](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)中查看詳細資料
 
 - **使用透明背景建立 GIF：** 當匯出成動畫 GIF 時，您可以使用新選項讓背景變透明。<br />在[部落格文章](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)中查看詳細資料
 
@@ -1727,29 +1728,29 @@ ms.locfileid: "67666581"
 
 - **匯出某範圍的動畫 GIF：** 匯出成動畫 GIF 時，選取某範圍的投影片
 
-- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
+- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC, GCC-H and DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **將圖形另存為圖片：** 只要按幾下，即可將圖形、圖示或其他物件另存成圖片，便於您於任何其他地方使用。[深入了解](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Save shapes as pictures:** In just a few clicks, save a shape, icon, or other object as a picture file so you can reuse it elsewhere. [Learn more](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
-- **SVG 剪貼簿支援：** 您現在可以將 SVG 內容從 Office 貼上協力廠商應用程式。[深入了解](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+- **SVG Clipboard Support:** You can now paste SVG content from Office into 3rd party apps. [Learn more](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
 
 - **使用動畫 GIF 分享您的故事：** Office 編輯器現已支援動畫 GIF，讓您的文件更加時髦
 
-- **協助保護您的資料免受惡意檔案的侵害：** 應用程式防護可讓您在獨立的容器中讀取、列印和儲存 Office 檔案，協助保護您免受惡意程式碼的侵害。[深入了解](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- **Help protect your data from malicious files:** Application Guard helps protect you from malware by letting you read, print, and save Office files in an isolated container. [Learn more](https://support.office.com/article/9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
 
 - **使用語音草擬文件：** 使用新的聽寫工具列、語音命令、自動標點符號等功能來草擬文件。
 
-- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，提示使用者套用敏感度標籤。
+- **要求使用者套用敏感度標籤：** 當使用者的組織原則要求時，會提示使用者套用敏感度標籤。
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能現在可供 GCC、GCC-H 和 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the GCC, GCC-H and DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
-- **政府客戶：將敏感度標籤套用至您的文件和電子郵件：** 敏感度標籤功能目前可供 DoD 環境中的客戶取得。[深入了解](/microsoft-365/compliance/sensitivity-labels)
+- **Government customers: Apply sensitivity labels to your documents and emails:** Sensitivity labeling features are now available for customers in the DoD environments. [Learn more](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -1788,7 +1789,7 @@ ms.locfileid: "67666581"
 - 我們已修正錯誤訊息中包含特殊字元的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 ### <a name="excel"></a>Excel
@@ -1844,7 +1845,7 @@ ms.locfileid: "67666581"
 - 修正連結至或從 Dynamics 資料表匯入時，並非所有的資料行都會出現的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 - 修正繪製影像時 Office 應用程式沒有回應的問題。
@@ -2039,7 +2040,7 @@ ms.locfileid: "67666581"
 - 修正少數使用者無法使用 [重複使用投影片] 選項的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 - 修正繪製影像時 Office 應用程式沒有回應的問題。
@@ -2092,7 +2093,7 @@ ms.locfileid: "67666581"
 - 修正使用 [此裝置] 選項編輯與新增圖片相關連絡人的問題。
 
 
-- 在某些客戶設定中，我們發現文件從 Office 匯出為 PDF 或 XPS 格式可能會因為最近的更新而停止回應。此更新修正了這些回歸，並重新啟用了匯出為這些格式的功能。
+- In certain customer configurations, it has been discovered that document exports to PDF or XPS formats from Office may stop responding due to recent updates. This update fixes these regressions and reenables export to these formats.
 
 
 - 修正由於使用者登出或重新啟動電腦而關閉電腦時，可能導致 Word 意外關閉的問題。
@@ -2486,7 +2487,7 @@ ms.locfileid: "67666581"
 
 - **[筆跡工具箱] 中的 [套索工具] 和 [橡皮擦]:** 使用繪圖工具時，[筆跡工具箱] 現在提供 [套索工具] 和 [橡皮擦] 功能。<br />在[部落格文章](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)中查看詳細資料
 
-- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。[深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+- **建立 PDF 連線：** 連線至、匯入、重新整理 PDF 中的資料。 [深入了解](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
 - **建立變數以在公式中使用：** 使用 LET 函數改善效能、可讀性及可組合性。 此函數可讓您在新的或現有的公式中建立命名變數。 [深入了解](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />在[部落格文章](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)中查看詳細資料
 
@@ -2494,9 +2495,9 @@ ms.locfileid: "67666581"
 
 - **使用資料類型從 Power BI 取得組織資料：** 現在，來自 Power BI 的 Excel 資料類型將推出給使用 Office 365 / Microsoft 365 和 Power BI Pro 服務方案的組織測試人員使用。 取得您所需的資訊，輕鬆地重新整理，對許多日常工作流程而言至關重要。 我們允許您透過 Excel 中的資料類型從 Power BI 存取公司或組織資訊，從而擴充您在試算表中引入連結資訊的能力。 [深入了解](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />在[部落格文章](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
-- **在 Excel 中製作精美的 Visio 圖表**：在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。[深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **在 Excel 中製作精美的 Visio 圖表：** 在工作表中從資料建立資料驅動的圖表，如流程圖或組織結構圖。 [深入了解](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 
 - **與 Office 的 XLM 巨集的 AMSI 整合：** AMSI 是 Windows 10 上可用的開放式介面，可供應用程式在執行階段要求由已安裝的防毒軟體或安全性解決方案同步掃描記憶體緩衝區。 偵測到惡意活動時，Excel 會通知使用者，並關閉該應用程式工作階段以避免任何進一步損毀。 這麼做可阻止在其軌跡中的攻擊，同時保護裝置和使用者。 在[部落格文章](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/)中查看詳細資料。
@@ -2507,11 +2508,11 @@ ms.locfileid: "67666581"
 
 - **協助保護群組中的資料：** 建立群組時所選擇的「敏感度」標籤會套用到群組電子郵件、文件及小組網站。
 
-- **IT 系統管理員的事件通知：** Microsoft 365 租用戶全域系統管理員和 Office 應用程式系統管理員會在 Windows 版 Outlook 的新右側面板通知中收到影響使用者的 Outlook 和 O365 Exchange 事件。[深入了解](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+- **Incident Notification for IT Admins:** Microsoft 365 tenant global administrators and Office Apps Administrators will be notified about Outlook and O365 Exchange incidents affecting their users with a new right-side panel notification in Outlook for Windows. [Learn more](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
-- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並查看電子郵件中的結果 [深入瞭解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **在 Outlook 中使用 [快速投票] 建立投票：** 輕鬆建立投票，收集投票，並檢視電子郵件中的結果 [深入了解](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 - **新的會議室尋找工具：** 依不同功能搜尋會議室。
 
@@ -2525,11 +2526,11 @@ ms.locfileid: "67666581"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="visio"></a>Visio
 
-- **新的 Azure 樣板與圖形：** 我們新增了許多其他樣板，以協助您建立最新的 Azure 圖表。[深入了解](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+- **New Azure stencils and shapes:** We've added many more stencils to help you create up-to-date Azure diagrams. [Learn more](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
 
 ### <a name="word"></a>Word
 
@@ -2537,7 +2538,7 @@ ms.locfileid: "67666581"
 
 - **儲存至釘選資料夾：** 釘選資料夾可讓您更輕鬆地儲存 Office 檔案。  我們收到了意見反應，使用者想更進一步控制儲存新檔案時可用的資料夾。 我們很高興地能為您提供新功能：在 [儲存] 對話方塊中釘選您的資料夾。 這項新功能可讓您更輕鬆地儲存 Word、Excel 和 PowerPoint 檔案。 [深入了解](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />在[部落格文章](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)中查看詳細資料
 
-- **將您的 iPhone 相片直接插入 Office：** 來自您手機的 HEIC 圖片現在可無縫地插入 Office。不需要轉換。<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
+- **Insert your iPhone photos directly into Office:** HEIC pictures from your phone now insert seamlessly into Office. No conversion required.<br />在[部落格文章](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)中查看詳細資料
 
 ### <a name="office-suite"></a>Office 套件
 
@@ -2831,7 +2832,7 @@ ms.locfileid: "67666581"
 - 修正在包含數學方程式的文字內使用朗讀程式時可能發生的損毀。
 
 
-- 當使用者從 Office 在噴墨印表機上列印任何文件/檔案且印表機墨水不足時，即使噴墨印表機並沒有碳粉，也會顯示「碳粉不足」或「無碳粉」訊息。變更訊息以顯示「碳粉/墨水不足」與「碳粉/墨水用完」。
+- When the user prints any document/file on inkjet printers from Office and printer's ink is low, "Toner Low" or "No Toner" message will show, even though inkjet printers don't have toners. Changing message to display "Toner/ink Low" & "No toner/ink".
 
 
 - 已修復在某些較舊的版本上安裝較新版的 Office 時，可能會造成功能受損 (例如由於遺失登錄專案而無法使用 Power Query) 的問題。
