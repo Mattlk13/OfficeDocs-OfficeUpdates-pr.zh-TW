@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 68259e6810480c0031d5a0daddd125f3085602b6
-ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
+ms.openlocfilehash: 43e33843b8215d3bf0371510d67c0ce8ceb0e152
+ms.sourcegitcommit: 3af778564ac39ee5f6e4a85ff7c0575b9b7435b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/12/2022
-ms.locfileid: "68525940"
+ms.locfileid: "68541194"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -31,6 +31,33 @@ ms.locfileid: "68525940"
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2210-october-11"></a>版本 2210：10 月 11 日
+*版本 2210 (組建 15726.20096)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致某些設定檔已設定多個 Exchange 帳戶的電子郵件卡在發件匣中的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用表單型驗證時，Project 無法連線到 Project Server 的第二個問題。 在某些情況下，能夠連線的使用者，例如前一天無法連線到第二天。 刪除伺服器連線設定檔會暫時修正此問題。
+
+
+### <a name="word"></a>Word
+
+- 我們已修正將來源格式化結果貼到內容控制項中時，會顯示問號 (？) 或空白方塊等字元的問題。
+
 
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
