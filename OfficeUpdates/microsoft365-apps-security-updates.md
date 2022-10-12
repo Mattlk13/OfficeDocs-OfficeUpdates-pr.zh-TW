@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: d8c21fbb0da9adda6ff7f6887ba9072484fdaa28
-ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
+ms.openlocfilehash: 7c0d64834e82ead6c49c30fb07e094acfc9aa89e
+ms.sourcegitcommit: 3af778564ac39ee5f6e4a85ff7c0575b9b7435b0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/12/2022
-ms.locfileid: "68525810"
+ms.locfileid: "68541087"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -35,7 +35,8 @@ Semi-Annual企業通道：版本 2108 (組建 14326.21186)
 Windows 7 上的Microsoft 365 Apps：版本 2002 (組建 12527.22239)   
 Office 2021零售版：版本 2209 (組建 15629.20208)   
 Office 2019 零售版：版本 2209 (組建 15629.20208)   
-Office 2016 零售版：版本 2209 (組建 15629.20208) Office LTSC 2021 大量授權：版本 2108 (組建 14332.20400)   
+Office 2016 零售版：版本 2209 (組建 15629.20208)   
+Office LTSC 2021 大量授權：版本 2108 (組建 14332.20400)   
 Office 2019 大量授權：版本 1808 (組建 10391.20029)   
 
 [//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
