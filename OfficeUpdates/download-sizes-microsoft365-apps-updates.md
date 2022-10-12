@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每個更新通道的更新大約下載大小相關資訊
-ms.openlocfilehash: a51315c07edcc701dda432276f9caa17a7915cc5
-ms.sourcegitcommit: 8cd255a75a3e9a3442cef520841590f62c9f3eaf
+ms.openlocfilehash: 7795c4f6745362076390f06200165ce694c1858c
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2022
-ms.locfileid: "68494500"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525840"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Microsoft 365 Apps 更新的下載大小
 
@@ -31,42 +31,54 @@ If you are switching to a different channel, for example from Semi-Annual Channe
 
 [//]: # (DO NOT REMOVE)
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT START)
+## <a name="october-11-2022"></a>2022 年 10 月 11 日
 
-## <a name="october-6-2022"></a>2022 年 10 月 6 日
+[//]: # (DO NOT REMOVE CONTENT STARTOctober 11， 2022)
+
+### <a name="current-channel"></a>目前通道
+
+最新的版本是版本 2209 (組建 15629.20208) 。
+
+|**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
+|:-----|:-----|:-----|
+|版本 2209 (組建 15629.20156)  <br/> |2022 年 9 月 26 日 <br/> |40<br/> |
+|版本 2208 (組建 15601.20148)  <br/> |2022 年 9 月 13 日 <br/> |119<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>每月企業頻道
 
-<i>預期的版本為版本 2208 (組建 15601.20214) 。</i>
+最新的版本是版本 2208 (組建 15601.20230) 。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2207 (組建 15427.20284)  <br/> |2022 年 9 月 13 日 <br/> |124<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽)
 
-<i>預期的版本是組建 15601.20212 (版本 2208) 。</i>
+最新的版本是版本 2208 (組建 15601.20230) 。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2208 (組建 15601.20148)  <br/> |2022 年 9 月 13 日 <br/> |51<br/> |
-|版本 2202 (組建 14931.20660) <br/> |2022 年 8 月 9 日 <br/> |494<br/> |
+|版本 2202 (組建 14931.20660) <br/> |2022 年 8 月 9 日 <br/> |495<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>半年企業通道
 
-<i>預期的版本是版本 2202 (組建 14931.20756) 。</i>
+最新的版本是版本 2202 (組建 14931.20764) 。
 
 |**升級前的版本**|**發行日期**|**大約下載大小 (以 MB 為單位)**|
 |:-----|:-----|:-----|
 |版本 2202 (組建 14931.20724)  <br/> |2022 年 9 月 13 日 <br/> |60<br/> |
-|版本 2202 (組建 14931.20660) <br/> |2022 年 8 月 9 日 <br/> |64<br/> |
+|版本 2202 (組建 14931.20660) <br/> |2022 年 8 月 9 日 <br/> |65<br/> |
 
 
-[//]: # (DO NOT REMOVE FORECAST CONTENT END)
+
+[//]: # (DO NOT REMOVE CONTENT ENDOctober 11， 2022)
+
+
+
 
 ## <a name="september-26-2022"></a>2022 年 9 月 26 日
 

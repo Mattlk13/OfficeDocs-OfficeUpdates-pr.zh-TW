@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 半年通道版本的版本資訊
-ms.openlocfilehash: 7bb48b96d82bfc3384fd06324daf05f228a45f71
-ms.sourcegitcommit: 5b2b61b61cec459202e11817d33a679c3ab57087
+ms.openlocfilehash: 33011909b476b67944ca555f2c87e0f43ca5085a
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2022
-ms.locfileid: "68502017"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525610"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>半年企業通道的版本資訊
 
@@ -25,6 +25,38 @@ ms.locfileid: "68502017"
 > [!NOTE]
 >
 >- 當使用半年企業通道的使用者透過 Office 入口網站下載並安裝 Microsoft 365 Apps 到 Windows 10 上時，OneNote 依預設將包括在其中。
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2202-october-11"></a>版本 2202：10 月 11 日
+*版本 2202 (組建 14931.20764)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正預設封鎖網際網路宏執行的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2108-october-11"></a>版本 2108：10 月 11 日
+*版本 2108 (組建 14326.21186)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正 AMSI 掃描會導致應用程式意外關閉的問題。
+
+
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
@@ -2982,7 +3014,7 @@ ms.locfileid: "68502017"
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 解決在某些情況下，選取設計構想會移除簡報的資料分類標籤的問題
@@ -2990,7 +3022,7 @@ ms.locfileid: "68502017"
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 ### <a name="office-suite"></a>Office 套件
@@ -3821,6 +3853,7 @@ ms.locfileid: "68502017"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|DC|Production| |16.0.14931.20764|version-2202-october-11|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20724|version-2202-september-13|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20660|version-2202-august-09|)
 [//]: # (|Win32|DC|Production| |16.0.14931.20604|version-2202-july-12|)
@@ -3830,5 +3863,4 @@ ms.locfileid: "68502017"
 [//]: # (|Win32|DC|Production| |16.0.14326.20962|version-2108-may-10|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20910|version-2108-april-12|)
 [//]: # (|Win32|DC|Production| |16.0.14326.20852|version-2108-march-08|)
-[//]: # (|Win32|DC|Production| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

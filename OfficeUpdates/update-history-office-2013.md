@@ -9,21 +9,21 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用的 Office 2013 永久版本的更新歷程記錄
-ms.openlocfilehash: 388a6f8fd82abfbce017f90487a68bba5c84d722
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 6e323394e7628a9b541fedc6b96f1555d3b1f1cb
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666601"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68526000"
 ---
 # <a name="update-history-for-office-2013"></a>Office 2013 的更新歷程記錄
 > [!IMPORTANT]
 > 我們將於 2023 年 4 月 11 日終止對 Office 2013 的支援。 如果您尚未開始將 Office 2013 環境升級至較新的 Office 版本，建議您立即開始。 如需詳細資訊，請參閱 [規劃從 Office 的舊版本升級至 Microsoft 365 Apps](/deployoffice/endofsupport/plan-upgrade-older-versions-office)。 
 
-特定的 Office 2013 產品都會使用稱為「隨選即用」的技術來自動保持在最新版本。如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。
+Certain Office 2013 products are kept up to date automatically by using a technology called Click-to-Run. If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary.
   
 > [!NOTE]
-> 最新的 Office 2013 版本是 **15.0.5485.1001**，發行于 2022 年 9 月 13 日。
+> 最新的 Office 2013 版本是 **15.0.5493.1000**，發行于 2022 年 10 月 11 日。
   
 若要查看您的 Office 版本，請執行下列操作：
   
@@ -33,21 +33,22 @@ ms.locfileid: "67666601"
     
 3. 在 [產品資訊] 下，記下 [Office 更新] 下面的版本號碼。
     
-    如果該版本號碼符合最新版本，表示您所使用的是最新版本。如果不符，則可以手動更新以取得最新版的 Office 2013。若要更新 Office，[請遵循下列步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013)。
+    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2013. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Office 2013 更新發行日期、版本號碼和修正資訊的清單
 
-下表提供 Office 2013 更新的清單 (最新的發行日期列在最前面)。下表包含發行的版本號碼和 Microsoft 知識庫 (KB) 文章 (如果有的話) 的連結，該文章內有更新所含修正的相關資訊。
+The following table provides a list of updates for Office 2013, with the most recent release date listed first. The table includes the version number for the release and a link to the Microsoft Knowledge Base (KB) article, if available, that contains information about the fixes that are included in the update.
   
 新的版本會包含先前版本所包含的所有更新。
 
 > [!NOTE]
-> 下列 KB 文章僅供參考。「隨選即用」更新包含 KB 文章所列出的所有修正。您不需要個別下載 KB 文章中所列出的更新。
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**發行年份**|**發行日期**|**版本號碼**|**詳細資訊**|
 |:-----|:-----|:-----|:-----|
-|2022|9 月 13 日|15.0.5485.1001|[KB 5002080](https://support.microsoft.com/help/5002080)
+|2022|10 月 11 日|15.0.5493.1000|[KB 5002081](https://support.microsoft.com/help/5002081)
+||9 月 13 日|15.0.5485.1001|[KB 5002080](https://support.microsoft.com/help/5002080)
 ||8 月 9 日|15.0.5475.1001|[KB 5002079](https://support.microsoft.com/help/5002079)
 ||7 月 12 日|15.0.5467.1000|[KB 5002078](https://support.microsoft.com/help/5002078)
 ||6 月 14 日|15.0.5459.1000|[KB 5002077](https://support.microsoft.com/help/5002077)

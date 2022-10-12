@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供 Office LTSC 2021 (大量授權) 和 Office 2021 (零售) 永久版本的更新歷程記錄。
-ms.openlocfilehash: 11ad37cc7993909c23a14716fd5bdf1850d33dce
-ms.sourcegitcommit: eb0746be2166d074e401030f740e3f63a43de878
+ms.openlocfilehash: 2df1fcde20033b0ff674f67c1d8a45b0fa5b5cb5
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "68024991"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525980"
 ---
 # <a name="update-history-for-office-ltsc-2021-and-office-2021"></a>Office LTSC 2021 和 Office 2021 的更新歷程記錄
 
@@ -44,12 +44,12 @@ If the version number matches the most current version, you're up to date. If no
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 10 月 11 日|版本 2108 (組建 14332.20400) |
 |2022 年 9 月 13 日|版本 2108 (組建 14332.20375) |
 |2022 年 8 月 9 日|版本 2108 (組建 14332.20358)|
 |2022 年 7 月 12 日|版本 2108 (組建 14332.20345)|
 |2022 年 6 月 14 日|版本 2108 (組建 14332.20324)|
 |2022 年 5 月 10 日|版本 2108 (組建 14332.20303)|
-|2022 年 4 月 12 日|版本 2108 (組建 14332.20281)|
 
 
 [//]: # (DO NOT REMOVE VL TABLE END)
@@ -62,6 +62,7 @@ If the version number matches the most current version, you're up to date. If no
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 4 月 12 日|版本 2108 (組建 14332.20281)|
 |2022 年 3 月 8 日|版本 2108 (組建 14332.20255)|
 |2022 年 2 月 8 日|版本 2108 (組建 14332.20238)|
 |2022 年 1 月 11 日|版本 2108 (組建 14332.20216)|
@@ -83,12 +84,12 @@ If the version number matches the most current version, you're up to date. If no
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 10 月 11 日|版本 2209 (組建 15629.20208) |
 |2022 年 9 月 26 日|版本 2209 (組建 15629.20156) |
 |2022 年 9 月 13 日|版本 2208 (組建 15601.20148) |
 |2022 年 8 月 31 日|版本 2208 (組建 15601.20088) |
 |2022 年 8 月 9 日|版本 2207 (組建 15427.20210)|
 |2022 年 8 月 3 日|版本 2207 (組建 15427.20194)|
-|2022 年 7 月 18 日|版本 2206 (組建 15330.20264)|
 
 
 [//]: # (DO NOT REMOVE RETAIL TABLE END)
@@ -102,6 +103,7 @@ If the version number matches the most current version, you're up to date. If no
 
 |**發行日期**|**版本號碼**|
 |:-----|:-----|
+|2022 年 7 月 18 日|版本 2206 (組建 15330.20264)|
 |2022 年 7 月 12 日|版本 2206 (組建 15330.20246)|
 |2022 年 7 月 6 日|版本 2206 (組建 15330.20230)|
 |2022 年 6 月 29 日|版本 2206 (組建 15330.20196)|

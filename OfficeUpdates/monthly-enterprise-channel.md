@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 4567ced8e2653b950080864153ab18b206fd7d38
-ms.sourcegitcommit: 5b2b61b61cec459202e11817d33a679c3ab57087
+ms.openlocfilehash: 63ead5fd99156e5e94f2e0b94d096df06d6397cb
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2022
-ms.locfileid: "68502027"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525820"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -22,6 +22,178 @@ ms.locfileid: "68502027"
 
 
 [//]: # (DO NOT REMOVE)
+
+## <a name="version-2208-october-11"></a>版本 2208：10 月 11 日
+*版本 2208 (組建 15601.20230)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="excel"></a>Excel
+
+- **加速公式輸入：** Excel 藉由減少記憶體使用量、更有效率地利用配置的記憶體，以及最佳化重新繪製，明顯加快在儲存格中輸入公式的速度。 這些最佳化效果在慢速記憶體或慢速 CPU 記憶體輸送量的裝置上，以及較大的儲存格範圍上更為明顯。
+
+- **保護您的 PDF：** 敏感度標籤現在可用來保護您的 PDF 免于未經授權的存取。 適用于在 Word、Excel 或 PowerPoint 中建立的檔案。<br />在[部落格文章](https://insider.office.com/en-us/blog/apply-sensitivity-labels-to-pdfs-created-with-office-apps)中查看詳細資料
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **保護您的 PDF：** 敏感度標籤現在可用來保護您的 PDF 免于未經授權的存取。 適用于在 Word、Excel 或 PowerPoint 中建立的檔案。<br />在[部落格文章](https://insider.office.com/en-us/blog/apply-sensitivity-labels-to-pdfs-created-with-office-apps)中查看詳細資料
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="visio"></a>Visio
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="word"></a>Word
+
+- **保護您的 PDF：** 敏感度標籤現在可用來保護您的 PDF 免于未經授權的存取。 適用于在 Word、Excel 或 PowerPoint 中建立的檔案。<br />在[部落格文章](https://insider.office.com/en-us/blog/apply-sensitivity-labels-to-pdfs-created-with-office-apps)中查看詳細資料
+
+- **您可能也喜歡...：** Office 建議您可能會覺得有用的檔案。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)<br />在[部落格文章](https://blog-insider.office.com/2019/07/11/recommended-documents-for-word-powerpoint-and-excel-on-windows/)中查看詳細資料
+
+### <a name="office-suite"></a>Office 套件
+
+- **預設會封鎖網際網路宏：** 為了協助改善 Office 中的安全性，我們正在變更 Office 應用程式的預設行為，以封鎖來自網際網路的檔案宏。 下列在 Windows 上執行的 Office 應用程式會受到影響：Access、Excel、PowerPoint、Visio 和 Word。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)
+
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
+<br/>
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此更新修正了在 Excel 中逐一查看 VBA 程式碼中的 DAO 記錄集時，可能會導致記憶體流失的問題。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正密碼快取函式無法與 MSQuery x64 組建搭配運作的問題。
+
+
+- 我們已修正資料區中樞紐分析表操作功能表中缺少 [顯示詳細資料] 選項的問題。
+
+
+- 在 Office 2016 和 Office 365 Visual Refresh 中，已改善工作窗格和對話方塊中彩色和白色主題中暫留和按下滑杆的可見度。<br />
+- 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。<br />
+- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+
+
+- 我們已修正編輯新建立的檔案時，商務列標籤未正確上傳的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致使用者在回復或轉寄訊息時無法載入連結影像的問題。
+
+
+- 我們已修正會導致停用服務通知的使用者看到已淘汰的 UI 顯示通知服務已停用的問題。
+
+
+- 我們已修正會導致使用者在提交意見反應或連絡支援人員時收到驗證提示的問題。
+
+
+- 我們已修正提交意見反應時導致 Outlook 意外關閉的問題。
+
+
+- 我們已修正導致使用者在開機後短暫意外關閉的問題。
+
+
+- 我們已修正導致自訂快速存取工具列檔案 (.exportedUI) 在使用簡化功能區時無法匯入的問題。
+
+
+- 我們已修正會導致使用者在出現一些個人卡片時遇到非常接近的問題。
+
+
+- 我們已修正在新應用程式行中以滑鼠右鍵按一下應用程式時，Outlook 有時會意外關閉的問題。
+
+
+- 我們已修正導致新式群組相關對話方塊嚴重中斷的問題。
+
+
+- 此變更會啟用協力廠商會議應用程式的 [每個會議線上] 選項。
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- 在 Office 2016 和 Office 365 Visual Refresh 中，已改善工作窗格和對話方塊中彩色和白色主題中暫留和按下滑杆的可見度。<br />
+- 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。<br />
+- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正無法再開啟之前正常運作的專案的問題。 在此情況下，Project 意外關閉。
+
+
+- 我們已修正訊息「此專案包含一或多個可能不安全且已停用的資料來源連結的問題。 您要啟用這些資料來源嗎？ 只有當您信任檔案的來源時，才能這麼做。」 開啟專案時可能會出現。 即使專案沒有任何作用中的貼上連結，訊息也會出現。 此外，在甘特圖類型檢視中找不到使用中的内嵌物件。
+
+
+- 我們已修正在專案中心等Project Web App頁面上，使用檢視、篩選和分組依據控制項，輕鬆存取語音控制項無法正常運作的問題。
+
+
+- 請參考此案例：
+
+    * 您已將 [內容編輯器] 網頁元件放在 [專案詳細資料] 頁面上， (PDP) 。
+    * 您正在編輯Project Web App中的專案。
+    * 編輯時，SharePoint 網頁安全性驗證逾時。
+    * 您關閉專案，然後選擇簽入專案。
+
+    在此情況下，會出現「處理」快顯通知，但永遠不會消失。 此外，專案不會存回。  此問題已修正，因此現在會出現下列預期的訊息：
+
+    此頁面的安全性驗證已逾時。在網頁瀏覽器中按一下 [上一步]，重新整理頁面，然後再操作一次。
+
+
+### <a name="word"></a>Word
+
+- 已解決具有樣式的清單在共同撰寫檔案時遺失縮排的問題。
+
+
+- 我們已修正共同撰寫時移除標頭樣式的問題。
+
+
+- 我們已修正 Outlook 無法開啟使用Outlook 網頁版傳送的訊息，且包含從 Word 複製的批註的問題。
+
+
+- 我們已修正使用者無法將資料表的資料列從版本歷程記錄中的舊版複製到目前版本的問題。
+
+
+- 在 Office 2016 和 Office 365 Visual Refresh 中，已改善工作窗格和對話方塊中彩色和白色主題中暫留和按下滑杆的可見度。<br />
+- 在已啟用 Fluent 視覺效果的Office 365中，已改善工作窗格和對話方塊中深灰色和黑色主題中暫留和按下滑杆的可見度。<br />
+- 在具有 Visual Refresh Darky Gray 主題的Office 365中，防止捲動按鈕框線出現在功能區字型選擇器下拉式清單中的問題已解決。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 使用者在應用程式開機時使用增益集命令的效能改進。
+
+
+- 我們已修正在 Outlook 中轉譯 SVG 圖形的相關問題。
+
+
+- 我們已修正與使用者介面動畫相關的不穩定問題。
+
+
+- 我們已修正使用圖形和 SmartArt 的色彩選擇器文字選取案例中的問題。
+
+
+- 我們已修正預設封鎖網際網路宏執行的問題。
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2207-october-11"></a>版本 2207：10 月 11 日
+*版本 2207 (組建 15427.20308)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
 
 ## <a name="version-2207-september-13"></a>版本 2207：9 月 13 日
 *版本 2207 (組建 15427.20284)*
@@ -2719,6 +2891,7 @@ ms.locfileid: "68502027"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|MEC|生產|Feature|16.0.15601.20230|version-2208-october-11|)
 [//]: # (|Win32|MEC|生產|Feature|16.0.15427.20284|version-2207-september-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15330.20298|version-2206-august-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.15225.20356|version-2205-july-12|)
@@ -2728,5 +2901,4 @@ ms.locfileid: "68502027"
 [//]: # (|Win32|MEC|Production|Feature|16.0.14827.20220|version-2201-march-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14729.20322|version-2112-february-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.14701.20290|version-2111-january-11|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.14527.20344|version-2110-december-17|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

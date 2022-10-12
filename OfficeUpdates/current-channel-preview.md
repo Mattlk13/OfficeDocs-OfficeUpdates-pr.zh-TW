@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 慢」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 132b07462d2b57b74de4ef9b47ef6b980ff04104
-ms.sourcegitcommit: 22b3cfff2a0d6251d2f11fe0422089b81aa96ae3
+ms.openlocfilehash: 68259e6810480c0031d5a0daddd125f3085602b6
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/04/2022
-ms.locfileid: "68364170"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525940"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Office 版本資訊目前通道 (預覽)
 
@@ -1936,6 +1936,17 @@ ms.locfileid: "68364170"
 
 ## <a name="version-2203-march-14"></a>版本 2203: 3 月 14 日
 *版本 2203 (組建 15028.20050)*
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT START)
+
+### <a name="feature-updates"></a>功能更新
+### <a name="office-suite"></a>Office 套件
+
+
+- **預設會封鎖網際網路宏：** 為了協助改善 Office 中的安全性，我們正在變更 Office 應用程式的預設行為，以封鎖來自網際網路的檔案宏。 下列在 Windows 上執行的 Office 應用程式會受到影響：Access、Excel、PowerPoint、Visio 和 Word。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)
+
+[//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
+
 
 [//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
 
@@ -4422,7 +4433,7 @@ ms.locfileid: "68364170"
 
 ### <a name="word"></a>Word
 
-- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存為其他檔案類型。
+- **另存新檔案例支援的其他檔案類型：** 除了儲存檔案之外，您還可以將檔案儲存到其他檔案類型。
 
 - **Government Customers: Send audit data about sensitivity labeling to M365 administrators:** When users apply, change, or remove sensitivity labels on their documents and emails, Office will send up audit data to the M365 audit backend for administrators to see. This is a silent functionality (no UI) for administrator benefit.
 

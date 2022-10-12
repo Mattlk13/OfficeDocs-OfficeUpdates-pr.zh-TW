@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 ms.localizationpriority: high
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月通道版本的版本資訊
-ms.openlocfilehash: 374e4cb317d239fff7a4ad85074a381bcb49fa89
-ms.sourcegitcommit: 561e4afca5088d24c5955aed5c003dbd4ef81f9c
+ms.openlocfilehash: d6adb439a3645df2233cd85e0e67355dbd23b87d
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2022
-ms.locfileid: "68218782"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525870"
 ---
 # <a name="release-notes-for-current-channel"></a>目前通道的版本資訊
 
@@ -25,6 +25,43 @@ ms.locfileid: "68218782"
 >- 我們通常會在一段時間對「目前」通道推出功能 (有時甚至推出修正程式)。  如果您現在沒有看到如下所述的項目，您可以預期它近期會推出。 [深入了解](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams 功能可能會與最新的目前通道中發行的功能不同，因為後者的發行頻率較高。
 
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+
+## <a name="version-2209-october-11"></a>版本 2209：10 月 11 日
+*版本 2209 (組建 15629.20208)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="access"></a>Access
+
+- 此更新修正了可能導致「作業系統目前未設定執行此應用程式」錯誤的問題。 嘗試從非 Microsoft 365 應用程式的應用程式) 使用 DAO (資料存取物件時。
+
+
+### <a name="excel"></a>Excel
+
+- 我們已修正某些內容在使用觸控板縮放後可能會停止運作，而無法正確顯示的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正會導致某些設定檔已設定多個 Exchange 帳戶的電子郵件卡在發件匣中的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正使用表單型驗證時，Project 無法連線到 Project Server 的問題。 在某些情況下，能夠連線的使用者，例如前一天無法連線到第二天。 刪除伺服器連線設定檔會暫時修正此問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正在批註內部使用朗讀程式時，Office 將停止回應的問題。
 
 
 
@@ -911,6 +948,12 @@ ms.locfileid: "68218782"
 
 
  - **Teams 中工作流程的訊息動作進入點：** 訊息型工作流程對於共同作業和效率來說是非常強大的。 透過訊息動作進入點，使用者可以檢視/搜尋適當的工作流程，以及觸發預先設置的訊息動作溢出區功能表工作流程。
+ 
+
+### <a name="office-suite"></a>Office 套件
+
+- **預設會封鎖網際網路宏：** 為了協助改善 Office 中的安全性，我們正在變更 Office 應用程式的預設行為，以封鎖來自網際網路的檔案宏。 下列在 Windows 上執行的 Office 應用程式會受到影響：Access、Excel、PowerPoint、Visio 和 Word。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)
+
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
@@ -3337,6 +3380,7 @@ ms.locfileid: "68218782"
 > 如果您需要關於使用 Office 的問題協助，建議您將問題張貼在 [Microsoft Answers 論壇](https://answers.microsoft.com/)或[技術社群](https://techcommunity.microsoft.com/)，或連絡[支援](https://support.microsoft.com/contactus)。
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|CC|Production| |16.0.15629.20208|version-2209-october-11|)
 [//]: # (|Win32|CC|Production| |16.0.15629.20156|version-2209-september-26|)
 [//]: # (|Win32|CC|Production| |16.0.15601.20150|version-2208-september-13|)
 [//]: # (|Win32|CC|Production| |16.0.15601.20148|version-2208-september-13|)
@@ -3346,5 +3390,4 @@ ms.locfileid: "68218782"
 [//]: # (|Win32|CC|Production| |16.0.15427.20194|version-2207-august-03|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20264|version-2206-july-18|)
 [//]: # (|Win32|CC|Production| |16.0.15330.20246|version-2206-july-12|)
-[//]: # (|Win32|CC|Production| |16.0.15330.20230|version-2206-july-06|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

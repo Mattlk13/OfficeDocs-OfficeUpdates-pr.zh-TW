@@ -9,18 +9,88 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2022 年 Microsoft 365 Apps 半年通道 (已設定目標) 版本的版本資訊
-ms.openlocfilehash: 1065b2abb0dd3bfda264437e4e5a3d90e738de7c
-ms.sourcegitcommit: 5b2b61b61cec459202e11817d33a679c3ab57087
+ms.openlocfilehash: ec716ea63160cb75e22376e09fb76f611be57ab1
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2022
-ms.locfileid: "68502037"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525620"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>半年企業通道 (預覽版) 的版本資訊
 
 這些版本資訊提供新功能和非安全性更新的相關資訊，這些功能和非安全性更新包含在 Microsoft 365 Apps 企業版、Microsoft 365 Apps 商務版，以及 Project 和 Visio 版的傳統型應用程式訂閱版本的半年企業通道 (預覽) 更新。 
 
 新增或更新的功能會在 3 月和 9 月的第二個星期二發行至半年企業通道 (預覽)。
+
+## <a name="version-2208-october-11"></a>版本 2208：10 月 11 日
+*版本 2208 (組建 15601.20230)*
+
+安全性更新列於[此處](microsoft365-apps-security-updates.md)
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT START)
+
+### <a name="resolved-issues"></a>解決的問題
+### <a name="excel"></a>Excel
+
+- 我們已修正資料區中樞紐分析表操作功能表中缺少 [顯示詳細資料] 選項的問題。
+
+
+- 我們已修正密碼快取函式無法與 MSQuery x64 組建搭配運作的問題。
+
+
+### <a name="outlook"></a>Outlook
+
+- 我們已修正導致新式群組相關對話方塊嚴重中斷的問題。
+
+
+- 我們已修正會導致使用者在出現一些個人卡片時意外遇到關閉的問題。
+
+
+- 我們已修正導致使用者在開機後短暫意外關閉的問題。
+
+
+- 我們已修正提交意見反應時導致 Outlook 意外關閉的問題。
+
+
+- 我們已修正會導致停用服務通知的使用者看到已淘汰的 UI 顯示通知服務已停用的問題。
+
+
+- 我們已修正會導致使用者在提交意見反應或連絡支援人員時收到驗證提示的問題。
+
+
+### <a name="project"></a>Project
+
+- 我們已修正在專案中心等Project Web App頁面上，使用檢視、篩選和分組依據控制項，輕鬆存取語音控制項無法正常運作的問題。
+
+
+- 請參考此案例：
+
+    * 您已將 [內容編輯器] 網頁元件放在 [專案詳細資料] 頁面上， (PDP) 。
+    * 您正在編輯Project Web App中的專案。
+    * 編輯時，SharePoint 網頁安全性驗證逾時。
+    * 您關閉專案，然後選擇簽入專案。
+
+    在此情況下，會出現「處理」快顯通知，但永遠不會消失。 此外，專案不會存回。  此問題已修正，因此現在會出現下列預期的訊息：
+
+    此頁面的安全性驗證已逾時。在網頁瀏覽器中按一下 [上一步]，重新整理頁面，然後再操作一次。
+
+
+### <a name="word"></a>Word
+
+- 已解決具有樣式的清單在共同撰寫檔案時遺失縮排的問題。
+
+
+### <a name="office-suite"></a>Office 套件
+
+- 我們已修正預設封鎖網際網路宏執行的問題。
+
+
+- 使用者在應用程式開機時使用增益集命令的效能改進。
+
+
+
+[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
 
 ## <a name="version-2208-september-13"></a>版本 2208：9 月 13 日
 *版本 2208 (組建 15601.20148)*
@@ -2776,7 +2846,7 @@ ms.locfileid: "68502037"
 
 ### <a name="word"></a>Word
 
-- 已修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
+- 修正如果文件儲存失敗，可能會導致應用程式非預期關閉的問題。
 
 
 - 修正將方程式從 Word 複製/貼上到 PowerPoint 時的問題。
@@ -3001,6 +3071,7 @@ ms.locfileid: "68502037"
 
 
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT START)
+[//]: # (|Win32|FRDC|測試人員| |16.0.15601.20230|version-2208-october-11|)
 [//]: # (|Win32|FRDC|測試人員| |16.0.15601.20148|version-2208-september-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20660|version-2202-august-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20604|version-2202-july-12|)
@@ -3010,5 +3081,4 @@ ms.locfileid: "68502037"
 [//]: # (|Win32|FRDC|測試人員| |16.0.14931.20392|version-2202-may-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20274|version-2202-april-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.14931.20132|version-2202-march-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.14326.20784|version-2108-february-08|)
 [//]: # (DO NOT MODIFY ADMIN CENTER METADATA CONTENT END)

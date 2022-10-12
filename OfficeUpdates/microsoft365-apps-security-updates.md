@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft Office 安全性更新的版本資訊
-ms.openlocfilehash: 1a0f9ab774f49c0f6ffae81f237fd2452bbd91c9
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: d8c21fbb0da9adda6ff7f6887ba9072484fdaa28
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666411"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525810"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Microsoft Office 安全性更新的版本資訊
 
@@ -24,6 +24,36 @@ ms.locfileid: "67666411"
  
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)  
+
+## <a name="october-11-2022"></a>2022 年 10 月 11 日
+目前通道：版本 2209 (組建 15629.20208)   
+每月企業通道：版本 2208 (組建 15601.20230)   
+每月企業通道：版本 2207 (組建 15427.20308)   
+Semi-Annual Enterprise Channel (Preview) ：版本 2208 (組建 15601.20230)   
+Semi-Annual企業通道：版本 2202 (組建 14931.20764)   
+Semi-Annual企業通道：版本 2108 (組建 14326.21186)   
+Windows 7 上的Microsoft 365 Apps：版本 2002 (組建 12527.22239)   
+Office 2021零售版：版本 2209 (組建 15629.20208)   
+Office 2019 零售版：版本 2209 (組建 15629.20208)   
+Office 2016 零售版：版本 2209 (組建 15629.20208) Office LTSC 2021 大量授權：版本 2108 (組建 14332.20400)   
+Office 2019 大量授權：版本 1808 (組建 10391.20029)   
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT START)
+
+
+### <a name="word"></a>Word
+
+-   [CVE-2022-41031](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-41031)
+-   [CVE-2022-38049](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-38049)
+-   [CVE-2022-38048](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-38048)
+
+### <a name="office-suite"></a>Office 套件
+
+-   [CVE-2022-38001](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2022-38001)
+
+[//]: # (DO NOT REMOVE SECURITY DETAILS CONTENT END)
+
+
 
 ## <a name="september-13-2022"></a>2022 年 9 月 13 日
 目前通道：版本 2208 (組建 15601.20148)   

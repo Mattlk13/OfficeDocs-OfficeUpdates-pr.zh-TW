@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供客戶 Windows 7 版 Microsoft 365 應用程式更新歷程記錄的版本資訊
-ms.openlocfilehash: 40f0040513d3f70de6dbbb6bf38f25196fc0dc03
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 18239754e53f6963cd7ec266faa22598212d4398
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666522"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68526010"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Windows 7 上 Microsoft 365 應用程式的更新歷程記錄 
 
  > [!NOTE]
 >
->- Windows 7 的支援服務已於 2020 年 1 月 14 日終止。[深入了解](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
+>- Windows 7 的支援服務已於 2020 年 1 月 14 日終止。 [深入了解](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support)
 >- Windows 7 不再支援 Microsoft 365 應用程式，但是在 2023 年 1 月前可持續取得安全性更新。 如需詳細資訊，請參閱 [ Windows 7 終止支援服務與 Microsoft 365 Apps](/DeployOffice/endofsupport/windows-7-support)。
 >- 如果您是在 Windows 7 上執行 Office 的家用版使用者，請參閱 [Windows 7 終止支援和 Office](https://support.microsoft.com/office/78f20fab-b57b-44d7-8368-06a8493f3cb9)。
 
 版本 2002 是最新版本的 Microsoft 365 Apps，適用於執行 Windows 7 的裝置。 版本 2002 可以在 Microsoft 365 Apps 的所有更新通道取得。
 
-半年企業通道的版本通常只能使用 14 個月。但版本 2002 除外，以符合 Windows 7 版延伸安全性更新 (ESU) 的時間。
+Versions of Semi-Annual Enterprise Channel are usually available only for 14 months. But, we're making an exception just for Version 2002 to align with how long Extended Security Updates (ESU) for Windows 7 are available.
 
 版本 2002 的擴充可用性也適用於其他更新通道，例如目前通道，但僅適用於執行 Windows 7 的裝置。
 
@@ -38,6 +38,9 @@ ms.locfileid: "67666522"
 ## <a name="update-history"></a>更新歷程記錄
 
 [//]: # (DO NOT REMOVE)
+
+**2022 年 10 月 11 日**<br/>
+版本 2002 (組建 12527.22239) <br/>
 
 **2022 年 9 月 13 日**<br/>
 版本 2002 (組建 12527.22215) <br/>

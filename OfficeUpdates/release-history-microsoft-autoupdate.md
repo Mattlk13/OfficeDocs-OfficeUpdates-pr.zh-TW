@@ -9,26 +9,47 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供 Microsoft AutoUpdate (MAU) 的版本歷程記錄
-ms.openlocfilehash: 4d24ebe19e00d4e34cd6daae006ba8e350bbd405
-ms.sourcegitcommit: 39d83a45eb25e6e912c8001ad5274dd5e23c09a0
+ms.openlocfilehash: 729073178740f67134e7bcac1c3b4e07a4012ac9
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "67666331"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525730"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Microsoft AutoUpdate (MAU) 的版本歷程記錄
  
 建議您一律更新至最新版本的 Microsoft AutoUpdate (MAU)。
 
-下表提供 Microsoft AutoUpdate 的版本歷程記錄資訊。此表格依發行日期排序，先列出最新發行日期。所有更新套件皆為 64 位元。
+The following table provides release history information for Microsoft AutoUpdate. The table is ordered by release date, with the most recent release date listed first. All update packages are 64-bit.
 
 
 > [!NOTE]
 > 
 > - 僅提供最新版的 Microsoft AutoUpdate 下載連結
-> - Microsoft AutoUpdate 會針對 Microsoft 推出的多種 Mac 產品提供更新。因此，即使您未執行 Mac 版 Office，也有可能會收到更新 Microsoft AutoUpdate 的通知。
+> - Microsoft AutoUpdate provides updates to various Mac products from Microsoft. Therefore, you might receive a notification to update Microsoft AutoUpdate even if you're not running Office for Mac.
 
 若要檢視版本資訊，請參閱[版本資訊。](release-notes-office-for-mac.md)<br/><br/>
+
+## <a name="october-2022-release"></a>2022 年 10 月版本
+
+**發行日期：** 2022 年 10 月 11 日
+
+*Microsoft AutoUpdate 4.52*
+
+**重大變更：**
+- Microsoft AutoUpdate 4.52 和更新版本至少需要 macOS 10.13 High Sierra
+
+**增強功能：**
+- 在系統重新開機期間從失敗的更新向前復原或復原的新邏輯
+- 重新組織程式碼以減少 Microsoft AutoUpdate 套件的大小
+- 改善程式碼健全性，以防止非預期的錯誤
+
+[下載 Microsoft AutoUpdate 4.52 套件](https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.52.22100900_Updater.pkg)<br/>
+<br/>
+**SHA-256 雜湊：**
+
+C55D8421F3BF30962109AD3569C2EC4EC2BF8DB28C91C74350E030065B136EE0
+<br><br>
 
 ## <a name="september-2022-release"></a>2022 年 9 月版本
 
@@ -45,8 +66,7 @@ ms.locfileid: "67666331"
 -   修正在設定 GuardAgainstAppModification 時，複製的應用程式在啟動時不正確移除的問題
 - 已修正當複製資料夾遺失時，更新小幫手意外關閉的問題
 
-[下載 Microsoft AutoUpdate 4.51 套件](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.51.22091101_Updater.pkg)<br/>
-<br/>
+
 **SHA-256 雜湊：**
 
 EA9E59EB60604AD9785CB0C81BD490DE5C7D32527F1DA7064D4F77226E2DC907
@@ -549,7 +569,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - 還原 4 月版本中所推出，關閉了自動更新的使用者，只會每週看到 Microsoft AutoUpdate UI 一次的功能。
 - 已修正更新小幫手於下載更新之後、安裝開始前未預期關閉的問題。
 - 已修正更新小幫手在拖延的擱置中使用者通知期間後未關閉的問題。
-- 修正在安裝 MAU UI 後，MAU UI 重新開啟 (或未重新開啟) 的問題。如果更新是從 MAU UI 本身啟動，或如果更新是由使用者明確啟動 (透過 Finder、終端機等)，安裝後 UI 應會開啟。
+- Fixed an issue where the MAU UI reopened (or didn't reopen) after install. The UI should open after install if the update is started from the MAU UI itself, or if an update is explicitly started by the user (via Finder, Terminal, and so on.).
 
 **SHA-256 雜湊：**
 
@@ -689,7 +709,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
  **功能更新：**
 
 - 您現在可以在 Microsoft AutoUpdate 儀表板上檢視每個主要更新中的新功能。
-- Office 2019 更新的最低作業系統需求隨著 Catalina 發行變更為 macOS 10.13。使用者會收到升級至最新 Office 更新的通知。
+- Minimum OS requirements for Office 2019 updates have changed to macOS 10.13 with the release of Catalina. Users will be notified to get upgrade to latest Office Updates.
 
 **SHA-256 雜湊：**
 
@@ -746,7 +766,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。[深入了解](/deployoffice/mac/mau-deadline)
+- MAU Update Deadline: Mac Admins can now set a deadline within MAU to enforce updates across their Mac users. [Learn more](/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **SHA-256 雜湊：**
@@ -793,7 +813,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **功能更新：**
 
 - MAU 的隱私權變更：將向使用者顯示必要的資料集合通知，做為規範的一部分。
-- MAU 更新期限：Mac 系統管理員現在可以在 MAU 內設定期限，以對其 Mac 使用者強制更新。[深入了解](/deployoffice/mac/mau-deadline)
+- MAU Update Deadline: Mac Admins can now set a deadline within MAU to enforce updates across their Mac users. [Learn more](/deployoffice/mac/mau-deadline)
 - 各種錯誤和效能修正。
 
 **SHA-256 雜湊：**
