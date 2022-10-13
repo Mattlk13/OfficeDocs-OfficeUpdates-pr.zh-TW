@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為「測試人員 - 快」對象提供新功能、修正或已知問題的最新清單
-ms.openlocfilehash: 601c608588dc7984b8383d585177c4635a9ffe60
-ms.sourcegitcommit: 93ac9920684d581ef0c62429a7e2b1b915e9527e
+ms.openlocfilehash: e8db49c8513bf210ae88a360057df1f402ddea11
+ms.sourcegitcommit: 0ad5f33f54bba50d6a9423a10ff844e701f55833
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2022
-ms.locfileid: "68498098"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68559420"
 ---
 # <a name="release-notes-for-beta-channel"></a>Beta 版通道的版本資訊
 
@@ -441,10 +441,6 @@ ms.locfileid: "68498098"
 
 - **指派工作：** 您可以使用批註中的@mentions，直接從 Word 檔內建立和指派工作，以促進共同作業並保持井然有序。 您指派工作的人員將會收到電子郵件通知，讓他們知道他們需要採取動作。 準備好試試看了嗎？ 開啟儲存在 OneDrive 或 SharePoint 上的現有檔。 反白顯示包含您要批註資訊的文字、選取 [新增批註]、撰寫批註，然後輸入 @，後面接著您要標記的小組成員名稱。 然後，按 Ctrl + Enter 張貼您的批註，然後選取 [指派給] 核取方塊，將您的批註轉換成工作。
 
-
-### <a name="office-suite"></a>Office 套件
-
-- **使用者定義許可權現在支援功能變數名稱限制：** 當您選擇為使用者定義許可權設定的敏感度標籤時，他們現在可以使用功能變數名稱來限制特定個人或該網域中所有人員的檔案存取。 例如，您可以指定「someone@example.com」或「@example.com」，而權限將會根據這些參數而受到限制。
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
 
