@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 Microsoft 365 Apps 每月企業通道版本的版本資訊
-ms.openlocfilehash: 63ead5fd99156e5e94f2e0b94d096df06d6397cb
-ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
+ms.openlocfilehash: 84e92bf7fb4446235eb6be2e9b7ac8d2baff8913
+ms.sourcegitcommit: 28a84907f1fb58060326a326923f53a85f3aeb63
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2022
-ms.locfileid: "68525820"
+ms.lasthandoff: 10/14/2022
+ms.locfileid: "68576368"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>每月企業通道的版本資訊
 
@@ -58,7 +58,7 @@ ms.locfileid: "68525820"
 
 ### <a name="office-suite"></a>Office 套件
 
-- **預設會封鎖網際網路宏：** 為了協助改善 Office 中的安全性，我們正在變更 Office 應用程式的預設行為，以封鎖來自網際網路的檔案宏。 下列在 Windows 上執行的 Office 應用程式會受到影響：Access、Excel、PowerPoint、Visio 和 Word。 [深入了解](https://support.office.com/article/97f087d8-3136-4485-8e86-c5b12a8c4176)
+- **預設會封鎖網際網路宏：** 為了協助改善 Office 中的安全性，我們正在變更 Office 應用程式的預設行為，以封鎖來自網際網路的檔案宏。 下列在 Windows 上執行的 Office 應用程式會受到影響：Access、Excel、PowerPoint、Visio 和 Word。 [深入了解](https://learn.microsoft.com/en-us/deployoffice/security/internet-macros-blocked)
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
@@ -717,6 +717,8 @@ ms.locfileid: "68525820"
 ### <a name="outlook"></a>Outlook
 
 - **撰寫郵件時節省時間：** Outlook 會顯示書寫建議，協助您快速撰寫郵件。 若要接受建議，只需使用 Tab 鍵。<br />在[部落格文章](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)中查看詳細資料
+
+- **在 Outlook 行事曆待辦事項列中顯示多個迷你月份：** 這項功能可讓您在 Outlook 行事曆待辦事項列，以水平和垂直方式顯示多個迷你月份。
 
 
 [//]: # (DO NOT REMOVE FEATUREDETAILS CONTENT END)
