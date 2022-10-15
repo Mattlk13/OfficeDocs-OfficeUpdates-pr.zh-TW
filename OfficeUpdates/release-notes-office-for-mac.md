@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: 為 IT 專業人員提供適用於 Microsoft 365 Apps 訂閱者的 Mac 版 Office 版本資訊
-ms.openlocfilehash: 63bf0d36ba311dad97162b458ab897d996447fdf
-ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
+ms.openlocfilehash: ec536d61055c51278944a68893d94b8afec2362b
+ms.sourcegitcommit: 659bf12d2b519589e415bec4bceb5bede7efe0cb
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2022
-ms.locfileid: "68525740"
+ms.lasthandoff: 10/13/2022
+ms.locfileid: "68570851"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Mac 版 Office 的版本資訊
 
@@ -39,9 +39,11 @@ Updates are available from Microsoft AutoUpdate (MAU). To use Microsoft AutoUpda
 
 
 
-
-
-
+## <a name="october-12-2022"></a>2022 年 10 月 12 日
+*版本 16.66.1 (組建22101101)*
+### <a name="feature-updates"></a>功能更新
+- 此更新包含品質和效能改善。
+<br/>
 ## <a name="october-11-2022"></a>2022 年 10 月 11 日
 *版本 16.66 (組建22100900)*
 
