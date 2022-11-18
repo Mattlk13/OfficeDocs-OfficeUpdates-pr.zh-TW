@@ -1,25 +1,24 @@
 ---
 title: Office 搶先版通道的更新歷程記錄
-ms.author: nidos
-author: nidos
-manager: nidos
+ms.author: anankani
+author: anankani
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 提供測試人員 Windows Desktop 每月通道「測試人員 - 快」版本的更新歷程記錄
-ms.openlocfilehash: 9dbdf6772c9f802337a7a12b252e9b071acc9199
-ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
+ms.openlocfilehash: fdb278bd5eca424df278363e31059c7acd04200a
+ms.sourcegitcommit: f9c45851fba8fcb237c55a3b7baf88e64407a7de
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/12/2022
-ms.locfileid: "68525950"
+ms.lasthandoff: 01/26/2022
+ms.locfileid: "62222665"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Office 搶先版通道的更新歷程記錄
 
-Hello, Insiders! If you're wondering whether you have the latest update installed or are looking for a list of recent Insider build, you're in the right place.
-Click [here](https://insider.office.com/) for more information on the Insiders Program.
+測試人員，您好！如果您想知道是否已經安裝最新的更新，或是您正在尋找最近測試人員組建的清單，那麼您找對地方了！按一下[這裡](https://insider.office.com/)以獲取有關測試人員計畫的詳細資訊。
 
 > [!NOTE]
 >
@@ -28,120 +27,12 @@ Click [here](https://insider.office.com/) for more information on the Insiders P
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Office 搶先版通道版本和組建
 
-If you're enrolled in the Insider level you get frequent updates with new features and improvements. The following list shows a history of recent Beta Channel versions and builds, with **the most recently released build listed first**. New builds contain all the updates contained in previous builds.
+如果您已經註冊測試人員層級，您會經常取得包含有新功能和增強功能的更新。以下清單顯示最近搶先版通道和組建的歷程記錄，**最近發行的組建會優先列出**。新組建會包含有先前組建內含的所有更新。
 
 若要尋找版本資訊，請參閱 [Office for Windows desktop 的測試人員版本資訊](./beta-channel.md)。
 
 
 [//]: # (DO NOT REMOVE)
-
-**2022 年 10 月 11 日**<br/>
-版本 2211 (組建 15806.20000) <br/>
-
-**2022 年 10 月 4 日**<br/>
-版本 2211 (組建 15729.20002) <br/>
-
-**2022 年 9 月 28 日**<br/>
-版本 2210 (組建 15726.20000) <br/>
-
-**2022 年 9 月 23 日**<br/>
-版本 2210 (組建 15715.20014) <br/>
-
-**2022 年 9 月 13 日**<br/>
-版本 2210 (組建 15709.20000) <br/>
-
-**2022 年 9 月 6 日**<br/>
-版本 2209 (組建 15629.20058) <br/>
-
-**2022 年 8 月 23 日**<br/>
-版本 2209 (組建 15619.20000) <br/>
-
-**2022 年 8 月 16 日**<br/>
-版本 2209 (組建 15615.20000) <br/>
-
-**2022 年 8 月 9 日**<br/>
-版本 2209 (組建 15606.20002)<br/>
-
-**2022 年 8 月 5 日**<br/>
-版本 2208 (組建 15601.20028)<br/>
-
-**2022 年 7 月 26 日**<br/>
-版本 2208 (組建 15522.20000)<br/>
-
-**2022 年 7 月 22 日**<br/>
-版本 2208 (組建 15519.20000)<br/>
-
-**2022 年 7 月 19 日**<br/>
-版本 2208 (組建 15513.20004)<br/>
-
-**2022 年 7 月 13 日**<br/>
-版本 2208 (組建 15511.20000)<br/>
-
-**2022 年 7 月 06 日**<br/>
-版本 2208 (組建 15505.20000)<br/>
-
-**2022 年 7 月 01 日**<br/>
-版本 2208 (組建 15429.20000)<br/>
-
-**2022 年 6 月 29 日**<br/>
-版本 2207 (組建 15427.20000)<br/>
-
-**2022 年 6 月 14 日**<br/>
-版本 2207 (組建 15407.20000)<br/>
-
-**2022 年 6 月 07 日**<br/>
-版本 2207 (組建 15402.20002)<br/>
-
-**2022 年 6 月 1 日**<br/>
-版本 2206 (組建 15330.20004)<br/>
-
-**2022 年 5 月 24 日**<br/>
-版本 2206 (組建 15321.20000)<br/>
-
-**2022 年 5 月 17 日**<br/>
-版本 2206 (組建 15313.20000)<br/>
-
-**2022 年 5 月 13 日**<br/>
-版本 2206 (組建 15310.20004)<br/>
-
-**2022 年 5 月 3 日**<br/>
-版本 2206 (組建 15227.20000)<br/>
-
-**2022 年 4 月 27 日**<br/>
-版本 2205 (組建 15225.20000)<br/>
-
-**2022 年 4 月 19 日**<br/>
-版本 2205 (組建 15211.20000)<br/>
-
-**2022 年 4 月 12 日**<br/>
-版本 2205 (組建 15209.20000)<br/>
-
-**2022 年 4 月 5 日**<br/>
-版本 2205 (組建 15130.20000)<br/>
-
-**2022 年 3 月 30 日**<br/>
-版本 2204 (組建 15128.20000)<br/>
-
-**2022 年 3 月 22 日**<br/>
-版本 2204 (組建 15121.20000)<br/>
-
-**2022 年 3 月 15 日**<br/>
-版本 2204 (組建 15109.20000)<br/>
-
-**2022 年 3 月 07 日**<br/>
-版本 2203 (組建 15028.20022)<br/>
-
-**2022 年 2 月 22 日**<br/>
-版本 2203 (組建 15018.20008)<br/>
-
-**2022 年 2 月 15 日**<br/>
-版本 2203 (組建 15012.20000)<br/>
-
-**2022 年 2 月 8 日**<br/>
-版本 2203 (組建 15003.20004)<br/>
-
-**2022 年 2 月 2 日**<br/>
-版本 2202 (組建 14931.20010)<br/>
 
 **2022 年 1 月 25 日**<br/>
 版本 2202 (組建 14922.20000)<br/>
