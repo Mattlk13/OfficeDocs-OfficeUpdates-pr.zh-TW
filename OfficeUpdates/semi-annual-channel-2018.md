@@ -1,8 +1,8 @@
 ---
 title: 2018 年半年通道版本的版本資訊
-ms.author: andrewmo
+ms.author: nidos
 author: andymosten
-manager: andrewmo
+manager: nidos
 ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: 為 IT 專業人員提供 2018 年 Office 365 專業增強版半年通道版本的版本資訊
-ms.openlocfilehash: d7b404c7485bb526ae9cd153a5ebe9e012a6502a
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: c980fe5e9b3f0806dea4b2999a8b6227af09beb5
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439218"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620229"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>2018 年半年通道版本的版本資訊
 
@@ -27,7 +27,7 @@ ms.locfileid: "32439218"
 > - 在 2018 年 1 月以前，半年通道的舊名為順延通道。
 
 > [!NOTE]
-> - [安全性更新](office365-proplus-security-updates.md)將開始各別列出每個 Office 365 專業增強版更新通道的安全性更新資訊。
+> - [安全性更新](microsoft365-apps-security-updates.md)將開始各別列出每個 Office 365 專業增強版更新通道的安全性更新資訊。
 
 ## <a name="version-1803-december-11"></a>版本 1803：12 月 11 日
 *版本 1803 (組建 9126.2336)*
@@ -554,16 +554,16 @@ ms.locfileid: "32439218"
 -   [Advisory 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003)：Microsoft Office 深度防禦更新
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
--   修正問題，問題是當使用 System Center Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行中且重新啟動裝置之後套用。
+-   修正當使用 Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行時並重新啟動裝置之後套用的問題。
 -   修正此問題：開啟應用程式時，使用者可能會看到以安全模式啟動的訊息，然後應用程式無法開啟。
--   當啟用 Office COM 物件，讓 Office 365 用戶端更新由 System Center Configuration Manager 管理，[立即更新] 選項會在 [檔案] \> [帳戶] \> [更新選項] 中隱藏。
+-   當啟用 Office COM 物件，讓 Office 365 用戶端更新由 Configuration Manager 管理，[立即更新] 選項會在 [檔案] \> [帳戶] \> [更新選項] 中隱藏。
 -   修正此問題：當使用者嘗試使用 [啟動 Office] 對話方塊來啟動 Office 時，Office 應用程式會當機。
 -   修正在動態 DPI 環境下的 Office 增益集中縮放與調整大小的問題。
 -   修正此問題：即使目前已安裝 Office 365 ProPlus，Office 設定服務提供者 (CSP) 的 CurrentStatus 節點仍會傳回空字串。
 -   修正此問題：因為同一部電腦上所有的 Office 應用程式版本會共用 .box 檔案，而導致 .box 檔案格式變更；該問題會影響同一部電腦上所安裝舊版 Office 的功能。
 -   修正會導致更新安裝在特定情況下耗費長時間的錯誤。 
 -   修正此問題：SVG 測試失敗
--   修正問題，問題是當使用 System Center Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行中且重新啟動裝置之後套用。
+-   修正當使用 Configuration Manager 將更新部署至執行 Office 應用程式的用戶端時，更新未在 Office 應用程式執行時並重新啟動裝置之後套用的問題。
 
 
 ## <a name="version-1708-july-10"></a>版本 1708：7 月 10 日
@@ -822,9 +822,9 @@ ms.locfileid: "32439218"
 -   **新帳戶設定：** 使用新的精靈設定新帳戶，所需的手動步驟更少。
 -   **附加連結的對話方塊：** 在功能區使用「附加檔案」附加連結時，您可以選擇要將其新增為連結或作為附件傳送。如果您不希望每次都看到此對話方塊，請移至 [檔案] \> [選項] \> [一般]，並指定想要在 [附件選項] 下附加連結的方式。
 -   **內部部署附件的支援：** 內部部署 SharePoint 伺服器上的檔案會在 [訊息] \> [附加檔案] 下顯示為最近使用的檔案，而內部部署商務用 OneDrive 和 SharePoint 團隊網站會顯示在 [附加檔案] \> [瀏覽網頁位置]，此外本機檔案可以上傳至內部部署商務用 OneDrive 網站。
--   **群組的業務分類︰** 租用戶系統管理員定義的業務分類層級 (如機密)，可在建立或編輯群組時指派，且該分類會顯示在群組標題中。
+-   **群組的業務分類︰**  租用戶系統管理員定義的業務分類層級 (如機密)，可在建立或編輯群組時指派，且該分類會顯示在群組標題中。
 -   **來賓存取 Office 365 群組︰** 透過授予存取組織對話、檔案、行事曆邀請和群組筆記本的存取權限，與組織外部的人員協同合作。 [詳細資訊](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **可採取動作的訊息︰** 開發人員可以建立訊息，讓使用者可以從 Outlook 輕鬆採取簡單或快速的動作，而不需要切換至外部網站或個別的應用程式。[詳細資訊](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
+-   **可採取動作的訊息︰** 開發人員可以建立訊息，讓使用者可以從 Outlook 輕鬆採取簡單或快速的動作，而不需要切換至外部網站或個別的應用程式。[詳細資訊](https://devblogs.microsoft.com/microsoft365dev/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build/)
 
 ### <a name="outlook-security-updates"></a>Outlook：安全性更新
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571)：Microsoft Office Outlook 安全性功能略過的弱點
@@ -894,7 +894,7 @@ ms.locfileid: "32439218"
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696)：Microsoft 圖形元件遠端程式碼執行
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
--   新增對話方塊，說明特定連接埠被封鎖或 IP 未列入白名單時，使用者為何無法加入會議。
+-   新增對話方塊，說明特定連接埠遭封鎖或 IP 不被允許時，使用者為何無法加入會議。
 -   修正此問題：當您按一下 IM 交談分頁時，常設聊天室中的未讀訊息會標示成已讀。
 -   修正此問題：傳入的 IM 快顯通知會發生幾秒延遲。
 -   修正此問題：停用 Exchange 同步處理時，AD 連絡人會顯示為電話號碼，而不是連絡人名稱。

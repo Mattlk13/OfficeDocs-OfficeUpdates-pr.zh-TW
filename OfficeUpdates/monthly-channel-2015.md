@@ -1,36 +1,36 @@
 ---
-title: 在 2015年中的每月通道版本的版本資訊
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+title: 2015 年每月通道版本的版本資訊
+ms.author: dacoulte
+author: reids
+manager: reids
 ms.date: 12/11/2015
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: 提供 IT 專業人員針對每月通道的版本資訊版本的 Office 365 專業增強版 2015
-ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: 為 IT 專業人員提供 2015 年 Office 365 專業增強版每月通道版本的版本資訊
+ms.openlocfilehash: 4fae2d161587113a4ac490d44347f6cad275b92e
+ms.sourcegitcommit: df85627542781d474072ad0c02d78e195404a162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438807"
+ms.lasthandoff: 05/20/2022
+ms.locfileid: "65620428"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>在 2015年中的每月通道版本的版本資訊
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>2015 年每月通道版本的版本資訊
 
-這些版本資訊會提供新功能、 安全性更新和非安全性更新，在 2015年中的 Office 365 專業增強版每月通道更新所含的資訊。
+這些版本資訊提供 2015 年每月通道更新中包含的新功能、安全性更新和非安全性更新Office 365 專業增強版相關資訊。
  
 > [!NOTE]
 > - 下面也會提供 Visio Pro for Office 365 和 Project Online 桌面用戶端新功能、安全性更新和非安全性更新的相關資訊。
 > - 此資訊也適用於 Office 365 商務版，這是隨附一些 Office 365 方案 (例如，商務進階版) 的 Office 版本。
-> - 每月通道的舊名為 2017 年 9 月之前的目前通道。
+> - 每月通道在 2017 年 9 月之前命名為目前通道。
 
-## <a name="version-1511-december-11"></a>版本 1511年: 12 月 11 日
+## <a name="version-1511-december-11"></a>版本 1511：12 月 11 日
 *版本 1511 (組建 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel：功能更新
--   **BI 範本：** 善用之商業智慧 (BI) 功能的 Excel 的三個新範本：[行事曆深入資訊](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、[我的現金流](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI 範本：** 利用商業智慧 (BI) 功能的三個新範本Excel：行事曆Insights、[股票分析](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d)、我的現金流
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：對於由數字格式化為完整日期的儲存格，在拖曳其填滿控點時會造成 Excel 毀損。
@@ -55,7 +55,7 @@ ms.locfileid: "32438807"
 -   **[轉化] 轉場：** 建立投影片之間的緊密轉換，並將影片放到簡報中以便更有效地傳達概念和資訊。 [詳細資訊](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint 設計工具：** 這項新服務可讓您將想法轉化成內容，並自動產生各種設計，使您可以從中選擇讓投影片看起來更好。 [詳細資訊](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    這項服務需要網際網路連線。 若要停用此功能，[使用最新的群組原則系統管理範本檔案](https://www.microsoft.com/download/details.aspx?id=49030)並啟用 PowerPoint 設計工具選項設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
+    這項服務需要網際網路連線。 若要停用此功能，[請使用最新的群組原則系統管理範本檔案](https://www.microsoft.com/download/details.aspx?id=49030)，並啟用 [PowerPoint 設計工具選項] 設定。 您可以在下列路徑找到此原則設定：使用者設定\\系統管理範本\\Microsoft Office 2016\\工具 | 選項 | 一般 | 服務選項…\\PowerPoint 設計工具。
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint：非安全性更新
 -   修正此問題：在簡報者檢視畫面中，具有動畫的 SmartArt 不會以預期順序在投影片放映檢視中顯示。
@@ -69,7 +69,7 @@ ms.locfileid: "32438807"
 
 ### <a name="office-suite-feature-updates"></a>Office 套件：功能更新
 -   **傳送選項**：從 Word 或 PowerPoint 中的 [共用] 窗格，以附件或以 PDF 格式的方式傳送文件。
--   **插入圖片 API**：若要在 Word、Excel 或 PowerPoint 中插入影像， [請使用通用 office.js 程式庫中的](https://msdn.microsoft.com/library/office/fp142145.aspx)document.setSelectedDataAsync 方法。 Word JavaScript API 提供名為 Insertinlinepicturefrombase64 [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)、 [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)、[段落](https://msdn.microsoft.com/library/office/mt598682.aspx)和 Range 物件上設定文字間圖片的主應用程式特定方法。
+-   **插入圖片 API**：若要在 Word、Excel 或 PowerPoint 中插入影像， [請使用通用 office.js 程式庫中的](/javascript/api/office/office.document)document.setSelectedDataAsync 方法。 Word JavaScript API 提供稱為 insertInlinePictureFromBase64 () 的主機特定方法，可在 [Body](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview)、 [ContentControl](/javascript/api/word/word.contentcontrol)、 [Paragraph](/javascript/api/word/word.paragraph)和 Range 物件上設定內嵌圖片。
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：當執行 [開啟] 或 [另存新檔] 時，所顯示的修改日期資訊會遭到截斷。
@@ -82,7 +82,7 @@ ms.locfileid: "32438807"
 -   修正此問題：若 Windows 7 OEM 電腦的稽核模式中已執行 Office 預先安裝套件，在此電腦上升級至 Office 2016 時，會造成啟用期間發生錯誤 0x80070005。
 
 
-## <a name="version-1509-december-8"></a>版本 1509年: 12 月 8 日
+## <a name="version-1509-december-8"></a>版本 1509：12 月 8 日
 *版本 1509 (組建 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -92,14 +92,14 @@ ms.locfileid: "32438807"
 -   修正此問題：已建立橫跨多個段落的書籤，但收到電子郵件時，使用 [移至] 時僅會選取書籤的第一個段落。
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559)：解決遠端程式碼執行問題的 Microsoft 圖形元件安全性更新 (3104503)
+-   Microsoft 資訊安全佈告欄 [MS15-128](/security-updates/SecurityBulletins/2015/ms15-128)：解決遠端程式碼執行問題的 Microsoft 圖形元件安全性更新 (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正此問題：應用程式共用的工作階段失敗，尤其是在流量爆發的期間。
 -   修正此問題：在安裝 Office 2016 後，若第一個使用的應用程式為商務用 Skype 時會導致當機。
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3116111)
+-   Microsoft 資訊安全佈告欄 [MS15-131](/security-updates/SecurityBulletins/2015/ms15-131)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3116111)
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：在使用某些字型時，不分行連字號會顯示為正方形。
@@ -111,14 +111,14 @@ ms.locfileid: "32438807"
 
 
 
-## <a name="version-1509-november-10"></a>版本 1509年: 11 月 10 日
+## <a name="version-1509-november-10"></a>版本 1509：11 月 10 日
 *版本 1509 (組建 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel：非安全性更新
 -   修正此問題：錄製查詢建立的巨集會導致編譯錯誤。
@@ -131,23 +131,23 @@ ms.locfileid: "32438807"
 -   更新 [檔案 \> 帳戶 \> 關於 Excel] 中 Dotlesscss 的 URL。
 
 ### <a name="onenote-security-updates"></a>OneNote：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="outlook-non-security-updates"></a>Outlook：非安全性更新
 -   修正此問題：將文字貼到 Outlook 時，如果貼上的文字數量大於視窗的高度，就不會顯示全文。
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="project-security-updates"></a>Project：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="skype-for-business-security-updates"></a>商務用 Skype：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
--   Microsoft 資訊安全佈告欄 [MS15-123](https://technet.microsoft.com/library/security/ms15-123)：解決資訊洩漏問題的商務用 Skype 和 Microsoft Lync 安全性更新 (3105872)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-123](/security-updates/SecurityBulletins/2015/ms15-123)：解決資訊洩漏問題的商務用 Skype 和 Microsoft Lync 安全性更新 (3105872)
 
 ### <a name="skype-for-business-non-security-updates"></a>商務用 Skype：非安全性更新
 -   修正此問題：有兩個輸入麥克風的裝置音訊有雜音。
@@ -157,10 +157,10 @@ ms.locfileid: "32438807"
 -   修正通知的問題，即使用者同時遇到網路傳送和接收問題時看到的通知。
 
 ### <a name="visio-security-updates"></a>Visio：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="word-non-security-updates"></a>Word：非安全性更新
 -   修正此問題：當文件中有註腳設定為「每一頁重新編號」，並在背景中列印文件時，顯示在 Word 中和列印成品上的註腳編號不同。
@@ -169,7 +169,7 @@ ms.locfileid: "32438807"
 -   修正格式問題：將資料表放入 Outlook 中的 HTML 電子郵件，並重新調整視窗大小時，格式問題導致資料表無法正確呈現。
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-116](https://technet.microsoft.com/library/security/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
+-   Microsoft 資訊安全佈告欄 [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3104540)
 
 ### <a name="office-suite-non-security-updates"></a>Office 套件：非安全性更新
 -   修正此問題：當使用者嘗試從 SharePoint Online 開啟檔案時，會重複提示使用者登入。
@@ -180,7 +180,7 @@ ms.locfileid: "32438807"
 
 
 
-## <a name="version-1509-october-21"></a>版本 1509年： 年 10 月 21
+## <a name="version-1509-october-21"></a>版本 1509：10 月 21 日
 *版本 1509 (組建 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -223,7 +223,7 @@ ms.locfileid: "32438807"
 
 
 
-## <a name="version-1509-october-5"></a>版本 1509年： 年 10 月 5 日
+## <a name="version-1509-october-5"></a>版本 1509：10 月 5 日
 *版本 1509 (組建 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote：非安全性更新
@@ -248,21 +248,21 @@ ms.locfileid: "32438807"
 
 
 
-## <a name="version-1509-september-22"></a>版本 1509年: 9 月 22
+## <a name="version-1509-september-22"></a>版本 1509：9 月 22 日
 *版本 1509 (組建 4229.1024)*
 
 這是此通道的最初發行版本。這是第一個提供 Office 2016 應用程式的發行版本。
 
 ### <a name="excel-security-updates"></a>Excel：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-099](https://technet.microsoft.com/library/security/ms15-099)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3089664)
--   Microsoft 資訊安全佈告欄 [MS15-110](https://technet.microsoft.com/library/security/ms15-110)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3096440)
+-   Microsoft 資訊安全佈告欄 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3089664)
+-   Microsoft 資訊安全佈告欄 [MS15-110](/security-updates/SecurityBulletins/2015/ms15-110)：解決遠端程式碼執行問題的 Microsoft Office 安全性更新 (3096440)
 
 ### <a name="visio-security-updates"></a>Visio：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)
+-   Microsoft 資訊安全佈告欄 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)
 
 ### <a name="word-security-updates"></a>Word：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)
+-   Microsoft 資訊安全佈告欄 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)
 
 ### <a name="office-suite-security-updates"></a>Office 套件：安全性更新
--   Microsoft 資訊安全佈告欄 [MS15-081](https://technet.microsoft.com/library/security/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)
--   Microsoft 資訊安全佈告欄 [MS15-099](https://technet.microsoft.com/library/security/ms15-099)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3089664)
+-   Microsoft 資訊安全佈告欄 [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3080790)
+-   Microsoft 資訊安全佈告欄 [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099)：Microsoft Office 的弱點可能會允許遠端程式碼執行 (3089664)

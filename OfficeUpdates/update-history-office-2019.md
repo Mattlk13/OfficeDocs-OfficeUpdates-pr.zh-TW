@@ -2,53 +2,103 @@
 title: Office 2016 C2R 和 Office 2019 的更新歷程記錄
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
-ms.date: 1/15/2020
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: 為 IT 專業人員提供使用隨選即用 (C2R) 的 Office 2016 和 2019 永久版本的更新歷程記錄
-ms.openlocfilehash: f06fabf6b50544b1d0a8776767da3a1843312277
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
-ms.translationtype: HT
+ms.openlocfilehash: b1d2c75d57d3765afc0747f097215102a66f044a
+ms.sourcegitcommit: 88a3e983436c7d90f1727d4bf3f20470cb6dafa7
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122302"
+ms.lasthandoff: 10/12/2022
+ms.locfileid: "68525990"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 的更新歷程記錄
 
-Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限 C2R) 的安全性和品質更新。這些更新大約每個月發佈一次，通常在每個月的第二個星期二。
+Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
 
-如果您想要確認所使用的是最新版本，請檢查 Office 版本號碼，並視需要手動更新 Office。若要檢查 Office 版本，請執行下列步驟：
+If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
 
   1.    開啟任何 Office 應用程式，例如 Word 或 Excel。
-  2.    選擇 [檔案] > [帳戶]****。
-  3.    在 [產品資訊]**** 下，記下 [關於]**** 區段下的版本號碼。
+  2.    選擇 **[檔案] > [帳戶]**。
+  3.    在 **[產品資訊]** 下，記下 **[關於]** 區段下的版本號碼。
 
-如果該版本號碼符合最新版本，表示您所使用的是最新版本。如果不符，則可以手動更新以取得最新版的 Office。若要更新 Office，[請遵循這裡的步驟](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5)。
+If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-下表提供 Office 2019 大量授權版本，以及 Office 2016 C2R 和 Office 2019 零售版的更新歷程記錄，最新發行日期的更新會列於最前面。表格中包含發行的版本及組建編號，並會列出內含的安全性更新及安全性更新的詳細資訊連結。
+下表提供大量 Office 2019 授權版的更新歷程記錄，以及優先列出最新發行日期的 Office 2016 C2R 和 Office 2019 零售版。
 
 新的版本會包含先前版本所包含的所有更新。
+
+
+ > [!NOTE]
+> - 自 2020年8月11日起，Office 2016 和 2019 的安全性更新（CVE 文章）會列在 [[安全性更新]](./microsoft365-apps-security-updates.md) 頁面上，而不列在此頁面。 
+> - [固定生命週期原則](/lifecycle/policies/fixed)支援 Office 2016 和 2019。 僅支援以下列出的最新批量許可和零售版本。
+
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Office 2019 大量授權版本
 下列資訊適用於大量授權版的 Office 2019，例如透過大量授權合約購買的 Office 專業增強版 2019。
 
-|**發行日期**|**版本號碼**|**詳細資訊**|
-|:-----|:-----|:-----|
-|2020 年 1 月 14 日   |版本 1808 (組建 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0652) <br/>  |
-|2019 年 12 月 10 日   |版本 1808 (組建 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1464) <br/> |
-|2019 年 11 月 12 日   |版本 1808 (組建 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1449) <br/>  |
-|2019 年 10 月 8 日   |版本 1808 (組建 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1331) <br/> |
-|2019 年 9 月 10 日   |版本 1808 (組建 10350.20019)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1297) <br/>  |
-|2019 年 8 月 13 日   |版本 1808 (組建 10349.20017)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1205) <br/>  |
+[//]: # (DO NOT REMOVE VL TABLE START)
 
 
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2022 年 10 月 11 日|版本 1808 (組建 10391.20029) |
+|2022 年 9 月 13 日|版本 1808 (組建 10390.20024) |
+|2022 年 8 月 9 日|版本 1808 (組建 10389.20033)|
+|2022 年 7 月 12 日|版本 1808 (組建 10388.20027)|
+|2022 年 6 月 14 日|版本 1808 (組建 10387.20023)|
+|2022 年 5 月 10 日|版本 1808 (組建 10386.20017)|
 
 
+[//]: # (DO NOT REMOVE VL TABLE END)
+
+<details>
+<summary>較舊的版本</summary>
+ 
+
+[//]: # (DO NOT REMOVE VL OLD TABLE START)
+
+
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2022 年 4 月 12 日|版本 1808 (組建 10385.20027)|
+|2022 年 3 月 8 日|版本 1808 (組建 10384.20023)|
+|2022 年 2 月 8 日|版本 1808 (組建 10383.20027)|
+|2022 年 1 月 11 日|版本 1808 (組建 10382.20034)|
+|2021 年 12 月 20 日|版本 1808 (組建 10382.20010)|
+|2021 年 12 月 14 日|版本 1808 (組建 10381.20020)|
+|2021 年 11 月 9 日|版本 1808 (組建 10380.20037)|
+|2021 年 10 月 12 日|版本 1808 (組建 10379.20043)|
+|2021 年 9 月 14 日|版本 1808 (組建 10378.20029)|
+|2021 年 8 月 10 日|版本 1808 (組建 10377.20023)|
+|2021 年 7 月 13 日|版本 1808 (組建 10376.20033)|
+|2021 年 6 月 8 日|版本 1808 (組建 10375.20036)|
+|2021 年 5 月 11 日|版本 1808 (組建 10374.20040)|
+|2021 年 4 月 13 日|版本 1808 (組建 10373.20050)|
+|2021 年 3 月 9 日|版本 1808 (組建 10372.20060)|
+|2021 年 2 月 9 日|版本 1808 (組建 10371.20060)|
+|2021 年 1 月 12 日|版本 1808 (組建 10370.20052)|
+|2020 年 12 月 8 日|版本 1808 (組建 10369.20032) |
+|2020 年 11 月 10 日|版本 1808 (組建 10368.20035)|
+|2020 年 10 月 13 日|版本 1808 (組建 10367.20048)|
+|2020 年 9 月 8 日|版本 1808 (組建 10366.20016)|
+|2020 年 8 月 11 日|版本 1808 (組建 10364.20059)|
+|2020 年 7 月 14 日   |版本 1808 (組建 10363.20015)  |
+|2020 年 6 月 9 日   |版本 1808 (組建 10361.20002)  |
+|2020 年 5 月 12 日   |版本 1808 (組建 10359.20023)  |
+|2020 年 4 月 14 日   |版本 1808 (組建 10358.20061)  |
+|2020 年 3 月 10 日   |版本 1808 (組建 10357.20081)  |
+|2020 年 2 月 11 日   |版本 1808 (組建 10356.20006)  |
+
+
+[//]: # (DO NOT REMOVE VL OLD TABLE END)
+
+</details>
 
 
 <br/>
@@ -56,20 +106,126 @@ Microsoft 發佈了 Office 2016 隨選即用 (C2R) 版本和 Office 2019 (僅限
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Office 2016 C2R 和 Office 2019 零售版
 下列資訊適用於 Office 2016 C2R 和 Office 2019 零售版，這兩個版本共用相同的發行日期和版本號碼。
 
-|**發行日期**|**版本號碼**|**詳細資訊**|
-|:-----|:-----|:-----|
-|2020 年 1 月 14 日   |版本 1912 (組建 12325.20298)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2020-0652) <br/>  |
-|2020 年 1 月 8 日   |版本 1912 (組建 12325.20288)  |各種錯誤和效能修正。 <br/>  |
-|2019 年 12 月 10 日   |版本 1911 (組建 12228.20364)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1464) <br/> |
-|2019 年 11 月 22 日   |版本 1910 (組建 12130.20410)  |各種錯誤和效能修正。<br/>  |
-|2019 年 11 月 18 日   |版本 1910 (組建 12130.20390)  |各種錯誤和效能修正。<br/>  |
-|2019 年 11 月 12 日   |版本 1910 (組建 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1449) <br/>  |
-|2019 年 10 月 8 日   |版本 1909 (組建 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1331) <br/> |
-|2019 年 9 月 10 日   |版本 1908 (組建 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1297) <br/>  |
-|2019 年 8 月 13 日   |版本 1907 (組建 11901.20218)  |[CVE-2019-1155](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1155) <br/> [CVE-2019-1199](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1199) <br/> [CVE-2019-1200](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1200) <br/> [CVE-2019-1201](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1201) <br/> [CVE-2019-1204](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1204) <br/> [CVE-2019-1205](https://portal.msrc.microsoft.com/zh-TW/security-guidance/advisory/CVE-2019-1205) <br/>  |
+[//]: # (DO NOT REMOVE RETAIL TABLE START)
 
 
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2022 年 10 月 11 日|版本 2209 (組建 15629.20208) |
+|2022 年 9 月 26 日|版本 2209 (組建 15629.20156) |
+|2022 年 9 月 13 日|版本 2208 (組建 15601.20148) |
+|2022 年 8 月 31 日|版本 2208 (組建 15601.20088) |
+|2022 年 8 月 9 日|版本 2207 (組建 15427.20210)|
+|2022 年 8 月 3 日|版本 2207 (組建 15427.20194)|
 
 
+[//]: # (DO NOT REMOVE RETAIL TABLE END)
+
+<details>
+<summary>較舊的版本</summary>
+ 
+
+[//]: # (DO NOT REMOVE RETAIL OLD TABLE START)
 
 
+|**發行日期**|**版本號碼**|
+|:-----|:-----|
+|2022 年 7 月 18 日|版本 2206 (組建 15330.20264)|
+|2022 年 7 月 12 日|版本 2206 (組建 15330.20246)|
+|2022 年 7 月 6 日|版本 2206 (組建 15330.20230)|
+|2022 年 6 月 29 日|版本 2206 (組建 15330.20196)|
+|2022 年 6 月 14 日|版本 2205 (組建 15225.20288)|
+|2022 年 5 月 24 日|版本 2205 (組建 15225.20204)|
+|2022 年 5 月 17 日|版本 2204 (組建 15128.20248)|
+|2022 年 5 月 10 日|版本 2204 (組建 15128.20224)|
+|2022 年 4 月 26 日|版本 2204 (組建 15128.20178)|
+|2022 年 4 月 20 日|版本 2203 (組建 15028.20228)|
+|2022 年 4 月 12 日|版本 2203 (組建 15028.20204)|
+|2022 年 3 月 30 日|版本 2203 (組建 15028.20160)|
+|2022 年 3 月 8 日|版本 2202 (組建 14931.20132)|
+|2022 年 2 月 28 日|版本 2202 (組建 14931.20120)|
+|2022 年 2 月 16 日|版本 2201 (組建 14827.20198)|
+|2022 年 2 月 8 日|版本 2201 (組建 14827.20192)|
+|2022 年 1 月 26 日|版本 2201 (組建 14827.20158)|
+|2022 年 1 月 12 日|版本 2112 (組建 14729.20260)|
+|2022 年 1 月 11 日|版本 2112 (組建 14729.20248)|
+|2022 年 1 月 4 日|版本 2112 (組建 14729.20194)|
+|2021 年 12 月 16 日|版本 2111 (組建 14701.20262)|
+|2021 年 12 月 14 日|版本 2111 (組建 14701.20248)|
+|2021 年 12 月 3 日|版本 2111 (組建 14701.20226)|
+|2021 年 12 月 1 日|版本 2110 (組建 14527.20312)|
+|2021 年 11 月 9 日|版本 2110 (組建 14527.20276)|
+|2021 年 10 月 28 日|版本 2110 (組建 14527.20234)|
+|2021 年 10 月 25 日|版本 2110 (組建 14527.20226)|
+|2021 年 10 月 14 日|版本 2109 (組建 14430.20306)|
+|2021 年 10 月 12 日|版本 2109 (組建 14430.20298)|
+|2021 年 10 月 6 日|版本 2109 (組建 14430.20276)<br/>版本 2109 (組建 14430.20270)|
+|2021 年 9 月 28 日|版本 2109 (組建 14430.20234)|
+|2021 年 9 月 14 日|版本 2108 (組建 14326.20404)|
+|2021 年 9 月 7 日|版本 2108 (組建 14326.20348)|
+|2021 年 8 月 25 日|版本 2108 (組建 14326.20238)|
+|2021 年 8 月 10 日|版本 2107 (組建 14228.20250)|
+|2021 年 8 月 3 日|版本 2107 (組建 14228.20226)|
+|2021 年 7 月 26 日|版本 2107 (組建 14228.20204)|
+|2021 年 7 月 20 日|版本 2106 (組建 14131.20332)|
+|2021 年 7 月 13 日|版本 2106 (組建 14131.20320)|
+|2021 年 6 月 29 日|版本 2106 (組建 14131.20278)|
+|2021 年 6 月 18 日|版本 2105 (組建 14026.20308)|
+|2021 年 6 月 8 日|版本 2105 (組建 14026.20270)|
+|2021 年 5 月 24 日|版本 2105 (組建 14026.20246)|
+|2021 年 5 月 18 日|版本 2104 (組建 13929.20386)|
+|2021 年 5 月 11 日|版本 2104 (組建 13929.20372)|
+|2021 年 4 月 29 日|版本 2104 (組建 13929.20296)|
+|2021 年 4 月 23 日|版本 2103 (組建 13901.20462)|
+|2021 年 4 月 13 日|版本 2103 (組建 13901.20400)|
+|2021 年 4 月 2 日|版本 2103 (組建 13901.20336)|
+|2021 年 3 月 30 日|版本 2103 (組建 13901.20312)|
+|2021 年 3 月 18 日|版本 2102 (組建 13801.20360)|
+|2021 年 3 月 9 日|版本 2102 (組建 13801.20294)|
+|2021 年 3 月 1 日|版本 2102 (組建 13801.20266)|
+|2021 年 2 月 16 日|版本 2101 (組建 13628.20448)|
+|2021 年 2 月 9 日|版本 2101 (組建 13628.20380)|
+|2021 年 1 月 26 日|版本 2101 (組建 13628.20274)|
+|2021 年 1 月 21 日|版本 2012 (組建 13530.20440)|
+|2021 年 1 月 12 日|版本 2012 (組建 13530.20376)|
+|2021 年 1 月 5 日|版本 2012 (組建 13530.20316)|
+|2020 年 12 月 21 日|版本 2011 (組建 13426.20404)|
+|2020 年 12 月 8 日|版本 2011 (組建 13426.20332) |
+|2020 年 12 月 2 日|版本 2011 (組建 13426.20308)|
+|2020 年 11 月 30 日|版本 2011 (組建 13426.20294)|
+|2020 年 11 月 23 日|版本 2011 (組建 13426.20274)|
+|2020 年 11 月 17 日|版本 2010 (組建 13328.20408)|
+|2020 年 11 月 10 日|版本 2010 (組建 13328.20356)|
+|2020 年 10 月 27 日|版本 2010 (組建 13328.20292)|
+|2020 年 10 月 21 日|版本 2009 (組建 13231.20418)|
+|2020 年 10 月 13 日|版本 2009 (組建 13231.20390)|
+|2020 年 10 月 8 日|版本 2009 (組建 13231.20368)|
+|2020 年 9 月 28 日|版本 2009 (組建 13231.20262)|
+|2020 年 9 月 22 日|版本 2008 (組建 13127.20508)|
+|2020 年 9 月 9 日|版本 2008 (組建 13127.20408)|
+|2020 年 8 月 31 日|版本 2008 (組建 13127.20296)|
+|2020 年 8 月 25 日|版本 2007 (組建 13029.20460)|
+|2020 年 8 月 11 日|版本 2007 (組建 13029.20344)|
+|2020 年 7 月 30 日|版本 2007 (組建 13029.20308)  |
+|2020 年 7 月 28 日|版本 2006 (組建 13001.20498)  |
+|2020 年 7 月 14 日|版本 2006 (組建13001.20384)  |
+|2020 年 6 月 30 日|版本 2006 (組建 13001.20266)  |
+|2020 年 6 月 24 日|版本 2005 (組建 12827.20470)  |
+|2020 年 6 月 9 日|版本 2005 (組建 12827.20336)  |
+|2020 年 6 月 2 日|版本 2005 (組建 12827.20268)  |
+|2020 年 5 月 21 日|版本 2004 (組建 12730.20352)  |
+|2020 年 5 月 12 日|版本 2004 (組建 12730.20270)  |
+|2020 年 5 月 4 日|版本 2004 (組建 12730.20250)  |
+|2020 年 4 月 29 日|版本 2004 (組建 12730.20236)  |
+|2020 年 4 月 15 日|版本 2003 (組建 12624.20466)  |
+|2020 年 4 月 14 日|版本 2003 (組建 12624.20442)  |
+|2020 年 3 月 31 日|版本 2003 (組建 12624.20382)  |
+|2020 年 3 月 25 日|版本 2003 (組建 12624.20320)  |
+|2020 年 3 月 10 日|版本 2002 (組建 12527.20278)  |
+|2020 年 3 月 1 日   |版本 2002 (組建 12527.20242)  |
+
+
+[//]: # (DO NOT REMOVE RETAIL OLD TABLE END)
+
+
+</details>

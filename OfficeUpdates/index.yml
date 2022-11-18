@@ -1,0 +1,91 @@
+### YamlMime:Landing
+title: Office 更新
+summary: 取得有關 Office 產品 (包括 Microsoft 365 Apps、Mac 版 Office、Office Server 產品和 Office 永久版本) 的功能和更新資訊。
+metadata:
+  title: Office 更新
+  description: 取得有關 Office 產品 (包括 Microsoft 365 Apps、Mac 版 Office、Office Server 產品和 Office 永久版本) 的功能和更新資訊。
+  ms.service: o365-proplus-itpro
+  manager: andrewmo
+  ms.audience: ITPro
+  localization_priority: Normal
+  ms.collection: RelNotes_Landing
+  author: TimDavenport
+  ms.author: andrewmo
+  ms.date: 06/18/2020
+  ms.openlocfilehash: 9d7c81de82e55fe500c7685c14da940469ed5264
+  ms.sourcegitcommit: 7f597dfa5666605d413946525bb9c102345f69f0
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 01/24/2022
+  ms.locfileid: "62182081"
+landingContent:
+- title: Microsoft 365 Apps
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 版本資訊
+      url: release-notes-microsoft365-apps.md
+    - text: 更新歷史記錄 (根據日期)
+      url: update-history-microsoft365-apps-by-date.md
+    - text: 更新大小
+      url: download-sizes-microsoft365-apps-updates.md
+    - text: 安全性更新
+      url: microsoft365-apps-security-updates.md
+- title: Mac 版 Office
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 版本資訊(Microsoft 365, 2019, 2021)
+      url: release-notes-office-for-mac.md
+    - text: 更新歷程記錄 (Microsoft 365, 2019, 2021)
+      url: update-history-office-for-mac.md
+    - text: MAU 版本
+      url: release-history-microsoft-autoupdate.md
+- title: Office Server 產品
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Exchange Server 更新
+      url: /Exchange/new-features/build-numbers-and-release-dates
+    - text: Project Server 更新
+      url: project-server-updates.md
+    - text: SharePoint Server 更新
+      url: sharepoint-updates.md
+    - text: 商務用 Skype Server 更新
+      url: /SkypeForBusiness/sfb-server-updates
+- title: Office (永久使用權)
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Office LTSC 2021 和 Office 2021 (C2R)
+      url: update-history-office-2021.md
+    - text: Office 2016 和 2019 (C2R)
+      url: update-history-office-2019.md
+    - text: Office 2013 和 2016 更新 (MSI)
+      url: office-updates-msi.md
+    - text: Office 非安全性更新 (MSI)
+      url: office-MSI-non-security-updates.md
+- title: 其他 Office 資源
+  linkLists:
+  - linkListType: whats-new
+    links:
+    - text: Microsoft 365 的新功能
+      url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
+    - text: Microsoft 365 藍圖
+      url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
+    - text: 隨時掌握 Microsoft 365 變更
+      url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
+    - text: Office 部落格
+      url: https://www.microsoft.com/microsoft-365/blog/office/
+- title: Microsoft 資源
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Windows 10 版本資訊
+      url: /windows/release-health/release-information
+    - text: Microsoft 生命週期原則
+      url: https://support.microsoft.com/lifecycle
+    - text: Microsoft 安全性更新指南
+      url: https://portal.msrc.microsoft.com/
+    - text: Microsoft 技術社群
+      url: https://techcommunity.microsoft.com/
